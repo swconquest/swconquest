@@ -1,0 +1,12 @@
+skl_inventory_management|Cargo Management
+skl_inventory_management_desc|Increases ship cargo capacity by +6 per skill level. (Leader skill)
+skl_spotting|Radar
+skl_spotting_desc|Ship radar range is increased by 10%% per skill level. (Party skill)
+skl_pathfinding|Navigation
+skl_pathfinding_desc|Ship map speed is increased by 3%% per skill level. (Party skill)
+skl_horse_archery|Mounted Accuracy
+skl_horse_archery_desc|Reduces damage and accuracy penalties for ranged weapons and throwing when mounted. (Personal skill)
+skl_riding|Riding
+skl_riding_desc|Enables you to ride speeder bikes of higher difficulty levels and increases your riding speed and manuever. (Personal skill)
+skl_power_draw|Force Knowledge
+skl_power_draw_desc|Lets character use more powerful force powers. Each point to this skill (up to four plus force knowledge requirement) increases force power damage by 14%%. (Personal skill)

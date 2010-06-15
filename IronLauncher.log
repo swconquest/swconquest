@@ -1,0 +1,18 @@
+////////////////////////////////////////////////// /  /   /    /
+//  M & B   I R O N   L A U N C H E R   LOG FILE
+////////////////////////////////////////////////// / /  /   /
+  Launched on 25/04/2010 at 11:04:39 PM
+
+[11:04:39 PM] System Language ID is 10
+[11:04:39 PM] The game Launched is Mount&Blade Original
+[11:04:39 PM] Iron Launcher "Auth to start the Workaround" variable is 1
+[11:04:39 PM] Current module name is "Star Wars Conquest Stable"
+[11:04:39 PM] The path to the \Modules folder is "C:\Program Files\Mount&Blade\Modules"
+[11:04:39 PM] Found & processing the Font_data.xml Data file
+[11:04:39 PM] Patching registry at HKEY_CURRENT_USER\Software\MountAndBladeKeys: last_module to Star Wars Conquest Stable
+[11:04:39 PM] Starting the game at mount&blade.exe [Mount&Blade Original] 
+     >Waiting for M&B close...
+[11:06:46 PM] Mount&Blade Original has closed, Undoing all the changes...
+[11:06:46 PM] Mount&Blade Original Rolling back Data files [Font_data.xml]...
+[11:06:46 PM] Mount&Blade Original Rolling back Root files (shaders and videos) [taleworlds_intro.bik]...
+[11:06:46 PM] Mount&Blade Original Rolling back Root files (shaders and videos) [paradox.bik]...

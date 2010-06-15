@@ -1,0 +1,11 @@
+ gray_stone 0 stone_a 4.000000 none
+ brown_stone 0 patch_rock 4.400000 none
+ turf 1 grassy_ground 4.300000 ground_earth_under_grass
+ steppe 3 ground_steppe 3.000000 ground_earth_under_steppe
+ snow 1 snow 5.200000 none
+ earth 3 ground_earth 4.500000 none
+ desert 3 ground_desert 5.000000 none
+ forest 1 ground_forest 4.200000 none
+ pebbles 1 pebbles 4.100000 none
+ village 1 ground_village 7.000000 none
+ path 3 ground_path 6.000000 none

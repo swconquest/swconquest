@@ -1,0 +1,36 @@
+﻿ui_archers_control|Marksmen!
+ui_cavalry_control|Speeder Bikes!
+ui_horse|Speeder Bike
+ui_notification_riding_skill_not_enough|Your riding skill is not high enough to mount this speeder bike.
+ui_cant_reload_this_weapon_on_horseback|Can't reload this weapon while riding.
+ui_no_more_bolts|No more ammo...
+ui_you_are_not_carrying_any_bolts|You are not carrying any ammo.
+ui_no_more_arrows|No more ammo...
+ui_you_are_not_carrying_any_arrows|You are not carrying any ammo.
+ui_delivered_number_damage_to_horse|Delivered %d damage to speeder bike.
+ui_horse_charged_for_number_damage|Speeder bike caused %d damage.
+ui_horse_received_number_damage|Speeder bike received %d damage.
+ui_horse_fell_dead|Speeder bike is totaled...
+ui_horse_crippled|Speeder bike is damaged...
+ui_order_dismount_toggle|Order Dismount/Mount speeder bikes (Toggle)
+ui_mount_horses_e_|%s, Mount speeder bikes!
+ui_cannot_be_used_on_horseback|Cannot be used while riding
+ui_value_denars|%d credits
+ui_archers|Marksmen
+ui_cavalry|Speeder Bikes
+ui_version_value|Version: 0.9.0.2
+ui_hint|Quote
+ui_archery|Force Power
+ui_explanation_archery|Covers usage of Force Powers.
+ui_crossbows|Rifles
+ui_explanation_crossbow|Covers usage of blaster rifles.
+ui_firearms|Pistols
+ui_explanation_firearms|Covers usage of blaster pistols.
+ui_start_tutorial|Enter the Training Room
+ui_start_a_new_game|Begin a Galactic Conquest
+ui_restore_a_saved_game|Continue a Galactic Conquest
+ui_custom_battle|Play a Quick Battle
+ui_options|Options
+ui_credits|Credits
+ui_exit_to_windows|Exit to Windows
+
