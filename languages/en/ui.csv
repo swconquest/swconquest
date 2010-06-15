@@ -18,7 +18,7 @@ ui_cannot_be_used_on_horseback|Cannot be used while riding
 ui_value_denars|%d credits
 ui_archers|Marksmen
 ui_cavalry|Speeder Bikes
-ui_version_value|Version: 0.9.0.2
+ui_version_value|Version: 0.9.0.3
 ui_hint|Quote
 ui_archery|Force Power
 ui_explanation_archery|Covers usage of Force Powers.
@@ -33,4 +33,14 @@ ui_custom_battle|Play a Quick Battle
 ui_options|Options
 ui_credits|Credits
 ui_exit_to_windows|Exit to Windows
+
+
+ui_start_tutorial|Training Room
+ui_start_a_new_game|Galactic Conquest
+ui_restore_a_saved_game|Resume Game
+ui_custom_battle|Quick Battle
+ui_options|Options
+ui_credits|Credits
+ui_exit_to_windows|Exit Game
+ui_version_value|Versión: 0.9.0.3
 

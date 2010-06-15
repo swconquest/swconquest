@@ -605,7 +605,7 @@ ui_cannot_be_used_on_horseback|No se puede usar en marcha
 ui_value_denars|%d créditos
 ui_archers|¡Tiradores!
 ui_cavalry|Speeders
-ui_version_value|Versión: 0.8.9
+
 ui_hint|Cita Célebre
 ui_archery|Poder de la Fuerza
 ui_explanation_archery|Cubre el uso de los Poderes de la Fuerza.
@@ -623,4 +623,4 @@ ui_custom_battle|Batalla Rápida
 ui_options|Opciones
 ui_credits|Créditos
 ui_exit_to_windows|Salir del Juego
-
+ui_version_value|Versión: 0.9.0.3
