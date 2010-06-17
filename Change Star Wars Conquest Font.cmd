@@ -16,7 +16,7 @@ cls
 @copy /Y .\Textures\Font_SWC.dds ..\..\Textures\Font.dds > nul
 
 @ren ..\..\Data\Font_data.xml Font_data_original_mb_[modified_by_swc_script].xml > nul
-@copy /Y .\Data\Font_data.xml ..\..\Data\Font_data.xml > nul
+@copy /Y .\Module Data\Font_data.xml ..\..\Data\Font_data.xml > nul
 
 echo. 
 echo. 

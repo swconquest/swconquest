@@ -1,0 +1,6 @@
+
+NOTE:  using IronLauncher.exe is OPTIONAL, you can still start this mod from the M&B launcher.
+
+If you choose to use IronLauncher.exe then this mod will use a different font then the native game.
+
+Also, you can run "Change Star Wars Conquest Font.cmd" as an alternative to IronLauncher.exe as well.
