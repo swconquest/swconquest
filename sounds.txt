@@ -1,5 +1,5 @@
 soundsfile version 2
-551
+552
  int_select.mp3 257
  tutorial_1.ogg 1793
  tutorial_2.ogg 1793
@@ -348,6 +348,7 @@ soundsfile version 2
  amb_cantina_large_lp.mp3 2435
  blaster04_long.mp3 2176
  bigblaster01.mp3 2176
+ bigblaster15_E11_variant.mp3 2176
  wep_e11_blaster.mp3 2176
  bigblaster19_DL44_DH17_short.mp3 2176
  bigblaster22_EE3_bowcaster_variant.mp3 2176
@@ -551,7 +552,7 @@ soundsfile version 2
  saber_swing4.mp3 1696
  saber_swing5.mp3 1696
  saber_swing6.mp3 1696
-261
+262
 snd_click 257 1 0 
 snd_tutorial_1 1793 1 1 
 snd_tutorial_2 1793 1 2 
@@ -728,88 +729,89 @@ snd_town_ambiance 899 1 344
 snd_cantina_ambiance 2435 1 345 
 snd_laser_fire 2176 1 346 
 snd_bigblaster01 2176 1 347 
-snd_bigblaster15 2176 1 348 
-snd_bigblaster19 2176 1 349 
-snd_bigblaster22 2176 1 350 
-snd_ionblaster 2176 1 351 
-snd_sonicblaster 2176 1 352 
-snd_stunblaster 2176 1 353 
-snd_littleblaster 2176 1 354 
-snd_flame_fire 1664 1 355 
-snd_concussion_fire 1664 1 356 
-snd_rocket_fire 2176 1 357 
-snd_throw_lightsaber 2176 1 358 
-snd_force_push 2176 1 359 
-snd_force_lightning 2176 2 360 361 
+snd_bigblaster15_variant 2176 1 348 
+snd_bigblaster15 2176 1 349 
+snd_bigblaster19 2176 1 350 
+snd_bigblaster22 2176 1 351 
+snd_ionblaster 2176 1 352 
+snd_sonicblaster 2176 1 353 
+snd_stunblaster 2176 1 354 
+snd_littleblaster 2176 1 355 
+snd_flame_fire 1664 1 356 
+snd_concussion_fire 1664 1 357 
+snd_rocket_fire 2176 1 358 
+snd_throw_lightsaber 2176 1 359 
+snd_force_push 2176 1 360 
+snd_force_lightning 2176 2 361 362 
 snd_ship_noise 272 0 
-snd_bacta_injector 2176 1 362 
-snd_bacta_heal 2144 1 363 
-snd_speeder_noise_idle 2448 1 364 
-snd_speeder_noise_begin 2448 1 365 
-snd_speeder_noise_moving 2400 1 366 
-snd_speeder_noise_loop 2451 1 367 
-snd_gonk_noise 2128 4 368 369 370 371 
-snd_viper_cannon_impact 1536 1 372 
+snd_bacta_injector 2176 1 363 
+snd_bacta_heal 2144 1 364 
+snd_speeder_noise_idle 2448 1 365 
+snd_speeder_noise_begin 2448 1 366 
+snd_speeder_noise_moving 2400 1 367 
+snd_speeder_noise_loop 2451 1 368 
+snd_gonk_noise 2128 4 369 370 371 372 
+snd_viper_cannon_impact 1536 1 373 
 snd_viper_cannon 2560 1 347 
-snd_cylon_cannon 2560 1 373 
-snd_viper_cannon_far 256 1 374 
-snd_cylon_cannon_far 512 1 373 
-snd_viper_engine_hum 2560 1 375 
-snd_viper_engine_loop 2048 1 376 
-snd_fighter_explode 2560 3 377 378 379 
-snd_cannon_hit 512 1 380 
-snd_subspace 1537 2 381 382 
-snd_loud_explosion 2560 3 377 378 379 
-snd_jawa_die 2688 3 383 384 385 
-snd_jawa_grunt 2144 6 386 387 388 389 390 391 
-snd_jawa_grunt_long 2128 7 392 393 394 395 389 390 391 
-snd_jawa_hit 2672 5 396 397 398 399 400 
-snd_jawa_victory 2640 6 401 402 403 389 390 391 
-snd_jawa_yell 2656 6 393 394 395 389 390 391 
-snd_droid_die 2688 3 404 405 406 
-snd_droid_grunt 2144 3 407 408 409 
-snd_droid_grunt_long 2128 3 407 408 409 
-snd_droid_hit 2672 3 404 405 406 
-snd_droid_victory 2640 3 407 408 409 
-snd_droid_yell 2656 3 407 408 409 
-snd_tusken_die 2688 4 410 411 412 413 
-snd_tusken_grunt 2144 5 414 415 416 417 418 
-snd_tusken_grunt_long 2128 6 419 420 421 422 423 424 
-snd_tusken_hit 2672 4 425 426 427 420 
-snd_tusken_victory 2640 4 428 429 421 423 
-snd_tusken_yell 2656 5 430 431 432 433 434 
-snd_trandoshan_die 2688 6 435 436 437 438 439 440 
-snd_trandoshan_grunt 2144 5 441 442 443 444 445 
-snd_trandoshan_grunt_long 2128 5 446 447 448 449 450 
-snd_trandoshan_hit 2672 5 451 452 453 454 455 
-snd_trandoshan_victory 2640 8 456 457 458 459 460 461 462 463 
-snd_trandoshan_yell 2656 5 464 465 466 459 460 
-snd_wookiee_die 2688 4 467 468 469 470 
-snd_wookiee_grunt 2144 5 471 472 473 474 475 
-snd_wookiee_grunt_long 2128 4 476 471 472 473 
-snd_wookiee_hit 2672 6 477 478 479 480 474 475 
-snd_wookiee_victory 2640 4 481 482 483 484 
-snd_wookiee_yell 2656 5 481 482 483 484 476 
-snd_gamorrean_die 2688 4 485 486 487 488 
-snd_gamorrean_grunt 2144 4 489 490 491 492 
-snd_gamorrean_grunt_long 2128 4 489 490 491 492 
-snd_gamorrean_hit 2672 6 493 494 495 496 497 498 
-snd_gamorrean_victory 2640 5 499 492 489 490 491 
-snd_gamorrean_yell 2656 5 492 499 489 490 491 
-snd_rodian_die 2688 6 500 501 502 503 504 505 
-snd_rodian_grunt 2144 6 506 507 508 509 510 511 
-snd_rodian_grunt_long 2128 5 512 513 514 515 511 
-snd_rodian_hit 2672 7 516 517 518 519 506 507 508 
-snd_rodian_victory 2640 6 520 521 522 523 524 525 
-snd_rodian_yell 2656 6 526 527 528 523 524 525 
-snd_geonosian_die 2688 1 529 
-snd_geonosian_grunt 2144 4 530 531 532 533 
-snd_geonosian_grunt_long 2128 4 530 531 532 533 
-snd_geonosian_hit 2672 4 530 531 532 533 
-snd_geonosian_victory 2640 4 530 531 532 533 
-snd_geonosian_yell 2656 4 530 531 532 533 
-snd_sullustan_victory 2640 4 534 535 536 537 
-snd_sullustan_yell 2656 4 538 539 540 541 
-snd_twilek_female_victory 2640 4 542 543 544 544 
-snd_twilek_female_yell 2656 3 543 544 544 
-snd_lightsaber_swing 1696 6 545 546 547 548 549 550 
+snd_cylon_cannon 2560 1 374 
+snd_viper_cannon_far 256 1 375 
+snd_cylon_cannon_far 512 1 374 
+snd_viper_engine_hum 2560 1 376 
+snd_viper_engine_loop 2048 1 377 
+snd_fighter_explode 2560 3 378 379 380 
+snd_cannon_hit 512 1 381 
+snd_subspace 1537 2 382 383 
+snd_loud_explosion 2560 3 378 379 380 
+snd_jawa_die 2688 3 384 385 386 
+snd_jawa_grunt 2144 6 387 388 389 390 391 392 
+snd_jawa_grunt_long 2128 7 393 394 395 396 390 391 392 
+snd_jawa_hit 2672 5 397 398 399 400 401 
+snd_jawa_victory 2640 6 402 403 404 390 391 392 
+snd_jawa_yell 2656 6 394 395 396 390 391 392 
+snd_droid_die 2688 3 405 406 407 
+snd_droid_grunt 2144 3 408 409 410 
+snd_droid_grunt_long 2128 3 408 409 410 
+snd_droid_hit 2672 3 405 406 407 
+snd_droid_victory 2640 3 408 409 410 
+snd_droid_yell 2656 3 408 409 410 
+snd_tusken_die 2688 4 411 412 413 414 
+snd_tusken_grunt 2144 5 415 416 417 418 419 
+snd_tusken_grunt_long 2128 6 420 421 422 423 424 425 
+snd_tusken_hit 2672 4 426 427 428 421 
+snd_tusken_victory 2640 4 429 430 422 424 
+snd_tusken_yell 2656 5 431 432 433 434 435 
+snd_trandoshan_die 2688 6 436 437 438 439 440 441 
+snd_trandoshan_grunt 2144 5 442 443 444 445 446 
+snd_trandoshan_grunt_long 2128 5 447 448 449 450 451 
+snd_trandoshan_hit 2672 5 452 453 454 455 456 
+snd_trandoshan_victory 2640 8 457 458 459 460 461 462 463 464 
+snd_trandoshan_yell 2656 5 465 466 467 460 461 
+snd_wookiee_die 2688 4 468 469 470 471 
+snd_wookiee_grunt 2144 5 472 473 474 475 476 
+snd_wookiee_grunt_long 2128 4 477 472 473 474 
+snd_wookiee_hit 2672 6 478 479 480 481 475 476 
+snd_wookiee_victory 2640 4 482 483 484 485 
+snd_wookiee_yell 2656 5 482 483 484 485 477 
+snd_gamorrean_die 2688 4 486 487 488 489 
+snd_gamorrean_grunt 2144 4 490 491 492 493 
+snd_gamorrean_grunt_long 2128 4 490 491 492 493 
+snd_gamorrean_hit 2672 6 494 495 496 497 498 499 
+snd_gamorrean_victory 2640 5 500 493 490 491 492 
+snd_gamorrean_yell 2656 5 493 500 490 491 492 
+snd_rodian_die 2688 6 501 502 503 504 505 506 
+snd_rodian_grunt 2144 6 507 508 509 510 511 512 
+snd_rodian_grunt_long 2128 5 513 514 515 516 512 
+snd_rodian_hit 2672 7 517 518 519 520 507 508 509 
+snd_rodian_victory 2640 6 521 522 523 524 525 526 
+snd_rodian_yell 2656 6 527 528 529 524 525 526 
+snd_geonosian_die 2688 1 530 
+snd_geonosian_grunt 2144 4 531 532 533 534 
+snd_geonosian_grunt_long 2128 4 531 532 533 534 
+snd_geonosian_hit 2672 4 531 532 533 534 
+snd_geonosian_victory 2640 4 531 532 533 534 
+snd_geonosian_yell 2656 4 531 532 533 534 
+snd_sullustan_victory 2640 4 535 536 537 538 
+snd_sullustan_yell 2656 4 539 540 541 542 
+snd_twilek_female_victory 2640 4 543 544 545 545 
+snd_twilek_female_yell 2656 3 544 545 545 
+snd_lightsaber_swing 1696 6 546 547 548 549 550 551 

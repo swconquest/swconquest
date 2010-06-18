@@ -3,7 +3,7 @@
 # CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
 
 
-menu_start_game_1|Hace mucho tiempo, en una galaxia muy, muy lejana...^^Bienvenido, a Star Wars: Conquest, un mod para Mount&Blade. Antes de empezar a  jugar deber crear un personaje. Elige tu raza:
+menu_start_game_1|Hace mucho tiempo, en una galaxia muy, muy lejana...^^Bienvenido, a Star Wars: Conquest, un mod para Mount&Blade. Antes de empezar a jugar debes crear un personaje. Elige tu raza:
 mno_start_male|Hombre Humano
 mno_start_female|Mujer Humana
 mno_start_twilek|Hombre Twilek
@@ -95,16 +95,16 @@ menu_party_size_report|{s1}
 mno_continue|Continuar...
 menu_faction_relations_report|{s1}
 mno_continue|Continuar...
-menu_camp|Son las {s1} en el dia {reg0} de tu aventura.^^{s9}^^Qué quieres hacer?
+menu_camp|Son las {s1} en el dia {reg0} de tu aventura.^^{s9}^^ ¿Qué quieres hacer?
 mno_camp_action|Tomar una acción.
 mno_camp_own_kingdom|Opciones de gobierno de Estado.
 mno_camp_manage_inventory|Administrar inventorio.
-mno_camp_wait_here|Espeara aquí por un tiempo.
+mno_camp_wait_here|Espear aquí por un tiempo.
 mno_configuration_menu|Menú de configuración de SWC.
 mno_cheat_menu|Menú de Modding/Trucos (for development use).
 mno_resume_travelling|Volver al viaje.
 menu_own_kingdom|Escoger una accion:
-mno_recruit_lords|Teclutar a un nuevo comandante. Tu estado cuenta ahora con {reg1} líderes.
+mno_recruit_lords|Reclutar a un nuevo comandante. Tu estado cuenta ahora con {reg1} líderes.
 mno_give_territory|Administrar tus territorios.
 mno_change_culture|Cambiar la cultura de tu estado.
 mno_change_kingdom_name|Cambiar el nombre de tu estado.
@@ -245,9 +245,9 @@ mno_pay_both_2|Pagar primero del banco y después en metálico.
 mno_no_pay|No pagar. Bajará la moral de tus tropas.
 menu_cattle_herd|Encuentras una rebano de nerfs.
 mno_cattle_drive_away|Guiar al rebano de nerfs.
-mno_cattle_stop|Parar al rebano.
+mno_cattle_stop|Parar al rebaño.
 mno_cattle_kill|Sacrificar a algunos de los animales.
-mno_leave|Leave.
+mno_leave|Dejar.
 menu_cattle_herd_kill|Cuantos animales quieres sacrificar?
 mno_cattle_kill_1|Uno.
 mno_cattle_kill_2|Dos.
@@ -527,7 +527,7 @@ menu_village_loot_continue|Quieres continuar saqueando este lugar?
 mno_disembark_yes|Sí.
 mno_disembark_no|No.
 menu_close|Nada.
-menu_center_tax|recibes las resntas e impuestos de todo tu territorio, lo que asciende a {reg1} créditos.
+menu_center_tax|recibes los impuestos de todo tu territorio, que asciende a {reg1} créditos.
 mno_continue|Continuar...
 menu_town|{s10}{s11}{s12}{s13}
 mno_castle_castle|Ir al recibidor principal.

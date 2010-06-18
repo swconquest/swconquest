@@ -48,7 +48,7 @@ dlga_manhunter_talk_b:manhunter_talk_b1 196615 44  0 Yes,_they_went_this_way_abo
 dlga_manhunter_talk_b1:close_window 131079 45  0 I_knew_it!_Come_on,_lads,_lets_go_get_these_bastards!_Thanks_a_lot,_friend.  6  1 2133 2 144115188075855902 1 
 dlga_manhunter_talk_b:manhunter_talk_b2 196615 44  0 No,_haven't_seen_any_outlaws_lately.  46  0 
 dlga_manhunter_talk_b2:close_window 131079 46  0 Bah._They're_holed_up_in_this_sector_like_rats,_but_we'll_smoke_them_out_yet._Sooner_or_later.  6  1 2133 2 144115188075855902 1 
-dlga_start:looters_1 393222 0  1 31 2 144115188075856060 2 Warning:_This_line_should_never_be_displayed.  47  6 2320 2 11 1585267068834415495 2320 2 12 1585267068834415496 2320 2 13 1585267068834415497 2136 3 1224979098644774912 11 14 2321 2 4 1224979098644774912 600 1 1152921504606847188 
+dlga_start:looters_1 393222 0  1 31 2 144115188075856060 2 Warning:_This_line_should_never_be_displayed.  47  6 2320 2 11 1585267068834415495 2320 2 12 1585267068834415496 2320 2 13 1585267068834415497 2136 3 1224979098644774912 11 14 2321 2 4 1224979098644774912 600 1 1152921504606847189 
 dlga_looters_1:looters_2 131078 47  0 {s4}  48  0 
 dlga_looters_2:close_window 196614 48  2 2171 2 72057594037927937 360287970189639680 2147483678 2 72057594037927937 4 I'm_not_afraid_of_you_lot._Fight_me_if_you_dare!  6  1 1302 0 
 dlga_looters_2:close_window.1 196614 48  2 2171 2 72057594037927937 360287970189639680 30 2 72057594037927937 4 You'll_have_nothing_of_mine_but_a_blaster_bolt_through_the_eyes,_scum.  6  1 1302 0 
@@ -1899,7 +1899,7 @@ dlga_hall_guard_arrest_2:close_window 69631 972  0 Ah,_never_mind_my_high_spirit
 dlga_hall_guard_arrest_2:close_window.1 69631 972  0 Forget_it._I_will_find_another_way_to_deal_with_this.  6  0 
 dlga_enemy_defeated:close_window 4095 3  0 Arggh!_I_hate_this.  6  0 
 dlga_party_relieved:close_window 4095 4  0 Thank_you_for_helping_us_against_those_bastards.  6  0 
-dlga_start:battle_reason_stated 4095 0  4 31 2 144115188075856060 2 2202 1 72057594037927941 1609 2 72057594037927943 72057594037927941 31 2 72057594037927943 576460752303423498 Aargh!_Skaterkst_ootman!  973  1 600 1 1152921504606847200 
+dlga_start:battle_reason_stated 4095 0  4 31 2 144115188075856060 2 2202 1 72057594037927941 1609 2 72057594037927943 72057594037927941 31 2 72057594037927943 576460752303423498 Aargh!_Skaterkst_ootman!  973  1 600 1 1152921504606847201 
 dlga_member_chat:regular_member_talk 4095 13  0 Yes?  974  0 
 dlga_regular_member_talk:view_regular_char_requested 69631 974  0 Tell_me_about_yourself.  975  0 
 dlga_regular_member_talk:regular_member_blackjack_1 69631 974  0 Do_you_want_to_play_Pazaak?  976  0 
@@ -1913,7 +1913,7 @@ dlga_regular_member_blackjack_2:member_chat 69631 977  0 Never_mind.  13  0
 dlga_view_regular_char_requested:do_regular_member_view_char 4095 975  0 Aye_{sir/madam}._Let_me_tell_you_all_there_is_to_know_about_me.  980  1 2046 0 
 dlga_do_regular_member_view_char:regular_member_talk 4095 980  0 Anything_else?  974  0 
 dlga_regular_member_talk:close_window 69631 974  0 Never_mind,_carry_on.  6  0 
-dlga_start:party_encounter_hostile_attacker 4095 0  3 31 2 144115188075856060 2 32 2 144115188075855945 0 39 0 You_have_no_chance_against_us._Surrender_now_or_we_will_kill_you_all...  981  4 4 0 31 2 144115188075856420 576460752303423499 600 1 1152921504606847200 3 0 
+dlga_start:party_encounter_hostile_attacker 4095 0  3 31 2 144115188075856060 2 32 2 144115188075855945 0 39 0 You_have_no_chance_against_us._Surrender_now_or_we_will_kill_you_all...  981  4 4 0 31 2 144115188075856420 576460752303423499 600 1 1152921504606847201 3 0 
 dlga_party_encounter_hostile_attacker:close_window 69631 981  0 Don't_attack!_We_surrender.  6  1 2133 2 144115188075855922 1 
 dlga_party_encounter_hostile_attacker:close_window.1 69631 981  0 We_will_fight_you_to_the_end!  6  0 
 dlga_start:party_encounter_hostile_defender 4095 0  2 31 2 144115188075856060 2 2147483687 0 What_do_you_want?  982  0 
