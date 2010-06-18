@@ -11,8 +11,8 @@ trp_unarmed_troop|Tropa Desarmada
 trp_unarmed_troop_pl|Tropas Desarmadas
 trp_random_town_sequence|Random Town Sequence
 trp_random_town_sequence_pl|Random Town Sequence
-trp_tournament_participants|Participantes del Torneo
-trp_tournament_participants_pl|Participantes del Torneo
+trp_tournament_participants|Tournament Participants
+trp_tournament_participants_pl|Tournament Participants
 trp_tutorial_maceman|Hombre con Maza
 trp_tutorial_maceman_pl|Hombre con Maza
 trp_tutorial_archer|Tirador
@@ -51,28 +51,28 @@ trp_cattle|Nerf
 trp_cattle_pl|Grupo de Nerfs
 trp_wookiee|Wookiee
 trp_wookiee_pl|Wookiees
-trp_wookiee_warrior|Guerrero Wookiee
-trp_wookiee_warrior_pl|Guerrero Wookiees
+trp_wookiee_warrior|Luchador Wookiee
+trp_wookiee_warrior_pl|Luchadores Wookiee
 trp_wookiee_marksman|Tirador Wookiee 
 trp_wookiee_marksman_pl|Tiradores Wookiees
 trp_wookiee_berserker|Berserker Wookiee
-trp_wookiee_berserker_pl|Berserkers Wookiees
-trp_wookiee_sharpshooter|Ballestero Wookiee
+trp_wookiee_berserker_pl|Berserkers Wookiee
+trp_wookiee_sharpshooter|Ballestero Wookie
 trp_wookiee_sharpshooter_pl|Ballesteros Wookiees
-trp_bacca_warrior|Guerrero de Bacca
-trp_bacca_warrior_pl|Guerreros de Bacca
+trp_bacca_warrior|Luchador de Bacca
+trp_bacca_warrior_pl|Luchadores de Bacca
 trp_mandalorian|Mandaloriano
 trp_mandalorian_pl|Mandalorianos
 trp_mandalorian_soldier|Soldado Mandaloriano
-trp_mandalorian_soldier_pl|Soldados Mandalorianos
+trp_mandalorian_soldier_pl|Soldados Mandaloriano
 trp_mandalorian_commando|Commando Mandaloriano
-trp_mandalorian_commando_pl|Commandos Mandalorianos
+trp_mandalorian_commando_pl|Commandos Mandaloriano
 trp_mandalorian_sniper|Francotirador Mandaloriano
 trp_mandalorian_sniper_pl|Francotiradores Mandalorianos
 trp_mandalorian_crusader|Cruzado Mandaloriano
 trp_mandalorian_crusader_pl|Cruzados Mandalorianos
 trp_mandalorian_deadeye|Mandaloriano de Élite
-trp_mandalorian_deadeye_pl|Mandalorianos de Élite
+trp_mandalorian_deadeye_pl|Mandalorian de Élite
 trp_gamorrean|Gamorreano
 trp_gamorrean_pl|Gamorreanos
 trp_gamorrean_warrior|Luchador Gamorreano
@@ -82,11 +82,11 @@ trp_gamorrean_guard_pl|Guardias Gamorreanos
 trp_gamorrean_palace_guard|Guardia del Palacio Gamorreano
 trp_gamorrean_palace_guard_pl|Guardias del Palacio Gamorreanos
 trp_twilek_female1|Mujer Twi'lek 
-trp_twilek_female1_pl|Mujeres Twi'lek
+trp_twilek_female1_pl|Mujeres Twilek
 trp_twilek_female2|Bailarina Twi'lek
-trp_twilek_female2_pl|Bailarinas Twi'lek
+trp_twilek_female2_pl|Bailarinas Twilek
 trp_twilek_female3|Acompañante Twi'lek
-trp_twilek_female3_pl|Acompañantes Twi'lek
+trp_twilek_female3_pl|Acompañantes Twilek
 trp_twilek|Twi'lek
 trp_twilek_pl|Twi'leks
 trp_twilek_warrior|Luchador Twi'lek
@@ -112,7 +112,7 @@ trp_trandoshan_hunter_pl|Cazadores Trandoshanos
 trp_trandoshan_bounty_hunter|Cazador de Recompensas Trandoshano
 trp_trandoshan_bounty_hunter_pl|Cazadores de Recompensas Trandoshanos
 trp_moncal_1|Mon Calamari
-trp_moncal_1_pl|Mon Calamari
+trp_moncal_1_pl|Mon Calamaris
 trp_moncal_2|Luchador Mon Calamari
 trp_moncal_2_pl|Luchadores Mon Calamari
 trp_moncal_3|Soldado Mon Calamari 
@@ -130,19 +130,19 @@ trp_chiss_4_pl|Comandantes Chiss
 trp_geonosian_1|Geonosiano
 trp_geonosian_1_pl|Geonosianos
 trp_geonosian_2|Dron Geonosiano
-trp_geonosian_2_pl|Drones Geonosianos
-trp_geonosian_3|Guerrero Geonosiano
-trp_geonosian_3_pl|Guerreros Geonosianos
-trp_geonosian_4|Guerrero Geonosiano Veterano
-trp_geonosian_4_pl|Guerreros Geonosianos Veteranos
+trp_geonosian_2_pl|Drones Geonosiano
+trp_geonosian_3|Luchador Geonosiano
+trp_geonosian_3_pl|Luchadores Geonosiano
+trp_geonosian_4|Luchador Geonosiano Veterano
+trp_geonosian_4_pl|Luchadores Geonosianos Veteranos
 trp_sullustan_1|Sullustano
-trp_sullustan_1_pl|Sullustanos
+trp_sullustan_1_pl|Sullustanes
 trp_sullustan_2|Navegante Sullustan
-trp_sullustan_2_pl|Navegantes Sullustanos
+trp_sullustan_2_pl|Navegantes Sullustanes
 trp_sullustan_3|Piloto Sullustan
-trp_sullustan_3_pl|Pilotos Sullustanos
+trp_sullustan_3_pl|Pilotos Sullustanes
 trp_sullustan_4|Capitan Sullustan
-trp_sullustan_4_pl|Capitanes Sullustanos
+trp_sullustan_4_pl|Capitanes Sullustanes
 trp_bothan|Bothan
 trp_bothan_pl|Bothans
 trp_bothan_militia|Miliciano Bothan
@@ -156,11 +156,11 @@ trp_bothan_spy_pl|Espías Bothan
 trp_bothan_infiltrator|Infiltrador Bothan
 trp_bothan_infiltrator_pl|Infiltradores Bothan
 trp_ig88|Droide Asesino Serie IG
-trp_ig88_pl|Droides Asesinos Serie IG
+trp_ig88_pl|Droides Asesino Serie IG
 trp_hkseries|Droide Serie HK
 trp_hkseries_pl|Droides Serie HK
-trp_defiler|Profanador
-trp_defiler_pl|Profanadores
+trp_defiler|Defiler
+trp_defiler_pl|Defiladores
 trp_farmer|Granjero
 trp_farmer_pl|Granjeros
 trp_townsman|Ciudadano
@@ -187,8 +187,8 @@ trp_biker|Conductor de Speeder
 trp_biker_pl|Conductores de Speeder
 trp_assassin|Asesino
 trp_assassin_pl|Asesinos
-trp_biker_scout|Explorador en Speeder
-trp_biker_scout_pl|Explorador en Speeder
+trp_biker_scout|Avanzada Speeder
+trp_biker_scout_pl|Avanzada Speeder
 trp_mercenaries_end|mercenaries end
 trp_mercenaries_end_pl|mercenaries end
 trp_b1series|Droide de Batalla Serie B1
@@ -224,21 +224,21 @@ trp_lin_droid_pl|Droide LIN
 trp_mse6|Droide Serie MSE
 trp_mse6_pl|Droides Serie MSE
 trp_human_messenger|Mensajero
-trp_human_messenger_pl|Mensajeros
+trp_human_messenger_pl|Mensajero
 trp_human_deserter|Desertor
 trp_human_deserter_pl|Desertores
 trp_wookiee_messenger|Mensajero Wookiee
-trp_wookiee_messenger_pl|Mensajeros Wookiees
+trp_wookiee_messenger_pl|Mensajeros Wookiee
 trp_wookiee_deserter|Desertor Wookiee
-trp_wookiee_deserter_pl|Desertores Wookiees
+trp_wookiee_deserter_pl|Desertores Wookiee
 trp_mandalorian_messenger|Mensajero Mandaloriano
-trp_mandalorian_messenger_pl|Mensajeros Mandalorianos
+trp_mandalorian_messenger_pl|Mensajeros Mandalonianos
 trp_mandalorian_deserter|Desertor Mandalorian
 trp_mandalorian_deserter_pl|Desertores Mandalorianos
 trp_clone_messenger|Mensajero Clon
 trp_clone_messenger_pl|Mensajeros Clon
 trp_clone_deserter|Desertor Clon
-trp_clone_deserter_pl|Desertores Clon
+trp_clone_deserter_pl|Desertor Clon
 trp_trandoshan_messenger|Mensajero Trandoshano
 trp_trandoshan_messenger_pl|Mensajeros Trandoshanos
 trp_trandoshan_deserter|Desertor Trandoshano
@@ -248,33 +248,33 @@ trp_force_sensitive_recruit_pl|Sensibles a la Fuerza
 trp_imperial_recruit|Recluta Imperial
 trp_imperial_recruit_pl|Reclutas Imperiales
 trp_sith_hopeful|Iniciado Sith
-trp_sith_hopeful_pl|Iniciados Sith
+trp_sith_hopeful_pl|Iniciado Sith
 trp_sith_acolyte|Acólito Sith
 trp_sith_acolyte_pl|Acólitos Sith
 trp_sith_apprentice|Aprendiz Sith
 trp_sith_apprentice_pl|Aprendices Sith
 trp_sith_knight|Caballero Sith
 trp_sith_knight_pl|Caballeros Sith
-trp_sith_marauder|Merodeador Sith
-trp_sith_marauder_pl|Merodeador Sith
+trp_sith_marauder|Sith Oscuro
+trp_sith_marauder_pl|Sith Oscuro
 trp_sith_master|Maestro Sith
-trp_sith_master_pl|Maestros Sith
+trp_sith_master_pl|Maestro Sith
 trp_sith_lord|Señor Sith
 trp_sith_lord_pl|Señores Sith
 trp_imperial_navy_trooper|Soldado de la Armada Imperial
 trp_imperial_navy_trooper_pl|Soldados de la Armada Imperial
 trp_imperial_army_trooper|Soldado del Ejército Imperial
 trp_imperial_army_trooper_pl|Soldados del Ejército Imperial
-trp_imperial_gunner|Artillero Imperial
-trp_imperial_gunner_pl|Artilleros Imperiales
+trp_imperial_gunner|Pistolero Imperial
+trp_imperial_gunner_pl|Pistoleros Imperiales
 trp_imperial_stormtrooper|Soldado Imperial
 trp_imperial_stormtrooper_pl|Soldados Imperiales
 trp_imperial_pilot|Piloto Imperial
 trp_imperial_pilot_pl|Pilotos Imperiales
 trp_imperial_scout_trooper|Soldado Avanzado Imperial
 trp_imperial_scout_trooper_pl|Soldados Avanzados Imperiales
-trp_imperial_gunner_veteran|Artilleros Imperial Veterano
-trp_imperial_gunner_veteran_pl|Artilleros Imperiales Veteranos
+trp_imperial_gunner_veteran|Pistolero Imperial Veterano
+trp_imperial_gunner_veteran_pl|Pistoleros Imperiales Veteranos
 trp_imperial_stormtrooper_veteran|Soldado Imperial Veterano
 trp_imperial_stormtrooper_veteran_pl|Soldados Imperiales Veteranos
 trp_imperial_pilot_veteran|Piloto Imperial de Élite
@@ -334,7 +334,7 @@ trp_rebel_honor_guard_pl|Guardias de Honor Rebeldes
 trp_rebel_vanguard|Vanguardia Rebelde
 trp_rebel_vanguard_pl|Vanguardia Rebelde
 trp_rebel_pilot_veteran|Piloto Rebelde de Élite
-trp_rebel_pilot_veteran_pl|Pilotos Rebeldes de Élite
+trp_rebel_pilot_veteran_pl|Pilotos Rebelde de Élite
 trp_rebel_commando_veteran|Comando Veterano Rebelde 
 trp_rebel_commando_veteran_pl|Comandos Veteranos Rebeldes
 trp_rebel_sniper_veteran|Francotirador Veterano Rebelde
@@ -353,8 +353,8 @@ trp_hutt_marksman|Hutt Tirador
 trp_hutt_marksman_pl|Tiradores Hutt
 trp_hutt_bounty_hunter|Cazador de Recompensas Hutt
 trp_hutt_bounty_hunter_pl|Cazadores de Recompensas Hutt
-trp_hutt_skiff_guard|Guardia de Esquife Hutt
-trp_hutt_skiff_guard_pl|Guardias de Esquife Hutt
+trp_hutt_skiff_guard|Guardia del Esquife Hutt
+trp_hutt_skiff_guard_pl|Guardias del Esquife Hutt
 trp_hutt_palace_guard|Guardias del Palacio Hutt
 trp_hutt_palace_guard_pl|Guardias del Palacio Hutt
 trp_hutt_commando|Commando Hutt
@@ -422,7 +422,7 @@ trp_town_walker_chiss_female_pl|Mujeres Chiss
 trp_town_walker_mandalorian|Mandaloriano
 trp_town_walker_mandalorian_pl|Mandalorianos
 trp_town_walker_trandoshan|Trandoshano
-trp_town_walker_trandoshan_pl|Trandoshanos
+trp_town_walker_trandoshan_pl|Trandoshanes
 trp_town_walker_rodian|Rodiano
 trp_town_walker_rodian_pl|Rodianos
 trp_town_walker_r2series|Droide Serie R2
@@ -449,8 +449,8 @@ trp_town_walker_nikto|Nikto
 trp_town_walker_nikto_pl|Niktos
 trp_town_walker_jawa|Jawa
 trp_town_walker_jawa_pl|Jawas
-trp_town_walker_moncal|Mon Calamari
-trp_town_walker_moncal_pl|Mon Calamari
+trp_town_walker_moncal|Mon Calamariano
+trp_town_walker_moncal_pl|Mon Calamarianos
 trp_town_walker_geonosian|Geonosiano
 trp_town_walker_geonosian_pl|Geonosianos
 trp_town_walker_wookiee|Wookiee
@@ -502,13 +502,13 @@ trp_cantina_walker_2_pl|Ciudadanas
 trp_cantina_walker_rodian|Rodiano
 trp_cantina_walker_rodian_pl|Rodianos
 trp_cantina_walker_moncal|Mon Calamari
-trp_cantina_walker_moncal_pl|Mon Calamari
-trp_cantina_walker_trandoshan|Trandoshano
-trp_cantina_walker_trandoshan_pl|Trandoshanos
+trp_cantina_walker_moncal_pl|Mon Calamaris
+trp_cantina_walker_trandoshan|Trandoshan
+trp_cantina_walker_trandoshan_pl|Trandoshanes
 trp_cantina_walker_mandalorian|Mandaloriano
 trp_cantina_walker_mandalorian_pl|Mandalorianos
 trp_cantina_walker_sullustan|Sullustan
-trp_cantina_walker_sullustan_pl|Sullustanos
+trp_cantina_walker_sullustan_pl|Sullustanes
 trp_cantina_walker_bothan|Bothan
 trp_cantina_walker_bothan_pl|Bothans
 trp_cantina_walker_chiss|Chiss
@@ -530,7 +530,7 @@ trp_cantina_walker_geonosian_pl|Geonosianos
 trp_cantina_walker_wookiee|Wookiee
 trp_cantina_walker_wookiee_pl|Wookiees
 trp_cantina_walker_wookiee_female|Mujer Wookiee
-trp_cantina_walker_wookiee_female_pl|Mujeres Wookiees
+trp_cantina_walker_wookiee_female_pl|Mujeres Wookiee
 trp_cantina_walker_gamorrean|Gamorreano
 trp_cantina_walker_gamorrean_pl|Gamorreanos
 trp_cantina_drinker_1|Ciudadano
@@ -540,9 +540,9 @@ trp_cantina_drinker_rodian_pl|Rodianos
 trp_cantina_drinker_moncal|Mon Calamari
 trp_cantina_drinker_moncal_pl|Mon Calamaris
 trp_cantina_drinker_trandoshan|Trandoshano
-trp_cantina_drinker_trandoshan_pl|Trandoshanos
+trp_cantina_drinker_trandoshan_pl|Trandoshanes
 trp_cantina_drinker_sullustan|Sullustano
-trp_cantina_drinker_sullustan_pl|Sullustanos
+trp_cantina_drinker_sullustan_pl|Sullustanes
 trp_cantina_drinker_bothan|Bothan
 trp_cantina_drinker_bothan_pl|Bothans
 trp_cantina_drinker_chiss|Chiss
@@ -553,18 +553,18 @@ trp_cantina_drinker_klatooinian|Klatooiniano
 trp_cantina_drinker_klatooinian_pl|Klatooinianos
 trp_cantina_drinker_nikto|Nikto
 trp_cantina_drinker_nikto_pl|Niktos
-trp_cantina_drinker_twilek|Twi'lek
-trp_cantina_drinker_twilek_pl|Twi'leks
+trp_cantina_drinker_twilek|Twilek
+trp_cantina_drinker_twilek_pl|Twileks
 trp_village_walker_1|Colono
 trp_village_walker_1_pl|Colonos
 trp_village_walker_2|Colono
 trp_village_walker_2_pl|Colonos
 trp_village_walker_rodian|Rodiano
 trp_village_walker_rodian_pl|Rodianos
-trp_village_walker_moncal|Mon Calamari
-trp_village_walker_moncal_pl|Mon Calamari
-trp_village_walker_trandoshan|Trandoshano
-trp_village_walker_trandoshan_pl|Trandoshanos
+trp_village_walker_moncal|Mon Calamariano
+trp_village_walker_moncal_pl|Mon Calamarianos
+trp_village_walker_trandoshan|Trandoshan
+trp_village_walker_trandoshan_pl|Trandoshanes
 trp_village_walker_mandalorian|Mandaloriano
 trp_village_walker_mandalorian_pl|Mandalorianos
 trp_village_walker_sullustan|Sullustano
@@ -584,7 +584,7 @@ trp_village_walker_nikto_pl|Niktos
 trp_village_walker_twilek|Twilek
 trp_village_walker_twilek_pl|Twileks
 trp_village_walker_twilek_female|Mujer Twilek
-trp_village_walker_twilek_female_pl|Mujeres Twilek
+trp_village_walker_twilek_female_plMujeres Twilek
 trp_village_walker_twilek_female_slave|Esclavo Twilek
 trp_village_walker_twilek_female_slave_pl|Esclavos Twilek
 trp_village_walker_geonosian|Geonosiano
@@ -615,20 +615,20 @@ trp_assassin_male|Asesino
 trp_assassin_male_pl|Asesinos
 trp_assassin_rodian|Asesino Rodiano
 trp_assassin_rodian_pl|Asesinos Rodiano
-trp_assassin_trandoshan|Asesino Trandoshano
-trp_assassin_trandoshan_pl|Asesinos Trandoshanos
+trp_assassin_trandoshan|Asesino Trandoshan
+trp_assassin_trandoshan_pl|Asesinos Trandoshan
 trp_assassin_twilek|Asesino Twilek
 trp_assassin_twilek_pl|Asesinos Twilek
-trp_assassin_mandalorian|Asesino Mandaloriano
-trp_assassin_mandalorian_pl|Asesinos Mandalorianos
+trp_assassin_mandalorian|Asesino Mandaloniano
+trp_assassin_mandalorian_pl|Asesinos Mandalonianos
 trp_assassin_hkseries|Droide Asesino Serie HK
 trp_assassin_hkseries_pl|Droides Asesinos HK-Series
 trp_tournament_master|Encargado de la Arena
-trp_tournament_master_pl|Encargados de la Arena
+trp_tournament_master_pl|Encargado de la Arena
 trp_trainer|Entrenador
-trp_trainer_pl|Entrenadores
+trp_trainer_pl|Entrenador
 trp_constable_hareck|Constable Hareck
-trp_constable_hareck_pl|Constables Hareck
+trp_constable_hareck_pl|Constable Hareck
 trp_ramun_the_slave_trader|Ramun, the slave trader
 trp_ramun_the_slave_trader_pl|Ramun, the slave trader
 trp_guide|Quick Jimmy
@@ -1722,9 +1722,9 @@ trp_cylon_end_pl|cylon end
 trp_local_merchant|Comerciante
 trp_local_merchant_pl|Comerciantes
 trp_tax_rebel|Granjero Rebelde
-trp_tax_rebel_pl|Granjeros Rebeldes
+trp_tax_rebel_pl|Peasant Rebels
 trp_trainee_peasant|Granjero
-trp_trainee_peasant_pl|Granjeros
+trp_trainee_peasant_pl|Peasants
 trp_fugitive|Humanoide Nervioso
 trp_fugitive_pl|Humanoides Nerviosos
 trp_spy|Ciudadano Normal y Corriente
@@ -1900,6 +1900,6 @@ trp_bounty_target_5b_pl|Cazarecompensas
 trp_bounty_target_5c|Cazarecompensas
 trp_bounty_target_5c_pl|Cazarecompensas
 trp_bounty_target_6a|Contrabandista
-trp_bounty_target_6a_pl|Contrabandistas
+trp_bounty_target_6a_pl|Contrabandista
 trp_bounty_target_6b|Contrabandista
-trp_bounty_target_6b_pl|Contrabandistas
+trp_bounty_target_6b_pl|Contrabandista

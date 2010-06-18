@@ -21,9 +21,9 @@ itm_arena_sword_pl|Sword
 itm_arena_sword_two_handed|Two Handed Sword
 itm_arena_sword_two_handed_pl|Two Handed Sword
 itm_arena_lance|Lance
-itm_arena_lance_pl|Lanza
-itm_practice_staff|Vara de Práctica
-itm_practice_staff_pl|Vara de Práctica
+itm_arena_lance_pl|Lance
+itm_practice_staff|Practice Staff
+itm_practice_staff_pl|Practice Staff
 itm_practice_lance|Practice Lance
 itm_practice_lance_pl|Practice Lance
 itm_practice_shield|Practice Escudo
@@ -392,8 +392,8 @@ itm_quarter_staff|Quarter Staff
 itm_quarter_staff_pl|Quarter Staff
 itm_stones|Stones
 itm_stones_pl|Stones
-itm_throwing_axes|Hachas Gamorreanas de Lanzar
-itm_throwing_axes_pl|Hachas Gamorreanas de Lanzar
+itm_throwing_axes|Gamorrean Throwing Axes
+itm_throwing_axes_pl|Gamorrean Throwing Axes
 itm_torch|Torch
 itm_torch_pl|Torch
 itm_rich_outfit|Rich Outfit
@@ -434,26 +434,26 @@ itm_darkgrey_gloves|Guantes Grises
 itm_darkgrey_gloves_pl|Guantes Grises
 itm_lady_gloves|Guantes de Mujer
 itm_lady_gloves_pl|Guantes de Mujer
-itm_mandalorian_crushgaunts|Guantes Mandalorianos
-itm_mandalorian_crushgaunts_pl|Guantes Mandalorianos
+itm_mandalorian_crushgaunts|Guantes de Mandalon
+itm_mandalorian_crushgaunts_pl|Guantes de Mandalon
 itm_imperial_royal_guard_gloves|Guantes del Imperio
 itm_imperial_royal_guard_gloves_pl|Guantes del Imperio
 itm_imperial_stormtrooper_gloves|Guantes del Imperio
 itm_imperial_stormtrooper_gloves_pl|Guantes del Imperio
 itm_shadow_stormtrooper_gloves|Guantes del Imperio
 itm_shadow_stormtrooper_gloves_pl|Guantes del Imperio
-itm_clone_trooper_gloves_white|Guantes de Soldado Clon
-itm_clone_trooper_gloves_white_pl|Guantes de Soldado Clon
-itm_clone_trooper_gloves_green|Guantes de Soldado Clon
-itm_clone_trooper_gloves_green_pl|Guantes de Soldado Clon
-itm_clone_trooper_gloves_blue|Guantes de Soldado Clon
-itm_clone_trooper_gloves_blue_pl|Guantes de Soldado Clon
-itm_clone_trooper_gloves_red|Guantes de Soldado Clon
-itm_clone_trooper_gloves_red_pl|Guantes de Soldado Clon
-itm_clone_trooper_gloves_yellow|Guantes de Soldado Clon
-itm_clone_trooper_gloves_yellow_pl|Guantes de Soldado Clon
-itm_clone_trooper_gloves_orange|Guantes de Soldado Clon
-itm_clone_trooper_gloves_orange_pl|Guantes de Soldado Clon
+itm_clone_trooper_gloves_white|Guantes de Clon
+itm_clone_trooper_gloves_white_pl|Guantes de Clon
+itm_clone_trooper_gloves_green|Guantes de Clon
+itm_clone_trooper_gloves_green_pl|Guantes de Clon
+itm_clone_trooper_gloves_blue|Guantes de Clon
+itm_clone_trooper_gloves_blue_pl|Guantes de Clon
+itm_clone_trooper_gloves_red|Guantes de Clon
+itm_clone_trooper_gloves_red_pl|Guantes de Clon
+itm_clone_trooper_gloves_yellow|Guantes de Clon
+itm_clone_trooper_gloves_yellow_pl|Guantes de Clon
+itm_clone_trooper_gloves_orange|Guantes de Clon
+itm_clone_trooper_gloves_orange_pl|Guantes de Clon
 itm_grey_gloves_with_bottle|Guantes
 itm_grey_gloves_with_bottle_pl|Guantes
 itm_leather_boots|Botas de Cuero
@@ -521,9 +521,9 @@ itm_imperial_navy_trooper_helmet_pl|Casco de la Armada Imperial
 itm_mercenary_helmet|Casco Mercenario
 itm_mercenary_helmet_pl|Casco Mercenario
 itm_trandoshan_mask|Máscara Trandoshane
-itm_trandoshan_mask_pl|Máscara Trandoshana
-itm_trandoshan_helmet|Casco Trandoshana
-itm_trandoshan_helmet_pl|Casco Trandoshana
+itm_trandoshan_mask_pl|Máscara Trandoshane
+itm_trandoshan_helmet|Casco Trandoshane
+itm_trandoshan_helmet_pl|Casco Trandoshane
 itm_cap_military|Gorra
 itm_cap_military_pl|Gorra
 itm_cap_civilian_a|Gorra
@@ -556,8 +556,8 @@ itm_imperial_stormtrooper_helmet|Casco de Soldado Imperial
 itm_imperial_stormtrooper_helmet_pl|Casco de Soldado Imperial
 itm_imperial_pilot_helmet|Casco de Piloto Imperial
 itm_imperial_pilot_helmet_pl|Casco de Piloto Imperial
-itm_shadow_stormtrooper_helmet|Casco de Soldado Sombra
-itm_shadow_stormtrooper_helmet_pl|Casco de Soldado Sombra
+itm_shadow_stormtrooper_helmet|Casco de Soldado Oscuro
+itm_shadow_stormtrooper_helmet_pl|Casco de Soldado Oscuro
 itm_clone_trooper_head|Cabeza de Soldado Clon
 itm_clone_trooper_head_pl|Cabeza de Soldado Clon
 itm_clone_trooper_head_scar|Cabeza de Soldado Clon
@@ -578,10 +578,10 @@ itm_clone_trooper_helmet_mand|Casco de Soldado Clon
 itm_clone_trooper_helmet_mand_pl|Casco de Soldado Clon
 itm_clone_trooper_helmet_lux|Casco de Soldado Clon
 itm_clone_trooper_helmet_lux_pl|Casco de Soldado Clon
-itm_imperial_scout_trooper_helmet|Casco de Reconocimiento Imperial
-itm_imperial_scout_trooper_helmet_pl|Casco de Reconocimiento Imperial
-itm_shadow_scout_trooper_helmet|Casco de Reconocimiento Sombra
-itm_shadow_scout_trooper_helmet_pl|Casco de Reconocimiento Sombra
+itm_imperial_scout_trooper_helmet|Casco de Avanzado Imperial
+itm_imperial_scout_trooper_helmet_pl|Casco de Avanzado Imperial
+itm_shadow_scout_trooper_helmet|Casco de Avanzado Oscuro
+itm_shadow_scout_trooper_helmet_pl|Casco de Avanzado Oscuro
 itm_republic_pilot_helmet|Casco de Piloto Rebelde
 itm_republic_pilot_helmet_pl|Casco de Piloto Rebelde
 itm_republic_commando_helmet|Casco de Comando Rebelde
@@ -718,8 +718,8 @@ itm_mercenary_armor|Armadura de Mercenario
 itm_mercenary_armor_pl|Armadura de Mercenario
 itm_crime_lord_armor|Armadura de Señor del Crimen
 itm_crime_lord_armor_pl|Armadura de Señor del Crimen
-itm_trandoshan_flight_suit|Traje de vuelo Trandoshano
-itm_trandoshan_flight_suit_pl|Traje de vuelo Trandoshano
+itm_trandoshan_flight_suit|Traje de vuelo Trandoshane
+itm_trandoshan_flight_suit_pl|Traje de vuelo Trandoshane
 itm_civilian_cloak|Capa de ciudadano
 itm_civilian_cloak_pl|Capa de ciudadano
 itm_white_cloak|Capa Blanca
@@ -766,10 +766,10 @@ itm_sith_acolyte_outfit|Vestimenta de Acólito Sith
 itm_sith_acolyte_outfit_pl|Vestimenta de Acólito Sith
 itm_sith_apprentice_outfit|Vestimenta de Aprendiz Sith
 itm_sith_apprentice_outfit_pl|Vestimenta de Aprendiz Sith
-itm_imperial_scout_trooper_armor|Armadura de Reconocimiento Imperial
-itm_imperial_scout_trooper_armor_pl|Armadura de Reconocimiento Imperial
-itm_shadow_scout_trooper_armor|Armadura de Reconocimiento de las Sombras
-itm_shadow_scout_trooper_armor_pl|Armadura de Reconocimiento de las Sombras
+itm_imperial_scout_trooper_armor|Armadura de Avanzado Imperial
+itm_imperial_scout_trooper_armor_pl|Armadura de Avanzado Imperial
+itm_shadow_scout_trooper_armor|Armadura de Avanzado de las Sombras
+itm_shadow_scout_trooper_armor_pl|Armadura de Avanzado de las Sombras
 itm_republic_pilot_armor|Armadura de Piloto Rebelde
 itm_republic_pilot_armor_pl|Armadura de Piloto Rebelde
 itm_republic_commando_armor|Armadura de Comando Rebelde
@@ -898,82 +898,82 @@ itm_wookiee_hunter_armor|Armadura de Cazador Wookie
 itm_wookiee_hunter_armor_pl|Armadura de Cazador Wookie
 itm_wookiee_hunter_helmet|Casco de Cazador Wookie
 itm_wookiee_hunter_helmet_pl|Casco de Cazador Wookie
-itm_wookiee_female_head|Cabeza de Hembra Wookiee
-itm_wookiee_female_head_pl|Cabeza de Hembra Wookiee
-itm_wookiee_female_body|Cuerpo de Hembra Wookiee
-itm_wookiee_female_body_pl|Cuerpo de Hembra Wookiee
-itm_wookiee_female_hands|Manos de Hembra Wookiee
-itm_wookiee_female_hands_pl|Manos de Hembra Wookiee
-itm_wookiee_female_feet|Pies de Hembra Wookiee
-itm_wookiee_female_feet_pl|Pies de Hembra Wookiee
-itm_r2series_blue|Serie-R2 Azul
-itm_r2series_blue_pl|Serie-R2 Azul
-itm_r2series_green|Serie-R2 Verde
-itm_r2series_green_pl|Serie-R2 Verde
-itm_r2series_orange|Serie-R2 Naranja
-itm_r2series_orange_pl|Serie-R2 Naranja
-itm_r2series_purple|Serie-R2 Morado
-itm_r2series_purple_pl|Serie-R2 Morado
-itm_r2series_attack|Serie-R2 Sin Ataque
-itm_r2series_attack_pl|Serie-R2 Sin Ataque
-itm_mse6_armor|Cuepro de Droide Serie MSE
-itm_mse6_armor_pl|Cuepro de Droide Serie MSE
-itm_mse6_attack|Droide Serie MSE Sin Ataque
-itm_mse6_attack_pl|Droide Serie MSE Sin Ataque
-itm_lin_droid_armor|Cuerpo de Droide LIN
-itm_lin_droid_armor_pl|Cuerpo de Droide LIN
-itm_lin_droid_armor_w_arm|Cuerpo de Droide LIN
-itm_lin_droid_armor_w_arm_pl|Cuerpo de Droide LIN
-itm_lin_droid_attack|Cuerpo de Droide LIN
-itm_lin_droid_attack_pl|Cuerpo de Droide LIN
-itm_c3po_blue_head|Cabeza de Serie 3PO
-itm_c3po_blue_head_pl|Cabeza de Serie 3PO
-itm_c3po_blue_hands|Manos de Serie 3PO
-itm_c3po_blue_hands_pl|Manos de Serie 3PO
-itm_c3po_blue_body|Cuerpo de Serie 3PO
-itm_c3po_blue_body_pl|Cuerpo de Serie 3PO
-itm_c3po_blue_feet|Pies de Serie 3PO
-itm_c3po_blue_feet_pl|Pies de Serie 3PO
-itm_c3po_gold_head|Cabeza de Serie 3PO
-itm_c3po_gold_head_pl|Cabeza de Serie 3PO
-itm_c3po_gold_hands|Manos de Serie 3PO
-itm_c3po_gold_hands_pl|Manos de Serie 3PO
-itm_c3po_gold_body|Cuerpo de Serie 3PO
-itm_c3po_gold_body_pl|Cuepor de Serie 3PO
-itm_c3po_gold_feet|Pies de Serie 3PO
-itm_c3po_gold_feet_pl|Pies de Serie 3PO
-itm_c3po_grey_head|Cabeza de Serie 3PO
-itm_c3po_grey_head_pl|Cabeza de Serie 3PO
-itm_c3po_grey_hands|Manos de Serie 3PO
-itm_c3po_grey_hands_pl|Manos de Serie 3PO
-itm_c3po_grey_body|Cuerpo de Serie 3PO
-itm_c3po_grey_body_pl|Cuerpo de Serie 3PO
-itm_c3po_grey_feet|Pies de Serie 3PO
-itm_c3po_grey_feet_pl|Pies de Serie 3PO
-itm_c3po_red_head|Cabeza de Serie 3PO
-itm_c3po_red_head_pl|Cabeza de Serie 3PO
-itm_c3po_red_hands|Manos de Serie 3PO
-itm_c3po_red_hands_pl|Manos de Serie 3PO
-itm_c3po_red_body|Cuerpo de Serie 3PO
-itm_c3po_red_body_pl|Cuerpo de Serie 3PO
-itm_c3po_red_feet|Pies de Serie 3PO
-itm_c3po_red_feet_pl|Pies de Serie 3PO
-itm_3poseries_gold|Serie 3PO Dorada
-itm_3poseries_gold_pl|Serie 3PO Dorada
-itm_3poseries_blue|Serie 3PO Azul
-itm_3poseries_blue_pl|Serie 3PO Azul
-itm_3poseries_red|Serie 3PO Roja
-itm_3poseries_red_pl|Serie 3PO Roja
-itm_3poseries_grey|Serie 3PO Gris
-itm_3poseries_grey_pl|Serie 3PO Gris
-itm_3poseries_attack|Serie 3PO de Ataque
-itm_3poseries_attack_pl|Serie 3PO de Ataque
-itm_b1series_body|Cuerpo de Droide de Batalla Serie B1
-itm_b1series_body_pl|Cuerpo de Droide de Batalla Serie B1
-itm_b1series_attack|Droide de Batalla Serie B1 de Ataque
-itm_b1series_attack_pl|Cuerpo de Droide de Batalla de Ataque
-itm_b2series_body|Cuerpo de Droide de Batalla Serie B2
-itm_b2series_body_pl|Cuerpo de Droide de Batalla Serie B2
+itm_wookiee_female_head|Wookiee Female Head
+itm_wookiee_female_head_pl|Wookiee Female Head
+itm_wookiee_female_body|Wookiee Female Body
+itm_wookiee_female_body_pl|Wookiee Female Body
+itm_wookiee_female_hands|Wookiee Female Hands
+itm_wookiee_female_hands_pl|Wookiee Female Hands
+itm_wookiee_female_feet|Wookiee Female Feet
+itm_wookiee_female_feet_pl|Wookiee Female Feet
+itm_r2series_blue|R2-Series Blue
+itm_r2series_blue_pl|R2-Series Blue
+itm_r2series_green|R2-Series Green
+itm_r2series_green_pl|R2-Series Green
+itm_r2series_orange|R2-Series Orange
+itm_r2series_orange_pl|R2-Series Orange
+itm_r2series_purple|R2-Series Purple
+itm_r2series_purple_pl|R2-Series Purple
+itm_r2series_attack|R2-Series No Attack
+itm_r2series_attack_pl|R2-Series No Attack
+itm_mse6_armor|MSE-Series Droid Body
+itm_mse6_armor_pl|MSE-Series Droid Body
+itm_mse6_attack|MSE-Series Droid No Attack
+itm_mse6_attack_pl|MSE-Series Droid No Attack
+itm_lin_droid_armor|LIN Droid Body
+itm_lin_droid_armor_pl|LIN Droid Body
+itm_lin_droid_armor_w_arm|LIN Droid Body
+itm_lin_droid_armor_w_arm_pl|LIN Droid Body
+itm_lin_droid_attack|LIN Droid No Attack
+itm_lin_droid_attack_pl|LIN Droid No Attack
+itm_c3po_blue_head|3PO-Series Head
+itm_c3po_blue_head_pl|3PO-Series Head
+itm_c3po_blue_hands|3PO-Series Hands
+itm_c3po_blue_hands_pl|3PO-Series Hands
+itm_c3po_blue_body|3PO-Series Body
+itm_c3po_blue_body_pl|3PO-Series Body
+itm_c3po_blue_feet|3PO-Series Feet
+itm_c3po_blue_feet_pl|3PO-Series Feet
+itm_c3po_gold_head|3PO-Series Head
+itm_c3po_gold_head_pl|3PO-Series Head
+itm_c3po_gold_hands|3PO-Series Hands
+itm_c3po_gold_hands_pl|3PO-Series Hands
+itm_c3po_gold_body|3PO-Series Body
+itm_c3po_gold_body_pl|3PO-Series Body
+itm_c3po_gold_feet|3PO-Series Feet
+itm_c3po_gold_feet_pl|3PO-Series Feet
+itm_c3po_grey_head|3PO-Series Head
+itm_c3po_grey_head_pl|3PO-Series Head
+itm_c3po_grey_hands|3PO-Series Hands
+itm_c3po_grey_hands_pl|3PO-Series Hands
+itm_c3po_grey_body|3PO-Series Body
+itm_c3po_grey_body_pl|3PO-Series Body
+itm_c3po_grey_feet|3PO-Series Feet
+itm_c3po_grey_feet_pl|3PO-Series Feet
+itm_c3po_red_head|3PO-Series Head
+itm_c3po_red_head_pl|3PO-Series Head
+itm_c3po_red_hands|3PO-Series Hands
+itm_c3po_red_hands_pl|3PO-Series Hands
+itm_c3po_red_body|3PO-Series Body
+itm_c3po_red_body_pl|3PO-Series Body
+itm_c3po_red_feet|3PO-Series Feet
+itm_c3po_red_feet_pl|3PO-Series Feet
+itm_3poseries_gold|3PO-Series Gold
+itm_3poseries_gold_pl|3PO-Series Gold
+itm_3poseries_blue|3PO-Series Blue
+itm_3poseries_blue_pl|3PO-Series Blue
+itm_3poseries_red|3PO-Series Red
+itm_3poseries_red_pl|3PO-Series Red
+itm_3poseries_grey|3PO-Series Grey
+itm_3poseries_grey_pl|3PO-Series Grey
+itm_3poseries_attack|3PO-Series Attack
+itm_3poseries_attack_pl|3PO-Series Attack
+itm_b1series_body|B1-Series Battle Droid Body
+itm_b1series_body_pl|B1-Series Battle Droid Body
+itm_b1series_attack|B1-Series Battle Droid Attack
+itm_b1series_attack_pl|B1-Series Battle Droid Attack
+itm_b2series_body|B2-Series Battle Droid Body
+itm_b2series_body_pl|B2-Series Battle Droid Body
 itm_b2series_attack|B2-Series Battle Droid Attack
 itm_b2series_attack_pl|B2-Series Battle Droid Attack
 itm_b2series_blaster|B2-Series Battle Droid Blaster
@@ -1056,8 +1056,8 @@ itm_mandalorian_beskar_boots|Botas Mandalorianas
 itm_mandalorian_beskar_boots_pl|Botas Mandalorianas
 itm_defiler_helmet|Casco de Defiler
 itm_defiler_helmet_pl|Casco de Defiler
-itm_defiler_armor|Armadura de Defiler
-itm_defiler_armor_pl|Armadura de Defiler
+itm_defiler_armor|Aramdura de Defiler
+itm_defiler_armor_pl|Aramdura de Defiler
 itm_defiler_boots|Botas de Defiler
 itm_defiler_boots_pl|Botas de Defiler
 itm_black_sun_helmet|Casco del Sol Negro
@@ -1068,14 +1068,14 @@ itm_gamorrean_armor|Armadura Gamorreana
 itm_gamorrean_armor_pl|Armadura Gamorreana
 itm_gamorrean_armor_merch|Armadura Gamorreana
 itm_gamorrean_armor_merch_pl|Armadura Gamorreana
-itm_moncal_armor|Armadura Mon Calamari
-itm_moncal_armor_pl|Armadura Mon Calamari
-itm_moncal_armor_2|Armadura Mon Calamari
-itm_moncal_armor_2_pl|Armadura Mon Calamari
-itm_moncal_boots|Botas Mon Calamari
-itm_moncal_boots_pl|Botas Mon Calamari
-itm_moncal_helmet|Casco Mon Calamari
-itm_moncal_helmet_pl|Casco Mon Calamari
+itm_moncal_armor|Armadura de Mon Calamari
+itm_moncal_armor_pl|Armadura de Mon Calamari
+itm_moncal_armor_2|Armadura de Mon Calamari
+itm_moncal_armor_2_pl|Armadura de Mon Calamari
+itm_moncal_boots|Botas de Mon Calamari
+itm_moncal_boots_pl|Botas de Mon Calamari
+itm_moncal_helmet|Casco de Mon Calamari
+itm_moncal_helmet_pl|Casco de Mon Calamari
 itm_rodian_head|Cabeza de Rodiano
 itm_rodian_head_pl|Cabeza de Rodiano
 itm_twilek_armor|Armadura Twi'lek
@@ -1090,8 +1090,8 @@ itm_tusken_helmet|Cobertura Facial Tusken
 itm_tusken_helmet_pl|Cobertura Facial Tusken
 itm_tusken_armor|Armadura Tusken
 itm_tusken_armor_pl|Armadura Tusken
-itm_trandoshan_armor|Armadura Trandoshana
-itm_trandoshan_armor_pl|Armadura Trandoshana
+itm_trandoshan_armor|Armadura Trandoshane
+itm_trandoshan_armor_pl|Armadura Trandoshane
 itm_geonosian_armor|Armadura Geonosiana
 itm_geonosian_armor_pl|Armadura Geonosiana
 itm_geonosian_armor_merch|Armadura Geonosiana
@@ -1188,8 +1188,8 @@ itm_luke_skywalker_lightsaber|Sable de Luz de Luke Skywalker
 itm_luke_skywalker_lightsaber_pl|Sable de Luz de Luke Skywalker
 itm_melee_punch| 
 itm_melee_punch_pl| 
-itm_durasteel_staff|Bastón de Duracero
-itm_durasteel_staff_pl|Bastón de Duracero
+itm_durasteel_staff|Bastón de Durasteel
+itm_durasteel_staff_pl|Bastón de Durasteel
 itm_electro_staff_medium|Bastón Electrico
 itm_electro_staff_medium_pl|Bastón Electrico
 itm_electro_staff_long|Bastón Electrico
@@ -1206,12 +1206,12 @@ itm_durasteel_mace|Maza de Durasteel
 itm_durasteel_mace_pl|Maza de Durasteel
 itm_baton|Porra
 itm_baton_pl|Porra
-itm_trandoshan_blade|Hoja Trandoshana
-itm_trandoshan_blade_pl|Hoja Trandoshana
-itm_durasteel_bat|Bate de Duracero
-itm_durasteel_bat_pl|Bate de Duracero
-itm_force_pike|Pica de Fuerza
-itm_force_pike_pl|Pica de Fuerza
+itm_trandoshan_blade|Hoja Trandoshane
+itm_trandoshan_blade_pl|Hoja Trandoshane
+itm_durasteel_bat|Bate de Durasteel
+itm_durasteel_bat_pl|Bate de Durasteel
+itm_force_pike|Pica con la Fuerza
+itm_force_pike_pl|Pica con la Fuerza
 itm_geonosian_static_pike|Pica Geonosiana
 itm_geonosian_static_pike_pl|Pica Geonosiana
 itm_pipe1|Tubería
@@ -1232,26 +1232,26 @@ itm_twilek_dagger|Daga Twilek
 itm_twilek_dagger_pl|Daga Twilek
 itm_vibro_knuckler|Vibro Knuckler
 itm_vibro_knuckler_pl|Vibro Knuckler
-itm_vibro_blade1|Vibroespada
-itm_vibro_blade1_pl|Vibroespada
-itm_vibro_blade2|Vibroespada
-itm_vibro_blade2_pl|Vibroespada
-itm_vibro_blade3|Vibroespada
-itm_vibro_blade3_pl|Vibroespada
-itm_vibro_blade4|Vibroespada
-itm_vibro_blade4_pl|Vibroespada
-itm_vibro_sword1b|Vibroespada
-itm_vibro_sword1b_pl|Vibroespada
-itm_vibro_sword2b|Vibroespada a dos manos
-itm_vibro_sword2b_pl|Vibroespada a dos manos
-itm_vibro_sword3a|Vibroespada
-itm_vibro_sword3a_pl|Vibroespada
-itm_vibro_sword3b|Vibroespada
-itm_vibro_sword3b_pl|Vibroespada
-itm_vibro_sword3c|Vibroespada
-itm_vibro_sword3c_pl|Vibroespada
-itm_vibro_sword3d|Vibroespada
-itm_vibro_sword3d_pl|Vibroespada
+itm_vibro_blade1|VibroHoja
+itm_vibro_blade1_pl|VibroHoja
+itm_vibro_blade2|VibroHoja
+itm_vibro_blade2_pl|VibroHoja
+itm_vibro_blade3|VibroHoja
+itm_vibro_blade3_pl|VibroHoja
+itm_vibro_blade4|VibroHoja
+itm_vibro_blade4_pl|VibroHoja
+itm_vibro_sword1b|VibroHoja
+itm_vibro_sword1b_pl|VibroHoja
+itm_vibro_sword2b|VibroHoja a dos manos
+itm_vibro_sword2b_pl|VibroHoja a dos manos
+itm_vibro_sword3a|VibroHoja
+itm_vibro_sword3a_pl|VibroHoja
+itm_vibro_sword3b|VibroHoja
+itm_vibro_sword3b_pl|VibroHoja
+itm_vibro_sword3c|VibroHoja
+itm_vibro_sword3c_pl|VibroHoja
+itm_vibro_sword3d|VibroHoja
+itm_vibro_sword3d_pl|VibroHoja
 itm_weapons_end|FLAG FOR WEAPONS END
 itm_weapons_end_pl|FLAG FOR WEAPONS END
 itm_tutorial_lightsaber|Sable de Luz
@@ -1262,15 +1262,15 @@ itm_practice_vibro_axe_long|VibroHacha BD-1
 itm_practice_vibro_axe_long_pl|VibroHacha BD-1
 itm_practice_vibro_axe_long_no_attack|VibroHacha BD-1
 itm_practice_vibro_axe_long_no_attack_pl|VibroHacha BD-1
-itm_practice_vibro_blade|Vibroespada
-itm_practice_vibro_blade_pl|Vibroespada
-itm_practice_vibro_sword3a|Vibroespada
-itm_practice_vibro_sword3a_pl|Vibroespada
-itm_practice_vibro_sword2b|Vibroespada a dos manos
-itm_practice_vibro_sword2b_pl|Vibroespada a dos manos
-itm_practice_vibro_sword1b|Vibroespada
-itm_practice_vibro_sword1b_pl|Vibroespada
-itm_quick_battle_armor|Armadura
+itm_practice_vibro_blade|VibroHoja
+itm_practice_vibro_blade_pl|VibroHoja
+itm_practice_vibro_sword3a|VibroHoja
+itm_practice_vibro_sword3a_pl|VibroHoja
+itm_practice_vibro_sword2b|VibroHoja a dos manos
+itm_practice_vibro_sword2b_pl|VibroHoja a dos manos
+itm_practice_vibro_sword1b|VibroHoja
+itm_practice_vibro_sword1b_pl|VibroHoja
+itm_quick_battle_armor|Armor
 itm_quick_battle_armor_pl|Armor
 itm_transparent_helmet_armor|Transparent Helmet with Body Armor
 itm_transparent_helmet_armor_pl|Transparent Helmet with Body Armor
@@ -1338,8 +1338,8 @@ itm_luke_skywalker_outfit|Vestimenta de Luke Skywalker
 itm_luke_skywalker_outfit_pl|Vestimenta de Luke Skywalker
 itm_chewbacca_bowcaster|Ballesta Wookie de Chewbacca
 itm_chewbacca_bowcaster_pl|Ballesta Wookie de Chewbacca
-itm_chewbacca_ryyk_blade|Sable de Chewbacca
-itm_chewbacca_ryyk_blade_pl|Sable de Chewbacca
+itm_chewbacca_ryyk_blade|Hoja de Chewbacca
+itm_chewbacca_ryyk_blade_pl|Hoja de Chewbacca
 itm_boba_fett_armor|Armadura de Boba Fett
 itm_boba_fett_armor_pl|Armadura de Boba Fett
 itm_boba_fett_helmet|Casco de Boba Fett
@@ -1348,14 +1348,14 @@ itm_boba_fett_boots|Botas de Boba Fett
 itm_boba_fett_boots_pl|Botas de Boba Fett
 itm_boba_fett_blaster|EE-3 de Boba Fett
 itm_boba_fett_blaster_pl|EE-3 de Boba Fett
-itm_dengar_armor|Armadura de Dengar
-itm_dengar_armor_pl|Armadura de Dengar
-itm_dengar_helmet|Cobertura Facial de Dengar
-itm_dengar_helmet_pl|Cobertura Facial de Dengar
-itm_dengar_boots|Botas de Dengar
-itm_dengar_boots_pl|Botas de Dengar
-itm_dengar_gloves|Guantes de Dengar
-itm_dengar_gloves_pl|Guantes de Dengar
+itm_dengar_armor|Armadura Dengar
+itm_dengar_armor_pl|Armadura Dengar
+itm_dengar_helmet|Cobertura Facial Dengar
+itm_dengar_helmet_pl|Cobertura Facial Dengar
+itm_dengar_boots|Botas Dengar
+itm_dengar_boots_pl|Botas Dengar
+itm_dengar_gloves|Guantes Dengar
+itm_dengar_gloves_pl|Guantes Dengar
 itm_weequay_vibro_axe|Vibro-Hacha Weequay
 itm_weequay_vibro_axe_pl|Vibro-Hacha Weequay
 itm_force_throw_lightsaber_green|Sable Láser Arrojadizo
@@ -1558,8 +1558,8 @@ itm_a295|A-295
 itm_a295_pl|A-295
 itm_a295_stun|Aturdidor A-295
 itm_a295_stun_pl|Aturdidor A-295
-itm_mandalorian_heavy_blaster|Bláster Pesado Mandaloriano
-itm_mandalorian_heavy_blaster_pl|Bláster Pesado Mandaloriano
+itm_mandalorian_heavy_blaster|Bláster Pesado Mandaloniano
+itm_mandalorian_heavy_blaster_pl|Bláster Pesado Mandaloniano
 itm_corellian_destroyer_blaster|Bláster Destructor Corelliano
 itm_corellian_destroyer_blaster_pl|Bláster Destructor Corelliano
 itm_dlt19|DLT-19
@@ -1574,8 +1574,8 @@ itm_dc15s|DC-15S
 itm_dc15s_pl|DC-15S
 itm_trandoshan_acp_array_gun|Pistola de Matriz ACP
 itm_trandoshan_acp_array_gun_pl|Pistola de Matriz ACP
-itm_trandoshan_stun_gun|Pistola Aturdidora Trandoshana
-itm_trandoshan_stun_gun_pl|Pistola Aturdidora Trandoshana
+itm_trandoshan_stun_gun|Pistola Aturdidora Trandoshane
+itm_trandoshan_stun_gun_pl|Pistola Aturdidora Trandoshane
 itm_quicksnap_36t|36T Cumplimentada
 itm_quicksnap_36t_pl|36T Cumplimentada
 itm_bothan_bola_carabine|Carabina Bothan
@@ -1628,8 +1628,8 @@ itm_elg3a|ELG-3A
 itm_elg3a_pl|ELG-3A
 itm_elg3a_stun|Aturdidor ELG-3A
 itm_elg3a_stun_pl|Aturdidor ELG-3A
-itm_scout_trooper_pistol|Pistola de Soldado de Reconocimiento
-itm_scout_trooper_pistol_pl|Pistola de Soldado de Reconocimiento
+itm_scout_trooper_pistol|Pistola de Soldado Avanzado
+itm_scout_trooper_pistol_pl|Pistola de Soldado Avanzado
 itm_ddc_defender|Defensor DDC
 itm_ddc_defender_pl|Defensor DDC
 itm_geonosian_sonic_pistol|Pistola Sónica Geonosiana
@@ -1642,8 +1642,8 @@ itm_westar_stun|Aturdidor Westar-34
 itm_westar_stun_pl|Aturdidor Westar-34
 itm_ion_pistol|Pistola de Iones
 itm_ion_pistol_pl|Pistola de Iones
-itm_trandoshan_supressor|Supresor Trandoshano
-itm_trandoshan_supressor_pl|Supresor Trandoshano
+itm_trandoshan_supressor|Supresor Trandoshane
+itm_trandoshan_supressor_pl|Supresor Trandoshane
 itm_wrist_blaster|Blaster de Muñeca
 itm_wrist_blaster_pl|Blaster de Muñeca
 itm_ranged_weapons_end|FLAG FOR RANGED WEAPONS BEGIN
@@ -1654,14 +1654,14 @@ itm_dl44a_training|DL-44
 itm_dl44a_training_pl|DL-44
 itm_dlt19_training|DLT-19
 itm_dlt19_training_pl|DLT-19
-itm_heavy_weapons_ammo|Munición de Armas Pesadas
-itm_heavy_weapons_ammo_pl|Munición de Armas Pesadas
-itm_rocket_launcher|Lanzamisiles RDP-12 (in development)
-itm_rocket_launcher_pl|Lanzamisiles RDP-12 (in development)
-itm_flame_rifle|Rifle Lanzallamas CR-24 (in development)
-itm_flame_rifle_pl|Rifle Lanzallamas CR-24 (in development)
-itm_concussion_rifle|Rifle Aturdidor W-90 (in development)
-itm_concussion_rifle_pl|Rifle Aturdidor W-90 (in development)
+itm_heavy_weapons_ammo|Munición Armas Pesadas
+itm_heavy_weapons_ammo_pl|Munición Armas Pesadas
+itm_rocket_launcher|RDP-12 Rocket Launcher (in development)
+itm_rocket_launcher_pl|RDP-12 Rocket Launcher (in development)
+itm_flame_rifle|CR-24 Flame Rifle (in development)
+itm_flame_rifle_pl|CR-24 Flame Rifle (in development)
+itm_concussion_rifle|W-90 Concussion Rifle (in development)
+itm_concussion_rifle_pl|W-90 Concussion Rifle (in development)
 itm_force_kill|Matar con la Fuerza
 itm_force_kill_pl|Matar con la Fuerza
 itm_force_choke|Estrangular con la Fuerza
@@ -1686,8 +1686,8 @@ itm_speeder_fc20|Speeder Bike FC-20
 itm_speeder_fc20_pl|Speeder FC-20
 itm_horus_winged_cruiser|Crucero Horus
 itm_horus_winged_cruiser_pl|Crucero Horus
-itm_speeder_sparrow|Speeder Gorrion
-itm_speeder_sparrow_pl|Speeder Gorrion
+itm_speeder_sparrow|Gorrion Sparrow
+itm_speeder_sparrow_pl|Gorrion Speeder
 itm_pod_racer|Vaina
 itm_pod_racer_pl|Vaina
 itm_swoop_bike|Speeder de Carga

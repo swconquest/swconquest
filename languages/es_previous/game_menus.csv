@@ -20,7 +20,7 @@ mno_start_geonosian|Geonosiano
 mno_start_jawa|Jawa
 mno_start_tusken|Tusken
 mno_go_back|Atrás
-menu_start_phase_2|Es un periodo de Guerra Civil... El Imperio Galáctico está en guerra constante con la Alianza Rebelde, un conflicto que ha llegado hasta los confines de la galaxia. Pero a su vez numerosos criminales se aprovechan de las oportunidades que brinda el enfrentamiento. El Cártel Hutt, entre otras asociaciones, hace uso de sus puertos francos para ganar dinero, y aprovecha la minima ventaja para ampliar sus dominios. Sea cual sea el destino que tomes, una gran aventura te aguarda....
+menu_start_phase_2|Es un periodo de Guerra Civil... El Imperio Galáctico está en guerra constante con la Alianza Rebelde, Cártel Hutt busca oporunidadesen las que ganar dinero y ampliar sus dominios.  Sea cual sea el destino que tomes, una gran aventura te aguarda.
 mno_continue|Continuar...
 mno_tutorial_cheat|¡TRUCO!
 menu_start_game_3|Elige un escenario:
@@ -78,55 +78,55 @@ menu_past_life_explanation|{s3}
 mno_view_next|{s5}
 mno_continue|Continuar...
 mno_go_back_dot|Go back.
-menu_auto_return|Este menú automáticamente vuelve a la persona.
+menu_auto_return|This menu automatically returns to caller.
 menu_morale_report|{s1}
 mno_continue|Continuar...
 menu_faction_orders|{s9}
-mno_faction_orders_next_faction|Seleccionar siguiente facción.
-mno_faction_orders_defend|Fuerza defensa.
-mno_faction_orders_gather|Fuerza reunir ejército.
-mno_faction_orders_increase_time|Aumentar último tiempo de ofensiva en 24.
-mno_faction_orders_rethink|Fuerza recapacitar.
-mno_faction_orders_rethink_all|Fuerza recapacitar a rodas las facciones.
-mno_go_back_dot|Volver.
+mno_faction_orders_next_faction|Select next faction.
+mno_faction_orders_defend|Force defend.
+mno_faction_orders_gather|Force gather army.
+mno_faction_orders_increase_time|Increase last offensive time by 24 hours.
+mno_faction_orders_rethink|Force rethink.
+mno_faction_orders_rethink_all|Force rethink for all factions.
+mno_go_back_dot|Go back.
 menu_character_report|{s9}
 mno_continue|Continuar...
 menu_party_size_report|{s1}
 mno_continue|Continuar...
 menu_faction_relations_report|{s1}
 mno_continue|Continuar...
-menu_camp|Son las {s1} en el dia {reg0} de tu aventura.^^{s9}^^Qué quieres hacer?
-mno_camp_action|Tomar una acción.
-mno_camp_own_kingdom|Opciones de gobierno de Estado.
-mno_camp_manage_inventory|Administrar inventorio.
-mno_camp_wait_here|Espeara aquí por un tiempo.
-mno_configuration_menu|Menú de configuración de SWC.
-mno_cheat_menu|Menú de Modding/Trucos (for development use).
-mno_resume_travelling|Volver al viaje.
-menu_own_kingdom|Escoger una accion:
-mno_recruit_lords|Teclutar a un nuevo comandante. Tu estado cuenta ahora con {reg1} líderes.
-mno_give_territory|Administrar tus territorios.
-mno_change_culture|Cambiar la cultura de tu estado.
-mno_change_kingdom_name|Cambiar el nombre de tu estado.
-mno_camp_action_4|Volver al menu de estacionamiento.
-menu_change_culture|Escoger cultura:^^^La cultura de tu estado determina el tipo de guardias de tus territorios, así como el tipo de reclutas  de tus planetas y los soldados liderados por tus comandantes.
-mno_galactic_empire|cultura del Imperio Galáctico
-mno_rebel_alliance|cultura de la Alianza Rebelde
-mno_hutt_cartel|cultura del Cártel Hutt
-mno_human|cultura Humana
-mno_wookiee|cultura Wookiee
-mno_mandalorian|cultura Mandaloriana
-mno_clone|cultura Clon
-mno_trandoshan|cultura Trandoshana
-mno_camp_action_4|Volver al menú de administración de estado.
-menu_manage_fiefs|Escoger un territorio ({reg1} a {reg2}):
+menu_camp|It's {s1} on day {reg0} of your adventure.^^{s9}^^What do you want to do?
+mno_camp_action|Take an action.
+mno_camp_own_kingdom|Kingdom Management options.
+mno_camp_manage_inventory|Manage your party's inventory.
+mno_camp_wait_here|Wait here for some time.
+mno_configuration_menu|SWC Configuration Menu.
+mno_cheat_menu|Modding/Cheat Menu (for development use).
+mno_resume_travelling|Resume travelling.
+menu_own_kingdom|Choose an action:
+mno_recruit_lords|Recruit a new commander. Your kingdom currently has {reg1} leaders.
+mno_give_territory|Manage your territories.
+mno_change_culture|Change your kingdom's culture.
+mno_change_kingdom_name|Change your kingdom's name.
+mno_camp_action_4|Back to camp menu.
+menu_change_culture|Choose a culture:^^^The culture of your Kingdom determine the guards in your territories, the type of recruits from your planets, and the soldiers in your commanders armies.
+mno_galactic_empire|Galactic Empire culture
+mno_rebel_alliance|Rebel Alliance culture
+mno_hutt_cartel|Hutt Cartel culture
+mno_human|Human culture
+mno_wookiee|Wookiee culture
+mno_mandalorian|Mandalorian culture
+mno_clone|Clone culture
+mno_trandoshan|Trandoshan culture
+mno_camp_action_4|Back to kingdom management menu.
+menu_manage_fiefs|Choose a territory ({reg1} to {reg2}):
 mno_fief_1|{s1}
 mno_fief_2|{s1}
 mno_fief_3|{s1}
-mno_artillery_recruit2|Siquiente...
-mno_artillery_recruit2|Atrás...
-mno_camp_action_4|Volver al menú de estacionamiento.
-menu_manage_fiefs_2|Dar al comandante ({reg1} to {reg2}):
+mno_artillery_recruit2|Next...
+mno_artillery_recruit2|Back...
+mno_camp_action_4|Back to camp menu.
+menu_manage_fiefs_2|Give to commander ({reg1} to {reg2}):
 mno_player|{s3}
 mno_lord_1|{s3}
 mno_lord_2|{s3}
@@ -134,49 +134,49 @@ mno_lord_3|{s3}Siguiente
 mno_artillery_recruit2|Atras
 mno_camp_action_4|Volver
 menu_camp_configuration|Star Wars: Conquest MENÚ DE CONFIGURACIÓN
-mno_config_shield_bash|Cambiar integración de golpe de escudo ( {s1} )
-mno_config_random_scene_battles|Cambiar frecuencia de ataques espontaneos en escenas ( Ahora {reg1}% )
-mno_config_random_scene_assassination|Cambiar frecuencia de intentos de asesinato ( Ahora {reg1}% )
-mno_config_back|Volver al menú de estacionamiento.
-menu_camp_cheat|Menú de Modding/Trucos (para uso de desarrolladores):^^Este menú tiene como objetivo servir en el desarrollo y la mejora del mod. Si activas esta opción adicional el menú de CHEAT también aparecerá en otros menús de juego. Por favor, no comuniques bugs o fallos acerca de esta función, es solo para pruebas.
+mno_config_shield_bash|Change Shield Bash integration ( {s1} )
+mno_config_random_scene_battles|Change frequency of random scene attacks ( Currently {reg1}% )
+mno_config_random_scene_assassination|Change frequency of random assassination attempts ( Currently {reg1}% )
+mno_config_back|Back to camp menu.
+menu_camp_cheat|Modding/Cheat Menu (for development use):^^This menu is intended for development use while we are working on improving this mod. If you enable this option then additonal CHEAT menu's will also appear in other game menu's. Please do not report any bugs with this functionality since it is for testing only.
 mno_cheat_toggle|{s1}
-mno_cheat_walk_around|Andar por la zona.
-mno_cheat_relocate_party|Recolocar al jugador en un planeta cualquiera.
-mno_cheat_increase_renown|Incrementar el renombre del jugador.
-mno_cheat_change_ship_speed|Cambiar la velocidad de la nave del jugador.
-mno_cheat_add_xp|Sumar experiencia al jugador.
-mno_camp_mod_4|Sumar unidades mercenarias al jugador.
-mno_camp_mod_1|Incrementar relacionescon todas las Facciones.
-mno_camp_mod_1b|Reducir relaciones con todas las Facciones.
-mno_camp_mod_2|Incrementar atributos y habilidades del jugador.
-mno_camp_mod_3|Sumar equipo o dinero al jugador.
-mno_camp_mod_5|Hacer aparecer una patrulla cerca.
-mno_cheat_build_upgrades|COnstruir mejoras planetarias.
-mno_cheat_next_page|Siguiente página.
-mno_cheat_back|Volver al menú de estacionamiento.
-menu_camp_cheat_2|Menú de Modding/Trucos (para uso de desarrolladores):^^Este menú tiene como objetivo servir en el desarrollo y la mejora del mod. Si activas esta opción adicional el menú de CHEAT también aparecerá en otros menús de juego.
-mno_cheat_infest_planet|Infestar todas las villas con bandidos.
-mno_cheat_increase_planet_relationship|Mejorar relación con todas las villas.
-mno_cheat_decrease_planet_relationship|Empeorar relación con todas las villas.
-mno_cheat_relocate_fs_trainer|Poner a un Entrenador de la Fuerza en el planeta más cercano.
-mno_cheat_relocate_clone_merchant|Poner a un vendedor de las Guerras Clon en el planeta más cercano.
-mno_cheat_relocate_droid_merchant|Poner a un vendedor de Partes de Droides en el planeta más cercano.
-mno_cheat_relocate_plastic_merchant|Poner a un cirujano plástico en el planeta más cercano.
-mno_cheat_relocate_plastic_merchant|Poner a un NPC cualquiera en el planeta más cercano.
+mno_cheat_walk_around|Walk around.
+mno_cheat_relocate_party|Relocate player to a random planet.
+mno_cheat_increase_renown|Increase player renown.
+mno_cheat_change_ship_speed|Change player ship speed.
+mno_cheat_add_xp|Add experience to player.
+mno_camp_mod_4|Add mercenary units to player party.
+mno_camp_mod_1|Increase relations with all Factions.
+mno_camp_mod_1b|Decrease relations with all Factions.
+mno_camp_mod_2|Raise player's attributes, skills, and proficiencies.
+mno_camp_mod_3|Add gear and gold to player.
+mno_camp_mod_5|Spawn a party nearby.
+mno_cheat_build_upgrades|Build all village upgrades.
+mno_cheat_next_page|Next page.
+mno_cheat_back|Back to camp menu.
+menu_camp_cheat_2|Modding/Cheat Menu (for development use):^^This menu is intended for development use while we are working on improving this mod. If you enable this then additonal CHEAT menu's will also appear in other game menu's.
+mno_cheat_infest_planet|Infest all villages with bandits.
+mno_cheat_increase_planet_relationship|Increase relationship with all villages.
+mno_cheat_decrease_planet_relationship|Decrease relationship with all villages.
+mno_cheat_relocate_fs_trainer|Relocate a Force-Sensitive Trainer to the closest planet.
+mno_cheat_relocate_clone_merchant|Relocate a Clone Wars Era merchant to the closest planet.
+mno_cheat_relocate_droid_merchant|Relocate a Droid Parts merchant to the closest planet.
+mno_cheat_relocate_plastic_merchant|Relocate a Plastic Surgeon to the closest planet.
+mno_cheat_relocate_plastic_merchant|Relocate a random NPC to the closest planet.
 mno_cheat_next_page|Pagina Anterior
 mno_cheat_back|Volver atrás
 menu_camp_action|Elige una accion:
 mno_camp_recruit_prisoners|Reclutar prisioneros.
-mno_action_read_book|Visualizar un Holocrón.
-mno_action_change_race|Cambiar de raza.
-mno_action_modify_banner|Modificar tu bandera.
+mno_action_read_book|Visualiza un Holocrón.
+mno_action_change_race|Cambia de raza.
+mno_action_modify_banner|Modifica tu bandera.
 mno_Tidy_up_your_inventory|Ver Inventario.
 mno_action_retire|Retirarse de la Aventura
-mno_action_export_import|Exportar/Importar NPCs.
-mno_action_swc_readme|Ver las notas de Star Wars: Conquest.
-mno_camp_action_4|Volver al menú de estacionamiento.
-menu_export_import_npcs|Exportar/Importar NPCs^^Instrucciones:^^1) click en el nombre^2) dar a la tecla 'C'^3) click Estadísticas^4) Escoger Exportar/Importar^5) click en 'Hecho' cuando hayas terminado^^Selección actual:  {reg0?{s0}:none}
-mno_export_import_back|Atrás
+mno_action_export_import|Export/Import NPCs.
+mno_action_swc_readme|View Star Wars: Conquest notes.
+mno_camp_action_4|Back to camp menu.
+menu_export_import_npcs|Export/Import NPCs^^Instructions:^^1) click on their name^2) press the 'C' key^3) click Statistics^4) Choose to Export/Import^5) click 'Done' when you are finished^^Current selection:  {reg0?{s0}:none}
+mno_export_import_back|Go back
 mno_export_import_npc1|{s0}
 mno_export_import_npc2|{s0}
 mno_export_import_npc3|{s0}
@@ -185,8 +185,8 @@ mno_export_import_npc5|{s0}
 mno_export_import_npc6|{s0}
 mno_export_import_npc7|{s0}
 mno_export_import_npc8|{s0}
-mno_export_import_next|Siguiente
-menu_export_import_npcs_2|Exportar/Importar NPCs^^Instrucciones:^^1) click su nombre^2) dar al botón 'C'^3) click Estadísticas^4) Escoger Exportar/Importar^5) click en 'Hecho' cuando hayas terminado^^Selección actual:  {reg0?{s0}:none}
+mno_export_import_next|Next page
+menu_export_import_npcs_2|Export/Import NPCs^^Instructions:^^1) click on their name^2) press the 'C' key^3) click Statistics^4) Choose to Export/Import^5) click 'Done' when you are finished^^Current selection:  {reg0?{s0}:none}
 mno_export_import_prev|Página anterior
 mno_export_import_npc9|{s0}
 mno_export_import_npc10|{s0}
@@ -213,7 +213,7 @@ mno_action_read_book_5|{s1}.
 mno_action_read_book_6|{s1}.
 mno_action_read_book_7|{s1}.
 mno_camp_action_4|Volver Atrás
-menu_camp_action_change_race|Elige tu raza:^^Nota: Deberías pasar por el editor de caras después de este paso.
+menu_camp_action_change_race|Elige tu raza:^^Nota: Deberías pasra por el editor de caras después de este paso.
 mno_race_male|Hombre Humano
 mno_race_female|Mujer Humana
 mno_race_twilek|Hombre Twilek
@@ -229,332 +229,332 @@ mno_race_droid|Droide
 mno_race_geonosian|Geonosiano
 mno_race_tusken|Tusken
 mno_race_jawa|Jawa
-mno_camp_menu|Volver al menú de estacionamiento.
+mno_camp_menu|Back to camp menu.
 menu_camp_action_read_book_start|{s1}
 mno_continue|Continuar...
-menu_retirement_verify|Estas en el dia {reg0}. Tu suerte actual asciende a {reg1}. Seguro que quierer retirarte?
-mno_retire_yes|Sí.
+menu_retirement_verify|You are at day {reg0}. Your current luck is {reg1}. Are you sure you want to retire?
+mno_retire_yes|Yes.
 mno_retire_no|No.
-menu_end_game|La decisión está tomada y decides avandonar tu vida de aventurero y sentar la cabeza. Vendes todas tus armas y reunes tus creditos, dirigiéndote al planeta donde aguarda la esperanza de un futuro tranquilo....
-mno_end_game_bye|Muy bien.
+menu_end_game|The decision is made, and you resolve to give up your adventurer's life and settle down. You sell off your weapons and armour, gather up all your money, and ride off into the sunset....
+mno_end_game_bye|Farewell.
 menu_pay_day|{s1}.
 mno_pay_cash|{s2}
 mno_pay_account|{s3}
-mno_pay_both_1|Pagar en metálico primero y del banco después.
-mno_pay_both_2|Pagar primero del banco y después en metálico.
-mno_no_pay|No pagar. Bajará la moral de tus tropas.
-menu_cattle_herd|Encuentras una rebano de nerfs.
-mno_cattle_drive_away|Guiar al rebano de nerfs.
-mno_cattle_stop|Parar al rebano.
-mno_cattle_kill|Sacrificar a algunos de los animales.
+mno_pay_both_1|Pay cash first and the rest from bank account
+mno_pay_both_2|Pay from bank account first and the rest in cash
+mno_no_pay|Don't pay anything. Your troops will lose morale
+menu_cattle_herd|You encounter a nerf herd.
+mno_cattle_drive_away|Drive the nerf herd onward.
+mno_cattle_stop|Bring the herd to a stop.
+mno_cattle_kill|Slaughter some of the animals.
 mno_leave|Leave.
-menu_cattle_herd_kill|Cuantos animales quieres sacrificar?
-mno_cattle_kill_1|Uno.
-mno_cattle_kill_2|Dos.
-mno_cattle_kill_3|Tres.
-mno_cattle_kill_4|Cuantro.
-mno_cattle_kill_5|Cinco.
-mno_go_back_dot|Volver.
-menu_cattle_herd_kill_end|No deberías estar leyendo esto.
-menu_arena_duel_fight|Tu y tu contrincante os preparáis para el enfrentamiento.
+menu_cattle_herd_kill|How many animals do you want to slaughter?
+mno_cattle_kill_1|One.
+mno_cattle_kill_2|Two.
+mno_cattle_kill_3|Three.
+mno_cattle_kill_4|Four.
+mno_cattle_kill_5|Five.
+mno_go_back_dot|Go back.
+menu_cattle_herd_kill_end|You shouldn't be reading this.
+menu_arena_duel_fight|You and your opponent prepare to fight for honour.
 mno_continue|Continuar...
 menu_duel_menu|{s1}{s2}
-mno_start_fight|Comenzar duelo.
-mno_duel_again|Enfrentarse otra vez.
-mno_leave|Abandonar.
-menu_simple_encounter|{s2} Tienes a {reg10} tropas para una batalla contra {reg11}.
-mno_commander_change_simple_encounter|Cambiar de comandante.(Current:{s7})
-mno_encounter_attack|Aterrizar y luchar en {s1}.
-mno_encounter_attack_board_ship|Luchar en la nave.
-mno_encounter_order_attack|Ordenar a tus tropas que ataquen sin ti.
-mno_encounter_leave|Abandonar.
-mno_encounter_retreat|Retirarse, dejando a algunos soldados detrás para cubrir la retirada.
-mno_encounter_surrender|Rendirse.
-menu_change_commander|Selecciona a un compañero como el comandante para la siguiente batalla.^^Current:{s7}.
-mno_go_back|Volver.
-mno_prev_page|Página anterior.
-mno_commander1|{s11}(Salud:{reg1}%) 
-mno_commander2|{s12}(Salud:{reg1}%) 
-mno_commander3|{s13}(Salud:{reg1}%) 
-mno_commander4|{s14}(Salud:{reg1}%) 
-mno_next_page|Página siguiente
-menu_encounter_retreat_confirm|Como el miembro con myores aptitudes tácticas, ({reg2}), {reg3?ideas:{s3} idea} un plan que os permitirá salir ilesos de la situación, pero tendrás que dejar a {reg4} soldados atrás para evitar que os alcancen.
-mno_leave_behind|Seguir con el plan. El sacrificio de estos soldados salvará al resto.
-mno_dont_leave_behind|No. No dejaremos a nadie detrás.
-menu_encounter_retreat|Le dices a {reg4} de tu tripulación que aguanten hasta que hayáis escapado.
+mno_start_fight|Start the duel.
+mno_duel_again|Duel again.
+mno_leave|Leave.
+menu_simple_encounter|{s2} You have {reg10} troops fit for battle against their {reg11}.
+mno_commander_change_simple_encounter|Change the commander.(Current:{s7})
+mno_encounter_attack|Land and fight on {s1}.
+mno_encounter_attack_board_ship|Fight on the ship.
+mno_encounter_order_attack|Order your troops to attack without you.
+mno_encounter_leave|Leave.
+mno_encounter_retreat|Pull back, leaving some soldiers behind to cover your retreat.
+mno_encounter_surrender|Surrender.
+menu_change_commander|Please reselect a companion as the commander for the comming battle.^^Current:{s7}.
+mno_go_back|Go back
+mno_prev_page|Previous page
+mno_commander1|{s11}(Health:{reg1}%) 
+mno_commander2|{s12}(Health:{reg1}%) 
+mno_commander3|{s13}(Health:{reg1}%) 
+mno_commander4|{s14}(Health:{reg1}%) 
+mno_next_page|Next page
+menu_encounter_retreat_confirm|As the party member with the highest tactics skill, ({reg2}), {reg3?you devise:{s3} devises} a plan that will allow you and your men to escape with your lives, but you'll have to leave {reg4} soldiers behind to stop the enemy from giving chase.
+mno_leave_behind|Go on. The sacrifice of these men will save the rest.
+mno_dont_leave_behind|No. We leave no one behind.
+menu_encounter_retreat|You tell {reg4} of your troops to hold the enemy while you retreat with the rest of your party.
 mno_continue|Continuar...
-menu_order_attack_begin|Tus tropas se preparan para lidiar con el enemigo.
-mno_order_attack_begin|Ordenar que de comienzo el ataque.
-mno_call_back|Ordenar que vuelvan.
-menu_order_attack_2|{s4}^^Tus Pérdidas: {s8}^^Pérdidas Enemigas: {s9}
-mno_order_attack_continue|Ordenar a los tuyos que continuen el ataque.
-mno_order_retreat||Ordenar que vuelvan.
+menu_order_attack_begin|Your troops prepare to attack the enemy.
+mno_order_attack_begin|Order the attack to begin.
+mno_call_back|Call them back.
+menu_order_attack_2|{s4}^^Your casualties: {s8}^^Enemy casualties: {s9}
+mno_order_attack_continue|Order your soldiers to continue the attack.
+mno_order_retreat|Call your soldiers back.
 mno_continue|Continuar...
-menu_battle_debrief|{s11}^^Tus Pérdidas:{s8}{s10}^^Pérdidas Enemigas:{s9}
+menu_battle_debrief|{s11}^^Your Casualties:{s8}{s10}^^Enemy Casualties:{s9}
 mno_continue|Continuar...
-menu_total_victory|No deberías estar leyendo esto... {s9}
+menu_total_victory|You shouldn't be reading this... {s9}
 mno_continue|Continuar...
 menu_enemy_slipped_away|{s17}
 mno_continue|Continuar...
-menu_total_defeat|No deberías estar leyendo esto... 
+menu_total_defeat|You shouldn't be reading this...
 menu_permanent_damage|{s0}
 mno_s0|{s0}
-menu_pre_join|Te encuentras con una batalla entre {s2} and {s1}. You decide to...
-mno_pre_join_help_attackers|Apoyar a {s2}.
-mno_pre_join_help_defenders|Ayudar a {s1}.
-mno_pre_join_leave|No ivolucrarse.
-menu_join_battle|Estas ayudandoa {s2} contra {s1}. Tienes a {reg10} tropas en una batalla contra las {reg11} del enemigo.
-mno_commander_change_join_battle|Cambiar al comandante.(Current:{s7})
-mno_join_attack|Cargar contra el enemigo.
-mno_join_order_attack|Ordenar a tus tropas que atquen junto a tus aliados mientras te quedas atrás.
-mno_join_leave|Abandonar.
-menu_join_order_attack|{s4}^^Tus Pérdidas: {s8}^^Pérdidas Aliadas: {s9}^^Pérdidas Enemigas: {s10}
+menu_pre_join|You come across a battle between {s2} and {s1}. You decide to...
+mno_pre_join_help_attackers|Move in to help the {s2}.
+mno_pre_join_help_defenders|Rush to the aid of the {s1}.
+mno_pre_join_leave|Don't get involved.
+menu_join_battle|You are helping the {s2} against the {s1}. You have {reg10} troops fit for battle against the enemy's {reg11}.
+mno_commander_change_join_battle|Change the commander.(Current:{s7})
+mno_join_attack|Charge the enemy.
+mno_join_order_attack|Order your troops to attack with your allies while you stay back.
+mno_join_leave|Leave.
+menu_join_order_attack|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
 mno_continue|Continuar...
-menu_zendar|Entras en la localidad de Zendar.
+menu_zendar|You enter the town of Zendar.
 mno_zendar_enter| 
-mno_zendar_enter_door|Entrada al centro de la localidad.
+mno_zendar_enter_door|Door to the town center.
 mno_zendar_tavern| 
-mno_zendar_tavern_door|Entrada a la cantina.
+mno_zendar_tavern_door|Door to the cantina.
 mno_zendar_merchant| 
-mno_zendar_merchant_door|Entrada al mercader.
+mno_zendar_merchant_door|Door to the merchant.
 mno_zendar_arena| 
-mno_zendar_arena_door|Entrada a la arena.
+mno_zendar_arena_door|Door to the arena.
 mno_town_1_leave| 
-menu_salt_mine|Entrada a la mina de sal.
-mno_enter|Entrar.
-mno_leave|Abandonar.
-menu_four_ways_inn|Llegas a la Four Ways Inn.
-mno_enter|Entrar.
-mno_leave|Abandonar.
-menu_test_scene|Entras en la escena de pruebas.
-mno_enter|Entrar.
-mno_leave|Abandonar.
-menu_battlefields|Seleccionar un campo...
+menu_salt_mine|You enter the salt mine.
+mno_enter|Enter.
+mno_leave|Leave.
+menu_four_ways_inn|You arrive at the Four Ways Inn.
+mno_enter|Enter.
+mno_leave|Leave.
+menu_test_scene|You enter the test scene.
+mno_enter|Enter.
+mno_leave|Leave.
+menu_battlefields|Select a field...
 mno_enter_f1|Field 1
 mno_enter_f2|Field 2
 mno_enter_f3|Field 3
 mno_enter_f4|Field 4
 mno_enter_f5|Field 5
-mno_leave|Abandonar.
-menu_dhorak_keep|Entras en el Dhorak Keep
-mno_enter|Entrar.
-mno_leave|Abandonar.
-menu_join_siege_outside|{s1} está bajo asedio por {s2}.
-mno_approach_besiegers|Acercarse al asedio.
-mno_pass_through_siege|Penetrar las lineas de asedio y llegar a {s1}.
-mno_leave|Abandonar.
-menu_cut_siege_without_fight|Los atacantes te dejan llegar al objetivo sin lidiar contigo.
+mno_leave|Leave.
+menu_dhorak_keep|You enter the Dhorak Keep
+mno_enter|Enter.
+mno_leave|Leave.
+menu_join_siege_outside|{s1} has come under siege by {s2}.
+mno_approach_besiegers|Approach the siege camp.
+mno_pass_through_siege|Pass through the siege lines and enter {s1}.
+mno_leave|Leave.
+menu_cut_siege_without_fight|The besiegers let you approach the entrance without challenge.
 mno_continue|Continuar...
-menu_besiegers_camp_with_allies|{s1} sigue bajo asedio. Las banderas de {s2} ondeand en el campo de los defensores, donde tu y los tuyos sois bienvenidos.
+menu_besiegers_camp_with_allies|{s1} remains under siege. The banners of {s2} fly above the camp of the besiegers, where you and your men are welcomed.
 mno_talk_to_siege_commander| Request a meeting with the commander.
 mno_commander_change_besiegers_camp_with_allies|Change the commander.(Current:{s7})
-mno_join_siege_with_allies|Unirse al siguiente asalto.
-mno_join_siege_stay_back|Ordenar a tus soldados que se unan al siguiente asalto sin ti.
-mno_leave|Abandonar.
-menu_castle_outside|Estás afuera de {s2}.{s11} {s3} {s4}
-mno_approach_gates|Acercarse al planeta y contactar con la seguridad local.
-mno_town_sneak|Disfrazarse e intentar entrar en el planeta.
-mno_castle_start_siege|Asediar {reg6?town:castle}.
-mno_cheat_castle_start_siege|CHEAT: Asediar {reg6?town:castle}...
-mno_castle_leave|Abandonar.
+mno_join_siege_with_allies|Join the next assault.
+mno_join_siege_stay_back|Order your soldiers to join the next assault without you.
+mno_leave|Leave.
+menu_castle_outside|You are outside {s2}.{s11} {s3} {s4}
+mno_approach_gates|Approach the planet and contact the guards.
+mno_town_sneak|Disguise yourself and try to sneak onto the planet.
+mno_castle_start_siege|Besiege the {reg6?town:castle}.
+mno_cheat_castle_start_siege|CHEAT: Besiege the {reg6?town:castle}...
+mno_castle_leave|Leave.
 mno_castle_cheat_interior|CHEAT! Interior.
 mno_castle_cheat_exterior|CHEAT! Exterior.
 mno_castle_cheat_town_walls|CHEAT! Town Walls.
-menu_castle_guard|Te aproximas a las pistas de aterrizaje. Los guardias en los puestos de observación vigilan tus movimientos.
-mno_request_shelter.|Pedir entrada al lugar.
-mno_request_meeting_commander|Pedir audiencia con alguien.
-mno_guard_leave|Abandonar.
-menu_castle_entry_granted|tras una corta espera, seguridad baja los escudos y te permiten entrar.
+menu_castle_guard|You approach the landing bay. The guards on the observation posts watch you closely.
+mno_request_shelter|Request entry to the site.
+mno_request_meeting_commander|Request a meeting with someone.
+mno_guard_leave|Leave.
+menu_castle_entry_granted|After a brief wait, the guards lower the shields for you and allow your party to land.
 mno_continue|Continuar...
-menu_castle_entry_denied|El gobernador de este planeta a prohibido tu entrada en el planeta, y el sargento al mando asegura que ordenará disparar a los suyos si intentas traspasar sus sistemas.
+menu_castle_entry_denied|The lord of this planet has forbidden you from landing on the surface, and the guard sergeant informs you that his men will fire if you attempt to come any closer.
 mno_continue|Continuar...
-menu_castle_meeting|A quién quieres ver?
+menu_castle_meeting|With whom do you want to meet?
 mno_guard_meet_s5|{s5}.
 mno_guard_meet_s5|{s5}.
 mno_guard_meet_s5|{s5}.
 mno_guard_meet_s5|{s5}.
-mno_forget_it|Olvídalo.
-menu_castle_meeting_selected|Tu petición es aceptada y finalmente {s6} aparece para hablar contigo.
+mno_forget_it|Forget it.
+menu_castle_meeting_selected|Your request for a meeting is relayed inside, and finally {s6} appears in the courtyard to speak with you.
 mno_continue|Continuar...
-menu_castle_besiege|Estas asediando {s1}. {s2} {s3}
-mno_siege_request_meeting|Pedir un encuentro con el comandante a la defensa.
-mno_wait_24_hours|Esperar a mañana.
-mno_commander_change_castle_besiege|Cambiar de comandante.(Current:{s7})
-mno_castle_lead_attack|Lidera a tus soldados en un asalto.
-mno_attack_stay_back|Ordena a tus soldados atacar mientras te quedas atrás.
-mno_build_ladders|Asalta los Escudos.
-mno_build_siege_tower|Despliega los sistemas de ataque.
+menu_castle_besiege|You are laying siege to {s1}. {s2} {s3}
+mno_siege_request_meeting|Call for a meeting with the castle commander.
+mno_wait_24_hours|Wait until tomorrow.
+mno_commander_change_castle_besiege|Change the commander.(Current:{s7})
+mno_castle_lead_attack|Lead your soldiers in an assault.
+mno_attack_stay_back|Order your soldiers to attack while you stay back...
+mno_build_ladders|Assault the Shields.
+mno_build_siege_tower|Build a siege tower.
 mno_cheat_castle_lead_attack|CHEAT: Instant build equipments.
-mno_lift_siege|Abandonar el asedio.
-menu_siege_attack_meets_sally|Los defensores salen a enfrentarse contigo.
+mno_lift_siege|Abandon the siege.
+menu_siege_attack_meets_sally|The defenders sally out to meet your assault.
 mno_continue|Continuar...
 menu_castle_besiege_inner_battle|{s1}
 mno_continue|Continuar...
-menu_construct_ladders|Como el miembro de la patruya con el mayor conocimiento de ingeniería ({reg2}), {reg3?tu estimas:{s3} estima} que se tardarán {reg4} horas en destruir los escudos y poder asaltar sus posiciones.
-mno_build_ladders_cont|Comenzar el Asalto.
-mno_go_back|Volver.
-menu_construct_siege_tower|Como el miembro de la patruya con el mayor conocimiento de ingeniería ({reg2}), {reg3?tu estimas:{s3} estima} que desplegar los sistemas de ataque tomará {reg4} horas.
+menu_construct_ladders|As the party member with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to destroy the shields so the assault can begin.
+mno_build_ladders_cont|Begin the Assault.
+mno_go_back|Go back.
+menu_construct_siege_tower|As the party member with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that building a siege tower will take {reg4} hours.
 mno_build_siege_tower_cont|Start building.
-mno_go_back|Volver.
-menu_castle_attack_walls_simulate|{s4}^^Tus Pérdidas:{s8}^^Pérdidas Enemigas: {s9}
+mno_go_back|Go back.
+menu_castle_attack_walls_simulate|{s4}^^Your casualties:{s8}^^Enemy casualties were: {s9}
 mno_continue|Continuar...
-menu_castle_attack_walls_with_allies_simulate|{s4}^^Tus Pérdidas: {s8}^^Pérdidas Aliadas: {s9}^^Pérdidas enemigas: {s10}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
 mno_continue|Continuar...
-menu_castle_taken_by_friends|Nada que ver por aquí.
-menu_castle_taken|{s3} ha caido ante tus tropas, y ahora tienes control total sobre {reg2?town:castle}.{reg1? No parece que haya nada que te detenga de tomarlo para ti...:}
+menu_castle_taken_by_friends|Nothing to see here.
+menu_castle_taken|{s3} has fallen to your troops, and you now have full control of the {reg2?town:castle}.{reg1? It would seem that there is nothing stopping you from taking it for yourself...:}
 mno_continue|Continuar...
-menu_castle_taken_2|{s3} ha caido ante tus tropas, y ahora tienes control total sobre el lugar. Es hora de avisar a {s9} de tu victoria. {s5}
-mno_castle_taken_claim|Pide que {s3} te sea encomendada.
-mno_castle_taken_no_claim|No pedir premio alguno.
-menu_requested_castle_granted_to_player|Recibes un mensaje de tu superior, {s3}.^^ {reg4?She:He} ha decidido dejarte {s2}{reg3? y el planeta cercano de {s4}:} bajo tu mando, incluyendo titulos y rentas, para gobernar en su nombre siempre y cuando mantengas la lealtad.
+menu_castle_taken_2|{s3} has fallen to your troops, and you now have full control of the castle. It is time to send word to {s9} about your victory. {s5}
+mno_castle_taken_claim|Request that {s3} be awarded to you.
+mno_castle_taken_no_claim|Ask no rewards.
+menu_requested_castle_granted_to_player|You receive a message from your liege, {s3}.^^ {reg4?She:He} has decided to grant {s2}{reg3? and the nearby planet of {s4}:} to you, with all due incomes and titles, to hold in {reg4?her:his} name for as long as you maintain your oath of homage.
 mno_continue|Continue.
-menu_requested_castle_granted_to_another|recibes un mensaje de tu superior, {s3}.^^ 'Me ha encantado saber de la captura de {s2}. Tu victoria se ha ganado un hueco en nuestros corazones. También me pediste el gobierno del subsector, pero me temo que se trata de un derecho que no puedo otorgar, dado que ya tienes encargada una amplia region. En su lugar te envio {reg6} créditos cubrir los gastos de la campana, pero {s2} será parte de la administración de {s5}.' 
-mno_accept_decision|Aceptar la decisión.
-mno_leave_faction|¡Te has equivocado! ¡Niego tu superioridad! 
-menu_leave_faction|Poner fin a la lealtad puede ser perjudicial. Tu líder puede tomar cartas en el asunto y hacerse con el area bajo tu control. De todos modos, si devuelves los enclaves que gobiernas, puede que te dejen marchar sin represalias.
-mno_leave_faction_give_back|Renunciar al pacto y entregar los enclaves bajo tu control.
-mno_leave_faction_hold|Renunciar al pacto de gobierno y guardar tus posesiones, incluida {s2}.
-mno_leave_faction_cancel|Permanecer leal y aceptar la decisión.
-menu_give_center_to_player|Tu superior te ofrece extender tu gobierno. {s1} anuncia que pretende dejarte {s2} en respuesta a tu leal servicio, sumándolo a las bases bajo tu control. ¿Cuál es tu respuesta?
-mno_give_center_to_player_accept|Aceptar la oferta.
-mno_give_center_to_player_reject|Negarte. No tienes interés en gobernar {s2}.
-menu_give_center_to_player_2|Con la ceremonia de investidura, eres oficialmente el gobernador de {s2}{reg3? y comandante en jefe de las fuerzas planetarias de {s4}:}. {reg3?They:It} será un subsector importante bajo tu mando. Ahora puedes reclamar las rentas, hacerte con reclutas de la zona o administrar los enclaves como creas preciso. De todos modos también se espera que defiendas dicho subsector, así como mantener la seguridad y el orden en el mismo.
+menu_requested_castle_granted_to_another|You receive a message from your monarch, {s3}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give you ownership of the castle, but that is a favour which I fear I cannot grant, as you already hold significant estates in my realm. Instead I have sent you {reg6} créditos to cover the expenses of your campaign, but {s2} I give to {s5}.' 
+mno_accept_decision|Aceptar the decision.
+mno_leave_faction|You have been wronged! Renounce you oath to your liege! 
+menu_leave_faction|Renouncing your oath is a grave act. Your lord may condemn you and confiscate your lands and holdings. However, if you return them of your own free will, he may let the betrayal go without a fight.
+mno_leave_faction_give_back|Renounce your oath and give up your holdings.
+mno_leave_faction_hold|Renounce your oath and hold on to your lands, including {s2}.
+mno_leave_faction_cancel|Remain loyal and accept the decision.
+menu_give_center_to_player|Your lord offers to extend your territories! {s1} sends word that he is willing to grant {s2} to you in payment for your loyal service, adding it to your holdings. What is your answer?
+mno_give_center_to_player_accept|Aceptar the offer.
+mno_give_center_to_player_reject|Reject. You have no interest in holding {s2}.
+menu_give_center_to_player_2|With a brief ceremony, you are officially confirmed as the new lord of {s2}{reg3? and its bound planet {s4}:}. {reg3?They:It} will make a fine part of your fiefdom. You can now claim the rents and revenues from your personal estates there, draft soldiers from the populace, and manage the lands as you see fit. However, you are also expected to defend your fief and your people from harm, as well as maintaining the rule of law and order.
 mno_continue|Continuar...
-menu_oath_fulfilled|Has acordado con {s1} servirle durante un cierto tiempo. Tu contrato ha expirado. Qué harás ahora?
-mno_renew_oath|Renovar el contrato con {s1} por otro mes.
-mno_dont_renew_oath|Quedar libre de deber alguno.
-menu_siege_started_defender|{s1} está lanzando un ataque contra los escudos de {s2}. Tienes {reg10} tropas listas para la batalla contra las {reg11} del enemigo. Decides...
-mno_commander_change_siege_defender|Cambiar de comandante.(Current:{s7})
-mno_siege_defender_join_battle|Unirte a la batalla.
-mno_siege_defender_troops_join_battle|Ordenar a tus hombres que entren en batalla sin ti.
-menu_siege_join_defense|{s4}^^Tus Pérdidas: {s8}^^Pérdidas Aliadas: {s9}^^Pérdidas Enemigas: {s10}
+menu_oath_fulfilled|You had a contract with {s1} to serve him for a certain duration. Your contract has now expired. What will you do?
+mno_renew_oath|Renew your contract with {s1} for another month.
+mno_dont_renew_oath|Become free of your bond.
+menu_siege_started_defender|{s1} is launching an assault against the walls of {s2}. You have {reg10} troops fit for battle against the enemy's {reg11}. You decide to...
+mno_commander_change_siege_defender|Change the commander.(Current:{s7})
+mno_siege_defender_join_battle|Join the battle.
+mno_siege_defender_troops_join_battle|Order your men to join the battle without you.
+menu_siege_join_defense|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
 mno_continue|Continuar...
-menu_enter_your_own_castle|Según te acercas, eres divisado por la seguridad, que baja los escudos y te la bienvenida.
+menu_enter_your_own_castle|As you approach, you are spotted by the planet guards, who welcome you and lower the shields for their {lord/lady}.
 mno_continue|Continuar...
 menu_village|{s10}{s11}{s6}{s7}
 mno_village_manage|Administrar el Planeta.
 mno_village_elder_talk|Hablar con el Administrador del Planeta.
-mno_village_elder_talk_door|Entrada al centro de la localidad.
+mno_village_elder_talk_door|Door to the village center.
 mno_recruit_clones|Reclutar Clones.
 mno_recruit_force_sensitive|Reclutar Sensibles a la Fuerza.
 mno_recruit_droid|Construir Droides de Batalla.
-mno_recruit_rancor|Reclutar Voluntarios.
+mno_recruit_rancor|RecluREclutar Voluntarios.
 mno_village_center|Aterrizar en el Planeta.
-mno_village_center_door|Entrada al Centro.
+mno_village_center_door|Puerta al Centro.
 mno_village_buy_food|Comprar suministros.
 mno_commander_change_village_attack_bandits|Cambiar Comandante.[{s7}]
 mno_village_attack_bandits|Atacar a los bandidos
 mno_village_wait|Esperar aquí un tiempo
-mno_collect_taxes_qst|{reg5?Seguir cobrando impuestos:Collect taxes} debido a {s1}.
-mno_train_peasants_against_bandits_qst|Entrenar a los locales.
-mno_village_hostile_action|Realizar un acto hostil.
+mno_collect_taxes_qst|{reg5?Continue collecting taxes:Collect taxes} due to {s1}.
+mno_train_peasants_against_bandits_qst|Train the peasants.
+mno_village_hostile_action|Take a hostile action.
 mno_village_reports|CHEAT! Show reports.
 mno_village_leave|Salir...
-menu_village_hostile_action|Que tienes en mente?
+menu_village_hostile_action|What action do you have in mind?
 mno_village_take_food|Robar Suministros.
 mno_village_steal_cattle|Robar Nerfs.
-mno_village_loot|Saquear y bombardear este Planeta.
-mno_forget_it|Olvídalo.
+mno_village_loot|Saquear y destruir este Planeta.
+mno_forget_it|Ólvídalo
 menu_recruit_clones|{s18}
 mno_continue|Continuar...
 mno_recruit_them|Recruit {reg5} of them ({reg6} créditos).
-mno_forget_it|Olvídalo.
+mno_forget_it|Forget it.
 menu_recruit_force_sensitives|{s18}
 mno_continue|Continuar...
 mno_recruit_them|Recruit {reg5} of them ({reg6} créditos).
-mno_forget_it|Olvídalo.
+mno_forget_it|Forget it.
 menu_recruit_droids|{s18}
 mno_continue|Continuar...
 mno_recruit_them|Recruit {reg5} of them ({reg6} créditos).
-mno_forget_it|Olvídalo.
+mno_forget_it|Forget it.
 menu_recruit_rancors|{s18}
 mno_continue|Continuar...
 mno_recruit_them|Recruit {reg5} of them ({reg6} créditos).
-mno_forget_it|Olvídalo.
+mno_forget_it|Forget it.
 menu_recruit_volunteers|{s18}
 mno_continue|Continuar...
 mno_recruit_them|Recruit {reg5} of them ({reg6} créditos).
-mno_forget_it|Olvídalo.
-menu_village_hunt_down_fugitive_defeated|Un impacto certero del fugitivo te lleva al suelo y tu visión se vuelve borrosa y finalmente oscura.  El tiempo pasa. Cuando abres tus ojos de nuevo estas magullado y herido, pero por suerte no hay daños críticos.
+mno_forget_it|Forget it.
+menu_village_hunt_down_fugitive_defeated|A heavy blow from the fugitive sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
 mno_continue|Continuar...
 menu_village_infest_bandits_result|{s9}
 mno_continue|Continuar...
-menu_village_infestation_removed|En una batalla digna de recuerdo consigues deshacerte de la patrulla hostil. Poco les queda a los locales, pero te lo ofrecen de buena gana en muestra de agradecimiento.
-mno_village_bandits_defeated_accept|Hazte con sus ofrendas como pago legítimo.
-mno_village_bandits_defeated_cont|Niégate, alegando que ellos lo necesitarán más que tú.
-menu_center_manage|{s19}^{reg6?^^Actualmente estas construyendo {s7}. El edificio estará completo en el dia {reg8} {reg9?s:}.:}
-mno_center_build_temple|Construir un Templo de la Fuerza.
-mno_center_build_clone_chambers|Construir Cámaras de Clonación.
-mno_center_build_droid_foundry|Construir una Fundición de Droides
-mno_center_build_rancor_pit|Construir un Foso Rancor.
-mno_center_build_manor|Construir un Palacio.
-mno_center_build_fish_pond|Construir una Fábrica.
-mno_center_build_watch_tower|Construir una Estación de Rádar.
-mno_center_build_school|Construir un Centro de Educación.
-mno_center_build_messenger_post|Construir un Centro de Comunicaciones.
-mno_center_build_prisoner_tower|Construir una Prisión.
-mno_go_back_dot|Volver.
-menu_center_improve|{s19} Como el miembro con mayores conocimientos de ingeniería ({reg2}), {reg3?estimas:{s3} estima} que ese edificio {s4} te costará {reg5} créditos y tomara {reg6} dias para hacerse.
-mno_improve_cont|Seguir.
-mno_forget_it|Olvídalo.
-mno_improve_not_enough_gold|No tienes suficiente dinero para eso.
+menu_village_infestation_removed|In a battle worthy of song, you and your men drive the bandits out of the village, making it safe once more. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find.
+mno_village_bandits_defeated_accept|Take it as your just due.
+mno_village_bandits_defeated_cont|Refuse, stating that they need these items more than you do.
+menu_center_manage|{s19}^{reg6?^^You are currently building {s7}. The building will be completed after {reg8} day{reg9?s:}.:}
+mno_center_build_temple|Build a Force-Sensitive Temple.
+mno_center_build_clone_chambers|Build Clone Chambers.
+mno_center_build_droid_foundry|Build a Droid Foundry.
+mno_center_build_rancor_pit|Build a Rancor Pit.
+mno_center_build_manor|Build a Palace.
+mno_center_build_fish_pond|Build a Industrial Factory.
+mno_center_build_watch_tower|Build a Radar Station.
+mno_center_build_school|Build a Educational Facility.
+mno_center_build_messenger_post|Build a Communications Center.
+mno_center_build_prisoner_tower|Build a Prison Tower.
+mno_go_back_dot|Go back.
+menu_center_improve|{s19} As the party member with the highest engineer skill ({reg2}), {reg3?you reckon:{s3} reckons} that building the {s4} will cost you {reg5} créditos and will take {reg6} days.
+mno_improve_cont|Go on.
+mno_forget_it|Forget it.
+mno_improve_not_enough_gold|I don't have enough money for that.
 menu_town_bandits_failed|{s4} {s5}
 mno_continue|Continuar...
-menu_town_bandits_succeeded|Los bandidos can ante ti. Pronto te encuentras solo, con tus atacantes inconscientes, muertos o muriéndose. Mientras buscas entre los cuerpos encuentras unos cuantos créditos, supuestamente pertenecientes a alguna víctima anterior. O quizas a alquien que les hubiera pagado...
+menu_town_bandits_succeeded|The bandits fall before you as wheat to a scythe! Soon you stand alone in the streets while most of your attackers lie unconscious, dead or dying. Searching the bodies, you find a purse which must have belonged to a previous victim of these brutes. Or perhaps, it was given to them by someone who wanted to arrange a suitable ending to your life.
 mno_continue|Continuar...
-menu_village_steal_cattle_confirm|Como el miembro de la patrulla con la mayor habilidad de pillaje ({reg2}), {reg3?sabes:{s1} sabe} que podrás conseguir {reg4} nerfs como mucho.
-mno_village_steal_cattle_confirm|Continuar.
-mno_forget_it|Olvídalo.
+menu_village_steal_cattle_confirm|As the party member with the highest looting skill ({reg2}), {reg3?you reckon:{s1} reckons} that you can steal as many as {reg4} nerfs from the village's herd.
+mno_village_steal_cattle_confirm|Go on.
+mno_forget_it|Forget it.
 menu_village_steal_cattle|{s1}
 mno_continue|Continuar...
-menu_village_take_food_confirm|Será dificil forzar a estos habitantes para que te den sus pertenencias. Al menos necesitarás una hora.
-mno_village_take_food_confirm|Continuar.
-mno_forget_it|Olvídalo.
-menu_village_take_food|Los habitantes sacan lo que tienen.
-mno_take_supplies|Hazte con las pertenencias.
-mno_let_them_keep_it|Deja que se lo queden.
-menu_village_start_attack|Algunos de los enfurecidos locales se hacen con herramientas y armas. No pretenden dejarte lo suyo sin luchar.
-mno_village_raid_attack|Carga contra ellos.
-mno_village_raid_leave|Deja este planeta en paz.
-menu_village_loot_no_resist|Los habitantes aquí son pocos y están asustados. No son nada para ti y el lugar está a tu merced.
-mno_village_loot|Saquea y arrasa el lugar.
-mno_village_raid_leave|Deja este lugar en paz.
-menu_village_loot_complete|Bajo tus órdenes, tu gente saquea y arrasa el lugar. Como resultado consigues agenciarte una suma de {reg1} créditos.
+menu_village_take_food_confirm|It will be difficult to force and threaten the peasants into giving their precious supplies. You think you will need at least one hour.
+mno_village_take_food_confirm|Go ahead.
+mno_forget_it|Forget it.
+menu_village_take_food|The villagers grudgingly bring out what they have for you.
+mno_take_supplies|Take the supplies.
+mno_let_them_keep_it|Let them keep it.
+menu_village_start_attack|Some of the angry villagers grab their tools and prepare to resist you. It looks like you'll have a fight on your hands if you continue.
+mno_village_raid_attack|Charge them.
+mno_village_raid_leave|Leave this planet alone.
+menu_village_loot_no_resist|The villagers here are few and frightened, and they quickly scatter and run before you. The planet is at your mercy.
+mno_village_loot|Plunder the planet, then raze it.
+mno_village_raid_leave|Leave this village alone.
+menu_village_loot_complete|On your orders your troops sack the village, pillaging everything of any value, and then put the buildings to the torch. From the coins and valuables that are found, you get your share of {reg1} créditos.
 mno_continue|Continuar...
-menu_village_loot_defeat|Luchando con coraje y determinación los locales consiguen expulsarte.
+menu_village_loot_defeat|Fighting with courage and determination, the villagers manage to hold together and drive off your forces.
 mno_continue|Continuar...
-menu_village_loot_continue|Quieres continuar saqueando este lugar?
-mno_disembark_yes|Sí.
+menu_village_loot_continue|Do you wish to continue looting this village?
+mno_disembark_yes|Yes.
 mno_disembark_no|No.
-menu_close|Nada.
-menu_center_tax|recibes las resntas e impuestos de todo tu territorio, lo que asciende a {reg1} créditos.
+menu_close|Nothing.
+menu_center_tax|You receive the accumulated rents and taxes of all your planets, amounting to {reg1} créditos.
 mno_continue|Continuar...
 menu_town|{s10}{s11}{s12}{s13}
-mno_castle_castle|Ir al recibidor principal.
-mno_castle_castle_door|Entrada a la fortaleza.
-mno_join_tournament|Unirse al torneo.
-mno_town_castle|Ir al recibidor principal.
-mno_town_castle_door|Entrada al recibidor principal.
-mno_town_center|Aterrizar en la superficie del planeta.
-mno_town_center_door|Entrada al centro.
-mno_town_tavern|Visitar la cantina.
-mno_town_tavern_door|Entrada a la cantina.
-mno_town_merchant|Hablar con el mercader.
-mno_town_merchant_door|Entrada la tienda.
-mno_town_arena|Entrar en la arena.
-mno_town_arena_door|Entrada a la arena.
-mno_town_dungeon|Nunca: Entrar en la prisión.
-mno_town_dungeon_door|Entrada a la prisión.
-mno_castle_inspect|Dar un paseo por el lugar.
-mno_castle_inspect_door|Ir al patio de la fortaleza.
-mno_trade_with_merchants|Ir al mercado.
-mno_walled_center_manage|Administrar {reg0?planet:planet}.
-mno_castle_station_troops|Dejar una guarnición...
-mno_castle_wait|Guardar tu nave en la pista de aterrizaje{s1}.
+mno_castle_castle|Go to the main hall.
+mno_castle_castle_door|Door to the castle.
+mno_join_tournament|Join the tournament.
+mno_town_castle|Go to the main hall.
+mno_town_castle_door|Door to the main hall.
+mno_town_center|Land on the planet surface.
+mno_town_center_door|Door to the center.
+mno_town_tavern|Visit the cantina.
+mno_town_tavern_door|Door to the cantina.
+mno_town_merchant|Speak with the merchant.
+mno_town_merchant_door|Door to the shop.
+mno_town_arena|Enter the force-sensitive arena.
+mno_town_arena_door|Door to the arena.
+mno_town_dungeon|Never: Enter the prison.
+mno_town_dungeon_door|Door to the prison.
+mno_castle_inspect|Take a walk around the site.
+mno_castle_inspect_door|To the castle courtyard.
+mno_trade_with_merchants|Go to the marketplace.
+mno_walled_center_manage|Manage this {reg0?planet:planet}.
+mno_castle_station_troops|Station a garrison here...
+mno_castle_wait|Dock your ship in the hangar bay{s1}.
 mno_town_alley|CHEAT: Go to the alley.
-mno_collect_taxes_qst|{reg5?Seguir cobrando impuestos:Collect taxes} debido a {s1}.
-mno_town_leave|Abandonar...
-mno_town_leave_door|Abandonar área.
+mno_collect_taxes_qst|{reg5?Continue collecting taxes:Collect taxes} due to {s1}.
+mno_town_leave|Leave...
+mno_town_leave_door|Leave Area.
 mno_castle_cheat_interior|CHEAT! Interior.
 mno_castle_cheat_town_exterior|CHEAT! Exterior.
 mno_castle_cheat_dungeon|CHEAT! Prison.
@@ -562,113 +562,113 @@ mno_castle_cheat_town_walls|CHEAT! Town Walls.
 mno_cheat_town_start_siege|CHEAT: Besiege the {reg6?town:castle}...
 mno_center_reports|CHEAT! Show reports.
 mno_sail_from_port|Sail from port.
-menu_town_tournament_lost|Has sido eliminado del torneo.
+menu_town_tournament_lost|You have been eliminated from the tournament.
 mno_continue|Continuar...
-menu_town_tournament_won|¡Has ganado el torneo de {s3}! Estas lleno de orgullo y la gente te aclama en las calles. Pero además del honor, la fama y la gloria, has ganado un premio de {reg9} créditos. {s8}
+menu_town_tournament_won|You have won the tournament of {s3}! You are filled with pride as the crowd cheers your name. In addition to honour, fame and glory, you earn a prize of {reg9} créditos. {s8}
 mno_continue|Continuar...
-menu_town_tournament_won_by_another|Como el último {reg3?fighter:man} en quedar invicto, {s1} gana el torneo.
+menu_town_tournament_won_by_another|As the only {reg3?fighter:man} to remain undefeated this day, {s1} wins the lists and the glory of this tournament.
 mno_continue|Continuar...
-menu_town_tournament|{s1}You are at tier {reg0} of the tournament, quedando aún {reg1} participantes. En la siguiente ronda habrá {reg2} teams with {reg3} {reg4?fighters:fighter} each.
-mno_tournament_view_participants|Mirar la lista de participantes.
-mno_tournament_bet|Apuesta por ti.
-mno_tournament_join_next_fight|Luchar en la siguiente ronda.
-mno_leave_tournament|Dejar el torneo.
-menu_tournament_withdraw_verify|¿Estás seguro de que quieres abandonar el torneo?
+menu_town_tournament|{s1}You are at tier {reg0} of the tournament, with {reg1} participants remaining. In the next round, there will be {reg2} teams with {reg3} {reg4?fighters:fighter} each.
+mno_tournament_view_participants|View participants.
+mno_tournament_bet|Place a bet on yourself.
+mno_tournament_join_next_fight|Fight in the next round.
+mno_leave_tournament|Withdraw from the tournament.
+menu_tournament_withdraw_verify|Are you sure you want to withdraw from the tournament?
 mno_tournament_withdraw_yes|Yes. This is a pointless affectation.
-mno_tournament_withdraw_no|¡No mientras quede una opción de ganar!
-menu_tournament_bet|Las apuestas contra ti son de {reg5} a {reg6}.{reg1? Tu ya has apostado {reg1} créditos en ti, y si ganas, consigues {reg2} créditos.:} ¿Cuánto quieres apostar?
+mno_tournament_withdraw_no|No, not as long as there is a chance of victory!
+menu_tournament_bet|The odds against you are {reg5} to {reg6}.{reg1? You have already bet {reg1} créditos on yourself, and if you win, you will earn {reg2} créditos.:} How much do you want to bet?
 mno_bet_100_denars|100 créditos.
 mno_bet_50_denars|50 créditos.
 mno_bet_20_denars|20 créditos.
 mno_bet_10_denars|10 créditos.
 mno_bet_5_denars|5 créditos.
 mno_go_back_dot|Go back.
-menu_tournament_bet_confirm|Apuestas {reg1} créditos, ganarás {reg2} créditos si ganas el torneo. Está bien?
-mno_tournament_bet_accept|Adelante.
-mno_tournament_bet_cancel|Olvídalo.
-menu_tournament_participants|Preguntas a alguien cercano los nombres de losp articipantes. Estos son:^{s11}
-mno_go_back_dot|Volver.
-menu_collect_taxes|Como el miebro con mayor habilidad comercial ({reg2}), {reg3?esperas:{s1} espera} que cobrar los impuestos de esta zona tardará {reg4} días...
-mno_start_collecting|Empezar a cobrar.
-mno_collect_later|Esperar a más tarde.
-menu_collect_taxes_complete|Has cobrado {reg3} créditos en impuestos de {s3}. {s19} estará esperando que le lleves el dinero.
+menu_tournament_bet_confirm|If you bet {reg1} denars, you will earn {reg2} créditos if you win the tournament. Is that all right?
+mno_tournament_bet_accept|Go ahead.
+mno_tournament_bet_cancel|Forget it.
+menu_tournament_participants|You ask one of the criers for the names of the tournament participants. They are:^{s11}
+mno_go_back_dot|Go back.
+menu_collect_taxes|As the party member with the highest trade skill ({reg2}), {reg3?you expect:{s1} expects} that collecting taxes from here will take {reg4} days...
+mno_start_collecting|Start collecting.
+mno_collect_later|Put it off until later.
+menu_collect_taxes_complete|You've collected {reg3} créditos in taxes from {s3}. {s19} will be expecting you to take the money to him.
 mno_continue|Continuar...
-menu_collect_taxes_rebels_killed|Tu rápida respuesta y habilidades han sofocado la revuelta. Sin duda, todo rebelde se lo volverá a pensar de nuevo la próxima vez.
+menu_collect_taxes_rebels_killed|Your quick action and strong arm have successfully put down the revolt. Surely, anyone with a mind to rebel against you will think better of it after this.
 mno_continue|Continuar...
-menu_collect_taxes_failed|Solo pudiste cobrar {reg3} créditos en impuestos de {s3} antes de que se produjera la revuelta. {s1} no estará contento, pero unos cuantos créditos son mejor que nada...
+menu_collect_taxes_failed|You could collect only {reg3} créditos as tax from {s3} before the revolt broke out. {s1} won't be happy, but some silver will placate him better than nothing at all...
 mno_continue|Continuar...
-menu_collect_taxes_revolt_warning|La gente de {s3} se sienten oprimidos por tus demandas y alegan que no es más que extorsión. Se encuentran muy incómodos y es posible que la situación se vuelva violenta.
-mno_continue_collecting_taxes|Ignorarlos y seguir cobrando.
-mno_halve_taxes|Acepta reducir los impuestos a la mitad. (Puede que a {s1} no le guste la idea)
-menu_collect_taxes_revolt|Te interrumpen mientras cobras los impuestos en {s3}. Una gran banda de {reg9?peasants:townsmen} se acerca, gritando y protestando armas en mano. ¡Parece que pretenden enfrentarse!
+menu_collect_taxes_revolt_warning|The people of {s3} are outraged at your demands and decry it as nothing more than extortion. They're getting very restless, and they may react badly if you keep pressing them.
+mno_continue_collecting_taxes|Ignore them and continue.
+mno_halve_taxes|Agree to reduce your collection by half. ({s1} may be upset)
+menu_collect_taxes_revolt|You are interrupted while collecting the taxes at {s3}. A large band of angry {reg9?peasants:townsmen} is marching nearer, shouting about the exorbitant taxes and waving torches and weapons. It looks like they aim to fight you!
 mno_continue|Continuar...
-menu_train_peasants_against_bandits|Como el miembro de la patrulla con mayor habilidad de instrucción ({reg2}), {reg3?esperas:{s1} espera} que conseguir que algunos habitantes esten listos para combate te costará {reg4} horas.
-mno_make_preparation|Entrenarlos.
-mno_train_later|Dejarlo para más adelante.
-menu_train_peasants_against_bandits_ready|Entrenas a esta gente en el arte de la guerra, instruyéndoles en el manejo de las armas y en disciplina militar. Crees que {reg0} de ellos {reg1?han:ha} conseguido terminar el entrenamiento básico y que {reg1?estan:está} listo para practicar.
-mno_peasant_start_practice|Empezar la lucha de práctica.
+menu_train_peasants_against_bandits|As the party member with the highest training skill ({reg2}), {reg3?you expect:{s1} expects} that getting some peasants ready for practice will take {reg4} hours.
+mno_make_preparation|Train them.
+mno_train_later|Put it off until later.
+menu_train_peasants_against_bandits_ready|You put the peasants through the basics of soldiering, discipline and obedience. You think {reg0} of them {reg1?have:has} fully grasped the training and {reg1?are:is} ready for some practice.
+mno_peasant_start_practice|Start the practice fight.
 menu_train_peasants_against_bandits_training_result|{s0}
 mno_continue|Continuar...
-menu_train_peasants_against_bandits_attack|Según te preparas para seguir con el entrenamiento ves a un grupo de naves hostiles llegando a {s3}. El administrador te ruega que formes a los reclutas formados y os enfrentéis al enemigo.
-mno_peasants_against_bandits_attack_resist|¡Prepárate para luchar!
+menu_train_peasants_against_bandits_attack|As you get ready to continue the training, a sentry from the planet runs up to you, shouting alarums. The bandits have been spotted on the horizon, riding hard for {s3}. The administrator begs that you organize your newly-trained militia and face them.
+mno_peasants_against_bandits_attack_resist|Prepare for a fight!
 menu_train_peasants_against_bandits_attack_result|{s9}
 mno_continue|Continuar...
-menu_train_peasants_against_bandits_success|¡Los bandidos han sido humillados! Los pocos que quedan huyen con el rabo entre las piernas, aterrorizados de los locales y su nuevo campeón. A los habitantes les queda poco tras la lucha, pero te lo ofrecen en muestra de gratitud.
-mno_village_bandits_defeated_accept|Tómalo como tu justo pago.
-mno_village_bandits_defeated_cont|Niégate, alegado que lo necesitan más que tú.
-menu_disembark|¿Deseas desembarcar?
-mno_disembark_yes|Sí.
+menu_train_peasants_against_bandits_success|The bandits are broken! Those few who remain run off with their tails between their legs, terrified of the peasants and their new champion. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find to show their gratitude.
+mno_village_bandits_defeated_accept|Take it as your just due.
+mno_village_bandits_defeated_cont|Refuse, stating that they need these items more than you do.
+menu_disembark|Do you wish to disembark?
+mno_disembark_yes|Yes.
 mno_disembark_no|No.
-menu_ship_reembark|¿Deseas embarcar?
-mno_reembark_yes|Sí.
+menu_ship_reembark|Do you wish to embark?
+mno_reembark_yes|Yes.
 mno_reembark_no|No.
-menu_center_reports|Town Name: {s1}^Obtención por Renta: {reg1} créditos^Obtención por Tarifa: {reg2} créditos^Reservas de Alimentos: para {reg3} días
-mno_to_price_and_productions|Enseñar precios y productos.
-mno_go_back_dot|Volver.
-menu_price_and_production|Los productos son:^{s1}^^Los factores de precio son:^{s2}
-mno_go_back_dot|Volver.
-menu_town_trade|Te acercas al mercado local.
-mno_assess_prices|Estudiar los precios locales.
-mno_trade_with_arms_merchant|Comerciar con el mercader de armas.
-mno_trade_with_armor_merchant|Comerciar con el mercader de ropa y armaduras.
-mno_trade_with_horse_merchant|Comerciar con el mercader de transporte.
-mno_trade_with_goods_merchant|Comerciar con el mercader de bienes.
-mno_Companions_overview|Revisión de Compañeros.
-mno_back_to_town_menu|Volver.
-menu_town_trade_assessment_begin|Escuchas diversas conversaciones sobre los precios locales. Escuchas de cerca, intentando averiguar los posibles mejores tratos.
+menu_center_reports|Town Name: {s1}^Rent Income: {reg1} créditos^Tariff Income: {reg2} créditos^Food Stock: for {reg3} days
+mno_to_price_and_productions|Show prices and productions.
+mno_go_back_dot|Go back.
+menu_price_and_production|Productions are:^{s1}^^Price factors are:^{s2}
+mno_go_back_dot|Go back.
+menu_town_trade|You head towards the marketplace.
+mno_assess_prices|Assess the local prices.
+mno_trade_with_arms_merchant|Trade with the arms merchant.
+mno_trade_with_armor_merchant|Trade with the armor merchant.
+mno_trade_with_horse_merchant|Trade with the transportation merchant.
+mno_trade_with_goods_merchant|Trade with the goods merchant.
+mno_Companions_overview|Companions overview.
+mno_back_to_town_menu|Head back.
+menu_town_trade_assessment_begin|You overhear several discussions about the price of trade goods across the local area. You listen closely, trying to work out the best deals around.
 mno_continue|Continuar...
-menu_town_trade_assessment|Como el miembro de la patrulla con mayores conocimientos de mercantilismo ({reg2}), {reg3?intentas averiguar:{s1} intenta averiguar} cuales son los mejores bienes con los que se puede comerciar. {s2}
+menu_town_trade_assessment|As the party member with the highest trade skill ({reg2}), {reg3?you try to figure out:{s1} tries to figure out} the best goods to trade in. {s2}
 mno_continue|Continuar...
-menu_sneak_into_town_suceeded|Disfrazado como un ciudadano más burlas a la seguridad y entrar en el planeta.
+menu_sneak_into_town_suceeded|Disguised in the garments of a citizen, you fool the guards and make your way onto the planet.
 mno_continue|Continuar...
-menu_sneak_into_town_caught|¡Según entras uno de los guardias te reconoce y da la alarma! ¡Debes volver a la nave antes de que te alcancen los guardias!
-mno_sneak_caught_fight|Intenta luchar por escapar.
-mno_sneak_caught_surrender|Ríndete.
-menu_sneak_into_town_caught_dispersed_guards|Te deshaces de los guardias y desapareces de la escena, evitando que cualquier otro te siga la pista.
+menu_sneak_into_town_caught|As you try to sneak in, one of the guards recognizes you and raises the alarm! You must flee back to your ship before all the guards come down on you!
+mno_sneak_caught_fight|Try to fight your way out!
+mno_sneak_caught_surrender|Surrender.
+menu_sneak_into_town_caught_dispersed_guards|You drive off the guards and cover your trail before running off, easily losing your pursuers in the maze of streets.
 mno_continue|Continuar...
-menu_sneak_into_town_caught_ran_away|Te haces un camino hasta tu nave y te marchas, llegando a la seguridad de las estrellas.
+menu_sneak_into_town_caught_ran_away|You make your way back to your ship and quickly retreat to the safety of the stars.
 mno_continue|Continuar...
-menu_enemy_offer_ransom_for_prisoner|{s2} te ofrece una sume de {reg12} créditos si aceptas venderle a {s1}.
-mno_ransom_accept|Aceptar la oferta.
-mno_ransom_reject|Reject la oferta.
-menu_training_ground|Alcanzas un campo de entrenamiento donde puedes practicar tus habilidades tranquilamente. ¿Qué tipo de entrenamiento quieres realizar?
-mno_camp_trainer|Hablar con el entrenador.
-mno_camp_train_melee|Practicar con sparring.
-mno_camp_train_archery|Practicar tiro al blanco.
-mno_camp_train_mounted|Practicar con moto speeders.
-mno_space_entry|Practicar combate espacial.
-mno_leave|Abandonar.
+menu_enemy_offer_ransom_for_prisoner|{s2} offers you a sum of {reg12} créditos if you are willing to sell him {s1}.
+mno_ransom_accept|Aceptar the offer.
+mno_ransom_reject|Reject the offer.
+menu_training_ground|You approach a training field where you can practice your martial skills. What kind of training do you want to do?
+mno_camp_trainer|Speak with the trainer.
+mno_camp_train_melee|Sparring practice.
+mno_camp_train_archery|Ranged weapon practice.
+mno_camp_train_mounted|Speeder bike practice.
+mno_space_entry|Space combat practice.
+mno_leave|Leave.
 mno_space_battle|Cheat: Space Battle
-mno_space_battle_door|Despegar la nave espacial.
+mno_space_battle_door|Fly the spaceship.
 mno_go_to_track|Cheat: Go to track.
 mno_go_to_range|Cheat: Go to range.
-menu_training_ground_selection_details_melee_1|¿A cuántos oponentes piensas enfrentarte?
-mno_camp_train_melee_num_men_1|Uno.
-mno_camp_train_melee_num_men_2|Dos.
-mno_camp_train_melee_num_men_3|Tres.
-mno_camp_train_melee_num_men_4|Cuatro.
-mno_go_back_dot|Cancelar.
-menu_training_ground_selection_details_melee_2|Selecciona a tu oponente #{reg1}:
+menu_training_ground_selection_details_melee_1|How many opponents will you go against?
+mno_camp_train_melee_num_men_1|One.
+mno_camp_train_melee_num_men_2|Two.
+mno_camp_train_melee_num_men_3|Three.
+mno_camp_train_melee_num_men_4|Four.
+mno_go_back_dot|Cancel.
+menu_training_ground_selection_details_melee_2|Choose your opponent #{reg1}:
 mno_s0|{s0}
 mno_s0|{s0}
 mno_s0|{s0}
@@ -689,46 +689,46 @@ mno_s0|{s0}
 mno_s0|{s0}
 mno_s0|{s0}
 mno_s0|{s0}
-mno_training_ground_selection_details_melee_random|Escoger al azar.
-mno_go_back_dot|Volver.
-menu_training_ground_selection_details_mounted|¿Con qué tipo de arma quieres entrenar?
-mno_camp_train_mounted_details_1|Sable láser.
-mno_camp_train_mounted_details_4|Sable láser (lanzamiento)
-mno_camp_train_mounted_details_1|Bláster DL-44
-mno_camp_train_mounted_details_1|Rifle DLT-19
-mno_go_back_dot|Volver.
-menu_training_ground_selection_details_ranged_1|(Qué tipo de arma a distacia quieres usar?
-mno_camp_train_ranged_weapon_bow_a|Sable láser (lanzamiento)
-mno_camp_train_ranged_weapon_bow_b|Bláster DL-44
-mno_camp_train_ranged_weapon_bow_c|Rifle DLT-19
-mno_go_back_dot|Volver.
-menu_training_ground_selection_details_ranged_2|¿Desde qué distancia quieres practicar?
-mno_camp_train_ranged_details_1|10 yardas.
-mno_camp_train_ranged_details_2|20 yardas.
-mno_camp_train_ranged_details_3|30 yardas.
-mno_camp_train_ranged_details_4|40 yardas.
-mno_camp_train_ranged_details_5|50 yardas.
-mno_camp_train_ranged_details_6|60 yardas.
-mno_camp_train_ranged_details_7|70 yardas.
-mno_go_back_dot|Volver.
+mno_training_ground_selection_details_melee_random|Choose randomly.
+mno_go_back_dot|Go back.
+menu_training_ground_selection_details_mounted|What kind of weapon do you want to train with?
+mno_camp_train_mounted_details_1|Lightsaber
+mno_camp_train_mounted_details_4|Force Throw Lightsaber
+mno_camp_train_mounted_details_1|DL-44 Blaster
+mno_camp_train_mounted_details_1|DLT-19 Rifle
+mno_go_back_dot|Go back.
+menu_training_ground_selection_details_ranged_1|What kind of ranged weapon do you want to train with?
+mno_camp_train_ranged_weapon_bow_a|Force Throw Lightsaber
+mno_camp_train_ranged_weapon_bow_b|DL-44 Blaster
+mno_camp_train_ranged_weapon_bow_c|DLT-19 Rifle
+mno_go_back_dot|Go back.
+menu_training_ground_selection_details_ranged_2|What range do you want to practice at?
+mno_camp_train_ranged_details_1|10 yards.
+mno_camp_train_ranged_details_2|20 yards.
+mno_camp_train_ranged_details_3|30 yards.
+mno_camp_train_ranged_details_4|40 yards.
+mno_camp_train_ranged_details_5|50 yards.
+mno_camp_train_ranged_details_6|60 yards.
+mno_camp_train_ranged_details_7|70 yards.
+mno_go_back_dot|Go back.
 menu_training_ground_description|{s0}
 mno_continue|Continuar...
 menu_training_ground_training_result|{s7}{s2}
 mno_continue|Continuar...
 menu_marshall_selection_candidate_ask|{s15} will soon select a new marshall for {s23}. Some of the lords have suggested your name as a likely candidate.
-mno_marshall_candidate_accept|Deja que {s15} conozca que pretendes ser Mariscal.
-mno_marshall_candidate_reject|Dile a todo el mundo que te encuentras indispuesto estos días.
+mno_marshall_candidate_accept|Let {s15} learn that you are willing to serve as marshall.
+mno_marshall_candidate_reject|Tell everyone that you are too busy these days.
 menu_captivity_avoid_wilderness|Suddenly all the world goes black around you. Many hours later you regain your conciousness and find yourself at the spot you fell. Your enemies must have taken you up for dead and left you there. However, it seems that none of your wound were lethal, and altough you feel awful, you find out that can still walk. You get up and try to look for any other survivors from your party.
 menu_captivity_start_wilderness|Stub
 menu_captivity_start_wilderness_surrender|Stub
-menu_captivity_start_wilderness_defeat|Tus enemigos te toman prisionero.
+menu_captivity_start_wilderness_defeat|Your enemies take you prisoner.
 menu_captivity_start_castle_surrender|Stub
 menu_captivity_start_castle_defeat|Stub
-menu_captivity_start_under_siege_defeat|Tus enemigos te toman prisionero.
-menu_captivity_wilderness_taken_prisoner|Tus enemigos te toman prisionero.
+menu_captivity_start_under_siege_defeat|Your enemies take you prisoner.
+menu_captivity_wilderness_taken_prisoner|Your enemies take you prisoner.
 mno_continue|Continuar...
 menu_captivity_wilderness_check|stub
-menu_captivity_end_wilderness_escape|Después de pasar días como prisionero de tus enemigos encuentras una oportunidad, ¡y escapas!
+menu_captivity_end_wilderness_escape|After painful days of being dragged about as a prisoner, you find a chance and escape from your captors!
 mno_continue|Continuar...
 menu_captivity_castle_taken_prisoner|You are quickly surrounded by guards who take away your weapons. With curses and insults, they throw you into the dungeon where you must while away the miserable days of your captivity.
 mno_continue|Continuar...
