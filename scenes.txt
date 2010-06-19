@@ -355,7 +355,7 @@ scn_town_20_center town_20_center 256 none none 0.000000 0.000000 120.000000 120
 scn_town_21_center town_21_center 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  848 
- outer_terrain_plain 
+ 0 
 scn_town_1_castle town_1_castle 1 imperial_office_green bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  522 
