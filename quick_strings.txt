@@ -1,5 +1,4 @@
-1022
-qstr_DEBUG:_{s1}_tiene_un DEBUG:_{s1}_tiene_un_sistema_de_particulas.
+1021
 qstr_Type_your_Kingdom_s_ Type_your_Kingdom's_name:
 qstr_Accept Accept
 qstr_Reset Reset

@@ -1859,7 +1859,7 @@ itemsfile version 2
  itm_obi_wan_lightsaber Obi-Wan_Kenobi's_Lightsaber Obi-Wan_Kenobi's_Lightsaber 2  lightsaber_blue 0  lightsaber_blueoff 3458764513820540928  71696387 9223635920677241343 4009 0 2.000000 100 0 0 0 14 62464 140 0 120 0 356 381
 0
 
- itm_luke_skywalker_lightsaber Luke_Skywalker's_Lightsaber Luke_Skywalker's_Lightsaber 2  lightsaber_green 0  lightsaber_greenoff 3458764513820540928  71696387 9223635920677241343 4009 0 2.000000 100 0 0 0 14 62464 140 0 120 0 356 381
+ itm_luke_skywalker_lightsaber Luke_Skywalker's_Lightsaber Luke_Skywalker's_Lightsaber 2  lightsaber_blue 0  lightsaber_blueoff 3458764513820540928  71696387 9223635920677241343 4009 0 2.000000 100 0 0 0 14 62464 140 0 120 0 356 381
 0
 
  itm_anakin_skywalker_lightsaber Anakin_Skywalker's_Lightsaber Anakin_Skywalker's_Lightsaber 2  lightsaber_blue 0  lightsaber_blueoff 3458764513820540928  71696387 9223635920677241343 4009 0 2.000000 100 0 0 0 14 62464 140 0 120 0 356 381
