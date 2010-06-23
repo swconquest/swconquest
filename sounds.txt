@@ -1,5 +1,5 @@
 soundsfile version 2
-552
+560
  int_select.mp3 257
  tutorial_1.ogg 1793
  tutorial_2.ogg 1793
@@ -411,6 +411,13 @@ soundsfile version 2
  droid_talk01.mp3 2144
  droid_talk02.mp3 2144
  droid_talk03.mp3 2144
+ battledroid_pain25.mp3 2688
+ battledroid_pain50.mp3 2688
+ battledroid_pain75.mp3 2688
+ battledroid_talk01.mp3 2144
+ battledroid_talk02.mp3 2144
+ battledroid_talk03.mp3 2144
+ dbattleroid_talk01.mp3 2656
  tusken_death1.mp3 2688
  tusken_death2.mp3 2688
  tusken_falling1.mp3 2688
@@ -552,7 +559,8 @@ soundsfile version 2
  saber_swing4.mp3 1696
  saber_swing5.mp3 1696
  saber_swing6.mp3 1696
-262
+ E5-blaster.mp3 1616
+269
 snd_click 257 1 0 
 snd_tutorial_1 1793 1 1 
 snd_tutorial_2 1793 1 2 
@@ -774,44 +782,51 @@ snd_droid_grunt_long 2128 3 408 409 410
 snd_droid_hit 2672 3 405 406 407 
 snd_droid_victory 2640 3 408 409 410 
 snd_droid_yell 2656 3 408 409 410 
-snd_tusken_die 2688 4 411 412 413 414 
-snd_tusken_grunt 2144 5 415 416 417 418 419 
-snd_tusken_grunt_long 2128 6 420 421 422 423 424 425 
-snd_tusken_hit 2672 4 426 427 428 421 
-snd_tusken_victory 2640 4 429 430 422 424 
-snd_tusken_yell 2656 5 431 432 433 434 435 
-snd_trandoshan_die 2688 6 436 437 438 439 440 441 
-snd_trandoshan_grunt 2144 5 442 443 444 445 446 
-snd_trandoshan_grunt_long 2128 5 447 448 449 450 451 
-snd_trandoshan_hit 2672 5 452 453 454 455 456 
-snd_trandoshan_victory 2640 8 457 458 459 460 461 462 463 464 
-snd_trandoshan_yell 2656 5 465 466 467 460 461 
-snd_wookiee_die 2688 4 468 469 470 471 
-snd_wookiee_grunt 2144 5 472 473 474 475 476 
-snd_wookiee_grunt_long 2128 4 477 472 473 474 
-snd_wookiee_hit 2672 6 478 479 480 481 475 476 
-snd_wookiee_victory 2640 4 482 483 484 485 
-snd_wookiee_yell 2656 5 482 483 484 485 477 
-snd_gamorrean_die 2688 4 486 487 488 489 
-snd_gamorrean_grunt 2144 4 490 491 492 493 
-snd_gamorrean_grunt_long 2128 4 490 491 492 493 
-snd_gamorrean_hit 2672 6 494 495 496 497 498 499 
-snd_gamorrean_victory 2640 5 500 493 490 491 492 
-snd_gamorrean_yell 2656 5 493 500 490 491 492 
-snd_rodian_die 2688 6 501 502 503 504 505 506 
-snd_rodian_grunt 2144 6 507 508 509 510 511 512 
-snd_rodian_grunt_long 2128 5 513 514 515 516 512 
-snd_rodian_hit 2672 7 517 518 519 520 507 508 509 
-snd_rodian_victory 2640 6 521 522 523 524 525 526 
-snd_rodian_yell 2656 6 527 528 529 524 525 526 
-snd_geonosian_die 2688 1 530 
-snd_geonosian_grunt 2144 4 531 532 533 534 
-snd_geonosian_grunt_long 2128 4 531 532 533 534 
-snd_geonosian_hit 2672 4 531 532 533 534 
-snd_geonosian_victory 2640 4 531 532 533 534 
-snd_geonosian_yell 2656 4 531 532 533 534 
-snd_sullustan_victory 2640 4 535 536 537 538 
-snd_sullustan_yell 2656 4 539 540 541 542 
-snd_twilek_female_victory 2640 4 543 544 545 545 
-snd_twilek_female_yell 2656 3 544 545 545 
-snd_lightsaber_swing 1696 6 546 547 548 549 550 551 
+snd_battledroid_die 2688 3 411 412 413 
+snd_battledroid_grunt 2144 3 414 415 416 
+snd_battledroid_grunt_long 2128 3 414 415 416 
+snd_battledroid_hit 2672 3 411 412 413 
+snd_battledroid_victory 2640 3 414 415 416 
+snd_battledroid_yell 2656 3 417 415 416 
+snd_tusken_die 2688 4 418 419 420 421 
+snd_tusken_grunt 2144 5 422 423 424 425 426 
+snd_tusken_grunt_long 2128 6 427 428 429 430 431 432 
+snd_tusken_hit 2672 4 433 434 435 428 
+snd_tusken_victory 2640 4 436 437 429 431 
+snd_tusken_yell 2656 5 438 439 440 441 442 
+snd_trandoshan_die 2688 6 443 444 445 446 447 448 
+snd_trandoshan_grunt 2144 5 449 450 451 452 453 
+snd_trandoshan_grunt_long 2128 5 454 455 456 457 458 
+snd_trandoshan_hit 2672 5 459 460 461 462 463 
+snd_trandoshan_victory 2640 8 464 465 466 467 468 469 470 471 
+snd_trandoshan_yell 2656 5 472 473 474 467 468 
+snd_wookiee_die 2688 4 475 476 477 478 
+snd_wookiee_grunt 2144 5 479 480 481 482 483 
+snd_wookiee_grunt_long 2128 4 484 479 480 481 
+snd_wookiee_hit 2672 6 485 486 487 488 482 483 
+snd_wookiee_victory 2640 4 489 490 491 492 
+snd_wookiee_yell 2656 5 489 490 491 492 484 
+snd_gamorrean_die 2688 4 493 494 495 496 
+snd_gamorrean_grunt 2144 4 497 498 499 500 
+snd_gamorrean_grunt_long 2128 4 497 498 499 500 
+snd_gamorrean_hit 2672 6 501 502 503 504 505 506 
+snd_gamorrean_victory 2640 5 507 500 497 498 499 
+snd_gamorrean_yell 2656 5 500 507 497 498 499 
+snd_rodian_die 2688 6 508 509 510 511 512 513 
+snd_rodian_grunt 2144 6 514 515 516 517 518 519 
+snd_rodian_grunt_long 2128 5 520 521 522 523 519 
+snd_rodian_hit 2672 7 524 525 526 527 514 515 516 
+snd_rodian_victory 2640 6 528 529 530 531 532 533 
+snd_rodian_yell 2656 6 534 535 536 531 532 533 
+snd_geonosian_die 2688 1 537 
+snd_geonosian_grunt 2144 4 538 539 540 541 
+snd_geonosian_grunt_long 2128 4 538 539 540 541 
+snd_geonosian_hit 2672 4 538 539 540 541 
+snd_geonosian_victory 2640 4 538 539 540 541 
+snd_geonosian_yell 2656 4 538 539 540 541 
+snd_sullustan_victory 2640 4 542 543 544 545 
+snd_sullustan_yell 2656 4 546 547 548 549 
+snd_twilek_female_victory 2640 4 550 551 552 552 
+snd_twilek_female_yell 2656 3 551 552 552 
+snd_lightsaber_swing 1696 6 553 554 555 556 557 558 
+snd_e5 1616 1 559 

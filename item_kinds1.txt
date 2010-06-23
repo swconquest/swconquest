@@ -1,5 +1,5 @@
 itemsfile version 2
-883
+890
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -1362,7 +1362,7 @@ itemsfile version 2
  itm_sith_master_robe Sith_Master_Robe Sith_Master_Robe 1  sith_lord_robe 0  553713677 0 860 123731968 0.000000 60 5 45 16 0 0 0 0 0 0 0 0
 0
 
- itm_sith_master_robe_unique Sith_Master_Robe Sith_Master_Robe 1  sith_lord_robe 0  553652237 0 1000 123731968 0.000000 100 15 60 26 0 0 0 0 0 0 0 0
+ itm_sith_master_robe_unique Sith_Master_Robe Sith_Master_Robe 1  sith_robe_a 0  553652237 0 1000 123731968 0.000000 100 15 60 26 0 0 0 0 0 0 0 0
 0
 
  itm_guard_armor Guard_Armor Guard_Armor 1  sw_armor2 0  553713677 0 290 123731968 5.000000 70 0 28 10 0 0 0 0 0 0 0 0
@@ -1535,6 +1535,19 @@ itemsfile version 2
 
  itm_battle_droid_attack Battle_Droid_Melee_Attack Battle_Droid_Melee_Attack 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  12587010 9223372036879941647 250 0 1.000000 100 0 0 0 0 7168 65 0 15 0 518 519
 0
+
+ itm_b2series_body B2-Series_Battle_Droid_Body B2-Series_Battle_Droid_Body 1  B2-Battledroid 0  553652237 0 2500 0 50.000000 100 20 60 20 0 0 0 0 0 0 0 0
+0
+
+ itm_b2series_body_enhanced C-B3_Battle_Droid_Body C-B3_Battle_Droid_Body 1  B2-Battledroid_enhanced 0  553652237 0 2500 0 55.000000 100 30 70 30 0 0 0 0 0 0 0 0
+0
+
+ itm_b2series_attack B2-Series_Battle_Droid_Attack B2-Series_Battle_Droid_Attack 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  12587010 9223372036879941647 500 0 1.000000 100 0 0 0 0 10240 75 0 20 0 520 522
+0
+
+ itm_b2series_blaster B2-Series_Battle_Droid_Blaster B2-Series_Battle_Droid_Blaster 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  71307280 481036795904 500 0 2.000000 100 0 0 88 0 0 90 145 0 24 291 0
+1
+-51.000000  3 600 1 1152921504606847154 720 2 1 12 721 2 1 15 
 
  itm_transparent_droid_head Transparent_Head_(for_Droids) Transparent_Head_(for_Droids) 2  transparent 0  transparent_helmet_inv 1152921504606846976  2684358668 0 1 0 0.250000 100 1 0 0 0 0 0 0 0 0 0 0
 0
@@ -2024,7 +2037,13 @@ itemsfile version 2
  itm_tarkin_head Grand_Moff_Tarkin_Head Grand_Moff_Tarkin_Head 1  tarkin_head 0  2684358668 0 1500 0 1.000000 100 15 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_rancor_body_a Rancor_Body Rancor_Body 1  rancor_a 0  553652237 0 1000 0 30.000000 100 35 100 35 0 0 0 0 0 0 0 0
+ itm_ben_head Ben_Kenobi_Head Ben_Kenobi_Head 1  ben_head 0  2684358668 0 1500 0 1.000000 100 15 0 0 0 0 0 0 0 0 0 0
+0
+
+ itm_leia_head Leia_Organa_Head Leia_Organa_Head 1  leia_head 0  2684358668 0 1500 0 1.000000 100 15 0 0 0 0 0 0 0 0 0 0
+0
+
+ itm_rancor_body_a Rancor_Body Rancor_Body 1  swy_rancor 0  553652237 0 1000 0 30.000000 100 35 100 35 0 0 0 0 0 0 0 0
 0
 
  itm_rancor_body_b Rancor_Body Rancor_Body 1  rancor_b 0  553652237 0 1000 0 30.000000 100 35 100 35 0 0 0 0 0 0 0 0
@@ -2534,7 +2553,7 @@ itemsfile version 2
 
  itm_e5 E-5 E-5 2  e5_new_javelin 0  e5_new_inventory 1152921504606846976  73465865 483184082944 310 270342 2.000000 70 0 0 94 0 0 100 150 0 14 288 0
 1
--51.000000  3 600 1 1152921504606847153 720 2 1 12 721 2 1 15 
+-51.000000  3 600 1 1152921504606847244 720 2 1 12 721 2 1 15 
 
  itm_e11 E-11 E-11 2  e11_new 0  e11_new_inventory 1152921504606846976  73400329 487210369024 310 270342 2.000000 100 0 0 94 0 0 110 160 0 16 292 0
 1
@@ -2749,6 +2768,9 @@ itemsfile version 2
 0
 
  itm_arena_speeder Civilian_74-Z_Speeder_Bike Civilian_74-Z_Speeder_Bike 1  speeder_a 0  4097 0 1000 0 0.000000 100 0 0 0 0 30 45 50 0 0 15 0
+0
+
+ itm_joruus_lightsaber Darth_Vader's_Lightsaber Darth_Vader's_Lightsaber 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71696387 9223635920677241343 4009 0 2.000000 100 0 0 0 14 36864 140 0 120 0 356 356
 0
 
  itm_items_end INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528

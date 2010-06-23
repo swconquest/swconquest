@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1187
+ 1212
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3591,6 +3591,81 @@ spr_swy_landing_arm 0 0 sw_landing_arm bo_sw_landing_arm 0
 
 
 spr_swy_taris_build 0 0 taris_build bo_taris_build 0
+
+
+spr_barf_tower 0 0 sw_taris_tower bo_sw_taris_tower 0
+
+
+spr_barf_rock_1 0 0 rock1 bo_rock1 0
+
+
+spr_barf_rock_2 0 0 rock2 bo_rock2 0
+
+
+spr_barf_rock_3 0 0 rock3 bo_rock3 0
+
+
+spr_barf_rock_4 0 0 rock4 bo_rock4 0
+
+
+spr_barf_rock_5 0 0 rock5 bo_rock5 0
+
+
+spr_barf_rock_6 0 0 rock6 bo_rock6 0
+
+
+spr_barf_rock_7 0 0 rock7 bo_rock7 0
+
+
+spr_barf_rock_8 0 0 rock8 bo_rock8 0
+
+
+spr_barf_rock_9 0 0 rock9 bo_rock9 0
+
+
+spr_barf_rock_10 0 0 rock10 bo_rock10 0
+
+
+spr_barf_rock_11 0 0 rock11 bo_rock11 0
+
+
+spr_barf_rock_12 0 0 rock12 bo_rock12 0
+
+
+spr_barf_rock_13 0 0 rock13 bo_rock13 0
+
+
+spr_barf_rock_14 0 0 rock14 bo_rock14 0
+
+
+spr_barf_rock_15 0 0 rock15 bo_rock15 0
+
+
+spr_barf_rock_16 0 0 rock16 bo_rock16 0
+
+
+spr_barf_rock_17 0 0 rock17 bo_rock17 0
+
+
+spr_barf_rock_18 0 0 rock18 bo_rock18 0
+
+
+spr_barf_rock_19 0 0 rock19 bo_rock19 0
+
+
+spr_barf_rock_20 0 0 rock20 bo_rock20 0
+
+
+spr_barf_rock_21 0 0 rock21 bo_rock21 0
+
+
+spr_barf_rock_22 0 0 rock22 bo_rock22 0
+
+
+spr_barf_rock_23 0 0 rock23 bo_rock23 0
+
+
+spr_barf_rock_24 0 0 rock24 bo_rock24 0
 
 
 spr_scene_props_end 0 0 0 0 0
