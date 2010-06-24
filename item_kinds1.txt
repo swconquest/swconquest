@@ -1536,10 +1536,10 @@ itemsfile version 2
  itm_battle_droid_attack Battle_Droid_Melee_Attack Battle_Droid_Melee_Attack 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  12587010 9223372036879941647 250 0 1.000000 100 0 0 0 0 7168 65 0 15 0 518 519
 0
 
- itm_b2series_body B2-Series_Battle_Droid_Body B2-Series_Battle_Droid_Body 1  B2-Battledroid 0  553652237 0 2500 0 50.000000 100 20 60 20 0 0 0 0 0 0 0 0
+ itm_b2series_body B2-Series_Battle_Droid_Body B2-Series_Battle_Droid_Body 1  B2-Battledroid 0  553652237 0 40760 0 50.000000 100 20 60 20 0 0 0 0 0 0 0 0
 0
 
- itm_b2series_body_enhanced C-B3_Battle_Droid_Body C-B3_Battle_Droid_Body 1  B2-Battledroid_enhanced 0  553652237 0 2500 0 55.000000 100 30 70 30 0 0 0 0 0 0 0 0
+ itm_b2series_body_enhanced C-B3_Battle_Droid_Body C-B3_Battle_Droid_Body 1  B2-Battledroid_enhanced 0  553652237 0 60420 0 55.000000 100 30 70 30 0 0 0 0 0 0 0 0
 0
 
  itm_b2series_attack B2-Series_Battle_Droid_Attack B2-Series_Battle_Droid_Attack 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  12587010 9223372036879941647 500 0 1.000000 100 0 0 0 0 10240 75 0 20 0 520 522

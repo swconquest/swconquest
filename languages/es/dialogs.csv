@@ -1157,9 +1157,9 @@ dlga_local_merchant_mercy_yes_3:local_merchant_mercy_yes_4|Yes, of course. I'll 
 dlga_local_merchant_mercy_yes_4:local_merchant_mercy_yes_5|And if my lord hears so much of a hint of a complaint about this issue, then I'll come back for you, and it won't matter how much you scream for mercy then. Do you understand me?
 dlga_local_merchant_mercy_yes_5:local_merchant_mercy_yes_6|Yes {sir/madam}. Don't worry. I won't make any complaint.
 dlga_local_merchant_mercy_yes_6:close_window|Good. Go now, before I change my mind.
-dlga_start:fugitive_1|Yes, what do you want?
-dlga_fugitive_1:fugitive_2|I am looking for a murderer by the name of {s4}. You fit his description.
-dlga_fugitive_1:close_window|Nothing. Sorry to trouble you.
+dlga_start:fugitive_1|¿Sí, que es lo que quieres?
+dlga_fugitive_1:fugitive_2|Estoy buscando a un asesino llamado {s4}. Y tu concuerdas bastante bien con esa descripción.
+dlga_fugitive_1:close_window|Nada. Perdón por las molestias.
 dlga_fugitive_2:fugitive_3|I do not know what you are talking about {sir/madam}. I assure you, I am just one of the dwellers here.
 dlga_fugitive_3:fugitive_4|Then drop your sword. If you are innocent, you have nothing to fear. We'll go now and talk to your neighbours, and if they verify your story, I'll go my way.
 dlga_fugitive_4:close_window|Damn you! You will not be going anywhere!
@@ -1177,7 +1177,7 @@ dlga_start:follow_spy_talk|Good day {sir/madam}. Such fine weather don't you thi
 dlga_follow_spy_talk:follow_spy_talk_2|In the name of {s1}, you are under arrest!
 dlga_follow_spy_talk_2:close_window|You won't get me alive!
 dlga_follow_spy_talk:close_window|Never mind me. I was just passing by.
-dlga_start:spy_partners_talk|Greetings.
+dlga_start:spy_partners_talk|Saludos.
 dlga_spy_partners_talk:spy_partners_talk_2|In the name of {s1} You are under arrest!
 dlga_spy_partners_talk_2:close_window|You will have to fight us first!
 dlga_spy_partners_talk:close_window|Never mind me. I was just passing by.
@@ -1203,56 +1203,56 @@ dlga_deserter_paid_talk:deserter_paid_talk_2a|Sorry to trouble you. I'll be on m
 dlga_deserter_paid_talk_2a:close_window|Yeah. Stop fooling around and go make some money. I want to see that purse full next time I see you.
 dlga_deserter_paid_talk:deserter_paid_talk_2b|No. It's your turn to pay me this time.
 dlga_deserter_paid_talk_2b:close_window|What nonsense are you talking about? You want trouble? You got it.
-dlga_start:deserter_talk|We are the free brothers. We will fight only for ourselves from now on. Now give us your gold or taste our steel.
-dlga_deserter_talk:close_window|When I'm done with you, you'll regret ever leaving your army.
-dlga_deserter_talk:deserter_barter|There's no need to fight. I am ready to pay for free passage.
-dlga_deserter_barter:deserter_barter_2|Good. You are clever. You pay us {reg5} credits. Then you can go.
-dlga_deserter_barter_2:deserter_barter_3a|All right here's your {reg5} credits.
-dlga_deserter_barter_2:deserter_barter_3b|I don't have that much money with me
-dlga_deserter_barter_3b:close_window|Too bad. Then we'll have to sell you to the slavers.
-dlga_deserter_barter_3a:close_window|Heh. That wasn't difficult now was it? All right. Go now.
-dlga_start:cantina_drinkers_talk|I'm drunk, leave me alone.
-dlga_cantina_drinkers_talk:close_window|Sorry I bothered you, goodbye.
+dlga_start:deserter_talk|We are the free brothers. We will fight only for ourselves from now on. Ahora dame tu dinero o prepárate para escuchar el sonido de nuestros cañones bláster.
+dlga_deserter_talk:close_window|Cuando termine con vosotros, os arrepentireis de haber dejado vuestro ejército.
+dlga_deserter_talk:deserter_barter|No hay por qué luchar. No me importará pagar por una tarifa de peaje.
+dlga_deserter_barter:deserter_barter_2|Bien. Eres listo. Páganos {reg5} créditos. Entonces podrás irte.
+dlga_deserter_barter_2:deserter_barter_3a|Perfecto, aquí tenéis, {reg5} creditos.
+dlga_deserter_barter_2:deserter_barter_3b|No tengo mucho dinero conmigo ahora mismo.
+dlga_deserter_barter_3b:close_window|Mal asunto. Entonces os venderemos como esclavos.
+dlga_deserter_barter_3a:close_window|Eh. ¿A que no fué tan dificil? Genial. Nos vamos.
+dlga_start:cantina_drinkers_talk|Estoy borracho, déjame en paz.
+dlga_cantina_drinkers_talk:close_window|Perdona si te he molestado, hasta otra.
 dlga_start:close_window.18|You should never see this
-dlga_start:cantina_walkers_pre_joke|I like to tell jokes when I am drunk. Want to hear one?
-dlga_start:cantina_walkers_pre_drink|Hey, can you spare some credits for a drink?
-dlga_start:cantina_walkers_pre_brawl|I don't like you.
+dlga_start:cantina_walkers_pre_joke|Me guuusta contar chistes cuendo estoy bebido. ¿Quiiieeres oir unno?
+dlga_start:cantina_walkers_pre_drink|Oye, ¿Puedes darme un par de créditos para colar algo para el gaznate?
+dlga_start:cantina_walkers_pre_brawl|No te gusto.
 dlga_start:cantina_walkers_generic_response|{s1}
-dlga_cantina_walkers_pre_joke:cantina_walkers_tell_joke|Sure.
-dlga_cantina_walkers_pre_joke:close_window|No thanks, goodbye.
+dlga_cantina_walkers_pre_joke:cantina_walkers_tell_joke|Claro, por qué no.
+dlga_cantina_walkers_pre_joke:close_window|No gracias, hasta otra.
 dlga_cantina_walkers_tell_joke:cantina_walkers_tell_joke|{s1}
-dlga_cantina_walkers_tell_joke:cantina_walkers_tell_joke.1|That was great, tell me another!
-dlga_cantina_walkers_tell_joke:close_window|That was horrible, goodbye.
-dlga_cantina_walkers_pre_drink:cantina_walkers_buy_drink|Sure.
-dlga_cantina_walkers_pre_drink:close_window|No thanks, goodbye.
-dlga_cantina_walkers_buy_drink:close_window|Here's some credits, enjoy!
-dlga_cantina_walkers_pre_brawl:cantina_walkers_pre_brawl_2|I'm sorry.
+dlga_cantina_walkers_tell_joke:cantina_walkers_tell_joke.1|¡Ese fué genial, cuéntame otro!
+dlga_cantina_walkers_tell_joke:close_window|Eso fué horrible, me marcho.
+dlga_cantina_walkers_pre_drink:cantina_walkers_buy_drink|Claro.
+dlga_cantina_walkers_pre_drink:close_window|Me da que no, adiós.
+dlga_cantina_walkers_buy_drink:close_window|Aquí tienes algunos créditos, diviértete!
+dlga_cantina_walkers_pre_brawl:cantina_walkers_pre_brawl_2|Perdón.
 dlga_cantina_walkers_pre_brawl_2:cantina_walkers_pre_brawl_3|Don't insult me. You just watch yourself. I'm wanted and have the death sentence in twelve systems.
-dlga_cantina_walkers_pre_brawl_3:cantina_walkers_pre_brawl_4|I'll be careful then.
+dlga_cantina_walkers_pre_brawl_3:cantina_walkers_pre_brawl_4|Tendré cuidado entonces.
 dlga_cantina_walkers_pre_brawl_3:close_window|I'm not worth the effort, let me buy you a drink.
-dlga_cantina_walkers_pre_brawl_4:close_window|You'll be dead!
-dlga_cantina_walkers_generic_response:close_window|I am going to knock you out for that comment!
-dlga_cantina_walkers_generic_response:close_window.1|Sorry I bothered you, goodbye.
-dlga_start:tavernkeeper_talk|Good day dear {sir/madam}. How can I help you?
-dlga_tavernkeeper_pretalk:tavernkeeper_talk|Anything else?
-dlga_tavernkeeper_talk:tavernkeeper_deliver_wine|I was told to deliver you {reg9} units of {s4}.
+dlga_cantina_walkers_pre_brawl_4:close_window|¡Estás muerto!
+dlga_cantina_walkers_generic_response:close_window|¡Te voy a partir la cara por ese comentario!
+dlga_cantina_walkers_generic_response:close_window.1|Sorry I bothered you, perdón si te he molestado, hasta otra.
+dlga_start:tavernkeeper_talk|Buenos dias {señor/señora}. ¿Cómo puedo ayudar?
+dlga_tavernkeeper_pretalk:tavernkeeper_talk|¿Algo más?
+dlga_tavernkeeper_talk:tavernkeeper_deliver_wine|Vine aquí para entregarte {reg9} unidades de {s4}.
 dlga_tavernkeeper_deliver_wine:tavernkeeper_pretalk|At last! My stock was almost depleted. I had paid the cost of the {s4} in advance. Here, take these {reg5} credits. That should cover your pay. And give {s9} my regards. I'll put in a good word for you next time I deal with them.
 dlga_tavernkeeper_talk:tavernkeeper_deliver_wine_incomplete|I was told to deliver you {reg9} units of {s4}, but I lost some of the cargo on the way.
 dlga_tavernkeeper_deliver_wine_incomplete:tavernkeeper_pretalk|Attacked by bandits eh? You are lucky they left you alive. Anyway, I can pay you no more than {reg5} credits for this. And I will let {s1} know that my order was delivered less than completely, so you will probably be charged for this loss.
 dlga_tavernkeeper_talk:tavernkeeper_deliver_wine_lost|I was told to deliver you {reg9} units of {s4}, but I lost the cargo on the way.
 dlga_tavernkeeper_deliver_wine_lost:tavernkeeper_pretalk|What? I was waiting for that {s4} for weeks! And now you are telling me that you lost it? You may rest assured that I will let {s1} know about this.
-dlga_tavernkeeper_talk:tavernkeeper_buy_peasants|I need to hire some soldiers. Can you help me?
+dlga_tavernkeeper_talk:tavernkeeper_buy_peasants|Quiero contratar algunos soldados. ¿Puedes ayudarme?
 dlga_tavernkeeper_buy_peasants:tavernkeeper_buy_peasants_2|I don't think anyone from this planet will follow somebody like you. Try your luck elsewhere.
 dlga_tavernkeeper_buy_peasants:tavernkeeper_buy_peasants_2.1|I know a few fellows who would follow you if you paid for their equipment.
-dlga_tavernkeeper_buy_peasants_2:tavernkeeper_talk|Anything else?
-dlga_tavernkeeper_talk:tavernkeeper_blackjack_1|Do you want to play Pazaak?
-dlga_tavernkeeper_blackjack_1:tavernkeeper_blackjack_2|Sure. Are you ready to play or should I review the rules?
-dlga_tavernkeeper_blackjack_2:tavernkeeper_blackjack_3|Start playing.
+dlga_tavernkeeper_buy_peasants_2:tavernkeeper_talk|¿Algo más?
+dlga_tavernkeeper_talk:tavernkeeper_blackjack_1|¿Quieres jugar al Pakaak?
+dlga_tavernkeeper_blackjack_1:tavernkeeper_blackjack_2|Clar. Quieres empezar ya o que te cuente las reglas?
+dlga_tavernkeeper_blackjack_2:tavernkeeper_blackjack_3|Empezar a jugar.
 dlga_tavernkeeper_blackjack_3:close_window|Ok.^^You may need to move your character to one side so the 'Talk' dialog does not appear while playing the game.
-dlga_tavernkeeper_blackjack_3:tavernkeeper_blackjack_1|You don't have enough money.
-dlga_tavernkeeper_blackjack_2:tavernkeeper_blackjack_4|Discuss the rules.
+dlga_tavernkeeper_blackjack_3:tavernkeeper_blackjack_1|No tienes suficiente dinero.
+dlga_tavernkeeper_blackjack_2:tavernkeeper_blackjack_4|Dime las reglas.
 dlga_tavernkeeper_blackjack_4:tavernkeeper_blackjack_1|Pazaak is played with the same rules as Blackjack. The player closest to 21, without going over, wins.
-dlga_tavernkeeper_blackjack_2:tavernkeeper_pretalk|Never mind.
+dlga_tavernkeeper_blackjack_2:tavernkeeper_pretalk|Olvídalo.
 dlga_tavernkeeper_talk:tavernkeeper_buy_drinks|I'd like to buy every man who comes in here tonight a jar of your best wine.
 dlga_tavernkeeper_buy_drinks:tavernkeeper_buy_drinks_2|Of course, {my lord/my lady}. I reckon {reg5} credits should be enough for that. What should I tell the lads?
 dlga_tavernkeeper_buy_drinks_2:tavernkeeper_buy_drinks_end|Let everyone know of the generosity of {playername} to the people of {s10}.
@@ -1798,7 +1798,7 @@ dlga_player_castle_guard_talk_3:close_window|Bien, genial
 dlga_start:close_window.24|Good day, {sir/madam}. It's nice having you here in {s10}.
 dlga_start:close_window.25|Mind your manners within the walls and we'll have no trouble.
 dlga_start:hall_guard_talk|¿Tus ordenes, comandante?
-dlga_start:close_window.26|¿No se nos permite hablar mientras estamos de guardia?
+dlga_start:close_window.26|No se nos permite hablar mientras estamos de guardia
 dlga_hall_guard_talk:hall_guard_duty|Manteneos en el puesto
 dlga_hall_guard_duty:close_window|De acuerdo, comandante
 dlga_hall_guard_talk:hall_guard_arrest|I want you to arrest this man immediately!
@@ -1809,7 +1809,7 @@ dlga_enemy_defeated:close_window|¡Arggh! Odio esto...
 dlga_party_relieved:close_window|Gracias por ayudarnos
 dlga_start:battle_reason_stated|Aargh! Skaterkst ootman!
 dlga_member_chat:regular_member_talk|¿Cuales son mis órdenes, comandante?
-dlga_regular_member_talk:view_regular_char_requested|Hablme sobre ti
+dlga_regular_member_talk:view_regular_char_requested|Háblame sobre ti
 dlga_regular_member_talk:regular_member_blackjack_1|¿Quieres jugar al Pazaak?
 dlga_regular_member_blackjack_1:regular_member_blackjack_2|Claro. ¿Quieres jugar ya o aprender las reglas?
 dlga_regular_member_blackjack_2:regular_member_blackjack_3|Comenzar a jugar

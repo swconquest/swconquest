@@ -40,6 +40,13 @@ p_town_merc_16|town16 mercs
 p_town_merc_17|town17 mercs
 p_town_merc_18|town18 mercs
 p_zendar|Zendar
+p_shipyard_trade_federation|Federación de Comercio
+p_shipyard_kuat|Astilleros de Kuat
+p_shipyard_raxus|Astilleros de Raxus Prime
+p_shipyard_corellia|Astilleros de Corellia
+p_shipyard_moncal|Astilleros de Mon Cal
+p_shipyard_mandalore|Astilleros de Mandalore
+p_shipyard_fondor|Astilleros de Fondor
 p_base_1|Federación de Comercio
 p_town_1|Mandalore
 p_town_2|Byss
@@ -63,45 +70,45 @@ p_town_19|Bothawui
 p_town_20|Mustafar
 p_town_21|Kamino
 p_castle_1|Bespin
-p_castle_2|Estación de Corellia
-p_castle_3|Estación de Combate | Yavin IV
+p_castle_2|Avanzada de Corellia
+p_castle_3|Estación de Combate de Yavin IV
 p_castle_4|Dagobah
 p_castle_5|Estrella de la Muerte
-p_castle_6|Estación de Endor
-p_castle_7|Estación de Combate | Mon Cal
-p_castle_8|Estación de Combate | Ryloth
-p_castle_9|Estación de Combate | Byss
-p_castle_10|Estación de Combate | Kessel
+p_castle_6|Avanzada de Endor
+p_castle_7|Estación de Combate de Mon Cal
+p_castle_8|Estación de Combate de Ryloth
+p_castle_9|Estación de Combate de Byss
+p_castle_10|Estación de Combate de Kessel
 p_castle_11|Plataforma Avatar
-p_castle_12|Estación de Reecee
-p_castle_13|Estación de Byss
-p_castle_14|Estación de Combate | Nal Hutta
-p_castle_15|Estación de Combate | Dantooine
-p_castle_16|Estación de Kashyyyk
-p_castle_17|Estación de Coruscant
-p_castle_18|Estación de Combate | Hoth
+p_castle_12|Avanzada de Reecee
+p_castle_13|Avanzada de Byss
+p_castle_14|Estación de Combate de Nal Hutta
+p_castle_15|Estación de Combate de Dantooine
+p_castle_16|Avanzada de Kashyyyk
+p_castle_17|Avanzada de Coruscant
+p_castle_18|Estación de Combate de Hoth
 p_castle_19|Bakura
-p_castle_20|Estación de Gamorr
-p_castle_21|Estación de Mandalore
-p_castle_22|Estación de Combate | Reecee
-p_castle_23|Estación de Combate | Corellia
-p_castle_24|Estación de Combate | Geonosis
-p_castle_25|Estación de Combate | Mandalore
-p_castle_26|Estación de Geonosis
-p_castle_27|Estación de Kessel
+p_castle_20|Avanzada de Gamorr
+p_castle_21|Avanzada de Mandalore
+p_castle_22|Estación de Combate de Reecee
+p_castle_23|Estación de Combate de Corellia
+p_castle_24|Estación de Combate de Geonosis
+p_castle_25|Estación de Combate de Mandalore
+p_castle_26|Avanzada de Geonosis
+p_castle_27|Avanzada de Kessel
 p_castle_28|Dathomir
-p_castle_29|Estación de Hoth
-p_castle_30|Estación de Combate | Tatooine
-p_castle_31|Estación de Combate | Gamorr
-p_castle_32|Estación de Ryloth
-p_castle_33|Estación de Naboo
-p_castle_34|Estación de Dantooine
-p_castle_35|Estación de Combate | Naboo
-p_castle_36|Estación de Combate | Coruscant
-p_castle_37|Estación de Yavin IV
-p_castle_38|Estación de Nal Hutta
-p_castle_39|Estación de Mon Cal
-p_castle_40|Estación de Tatooine
+p_castle_29|Avanzada de Hoth
+p_castle_30|Estación de Combate de Tatooine
+p_castle_31|Estación de Combate de Gamorr
+p_castle_32|Avanzada de Ryloth
+p_castle_33|Avanzada de Naboo
+p_castle_34|Avanzada de Dantooine
+p_castle_35|Estación de Combate de Naboo
+p_castle_36|Estación de Combate de Coruscant
+p_castle_37|Avanzada de Yavin IV
+p_castle_38|Avanzada de Nal Hutta
+p_castle_39|Avanzada de Mon Cal
+p_castle_40|Avanzada de Tatooine
 p_village_1|Honoghr
 p_village_2|Chandrila
 p_village_3|Tholatin

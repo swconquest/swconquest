@@ -1,4 +1,4 @@
-1021
+1027
 qstr_Type_your_Kingdom_s_ Type_your_Kingdom's_name:
 qstr_Accept Accept
 qstr_Reset Reset
@@ -610,7 +610,8 @@ qstr_All_enemies_at_this_ All_enemies_at_this_location_have_been_defeated!
 qstr_Success Success
 qstr_Cannot_leave_now. Cannot_leave_now.
 qstr_As_you_land_your_shi As_you_land_your_ship_you_notice_that_this_area_is_under_attack!
-qstr_You_have_fallen_in_b You_have_fallen_in_battle._You_can_watch_the_rest_of_the_fight_or_press_tab_to_exit
+qstr_You_have_been_knocke You_have_been_knocked_out_by_the_enemy._Watch_your_men_continue_the_fight_without_you_or_press_Tab_to_retreat.
+qstr_If_you_choose_to_wat If_you_choose_to_watch_the_fight_you_can_use_the_'{s1}'_and_'{s2}'_keys_to_change_your_camera_view.
 qstr_A_Power_Droid_refill A_Power_Droid_refilled_your_ammo!
 qstr_A_Medical_Droid_refi A_Medical_Droid_refilled_some_of_your_health!
 qstr_{reg3?{s1}_s_profici {reg3?{s1}'s_proficiency_in_one_handed_weapon_has_improved_by_{reg2}_to_{reg1}.:{s1}'s_one_handed_weapon_proficiency_have_reach_to_{reg1}.}
@@ -620,6 +621,8 @@ qstr_{reg3?{s1}_s_proficienc {reg3?{s1}'s_proficiency_in_archery_has_improved_by
 qstr_{reg3?{s1}_s_proficiency {reg3?{s1}'s_proficiency_in_crossbow_has_improved_by_{reg2}_to_{reg1}.:{s1}'s_crossbow_proficiency_have_reach_to_{reg1}.}
 qstr_{reg3?{s1}_s_proficiency_ {reg3?{s1}'s_proficiency_in_throwing_has_improved_by_{reg2}_to_{reg1}.:{s1}'s_throwing_proficiency_have_reach_to_{reg1}.}
 qstr_{reg3?{s1}_s_proficiency_i {reg3?{s1}'s_proficiency_in_firearms_has_improved_by_{reg2}_to_{reg1}.:{s1}'s_firearm_proficiency_have_reach_to_{reg1}.}
+qstr_You_have_fallen_in_b You_have_fallen_in_battle._You_can_watch_the_rest_of_the_fight_or_press_tab_to_exit
+qstr_You_have_fallen_in_ba You_have_fallen_in_battle._Watch_the_rest_of_the_fight_or_press_tab_to_exit
 qstr_Tutorial Tutorial
 qstr_You_must_stay_behind You_must_stay_behind_the_line_on_the_ground!_Point_is_not_counted.
 qstr_End_the_sparring_mat End_the_sparring_match?
@@ -627,6 +630,9 @@ qstr_You_are_not_injured_ You_are_not_injured_and_do_not_need_the_Bacta_Tank_at_
 qstr_You_are_being_healed You_are_being_healed_by_the_Bacta_Tank...
 qstr_Walk_into_the_Bacta_ Walk_into_the_Bacta_Tank_to_heal_yourself.
 qstr_Space_Combat_practic Space_Combat_practice
+qstr_Do_you_wish_to_give_ Do_you_wish_to_give_up_the_fight?
+qstr_You_ve_lost_a_total_ You've_lost_a_total_number_of_{reg2}_duels.
+qstr_You_ve_won_a_total_n You've_won_a_total_number_of_{reg2}_duels
 qstr_{s4}:_M{reg3}_2M{reg {s4}:_M{reg3},_2M{reg4},_PC{reg5},_2PC{reg6},_PM{reg7}
 qstr_No_companions_in_par No_companions_in_party!
 qstr_After_visiting_the_r After_visiting_the_recruiting_center_you_were_accepted_into_the_army_and_spent_several_months_training_at_the_Imperial_Academy._As_your_last_task_before_graduation_you_were_given_a_small_ship_and_sent_to_Coruscant_to_pledge_your_loyalty_before_Emperor_Palpatine_himself.
