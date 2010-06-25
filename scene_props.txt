@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1213
+ 1218
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3669,6 +3669,21 @@ spr_barf_rock_23 0 0 rock23 bo_rock23 0
 
 
 spr_barf_rock_24 0 0 rock24 bo_rock24 0
+
+
+spr_skybox_cloud_1 0 0 skybox_cloud_1_prop 0 0
+
+
+spr_skybox_cloud_2 0 0 skybox_cloud_2_prop 0 0
+
+
+spr_skybox_night_1 0 0 skybox_night_1_prop 0 0
+
+
+spr_skybox_sunset_1 0 0 skybox_sunset_1_prop 0 0
+
+
+spr_skybox_space 0 0 compass_prop 0 0
 
 
 spr_scene_props_end 0 0 0 0 0
