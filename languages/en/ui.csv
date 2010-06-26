@@ -34,10 +34,11 @@ ui_options|Options
 ui_credits|Credits
 ui_exit_to_windows|Exit to Windows
 
+ui_camp|Stationing
 
 ui_start_tutorial|Training Room
 ui_start_a_new_game|Galactic Conquest
-ui_restore_a_saved_game|Resume Game
+ui_restore_a_saved_game|Continue Game
 ui_custom_battle|Quick Battle
 ui_options|Options
 ui_credits|Credits

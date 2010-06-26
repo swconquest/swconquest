@@ -1,7 +1,6 @@
-﻿# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
+# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
 # CREADO POR SWYTER, TODOS LOS DERECHOS RESERVADOS.
 # CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
-
 
 menu_start_game_1|Hace mucho tiempo, en una galaxia muy, muy lejana...^^Bienvenido, a Star Wars: Conquest, un mod para Mount&Blade. Antes de empezar a jugar debes crear un personaje. Elige tu raza:
 mno_start_male|Hombre Humano
@@ -19,9 +18,9 @@ mno_start_bothan|Bothan
 mno_start_geonosian|Geonosiano
 mno_start_jawa|Jawa
 mno_start_tusken|Tusken
-mno_go_back|Atrás
+mno_go_back|Volver.
 menu_start_phase_2|Es un periodo de Guerra Civil... El Imperio Galáctico está en guerra constante con la Alianza Rebelde, un conflicto que ha llegado hasta los confines de la galaxia. Pero a su vez numerosos criminales se aprovechan de las oportunidades que brinda el enfrentamiento. El Cártel Hutt, entre otras asociaciones, hace uso de sus puertos francos para ganar dinero, y aprovecha la minima ventaja para ampliar sus dominios. Sea cual sea el destino que tomes, una gran aventura te aguarda....
-mno_continue|Continuar...
+mno_continue|Volver
 mno_tutorial_cheat|¡TRUCO!
 menu_start_game_3|Elige un escenario:
 mno_custom_battle_scenario_1|El Asalto al Búnker de Endor
@@ -33,7 +32,7 @@ mno_custom_battle_scenario_8|El Asalto a la Nave Imperial
 mno_custom_battle_scenario_9|El Laberinto
 mno_custom_battle|Batalla Personalizada
 mno_choose_scene|Gestor de Escenas (para uso de los Desarrolladores)
-mno_go_back|Atrás
+mno_go_back|Volver.
 menu_tutorial|The acercas a un lugar donde entrenan con armas. Puedes practicar para mejorar tus Habilidades de Combate.
 mno_tutorial_1|Tutorial 1: Movimiento básico y selección de armas. {s1}
 mno_tutorial_2|Tutorial 2: Lucha con Protección. {s2}
@@ -42,21 +41,21 @@ mno_tutorial_3b|Tutorial 3 b
 mno_tutorial_3b_door|Siguiente Nivel
 mno_tutorial_4|Tutorial 4: Conducir una moto Speeder. {s4}
 mno_tutorial_5|Tutorial 5: Comandar una tropa de Soldados. {s5}
-mno_go_back_dot|Atrás
+mno_go_back_dot|Volver.
 menu_reports|Renombre del Personaje: {reg5}^Reputación: {reg6}^Moral del Grupo: {reg8}^Tamaño máximo del Grupo: {reg7}^
 mno_cheat_faction_orders|Truco: Órdenes a la Facción.
-mno_view_character_report|Ver Informe del Personaje.
+mno_view_character_report|Estado de los NPC.
 mno_view_party_size_report|Ver Informe del Tamaño del Grupo.
 mno_view_morale_report|Ver Informe de la Moral del Grupo.
 mno_view_character_report|Estado de los NPC.
-mno_Companions_overview|Resumen sobre los Compañeros.
+mno_Companions_overview|Revisión de Compañeros.
 mno_view_faction_relations_report|Ver tu Relación con las Facciones.
-mno_resume_travelling|Volver al Viaje.
+mno_resume_travelling|Volver al viaje.
 menu_custom_battle_2|{s16}
-mno_custom_battle_go|Empezar.
+mno_custom_battle_go|Iniciar
 mno_leave_custom_battle_2|Cancelar.
-menu_custom_battle_end|La Batalla ha terminado. {s1} Tu bando ha matado {reg5} enemigos y perdido {reg6} tropas. Personalmente has acabado con {reg7} tropas.
-mno_continue|Continuar.
+menu_custom_battle_end|La Batalla ha terminado. {s1} Tu ejercito a matado a {reg5} tropas, el ejercito enemigo a matado a {reg6} tropas. Tú has matado a {reg7} tropas.
+mno_continue|Volver
 menu_start_character_0|Te pasaste tus primeros años viajando con tus padres por la Galaxia. Tu padre fué...
 mno_start_quick_ambassador|Un Embajador
 mno_start_quick_merchant|Un Vendedor
@@ -64,23 +63,23 @@ mno_start_quick_soldier|Un Soldado
 mno_start_quick_smuggler|Un Contrabandista
 mno_start_quick_hunter|Un Cazador de Recompensas
 mno_start_quick_forcesensitive|Un Luchador de la Fuerza
-mno_go_back|Volver
+mno_go_back|Volver.
 menu_start_character_faction|Según crecias decidiste...
 mno_start_quick_faction1|unirte al Imperio Galáctico
 mno_start_quick_faction2|unirte a la Rebelión
 mno_start_quick_faction3|unirte al Cártel Hutt
 mno_start_quick_other|permanecer independiente
-mno_go_back|Volver
+mno_go_back|Volver.
 menu_choose_skill|{s13}
 mno_begin_adventuring|Empezar a Navegar por la Galaxia.
-mno_go_back_dot|Volver
+mno_go_back_dot|Volver.
 menu_past_life_explanation|{s3}
 mno_view_next|{s5}
-mno_continue|Continuar...
+mno_continue|Volver
 mno_go_back_dot|Volver.
 menu_auto_return|Este menú automáticamente vuelve a la persona.
 menu_morale_report|{s1}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_faction_orders|{s9}
 mno_faction_orders_next_faction|Seleccionar siguiente facción.
 mno_faction_orders_defend|Fuerza defensa.
@@ -90,25 +89,33 @@ mno_faction_orders_rethink|Fuerza recapacitar.
 mno_faction_orders_rethink_all|Fuerza recapacitar a rodas las facciones.
 mno_go_back_dot|Volver.
 menu_character_report|{s9}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_party_size_report|{s1}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_faction_relations_report|{s1}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_camp|Es {s1} en el dia {reg0} de tu aventura.^^{s9}^^ ¿Qué quieres hacer?
 mno_camp_action|Hacer algo.
 mno_camp_own_kingdom|Opciones de Gobierno de Facción.
 mno_camp_manage_inventory|Administrar el Inventario.
 mno_camp_wait_here|Esperar aquí por un tiempo.
+mno_walk_around_menu|Caminar por tu Nave.
 mno_configuration_menu|Menú de Configuración de SWC.
-mno_cheat_menu|Menú de Modding/Trucos (for development use).
+mno_cheat_menu|Menú de Modding/Trucos [Uso de Desarrollo]
 mno_resume_travelling|Volver al viaje.
+menu_walk_around_choose|¿Por qué área de la Nave quieres caminar?
+mno_walk_around_passenger_quarters|La zona de Pasajeros.
+mno_walk_around_cargo_hold|La Zona de Carga.
+mno_walk_around_shooting_range|La plataforma de tiro.
+mno_walk_around_medical_bay|La bahía médica.
+mno_walk_around_command_bridge|El puente de mando.
+mno_walk_around_back|Atrás.
 menu_own_kingdom|¿Que quieres hacer?:
 mno_recruit_lords|Reclutar a un nuevo comandante. Tu estado cuenta ahora con {reg1} líderes.
 mno_give_territory|Administrar tus Planetas.
 mno_change_culture|Cambiar la cultura de tu facción.
 mno_change_kingdom_name|Cambiar el nombre de tu facción.
-mno_camp_action_4|Volver al menu de estacionamiento.
+mno_camp_action_4|Volver Atrás
 menu_change_culture|Escoger cultura:^^^La cultura de tu estado determina el tipo de guardias de tus territorios, así como el tipo de reclutas  de tus planetas y los soldados liderados por tus comandantes.
 mno_galactic_empire|cultura del Imperio Galáctico
 mno_rebel_alliance|cultura de la Alianza Rebelde
@@ -118,26 +125,40 @@ mno_wookiee|cultura Wookiee
 mno_mandalorian|cultura Mandaloriana
 mno_clone|cultura Clon
 mno_trandoshan|cultura Trandoshana
-mno_camp_action_4|Volver al menú de administración de estado.
+mno_camp_action_4|Volver Atrás
 menu_manage_fiefs|Escoger un Planeta ({reg1} a {reg2}):
 mno_fief_1|{s1}
 mno_fief_2|{s1}
 mno_fief_3|{s1}
-mno_artillery_recruit2|Siquiente...
-mno_artillery_recruit2|Atrás...
-mno_camp_action_4|Volver al menú de estacionamiento.
+mno_artillery_recruit2|Atrás
+mno_artillery_recruit2|Atrás
+mno_camp_action_4|Volver Atrás
 menu_manage_fiefs_2|Dar al comandante ({reg1} a {reg2}):
 mno_player|{s3}
 mno_lord_1|{s3}
 mno_lord_2|{s3}
 mno_lord_3|{s3}Siguiente
 mno_artillery_recruit2|Atrás
-mno_camp_action_4|Volver
+mno_artillery_recruit2|Atrás
+mno_camp_action_4|Volver Atrás
 menu_camp_configuration|Star Wars: Conquest MENÚ DE CONFIGURACIÓN
 mno_config_shield_bash|Cambiar integración de golpe de escudo ( {s1} )
 mno_config_random_scene_battles|Cambiar frecuencia de ataques espontaneos en escenas ( Ahora {reg1}% )
 mno_config_random_scene_assassination|Cambiar frecuencia de intentos de asesinato ( Ahora {reg1}% )
+mno_config_faction_colors|CCambiar colores de facción ( {s1} )
 mno_config_back|Volver al menú de estacionamiento.
+mno_config_back|Volver al menú de estacionamiento.
+menu_setup_keys|Elige una abilidad y persiona una tecla para asignarla. Para cancelar la asignación, selecciona una abilidad y presiona ESC
+mno_shield_bash|Golpeo de Escudo [ bloquear + atacar ]
+mno_crouch|Agacharse [{s15}]
+mno_toggle_weapon|Intercambiar capacidad del arma [{s16}]
+mno_helmet_view|Visión interna/Casco [{s17}]
+mno_jetpack|Mochila Cohete / Salto con la Fuerza [{s18}]
+mno_bacta_injector|Inyector de Bacta [{s20}]
+mno_binoculars|Macrobinoculares [{s21}]
+mno_deathcam_forward|Cámara de Muerte - Siguiente [{s22}]
+mno_deathcam_backward|Cámara de Muerte - Anterior [{s23}]
+mno_back|Atrás
 menu_camp_cheat|Menú de Modding/Trucos (para uso de desarrolladores):^^Este menú tiene como objetivo servir en el desarrollo y la mejora del mod. Si activas esta opción adicional el menú de CHEAT también aparecerá en otros menús de juego. Por favor, no comuniques bugs o fallos acerca de esta función, es solo para pruebas.
 mno_cheat_toggle|{s1}
 mno_cheat_walk_around|Andar por la zona.
@@ -152,8 +173,8 @@ mno_camp_mod_2|Incrementar atributos y habilidades del jugador.
 mno_camp_mod_3|Sumar equipo o dinero al jugador.
 mno_camp_mod_5|Hacer aparecer una patrulla cerca.
 mno_cheat_build_upgrades|Construir Mejoras Planetarias.
-mno_cheat_next_page|Siguiente página.
-mno_cheat_back|Volver al menú de estacionamiento.
+mno_cheat_next_page|Pagina Anterior
+mno_cheat_back|Volver atrás
 menu_camp_cheat_2|Menú de Modding/Trucos (para uso de desarrolladores):^^Este menú tiene como objetivo servir en el desarrollo y la mejora del mod. Si activas esta opción adicional el menú de CHEAT también aparecerá en otros menús de juego.
 mno_cheat_infest_planet|Infestar todas las villas con bandidos.
 mno_cheat_increase_planet_relationship|Mejorar relación con todas las villas.
@@ -161,8 +182,8 @@ mno_cheat_decrease_planet_relationship|Empeorar relación con todas las villas.
 mno_cheat_relocate_fs_trainer|Poner a un Entrenador de la Fuerza en el planeta más cercano.
 mno_cheat_relocate_clone_merchant|Poner a un vendedor de las Guerras Clon en el planeta más cercano.
 mno_cheat_relocate_droid_merchant|Poner a un vendedor de Partes de Droides en el planeta más cercano.
-mno_cheat_relocate_plastic_merchant|Poner a un cirujano plástico en el planeta más cercano.
 mno_cheat_relocate_plastic_merchant|Poner a un NPC cualquiera en el planeta más cercano.
+mno_cheat_relocate_npc|Relocate a random NPC to the closest planet.
 mno_cheat_next_page|Pagina Anterior
 mno_cheat_back|Volver atrás
 menu_camp_action|Elige una accion:
@@ -174,7 +195,7 @@ mno_Tidy_up_your_inventory|Ver Inventario.
 mno_action_retire|Retirarse de la Aventura
 mno_action_export_import|Exportar/Importar NPCs.
 mno_action_swc_readme|Ver las notas de Star Wars: Conquest.
-mno_camp_action_4|Volver al menú de estacionamiento.
+mno_camp_action_4|Volver Atrás
 menu_export_import_npcs|Exportar/Importar NPCs^^Instrucciones:^^1) click en el nombre^2) dar a la tecla 'C'^3) click Estadísticas^4) Escoger Exportar/Importar^5) click en 'Hecho' cuando hayas terminado^^Selección actual:  {reg0?{s0}:none}
 mno_export_import_back|Atrás
 mno_export_import_npc1|{s0}
@@ -201,9 +222,9 @@ mno_export_import_npc18|{s0}
 menu_camp_recruit_prisoners|Ofreces a los prisioneros la libertad si se unen a tí. {s18}
 mno_camp_recruit_prisoners_accept|Cogerlos.
 mno_camp_recruit_prisoners_reject|Rechazar oferta.
-mno_continue|Atrás.
+mno_continue|Volver
 menu_camp_no_prisoners|No tienes Prisioneros.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_camp_action_read_book|Ver un Holocrón:
 mno_action_read_book_1|{s1}.
 mno_action_read_book_2|{s1}.
@@ -213,7 +234,7 @@ mno_action_read_book_5|{s1}.
 mno_action_read_book_6|{s1}.
 mno_action_read_book_7|{s1}.
 mno_camp_action_4|Volver Atrás
-menu_camp_action_change_race|Elige tu raza:^^Nota: Deberías pasar por el editor de caras después de este paso.
+menu_camp_action_change_race|Elige tu raza:^^Nota: Deberías pasar por el editor facial después de este paso.
 mno_race_male|Hombre Humano
 mno_race_female|Mujer Humana
 mno_race_twilek|Hombre Twilek
@@ -231,8 +252,8 @@ mno_race_tusken|Tusken
 mno_race_jawa|Jawa
 mno_camp_menu|Volver al menú de estacionamiento.
 menu_camp_action_read_book_start|{s1}
-mno_continue|Continuar...
-menu_retirement_verify|Estas en el dia {reg0}. Tu suerte actual asciende a {reg1}. ¿Seguro que quieres retirarte?
+mno_continue|Volver
+menu_retirement_verify|Estás en el dia {reg0}. Tu suerte actual asciende a {reg1}. ¿Seguro que quieres retirarte?
 mno_retire_yes|Sí.
 mno_retire_no|No.
 menu_end_game|La decisión está tomada y decides avandonar tu vida de aventurero y sentar la cabeza. Vendes todas tus armas y reunes tus creditos, dirigiéndote al planeta donde aguarda la esperanza de un futuro tranquilo....
@@ -247,7 +268,7 @@ menu_cattle_herd|Encuentras una rebaño de nerfs.
 mno_cattle_drive_away|Guiar al rebaño de nerfs.
 mno_cattle_stop|Parar el rebaño.
 mno_cattle_kill|Sacrificar a algunos de los animales.
-mno_leave|Dejar.
+mno_leave|{s20}
 menu_cattle_herd_kill|¿Cuantos animales quieres sacrificar?
 mno_cattle_kill_1|Uno.
 mno_cattle_kill_2|Dos.
@@ -257,11 +278,11 @@ mno_cattle_kill_5|Cinco.
 mno_go_back_dot|Volver.
 menu_cattle_herd_kill_end|No deberías estar leyendo esto.
 menu_arena_duel_fight|Tu y tu contrincante os preparáis para el enfrentamiento.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_duel_menu|{s1}{s2}
 mno_start_fight|Comenzar duelo.
 mno_duel_again|Enfrentarse otra vez.
-mno_leave|Abandonar.
+mno_leave|{s20}
 menu_simple_encounter|{s2} Tienes a {reg10} tropas para una batalla contra {reg11}.
 mno_commander_change_simple_encounter|Cambiar de comandante.(Current:{s7})
 mno_encounter_attack|Aterrizar y luchar en {s1}.
@@ -278,24 +299,24 @@ mno_commander2|{s12}(Salud:{reg1}%)
 mno_commander3|{s13}(Salud:{reg1}%) 
 mno_commander4|{s14}(Salud:{reg1}%) 
 mno_next_page|Página siguiente
-menu_encounter_retreat_confirm|Como el miembro con myores aptitudes tácticas, ({reg2}), {reg3?ideas:{s3} idea} un plan que os permitirá salir ilesos de la situación, pero tendrás que dejar a {reg4} soldados atrás para evitar que os alcancen.
+menu_encounter_retreat_confirm|Como el miembro con mayores aptitudes tácticas, ({reg2}), {reg3?ideas:{s3} idea} un plan que os permitirá salir ilesos de la situación, pero tendrás que dejar a {reg4} soldados atrás para evitar que os alcancen.
 mno_leave_behind|Seguir con el plan. El sacrificio de estos soldados salvará al resto.
 mno_dont_leave_behind|No. No dejaremos a nadie detrás.
 menu_encounter_retreat|Le dices a {reg4} de tu tripulación que esperen hasta que hayáis escapado.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_order_attack_begin|Tus tropas se preparan para lidiar con el enemigo.
 mno_order_attack_begin|Ordenar que de comienzo el ataque.
 mno_call_back|Ordenar que vuelvan.
 menu_order_attack_2|{s4}^^Tus Pérdidas: {s8}^^Pérdidas Enemigas: {s9}
 mno_order_attack_continue|Ordenar a los tuyos que continuen el ataque.
 mno_order_retreat||Ordenar que vuelvan.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_battle_debrief|{s11}^^Tus Pérdidas:{s8}{s10}^^Pérdidas Enemigas:{s9}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_total_victory|No deberías estar leyendo esto... {s9}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_enemy_slipped_away|{s17}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_total_defeat|No deberías estar leyendo esto... 
 menu_permanent_damage|{s0}
 mno_s0|{s0}
@@ -309,7 +330,7 @@ mno_join_attack|Cargar contra el enemigo.
 mno_join_order_attack|Ordenar a tus tropas que atquen junto a tus aliados mientras te quedas atrás.
 mno_join_leave|Abandonar.
 menu_join_order_attack|{s4}^^Tus Pérdidas: {s8}^^Pérdidas Aliadas: {s9}^^Pérdidas Enemigas: {s10}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_zendar|Entras en la localidad de Zendar.
 mno_zendar_enter| 
 mno_zendar_enter_door|Entrada al centro de la localidad.
@@ -322,35 +343,35 @@ mno_zendar_arena_door|Entrada a la arena.
 mno_town_1_leave| 
 menu_salt_mine|Entrada a la mina de sal.
 mno_enter|Entrar.
-mno_leave|Abandonar.
+mno_leave|{s20}
 menu_four_ways_inn|Llegas a la Four Ways Inn.
 mno_enter|Entrar.
-mno_leave|Abandonar.
+mno_leave|{s20}
 menu_test_scene|Entras en la escena de pruebas.
 mno_enter|Entrar.
-mno_leave|Abandonar.
+mno_leave|{s20}
 menu_battlefields|Seleccionar un campo...
 mno_enter_f1|Field 1
 mno_enter_f2|Field 2
 mno_enter_f3|Field 3
 mno_enter_f4|Field 4
 mno_enter_f5|Field 5
-mno_leave|Abandonar.
+mno_leave|{s20}
 menu_dhorak_keep|Entras en el Dhorak Keep
 mno_enter|Entrar.
-mno_leave|Abandonar.
+mno_leave|{s20}
 menu_join_siege_outside|{s1} está bajo asedio por {s2}.
 mno_approach_besiegers|Acercarse al asedio.
 mno_pass_through_siege|Penetrar las lineas de asedio y llegar a {s1}.
-mno_leave|Abandonar.
-menu_cut_siege_without_fight|Los atacantes te dejan llegar al objetivo sin lidiar contigo.
-mno_continue|Continuar...
-menu_besiegers_camp_with_allies|{s1} sigue bajo asedio. Las banderas de {s2} ondeand en el campo de los defensores, donde tu y los tuyos sois bienvenidos.
-mno_talk_to_siege_commander| Request a meeting with the commander.
-mno_commander_change_besiegers_camp_with_allies|Change the commander.(Current:{s7})
+mno_leave|{s20}
+menu_cut_siege_without_fight|Los atacantes te dejan llegar al objetivo sin luchar contigo.
+mno_continue|Volver
+menu_besiegers_camp_with_allies|{s1} sigue bajo asedio. Las banderas de {s2} ondeando en el campo de los defensores, donde tu y los tuyos sois bienvenidos.
+mno_talk_to_siege_commander| Hablar con el comandante.
+mno_commander_change_besiegers_camp_with_allies|Cambiar comandante.[{s7}]
 mno_join_siege_with_allies|Unirse al siguiente asalto.
 mno_join_siege_stay_back|Ordenar a tus soldados que se unan al siguiente asalto sin ti.
-mno_leave|Abandonar.
+mno_leave|{s20}
 menu_castle_outside|Estás afuera de {s2}.{s11} {s3} {s4}
 mno_approach_gates|Acercarse al planeta y contactar con la seguridad local.
 mno_town_sneak|Disfrazarse e intentar entrar en el planeta.
@@ -359,15 +380,15 @@ mno_cheat_castle_start_siege|CHEAT: Asediar {reg6?town:castle}...
 mno_castle_leave|Abandonar.
 mno_castle_cheat_interior|CHEAT! Interior.
 mno_castle_cheat_exterior|CHEAT! Exterior.
-mno_castle_cheat_town_walls|CHEAT! Town Walls.
+mno_castle_cheat_town_walls|CHEAT! Murallas.
 menu_castle_guard|Te aproximas a las pistas de aterrizaje. Los guardias en los puestos de observación vigilan tus movimientos.
-mno_request_shelter.|Pedir entrada al lugar.
+mno_request_shelter|Pedir permiso para entrar.
 mno_request_meeting_commander|Pedir audiencia con alguien.
 mno_guard_leave|Abandonar.
 menu_castle_entry_granted|tras una corta espera, seguridad baja los escudos y te permiten entrar.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_castle_entry_denied|El gobernador de este planeta a prohibido tu entrada en el planeta, y el sargento al mando asegura que ordenará disparar a los suyos si intentas traspasar sus sistemas.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_castle_meeting|¿A quién quieres ver?
 mno_guard_meet_s5|{s5}.
 mno_guard_meet_s5|{s5}.
@@ -375,11 +396,11 @@ mno_guard_meet_s5|{s5}.
 mno_guard_meet_s5|{s5}.
 mno_forget_it|Olvídalo.
 menu_castle_meeting_selected|Tu petición es aceptada y finalmente {s6} aparece para hablar contigo.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_castle_besiege|Estas asediando {s1}. {s2} {s3}
 mno_siege_request_meeting|Pedir un encuentro con el comandante a la defensa.
 mno_wait_24_hours|Esperar a mañana.
-mno_commander_change_castle_besiege|Cambiar de comandante.(Current:{s7})
+mno_commander_change_castle_besiege|Cambiar comandante.[{s7}]
 mno_castle_lead_attack|Lidera a tus soldados en un asalto.
 mno_attack_stay_back|Ordena a tus soldados atacar mientras te quedas atrás.
 mno_build_ladders|Asalta los Escudos.
@@ -387,27 +408,27 @@ mno_build_siege_tower|Despliega los sistemas de ataque.
 mno_cheat_castle_lead_attack|CHEAT: Instant build equipments.
 mno_lift_siege|Abandonar el asedio.
 menu_siege_attack_meets_sally|Los defensores salen a enfrentarse contigo.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_castle_besiege_inner_battle|{s1}
-mno_continue|Continuar...
-menu_construct_ladders|Como el miembro de la patruya con el mayor conocimiento de ingeniería ({reg2}), {reg3?tu estimas:{s3} estima} que se tardarán {reg4} horas en destruir los escudos y poder asaltar sus posiciones.
+mno_continue|Volver
+menu_construct_ladders|Como el miembro de la patrulla con el mayor conocimiento de ingeniería ({reg2}), {reg3?tu estimas:{s3} estima} que se tardarán {reg4} horas en destruir los escudos y poder asaltar sus posiciones.
 mno_build_ladders_cont|Comenzar el Asalto.
 mno_go_back|Volver.
 menu_construct_siege_tower|Como el miembro de la patruya con el mayor conocimiento de ingeniería ({reg2}), {reg3?tu estimas:{s3} estima} que desplegar los sistemas de ataque tomará {reg4} horas.
-mno_build_siege_tower_cont|Start building.
+mno_build_siege_tower_cont|Empezar construcción.
 mno_go_back|Volver.
 menu_castle_attack_walls_simulate|{s4}^^Tus Pérdidas:{s8}^^Pérdidas Enemigas: {s9}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_castle_attack_walls_with_allies_simulate|{s4}^^Tus Pérdidas: {s8}^^Pérdidas Aliadas: {s9}^^Pérdidas enemigas: {s10}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_castle_taken_by_friends|Nada que ver por aquí.
 menu_castle_taken|{s3} ha caido ante tus tropas, y ahora tienes control total sobre {reg2?town:castle}.{reg1? No parece que haya nada que te detenga de tomarlo para ti...:}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_castle_taken_2|{s3} ha caido ante tus tropas, y ahora tienes control total sobre el lugar. Es hora de avisar a {s9} de tu victoria. {s5}
 mno_castle_taken_claim|Pide que {s3} te sea encomendada.
 mno_castle_taken_no_claim|No pedir premio alguno.
 menu_requested_castle_granted_to_player|Recibes un mensaje de tu superior, {s3}.^^ {reg4?She:He} ha decidido dejarte {s2}{reg3? y el planeta cercano de {s4}:} bajo tu mando, incluyendo titulos y rentas, para gobernar en su nombre siempre y cuando mantengas la lealtad.
-mno_continue|Continue.
+mno_continue|Volver
 menu_requested_castle_granted_to_another|recibes un mensaje de tu superior, {s3}.^^ 'Me ha encantado saber de la captura de {s2}. Tu victoria se ha ganado un hueco en nuestros corazones. También me pediste el gobierno del subsector, pero me temo que se trata de un derecho que no puedo otorgar, dado que ya tienes encargada una amplia region. En su lugar te envio {reg6} créditos cubrir los gastos de la campana, pero {s2} será parte de la administración de {s5}.' 
 mno_accept_decision|Aceptar la decisión.
 mno_leave_faction|¡Te has equivocado! ¡Niego tu superioridad! 
@@ -419,7 +440,7 @@ menu_give_center_to_player|Tu superior te ofrece extender tu gobierno. {s1} anun
 mno_give_center_to_player_accept|Aceptar la oferta.
 mno_give_center_to_player_reject|Negarte. No tienes interés en gobernar {s2}.
 menu_give_center_to_player_2|Con la ceremonia de investidura, eres oficialmente el gobernador de {s2}{reg3? y comandante en jefe de las fuerzas planetarias de {s4}:}. {reg3?They:It} será un subsector importante bajo tu mando. Ahora puedes reclamar las rentas, hacerte con reclutas de la zona o administrar los enclaves como creas preciso. De todos modos también se espera que defiendas dicho subsector, así como mantener la seguridad y el orden en el mismo.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_oath_fulfilled|Has acordado con {s1} servirle durante un cierto tiempo. Tu contrato ha expirado. Qué harás ahora?
 mno_renew_oath|Renovar el contrato con {s1} por otro mes.
 mno_dont_renew_oath|Quedar libre de deber alguno.
@@ -428,9 +449,9 @@ mno_commander_change_siege_defender|Cambiar de comandante.(Current:{s7})
 mno_siege_defender_join_battle|Unirte a la batalla.
 mno_siege_defender_troops_join_battle|Ordenar a tus hombres que entren en batalla sin ti.
 menu_siege_join_defense|{s4}^^Tus Pérdidas: {s8}^^Pérdidas Aliadas: {s9}^^Pérdidas Enemigas: {s10}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_enter_your_own_castle|Según te acercas, eres divisado por la seguridad, que baja los escudos y te la bienvenida.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_village|{s10}{s11}{s6}{s7}
 mno_village_manage|Administrar el Planeta.
 mno_village_elder_talk|Hablar con el Administrador del Planeta.
@@ -439,50 +460,55 @@ mno_recruit_clones|Reclutar Clones.
 mno_recruit_force_sensitive|Reclutar Sensibles a la Fuerza.
 mno_recruit_droid|Construir Droides de Batalla.
 mno_recruit_rancor|Criar Ráncors.
-mno_recruit_volunteeers|Reclutar Voluntarios.
+mno_recruit_volunteers|Reclutar Voluntarios.
 mno_village_center|Aterrizar en el Planeta.
 mno_village_center_door|Entrada al Centro.
 mno_village_buy_food|Comprar suministros.
 mno_commander_change_village_attack_bandits|Cambiar Comandante.[{s7}]
 mno_village_attack_bandits|Atacar a los bandidos
 mno_village_wait|Esperar aquí un tiempo
-mno_collect_taxes_qst|{reg5?Seguir cobrando impuestos:Collect taxes} debido a {s1}.
+mno_collect_taxes_qst|{reg5?Seguir cobrando impuestos:Cobrar impuestos} debido a {s1}.
 mno_train_peasants_against_bandits_qst|Entrenar a los locales.
 mno_village_hostile_action|Realizar un acto hostil.
-mno_village_reports|CHEAT! Show reports.
+mno_village_reports|CHEAT! Mostrar Informes.
 mno_village_leave|Salir...
 menu_village_hostile_action|¿Que tienes en mente?
 mno_village_take_food|Robar Suministros.
 mno_village_steal_cattle|Robar Nerfs.
-mno_village_loot|Saquear y bombardear este Planeta.
+mno_village_loot|Saquea y arrasa el lugar.
 mno_forget_it|Olvídalo.
 menu_recruit_clones|{s18}
-mno_continue|Continuar...
+mno_continue|Volver
 mno_recruit_them|Reclutar {reg5} de ellos ({reg6} créditos).
 mno_forget_it|Olvídalo.
 menu_recruit_force_sensitives|{s18}
-mno_continue|Continuar...
+mno_continue|Volver
 mno_recruit_them|Reclutar {reg5} de ellos ({reg6} créditos).
 mno_forget_it|Olvídalo.
+menu_recruit_droids_pre|{s18}
+mno_build_oomseries|OOM-Series Battle Droids.
+mno_build_b1series|B1-Series Battle Droids.
+mno_build_b2series|B2-Series Battle Droids.
+mno_leave|{s20}
 menu_recruit_droids|{s18}
-mno_continue|Continuar...
-mno_recruit_them|Reclutar {reg5} de ellos ({reg6} créditos).
+mno_continue|Volver
+mno_recruit_them|Constuir {reg5} de ellos ({reg6} créditos).
 mno_forget_it|Olvídalo.
 menu_recruit_rancors|{s18}
-mno_continue|Continuar...
-mno_recruit_them|Reclutar {reg5} de ellos ({reg6} créditos).
+mno_continue|Volver
+mno_recruit_them|Criar {reg5} de ellos ({reg6} créditos).
 mno_forget_it|Olvídalo.
 menu_recruit_volunteers|{s18}
-mno_continue|Continuar...
+mno_continue|Volver
 mno_recruit_them|Reclutar {reg5} de ellos ({reg6} créditos).
 mno_forget_it|Olvídalo.
 menu_village_hunt_down_fugitive_defeated|Un impacto certero del fugitivo te lleva al suelo y tu visión se vuelve borrosa y finalmente oscura.  El tiempo pasa. Cuando abres tus ojos de nuevo estas magullado y herido, pero por suerte no hay daños críticos.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_village_infest_bandits_result|{s9}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_village_infestation_removed|En una batalla digna de recuerdo consigues deshacerte de la patrulla hostil. Poco les queda a las gentes del planeta, pero te lo ofrecen de buena gana en muestra de agradecimiento.
-mno_village_bandits_defeated_accept|Hazte con sus ofrendas como pago legítimo.
-mno_village_bandits_defeated_cont|Niégate, alegando que ellos lo necesitarán más que tú.
+mno_village_bandits_defeated_accept|Tómalo como tu justo pago.
+mno_village_bandits_defeated_cont|Niégate, alegando que lo necesitan más que tú.
 menu_center_manage|{s19}^{reg6?^^Actualmente estas construyendo {s7}. El edificio estará completo en el dia {reg8} {reg9?s:}.:}
 mno_center_build_temple|Construir un Templo de la Fuerza.
 mno_center_build_clone_chambers|Construir Cámaras de Clonación.
@@ -500,14 +526,14 @@ mno_improve_cont|Seguir.
 mno_forget_it|Olvídalo.
 mno_improve_not_enough_gold|No tienes suficiente dinero para eso.
 menu_town_bandits_failed|{s4} {s5}
-mno_continue|Continuar...
-menu_town_bandits_succeeded|Los bandidos can ante ti. Pronto te encuentras solo, con tus atacantes inconscientes, muertos o muriéndose. Mientras buscas entre los cuerpos encuentras unos cuantos créditos, supuestamente pertenecientes a alguna víctima anterior. O quizas a alquien que les hubiera pagado...
-mno_continue|Continuar...
+mno_continue|Volver
+menu_town_bandits_succeeded|Los bandidos caen ante ti. Pronto te encuentras solo, con tus atacantes inconscientes, muertos o muriéndose. Mientras buscas entre los cuerpos encuentras unos cuantos créditos, supuestamente pertenecientes a alguna víctima anterior. O quizas a alquien que les hubiera pagado...
+mno_continue|Volver
 menu_village_steal_cattle_confirm|Como el miembro de la patrulla con la mayor habilidad de pillaje ({reg2}), {reg3?sabes:{s1} sabe} que podrás conseguir {reg4} nerfs como mucho.
 mno_village_steal_cattle_confirm|Continuar.
 mno_forget_it|Olvídalo.
 menu_village_steal_cattle|{s1}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_village_take_food_confirm|Será dificil forzar a estos habitantes para que te den sus pertenencias. Al menos necesitarás una hora.
 mno_village_take_food_confirm|Continuar.
 mno_forget_it|Olvídalo.
@@ -516,20 +542,20 @@ mno_take_supplies|Hazte con las pertenencias.
 mno_let_them_keep_it|Deja que se lo queden.
 menu_village_start_attack|Algunos de los enfurecidos locales se hacen con herramientas y armas. No pretenden dejarte lo suyo sin luchar.
 mno_village_raid_attack|Carga contra ellos.
-mno_village_raid_leave|Deja este planeta en paz.
+mno_village_raid_leave|Deja este lugar en paz.
 menu_village_loot_no_resist|Los habitantes aquí son pocos y están asustados. No son nada para ti y el lugar está a tu merced.
 mno_village_loot|Saquea y arrasa el lugar.
 mno_village_raid_leave|Deja este lugar en paz.
 menu_village_loot_complete|Bajo tus órdenes, tu gente saquea y arrasa el lugar. Como resultado consigues agenciarte una suma de {reg1} créditos.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_village_loot_defeat|Luchando con coraje y determinación los locales consiguen expulsarte.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_village_loot_continue|¿Quieres continuar saqueando este lugar?
 mno_disembark_yes|Sí.
 mno_disembark_no|No.
 menu_close|Nada.
-menu_center_tax|recibes los impuestos de todo tu territorio, que asciende a {reg1} créditos.
-mno_continue|Continuar...
+menu_center_tax|recibes los impuestos de todo tu planeta, que asciende a {reg1} créditos.
+mno_continue|Volver
 menu_town|{s10}{s11}{s12}{s13}
 mno_castle_castle|Ir al recibidor principal.
 mno_castle_castle_door|Entrada a la fortaleza.
@@ -540,20 +566,20 @@ mno_town_center|Aterrizar en la superficie del planeta.
 mno_town_center_door|Entrada al centro.
 mno_town_tavern|Visitar la cantina.
 mno_town_tavern_door|Entrada a la cantina.
-mno_town_merchant|Hablar con el mercader.
+mno_town_merchant|Visitar las Tiendas.
 mno_town_merchant_door|Entrada la tienda.
-mno_town_arena|Entrar en la arena.
-mno_town_arena_door|Entrada a la arena.
+mno_town_arena|Entrar en la Arena.
+mno_town_arena_door|Entrada a la Arena.
 mno_town_dungeon|Nunca: Entrar en la prisión.
 mno_town_dungeon_door|Entrada a la prisión.
 mno_castle_inspect|Dar un paseo por el lugar.
 mno_castle_inspect_door|Ir al patio de la fortaleza.
 mno_trade_with_merchants|Ir al mercado.
-mno_walled_center_manage|Administrar {reg0?planet:planet}.
+mno_walled_center_manage|Administrar {reg0?planeta:planeta}.
 mno_castle_station_troops|Dejar una guarnición...
 mno_castle_wait|Guardar tu nave en la pista de aterrizaje{s1}.
 mno_town_alley|CHEAT: Go to the alley.
-mno_collect_taxes_qst|{reg5?Seguir cobrando impuestos:Collect taxes} debido a {s1}.
+mno_collect_taxes_qst|{reg5?Seguir cobrando impuestos:Collect taxes} debidos a {s1}.
 mno_town_leave|Abandonar...
 mno_town_leave_door|Abandonar área.
 mno_castle_cheat_interior|CHEAT! Interior.
@@ -564,18 +590,18 @@ mno_cheat_town_start_siege|CHEAT: Besiege the {reg6?town:castle}...
 mno_center_reports|CHEAT! Show reports.
 mno_sail_from_port|Sail from port.
 menu_town_tournament_lost|Has sido eliminado del torneo.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_town_tournament_won|¡Has ganado el torneo de {s3}! Estas lleno de orgullo y la gente te aclama en las calles. Pero además del honor, la fama y la gloria, has ganado un premio de {reg9} créditos. {s8}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_town_tournament_won_by_another|Como el último {reg3?fighter:man} en quedar invicto, {s1} gana el torneo.
-mno_continue|Continuar...
-menu_town_tournament|{s1}You are at tier {reg0} of the tournament, quedando aún {reg1} participantes. En la siguiente ronda habrá {reg2} teams with {reg3} {reg4?fighters:fighter} each.
+mno_continue|Volver
+menu_town_tournament|{s1}Estás en el nivel {reg0} del torneo, quedando aún {reg1} participantes. En la siguiente ronda habrá {reg2} teams with {reg3} {reg4?fighters:fighter} each.
 mno_tournament_view_participants|Mirar la lista de participantes.
-mno_tournament_bet|Apuesta por ti.
+mno_tournament_bet|Apuesta por tí.
 mno_tournament_join_next_fight|Luchar en la siguiente ronda.
 mno_leave_tournament|Dejar el torneo.
 menu_tournament_withdraw_verify|¿Estás seguro de que quieres abandonar el torneo?
-mno_tournament_withdraw_yes|Yes. This is a pointless affectation.
+mno_tournament_withdraw_yes|Sí. Es una decisión si marcha atrás.
 mno_tournament_withdraw_no|¡No mientras quede una opción de ganar!
 menu_tournament_bet|Las apuestas contra ti son de {reg5} a {reg6}.{reg1? Tu ya has apostado {reg1} créditos en ti, y si ganas, consigues {reg2} créditos.:} ¿Cuánto quieres apostar?
 mno_bet_100_denars|100 créditos.
@@ -593,27 +619,27 @@ menu_collect_taxes|Como el miebro con mayor habilidad comercial ({reg2}), {reg3?
 mno_start_collecting|Empezar a cobrar.
 mno_collect_later|Esperar a más tarde.
 menu_collect_taxes_complete|Has cobrado {reg3} créditos en impuestos de {s3}. {s19} estará esperando que le lleves el dinero.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_collect_taxes_rebels_killed|Tu rápida respuesta y habilidades han sofocado la revuelta. Sin duda, todo rebelde se lo volverá a pensar de nuevo la próxima vez.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_collect_taxes_failed|Solo pudiste cobrar {reg3} créditos en impuestos de {s3} antes de que se produjera la revuelta. {s1} no estará contento, pero unos cuantos créditos son mejor que nada...
-mno_continue|Continuar...
+mno_continue|Volver
 menu_collect_taxes_revolt_warning|La gente de {s3} se sienten oprimidos por tus demandas y alegan que no es más que extorsión. Se encuentran muy incómodos y es posible que la situación se vuelva violenta.
 mno_continue_collecting_taxes|Ignorarlos y seguir cobrando.
 mno_halve_taxes|Acepta reducir los impuestos a la mitad. (Puede que a {s1} no le guste la idea)
 menu_collect_taxes_revolt|Te interrumpen mientras cobras los impuestos en {s3}. Una gran banda de {reg9?peasants:townsmen} se acerca, gritando y protestando armas en mano. ¡Parece que pretenden enfrentarse!
-mno_continue|Continuar...
+mno_continue|Volver
 menu_train_peasants_against_bandits|Como el miembro de la patrulla con mayor habilidad de instrucción ({reg2}), {reg3?esperas:{s1} espera} que conseguir que algunos habitantes esten listos para combate te costará {reg4} horas.
 mno_make_preparation|Entrenarlos.
 mno_train_later|Dejarlo para más adelante.
 menu_train_peasants_against_bandits_ready|Entrenas a esta gente en el arte de la guerra, instruyéndoles en el manejo de las armas y en disciplina militar. Crees que {reg0} de ellos {reg1?han:ha} conseguido terminar el entrenamiento básico y que {reg1?estan:está} listo para practicar.
 mno_peasant_start_practice|Empezar la lucha de práctica.
 menu_train_peasants_against_bandits_training_result|{s0}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_train_peasants_against_bandits_attack|Según te preparas para seguir con el entrenamiento ves a un grupo de naves hostiles llegando a {s3}. El administrador te ruega que formes a los reclutas formados y os enfrentéis al enemigo.
 mno_peasants_against_bandits_attack_resist|¡Prepárate para luchar!
 menu_train_peasants_against_bandits_attack_result|{s9}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_train_peasants_against_bandits_success|¡Los bandidos han sido humillados! Los pocos que quedan huyen con el rabo entre las piernas, aterrorizados de los locales y su nuevo campeón. A los habitantes les queda poco tras la lucha, pero te lo ofrecen en muestra de gratitud.
 mno_village_bandits_defeated_accept|Tómalo como tu justo pago.
 mno_village_bandits_defeated_cont|Niégate, alegado que lo necesitan más que tú.
@@ -635,20 +661,20 @@ mno_trade_with_armor_merchant|Comerciar con el mercader de ropa y armaduras.
 mno_trade_with_horse_merchant|Comerciar con el mercader de transporte.
 mno_trade_with_goods_merchant|Comerciar con el mercader de bienes.
 mno_Companions_overview|Revisión de Compañeros.
-mno_back_to_town_menu|Volver.
+mno_back_to_town_menu|Volver Atrás
 menu_town_trade_assessment_begin|Escuchas diversas conversaciones sobre los precios locales. Escuchas de cerca, intentando averiguar los posibles mejores tratos.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_town_trade_assessment|Como el miembro de la patrulla con mayores conocimientos de mercantilismo ({reg2}), {reg3?intentas averiguar:{s1} intenta averiguar} cuales son los mejores bienes con los que se puede comerciar. {s2}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_sneak_into_town_suceeded|Disfrazado como un ciudadano más burlas a la seguridad y entrar en el planeta.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_sneak_into_town_caught|¡Según entras uno de los guardias te reconoce y da la alarma! ¡Debes volver a la nave antes de que te alcancen los guardias!
 mno_sneak_caught_fight|Intenta luchar por escapar.
 mno_sneak_caught_surrender|Ríndete.
 menu_sneak_into_town_caught_dispersed_guards|Te deshaces de los guardias y desapareces de la escena, evitando que cualquier otro te siga la pista.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_sneak_into_town_caught_ran_away|Te haces un camino hasta tu nave y te marchas, llegando a la seguridad de las estrellas.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_enemy_offer_ransom_for_prisoner|{s2} te ofrece una sume de {reg12} créditos si aceptas venderle a {s1}.
 mno_ransom_accept|Aceptar la oferta.
 mno_ransom_reject|Reject la oferta.
@@ -658,8 +684,8 @@ mno_camp_train_melee|Practicar con sparring.
 mno_camp_train_archery|Practicar tiro al blanco.
 mno_camp_train_mounted|Practicar con moto speeders.
 mno_space_entry|Practicar combate espacial.
-mno_leave|Abandonar.
-mno_space_battle|Cheat: Space Battle
+mno_leave|Salir
+mno_space_battle|Cheat: Batalla espacial
 mno_space_battle_door|Despegar la nave espacial.
 mno_go_to_track|Cheat: Go to track.
 mno_go_to_range|Cheat: Go to range.
@@ -668,7 +694,7 @@ mno_camp_train_melee_num_men_1|Uno.
 mno_camp_train_melee_num_men_2|Dos.
 mno_camp_train_melee_num_men_3|Tres.
 mno_camp_train_melee_num_men_4|Cuatro.
-mno_go_back_dot|Cancelar.
+mno_go_back_dot|Volver.
 menu_training_ground_selection_details_melee_2|Selecciona a tu oponente #{reg1}:
 mno_s0|{s0}
 mno_s0|{s0}
@@ -693,9 +719,9 @@ mno_s0|{s0}
 mno_training_ground_selection_details_melee_random|Escoger al azar.
 mno_go_back_dot|Volver.
 menu_training_ground_selection_details_mounted|¿Con qué tipo de arma quieres entrenar?
-mno_camp_train_mounted_details_1|Sable láser.
+mno_camp_train_mounted_details_1|Rifle DLT-19
 mno_camp_train_mounted_details_4|Sable láser (lanzamiento)
-mno_camp_train_mounted_details_1|Bláster DL-44
+mno_camp_train_mounted_details_1|Rifle DLT-19
 mno_camp_train_mounted_details_1|Rifle DLT-19
 mno_go_back_dot|Volver.
 menu_training_ground_selection_details_ranged_1|(Qué tipo de arma a distacia quieres usar?
@@ -713,9 +739,9 @@ mno_camp_train_ranged_details_6|60 yardas.
 mno_camp_train_ranged_details_7|70 yardas.
 mno_go_back_dot|Volver.
 menu_training_ground_description|{s0}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_training_ground_training_result|{s7}{s2}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_marshall_selection_candidate_ask|{s15} will soon select a new marshall for {s23}. Some of the lords have suggested your name as a likely candidate.
 mno_marshall_candidate_accept|Deja que {s15} conozca que pretendes ser Mariscal.
 mno_marshall_candidate_reject|Dile a todo el mundo que te encuentras indispuesto estos días.
@@ -727,30 +753,30 @@ menu_captivity_start_castle_surrender|Stub
 menu_captivity_start_castle_defeat|Stub
 menu_captivity_start_under_siege_defeat|Tus enemigos te toman prisionero.
 menu_captivity_wilderness_taken_prisoner|Tus enemigos te toman prisionero.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_captivity_wilderness_check|stub
 menu_captivity_end_wilderness_escape|Después de pasar días como prisionero de tus enemigos encuentras una oportunidad, ¡y escapas!
-mno_continue|Continuar...
+mno_continue|Volver
 menu_captivity_castle_taken_prisoner|You are quickly surrounded by guards who take away your weapons. With curses and insults, they throw you into the dungeon where you must while away the miserable days of your captivity.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_captivity_rescue_lord_taken_prisoner|You remain in disguise for as long as possible before revealing yourself. The guards are outraged and beat you savagely before throwing you back into the cell for God knows how long...
-mno_continue|Continuar...
+mno_continue|Volver
 menu_captivity_castle_check|stub
 menu_captivity_end_exchanged_with_prisoner|After days of imprisonment, you are finally set free when your captors exchange you with another prisoner.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_captivity_end_propose_ransom|You spend long hours in the sunless dank of the dungeon, more than you can count. Suddenly one of your captors enters your cell with an offer; he proposes to free you in return for {reg5} créditos of your hidden wealth. You decide to...
 mno_captivity_end_ransom_accept|Aceptar the offer.
 mno_captivity_end_ransom_deny|Refuse him, wait for something better.
 menu_captivity_castle_remain|More days pass in the darkness of your cell. You get through them as best you can, enduring the kicks and curses of the guards, watching your underfed body waste away more and more...
-mno_continue|Continuar...
+mno_continue|Volver
 menu_kingdom_army_quest_report_to_army|{s8} sends word that he wishes you to join his new military campaign. You need to bring at least {reg13} troops to the army, and are instructed to raise more men with all due haste if you do not have enough.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_kingdom_army_quest_messenger|{s8} sends word that he wishes to speak with you about a task he needs performed. He requests you to come and see him as soon as possible.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_kingdom_army_quest_join_siege_order|{s8} sends word that you are to join the siege of {s9} in preparation for a full assault. Your troops are to take {s9} at all costs.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_kingdom_army_follow_failed|You have disobeyed orders and failed to follow {s8}. In anger he has disbanded you from the army, and sends a stern warning that your actions will not be forgotten.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_invite_player_to_faction_without_center|You receive an offer of vassalage!^^ {s8} of {s9} has sent a royal herald to bring you an invititation in his own hand. You would be granted the honour of becoming a vassal {lord/lady} of {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, although he offers you no lands or titles. He will surely be offended if you do not take the offer...
 mno_faction_accept|Aceptar
 mno_faction_reject|Decline the invitation.
@@ -758,60 +784,60 @@ menu_invite_player_to_faction|You receive an offer of vassalage!^^ {s8} of {s9} 
 mno_faction_accept|Aceptar
 mno_faction_reject|Decline the invitation.
 menu_invite_player_to_faction_accepted|In order to become a vassal, you must swear an oath of homage to {s3}. You shall have to find him and give him your oath in person. {s5}
-mno_continue|Continuar...
+mno_continue|Volver
 menu_question_peace_offer|You Receive a Peace Offer^^{s1} offers you a peace agreement. What is your answer?
 mno_peace_offer_accept|Aceptar
 mno_peace_offer_reject|Reject
 menu_notification_player_faction_active|You now posess land in your name without being tied to any kingdom, as a masterless warlord who knows no higher authority. Enjoy this freedom, but know that the kings of the land will not look to you kindly and will make every attempt to dispose of you. You may find life very difficult without the protection of a kingdom.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_notification_player_faction_deactive|You no longer hold any land.
-mno_continue|Continuar...
-menu_notification_center_under_siege|{s1} has been besieged by {s2} of {s3}!
-mno_continue|Continuar...
+mno_continue|Volver
+menu_notification_center_under_siege|{s1} ha sido asediado por {s2} de {s3}
+mno_continue|Volver
 menu_notification_village_raided|Enemies have Laid Waste to a territory.^^{s1} has been raided by {s2} of {s3}!
-mno_continue|Continuar...
-menu_notification_village_raid_started|Your planet is under Attack!^^{s2} of {s3} is laying waste to {s1}.
-mno_continue|Continuar...
-menu_notification_one_faction_left|Calradia Conquered by One Kingdom^^{s1} has defeated all rivals and stands as the sole kingdom.
-mno_continue|Continuar...
+mno_continue|Volver
+menu_notification_village_raid_started|¡Tu planeta está bajo ataque!^^{s2} de {s3} is laying waste to {s1}.
+mno_continue|Volver
+menu_notification_one_faction_left|¡La Galaxia ha sido unificada bajo una sóla Facción!^^{s1} ha derrotado a todos sus rivales, declarandose la única facción que dirigue todos y cada uno de los confines de la Galaxia.^^Ahora eres una de las personas con más poder de todos los sistema planetarios. Utilízalo sabiamente.
+mno_continue|Volver
 menu_notification_oath_renounced_faction_defeated|Your Old Faction was Defeated^^You won the battle against {s1}! This ends your struggle which started after you renounced your oath to them.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_notification_center_lost|An Estate was Lost^^You have lost {s1} to {s2}.
-mno_continue|Continuar...
-menu_notification_troop_left_players_faction|Betrayal!^^{s1} has left {s2} and joined {s3}.
-mno_continue|Continuar...
-menu_notification_troop_joined_players_faction|Good news!^^ {s1} has left {s2} and joined {s3}.
-mno_continue|Continuar...
+mno_continue|Volver
+menu_notification_troop_left_players_faction|¡Traición!^^{s1} ha abandonado {s2} y se ha unido a {s3}.
+mno_continue|Volver
+menu_notification_troop_joined_players_faction|¡Buenas noticias!^^ {s1} ha abandonado {s2} y se ha unido a {s3}.
+mno_continue|Volver
 menu_notification_war_declared|Declaración de Guerra^^{s1} ha declarado la guerra a {s2}!
-mno_continue|Continuar...
+mno_continue|Volver
 menu_notification_peace_declared|Acuerdo de Paz^^¡{s1} y {s2} han hecho las paces y aahora son aliados!
-mno_continue|Continuar...
-menu_notification_faction_defeated|Facción Eliminada^^¡{s1} ha caidopor fin!
-mno_continue|Continuar...
+mno_continue|Volver
+menu_notification_faction_defeated|Facción Eliminada^^¡{s1} ha caido por fin!
+mno_continue|Volver
 menu_notification_rebels_switched_to_faction|Rebelión exitosa^^ ¡Tu rebelón ha triunfado! Tu facción, antes controlada por {s11}, recibe a {s12} como único gobernante de su parte de la Galaxia.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_kill_local_merchant_begin|You spot your victim and follow him, observing as he turns a corner into a dark alley. This will surely be your best opportunity to attack him.
-mno_continue|Continuar...
+mno_continue|Volver
 menu_auto_return_to_map|stub
 menu_custom_battle_config_1|Selecciona un mapa para tu siguiente batalla.^{s1}
 mno_open_plains|Geonosis (Muy grande)
 mno_deep_forest|Llanuras de Yavin IV (Grande)
 mno_desert_pass|Pantanos de Dagobah (Medio)
-mno_next|Siguiente.
+mno_next|Siguiente
 mno_cancel_custom_battle_mod|Cancel
-menu_custom_battle_config_2|Please choose the type of battle.^You have chosen: {s1}
-mno_1vs1|One Vs One
+menu_custom_battle_config_2|Elige un tipo de batalla.^Elección: {s1}
+mno_1vs1|Uno contra uno
 mno_3way|Three Way
 mno_4way|Four Way
-mno_2vs2|Two vs Two
-mno_next|Siguiente.
-menu_custom_battle_config_3|Please choose the faction for army {reg1}.^Your choice: {s1}
+mno_2vs2|Dos contra dos
+mno_next|Siguiente
+menu_custom_battle_config_3|Elige la facción para tu ejercito {reg1}.^Elección: {s1}
 mno_empire|Imperio Galáctico
 mno_rebel|Alianza Rebelde
 mno_hutt|Cartel Hutt
 mno_mercenary|Mercenarios
 mno_clonewars|Guerras Clon
-mno_next|Siguiente.
+mno_next|Siguiente
 menu_custom_battle_config_main_class|Please choose the main class of your character. (This determines your choice of subclasses)
 mno_soldier|Ranged Soldier
 mno_force_sensitive|Force-Sensitive Warrior
@@ -863,29 +889,29 @@ mno_finish|Siguiente
 menu_custom_battle_config_finish|La batalla está lista...
 mno_custom_battle_go|Iniciar
 mno_optional_settings|Opciones Adicionales
-menu_custom_battle_test|Las dfac´ones de esta batalla son:{s1},{s2},{s3},{s4},{s5}.
+menu_custom_battle_test|Las facciones de esta batalla son:{s1},{s2},{s3},{s4},{s5}.
 mno_team_1|Mostar tropas del equipo 1
 mno_team_2|Mostar tropas del equipo 2
 mno_team_3|Mostar tropas del equipo 3
 mno_team_4|Mostar tropas del equipo 4
 mno_team_5|Mostar tropas del equipo 5
 mno_team_6|Mostar tropas del equipo 6
-mno_continue|Continuar
-menu_custom_battle_test_troops|The number of troops for this team are:{reg1},{reg2},{reg3},{reg4},{reg5},{reg6},{reg7},{reg8},{reg9},{reg10}
 mno_continue|Volver
-menu_custom_battle_optional|Aqui se puede cambiar el Timpo y la hora
+menu_custom_battle_test_troops|El número de tropas para este equipo son:{reg1},{reg2},{reg3},{reg4},{reg5},{reg6},{reg7},{reg8},{reg9},{reg10}
+mno_continue|Volver
+menu_custom_battle_optional|Aqui se puede cambiar el Tiempo y la hora
 mno_rain|Lluvia/Nieve ({s1})
 mno_fog|Niebla({s2})
 mno_next|Siguiente
 menu_custom_battle_end|La Batalla ha terminado. {s1} Tu ejercito a matado a {reg5} tropas, el ejercito enemigo a matado a {reg6} tropas. Tú has matado a {reg7} tropas.
 mno_exit|Volver al Menú Principal
 mno_replay|Reiniciar esta Batalla
-mno_new_battle|Confugurar una nueva Batalla
+mno_new_battle|Configurar una nueva Batalla
 menu_manage_loot_pool|{s10}
 mno_auto_loot|Permite que tus compañeros cojan cosas del Inventario Común.
 mno_auto_loot_no|No hay suficientes cosas para mejorar automáticamente.
 mno_prev|Página Anterior
-mno_next|Más miembros del Grupo...
+mno_next|Siguiente
 mno_loot|Acceder al Inventario Común.
 mno_companion1|Hablar con {s11}
 mno_companion2|Hablar con {s12}
@@ -895,9 +921,10 @@ mno_leave|{s20}
 menu_auto_loot|Tus compañeros cogerán cosas automáticamente del Inventario Común. El equipamiento que no se necesite será dejado aquí ¿Estás seguro?
 mno_No|No, he cambiado de idea
 mno_Yes|Si, mejorar
-menu_trade_base|Llegas a la base de la federación de Comercio. Hay un gran número de instalaciones. ¿Cual quieres visitar?
+menu_trade_base|Llegas a la base de la Federación de Comercio. Hay un gran número de instalaciones. ¿Cual quieres visitar?
 mno_trade_1|Ir al a la planta de Transportes
 mno_trade_2|Ir al Banco
+mno_trade_3|Ir a la Zona Comercial.
 mno_trade_4|Salir
 menu_shipyard|Entras en la estación de la Federación de Comercio. {s1}{s4}
 mno_shipyard_1|Mirar entre las naves disponibles
@@ -913,625 +940,635 @@ mno_take_deposit|Sacar 1000 créditos de tu cuenta.
 mno_take_deposit_all|Sacar todos tus ahorros de la cuenta.
 mno_back_to_town_menu|Volver Atrás
 menu_take_out_loan|Se te concede un préstamo^^Sólo puedes tener un préstamo a la vez. SSi pides más se te añadira el pago a tu deuda total^^Todas las deudas son por 30 dias. Tienes que pagar tu deuda antes del tiempo estipulado.
-mno_1000_créditos|Tomar un préstamo de 1000 créditos. Tendrás que pagar {reg11} créditos.
-mno_2500_créditos|Tomar un préstamo de 5000 créditos. Tendrás que pagar {reg11} créditos.
-mno_5000_créditos|Tomar un préstamo de 5000 créditos. Tendrás que pagar {reg11} créditos.
+mno_1000_créditos|Tomar un préstamo de 1000 créditos. Tendrás que devolver {reg11} créditos.
+mno_2500_créditos|Tomar un préstamo de 2500 créditos. Tendrás que devolver {reg11} créditos.
+mno_5000_créditos|Tomar un préstamo de 5000 créditos. Tendrás que devolver {reg11} créditos.
 mno_back_to_bank_menu|Volver Atrás
 menu_swc_readme|Star Wars: Conquest - Notas^^Este mod todavía está en desarrollo. Esperamos ir añadiendo modelos, facciones, misiones, edición de escenarios, y otras funcionalidades. Por Favor, postea todos los errores que encuentres en nuetro foro(en Inglés).^^El contenido del mod y los cambios futuros se orientarán principalmente en las películas originales, Episodio 4-6. Las tropas y equipamiento de las Guerras Clon se han incluido pero no está previsto un mantenimiento exaustivo.^^La edición de escenas está todavía en progreso y hemos cambiado los planetas más importantes como Tatooine, Yavin IV, Naboo, Geonosis, Ryloth, Kashyyyk, y Endor. Tambien estamos creando varias escenas genéricas para usar en estaciones espaciales, de guerra, y planetas menos importantes. Esto todavía está por hacer y no está listo por ahora.^^Los Poderes de la Fuerza se pueden comprar a un Maestro de la Fuerza que se podrá encontrar en la Cantina.^^Los Soldados Clon, Droides de Batalla B1, Rancors jóvenes, y personas sensibles a la Fuerza pueden reclutarse construyendo sus respectivos edificios en tus planetas.^^Las Batallas Espaciales se encuentran el la Academia de Entrenamiento. Mejorar este aspecto no es una prioridad pero puede ser revisado en el futuro.^^Las Armas Pesadas (Lanzador de Cohetes, Rifle Lanzallamas, etc) y algunos poderes de la fuerza (Matar con la Fuerza,Desmayar con la Fuerza, etc) se incluyen por diversión pero desequilibran la dificultad de juego si decides usarlos.^^Actualmente algunas naves pueden ser compradas y mejoradas en las Bases de la Federación de Comercio y planeamos añadir más.^^No se distribuye música con el mod, pero se han incluido MP3 vacios facilmente reemplazables. Mira nuestro foro para ver como añadir música.^^Es posible cojer droides de los prisioneros Jawa pero esos droides no harán nada en batalla.^^Admitimos ayuda con modelos, texturas, edición de Escenas, y programación. Postea en nuestro foro si estás interesado en ayudar.^^
 mno_done|Aceptar
-menu_choose_scenes_0|Choose a scene: (Page 1 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_choose_scene_0|camp scene: generate|auto entry points
-mno_choose_scene_1|camp scene horse track: generate|auto entry points
-mno_choose_scene_2|castle 10 exterior: generate
-mno_choose_scene_3|castle 10 interior: indoors
-mno_choose_scene_4|castle 10 prison: indoors
-mno_choose_scene_5|castle 11 exterior: generate
-mno_choose_scene_6|castle 11 interior: indoors
-mno_choose_scene_7|castle 11 prison: indoors
-mno_choose_scene_8|castle 12 exterior: indoors
-mno_choose_scene_9|castle 12 interior: indoors
-mno_choose_scene_10|castle 12 prison: indoors
-mno_choose_scene_11|castle 13 exterior: indoors
-mno_choose_scene_12|castle 13 interior: indoors
-menu_choose_scenes_13|Choose a scene: (Page 2 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_13|castle 13 prison: indoors
-mno_choose_scene_14|castle 14 exterior: generate
-mno_choose_scene_15|castle 14 interior: indoors
-mno_choose_scene_16|castle 14 prison: indoors
-mno_choose_scene_17|castle 15 exterior: generate
-mno_choose_scene_18|castle 15 interior: indoors
-mno_choose_scene_19|castle 15 prison: indoors
-mno_choose_scene_20|castle 16 exterior: indoors
-mno_choose_scene_21|castle 16 interior: indoors
-mno_choose_scene_22|castle 16 prison: indoors
-mno_choose_scene_23|castle 17 exterior: indoors
-mno_choose_scene_24|castle 17 interior: indoors
-mno_choose_scene_25|castle 17 prison: indoors
-menu_choose_scenes_26|Choose a scene: (Page 3 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_26|castle 18 exterior: generate
-mno_choose_scene_27|castle 18 interior: indoors
-mno_choose_scene_28|castle 18 prison: indoors
-mno_choose_scene_29|castle 19 exterior: generate
-mno_choose_scene_30|castle 19 interior: indoors
-mno_choose_scene_31|castle 19 prison: indoors
-mno_choose_scene_32|castle 1 exterior: generate
-mno_choose_scene_33|castle 1 interior: indoors
-mno_choose_scene_34|castle 1 prison: indoors
-mno_choose_scene_35|castle 20 exterior: indoors
-mno_choose_scene_36|castle 20 interior: indoors
-mno_choose_scene_37|castle 20 prison: indoors
-mno_choose_scene_38|castle 21 exterior: indoors
-menu_choose_scenes_39|Choose a scene: (Page 4 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_39|castle 21 interior: indoors
-mno_choose_scene_40|castle 21 prison: indoors
-mno_choose_scene_41|castle 22 exterior: generate
-mno_choose_scene_42|castle 22 interior: indoors
-mno_choose_scene_43|castle 22 prison: indoors
-mno_choose_scene_44|castle 23 exterior: generate
-mno_choose_scene_45|castle 23 interior: indoors
-mno_choose_scene_46|castle 23 prison: indoors
-mno_choose_scene_47|castle 24 exterior: generate
-mno_choose_scene_48|castle 24 interior: indoors
-mno_choose_scene_49|castle 24 prison: indoors
-mno_choose_scene_50|castle 25 exterior: generate
-mno_choose_scene_51|castle 25 interior: indoors
-menu_choose_scenes_52|Choose a scene: (Page 5 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_52|castle 25 prison: indoors
-mno_choose_scene_53|castle 26 exterior: indoors
-mno_choose_scene_54|castle 26 interior: indoors
-mno_choose_scene_55|castle 26 prison: indoors
-mno_choose_scene_56|castle 27 exterior: indoors
-mno_choose_scene_57|castle 27 interior: indoors
-mno_choose_scene_58|castle 27 prison: indoors
-mno_choose_scene_59|castle 28 exterior: generate
-mno_choose_scene_60|castle 28 interior: indoors
-mno_choose_scene_61|castle 28 prison: indoors
-mno_choose_scene_62|castle 29 exterior: indoors
-mno_choose_scene_63|castle 29 interior: indoors
-mno_choose_scene_64|castle 29 prison: indoors
-menu_choose_scenes_65|Choose a scene: (Page 6 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_65|castle 2 exterior: indoors
-mno_choose_scene_66|castle 2 interior: indoors
-mno_choose_scene_67|castle 2 prison: indoors
-mno_choose_scene_68|castle 30 exterior: generate
-mno_choose_scene_69|castle 30 interior: indoors
-mno_choose_scene_70|castle 30 prison: indoors
-mno_choose_scene_71|castle 31 exterior: generate
-mno_choose_scene_72|castle 31 interior: indoors
-mno_choose_scene_73|castle 31 prison: indoors
-mno_choose_scene_74|castle 32 exterior: indoors
-mno_choose_scene_75|castle 32 interior: indoors
-mno_choose_scene_76|castle 32 prison: indoors
-mno_choose_scene_77|castle 33 exterior: indoors
-menu_choose_scenes_78|Choose a scene: (Page 7 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_78|castle 33 interior: indoors
-mno_choose_scene_79|castle 33 prison: indoors
-mno_choose_scene_80|castle 34 exterior: indoors
-mno_choose_scene_81|castle 34 interior: indoors
-mno_choose_scene_82|castle 34 prison: indoors
-mno_choose_scene_83|castle 35 exterior: generate
-mno_choose_scene_84|castle 35 interior: indoors
-mno_choose_scene_85|castle 35 prison: indoors
-mno_choose_scene_86|castle 36 exterior: generate
-mno_choose_scene_87|castle 36 interior: indoors
-mno_choose_scene_88|castle 36 prison: indoors
-mno_choose_scene_89|castle 37 exterior: indoors
-mno_choose_scene_90|castle 37 interior: indoors
-menu_choose_scenes_91|Choose a scene: (Page 8 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_91|castle 37 prison: indoors
-mno_choose_scene_92|castle 38 exterior: indoors
-mno_choose_scene_93|castle 38 interior: indoors
-mno_choose_scene_94|castle 38 prison: indoors
-mno_choose_scene_95|castle 39 exterior: indoors
-mno_choose_scene_96|castle 39 interior: indoors
-mno_choose_scene_97|castle 39 prison: indoors
-mno_choose_scene_98|castle 3 exterior: generate
-mno_choose_scene_99|castle 3 interior: indoors
-mno_choose_scene_100|castle 3 prison: indoors
-mno_choose_scene_101|castle 40 exterior: indoors
-mno_choose_scene_102|castle 40 interior: indoors
-mno_choose_scene_103|castle 40 prison: indoors
-menu_choose_scenes_104|Choose a scene: (Page 9 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_104|castle 4 exterior: generate
-mno_choose_scene_105|castle 4 interior: indoors
-mno_choose_scene_106|castle 4 prison: indoors
-mno_choose_scene_107|castle 5 exterior: generate
-mno_choose_scene_108|castle 5 interior: indoors
-mno_choose_scene_109|castle 5 prison: indoors
-mno_choose_scene_110|castle 6 exterior: indoors
-mno_choose_scene_111|castle 6 interior: indoors
-mno_choose_scene_112|castle 6 prison: indoors
-mno_choose_scene_113|castle 7 exterior: generate
-mno_choose_scene_114|castle 7 interior: indoors
-mno_choose_scene_115|castle 7 prison: indoors
-mno_choose_scene_116|castle 8 exterior: generate
-menu_choose_scenes_117|Choose a scene: (Page 10 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_117|castle 8 interior: indoors
-mno_choose_scene_118|castle 8 prison: indoors
-mno_choose_scene_119|castle 9 exterior: generate
-mno_choose_scene_120|castle 9 interior: indoors
-mno_choose_scene_121|castle 9 prison: indoors
-mno_choose_scene_122|conversation scene
-mno_choose_scene_123|custom battle 1: generate
-mno_choose_scene_124|custom battle 2: generate
-mno_choose_scene_125|custom battle 3: generate
-mno_choose_scene_126|dhorak keep: generate
-mno_choose_scene_127|field 1: generate
-mno_choose_scene_128|field 2: generate
-mno_choose_scene_129|field 3: generate
-menu_choose_scenes_130|Choose a scene: (Page 11 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_130|field 4: generate
-mno_choose_scene_131|field 5: generate
-mno_choose_scene_132|four ways inn: generate
-mno_choose_scene_133|novice ground: indoors
-mno_choose_scene_134|quick battle 1: generate
-mno_choose_scene_135|quick battle 2: generate
-mno_choose_scene_136|quick battle 3: generate
-mno_choose_scene_137|quick battle 4: generate
-mno_choose_scene_138|quick battle 5: generate
-mno_choose_scene_139|quick battle 6: generate
-mno_choose_scene_140|quick battle 7: generate
-mno_choose_scene_141|quick battle 8: generate
-mno_choose_scene_142|quick battle 9: generate
-menu_choose_scenes_143|Choose a scene: (Page 12 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_143|random scene: generate|auto entry points
-mno_choose_scene_144|random scene desert: generate|auto entry points
-mno_choose_scene_145|random scene desert forest: generate|auto entry points
-mno_choose_scene_146|random scene plain: generate|auto entry points
-mno_choose_scene_147|random scene plain forest: generate|auto entry points
-mno_choose_scene_148|random scene ship: indoors
-mno_choose_scene_149|random scene snow: generate|auto entry points
-mno_choose_scene_150|random scene snow forest: generate|auto entry points
-mno_choose_scene_151|random scene steppe: generate|auto entry points
-mno_choose_scene_152|random scene steppe forest: generate|auto entry points
-mno_choose_scene_153|random scene water: generate|auto entry points
-mno_choose_scene_154|reserved10
-mno_choose_scene_155|reserved11
-menu_choose_scenes_156|Choose a scene: (Page 13 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_156|reserved12: indoors
-mno_choose_scene_157|reserved4: generate
-mno_choose_scene_158|reserved5: generate
-mno_choose_scene_159|reserved6: generate
-mno_choose_scene_160|reserved7: generate
-mno_choose_scene_161|reserved8: generate
-mno_choose_scene_162|reserved9: indoors
-mno_choose_scene_163|salt mine: generate
-mno_choose_scene_164|ship hangar closed 1a: indoors
-mno_choose_scene_165|ship hangar closed 1b: indoors
-mno_choose_scene_166|ship hangar open 3a: indoors
-mno_choose_scene_167|ship hangar open 3b: indoors
-mno_choose_scene_168|space battle
-menu_choose_scenes_169|Choose a scene: (Page 14 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_169|space battle entry: indoors
-mno_choose_scene_170|test scene: generate
-mno_choose_scene_171|the happy boar: indoors
-mno_choose_scene_172|town 10 alley: generate
-mno_choose_scene_173|town 10 arena: generate
-mno_choose_scene_174|town 10 castle: indoors
-mno_choose_scene_175|town 10 center: generate
-mno_choose_scene_176|town 10 land battle: generate
-mno_choose_scene_177|town 10 prison: indoors
-mno_choose_scene_178|town 10 store: indoors
-mno_choose_scene_179|town 10 tavern: indoors
-mno_choose_scene_180|town 10 walls: generate
-mno_choose_scene_181|town 11 alley: generate
-menu_choose_scenes_182|Choose a scene: (Page 15 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_182|town 11 arena: generate
-mno_choose_scene_183|town 11 castle: indoors
-mno_choose_scene_184|town 11 center: generate
-mno_choose_scene_185|town 11 land battle: generate
-mno_choose_scene_186|town 11 prison: indoors
-mno_choose_scene_187|town 11 store: indoors
-mno_choose_scene_188|town 11 tavern: indoors
-mno_choose_scene_189|town 11 walls: generate
-mno_choose_scene_190|town 12 alley: generate
-mno_choose_scene_191|town 12 arena: generate
-mno_choose_scene_192|town 12 castle: indoors
-mno_choose_scene_193|town 12 center: generate
-mno_choose_scene_194|town 12 land battle: generate
-menu_choose_scenes_195|Choose a scene: (Page 16 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_195|town 12 prison: indoors
-mno_choose_scene_196|town 12 store: indoors
-mno_choose_scene_197|town 12 tavern: indoors
-mno_choose_scene_198|town 12 walls: generate
-mno_choose_scene_199|town 13 alley: generate
-mno_choose_scene_200|town 13 arena: generate
-mno_choose_scene_201|town 13 castle: indoors
-mno_choose_scene_202|town 13 center: generate
-mno_choose_scene_203|town 13 land battle: generate
-mno_choose_scene_204|town 13 prison: indoors
-mno_choose_scene_205|town 13 store: indoors
-mno_choose_scene_206|town 13 tavern: indoors
-mno_choose_scene_207|town 13 walls: generate
-menu_choose_scenes_208|Choose a scene: (Page 17 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_208|town 14 alley: generate
-mno_choose_scene_209|town 14 arena: generate
-mno_choose_scene_210|town 14 castle: indoors
-mno_choose_scene_211|town 14 center: generate
-mno_choose_scene_212|town 14 land battle: generate
-mno_choose_scene_213|town 14 prison: indoors
-mno_choose_scene_214|town 14 store: indoors
-mno_choose_scene_215|town 14 tavern: indoors
-mno_choose_scene_216|town 14 walls: generate
-mno_choose_scene_217|town 15 alley: generate
-mno_choose_scene_218|town 15 arena: generate
-mno_choose_scene_219|town 15 castle: indoors
-mno_choose_scene_220|town 15 center: generate
-menu_choose_scenes_221|Choose a scene: (Page 18 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_221|town 15 land battle: generate
-mno_choose_scene_222|town 15 prison: indoors
-mno_choose_scene_223|town 15 store: indoors
-mno_choose_scene_224|town 15 tavern: indoors
-mno_choose_scene_225|town 15 walls: generate
-mno_choose_scene_226|town 16 alley: generate
-mno_choose_scene_227|town 16 arena: generate
-mno_choose_scene_228|town 16 castle: indoors
-mno_choose_scene_229|town 16 center: generate
-mno_choose_scene_230|town 16 land battle: generate
-mno_choose_scene_231|town 16 prison: indoors
-mno_choose_scene_232|town 16 store: indoors
-mno_choose_scene_233|town 16 tavern: indoors
-menu_choose_scenes_234|Choose a scene: (Page 19 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_234|town 16 walls: generate
-mno_choose_scene_235|town 17 alley: generate
-mno_choose_scene_236|town 17 arena: generate
-mno_choose_scene_237|town 17 castle: indoors
-mno_choose_scene_238|town 17 center: generate
-mno_choose_scene_239|town 17 land battle: generate
-mno_choose_scene_240|town 17 prison: indoors
-mno_choose_scene_241|town 17 store: indoors
-mno_choose_scene_242|town 17 tavern: indoors
-mno_choose_scene_243|town 17 walls: generate
-mno_choose_scene_244|town 18 alley: generate
-mno_choose_scene_245|town 18 arena: generate
-mno_choose_scene_246|town 18 castle: indoors
-menu_choose_scenes_247|Choose a scene: (Page 20 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_247|town 18 center: generate
-mno_choose_scene_248|town 18 land battle: generate
-mno_choose_scene_249|town 18 prison: indoors
-mno_choose_scene_250|town 18 store: indoors
-mno_choose_scene_251|town 18 tavern: indoors
-mno_choose_scene_252|town 18 walls: generate
-mno_choose_scene_253|town 19 alley: generate
-mno_choose_scene_254|town 19 arena: generate
-mno_choose_scene_255|town 19 castle: indoors
-mno_choose_scene_256|town 19 center: generate
-mno_choose_scene_257|town 19 land battle: generate
-mno_choose_scene_258|town 19 prison: indoors
-mno_choose_scene_259|town 19 store: indoors
-menu_choose_scenes_260|Choose a scene: (Page 21 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_260|town 19 tavern: indoors
-mno_choose_scene_261|town 19 walls: generate
-mno_choose_scene_262|town 1 alley: generate
-mno_choose_scene_263|town 1 arena: generate
-mno_choose_scene_264|town 1 castle: indoors
-mno_choose_scene_265|town 1 center: generate
-mno_choose_scene_266|town 1 land battle: generate
-mno_choose_scene_267|town 1 prison: indoors
-mno_choose_scene_268|town 1 store: indoors
-mno_choose_scene_269|town 1 tavern: indoors
-mno_choose_scene_270|town 1 walls: generate
-mno_choose_scene_271|town 20 alley: generate
-mno_choose_scene_272|town 20 arena: generate
-menu_choose_scenes_273|Choose a scene: (Page 22 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_273|town 20 castle: indoors
-mno_choose_scene_274|town 20 center: generate
-mno_choose_scene_275|town 20 land battle: generate
-mno_choose_scene_276|town 20 prison: indoors
-mno_choose_scene_277|town 20 store: indoors
-mno_choose_scene_278|town 20 tavern: indoors
-mno_choose_scene_279|town 20 walls: generate
-mno_choose_scene_280|town 21 alley: generate
-mno_choose_scene_281|town 21 arena: generate
-mno_choose_scene_282|town 21 castle: indoors
-mno_choose_scene_283|town 21 center: generate
-mno_choose_scene_284|town 21 land battle: generate
-mno_choose_scene_285|town 21 prison: indoors
-menu_choose_scenes_286|Choose a scene: (Page 23 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_286|town 21 store: indoors
-mno_choose_scene_287|town 21 tavern: indoors
-mno_choose_scene_288|town 21 walls: generate
-mno_choose_scene_289|town 2 alley: generate
-mno_choose_scene_290|town 2 arena: generate
-mno_choose_scene_291|town 2 castle: indoors
-mno_choose_scene_292|town 2 center: generate
-mno_choose_scene_293|town 2 land battle: generate
-mno_choose_scene_294|town 2 prison: indoors
-mno_choose_scene_295|town 2 store: indoors
-mno_choose_scene_296|town 2 tavern: indoors
-mno_choose_scene_297|town 2 walls: generate
-mno_choose_scene_298|town 3 alley: generate
-menu_choose_scenes_299|Choose a scene: (Page 24 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_299|town 3 arena: generate
-mno_choose_scene_300|town 3 castle: indoors
-mno_choose_scene_301|town 3 center: generate
-mno_choose_scene_302|town 3 land battle: generate
-mno_choose_scene_303|town 3 prison: indoors
-mno_choose_scene_304|town 3 store: indoors
-mno_choose_scene_305|town 3 tavern: indoors
-mno_choose_scene_306|town 3 walls: generate
-mno_choose_scene_307|town 4 alley: generate
-mno_choose_scene_308|town 4 arena: generate
-mno_choose_scene_309|town 4 castle: indoors
-mno_choose_scene_310|town 4 center: generate
-mno_choose_scene_311|town 4 land battle: generate
-menu_choose_scenes_312|Choose a scene: (Page 25 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_312|town 4 prison: indoors
-mno_choose_scene_313|town 4 store: indoors
-mno_choose_scene_314|town 4 tavern: indoors
-mno_choose_scene_315|town 4 walls: generate
-mno_choose_scene_316|town 5 alley: generate
-mno_choose_scene_317|town 5 arena: generate
-mno_choose_scene_318|town 5 castle: indoors
-mno_choose_scene_319|town 5 center: generate
-mno_choose_scene_320|town 5 land battle: generate
-mno_choose_scene_321|town 5 prison: indoors
-mno_choose_scene_322|town 5 store: indoors
-mno_choose_scene_323|town 5 tavern: indoors
-mno_choose_scene_324|town 5 walls: generate
-menu_choose_scenes_325|Choose a scene: (Page 26 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_325|town 6 alley: generate
-mno_choose_scene_326|town 6 arena: generate
-mno_choose_scene_327|town 6 castle: indoors
-mno_choose_scene_328|town 6 center: generate
-mno_choose_scene_329|town 6 land battle: generate
-mno_choose_scene_330|town 6 prison: indoors
-mno_choose_scene_331|town 6 store: indoors
-mno_choose_scene_332|town 6 tavern: indoors
-mno_choose_scene_333|town 6 walls: generate
-mno_choose_scene_334|town 7 alley: generate
-mno_choose_scene_335|town 7 arena: generate
-mno_choose_scene_336|town 7 castle: indoors
-mno_choose_scene_337|town 7 center: generate
-menu_choose_scenes_338|Choose a scene: (Page 27 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_338|town 7 land battle: generate
-mno_choose_scene_339|town 7 prison: indoors
-mno_choose_scene_340|town 7 store: indoors
-mno_choose_scene_341|town 7 tavern: indoors
-mno_choose_scene_342|town 7 walls: generate
-mno_choose_scene_343|town 8 alley: generate
-mno_choose_scene_344|town 8 arena: generate
-mno_choose_scene_345|town 8 castle: indoors
-mno_choose_scene_346|town 8 center: generate
-mno_choose_scene_347|town 8 land battle: generate
-mno_choose_scene_348|town 8 prison: indoors
-mno_choose_scene_349|town 8 store: indoors
-mno_choose_scene_350|town 8 tavern: indoors
-menu_choose_scenes_351|Choose a scene: (Page 28 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_351|town 8 walls: generate
-mno_choose_scene_352|town 9 alley: generate
-mno_choose_scene_353|town 9 arena: generate
-mno_choose_scene_354|town 9 castle: indoors
-mno_choose_scene_355|town 9 center: generate
-mno_choose_scene_356|town 9 land battle: generate
-mno_choose_scene_357|town 9 prison: indoors
-mno_choose_scene_358|town 9 store: indoors
-mno_choose_scene_359|town 9 tavern: indoors
-mno_choose_scene_360|town 9 walls: generate
-mno_choose_scene_361|training ground: generate
-mno_choose_scene_362|training ground horse track 1: generate
-mno_choose_scene_363|training ground horse track 2: generate
-menu_choose_scenes_364|Choose a scene: (Page 29 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_364|training ground horse track 3: generate
-mno_choose_scene_365|training ground horse track 4: generate
-mno_choose_scene_366|training ground horse track 5: generate
-mno_choose_scene_367|training ground ranged melee 1: generate
-mno_choose_scene_368|training ground ranged melee 2: generate
-mno_choose_scene_369|training ground ranged melee 3: generate
-mno_choose_scene_370|training ground ranged melee 4: generate
-mno_choose_scene_371|training ground ranged melee 5: generate
-mno_choose_scene_372|tutorial 1: indoors
-mno_choose_scene_373|tutorial 2: indoors
-mno_choose_scene_374|tutorial 3: indoors
-mno_choose_scene_375|tutorial 4: generate
-mno_choose_scene_376|tutorial 5: generate
-menu_choose_scenes_377|Choose a scene: (Page 30 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_377|village 1: generate
-mno_choose_scene_378|village 10: generate
-mno_choose_scene_379|village 11: generate
-mno_choose_scene_380|village 12: generate
-mno_choose_scene_381|village 13: generate
-mno_choose_scene_382|village 14: generate
-mno_choose_scene_383|village 15: generate
-mno_choose_scene_384|village 16: generate
-mno_choose_scene_385|village 17: generate
-mno_choose_scene_386|village 18: generate
-mno_choose_scene_387|village 19: generate
-mno_choose_scene_388|village 2: generate
-mno_choose_scene_389|village 20: generate
-menu_choose_scenes_390|Choose a scene: (Page 31 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_390|village 21: generate
-mno_choose_scene_391|village 22: generate
-mno_choose_scene_392|village 23: generate
-mno_choose_scene_393|village 24: generate
-mno_choose_scene_394|village 25: generate
-mno_choose_scene_395|village 26: generate
-mno_choose_scene_396|village 27: generate
-mno_choose_scene_397|village 28: generate
-mno_choose_scene_398|village 29: generate
-mno_choose_scene_399|village 3: generate
-mno_choose_scene_400|village 30: generate
-mno_choose_scene_401|village 31: generate
-mno_choose_scene_402|village 32: generate
-menu_choose_scenes_403|Choose a scene: (Page 32 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_403|village 33: generate
-mno_choose_scene_404|village 34: generate
-mno_choose_scene_405|village 35: generate
-mno_choose_scene_406|village 36: generate
-mno_choose_scene_407|village 37: generate
-mno_choose_scene_408|village 38: generate
-mno_choose_scene_409|village 39: generate
-mno_choose_scene_410|village 4: generate
-mno_choose_scene_411|village 40: generate
-mno_choose_scene_412|village 41: generate
-mno_choose_scene_413|village 42: generate
-mno_choose_scene_414|village 43: generate
-mno_choose_scene_415|village 44: generate
-menu_choose_scenes_416|Choose a scene: (Page 33 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_416|village 45: generate
-mno_choose_scene_417|village 46: generate
-mno_choose_scene_418|village 47: generate
-mno_choose_scene_419|village 48: generate
-mno_choose_scene_420|village 49: generate
-mno_choose_scene_421|village 5: generate
-mno_choose_scene_422|village 50: generate
-mno_choose_scene_423|village 51: generate
-mno_choose_scene_424|village 52: generate
-mno_choose_scene_425|village 53: generate
-mno_choose_scene_426|village 54: generate
-mno_choose_scene_427|village 55: generate
-mno_choose_scene_428|village 56: generate
-menu_choose_scenes_429|Choose a scene: (Page 34 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_429|village 57: generate
-mno_choose_scene_430|village 58: generate
-mno_choose_scene_431|village 59: generate
-mno_choose_scene_432|village 6: generate
-mno_choose_scene_433|village 60: generate
-mno_choose_scene_434|village 61: generate
-mno_choose_scene_435|village 62: generate
-mno_choose_scene_436|village 63: generate
-mno_choose_scene_437|village 64: generate
-mno_choose_scene_438|village 65: generate
-mno_choose_scene_439|village 66: generate
-mno_choose_scene_440|village 67: generate
-mno_choose_scene_441|village 68: generate
-menu_choose_scenes_442|Choose a scene: (Page 35 of 37)
-mno_back|Volver.
-mno_next|Siguiente....
-mno_previous|Previous...
-mno_choose_scene_442|village 69: generate
-mno_choose_scene_443|village 7: generate
-mno_choose_scene_444|village 70: generate
-mno_choose_scene_445|village 71: generate
-mno_choose_scene_446|village 72: generate
-mno_choose_scene_447|village 73: generate
-mno_choose_scene_448|village 74: generate
-mno_choose_scene_449|village 75: generate
-mno_choose_scene_450|village 76: generate
-mno_choose_scene_451|village 77: generate
-mno_choose_scene_452|village 78: generate
-mno_choose_scene_453|village 79: generate
-mno_choose_scene_454|village 8: generate
-menu_choose_scenes_455|Choose a scene: (Page 36 of 37)
+menu_choose_scenes_0|Elige una escena: (Página 1 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_choose_scene_0|camp scene: generar|auto entry points
+mno_choose_scene_1|camp scene horse track: generar|auto entry points
+mno_choose_scene_2|castillo 10 exterior: generar
+mno_choose_scene_3|castillo 10 interior: (interna|geometria)
+mno_choose_scene_4|castillo 10 prison: (interna|geometria)
+mno_choose_scene_5|castillo 11 exterior: generar
+mno_choose_scene_6|castillo 11 interior: (interna|geometria)
+mno_choose_scene_7|castillo 11 prison: (interna|geometria)
+mno_choose_scene_8|castillo 12 exterior: (interna|geometria)
+mno_choose_scene_9|castillo 12 interior: (interna|geometria)
+mno_choose_scene_10|castillo 12 prison: (interna|geometria)
+mno_choose_scene_11|castillo 13 exterior: (interna|geometria)
+mno_choose_scene_12|castillo 13 interior: (interna|geometria)
+menu_choose_scenes_13|Elige una escena: (Página 2 de 37)
 mno_back|Atrás
 mno_next|Siguiente
 mno_previous|Anterior
-mno_choose_scene_455|village 80: generate
-mno_choose_scene_456|village 81: generate
-mno_choose_scene_457|village 82: generate
-mno_choose_scene_458|village 83: generate
-mno_choose_scene_459|village 84: generate
-mno_choose_scene_460|village 85: generate
-mno_choose_scene_461|village 86: generate
-mno_choose_scene_462|village 87: generate
-mno_choose_scene_463|village 88: generate
-mno_choose_scene_464|village 89: generate
-mno_choose_scene_465|village 9: generate
-mno_choose_scene_466|village 90: generate
-mno_choose_scene_467|zendar arena: generate
-menu_choose_scenes_468|Choose a scene: (Page 37 of 37)
+mno_choose_scene_13|castillo 13 prison: (interna|geometria)
+mno_choose_scene_14|castillo 14 exterior: generar
+mno_choose_scene_15|castillo 14 interior: (interna|geometria)
+mno_choose_scene_16|castillo 14 prison: (interna|geometria)
+mno_choose_scene_17|castillo 15 exterior: generar
+mno_choose_scene_18|castillo 15 interior: (interna|geometria)
+mno_choose_scene_19|castillo 15 prison: (interna|geometria)
+mno_choose_scene_20|castillo 16 exterior: (interna|geometria)
+mno_choose_scene_21|castillo 16 interior: (interna|geometria)
+mno_choose_scene_22|castillo 16 prison: (interna|geometria)
+mno_choose_scene_23|castillo 17 exterior: (interna|geometria)
+mno_choose_scene_24|castillo 17 interior: (interna|geometria)
+mno_choose_scene_25|castillo 17 prison: (interna|geometria)
+menu_choose_scenes_26|Elige una escena: (Página 3 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_26|castillo 18 exterior: generar
+mno_choose_scene_27|castillo 18 interior: (interna|geometria)
+mno_choose_scene_28|castillo 18 prison: (interna|geometria)
+mno_choose_scene_29|castillo 19 exterior: generar
+mno_choose_scene_30|castillo 19 interior: (interna|geometria)
+mno_choose_scene_31|castillo 19 prison: (interna|geometria)
+mno_choose_scene_32|castillo 1 exterior: generar
+mno_choose_scene_33|castillo 1 interior: (interna|geometria)
+mno_choose_scene_34|castillo 1 prison: (interna|geometria)
+mno_choose_scene_35|castillo 20 exterior: (interna|geometria)
+mno_choose_scene_36|castillo 20 interior: (interna|geometria)
+mno_choose_scene_37|castillo 20 prison: (interna|geometria)
+mno_choose_scene_38|castillo 21 exterior: (interna|geometria)
+menu_choose_scenes_39|Elige una escena: (Página 4 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_39|castillo 21 interior: (interna|geometria)
+mno_choose_scene_40|castillo 21 prison: (interna|geometria)
+mno_choose_scene_41|castillo 22 exterior: generar
+mno_choose_scene_42|castillo 22 interior: (interna|geometria)
+mno_choose_scene_43|castillo 22 prison: (interna|geometria)
+mno_choose_scene_44|castillo 23 exterior: generar
+mno_choose_scene_45|castillo 23 interior: (interna|geometria)
+mno_choose_scene_46|castillo 23 prison: (interna|geometria)
+mno_choose_scene_47|castillo 24 exterior: generar
+mno_choose_scene_48|castillo 24 interior: (interna|geometria)
+mno_choose_scene_49|castillo 24 prison: (interna|geometria)
+mno_choose_scene_50|castillo 25 exterior: generar
+mno_choose_scene_51|castillo 25 interior: (interna|geometria)
+menu_choose_scenes_52|Elige una escena: (Página 5 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_52|castillo 25 prison: (interna|geometria)
+mno_choose_scene_53|castillo 26 exterior: (interna|geometria)
+mno_choose_scene_54|castillo 26 interior: (interna|geometria)
+mno_choose_scene_55|castillo 26 prison: (interna|geometria)
+mno_choose_scene_56|castillo 27 exterior: (interna|geometria)
+mno_choose_scene_57|castillo 27 interior: (interna|geometria)
+mno_choose_scene_58|castillo 27 prison: (interna|geometria)
+mno_choose_scene_59|castillo 28 exterior: generar
+mno_choose_scene_60|castillo 28 interior: (interna|geometria)
+mno_choose_scene_61|castillo 28 prison: (interna|geometria)
+mno_choose_scene_62|castillo 29 exterior: (interna|geometria)
+mno_choose_scene_63|castillo 29 interior: (interna|geometria)
+mno_choose_scene_64|castillo 29 prison: (interna|geometria)
+menu_choose_scenes_65|Elige una escena: (Página 6 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_65|castillo 2 exterior: (interna|geometria)
+mno_choose_scene_66|castillo 2 interior: (interna|geometria)
+mno_choose_scene_67|castillo 2 prison: (interna|geometria)
+mno_choose_scene_68|castillo 30 exterior: generar
+mno_choose_scene_69|castillo 30 interior: (interna|geometria)
+mno_choose_scene_70|castillo 30 prison: (interna|geometria)
+mno_choose_scene_71|castillo 31 exterior: generar
+mno_choose_scene_72|castillo 31 interior: (interna|geometria)
+mno_choose_scene_73|castillo 31 prison: (interna|geometria)
+mno_choose_scene_74|castillo 32 exterior: (interna|geometria)
+mno_choose_scene_75|castillo 32 interior: (interna|geometria)
+mno_choose_scene_76|castillo 32 prison: (interna|geometria)
+mno_choose_scene_77|castillo 33 exterior: (interna|geometria)
+menu_choose_scenes_78|Elige una escena: (Página 7 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_78|castillo 33 interior: (interna|geometria)
+mno_choose_scene_79|castillo 33 prison: (interna|geometria)
+mno_choose_scene_80|castillo 34 exterior: (interna|geometria)
+mno_choose_scene_81|castillo 34 interior: (interna|geometria)
+mno_choose_scene_82|castillo 34 prison: (interna|geometria)
+mno_choose_scene_83|castillo 35 exterior: generar
+mno_choose_scene_84|castillo 35 interior: (interna|geometria)
+mno_choose_scene_85|castillo 35 prison: (interna|geometria)
+mno_choose_scene_86|castillo 36 exterior: generar
+mno_choose_scene_87|castillo 36 interior: (interna|geometria)
+mno_choose_scene_88|castillo 36 prison: (interna|geometria)
+mno_choose_scene_89|castillo 37 exterior: (interna|geometria)
+mno_choose_scene_90|castillo 37 interior: (interna|geometria)
+menu_choose_scenes_91|Elige una escena: (Página 8 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_91|castillo 37 prison: (interna|geometria)
+mno_choose_scene_92|castillo 38 exterior: (interna|geometria)
+mno_choose_scene_93|castillo 38 interior: (interna|geometria)
+mno_choose_scene_94|castillo 38 prison: (interna|geometria)
+mno_choose_scene_95|castillo 39 exterior: (interna|geometria)
+mno_choose_scene_96|castillo 39 interior: (interna|geometria)
+mno_choose_scene_97|castillo 39 prison: (interna|geometria)
+mno_choose_scene_98|castillo 3 exterior: generar
+mno_choose_scene_99|castillo 3 interior: (interna|geometria)
+mno_choose_scene_100|castillo 3 prison: (interna|geometria)
+mno_choose_scene_101|castillo 40 exterior: (interna|geometria)
+mno_choose_scene_102|castillo 40 interior: (interna|geometria)
+mno_choose_scene_103|castillo 40 prison: (interna|geometria)
+menu_choose_scenes_104|Elige una escena: (Página 9 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_104|castillo 4 exterior: generar
+mno_choose_scene_105|castillo 4 interior: (interna|geometria)
+mno_choose_scene_106|castillo 4 prison: (interna|geometria)
+mno_choose_scene_107|castillo 5 exterior: generar
+mno_choose_scene_108|castillo 5 interior: (interna|geometria)
+mno_choose_scene_109|castillo 5 prison: (interna|geometria)
+mno_choose_scene_110|castillo 6 exterior: (interna|geometria)
+mno_choose_scene_111|castillo 6 interior: (interna|geometria)
+mno_choose_scene_112|castillo 6 prison: (interna|geometria)
+mno_choose_scene_113|castillo 7 exterior: generar
+mno_choose_scene_114|castillo 7 interior: (interna|geometria)
+mno_choose_scene_115|castillo 7 prison: (interna|geometria)
+mno_choose_scene_116|castillo 8 exterior: generar
+menu_choose_scenes_117|Elige una escena: (Página 10 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_117|castillo 8 interior: (interna|geometria)
+mno_choose_scene_118|castillo 8 prison: (interna|geometria)
+mno_choose_scene_119|castillo 9 exterior: generar
+mno_choose_scene_120|castillo 9 interior: (interna|geometria)
+mno_choose_scene_121|castillo 9 prison: (interna|geometria)
+mno_choose_scene_122|conversation scene
+mno_choose_scene_123|custom battle 1: generar
+mno_choose_scene_124|custom battle 2: generar
+mno_choose_scene_125|custom battle 3: generar
+mno_choose_scene_126|dhorak keep: generar
+mno_choose_scene_127|field 1: generar
+mno_choose_scene_128|field 2: generar
+mno_choose_scene_129|field 3: generar
+menu_choose_scenes_130|Elige una escena: (Página 11 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_130|field 4: generar
+mno_choose_scene_131|field 5: generar
+mno_choose_scene_132|four ways inn: generar
+mno_choose_scene_133|novice ground: (interna|geometria)
+mno_choose_scene_134|quick battle 1: generar
+mno_choose_scene_135|quick battle 2: generar
+mno_choose_scene_136|quick battle 3: generar
+mno_choose_scene_137|quick battle 4: generar
+mno_choose_scene_138|quick battle 5: generar
+mno_choose_scene_139|quick battle 6: generar
+mno_choose_scene_140|quick battle 7: generar
+mno_choose_scene_141|quick battle 8: generar
+mno_choose_scene_142|quick battle 9: generar
+menu_choose_scenes_143|Elige una escena: (Página 12 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_143|random scene: generar|auto entry points
+mno_choose_scene_144|random scene desert: generar|auto entry points
+mno_choose_scene_145|random scene desert forest: generar|auto entry points
+mno_choose_scene_146|random scene plain: generar|auto entry points
+mno_choose_scene_147|random scene plain forest: generar|auto entry points
+mno_choose_scene_148|random scene ship: (interna|geometria)
+mno_choose_scene_149|random scene snow: generar|auto entry points
+mno_choose_scene_150|random scene snow forest: generar|auto entry points
+mno_choose_scene_151|random scene steppe: generar|auto entry points
+mno_choose_scene_152|random scene steppe forest: generar|auto entry points
+mno_choose_scene_153|random scene water: generar|auto entry points
+mno_choose_scene_154|reserved10
+mno_choose_scene_155|reserved11
+menu_choose_scenes_156|Elige una escena: (Página 13 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_156|reserved12: (interna|geometria)
+mno_choose_scene_157|reserved4: generar
+mno_choose_scene_158|reserved5: generar
+mno_choose_scene_159|reserved6: generar
+mno_choose_scene_160|reserved7: generar
+mno_choose_scene_161|reserved8: generar
+mno_choose_scene_162|reserved9: (interna|geometria)
+mno_choose_scene_163|salt mine: generar
+mno_choose_scene_164|ship hangar closed 1a: (interna|geometria)
+mno_choose_scene_165|ship hangar closed 1b: (interna|geometria)
+mno_choose_scene_166|ship hangar open 3a: (interna|geometria)
+mno_choose_scene_167|ship hangar open 3b: (interna|geometria)
+mno_choose_scene_168|space battle
+menu_choose_scenes_169|Elige una escena: (Página 14 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_169|space battle entry: (interna|geometria)
+mno_choose_scene_170|test scene: generar
+mno_choose_scene_171|the happy boar: (interna|geometria)
+mno_choose_scene_172|ciudad 10 alley: generar
+mno_choose_scene_173|ciudad 10 arena: generar
+mno_choose_scene_174|ciudad 10 castillo: (interna|geometria)
+mno_choose_scene_175|ciudad 10 center: generar
+mno_choose_scene_176|ciudad 10 land battle: generar
+mno_choose_scene_177|ciudad 10 prison: (interna|geometria)
+mno_choose_scene_178|ciudad 10 store: (interna|geometria)
+mno_choose_scene_179|ciudad 10 tavern: (interna|geometria)
+mno_choose_scene_180|ciudad 10 walls: generar
+mno_choose_scene_181|ciudad 11 alley: generar
+menu_choose_scenes_182|Elige una escena: (Página 15 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_182|ciudad 11 arena: generar
+mno_choose_scene_183|ciudad 11 castillo: (interna|geometria)
+mno_choose_scene_184|ciudad 11 center: generar
+mno_choose_scene_185|ciudad 11 land battle: generar
+mno_choose_scene_186|ciudad 11 prison: (interna|geometria)
+mno_choose_scene_187|ciudad 11 store: (interna|geometria)
+mno_choose_scene_188|ciudad 11 tavern: (interna|geometria)
+mno_choose_scene_189|ciudad 11 walls: generar
+mno_choose_scene_190|ciudad 12 alley: generar
+mno_choose_scene_191|ciudad 12 arena: generar
+mno_choose_scene_192|ciudad 12 castillo: (interna|geometria)
+mno_choose_scene_193|ciudad 12 center: generar
+mno_choose_scene_194|ciudad 12 land battle: generar
+menu_choose_scenes_195|Elige una escena: (Página 16 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_195|ciudad 12 prison: (interna|geometria)
+mno_choose_scene_196|ciudad 12 store: (interna|geometria)
+mno_choose_scene_197|ciudad 12 tavern: (interna|geometria)
+mno_choose_scene_198|ciudad 12 walls: generar
+mno_choose_scene_199|ciudad 13 alley: generar
+mno_choose_scene_200|ciudad 13 arena: generar
+mno_choose_scene_201|ciudad 13 castillo: (interna|geometria)
+mno_choose_scene_202|ciudad 13 center: generar
+mno_choose_scene_203|ciudad 13 land battle: generar
+mno_choose_scene_204|ciudad 13 prison: (interna|geometria)
+mno_choose_scene_205|ciudad 13 store: (interna|geometria)
+mno_choose_scene_206|ciudad 13 tavern: (interna|geometria)
+mno_choose_scene_207|ciudad 13 walls: generar
+menu_choose_scenes_208|Elige una escena: (Página 17 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_208|ciudad 14 alley: generar
+mno_choose_scene_209|ciudad 14 arena: generar
+mno_choose_scene_210|ciudad 14 castillo: (interna|geometria)
+mno_choose_scene_211|ciudad 14 center: generar
+mno_choose_scene_212|ciudad 14 land battle: generar
+mno_choose_scene_213|ciudad 14 prison: (interna|geometria)
+mno_choose_scene_214|ciudad 14 store: (interna|geometria)
+mno_choose_scene_215|ciudad 14 tavern: (interna|geometria)
+mno_choose_scene_216|ciudad 14 walls: generar
+mno_choose_scene_217|ciudad 15 alley: generar
+mno_choose_scene_218|ciudad 15 arena: generar
+mno_choose_scene_219|ciudad 15 castillo: (interna|geometria)
+mno_choose_scene_220|ciudad 15 center: generar
+menu_choose_scenes_221|Elige una escena: (Página 18 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_221|ciudad 15 land battle: generar
+mno_choose_scene_222|ciudad 15 prison: (interna|geometria)
+mno_choose_scene_223|ciudad 15 store: (interna|geometria)
+mno_choose_scene_224|ciudad 15 tavern: (interna|geometria)
+mno_choose_scene_225|ciudad 15 walls: generar
+mno_choose_scene_226|ciudad 16 alley: generar
+mno_choose_scene_227|ciudad 16 arena: generar
+mno_choose_scene_228|ciudad 16 castillo: (interna|geometria)
+mno_choose_scene_229|ciudad 16 center: generar
+mno_choose_scene_230|ciudad 16 land battle: generar
+mno_choose_scene_231|ciudad 16 prison: (interna|geometria)
+mno_choose_scene_232|ciudad 16 store: (interna|geometria)
+mno_choose_scene_233|ciudad 16 tavern: (interna|geometria)
+menu_choose_scenes_234|Elige una escena: (Página 19 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_234|ciudad 16 walls: generar
+mno_choose_scene_235|ciudad 17 alley: generar
+mno_choose_scene_236|ciudad 17 arena: generar
+mno_choose_scene_237|ciudad 17 castillo: (interna|geometria)
+mno_choose_scene_238|ciudad 17 center: generar
+mno_choose_scene_239|ciudad 17 land battle: generar
+mno_choose_scene_240|ciudad 17 prison: (interna|geometria)
+mno_choose_scene_241|ciudad 17 store: (interna|geometria)
+mno_choose_scene_242|ciudad 17 tavern: (interna|geometria)
+mno_choose_scene_243|ciudad 17 walls: generar
+mno_choose_scene_244|ciudad 18 alley: generar
+mno_choose_scene_245|ciudad 18 arena: generar
+mno_choose_scene_246|ciudad 18 castillo: (interna|geometria)
+menu_choose_scenes_247|Elige una escena: (Página 20 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_247|ciudad 18 center: generar
+mno_choose_scene_248|ciudad 18 land battle: generar
+mno_choose_scene_249|ciudad 18 prison: (interna|geometria)
+mno_choose_scene_250|ciudad 18 store: (interna|geometria)
+mno_choose_scene_251|ciudad 18 tavern: (interna|geometria)
+mno_choose_scene_252|ciudad 18 walls: generar
+mno_choose_scene_253|ciudad 19 alley: generar
+mno_choose_scene_254|ciudad 19 arena: generar
+mno_choose_scene_255|ciudad 19 castillo: (interna|geometria)
+mno_choose_scene_256|ciudad 19 center: generar
+mno_choose_scene_257|ciudad 19 land battle: generar
+mno_choose_scene_258|ciudad 19 prison: (interna|geometria)
+mno_choose_scene_259|ciudad 19 store: (interna|geometria)
+menu_choose_scenes_260|Elige una escena: (Página 21 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_260|ciudad 19 tavern: (interna|geometria)
+mno_choose_scene_261|ciudad 19 walls: generar
+mno_choose_scene_262|ciudad 1 alley: generar
+mno_choose_scene_263|ciudad 1 arena: generar
+mno_choose_scene_264|ciudad 1 castillo: (interna|geometria)
+mno_choose_scene_265|ciudad 1 center: generar
+mno_choose_scene_266|ciudad 1 land battle: generar
+mno_choose_scene_267|ciudad 1 prison: (interna|geometria)
+mno_choose_scene_268|ciudad 1 store: (interna|geometria)
+mno_choose_scene_269|ciudad 1 tavern: (interna|geometria)
+mno_choose_scene_270|ciudad 1 walls: generar
+mno_choose_scene_271|ciudad 20 alley: generar
+mno_choose_scene_272|ciudad 20 arena: generar
+menu_choose_scenes_273|Elige una escena: (Página 22 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_273|ciudad 20 castillo: (interna|geometria)
+mno_choose_scene_274|ciudad 20 center: generar
+mno_choose_scene_275|ciudad 20 land battle: generar
+mno_choose_scene_276|ciudad 20 prison: (interna|geometria)
+mno_choose_scene_277|ciudad 20 store: (interna|geometria)
+mno_choose_scene_278|ciudad 20 tavern: (interna|geometria)
+mno_choose_scene_279|ciudad 20 walls: generar
+mno_choose_scene_280|ciudad 21 alley: generar
+mno_choose_scene_281|ciudad 21 arena: generar
+mno_choose_scene_282|ciudad 21 castillo: (interna|geometria)
+mno_choose_scene_283|ciudad 21 center: generar
+mno_choose_scene_284|ciudad 21 land battle: generar
+mno_choose_scene_285|ciudad 21 prison: (interna|geometria)
+menu_choose_scenes_286|Elige una escena: (Página 23 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_286|ciudad 21 store: (interna|geometria)
+mno_choose_scene_287|ciudad 21 tavern: (interna|geometria)
+mno_choose_scene_288|ciudad 21 walls: generar
+mno_choose_scene_289|ciudad 2 alley: generar
+mno_choose_scene_290|ciudad 2 arena: generar
+mno_choose_scene_291|ciudad 2 castillo: (interna|geometria)
+mno_choose_scene_292|ciudad 2 center: generar
+mno_choose_scene_293|ciudad 2 land battle: generar
+mno_choose_scene_294|ciudad 2 prison: (interna|geometria)
+mno_choose_scene_295|ciudad 2 store: (interna|geometria)
+mno_choose_scene_296|ciudad 2 tavern: (interna|geometria)
+mno_choose_scene_297|ciudad 2 walls: generar
+mno_choose_scene_298|ciudad 3 alley: generar
+menu_choose_scenes_299|Elige una escena: (Página 24 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_299|ciudad 3 arena: generar
+mno_choose_scene_300|ciudad 3 castillo: (interna|geometria)
+mno_choose_scene_301|ciudad 3 center: generar
+mno_choose_scene_302|ciudad 3 land battle: generar
+mno_choose_scene_303|ciudad 3 prison: (interna|geometria)
+mno_choose_scene_304|ciudad 3 store: (interna|geometria)
+mno_choose_scene_305|ciudad 3 tavern: (interna|geometria)
+mno_choose_scene_306|ciudad 3 walls: generar
+mno_choose_scene_307|ciudad 4 alley: generar
+mno_choose_scene_308|ciudad 4 arena: generar
+mno_choose_scene_309|ciudad 4 castillo: (interna|geometria)
+mno_choose_scene_310|ciudad 4 center: generar
+mno_choose_scene_311|ciudad 4 land battle: generar
+menu_choose_scenes_312|Elige una escena: (Página 25 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_312|ciudad 4 prison: (interna|geometria)
+mno_choose_scene_313|ciudad 4 store: (interna|geometria)
+mno_choose_scene_314|ciudad 4 tavern: (interna|geometria)
+mno_choose_scene_315|ciudad 4 walls: generar
+mno_choose_scene_316|ciudad 5 alley: generar
+mno_choose_scene_317|ciudad 5 arena: generar
+mno_choose_scene_318|ciudad 5 castillo: (interna|geometria)
+mno_choose_scene_319|ciudad 5 center: generar
+mno_choose_scene_320|ciudad 5 land battle: generar
+mno_choose_scene_321|ciudad 5 prison: (interna|geometria)
+mno_choose_scene_322|ciudad 5 store: (interna|geometria)
+mno_choose_scene_323|ciudad 5 tavern: (interna|geometria)
+mno_choose_scene_324|ciudad 5 walls: generar
+menu_choose_scenes_325|Elige una escena: (Página 26 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_325|ciudad 6 alley: generar
+mno_choose_scene_326|ciudad 6 arena: generar
+mno_choose_scene_327|ciudad 6 castillo: (interna|geometria)
+mno_choose_scene_328|ciudad 6 center: generar
+mno_choose_scene_329|ciudad 6 land battle: generar
+mno_choose_scene_330|ciudad 6 prison: (interna|geometria)
+mno_choose_scene_331|ciudad 6 store: (interna|geometria)
+mno_choose_scene_332|ciudad 6 tavern: (interna|geometria)
+mno_choose_scene_333|ciudad 6 walls: generar
+mno_choose_scene_334|ciudad 7 alley: generar
+mno_choose_scene_335|ciudad 7 arena: generar
+mno_choose_scene_336|ciudad 7 castillo: (interna|geometria)
+mno_choose_scene_337|ciudad 7 center: generar
+menu_choose_scenes_338|Elige una escena: (Página 27 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_338|ciudad 7 land battle: generar
+mno_choose_scene_339|ciudad 7 prison: (interna|geometria)
+mno_choose_scene_340|ciudad 7 store: (interna|geometria)
+mno_choose_scene_341|ciudad 7 tavern: (interna|geometria)
+mno_choose_scene_342|ciudad 7 walls: generar
+mno_choose_scene_343|ciudad 8 alley: generar
+mno_choose_scene_344|ciudad 8 arena: generar
+mno_choose_scene_345|ciudad 8 castillo: (interna|geometria)
+mno_choose_scene_346|ciudad 8 center: generar
+mno_choose_scene_347|ciudad 8 land battle: generar
+mno_choose_scene_348|ciudad 8 prison: (interna|geometria)
+mno_choose_scene_349|ciudad 8 store: (interna|geometria)
+mno_choose_scene_350|ciudad 8 tavern: (interna|geometria)
+menu_choose_scenes_351|Elige una escena: (Página 28 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_351|ciudad 8 walls: generar
+mno_choose_scene_352|ciudad 9 alley: generar
+mno_choose_scene_353|ciudad 9 arena: generar
+mno_choose_scene_354|ciudad 9 castillo: (interna|geometria)
+mno_choose_scene_355|ciudad 9 center: generar
+mno_choose_scene_356|ciudad 9 land battle: generar
+mno_choose_scene_357|ciudad 9 prison: (interna|geometria)
+mno_choose_scene_358|ciudad 9 store: (interna|geometria)
+mno_choose_scene_359|ciudad 9 tavern: (interna|geometria)
+mno_choose_scene_360|ciudad 9 walls: generar
+mno_choose_scene_361|training ground: generar
+mno_choose_scene_362|training ground horse track 1: generar
+mno_choose_scene_363|training ground horse track 2: generar
+menu_choose_scenes_364|Elige una escena: (Página 29 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_364|training ground horse track 3: generar
+mno_choose_scene_365|training ground horse track 4: generar
+mno_choose_scene_366|training ground horse track 5: generar
+mno_choose_scene_367|training ground ranged melee 1: generar
+mno_choose_scene_368|training ground ranged melee 2: generar
+mno_choose_scene_369|training ground ranged melee 3: generar
+mno_choose_scene_370|training ground ranged melee 4: generar
+mno_choose_scene_371|training ground ranged melee 5: generar
+mno_choose_scene_372|tutorial 1: (interna|geometria)
+mno_choose_scene_373|tutorial 2: (interna|geometria)
+mno_choose_scene_374|tutorial 3: (interna|geometria)
+mno_choose_scene_375|tutorial 4: generar
+mno_choose_scene_376|tutorial 5: generar
+menu_choose_scenes_377|Elige una escena: (Página 30 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_377|pueblo 1: generar
+mno_choose_scene_378|pueblo 10: generar
+mno_choose_scene_379|pueblo 11: generar
+mno_choose_scene_380|pueblo 12: generar
+mno_choose_scene_381|pueblo 13: generar
+mno_choose_scene_382|pueblo 14: generar
+mno_choose_scene_383|pueblo 15: generar
+mno_choose_scene_384|pueblo 16: generar
+mno_choose_scene_385|pueblo 17: generar
+mno_choose_scene_386|pueblo 18: generar
+mno_choose_scene_387|pueblo 19: generar
+mno_choose_scene_388|pueblo 2: generar
+mno_choose_scene_389|pueblo 20: generar
+menu_choose_scenes_390|Elige una escena: (Página 31 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_390|pueblo 21: generar
+mno_choose_scene_391|pueblo 22: generar
+mno_choose_scene_392|pueblo 23: generar
+mno_choose_scene_393|pueblo 24: generar
+mno_choose_scene_394|pueblo 25: generar
+mno_choose_scene_395|pueblo 26: generar
+mno_choose_scene_396|pueblo 27: generar
+mno_choose_scene_397|pueblo 28: generar
+mno_choose_scene_398|pueblo 29: generar
+mno_choose_scene_399|pueblo 3: generar
+mno_choose_scene_400|pueblo 30: generar
+mno_choose_scene_401|pueblo 31: generar
+mno_choose_scene_402|pueblo 32: generar
+menu_choose_scenes_403|Elige una escena: (Página 32 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_403|pueblo 33: generar
+mno_choose_scene_404|pueblo 34: generar
+mno_choose_scene_405|pueblo 35: generar
+mno_choose_scene_406|pueblo 36: generar
+mno_choose_scene_407|pueblo 37: generar
+mno_choose_scene_408|pueblo 38: generar
+mno_choose_scene_409|pueblo 39: generar
+mno_choose_scene_410|pueblo 4: generar
+mno_choose_scene_411|pueblo 40: generar
+mno_choose_scene_412|pueblo 41: generar
+mno_choose_scene_413|pueblo 42: generar
+mno_choose_scene_414|pueblo 43: generar
+mno_choose_scene_415|pueblo 44: generar
+menu_choose_scenes_416|Elige una escena: (Página 33 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_416|pueblo 45: generar
+mno_choose_scene_417|pueblo 46: generar
+mno_choose_scene_418|pueblo 47: generar
+mno_choose_scene_419|pueblo 48: generar
+mno_choose_scene_420|pueblo 49: generar
+mno_choose_scene_421|pueblo 5: generar
+mno_choose_scene_422|pueblo 50: generar
+mno_choose_scene_423|pueblo 51: generar
+mno_choose_scene_424|pueblo 52: generar
+mno_choose_scene_425|pueblo 53: generar
+mno_choose_scene_426|pueblo 54: generar
+mno_choose_scene_427|pueblo 55: generar
+mno_choose_scene_428|pueblo 56: generar
+menu_choose_scenes_429|Elige una escena: (Página 34 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_429|pueblo 57: generar
+mno_choose_scene_430|pueblo 58: generar
+mno_choose_scene_431|pueblo 59: generar
+mno_choose_scene_432|pueblo 6: generar
+mno_choose_scene_433|pueblo 60: generar
+mno_choose_scene_434|pueblo 61: generar
+mno_choose_scene_435|pueblo 62: generar
+mno_choose_scene_436|pueblo 63: generar
+mno_choose_scene_437|pueblo 64: generar
+mno_choose_scene_438|pueblo 65: generar
+mno_choose_scene_439|pueblo 66: generar
+mno_choose_scene_440|pueblo 67: generar
+mno_choose_scene_441|pueblo 68: generar
+menu_choose_scenes_442|Elige una escena: (Página 35 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_442|pueblo 69: generar
+mno_choose_scene_443|pueblo 7: generar
+mno_choose_scene_444|pueblo 70: generar
+mno_choose_scene_445|pueblo 71: generar
+mno_choose_scene_446|pueblo 72: generar
+mno_choose_scene_447|pueblo 73: generar
+mno_choose_scene_448|pueblo 74: generar
+mno_choose_scene_449|pueblo 75: generar
+mno_choose_scene_450|pueblo 76: generar
+mno_choose_scene_451|pueblo 77: generar
+mno_choose_scene_452|pueblo 78: generar
+mno_choose_scene_453|pueblo 79: generar
+mno_choose_scene_454|pueblo 8: generar
+menu_choose_scenes_455|Elige una escena: (Página 36 de 37)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_455|pueblo 80: generar
+mno_choose_scene_456|pueblo 81: generar
+mno_choose_scene_457|pueblo 82: generar
+mno_choose_scene_458|pueblo 83: generar
+mno_choose_scene_459|pueblo 84: generar
+mno_choose_scene_460|pueblo 85: generar
+mno_choose_scene_461|pueblo 86: generar
+mno_choose_scene_462|pueblo 87: generar
+mno_choose_scene_463|pueblo 88: generar
+mno_choose_scene_464|pueblo 89: generar
+mno_choose_scene_465|pueblo 9: generar
+mno_choose_scene_466|pueblo 90: generar
+mno_choose_scene_467|zendar arena: generar
+menu_choose_scenes_468|Elige una escena: (Página 37 de 37)
 mno_back|Atrás
 mno_previous|Anterior
-mno_choose_scene_468|zendar center: generate
-mno_choose_scene_469|zendar merchant: indoors
+mno_choose_scene_468|zendar center: generar
+mno_choose_scene_469|zendar merchant: (interna|geometria)
+mno_choose_scene_470|pueblo 85: generar
+mno_choose_scene_471|pueblo 86: generar
+mno_choose_scene_472|pueblo 87: generar
+mno_choose_scene_473|pueblo 88: generar
+mno_choose_scene_474|pueblo 89: generar
+mno_choose_scene_475|pueblo 9: generar
+mno_choose_scene_476|pueblo 90: generar
+mno_choose_scene_477|zendar arena: generar
+mno_choose_scene_478|zendar center: generar
+mno_choose_scene_479|zendar merchant: (interna|geometria)

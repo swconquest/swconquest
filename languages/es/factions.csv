@@ -1,7 +1,6 @@
-﻿# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
+# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
 # CREADO POR SWYTER, TODOS LOS DERECHOS RESERVADOS.
 # CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
-
 
 fac_no_faction|Sin Facción
 fac_commoners|Commoners
@@ -24,6 +23,7 @@ fac_robber_knights|robber knights
 fac_khergits|Khergits
 fac_black_khergits|Black Khergits
 fac_manhunters|Desertores
+fac_deserters|Deserters
 fac_mountain_bandits|Mountain Bandits
 fac_forest_bandits|Forest Bandits
 fac_undeads|No Muertos

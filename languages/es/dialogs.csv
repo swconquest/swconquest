@@ -1,4 +1,7 @@
-﻿dlga_start:member_talk|¿Sí?
+dlga_start:member_talk|¿Sí?
+dlga_start:pre_member_chat|All is quiet, Captain. Nothing to report.
+dlga_pre_member_chat:member_chat|I have a question for you.
+dlga_pre_member_chat:close_window|Good. Keep your eyes open.
 dlga_start:close_window|^{s10}^{s11}^{s12}^{s13}^^^Note: displaying this dialog is necessary due to a M&B game engine limitation.
 dlga_start:close_window.1|Warning: This line is never displayed. It is just for storing conversation variables.
 dlga_member_chat:close_window|Warning: This line is never displayed. It is just for storing conversation variables.
@@ -173,6 +176,7 @@ dlga_member_question:member_question_2|Very well. What did you want to ask?
 dlga_member_question_2:member_morale|How do you feel about the way things are going in this company?
 dlga_member_question_2:member_background_recap|Tell me your story again.
 dlga_member_question_2:member_question_2_blackjack_1|Do you want to play Pazaak?
+dlga_member_question_2:do_member_trade|I want to ask you something else.
 dlga_member_question_2_blackjack_1:member_question_2_blackjack_2|Sure. Are you ready to play or should I review the rules?
 dlga_member_question_2_blackjack_2:member_question_2_blackjack_3|Start playing.
 dlga_member_question_2_blackjack_3:close_window|Ok.^^You will have to click 'Done' to close the Party window before the game can begin.
@@ -1157,6 +1161,22 @@ dlga_local_merchant_mercy_yes_3:local_merchant_mercy_yes_4|Yes, of course. I'll 
 dlga_local_merchant_mercy_yes_4:local_merchant_mercy_yes_5|And if my lord hears so much of a hint of a complaint about this issue, then I'll come back for you, and it won't matter how much you scream for mercy then. Do you understand me?
 dlga_local_merchant_mercy_yes_5:local_merchant_mercy_yes_6|Yes {sir/madam}. Don't worry. I won't make any complaint.
 dlga_local_merchant_mercy_yes_6:close_window|Good. Go now, before I change my mind.
+dlga_start:bounty_1|Why are you looking at me like that. Do I know you?
+dlga_bounty_1:bounty_2|I am looking for a CIS officer named {s4}. You fit his description.
+dlga_bounty_1:bounty_2.1|I am looking for a farmer named {s4}. You fit his description.
+dlga_bounty_1:bounty_2.2|I am looking for someone named {s4}.
+dlga_bounty_1:bounty_2.3|I am looking for a pirated named {s4}. You fit his description.
+dlga_bounty_1:bounty_2.4|I am looking for a bountyhunter named {s4}. You fit his description.
+dlga_bounty_1:bounty_2.5|I am looking for a smuggler named {s4}. You fit his description.
+dlga_bounty_1:close_window|Nothing. Sorry to trouble you.
+dlga_bounty_2:bounty_3|I might be him. It depends on who you are and why you are asking...
+dlga_bounty_3:bounty_4|There is a reward out for you and I'm here to collect it.
+dlga_bounty_4:close_window|Don't you know who I am? I'm a CIS officer and you dare threaten me! I'm going to enjoy this...
+dlga_bounty_4:close_window.1|It's my land, not his, and I'm not giving it up without a fight!
+dlga_bounty_4:close_window.2|heh, you and what army? I'm going to enjoy killing you.
+dlga_bounty_4:close_window.3|I may not have my gang anymore, but I can still easily take down somebody like you...
+dlga_bounty_4:close_window.4|You, a bountyhunter? Thats funny... Let me show you how its really done!
+dlga_bounty_4:close_window.5|Hey, even I get boarded sometimes, I didn't have a choice. You are not taking me without a fight!
 dlga_start:fugitive_1|¿Sí, que es lo que quieres?
 dlga_fugitive_1:fugitive_2|Estoy buscando a un asesino llamado {s4}. Y tu concuerdas bastante bien con esa descripción.
 dlga_fugitive_1:close_window|Nada. Perdón por las molestias.
@@ -1245,6 +1265,33 @@ dlga_tavernkeeper_talk:tavernkeeper_buy_peasants|Quiero contratar algunos soldad
 dlga_tavernkeeper_buy_peasants:tavernkeeper_buy_peasants_2|I don't think anyone from this planet will follow somebody like you. Try your luck elsewhere.
 dlga_tavernkeeper_buy_peasants:tavernkeeper_buy_peasants_2.1|I know a few fellows who would follow you if you paid for their equipment.
 dlga_tavernkeeper_buy_peasants_2:tavernkeeper_talk|¿Algo más?
+dlga_tavernkeeper_talk:tavernkeeper_request_mission_ask|I want to make some money, are there any contracts available?
+dlga_tavernkeeper_talk:tavernkeeper_active_mission_1|About the contract you gave me...
+dlga_tavernkeeper_active_mission_1:tavernkeeper_active_mission_2|Yes, have you made any progress on it?
+dlga_tavernkeeper_active_mission_2:tavernkeeper_hunt_down_fugitive_success|I found {s4} hiding at {s3} and gave them their punishment.
+dlga_tavernkeeper_active_mission_2:tavernkeeper_hunt_down_fugitive_fail|I'm afraid they got away.
+dlga_tavernkeeper_active_mission_2:tavernkeeper_active_mission_3|I am still working on it.
+dlga_tavernkeeper_active_mission_2:tavernkeeper_mission_failed|I am afraid I won't be able to do this contract.
+dlga_tavernkeeper_active_mission_3:tavernkeeper_pretalk|I see. Well why are you still here?
+dlga_tavernkeeper_mission_failed:tavernkeeper_pretalk|{s43}
+dlga_tavernkeeper_hunt_down_fugitive_success:tavernkeeper_hunt_down_fugitive_success_2|Well done, {playername}!  'Tis good to know you can be trusted to handle things with an appropriate level of tactfulness. A bounty I promised, and a bounty you shall have. 300 credits even!
+dlga_tavernkeeper_hunt_down_fugitive_success_2:tavernkeeper_hunt_down_fugitive_reward_accept|Let me take the money, {s65}. Thank you.
+dlga_tavernkeeper_hunt_down_fugitive_success_2:tavernkeeper_hunt_down_fugitive_reward_reject|This is blood money. I can't accept it.
+dlga_tavernkeeper_hunt_down_fugitive_reward_accept:tavernkeeper_pretalk|Of course, {playername}. Here you are.
+dlga_tavernkeeper_hunt_down_fugitive_reward_reject:tavernkeeper_pretalk|You are a {s25} for whom justice is its own reward, eh? As you wish it, {playername}, as you wish it. An honourable sentiment, to be true.
+dlga_tavernkeeper_hunt_down_fugitive_fail:tavernkeeper_pretalk|It is a sad day when that {s44} manages to avoid the hand of justice yet again. I thought you would be able to do this, {playername}. Clearly I was wrong.
+dlga_tavernkeeper_request_mission_ask:tavernkeeper_tell_mission|So you reckon yourself a bounty hunter, eh?
+dlga_tavernkeeper_tell_mission:tavernkeeper_mission_hunt_down_fugitive_told|Actually there is one. It seems someone doesn't realize the Clone Wars are over. You know, the typical CIS officer, who goes by the name of {s4}. Anyway, he is assembling an army at {s3}, and the locals want something quick and clean. If you find, and elimiate him, you'll be given 300 credits.
+dlga_tavernkeeper_tell_mission:tavernkeeper_mission_hunt_down_fugitive_told.1|Yes, and nothing very complicated. A simple farmer named {s4} who has a territorial dispute with a local businessman at {s3}. He is armed, but is not really dangerous. You go, you finish him, and you return for your payment. It will be 300 credits once finished.
+dlga_tavernkeeper_tell_mission:tavernkeeper_mission_hunt_down_fugitive_told.2|Yes. And it seems it's something special this time because there is no customer, and no why. The target you would have to eliminate is called {s4} and is now on {s3}. I've been told he is ready to face anything and the payment for this job is 300 credits.
+dlga_tavernkeeper_tell_mission:tavernkeeper_mission_hunt_down_fugitive_told.3|Yeah, there is. An issue with a pirate named {s4}. It seems that his gang was intercepted during some sort of sabotage but he managed to get to an escape pod. He has been causing problems for the locals at {s3} ever since. The price is 300 credits.
+dlga_tavernkeeper_tell_mission:tavernkeeper_mission_hunt_down_fugitive_told.4|Yes, but it might be difficult. It seems a certain customer is being hunted down by a certain mercenary. Well trained, well armoured... Yeah, contract versus contract. Go to {s3} and eliminate a bountyhunter named {s4}. If you succeed you'll be rewarded with 300 credits.
+dlga_tavernkeeper_tell_mission:tavernkeeper_mission_hunt_down_fugitive_told.5|Yeah, a Hutt is quite upset at a smuggler named {s4}. Apparently he dropped his cargo right before being boarded by some Imperials... Anyway, he's believed to be at {s3} and the reward is 300 credits.
+dlga_tavernkeeper_tell_mission:tavernkeeper_pretalk|I'm sorry, but I don't have any contracts for you right now.
+dlga_tavernkeeper_mission_hunt_down_fugitive_told:tavernkeeper_mission_hunt_down_fugitive_accepted|I will claim this contract.
+dlga_tavernkeeper_mission_hunt_down_fugitive_told:tavernkeeper_mission_hunt_down_fugitive_rejected|I am too busy to go after them at the moment.
+dlga_tavernkeeper_mission_hunt_down_fugitive_accepted:close_window|That's excellent, {playername}. The customer will be so grateful to have them....found. Once you deal with this just return here for your reward. Well, good hunting to you.
+dlga_tavernkeeper_mission_hunt_down_fugitive_rejected:tavernkeeper_pretalk|As you wish, {playername}.I suppose there are plenty of bounty hunters around to get the job done...
 dlga_tavernkeeper_talk:tavernkeeper_blackjack_1|¿Quieres jugar al Pakaak?
 dlga_tavernkeeper_blackjack_1:tavernkeeper_blackjack_2|Clar. Quieres empezar ya o que te cuente las reglas?
 dlga_tavernkeeper_blackjack_2:tavernkeeper_blackjack_3|Empezar a jugar.
@@ -1567,6 +1614,12 @@ dlga_start:village_elder_talk.2|{My lord/My lady}, you honour our humble planet 
 dlga_start:village_elder_talk.3|Good day, {sir/madam}.
 dlga_village_elder_pretalk:village_elder_talk|Is there anything else I can do for you?
 dlga_village_elder_talk:village_elder_ask_fugitive|I am looking for a man by the name of {s4}. I was told he may be hiding here.
+dlga_village_elder_talk:village_elder_ask_fugitive.1|I am looking for a CIS officer named {s4}. I was told they may be here.
+dlga_village_elder_talk:village_elder_ask_fugitive.2|I am looking for a farmer named {s4}. I was told they may be here.
+dlga_village_elder_talk:village_elder_ask_fugitive.3|I am looking for someone named {s4}. I was told they may be here.
+dlga_village_elder_talk:village_elder_ask_fugitive.4|I am looking for a pirate named {s4}. I was told they may be here.
+dlga_village_elder_talk:village_elder_ask_fugitive.5|I am looking for a bountyhunter named {s4}. I was told they may be here.
+dlga_village_elder_talk:village_elder_ask_fugitive.6|I am looking for a smuggler named {s4}. I was told they may be here.
 dlga_village_elder_ask_fugitive:village_elder_pretalk|Strangers come and go to our village, {sir/madam}. But I doubt you'll run into him at this hour of the night. You would have better luck during the day.
 dlga_village_elder_ask_fugitive:close_window|Strangers come and go to our planet, {sir/madam}. If he is hiding here, you will surely find him if you look around.
 dlga_village_elder_talk:village_elder_active_mission_1|About the task you asked of me...
@@ -1706,11 +1759,23 @@ dlga_arena_master_spar_team_four_choose:arena_master_spar_start_it_up|I am finis
 dlga_arena_master_spar_team_four_choose:arena_master_pre_talk|Never mind. I'm calling the whole thing off.
 dlga_arena_master_spar_start_it_up:close_window|Here you go then. Good luck.
 dlga_arena_master_ask_tournaments:arena_master_talk|{reg2?There won't be any tournaments any time soon.:{reg1?Tournaments are:A tournament is} going to be held at {s15}.}
-dlga_arena_master_melee_pretalk:arena_master_melee_talk|There will be a fight here soon. You can go and jump in if you like.
-dlga_arena_master_melee_talk:close_window|Good. That's what I am going to do.
+dlga_arena_master_melee_pretalk:arena_master_weapon_talk|We offer combat for the public all day long with a reward for each opponent you defeat. You can go and jump in if you like...
+dlga_arena_master_weapon_talk:arena_master_weapon_2_talk|I'm ready to fight.
+dlga_arena_master_weapon_talk:arena_master_melee_reject|Thanks. But I will give my bruises some time to heal.
+dlga_arena_master_weapon_2_talk:arena_master_melee_talk|Great! We are always in need of fighters. Now, we have several types of fights. Most fighters prefer one of the classic ones, which use either vibroswords or blasters. But, we also have some that use either random weapons, holodroids, or lightsaber fighters if you want a challenge. Which one do you want to join?
+dlga_arena_master_melee_talk:arena_master_melee_posttalk|The classic fight with vibroswords & energy shields.
+dlga_arena_master_melee_talk:arena_master_melee_posttalk.1|The classic fight with blasters & vibroblades.
+dlga_arena_master_melee_talk:arena_master_melee_posttalk.2|The fight with random weapons.
+dlga_arena_master_melee_talk:arena_master_melee_posttalk.3|I want to fight the holodroids.
+dlga_arena_master_melee_talk:arena_master_melee_posttalk.4|I want to fight some lightsaber combatants.
 dlga_arena_master_melee_talk:arena_master_melee_reject|Thanks. But I will give my bruises some time to heal.
 dlga_arena_master_melee_reject:arena_master_pre_talk|Good {man/girl}. That's clever of you.
 dlga_arena_master_melee_talk:arena_training_melee_explain_reward|Actually, can you tell me about the rewards again?
+dlga_arena_master_melee_posttalk:close_window|Ok, if you think you can handle a lightsaber... good luck and be careful.
+dlga_arena_master_melee_posttalk:close_window.1|Ok, there is one ready to begin now, good luck!
+dlga_arena_master_melee_posttalk:close_window.2|Ok, they will all be using your same equipment, this should be interesting...
+dlga_arena_master_melee_posttalk:close_window.3|Ok, there is one ready to begin now, good luck and make sure to give the audience a good show!
+dlga_arena_master_melee_posttalk:close_window.4|Ok, there is one ready to begin now. Feel free to pick up different weapons on the ground, good luck!
 dlga_start:galeas_talk|Hello {boy/girl}. If you have any prisoners, I will be happy to buy them from you.
 dlga_galeas_talk:galeas_sell_prisoners|Then you'd better bring your purse. I have got prisoners to sell.
 dlga_galeas_talk:close_window|Not this time. Good-bye.
@@ -1759,9 +1824,16 @@ dlga_merchant_trade:town_merchant_talk|Anything else?
 dlga_town_merchant_talk:merchant_gossip|Tell me. What are people talking about these days?
 dlga_merchant_gossip:town_merchant_talk|Well, nothing new lately. Prices, weather, the war, the same old things.
 dlga_town_merchant_talk:close_window|Good-bye.
+dlga_start:close_window.24|Good day, {sir/madam}. It's nice having you here in {s10}.
 dlga_start:town_dweller_talk|My {lord/lady}?
 dlga_start:town_dweller_talk.1|Good day, {sir/madam}.
 dlga_town_dweller_talk:town_dweller_ask_fugitive|I am looking for a man by the name of {s4}. I was told he may be hiding here.
+dlga_town_dweller_talk:town_dweller_ask_fugitive.1|I am looking for a CIS officer named {s4}. I was told they may be here.
+dlga_town_dweller_talk:town_dweller_ask_fugitive.2|I am looking for a farmer named {s4}. I was told they may be here.
+dlga_town_dweller_talk:town_dweller_ask_fugitive.3|I am looking for someone named {s4}. I was told they may be here.
+dlga_town_dweller_talk:town_dweller_ask_fugitive.4|I am looking for a pirate named {s4}. I was told they may be here.
+dlga_town_dweller_talk:town_dweller_ask_fugitive.5|I am looking for a bountyhunter named {s4}. I was told they may be here.
+dlga_town_dweller_talk:town_dweller_ask_fugitive.6|I am looking for a smuggler named {s4}. I was told they may be here.
 dlga_town_dweller_ask_fugitive:close_window|Strangers come and go to our village, {sir/madam}. If he is hiding here, you will surely find him if you look around.
 dlga_town_dweller_talk:town_dweller_quest_meet_spy_in_enemy_town_ask_item|Pardon me, but is that a {s5} you're wearing?
 dlga_town_dweller_quest_meet_spy_in_enemy_town_ask_item:town_dweller_talk|{s6}
@@ -1795,10 +1867,10 @@ dlga_start:player_castle_guard_talk|¿Si, comandante?
 dlga_player_castle_guard_talk:player_castle_guard_talk_2|¿Que tal la guardia, soldado?
 dlga_player_castle_guard_talk_2:player_castle_guard_talk_3|Todo está tranquilo, mi comandante
 dlga_player_castle_guard_talk_3:close_window|Bien, genial
-dlga_start:close_window.24|Good day, {sir/madam}. It's nice having you here in {s10}.
 dlga_start:close_window.25|Mind your manners within the walls and we'll have no trouble.
-dlga_start:hall_guard_talk|¿Tus ordenes, comandante?
 dlga_start:close_window.26|No se nos permite hablar mientras estamos de guardia
+dlga_start:hall_guard_talk|¿Tus ordenes, comandante?
+dlga_start:close_window.27|We are not supposed to talk while on guard, {sir/madam}.
 dlga_hall_guard_talk:hall_guard_duty|Manteneos en el puesto
 dlga_hall_guard_duty:close_window|De acuerdo, comandante
 dlga_hall_guard_talk:hall_guard_arrest|I want you to arrest this man immediately!

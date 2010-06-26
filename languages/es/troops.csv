@@ -1,7 +1,6 @@
-﻿# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
+# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
 # CREADO POR SWYTER, TODOS LOS DERECHOS RESERVADOS.
 # CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
-
 
 trp_temp_troop|Temp Troop
 trp_temp_troop_pl|Temp Troop
@@ -191,8 +190,20 @@ trp_biker_scout|Explorador en Speeder
 trp_biker_scout_pl|Explorador en Speeder
 trp_mercenaries_end|mercenaries end
 trp_mercenaries_end_pl|mercenaries end
+trp_oom_series_security|Droide de Seguridad OOM
+trp_oom_series_security_pl|Droides de Seguridad OOM
+trp_oom_series_marine|Droide Marine OOM
+trp_oom_series_marine_pl|Droides Marine OOM
+trp_oom_series_pilot|Piloto Droide OOM
+trp_oom_series_pilot_pl|Pilotos Droide OOM
+trp_oom_series_command|Comandante Droide OOM
+trp_oom_series_command_pl|Comandantes Droide OOM
 trp_b1series|Droide de Batalla Serie B1
 trp_b1series_pl|Droides de Batalla Serie B1
+trp_b1series_assassin|Droide Asesino Serie B1
+trp_b1series_assassin_pl|Droides Asesino Serie B1
+trp_bxseries_commando|Droide Comando Serie BX
+trp_bxseries_commando_pl|Droides Comando Serie BX
 trp_b2series|Droide de Batalla Serie B2
 trp_b2series_pl|Droides de Batalla Serie B2
 trp_b2series_enhanced|Droide de Batalla Cortosis C-B3
@@ -221,6 +232,10 @@ trp_3poseries|Droide Serie 3PO
 trp_3poseries_pl|Droides Serie 3PO
 trp_r2series|Droide Serie R2
 trp_r2series_pl|Droides Serie R2
+trp_power_droid|Droide Energético 'Gonk'
+trp_power_droid_pl|Droides Energéticos 'Gonk'
+trp_fxseries_droid|Droide Médico Serie FX
+trp_fxseries_droid_pl|Droides Médicos Serie FX
 trp_lin_droid|Droide LIN
 trp_lin_droid_pl|Droide LIN
 trp_mse6|Droide Serie MSE
@@ -323,24 +338,24 @@ trp_rebel_trooper|Soldado de la Tropa Rebelde
 trp_rebel_trooper_pl|Soldados de la Tropa Rebelde
 trp_rebel_scout|Avanzado Rebelde
 trp_rebel_scout_pl|Avanzados Rebeldes
-trp_rebel_trooper_veteran|Soldado Veterano Rebelde
-trp_rebel_trooper_veteran_pl|Soldados Veteranos Rebeldes
+trp_rebel_vanguard|Vanguardia Rebelde
+trp_rebel_vanguard_pl|Vanguardia Rebelde
 trp_rebel_pilot|Piloto Rebelde
 trp_rebel_pilot_pl|Pilotos Rebeldes
 trp_rebel_commando|Commando Rebelde
 trp_rebel_commando_pl|Commandos Rebelde
-trp_rebel_sniper|Francotirador Rebelde
-trp_rebel_sniper_pl|Francotiradores Rebelde
+trp_rebel_marksman|Tirador Rebelde
+trp_rebel_marksman_pl|Tiradores Rebeldes
 trp_rebel_honor_guard|Guardia de Honor Rebelde
 trp_rebel_honor_guard_pl|Guardias de Honor Rebeldes
-trp_rebel_vanguard|Vanguardia Rebelde
-trp_rebel_vanguard_pl|Vanguardia Rebelde
+trp_rebel_heavy_trooper|Soldado Pesado Rebelde
+trp_rebel_heavy_trooper_pl|Soldados Pesados Rebeldes
 trp_rebel_pilot_veteran|Piloto Rebelde de Élite
 trp_rebel_pilot_veteran_pl|Pilotos Rebeldes de Élite
 trp_rebel_commando_veteran|Comando Veterano Rebelde 
 trp_rebel_commando_veteran_pl|Comandos Veteranos Rebeldes
-trp_rebel_sniper_veteran|Francotirador Veterano Rebelde
-trp_rebel_sniper_veteran_pl|Francotiradores Veteranos Rebeldes
+trp_rebel_sniper|Francotirador Rebelde
+trp_rebel_sniper_pl|Francotiradores Rebelde
 trp_rebel_messenger|Mensajero Rebelde
 trp_rebel_messenger_pl|Mensajeros Rebeldes
 trp_rebel_deserter|Desertor Rebelde
@@ -417,6 +432,8 @@ trp_town_walker_twilek_female|Mujer Twilek
 trp_town_walker_twilek_female_pl|Mujeres Twilek
 trp_town_walker_twilek_female_slave|Esclava Twilek
 trp_town_walker_twilek_female_slave_pl|Esclavas Twilek
+trp_town_walker_slave_dancer|Bailarina Esclava
+trp_town_walker_slave_dancer_pl|Bailarinas Esclavas
 trp_town_walker_chiss|Chiss
 trp_town_walker_chiss_pl|Chiss
 trp_town_walker_chiss_female|Mujer Chiss
@@ -437,6 +454,10 @@ trp_town_walker_3poseries|Droide Serie  3PO
 trp_town_walker_3poseries_pl|Droides Serie 3PO
 trp_town_walker_3poseries_naked|Droide Serie 3PO
 trp_town_walker_3poseries_naked_pl|Droides Serie 3PO
+trp_town_walker_power_droid|Droide Energético 'Gonk'
+trp_town_walker_power_droid_pl|Droides Energéticos 'Gonk'
+trp_town_walker_fxseries_droid|Droide Médico Serie FX
+trp_town_walker_fxseries_droid_pl|Droides Médicos Serie FX
 trp_town_walker_hkseries|Droide Serie HK-Series
 trp_town_walker_hkseries_pl|Droides Serie HK
 trp_town_walker_sullustan|Sullustano
@@ -475,6 +496,8 @@ trp_town_walker_empire_6|Oficial Imperial
 trp_town_walker_empire_6_pl|Oficiales Imperiales
 trp_town_walker_empire_7|Droide MSE-6
 trp_town_walker_empire_7_pl|Droides MSE-6
+trp_town_walker_empire_8|Droide MSE-6
+trp_town_walker_empire_8_pl|Droides MSE-6
 trp_town_walker_rebel_1|Técnico Rebelde
 trp_town_walker_rebel_1_pl|Técnicos Rebelde
 trp_town_walker_rebel_2|Soldado Rebelde
@@ -491,12 +514,16 @@ trp_town_walker_rebel_7|Wookiee
 trp_town_walker_rebel_7_pl|Wookiees
 trp_town_walker_rebel_8|Droide Serie R2
 trp_town_walker_rebel_8_pl|Droides Serie R2
+trp_town_walker_rebel_9|Droide R2
+trp_town_walker_rebel_9_pl|Droides R2
 trp_town_walker_hutt_1|Mercenario Hutt
 trp_town_walker_hutt_1_pl|Mercenarios Hutt
 trp_town_walker_hutt_2|Guardia de Esquife Hutt
 trp_town_walker_hutt_2_pl|Guardias de Esquife Hutt
 trp_town_walker_hutt_3|Guardia Gamorreano
 trp_town_walker_hutt_3_pl|Guardias Gamorreanos
+trp_town_walker_hutt_4|Bailarina Esclava
+trp_town_walker_hutt_4_pl|Bailarinas Esclavas
 trp_cantina_walker_1|Ciudadano
 trp_cantina_walker_1_pl|Ciudadanos
 trp_cantina_walker_2|Ciudadana
@@ -607,6 +634,10 @@ trp_village_walker_3poseries|Droide 3PO-Series
 trp_village_walker_3poseries_pl|Droide 3PO-Series
 trp_village_walker_3poseries_naked|Droide 3PO-Series
 trp_village_walker_3poseries_naked_pl|Droide 3PO-Series
+trp_village_walker_power_droid|Droide Energético 'Gonk'
+trp_village_walker_power_droid_pl|Droide Energético 'Gonk'
+trp_village_walker_fxseries_droid|Droide Médico Serie FX
+trp_village_walker_fxseries_droid_pl|Droide Médico Serie FX
 trp_village_walker_hkseries|Droide HK-Series
 trp_village_walker_hkseries_pl|Droide HK-Series
 trp_spy_walker_1|Ciudadano
@@ -725,6 +756,10 @@ trp_tavern_bookseller_13|Cirujano Plástico
 trp_tavern_bookseller_13_pl|Cirujano Plásticos
 trp_tavern_bookseller_14|Cirujano Plástico
 trp_tavern_bookseller_14_pl|Cirujano Plásticos
+trp_tavern_bookseller_15|Vendedor Sensible a la Fuerza
+trp_tavern_bookseller_15_pl|Comerciante Sensible a la Fuerza
+trp_tavern_bookseller_16|Vendedor Sensible a la Fuerza
+trp_tavern_bookseller_16_pl|Comerciante Sensible a la Fuerza
 trp_tavern_minstrel_1|Minstrel
 trp_tavern_minstrel_1_pl|Minstrel
 trp_npc1|Kyle Katarn
@@ -861,6 +896,8 @@ trp_knight_1_44|Oficial Reric Kutlo
 trp_knight_1_44_pl|knight 1 4
 trp_knight_1_45|Oficial Milis Quallo
 trp_knight_1_45_pl|knight 1 5
+trp_knight_taris|Joruus C'baoth
+trp_knight_taris_pl|knight 2 1
 trp_knight_2_1|Obi-Wan Kenobi
 trp_knight_2_1_pl|knight 2 1
 trp_knight_2_2|Luke Skywalker
@@ -1055,6 +1092,8 @@ trp_town_20_seneschal|Administrador del Planeta
 trp_town_20_seneschal_pl|Town 20 Administrator
 trp_town_21_seneschal|Administrador del Planeta
 trp_town_21_seneschal_pl|Town 21 Administrator
+trp_town_22_seneschal|Planet Administrator
+trp_town_22_seneschal_pl|Town 21 Administrator
 trp_castle_1_seneschal|Administrador del Planeta
 trp_castle_1_seneschal_pl|Castle 1 Administrator
 trp_castle_2_seneschal|Administrador del Planeta
@@ -1177,6 +1216,8 @@ trp_town_20_arena_master|Encargado de la Arena
 trp_town_20_arena_master_pl|Tournament Master
 trp_town_21_arena_master|Encargado de la Arena
 trp_town_21_arena_master_pl|Tournament Master
+trp_town_22_arena_master|Arena Master
+trp_town_22_arena_master_pl|Tournament Master
 trp_town_1_armorer|Vendedor de Ropa y Protección
 trp_town_1_armorer_pl|Vendedor de Ropa y Protección
 trp_town_2_armorer|Vendedor de Ropa y Protección
@@ -1219,6 +1260,8 @@ trp_town_20_armorer|Vendedor de Ropa y Protección
 trp_town_20_armorer_pl|Vendedor de Ropa y Protección
 trp_town_21_armorer|Vendedor de Ropa y Protección
 trp_town_21_armorer_pl|Vendedor de Ropa y Protección
+trp_town_22_armorer|Armorer
+trp_town_22_armorer_pl|Armorer
 trp_town_1_weaponsmith|Vendedor de Pistolas y Armas
 trp_town_1_weaponsmith_pl|Vendedor de Pistolas y Armas
 trp_town_2_weaponsmith|Vendedor de Pistolas y Armas
@@ -1261,6 +1304,8 @@ trp_town_20_weaponsmith|Vendedor de Pistolas y Armas
 trp_town_20_weaponsmith_pl|Vendedor de Pistolas y Armas
 trp_town_21_weaponsmith|Vendedor de Pistolas y Armas
 trp_town_21_weaponsmith_pl|Vendedor de Pistolas y Armas
+trp_town_22_weaponsmith|Weaponsmith
+trp_town_22_weaponsmith_pl|Weaponsmith
 trp_town_1_tavernkeeper|Camarero
 trp_town_1_tavernkeeper_pl|Camarero
 trp_town_2_tavernkeeper|Camarero
@@ -1303,6 +1348,8 @@ trp_town_20_tavernkeeper|Camarero
 trp_town_20_tavernkeeper_pl|Camarero
 trp_town_21_tavernkeeper|Camarero
 trp_town_21_tavernkeeper_pl|Camarero
+trp_town_22_tavernkeeper|Bartender
+trp_town_22_tavernkeeper_pl|Bartender
 trp_town_1_merchant|Vendedor
 trp_town_1_merchant_pl|Vendedor
 trp_town_2_merchant|Vendedor
@@ -1345,6 +1392,8 @@ trp_town_20_merchant|Vendedor
 trp_town_20_merchant_pl|Vendedor
 trp_town_21_merchant|Vendedor
 trp_town_21_merchant_pl|Vendedor
+trp_town_22_merchant|Merchant
+trp_town_22_merchant_pl|Merchant
 trp_salt_mine_merchant|Barezan
 trp_salt_mine_merchant_pl|Barezan
 trp_town_1_horse_merchant|Vendedor de Vehículos
@@ -1389,6 +1438,8 @@ trp_town_20_horse_merchant|Vendedor de Vehículos
 trp_town_20_horse_merchant_pl|Town 20 Vendedor de Vehículos
 trp_town_21_horse_merchant|Vendedor de Vehículos
 trp_town_21_horse_merchant_pl|Town 21 Vendedor de Vehículos
+trp_town_22_horse_merchant|Transportation Merchant
+trp_town_22_horse_merchant_pl|Town 21 Transportation Merchant
 trp_town_1_mayor|Administrador del Planeta
 trp_town_1_mayor_pl|Administrador del Planeta
 trp_town_2_mayor|Administrador del Planeta
@@ -1431,6 +1482,8 @@ trp_town_20_mayor|Administrador del Planeta
 trp_town_20_mayor_pl|Administrador del Planeta
 trp_town_21_mayor|Administrador del Planeta
 trp_town_21_mayor_pl|Administrador del Planeta
+trp_town_22_mayor|Planet Administrator
+trp_town_22_mayor_pl|Planet Administrator
 trp_village_1_elder|Administrador del Planeta
 trp_village_1_elder_pl|village 1 elder
 trp_village_2_elder|Administrador del Planeta
@@ -1733,6 +1786,36 @@ trp_spy|Ciudadano Normal y Corriente
 trp_spy_pl|Ciudadanos Normales y Corrientes
 trp_spy_partner|Ciudadano sin Identificar
 trp_spy_partner_pl|Ciudadanos sin Identificar
+trp_bounty_target_1a|Oficial Droide
+trp_bounty_target_1a_pl|Oficiales Droide
+trp_bounty_target_1b|Oficial Droide
+trp_bounty_target_1b_pl|Oficiales Droide
+trp_bounty_target_2a|Granjero
+trp_bounty_target_2a_pl|Granjeros
+trp_bounty_target_2b|Granjero
+trp_bounty_target_2b_pl|Granjeros
+trp_bounty_target_3a|Objetivo
+trp_bounty_target_3a_pl|Objetivo
+trp_bounty_target_3b|Objetivo
+trp_bounty_target_3b_pl|Objetivo
+trp_bounty_target_3c|Objetivo
+trp_bounty_target_3c_pl|Objetivo
+trp_bounty_target_3d|Objetivo
+trp_bounty_target_3d_pl|Objetivo
+trp_bounty_target_4a|Pirata
+trp_bounty_target_4a_pl|Pirata
+trp_bounty_target_4b|Pirata
+trp_bounty_target_4b_pl|Pirata
+trp_bounty_target_5a|Cazarecompensas
+trp_bounty_target_5a_pl|Cazarecompensas
+trp_bounty_target_5b|Cazarecompensas
+trp_bounty_target_5b_pl|Cazarecompensas
+trp_bounty_target_5c|Cazarecompensas
+trp_bounty_target_5c_pl|Cazarecompensas
+trp_bounty_target_6a|Contrabandista
+trp_bounty_target_6a_pl|Contrabandistas
+trp_bounty_target_6b|Contrabandista
+trp_bounty_target_6b_pl|Contrabandista
 trp_quick_battle_player|Jugador
 trp_quick_battle_player_pl|Jugador
 trp_quick_battle_player_mounted|Jugador
@@ -1815,93 +1898,3 @@ trp_pjct_check_collision|
 trp_pjct_check_collision_pl| 
 trp_instance_attached_to| 
 trp_instance_attached_to_pl| 
-
-
-#-------------------------------------------------------
-#TROPAS AÑADIDAS EN LA 0.9
-#-------------------------------------------------------
-
-trp_oom_series_security|Droide de Seguridad OOM
-trp_oom_series_security_pl|Droides de Seguridad OOM
-trp_oom_series_marine|Droide Marine OOM
-trp_oom_series_marine_pl|Droides Marine OOM
-trp_oom_series_pilot|Piloto Droide OOM
-trp_oom_series_pilot_pl|Pilotos Droide OOM
-trp_oom_series_command|Comandante Droide OOM
-trp_oom_series_command_pl|Comandantes Droide OOM
-trp_b1series_assassin|Droide Asesino Serie B1
-trp_b1series_assassin_pl|Droides Asesino Serie B1
-trp_bxseries_commando|Droide Comando Serie BX
-trp_bxseries_commando_pl|Droides Comando Serie BX
-
-
-trp_power_droid|Droide Energético 'Gonk'
-trp_power_droid_pl|Droides Energéticos 'Gonk'
-trp_fxseries_droid|Droide Médico Serie FX
-trp_fxseries_droid_pl|Droides Médicos Serie FX
-
-trp_rebel_marksman|Tirador Rebelde
-trp_rebel_marksman_pl|Tiradores Rebeldes
-
-trp_rebel_heavy_trooper|Soldado Pesado Rebelde
-trp_rebel_heavy_trooper_pl|Soldados Pesados Rebeldes
-
-trp_town_walker_slave_dancer|Bailarina Esclava
-trp_town_walker_slave_dancer_pl|Bailarinas Esclavas
-
-trp_town_walker_power_droid|Droide Energético 'Gonk'
-trp_town_walker_power_droid_pl|Droides Energéticos 'Gonk'
-trp_town_walker_fxseries_droid|Droide Médico Serie FX
-trp_town_walker_fxseries_droid_pl|Droides Médicos Serie FX
-
-trp_town_walker_empire_8|Droide MSE-6
-trp_town_walker_empire_8_pl|Droides MSE-6
-
-trp_town_walker_rebel_9|Droide R2
-trp_town_walker_rebel_9_pl|Droides R2
-
-trp_town_walker_hutt_4|Bailarina Esclava
-trp_town_walker_hutt_4_pl|Bailarinas Esclavas
-trp_village_walker_twilek_female_pl|Mujeres Twilek
-
-trp_village_walker_power_droid|Droide Energético 'Gonk'
-trp_village_walker_power_droid_pl|Droide Energético 'Gonk'
-trp_village_walker_fxseries_droid|Droide Médico Serie FX
-trp_village_walker_fxseries_droid_pl|Droide Médico Serie FX
-
-trp_tavern_bookseller_15|Vendedor Sensible a la Fuerza
-trp_tavern_bookseller_15_pl|Comerciante Sensible a la Fuerza
-trp_tavern_bookseller_16|Vendedor Sensible a la Fuerza
-trp_tavern_bookseller_16_pl|Comerciante Sensible a la Fuerza
-
-
-trp_bounty_target_1a|Oficial Droide
-trp_bounty_target_1a_pl|Oficiales Droide
-trp_bounty_target_1b|Oficial Droide
-trp_bounty_target_1b_pl|Oficiales Droide
-trp_bounty_target_2a|Granjero
-trp_bounty_target_2a_pl|Granjeros
-trp_bounty_target_2b|Granjero
-trp_bounty_target_2b_pl|Granjeros
-trp_bounty_target_3a|Objetivo
-trp_bounty_target_3a_pl|Objetivo
-trp_bounty_target_3b|Objetivo
-trp_bounty_target_3b_pl|Objetivo
-trp_bounty_target_3c|Objetivo
-trp_bounty_target_3c_pl|Objetivo
-trp_bounty_target_3d|Objetivo
-trp_bounty_target_3d_pl|Objetivo
-trp_bounty_target_4a|Pirata
-trp_bounty_target_4a_pl|Pirata
-trp_bounty_target_4b|Pirata
-trp_bounty_target_4b_pl|Pirata
-trp_bounty_target_5a|Cazarecompensas
-trp_bounty_target_5a_pl|Cazarecompensas
-trp_bounty_target_5b|Cazarecompensas
-trp_bounty_target_5b_pl|Cazarecompensas
-trp_bounty_target_5c|Cazarecompensas
-trp_bounty_target_5c_pl|Cazarecompensas
-trp_bounty_target_6a|Contrabandista
-trp_bounty_target_6a_pl|Contrabandistas
-trp_bounty_target_6b|Contrabandista
-trp_bounty_target_6b_pl|Contrabandistas

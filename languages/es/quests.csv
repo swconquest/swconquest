@@ -1,4 +1,8 @@
-﻿qst_deliver_message|Enviar mensaje a {s13}
+# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
+# CREADO POR SWYTER, TODOS LOS DERECHOS RESERVADOS.
+# CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
+
+qst_deliver_message|Enviar mensaje a {s13}
 qst_deliver_message_text|{s9} te ha pedido que envíes un mensaje a {s13}. {s13} estaba en {s4} cuando te dieron esta misión.
 qst_deliver_message_to_enemy_lord|Enviar mensaje a {s13}
 qst_deliver_message_to_enemy_lord_text|{s9} te ha pedido que envíes un mensaje a {s13} de {s15}. {s13} estaba en {s4} cuando te dieron esta misión.
@@ -12,6 +16,18 @@ qst_collect_taxes|Recauda los impuestos de {s3}
 qst_collect_taxes_text|{s9} te ha pedido que recaudes los impuestos de {s3}. Te ha ofrecido el 50% de lo recaudado.
 qst_hunt_down_fugitive|Mata a {s4}
 qst_hunt_down_fugitive_text|{s9} te pidió que dieras caza al asesino conocido como {s4}. Se cree que se encuentra en {s3}.
+qst_bounty_1|Hunt down {s4}
+qst_bounty_1_text|{s9} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.
+qst_bounty_2|Hunt down {s4}
+qst_bounty_2_text|{s9} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.
+qst_bounty_3|Hunt down {s4}
+qst_bounty_3_text|{s9} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.
+qst_bounty_4|Hunt down {s4}
+qst_bounty_4_text|{s9} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.
+qst_bounty_5|Hunt down {s4}
+qst_bounty_5_text|{s9} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.
+qst_bounty_6|Hunt down {s4}
+qst_bounty_6_text|{s9} asked you to hunt down the fugitive named {s4}. He is currently believed to be at {s3}.
 qst_kill_local_merchant|Asesina un comerciante de {s3}
 qst_kill_local_merchant_text|{s9} te pidió que asesines a un comerciante local en {s3}.
 qst_bring_back_runaway_serfs|Trae de vuelta a los esclavos

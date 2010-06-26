@@ -1,4 +1,4 @@
-﻿# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
+# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
 # CREADO POR SWYTER, TODOS LOS DERECHOS RESERVADOS.
 # CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
 
@@ -33,28 +33,16 @@ imod_hardened|%s durable
 imod_reinforced|%s con refuerzos
 imod_superb|%s de calidad soberbia
 imod_lordly|%s de calidad señorial
-imod_lame|%s cojo
-imod_swaybacked|%s corcovado
+imod_lame|%s dañado
+imod_swaybacked|%s reconstruido
 imod_stubborn|%s terco
 imod_timid|%s tímido
 imod_meek|%s dócil
-imod_spirited|%s brioso
+imod_spirited|%s modificado
 imod_champion|%s campeón
 imod_fresh|%s en buen estado
 imod_day_old|%s de ayer
 imod_two_day_old|%s de anteayer
 imod_smelling|%s maloliente
 imod_rotten|%s en descomposición
-imod_large_bag|Bolsa grande de %s
-
-
-
------------------------------------------------------------
-
-
-imod_lame|%s dañado
-imod_swaybacked|%s reconstruido
-imod_spirited|%s modificado
 imod_large_bag|%s de gran capacidad
-imodbit_champion|%s mejorado
-imodbit_lordly|%s mejorado

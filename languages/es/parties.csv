@@ -1,8 +1,6 @@
-﻿# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
+# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
 # CREADO POR SWYTER, TODOS LOS DERECHOS RESERVADOS.
 # CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
-
-
 
 p_temp_party|temp party
 p_camp_bandits|camp bandits
@@ -39,6 +37,9 @@ p_town_merc_15|town15 mercs
 p_town_merc_16|town16 mercs
 p_town_merc_17|town17 mercs
 p_town_merc_18|town18 mercs
+p_town_merc_19|town19 mercs
+p_town_merc_20|town20 mercs
+p_town_merc_21|town21 mercs
 p_zendar|Zendar
 p_shipyard_trade_federation|Federación de Comercio
 p_shipyard_kuat|Astilleros de Kuat
@@ -47,7 +48,6 @@ p_shipyard_corellia|Astilleros de Corellia
 p_shipyard_moncal|Astilleros de Mon Cal
 p_shipyard_mandalore|Astilleros de Mandalore
 p_shipyard_fondor|Astilleros de Fondor
-p_base_1|Federación de Comercio
 p_town_1|Mandalore
 p_town_2|Byss
 p_town_3|Endor
@@ -69,6 +69,7 @@ p_town_18|Nal Hutta
 p_town_19|Bothawui
 p_town_20|Mustafar
 p_town_21|Kamino
+p_town_22|Taris
 p_castle_1|Bespin
 p_castle_2|Avanzada de Corellia
 p_castle_3|Estación de Combate de Yavin IV
@@ -249,3 +250,31 @@ p_sea_raider_spawn_point_1|sea raider sp
 p_sea_raider_spawn_point_2|sea raider sp
 p_sea_raider_spawn_point_3|sea raider sp
 p_spawn_points_end|last spawn point
+p_spaceship_tie_fighter|Spaceship Array
+p_spaceship_imperial_shuttle|Spaceship Array
+p_spaceship_imperial_trade_frigate|Spaceship Array
+p_spaceship_imperial_dreadnaught_frigate|Spaceship Array
+p_spaceship_imperial_victory_c2_frigate|Spaceship Array
+p_spaceship_imperial_star_destroyer|Spaceship Array
+p_spaceship_imperial_star_destroyer_interdictor|Spaceship Array
+p_spaceship_a_wing|Spaceship Array
+p_spaceship_y_wing|Spaceship Array
+p_spaceship_moncal_cruiser|Spaceship Array
+p_spaceship_rebel_transport|Spaceship Array
+p_spaceship_corellian_gunship|Spaceship Array
+p_spaceship_hutt_patrol|Spaceship Array
+p_spaceship_hutt_trade|Spaceship Array
+p_spaceship_hutt_frigate_mk1|Spaceship Array
+p_spaceship_hutt_frigate_mk2|Spaceship Array
+p_spaceship_hutt_cruiser|Spaceship Array
+p_spaceship_z95|Spaceship Array
+p_spaceship_scyk_fighter|Spaceship Array
+p_spaceship_civilian_transport|Spaceship Array
+p_spaceship_civilian_cruiser|Spaceship Array
+p_spaceship_mercenary_shuttle|Spaceship Array
+p_spaceship_mercenary_fighter|Spaceship Array
+p_spaceship_mercenary_raider|Spaceship Array
+p_spaceship_freighter|Spaceship Array
+p_spaceship_bulk_freighter|Spaceship Array
+p_spaceship_cis_star_cruiser|Spaceship Array
+p_spaceship_end|Spaceship Array

@@ -1,0 +1,1732 @@
+﻿# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
+# CREADO POR SWYTER, TODOS LOS DERECHOS RESERVADOS.
+# CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
+
+
+
+itm_no_item|INVALID ITEM
+itm_no_item_pl|INVALID ITEM
+itm_horse_meat|Horse Meat
+itm_horse_meat_pl|Horse Meat
+itm_practice_sword|Practice Sword
+itm_practice_sword_pl|Practice Sword
+itm_heavy_practice_sword|Heavy Practice Sword
+itm_heavy_practice_sword_pl|Heavy Practice Sword
+itm_practice_axe|Practice Axe
+itm_practice_axe_pl|Practice Axe
+itm_arena_axe|Axe
+itm_arena_axe_pl|Axe
+itm_arena_sword|Sword
+itm_arena_sword_pl|Sword
+itm_arena_sword_two_handed|Two Handed Sword
+itm_arena_sword_two_handed_pl|Two Handed Sword
+itm_arena_lance|Lance
+itm_arena_lance_pl|Lanza
+itm_practice_staff|Vara de Práctica
+itm_practice_staff_pl|Vara de Práctica
+itm_practice_lance|Practice Lance
+itm_practice_lance_pl|Practice Lance
+itm_practice_shield|Practice Escudo
+itm_practice_shield_pl|Practice Escudo
+itm_practice_bow|Practice Bow
+itm_practice_bow_pl|Practice Bow
+itm_practice_crossbow|Practice Crossbow
+itm_practice_crossbow_pl|Practice Crossbow
+itm_practice_javelin|Practice Javelin
+itm_practice_javelin_pl|Practice Javelin
+itm_practice_throwing_daggers|Throwing Daggers
+itm_practice_throwing_daggers_pl|Throwing Daggers
+itm_practice_throwing_daggers_100_amount|Throwing Daggers
+itm_practice_throwing_daggers_100_amount_pl|Throwing Daggers
+itm_practice_horse|Practice Horse
+itm_practice_horse_pl|Practice Horse
+itm_practice_arrows|Practice Arrows
+itm_practice_arrows_pl|Practice Arrows
+itm_practice_bolts|Practice Bolts
+itm_practice_bolts_pl|Practice Bolts
+itm_practice_arrows_10_amount|Practice Arrows
+itm_practice_arrows_10_amount_pl|Practice Arrows
+itm_practice_arrows_100_amount|Practice Arrows
+itm_practice_arrows_100_amount_pl|Practice Arrows
+itm_practice_bolts_9_amount|Practice Bolts
+itm_practice_bolts_9_amount_pl|Practice Bolts
+itm_practice_boots|Practice Boots
+itm_practice_boots_pl|Practice Boots
+itm_red_tourney_armor|Red Tourney Armor
+itm_red_tourney_armor_pl|Red Tourney Armor
+itm_blue_tourney_armor|Blue Tourney Armor
+itm_blue_tourney_armor_pl|Blue Tourney Armor
+itm_green_tourney_armor|Green Tourney Armor
+itm_green_tourney_armor_pl|Green Tourney Armor
+itm_gold_tourney_armor|Gold Tourney Armor
+itm_gold_tourney_armor_pl|Gold Tourney Armor
+itm_red_tourney_helmet|Red Tourney Helmet
+itm_red_tourney_helmet_pl|Red Tourney Helmet
+itm_blue_tourney_helmet|Blue Tourney Helmet
+itm_blue_tourney_helmet_pl|Blue Tourney Helmet
+itm_green_tourney_helmet|Green Tourney Helmet
+itm_green_tourney_helmet_pl|Green Tourney Helmet
+itm_gold_tourney_helmet|Gold Tourney Helmet
+itm_gold_tourney_helmet_pl|Gold Tourney Helmet
+itm_arena_shield_red|Escudo
+itm_arena_shield_red_pl|Escudo
+itm_arena_shield_blue|Escudo
+itm_arena_shield_blue_pl|Escudo
+itm_arena_shield_green|Escudo
+itm_arena_shield_green_pl|Escudo
+itm_arena_shield_yellow|Escudo
+itm_arena_shield_yellow_pl|Escudo
+itm_arena_armor_white|Arena Armor White
+itm_arena_armor_white_pl|Arena Armor White
+itm_arena_armor_red|Arena Armor Red
+itm_arena_armor_red_pl|Arena Armor Red
+itm_arena_armor_blue|Arena Armor Blue
+itm_arena_armor_blue_pl|Arena Armor Blue
+itm_arena_armor_green|Arena Armor Green
+itm_arena_armor_green_pl|Arena Armor Green
+itm_arena_armor_yellow|Arena Armor Yellow
+itm_arena_armor_yellow_pl|Arena Armor Yellow
+itm_arena_tunic_white|Arena Túnica White 
+itm_arena_tunic_white_pl|Arena Túnica White 
+itm_arena_tunic_red|Arena Túnica Red
+itm_arena_tunic_red_pl|Arena Túnica Red
+itm_arena_tunic_blue|Arena Túnica Blue
+itm_arena_tunic_blue_pl|Arena Túnica Blue
+itm_arena_tunic_green|Arena Túnica Green
+itm_arena_tunic_green_pl|Arena Túnica Green
+itm_arena_tunic_yellow|Arena Túnica Yellow
+itm_arena_tunic_yellow_pl|Arena Túnica Yellow
+itm_arena_helmet_red|Arena Helmet Red
+itm_arena_helmet_red_pl|Arena Helmet Red
+itm_arena_helmet_blue|Arena Helmet Blue
+itm_arena_helmet_blue_pl|Arena Helmet Blue
+itm_arena_helmet_green|Arena Helmet Green
+itm_arena_helmet_green_pl|Arena Helmet Green
+itm_arena_helmet_yellow|Arena Helmet Yellow
+itm_arena_helmet_yellow_pl|Arena Helmet Yellow
+itm_steppe_helmet_white|Steppe Helmet White
+itm_steppe_helmet_white_pl|Steppe Helmet White
+itm_steppe_helmet_red|Steppe Helmet Red
+itm_steppe_helmet_red_pl|Steppe Helmet Red
+itm_steppe_helmet_blue|Steppe Helmet Blue
+itm_steppe_helmet_blue_pl|Steppe Helmet Blue
+itm_steppe_helmet_green|Steppe Helmet Green
+itm_steppe_helmet_green_pl|Steppe Helmet Green
+itm_steppe_helmet_yellow|Steppe Helmet Yellow
+itm_steppe_helmet_yellow_pl|Steppe Helmet Yellow
+itm_tourney_helm_white|Tourney Helm White
+itm_tourney_helm_white_pl|Tourney Helm White
+itm_tourney_helm_red|Tourney Helm Red
+itm_tourney_helm_red_pl|Tourney Helm Red
+itm_tourney_helm_blue|Tourney Helm Blue
+itm_tourney_helm_blue_pl|Tourney Helm Blue
+itm_tourney_helm_green|Tourney Helm Green
+itm_tourney_helm_green_pl|Tourney Helm Green
+itm_tourney_helm_yellow|Tourney Helm Yellow
+itm_tourney_helm_yellow_pl|Tourney Helm Yellow
+itm_book_tactics|Holocrón sobre Tácticas
+itm_book_tactics_pl|Holocrón sobre Tácticas
+itm_book_persuasion|Holocrón sobre Persuasión
+itm_book_persuasion_pl|Holocrón sobre Persuasión
+itm_book_leadership|Holocrón sobre Liderazgo
+itm_book_leadership_pl|Holocrón sobre Liderazgo
+itm_book_intelligence|Holocrón sobre Inteligencia
+itm_book_intelligence_pl|Holocrón sobre Inteligencia
+itm_book_trade|Holocrón sobre Comercio
+itm_book_trade_pl|Holocrón sobre Comercio
+itm_book_weapon_mastery|Holocrón sobre Armas
+itm_book_weapon_mastery_pl|Holocrón sobre Armas
+itm_book_engineering|Holocrón sobre Ingeniería
+itm_book_engineering_pl|Holocrón sobre Ingeniería
+itm_book_wound_treatment_reference|Droide Médico 2-1B
+itm_book_wound_treatment_reference_pl|Droide Médico 2-1B
+itm_book_first_aid_reference|Base de Datos Médica
+itm_book_first_aid_reference_pl|Base de Datos Médica
+itm_book_tactics_reference|Mesa de Dejarik
+itm_book_tactics_reference_pl|Mesa de Dejarik
+itm_book_trade_reference|Cartas de Sabacc
+itm_book_trade_reference_pl|Cartas de Sabacc
+itm_book_ironflesh_reference|Escudo Personal
+itm_book_ironflesh_reference_pl|Escudo Personal
+itm_book_horse_archery_reference|Mira Láser
+itm_book_horse_archery_reference_pl|Mira Láser
+itm_book_training_reference|Robot de Entrenamiento
+itm_book_training_reference_pl|Robot de Entrenamiento
+itm_book_surgery_reference|Tanque de Bacta
+itm_book_surgery_reference_pl|Tanque de Bacta
+itm_smoked_fish|Pescado
+itm_smoked_fish_pl|Pescado
+itm_dried_meat|Carne de Nerf
+itm_dried_meat_pl|Carne de Nerf
+itm_cattle_meat|Carne de Nerf
+itm_cattle_meat_pl|Carne de Nerf
+itm_bantha_steak|Filete de Bantha
+itm_bantha_steak_pl|Filete de Bantha
+itm_pork|Cerdo
+itm_pork_pl|Cerdo
+itm_bread|Pan
+itm_bread_pl|Pan
+itm_vagnerian_canape|Canapé Vagneriano
+itm_vagnerian_canape_pl|Canapé Vagneriano
+itm_carbohydrate_pack|Pack de Carbohidratos
+itm_carbohydrate_pack_pl|Pack de Carbohidratos
+itm_apples|Manzanas
+itm_apples_pl|Manzanas
+itm_blue_milk|Leche Azul
+itm_blue_milk_pl|Leche Azul
+itm_mujo_fruit|Fruta de Mujo
+itm_mujo_fruit_pl|Fruta de Mujo
+itm_cheese|Queso de Byss
+itm_cheese_pl|Queso de Byss
+itm_chicken|Pollo
+itm_chicken_pl|Pollo
+itm_protein_pack|Pack Proteínico
+itm_protein_pack_pl|Pack Proteínico
+itm_honey|Miel
+itm_honey_pl|Miel
+itm_sausages|Salchichas de Nerf
+itm_sausages_pl|Salchichas de Nerf
+itm_cabbages|Coles
+itm_cabbages_pl|Coles
+itm_bristle_melon|Melón de Bristle
+itm_bristle_melon_pl|Melón de Bristle
+itm_butter|Mantequlla de Bantha
+itm_butter_pl|Mantequlla de Bantha
+itm_wine|Vino Mandaloriano
+itm_wine_pl|Vino Mandaloriano
+itm_ale|Cerveza Corelliana
+itm_ale_pl|Cerveza Corelliana
+itm_spice|Especias
+itm_spice_pl|Especias
+itm_salt|Sal del mar de Bassel
+itm_salt_pl|Sal del mar de Bassel
+itm_grain|Grano
+itm_grain_pl|Grano
+itm_flour|Harina
+itm_flour_pl|Harina
+itm_iron|Durasteel
+itm_iron_pl|Durasteel
+itm_bacta_injectorInyector de Bacta
+itm_bacta_injector_pl|Inyector de Bacta
+itm_bacta_capsule|Capsula de Bacta
+itm_bacta_capsule_pl|Capsula de Bacta
+itm_binocular|Macrobinoculares
+itm_binocular_pl|Macrobinoculares
+itm_jetpack|Jetpack
+itm_jetpack_pl|Jetpack
+itm_oil|Aceite
+itm_oil_pl|Aceite
+itm_pottery|Cerámica Geonosiana
+itm_pottery_pl|Cerámica Geonosiana
+itm_linen|Seda de Lashaa
+itm_linen_pl|Seda de Lashaa
+itm_furs|Pelo de Ewok
+itm_furs_pl|Pelo de Ewok
+itm_wookiee_fur|Piel de Wookie
+itm_wookiee_fur_pl|Piel de Wookie
+itm_trandoshan_skin|Piel de Trandoshane
+itm_trandoshan_skin_pl|Piel de Trandoshane
+itm_droid_parts|Partes de Droide
+itm_droid_parts_pl|Partes de Droide
+itm_wool|Lana de Nerf
+itm_wool_pl|Lana de Nerf
+itm_velvet|Terciopelo de Naboo
+itm_velvet_pl|Terciopelo de Naboo
+itm_tools|Hydrospanners
+itm_tools_pl|Hydrospanners
+itm_siege_supply|Supplies
+itm_siege_supply_pl|Supplies
+itm_quest_wine|Wine
+itm_quest_wine_pl|Wine
+itm_quest_ale|Ale
+itm_quest_ale_pl|Ale
+itm_pilgrim_disguise|Pilgrim Disguise
+itm_pilgrim_disguise_pl|Pilgrim Disguise
+itm_pilgrim_hood|Pilgrim Hood
+itm_pilgrim_hood_pl|Pilgrim Hood
+itm_leather_gloves|Leather Gloves
+itm_leather_gloves_pl|Leather Gloves
+itm_wrapping_boots|Wrapping Boots
+itm_wrapping_boots_pl|Wrapping Boots
+itm_woolen_hose|Woolen Hose
+itm_woolen_hose_pl|Woolen Hose
+itm_blue_hose|Blue Hose
+itm_blue_hose_pl|Blue Hose
+itm_hide_boots|Hide Boots
+itm_hide_boots_pl|Hide Boots
+itm_ankle_boots|Ankle Boots
+itm_ankle_boots_pl|Ankle Boots
+itm_nomad_boots|Nomad Boots
+itm_nomad_boots_pl|Nomad Boots
+itm_mail_boots|Mail Boots
+itm_mail_boots_pl|Mail Boots
+itm_iron_greaves|Iron Greaves
+itm_iron_greaves_pl|Iron Greaves
+itm_lady_dress_ruby|Vestido de Mujer
+itm_lady_dress_ruby_pl|Vestido de Mujer
+itm_lady_dress_green|Vestido de Mujer
+itm_lady_dress_green_pl|Vestido de Mujer
+itm_lady_dress_blue|Vestido de Mujer
+itm_lady_dress_blue_pl|Vestido de Mujer
+itm_dress|Dress
+itm_dress_pl|Dress
+itm_blue_dress|Blue Dress
+itm_blue_dress_pl|Blue Dress
+itm_peasant_dress|Peasant Dress
+itm_peasant_dress_pl|Peasant Dress
+itm_woolen_dress|Woolen Dress
+itm_woolen_dress_pl|Woolen Dress
+itm_courtly_outfit|Courtly Outfit
+itm_courtly_outfit_pl|Courtly Outfit
+itm_nobleman_outfit|Nobleman Outfit
+itm_nobleman_outfit_pl|Nobleman Outfit
+itm_nomad_armor|Nomad Armor
+itm_nomad_armor_pl|Nomad Armor
+itm_leather_jacket|Leather Jacket
+itm_leather_jacket_pl|Leather Jacket
+itm_rawhide_coat|Rawhide Coat
+itm_rawhide_coat_pl|Rawhide Coat
+itm_leather_armor|Leather Armor
+itm_leather_armor_pl|Leather Armor
+itm_fur_coat|Fur Coat
+itm_fur_coat_pl|Fur Coat
+itm_shirt|Shirt
+itm_shirt_pl|Shirt
+itm_linen_tunic|Linen Túnica
+itm_linen_tunic_pl|Linen Túnica
+itm_short_tunic|Rich Túnica
+itm_short_tunic_pl|Rich Túnica
+itm_robe|Robe
+itm_robe_pl|Robe
+itm_coarse_tunic|Coarse Túnica
+itm_coarse_tunic_pl|Coarse Túnica
+itm_leather_apron|Leather Apron
+itm_leather_apron_pl|Leather Apron
+itm_tabard|Tabard
+itm_tabard_pl|Tabard
+itm_leather_vest|Leather Vest
+itm_leather_vest_pl|Leather Vest
+itm_steppe_armor|Steppe Armor
+itm_steppe_armor_pl|Steppe Armor
+itm_gambeson|Gambeson
+itm_gambeson_pl|Gambeson
+itm_blue_gambeson|Blue Gambeson
+itm_blue_gambeson_pl|Blue Gambeson
+itm_red_gambeson|Red Gambeson
+itm_red_gambeson_pl|Red Gambeson
+itm_padded_cloth|Padded Cloth
+itm_padded_cloth_pl|Padded Cloth
+itm_leather_jerkin|Leather Jerkin
+itm_leather_jerkin_pl|Leather Jerkin
+itm_padded_leather|Padded Leather
+itm_padded_leather_pl|Padded Leather
+itm_heraldic_mail_with_surcoat|Heraldic Mail with Surcoat
+itm_heraldic_mail_with_surcoat_pl|Heraldic Mail with Surcoat
+itm_heraldic_mail_with_tabard|Heraldic Mail with Tabard
+itm_heraldic_mail_with_tabard_pl|Heraldic Mail with Tabard
+itm_turret_hat_ruby|Turret Hat
+itm_turret_hat_ruby_pl|Turret Hat
+itm_turret_hat_blue|Turret Hat
+itm_turret_hat_blue_pl|Turret Hat
+itm_turret_hat_green|Barbette
+itm_turret_hat_green_pl|Barbette
+itm_head_wrappings|head wrapping
+itm_head_wrappings_pl|head wrapping
+itm_court_hat|Turret Hat
+itm_court_hat_pl|Turret Hat
+itm_wimple_a|Wimple
+itm_wimple_a_pl|Wimple
+itm_wimple_with_veil|Wimple with Veil
+itm_wimple_with_veil_pl|Wimple with Veil
+itm_straw_hat|Straw Hat
+itm_straw_hat_pl|Straw Hat
+itm_common_hood|Hood
+itm_common_hood_pl|Hood
+itm_headcloth|Headcloth
+itm_headcloth_pl|Headcloth
+itm_woolen_hood|Woolen Hood
+itm_woolen_hood_pl|Woolen Hood
+itm_fur_hat|Fur Hat
+itm_fur_hat_pl|Fur Hat
+itm_padded_coif|Padded Coif
+itm_padded_coif_pl|Padded Coif
+itm_woolen_cap|Woolen Cap
+itm_woolen_cap_pl|Woolen Cap
+itm_felt_hat|Felt Hat
+itm_felt_hat_pl|Felt Hat
+itm_leather_cap|Leather Cap
+itm_leather_cap_pl|Leather Cap
+itm_arming_cap|Arming Cap
+itm_arming_cap_pl|Arming Cap
+itm_female_hood|Lady's Hood
+itm_female_hood_pl|Lady's Hood
+itm_leather_steppe_cap_a|Leather Steppe Cap
+itm_leather_steppe_cap_a_pl|Leather Steppe Cap
+itm_leather_steppe_cap_b|Leather Steppe Cap
+itm_leather_steppe_cap_b_pl|Leather Steppe Cap
+itm_leather_steppe_cap_c|Leather Steppe Cap
+itm_leather_steppe_cap_c_pl|Leather Steppe Cap
+itm_leather_warrior_cap|Leather Warrior Cap
+itm_leather_warrior_cap_pl|Leather Warrior Cap
+itm_black_helmet|Black Helmet
+itm_black_helmet_pl|Black Helmet
+itm_wooden_stick|Wooden Stick
+itm_wooden_stick_pl|Wooden Stick
+itm_club|Club
+itm_club_pl|Club
+itm_sickle|Sickle
+itm_sickle_pl|Sickle
+itm_cleaver|Cleaver
+itm_cleaver_pl|Cleaver
+itm_knife|Knife
+itm_knife_pl|Knife
+itm_butchering_knife|Butchering Knife
+itm_butchering_knife_pl|Butchering Knife
+itm_dagger|Dagger
+itm_dagger_pl|Dagger
+itm_hatchet|Hatchet
+itm_hatchet_pl|Hatchet
+itm_pitch_fork|Pitch Fork
+itm_pitch_fork_pl|Pitch Fork
+itm_quarter_staff|Quarter Staff
+itm_quarter_staff_pl|Quarter Staff
+itm_stones|Stones
+itm_stones_pl|Stones
+itm_throwing_axes|Hachas Gamorreanas de Lanzar
+itm_throwing_axes_pl|Hachas Gamorreanas de Lanzar
+itm_torch|Torch
+itm_torch_pl|Torch
+itm_rich_outfit|Rich Outfit
+itm_rich_outfit_pl|Rich Outfit
+itm_black_hood|Black Hood
+itm_black_hood_pl|Black Hood
+itm_light_leather|Light Leather
+itm_light_leather_pl|Light Leather
+itm_light_leather_boots|Light Leather Boots
+itm_light_leather_boots_pl|Light Leather Boots
+itm_mail_and_plate|Mail and Plate
+itm_mail_and_plate_pl|Mail and Plate
+itm_light_mail_and_plate|Light Mail and Plate
+itm_light_mail_and_plate_pl|Light Mail and Plate
+itm_byzantion_helmet_a|Byzantion Helmet
+itm_byzantion_helmet_a_pl|Byzantion Helmet
+itm_magyar_helmet_a|Magyar Helmet
+itm_magyar_helmet_a_pl|Magyar Helmet
+itm_rus_helmet_a|Rus Helmet
+itm_rus_helmet_a_pl|Rus Helmet
+itm_sipahi_helmet_a|Sipahi Helmet
+itm_sipahi_helmet_a_pl|Sipahi Helmet
+itm_shahi|Shahi
+itm_shahi_pl|Shahi
+itm_rabati|Rabati
+itm_rabati_pl|Rabati
+itm_armors_begin|FLAG FOR ARMOR BEGIN
+itm_armors_begin_pl|FLAG FOR ARMOR BEGIN
+itm_black_gloves|Guantes
+itm_black_gloves_pl|Guantes
+itm_black_gloves_long|Guantes
+itm_black_gloves_long_pl|Guantes
+itm_right_hand_glove|Guantes
+itm_right_hand_glove_pl|Guantes
+itm_grey_gloves|Guantes Grises
+itm_grey_gloves_pl|Guantes Grises
+itm_darkgrey_gloves|Guantes Grises
+itm_darkgrey_gloves_pl|Guantes Grises
+itm_lady_gloves|Guantes de Mujer
+itm_lady_gloves_pl|Guantes de Mujer
+itm_mandalorian_crushgaunts|Guantes Mandalorianos
+itm_mandalorian_crushgaunts_pl|Guantes Mandalorianos
+itm_imperial_royal_guard_gloves|Guantes del Imperio
+itm_imperial_royal_guard_gloves_pl|Guantes del Imperio
+itm_imperial_stormtrooper_gloves|Guantes del Imperio
+itm_imperial_stormtrooper_gloves_pl|Guantes del Imperio
+itm_shadow_stormtrooper_gloves|Guantes del Imperio
+itm_shadow_stormtrooper_gloves_pl|Guantes del Imperio
+itm_clone_trooper_gloves_white|Guantes de Soldado Clon
+itm_clone_trooper_gloves_white_pl|Guantes de Soldado Clon
+itm_clone_trooper_gloves_green|Guantes de Soldado Clon
+itm_clone_trooper_gloves_green_pl|Guantes de Soldado Clon
+itm_clone_trooper_gloves_blue|Guantes de Soldado Clon
+itm_clone_trooper_gloves_blue_pl|Guantes de Soldado Clon
+itm_clone_trooper_gloves_red|Guantes de Soldado Clon
+itm_clone_trooper_gloves_red_pl|Guantes de Soldado Clon
+itm_clone_trooper_gloves_yellow|Guantes de Soldado Clon
+itm_clone_trooper_gloves_yellow_pl|Guantes de Soldado Clon
+itm_clone_trooper_gloves_orange|Guantes de Soldado Clon
+itm_clone_trooper_gloves_orange_pl|Guantes de Soldado Clon
+itm_grey_gloves_with_bottle|Guantes
+itm_grey_gloves_with_bottle_pl|Guantes
+itm_leather_boots|Botas de Cuero
+itm_leather_boots_pl|Botas de Cuero
+itm_leather_boots_reinforced|Botas de Cuero Reforzado
+itm_leather_boots_reinforced_pl|Botas de Cuero Reforzado
+itm_black_boots|Botas Negras
+itm_black_boots_pl|Botas Negras
+itm_black_boots_reinforced|Botas Negras Reforzadas
+itm_black_boots_reinforced_pl|Botas Negras Reforzadas
+itm_grey_boots|Botas Grises
+itm_grey_boots_pl|Botas Grises
+itm_white_boots|Botas Blancas
+itm_white_boots_pl|Botas Blancas
+itm_white_boots_reinforced|Botas Imperiales
+itm_white_boots_reinforced_pl|Botas Imperiales
+itm_imperial_royal_guard_boots|Botas Imperiales
+itm_imperial_royal_guard_boots_pl|Botas Imperiales
+itm_imperial_stormtrooper_boots|Botas de soldado Imperial
+itm_imperial_stormtrooper_boots_pl|Botas de soldado Imperial
+itm_imperial_scout_trooper_boots|Botas de soldado Imperial
+itm_imperial_scout_trooper_boots_pl|Botas de soldado Imperial
+itm_shadow_scout_trooper_boots|Botas Imperiales
+itm_shadow_scout_trooper_boots_pl|Botas Imperiales
+itm_shadow_stormtrooper_boots|Botas Imperiales
+itm_shadow_stormtrooper_boots_pl|Botas Imperiales
+itm_clone_trooper_boots|Botas de Soldado Clon
+itm_clone_trooper_boots_pl|Botas de Soldado Clon
+itm_lobot_headgear|Borg Constructo Aj^6
+itm_lobot_headgear_pl|Borg Constructo Aj^6
+itm_glasses_black|Gafas de Precisión
+itm_glasses_black_pl|Gafas de Precisión
+itm_glasses_yellow|Gafas de Precisión
+itm_glasses_yellow_pl|Gafas de Precisión
+itm_eyepiece_tactics|Soporte Táctico
+itm_eyepiece_tactics_pl|Soporte Táctico
+itm_eyepiece_leadership|Soporte de Liderazgo
+itm_eyepiece_leadership_pl|Soporte de Liderazgo
+itm_slave_neck_chain|Collar de Esclavo
+itm_slave_neck_chain_pl|Collar de Esclavo
+itm_officer_hat_white|Gorro de Oficial
+itm_officer_hat_white_pl|Gorro de Oficial
+itm_civilian_cloak_hood|Capa de ciudadano
+itm_civilian_cloak_hood_pl|Capa de ciudadano
+itm_imperial_hat_green|Gorra Imperial
+itm_imperial_hat_green_pl|Gorra Imperial
+itm_imperial_hat_black|Gorra Imperial
+itm_imperial_hat_black_pl|Gorra Imperial
+itm_imperial_hat_grey|Gorra Imperial
+itm_imperial_hat_grey_pl|Gorra Imperial
+itm_rebel_technician_helmet|Casco de Cadete Rebelde
+itm_rebel_technician_helmet_pl|Casco de Cadete Rebelde
+itm_rebel_trooper_helmet|Casco de Soldado Rebelde
+itm_rebel_trooper_helmet_pl|Casco de Soldado Rebelde
+itm_rebel_honor_guard_helmet|Casco de Guardia Rebelde
+itm_rebel_honor_guard_helmet_pl|Casco de Guardia Rebelde
+itm_transparent_helmet|Casco Transparente
+itm_transparent_helmet_pl|Casco Transparente
+itm_imperial_trooper_helmet|Casco de Soldado Imperial
+itm_imperial_trooper_helmet_pl|Casco de Soldado Imperial
+itm_imperial_gunner_helmet|Casco de Pistolero Imperial
+itm_imperial_gunner_helmet_pl|Casco de Pistolero Imperial
+itm_imperial_navy_trooper_helmet|Casco de la Armada Imperial
+itm_imperial_navy_trooper_helmet_pl|Casco de la Armada Imperial
+itm_mercenary_helmet|Casco Mercenario
+itm_mercenary_helmet_pl|Casco Mercenario
+itm_trandoshan_mask|Máscara Trandoshane
+itm_trandoshan_mask_pl|Máscara Trandoshana
+itm_trandoshan_helmet|Casco Trandoshana
+itm_trandoshan_helmet_pl|Casco Trandoshana
+itm_cap_military|Gorra
+itm_cap_military_pl|Gorra
+itm_cap_civilian_a|Gorra
+itm_cap_civilian_a_pl|Gorra
+itm_ewok_hat|Sombrero de Ewok
+itm_ewok_hat_pl|Sombrero de Ewok
+itm_rancor_keeper_hat|Sombrero de Guardia Ráncor
+itm_rancor_keeper_hat_pl|Sombrero de Guardia Ráncor
+itm_rodian_ventilator|Ventilador Rodiano
+itm_rodian_ventilator_pl|Ventilador Rodiano
+itm_rodian_ventilator_black|Ventilador Rodiano
+itm_rodian_ventilator_black_pl|Ventilador Rodiano
+itm_rodian_ventilator_red|Ventilador Rodiano
+itm_rodian_ventilator_red_pl|Ventilador Rodiano
+itm_gamorrean_helmet|Casco Gamorreano
+itm_gamorrean_helmet_pl|Casco Gamorreano
+itm_fang_helmet|Casco de Colmillo
+itm_fang_helmet_pl|Casco de Colmillo
+itm_beak_helmet|Casco de Pico
+itm_beak_helmet_pl|Casco de Pico
+itm_gas_mask|Máscara anti-Gas
+itm_gas_mask_pl|Máscara anti-Gas
+itm_mining_helmet|Casco de Minero
+itm_mining_helmet_pl|Casco de Minero
+itm_pipe_helmet|Casco de Tubería
+itm_pipe_helmet_pl|Casco de Tubería
+itm_skiff_guard_helmet|Casco de Guardia del Esquife
+itm_skiff_guard_helmet_pl|Casco de Guardia del Esquife
+itm_imperial_stormtrooper_helmet|Casco de Soldado Imperial
+itm_imperial_stormtrooper_helmet_pl|Casco de Soldado Imperial
+itm_imperial_pilot_helmet|Casco de Piloto Imperial
+itm_imperial_pilot_helmet_pl|Casco de Piloto Imperial
+itm_shadow_stormtrooper_helmet|Casco de Soldado Sombra
+itm_shadow_stormtrooper_helmet_pl|Casco de Soldado Sombra
+itm_clone_trooper_head|Cabeza de Soldado Clon
+itm_clone_trooper_head_pl|Cabeza de Soldado Clon
+itm_clone_trooper_head_scar|Cabeza de Soldado Clon
+itm_clone_trooper_head_scar_pl|Cabeza de Soldado Clon
+itm_clone_trooper_helmet_white|Casco de Soldado Clon
+itm_clone_trooper_helmet_white_pl|Casco de Soldado Clon
+itm_clone_trooper_helmet_green|Casco de Soldado Clon
+itm_clone_trooper_helmet_green_pl|Casco de Soldado Clon
+itm_clone_trooper_helmet_blue|Casco de Soldado Clon
+itm_clone_trooper_helmet_blue_pl|Casco de Soldado Clon
+itm_clone_trooper_helmet_red|Casco de Soldado Clon
+itm_clone_trooper_helmet_red_pl|Casco de Soldado Clon
+itm_clone_trooper_helmet_yellow|Casco de Soldado Clon
+itm_clone_trooper_helmet_yellow_pl|Casco de Soldado Clon
+itm_clone_trooper_helmet_orange|Casco de Soldado Clon
+itm_clone_trooper_helmet_orange_pl|Casco de Soldado Clon
+itm_clone_trooper_helmet_mand|Casco de Soldado Clon
+itm_clone_trooper_helmet_mand_pl|Casco de Soldado Clon
+itm_clone_trooper_helmet_lux|Casco de Soldado Clon
+itm_clone_trooper_helmet_lux_pl|Casco de Soldado Clon
+itm_imperial_scout_trooper_helmet|Casco de Reconocimiento Imperial
+itm_imperial_scout_trooper_helmet_pl|Casco de Reconocimiento Imperial
+itm_shadow_scout_trooper_helmet|Casco de Reconocimiento Sombra
+itm_shadow_scout_trooper_helmet_pl|Casco de Reconocimiento Sombra
+itm_republic_pilot_helmet|Casco de Piloto Rebelde
+itm_republic_pilot_helmet_pl|Casco de Piloto Rebelde
+itm_republic_commando_helmet|Casco de Comando Rebelde
+itm_republic_commando_helmet_pl|Casco de Comando Rebelde
+itm_rebel_sniper_helmet|Casco de Francotirador Rebelde
+itm_rebel_sniper_helmet_pl|Casco de Francotirador Rebelde
+itm_jedi_knight_hood|Capucha Caballero Jedi
+itm_jedi_knight_hood_pl|Capucha Caballero Jedi
+itm_jedi_knight_hood_unique|Capucha Caballero Jedi
+itm_jedi_knight_hood_unique_pl|Capucha Caballero Jedi
+itm_sith_hood|Capucha de Sith
+itm_sith_hood_pl|Capucha de Sith
+itm_sith_hood_unique|Capucha de Sith
+itm_sith_hood_unique_pl|Capucha de Sith
+itm_jedi_master_hood|Capucha de Maestro Jedi
+itm_jedi_master_hood_pl|JCapucha de Maestro Jedi
+itm_jedi_master_hood_unique|Capucha de Maestro Jedi
+itm_jedi_master_hood_unique_pl|Capucha de Maestro Jedi
+itm_jedi_knight_cloak|Capa de Caballero Jedi
+itm_jedi_knight_cloak_pl|Capa de Caballero Jedi
+itm_jedi_knight_cloak_hood|Capa de Caballero Jedi con capucha
+itm_jedi_knight_cloak_hood_pl|Capa de Caballero Jedi con capucha
+itm_jedi_master_cloak|Capa de Maestro Jedi
+itm_jedi_master_cloak_pl|Capa de Maestro Jedi
+itm_jedi_master_cloak_hood|Capa de Maestro Jedi con capucha
+itm_jedi_master_cloak_hood_pl|Capa de Maestro Jedi con capucha
+itm_sith_cloak|Capa Sith
+itm_sith_cloak_pl|Capa Sith
+itm_sith_cloak_hood|Capa Sith con capucha
+itm_sith_cloak_hood_pl|Capa Sith con capucha
+itm_sith_cloak_mask|Capa Sith con Máscara
+itm_sith_cloak_mask_pl|Capa Sith con Máscara
+itm_imperial_royal_guard_helmet|Casco de Guardia Imperial
+itm_imperial_royal_guard_helmet_pl|Casco de Guardia Imperial
+itm_shadow_guard_helmet|Casco de Soldado Imperial de las Sombras
+itm_shadow_guard_helmet_pl|Casco de Soldado Imperial de las Sombras
+itm_desert_hat1|Sombrero del Desierto
+itm_desert_hat1_pl|Sombrero del Desierto
+itm_desert_hat2|Sombrero del Desierto
+itm_desert_hat2_pl|Sombrero del Desierto
+itm_desert_hat3|Sombrero del Desierto
+itm_desert_hat3_pl|Sombrero del Desierto
+itm_urban_hat1|Sombrero Urbano
+itm_urban_hat1_pl|Sombrero Urbano
+itm_urban_hat2|Sombrero Urbano
+itm_urban_hat2_pl|Sombrero Urbano
+itm_urban_hat3|Sombrero Urbano
+itm_urban_hat3_pl|Sombrero Urbano
+itm_camouflage_hat1|Sombrero de Camuflaje
+itm_camouflage_hat1_pl|Sombrero de Camuflaje
+itm_camouflage_hat2|Sombrero de Camuflaje
+itm_camouflage_hat2_pl|Sombrero de Camuflaje
+itm_camouflage_hat3|Sombrero de Camuflaje
+itm_camouflage_hat3_pl|Sombrero de Camuflaje
+itm_dress_yellow|Vestido de Mujer
+itm_dress_yellow_pl|Vestido de Mujer
+itm_dress_red|Vestido de Mujer
+itm_dress_red_pl|Vestido de Mujer
+itm_dress_green|Vestido de Mujer
+itm_dress_green_pl|Vestido de Mujer
+itm_dress_blue|Vestido de Mujer
+itm_dress_blue_pl|Vestido de Mujer
+itm_tunic_green|Túnica
+itm_tunic_green_pl|Túnica
+itm_tunic_white|Túnica
+itm_tunic_white_pl|Túnica
+itm_tunic_blue|Túnica
+itm_tunic_blue_pl|Túnica
+itm_tunic_red|Túnica
+itm_tunic_red_pl|Túnica
+itm_tunic_yellow|Túnica
+itm_tunic_yellow_pl|Túnica
+itm_officer_uniform_white|Uniforme de Oficial
+itm_officer_uniform_white_pl|Uniforme de Oficial
+itm_imperial_uniform_black_plain|Uniforme Imperial
+itm_imperial_uniform_black_plain_pl|Uniforme Imperial
+itm_female_outfit_femconblack|Vestimenta de Mujer
+itm_female_outfit_femconblack_pl|Vestimenta de Mujer
+itm_female_outfit_femconbrowngreen|Vestimenta de Mujer
+itm_female_outfit_femconbrowngreen_pl|Vestimenta de Mujer
+itm_female_outfit_femcongrey|Vestimenta de Mujer
+itm_female_outfit_femcongrey_pl|Vestimenta de Mujer
+itm_female_outfit_femconorange|Vestimenta de Mujer
+itm_female_outfit_femconorange_pl|Vestimenta de Mujer
+itm_female_outfit_femconwhite|Vestimenta de Mujer
+itm_female_outfit_femconwhite_pl|Vestimenta de Mujer
+itm_female_outfit_femconwhitebrown|Vestimenta de Mujer
+itm_female_outfit_femconwhitebrown_pl|Vestimenta de Mujer
+itm_outfit_tan|Mono
+itm_outfit_tan_pl|Mono
+itm_outfit_grey|Mono
+itm_outfit_grey_pl|Mono
+itm_outfit_black|Mono
+itm_outfit_black_pl|Mono
+itm_outfit_green|Mono
+itm_outfit_green_pl|Mono
+itm_vest_open_a|Chaleco Abierto
+itm_vest_open_a_pl|Chaleco Abierto
+itm_vest_open_b|Chaleco Abierto
+itm_vest_open_b_pl|Chaleco Abierto
+itm_vest_closed_a|Chaleco Cerrado
+itm_vest_closed_a_pl|Chaleco Cerrado
+itm_vest_closed_b|Chaleco Cerrado
+itm_vest_closed_b_pl|Chaleco Cerrado
+itm_vest_closed_c|Chaleco Cerrado
+itm_vest_closed_c_pl|Chaleco Cerrado
+itm_shirt_blue|Camisa
+itm_shirt_blue_pl|Camisa
+itm_shirt_green|Camisa
+itm_shirt_green_pl|Camisa
+itm_jacket_open_a|Chaqueta Abierta
+itm_jacket_open_a_pl|Chaqueta Abierta
+itm_jacket_open_b|Chaqueta Abierta
+itm_jacket_open_b_pl|Chaqueta Abierta
+itm_jacket_open_c|Chaqueta Abierta
+itm_jacket_open_c_pl|Chaqueta Abierta
+itm_female_jacket_a|Chaqueta de Mujer
+itm_female_jacket_a_pl|Chaqueta de Mujer
+itm_female_jacket_b|Chaqueta de Mujer
+itm_female_jacket_b_pl|Chaqueta de Mujer
+itm_female_jacket_c|Chaqueta de Mujer
+itm_female_jacket_c_pl|Chaqueta de Mujer
+itm_jacket_closed_a|Chaqueta Cerrada
+itm_jacket_closed_a_pl|Chaqueta Cerrada
+itm_jacket_closed_b|Chaqueta Cerrada
+itm_jacket_closed_b_pl|Chaqueta Cerrada
+itm_jacket_closed_c|Chaqueta Cerrada
+itm_jacket_closed_c_pl|Chaqueta Cerrada
+itm_klatooinian_armor|Armadura Klatooiniana
+itm_klatooinian_armor_pl|Armadura Klatooiniana
+itm_scavenger_armor|Armadura de Carroñero
+itm_scavenger_armor_pl|Armadura de Carroñero
+itm_mercenary_armor|Armadura de Mercenario
+itm_mercenary_armor_pl|Armadura de Mercenario
+itm_crime_lord_armor|Armadura de Señor del Crimen
+itm_crime_lord_armor_pl|Armadura de Señor del Crimen
+itm_trandoshan_flight_suit|Traje de vuelo Trandoshano
+itm_trandoshan_flight_suit_pl|Traje de vuelo Trandoshano
+itm_civilian_cloak|Capa de ciudadano
+itm_civilian_cloak_pl|Capa de ciudadano
+itm_white_cloak|Capa Blanca
+itm_white_cloak_pl|Capa Blanca
+itm_padded_armor_white|Armadura Acolchada
+itm_padded_armor_white_pl|Armadura Acolchada
+itm_padded_armor_red|Armadura Acolchada
+itm_padded_armor_red_pl|Armadura Acolchada
+itm_padded_armor_blue|Armadura Acolchada
+itm_padded_armor_blue_pl|Armadura Acolchada
+itm_armor_blue|Armadura
+itm_armor_blue_pl|Armadura
+itm_armor_brown|Armadura
+itm_armor_brown_pl|Armadura
+itm_armor_red|Armadura
+itm_armor_red_pl|Armadura
+itm_armor_white|Armadura
+itm_armor_white_pl|Armadura
+itm_pirate_armor|Armadura
+itm_pirate_armor_pl|Armadura
+itm_imperial_uniform_black|Uniforme de Oficial Imperial
+itm_imperial_uniform_black_pl|Uniforme de Oficial Imperial
+itm_imperial_uniform_green|Uniforme de Oficial Imperial
+itm_imperial_uniform_green_pl|Uniforme de Oficial Imperial
+itm_rebel_uniform_tanblue|Uniforme de Comandante Rebelde
+itm_rebel_uniform_tanblue_pl|Uniforme de Comandante Rebelde
+itm_rebel_uniform_green|Uniforme de Oficial Rebelde
+itm_rebel_uniform_green_pl|Uniforme de Oficial Rebelde
+itm_imperial_trooper_armor|Armadura de Soldado Imperial
+itm_imperial_trooper_armor_pl|Armadura de Soldado Imperial
+itm_imperial_navy_trooper_armor|Armadura de Soldado de la Armada
+itm_imperial_navy_trooper_armor_pl|Armadura de Soldado de la Armada
+itm_imperial_trooper_armor|Armadura de Soldado Imperial
+itm_imperial_trooper_armor_pl|Armadura de Soldado Imperial
+itm_rebel_technician_armor|Armadura de Cadete Rebelde
+itm_rebel_technician_armor_pl|Armadura de Cadete Rebelde
+itm_republic_trooper_armor|Armadura de Soldado Rebelde
+itm_republic_trooper_armor_pl|Armadura de Soldado Rebelde
+itm_jedi_initiate_robe|Vestimenta de Iniciado
+itm_jedi_initiate_robe_pl|Vestimenta de Iniciado
+itm_jedi_padawan_robe|Vestimenta de Padawan
+itm_jedi_padawan_robe_pl|Vestimenta de Padawan
+itm_sith_acolyte_outfit|Vestimenta de Acólito Sith
+itm_sith_acolyte_outfit_pl|Vestimenta de Acólito Sith
+itm_sith_apprentice_outfit|Vestimenta de Aprendiz Sith
+itm_sith_apprentice_outfit_pl|Vestimenta de Aprendiz Sith
+itm_imperial_scout_trooper_armor|Armadura de Reconocimiento Imperial
+itm_imperial_scout_trooper_armor_pl|Armadura de Reconocimiento Imperial
+itm_shadow_scout_trooper_armor|Armadura de Reconocimiento de las Sombras
+itm_shadow_scout_trooper_armor_pl|Armadura de Reconocimiento de las Sombras
+itm_republic_pilot_armor|Armadura de Piloto Rebelde
+itm_republic_pilot_armor_pl|Armadura de Piloto Rebelde
+itm_republic_commando_armor|Armadura de Comando Rebelde
+itm_republic_commando_armor_pl|Armadura de Comando Rebelde
+itm_rebel_sniper_armor|Armadura de Francotirador Rebelde
+itm_rebel_sniper_armor_pl|Armadura de Francotirador Rebelde
+itm_imperial_stormtrooper_armor|Armadura de Soldado Imperial
+itm_imperial_stormtrooper_armor_pl|Armadura de Soldado Imperial
+itm_shadow_stormtrooper_armor|Armadura de Soldado de las Sombras
+itm_shadow_stormtrooper_armor_pl|Armadura de Soldado de las Sombras
+itm_rebel_honor_guard_armor|Armadura de Guardia Rebelde
+itm_rebel_honor_guard_armor_pl|Armadura de Guardia Rebelde
+itm_clone_trooper_armor_white|Armadura de Soldado Clon
+itm_clone_trooper_armor_white_pl|Armadura de Soldado Clon
+itm_clone_trooper_armor_green|Armadura de Soldado Clon
+itm_clone_trooper_armor_green_pl|Armadura de Soldado Clon
+itm_clone_trooper_armor_blue|Armadura de Soldado Clon
+itm_clone_trooper_armor_blue_pl|Armadura de Soldado Clon
+itm_clone_trooper_armor_red|Armadura de Soldado Clon
+itm_clone_trooper_armor_red_pl|Armadura de Soldado Clon
+itm_clone_trooper_armor_yellow|Armadura de Soldado Clon
+itm_clone_trooper_armor_yellow_pl|Armadura de Soldado Clon
+itm_clone_trooper_armor_orange|Armadura de Soldado Clon
+itm_clone_trooper_armor_orange_pl|Armadura de Soldado Clon
+itm_clone_trooper_armor_mand|Armadura de Soldado Clon
+itm_clone_trooper_armor_mand_pl|Armadura de Soldado Clon
+itm_clone_trooper_armor_lux|Armadura de Soldado Clon
+itm_clone_trooper_armor_lux_pl|Armadura de Soldado Clon
+itm_arc_trooper_armor_green|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_green_pl|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_blue|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_blue_pl|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_red|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_red_pl|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_yellow|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_yellow_pl|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_orange|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_orange_pl|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_mand|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_mand_pl|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_lux|Armadura de Soldado Clon ARC
+itm_arc_trooper_armor_lux_pl|Armadura de Soldado Clon ARC
+itm_skiff_guard_armor_brown|Armadura de Guardia del Esquife
+itm_skiff_guard_armor_brown_pl|Armadura de Guardia del Esquife
+itm_skiff_guard_armor_grey|Armadura de Guardia del Esquife
+itm_skiff_guard_armor_grey_pl|Armadura de Guardia del Esquife
+itm_skiff_guard_armor_white|Armadura de Guardia del Esquife
+itm_skiff_guard_armor_white_pl|Armadura de Guardia del Esquife
+itm_hutt_palace_guard_armor|Armadura de Guardia del Palacio
+itm_hutt_palace_guard_armor_pl|Armadura de Guardia del Palacio
+itm_jedi_knight_robe|Túnica de Caballero Jedi
+itm_jedi_knight_robe_pl|Túnica de Caballero Jedi
+itm_jedi_knight_robe_unique|Túnica de Caballero Jedi
+itm_jedi_knight_robe_unique_pl|Túnica de Caballero Jedi
+itm_sith_knight_robe|Túnica de Caballero Sith
+itm_sith_knight_robe_pl|Túnica de Caballero Sith
+itm_sith_knight_robe_unique|Túnica de Caballero Sith
+itm_sith_knight_robe_unique_pl|Túnica de Caballero Sith
+itm_imperial_royal_guard_robe|Túnica de Guardia Imperial
+itm_imperial_royal_guard_robe_pl|Túnica de Guardia Imperial
+itm_shadow_guard_robe|Túnica de Guardia de las Sombras
+itm_shadow_guard_robe_pl|Túnica de Guardia de las Sombras
+itm_imperial_stormtrooper_armor_officer|Armadura de Oficial Imperial
+itm_imperial_stormtrooper_armor_officer_pl|Armadura de Oficial Imperial
+itm_sw_desert_armor|Armadura Pesada del Desierto
+itm_sw_desert_armor_pl|Armadura Pesada del Desierto
+itm_sw_urban_armor|Armadura Pesada Urbana
+itm_sw_urban_armor_pl|Armadura Pesada Urbana
+itm_sw_sniper_armor|Armadura de Francotirador
+itm_sw_sniper_armor_pl|Armadura de Francotirador
+itm_jedi_robe_a|Túnica Jedi
+itm_jedi_robe_a_pl|Túnica Jedi
+itm_jedi_robe_a_unique|Túnica Jedi
+itm_jedi_robe_a_unique_pl|Túnica Jedi
+itm_jedi_robe_b|Túnica Sith
+itm_jedi_robe_b_pl|Túnica Sith
+itm_jedi_robe_c|Túnica Jedi
+itm_jedi_robe_c_pl|Túnica Jedi
+itm_jedi_robe_d|Túnica Jedi
+itm_jedi_robe_d_pl|Túnica Jedi
+itm_jedi_robe_d_unique|Túnica Jedi
+itm_jedi_robe_d_unique_pl|Túnica Jedi
+itm_jedi_robe_e|Túnica Jedi
+itm_jedi_robe_e_pl|Túnica Jedi
+itm_jedi_robe_e_unique|Túnica Jedi
+itm_jedi_robe_e_unique_pl|Túnica Jedi
+itm_jedi_robe_f|Túnica Jedi
+itm_jedi_robe_f_pl|Túnica Jedi
+itm_jedi_robe_f_unique|Túnica Jedi
+itm_jedi_robe_f_unique_pl|Túnica Jedi
+itm_jedi_master_robe|Túnica Jedi
+itm_jedi_master_robe_pl|Túnica Jedi
+itm_jedi_master_robe_unique|Túnica Jedi
+itm_jedi_master_robe_unique_pl|Túnica Jedi
+itm_sith_marauder_robe|Túnica de Merodeador Sith
+itm_sith_marauder_robe_pl|Túnica de Merodeador Sith
+itm_sith_marauder_robe_unique|Túnica de Merodeador Sith
+itm_sith_marauder_robe_unique_pl|Túnica de Merodeador Sith
+itm_sith_master_robe|Túnica de Maestro Sith
+itm_sith_master_robe_pl|Túnica de Maestro Sith
+itm_sith_master_robe_unique|Túnica de Maestro Sith
+itm_sith_master_robe_unique_pl|Túnica de Maestro Sith
+itm_guard_armor|Armadura de Guardia
+itm_guard_armor_pl|Armadura de Guardia
+itm_guard_armor_red|Armadura de Guardia
+itm_guard_armor_red_pl|Armadura de Guardia
+itm_blast_armor_black|Armadura de Onda de Choque
+itm_blast_armor_black_pl|Armadura de Onda de Choque
+itm_blast_armor_red|Armadura de Onda de Choque
+itm_blast_armor_red_pl|Armadura de Onda de Choque
+itm_blast_armor_grey|Armadura de Onda de Choque
+itm_blast_armor_grey_pl|Armadura de Onda de Choque
+itm_blast_armor_bluegrey|Armadura de Onda de Choque
+itm_blast_armor_bluegrey_pl|Armadura de Onda de Choque
+itm_ubese_armor|Armadura Ubese
+itm_ubese_armor_pl|Armadura Ubese
+itm_wookiee_armor1|Armadura Wookie
+itm_wookiee_armor1_pl|Armadura Wookie
+itm_wookiee_armor1_merch|Armadura Wookie
+itm_wookiee_armor1_merch_pl|Armadura Wookie
+itm_wookiee_armor2|Armadura Wookie
+itm_wookiee_armor2_pl|Armadura Wookie
+itm_wookiee_armor2_merch|Armadura Wookie
+itm_wookiee_armor2_merch_pl|Armadura Wookie
+itm_wookiee_hunter_armor|Armadura de Cazador Wookie
+itm_wookiee_hunter_armor_pl|Armadura de Cazador Wookie
+itm_wookiee_hunter_helmet|Casco de Cazador Wookie
+itm_wookiee_hunter_helmet_pl|Casco de Cazador Wookie
+itm_wookiee_female_head|Cabeza de Hembra Wookiee
+itm_wookiee_female_head_pl|Cabeza de Hembra Wookiee
+itm_wookiee_female_body|Cuerpo de Hembra Wookiee
+itm_wookiee_female_body_pl|Cuerpo de Hembra Wookiee
+itm_wookiee_female_hands|Manos de Hembra Wookiee
+itm_wookiee_female_hands_pl|Manos de Hembra Wookiee
+itm_wookiee_female_feet|Pies de Hembra Wookiee
+itm_wookiee_female_feet_pl|Pies de Hembra Wookiee
+itm_r2series_blue|Serie-R2 Azul
+itm_r2series_blue_pl|Serie-R2 Azul
+itm_r2series_green|Serie-R2 Verde
+itm_r2series_green_pl|Serie-R2 Verde
+itm_r2series_orange|Serie-R2 Naranja
+itm_r2series_orange_pl|Serie-R2 Naranja
+itm_r2series_purple|Serie-R2 Morado
+itm_r2series_purple_pl|Serie-R2 Morado
+itm_r2series_attack|Serie-R2 Sin Ataque
+itm_r2series_attack_pl|Serie-R2 Sin Ataque
+itm_mse6_armor|Cuepro de Droide Serie MSE
+itm_mse6_armor_pl|Cuepro de Droide Serie MSE
+itm_mse6_attack|Droide Serie MSE Sin Ataque
+itm_mse6_attack_pl|Droide Serie MSE Sin Ataque
+itm_lin_droid_armor|Cuerpo de Droide LIN
+itm_lin_droid_armor_pl|Cuerpo de Droide LIN
+itm_lin_droid_armor_w_arm|Cuerpo de Droide LIN
+itm_lin_droid_armor_w_arm_pl|Cuerpo de Droide LIN
+itm_lin_droid_attack|Cuerpo de Droide LIN
+itm_lin_droid_attack_pl|Cuerpo de Droide LIN
+itm_c3po_blue_head|Cabeza de Serie 3PO
+itm_c3po_blue_head_pl|Cabeza de Serie 3PO
+itm_c3po_blue_hands|Manos de Serie 3PO
+itm_c3po_blue_hands_pl|Manos de Serie 3PO
+itm_c3po_blue_body|Cuerpo de Serie 3PO
+itm_c3po_blue_body_pl|Cuerpo de Serie 3PO
+itm_c3po_blue_feet|Pies de Serie 3PO
+itm_c3po_blue_feet_pl|Pies de Serie 3PO
+itm_c3po_gold_head|Cabeza de Serie 3PO
+itm_c3po_gold_head_pl|Cabeza de Serie 3PO
+itm_c3po_gold_hands|Manos de Serie 3PO
+itm_c3po_gold_hands_pl|Manos de Serie 3PO
+itm_c3po_gold_body|Cuerpo de Serie 3PO
+itm_c3po_gold_body_pl|Cuepor de Serie 3PO
+itm_c3po_gold_feet|Pies de Serie 3PO
+itm_c3po_gold_feet_pl|Pies de Serie 3PO
+itm_c3po_grey_head|Cabeza de Serie 3PO
+itm_c3po_grey_head_pl|Cabeza de Serie 3PO
+itm_c3po_grey_hands|Manos de Serie 3PO
+itm_c3po_grey_hands_pl|Manos de Serie 3PO
+itm_c3po_grey_body|Cuerpo de Serie 3PO
+itm_c3po_grey_body_pl|Cuerpo de Serie 3PO
+itm_c3po_grey_feet|Pies de Serie 3PO
+itm_c3po_grey_feet_pl|Pies de Serie 3PO
+itm_c3po_red_head|Cabeza de Serie 3PO
+itm_c3po_red_head_pl|Cabeza de Serie 3PO
+itm_c3po_red_hands|Manos de Serie 3PO
+itm_c3po_red_hands_pl|Manos de Serie 3PO
+itm_c3po_red_body|Cuerpo de Serie 3PO
+itm_c3po_red_body_pl|Cuerpo de Serie 3PO
+itm_c3po_red_feet|Pies de Serie 3PO
+itm_c3po_red_feet_pl|Pies de Serie 3PO
+itm_3poseries_gold|Serie 3PO Dorada
+itm_3poseries_gold_pl|Serie 3PO Dorada
+itm_3poseries_blue|Serie 3PO Azul
+itm_3poseries_blue_pl|Serie 3PO Azul
+itm_3poseries_red|Serie 3PO Roja
+itm_3poseries_red_pl|Serie 3PO Roja
+itm_3poseries_grey|Serie 3PO Gris
+itm_3poseries_grey_pl|Serie 3PO Gris
+itm_3poseries_attack|Serie 3PO de Ataque
+itm_3poseries_attack_pl|Serie 3PO de Ataque
+itm_b1series_body|Cuerpo de Droide de Batalla Serie B1
+itm_b1series_body_pl|Cuerpo de Droide de Batalla Serie B1
+itm_b1series_attack|Droide de Batalla Serie B1 de Ataque
+itm_b1series_attack_pl|Cuerpo de Droide de Batalla de Ataque
+itm_b2series_body|Cuerpo de Droide de Batalla Serie B2
+itm_b2series_body_pl|Cuerpo de Droide de Batalla Serie B2
+itm_b2series_attack|B2-Series Battle Droid Attack
+itm_b2series_attack_pl|B2-Series Battle Droid Attack
+itm_b2series_blaster|B2-Series Battle Droid Blaster
+itm_b2series_blaster_pl|B2-Series Battle Droid Blaster
+itm_battle_droid_head|Transparent Head (for Battle Droids)
+itm_battle_droid_head_pl|Transparent Head (for Battle Droids)
+itm_battle_droid_hands|Transparent Hands (for Battle Droids)
+itm_battle_droid_hands_pl|Transparent Hands (for Battle Droids)
+itm_battle_droid_feet|Transparent Feet (for Battle Droids)
+itm_battle_droid_feet_pl|Transparent Feet (for Battle Droids)
+itm_ig88_head|Cabeza de IG-Series
+itm_ig88_head_pl|Cabeza de IG-Series
+itm_ig88_hands|Manos de IG-Series
+itm_ig88_hands_pl|Manos de IG-Series
+itm_ig88_body|Cuerpo de IG-Series
+itm_ig88_body_pl|Cuerpo de IG-Series
+itm_ig88_feet|Pies de IG-Series
+itm_ig88_feet_pl|Pies de IG-Series
+itm_ig88_attack| 
+itm_ig88_attack_pl| 
+itm_ig88_e11_shield|Escudo de IG-88
+itm_ig88_e11_shield_pl|Escudo de IG-88
+itm_ig88_dlt20a|DLT-20A de IG-88
+itm_ig88_dlt20a_pl|DLT-20A de IG-88
+itm_4lom_head|Cabeza de LOM-Series
+itm_4lom_head_pl|Cabeza de LOM-Series
+itm_hk_head|Cabeza de HK-Series
+itm_hk_head_pl|Cabeza de HK-Series
+itm_hk_hands|Manos de HK-Series 
+itm_hk_hands_pl|Manos de HK-Series
+itm_hk_body|Cuerpo de HK-Series
+itm_hk_body_pl|Cuerpo de HK-Series
+itm_hk_feet|Pies de HK-Series
+itm_hk_feet_pl|Pies de HK-Series
+itm_hk_attack| 
+itm_hk_attack_pl| 
+itm_mandalorian_tunic|Túnica Mandaloriana
+itm_mandalorian_tunic_pl|Túnica Mandaloriana
+itm_mandalorian_soldier_helmet|Casco Mandaloniano
+itm_mandalorian_soldier_helmet_pl|Casco Mandaloniano
+itm_mandalorian_soldier_armor|Armadura Mandaloriana
+itm_mandalorian_soldier_armor_pl|Armadura Mandaloriana
+itm_mandalorian_soldier_boots|Botas Mandalorianas
+itm_mandalorian_soldier_boots_pl|Botas Mandalorianas
+itm_mandalorian_commando_helmet|Casco Mandaloniano
+itm_mandalorian_commando_helmet_pl|Casco Mandaloniano
+itm_mandalorian_commando_armor|Armadura Mandaloriana
+itm_mandalorian_commando_armor_pl|Armadura Mandaloriana
+itm_mandalorian_commando_boots|Botas Mandalorianas
+itm_mandalorian_commando_boots_pl|Botas Mandalorianas
+itm_mandalorian_sniper_helmet|Casco Mandaloniano
+itm_mandalorian_sniper_helmet_pl|Casco Mandaloniano
+itm_mandalorian_sniper_armor|Armadura Mandaloriana
+itm_mandalorian_sniper_armor_pl|Armadura Mandaloriana
+itm_mandalorian_sniper_boots|Botas Mandalorianas
+itm_mandalorian_sniper_boots_pl|Botas Mandalorianas
+itm_mandalorian_crusader_helmet|Casco Mandaloniano
+itm_mandalorian_crusader_helmet_pl|Casco Mandaloniano
+itm_mandalorian_neocrusader_helmet|Casco Mandaloniano
+itm_mandalorian_neocrusader_helmet_pl|Casco Mandaloniano
+itm_mandalorian_crusader_armor|Armadura Mandaloriana
+itm_mandalorian_crusader_armor_pl|Armadura Mandaloriana
+itm_mandalorian_crusader_boots|Botas Mandalorianas
+itm_mandalorian_crusader_boots_pl|Botas Mandalorianas
+itm_mandalorian_crusader_set_end|Botas Mandalorianas
+itm_mandalorian_crusader_set_end_pl|Botas Mandalorianas
+itm_mandalorian_deadeye_helmet|Casco Mandaloniano
+itm_mandalorian_deadeye_helmet_pl|Casco Mandaloniano
+itm_mandalorian_deadeye_armor|Armadura Mandaloriana
+itm_mandalorian_deadeye_armor_pl|Armadura Mandaloriana
+itm_mandalorian_deadeye_boots|Botas Mandalorianas
+itm_mandalorian_deadeye_boots_pl|Botas Mandalorianas
+itm_mandalorian_deadeye_set_end|Botas Mandalorianas
+itm_mandalorian_deadeye_set_end_pl|Botas Mandalorianas
+itm_mandalorian_beskar_helmet|Casco Mandaloniano
+itm_mandalorian_beskar_helmet_pl|Casco Mandaloniano
+itm_mandalorian_beskar_armor|Armadura Mandaloriana
+itm_mandalorian_beskar_armor_pl|Armadura Mandaloriana
+itm_mandalorian_beskar_boots|Botas Mandalorianas
+itm_mandalorian_beskar_boots_pl|Botas Mandalorianas
+itm_defiler_helmet|Casco de Profanador
+itm_defiler_helmet_pl|Casco de Profanador
+itm_defiler_armor|Armadura de Profanador
+itm_defiler_armor_pl|Armadura de Profanador
+itm_defiler_boots|Botas de Profanador
+itm_defiler_boots_pl|Botas de Profanador
+itm_black_sun_helmet|Casco del Sol Negro
+itm_black_sun_helmet_pl|Casco del Sol Negro
+itm_black_sun_armor|Armadura del Sol Negro
+itm_black_sun_armor_pl|Armadura del Sol Negro
+itm_gamorrean_armor|Armadura Gamorreana
+itm_gamorrean_armor_pl|Armadura Gamorreana
+itm_gamorrean_armor_merch|Armadura Gamorreana
+itm_gamorrean_armor_merch_pl|Armadura Gamorreana
+itm_moncal_armor|Armadura Mon Calamari
+itm_moncal_armor_pl|Armadura Mon Calamari
+itm_moncal_armor_2|Armadura Mon Calamari
+itm_moncal_armor_2_pl|Armadura Mon Calamari
+itm_moncal_boots|Botas Mon Calamari
+itm_moncal_boots_pl|Botas Mon Calamari
+itm_moncal_helmet|Casco Mon Calamari
+itm_moncal_helmet_pl|Casco Mon Calamari
+itm_rodian_head|Cabeza de Rodiano
+itm_rodian_head_pl|Cabeza de Rodiano
+itm_twilek_armor|Armadura Twi'lek
+itm_twilek_armor_pl|Armadura Twi'lek
+itm_jawa_hood|Cabeza de Jawa
+itm_jawa_hood_pl|Cabeza de Jawa
+itm_jawa_robe|Túnica de Jawa
+itm_jawa_robe_pl|Túnica de Jawa
+itm_jawa_boots|Botas de Jawa
+itm_jawa_boots_pl|Botas de Jawa
+itm_tusken_helmet|Cobertura Facial Tusken
+itm_tusken_helmet_pl|Cobertura Facial Tusken
+itm_tusken_armor|Armadura Tusken
+itm_tusken_armor_pl|Armadura Tusken
+itm_trandoshan_armor|Armadura Trandoshana
+itm_trandoshan_armor_pl|Armadura Trandoshana
+itm_geonosian_armor|Armadura Geonosiana
+itm_geonosian_armor_pl|Armadura Geonosiana
+itm_geonosian_armor_merch|Armadura Geonosiana
+itm_geonosian_armor_merch_pl|Armadura Geonosiana
+itm_armors_end|FLAG FOR ARMOR END
+itm_armors_end_pl|FLAG FOR ARMOR END
+itm_lightsaber_green_arena|Sable de Luz
+itm_lightsaber_green_arena_pl|Sable de Luz
+itm_lightsaber_blue_arena|Sable de Luz
+itm_lightsaber_blue_arena_pl|Sable de Luz
+itm_lightsaber_yellow_arena|Sable de Luz
+itm_lightsaber_yellow_arena_pl|Sable de Luz
+itm_lightsaber_red_arena|Sable de Luz
+itm_lightsaber_red_arena_pl|Sable de Luz
+itm_weapons_begin|FLAG FOR WEAPONS BEGIN
+itm_weapons_begin_pl|FLAG FOR WEAPONS BEGIN
+itm_lightsaber_green|Sable de Luz
+itm_lightsaber_green_pl|Sable de Luz
+itm_lightsaber_blue|Sable de Luz
+itm_lightsaber_blue_pl|Sable de Luz
+itm_lightsaber_orange|Sable de Luz
+itm_lightsaber_orange_pl|Sable de Luz
+itm_lightsaber_purple|Sable de Luz
+itm_lightsaber_purple_pl|Sable de Luz
+itm_lightsaber_yellow|Sable de Luz
+itm_lightsaber_yellow_pl|Sable de Luz
+itm_lightsaber_red|Sable de Luz
+itm_lightsaber_red_pl|Sable de Luz
+itm_lightsaber_green_reverse|Sable de Luz Invertido
+itm_lightsaber_green_reverse_pl|Sable de Luz Invertido
+itm_lightsaber_blue_reverse|Sable de Luz Invertido
+itm_lightsaber_blue_reverse_pl|Sable de Luz Invertido
+itm_lightsaber_orange_reverse|Sable de Luz Invertido
+itm_lightsaber_orange_reverse_pl|Sable de Luz Invertido
+itm_lightsaber_purple_reverse|Sable de Luz Invertido
+itm_lightsaber_purple_reverse_pl|Sable de Luz Invertido
+itm_lightsaber_yellow_reverse|Sable de Luz Invertido
+itm_lightsaber_yellow_reverse_pl|Sable de Luz Invertido
+itm_lightsaber_red_reverse|Sable de Luz Invertido
+itm_lightsaber_red_reverse_pl|Sable de Luz Invertido
+itm_lightsaber_blue_double|Sable de Luz Doble
+itm_lightsaber_blue_double_pl|Sable de Luz Doble
+itm_lightsaber_green_double|Sable de Luz Doble
+itm_lightsaber_green_double_pl|Sable de Luz Doble
+itm_lightsaber_orange_double|Sable de Luz Doble
+itm_lightsaber_orange_double_pl|Sable de Luz Doble
+itm_lightsaber_purple_double|Sable de Luz Doble
+itm_lightsaber_purple_double_pl|Sable de Luz Doble
+itm_lightsaber_red_double|Sable de Luz Doble
+itm_lightsaber_red_double_pl|Sable de Luz Doble
+itm_lightsaber_yellow_double|Sable de Luz Doble
+itm_lightsaber_yellow_double_pl|Sable de Luz Doble
+itm_lightsaber_green_2h|Sable de Luz a dos Manos
+itm_lightsaber_green_2h_pl|Sable de Luz a dos Manos
+itm_lightsaber_blue_2h|Sable de Luz a dos Manos
+itm_lightsaber_blue_2h_pl|Sable de Luz a dos Manos
+itm_lightsaber_orange_2h|Sable de Luz a dos Manos
+itm_lightsaber_orange_2h_pl|Sable de Luz a dos Manos
+itm_lightsaber_purple_2h|Sable de Luz a dos Manos
+itm_lightsaber_purple_2h_pl|Sable de Luz a dos Manos
+itm_lightsaber_yellow_2h|Sable de Luz a dos Manos
+itm_lightsaber_yellow_2h_pl|Sable de Luz a dos Manos
+itm_lightsaber_red_2h|Sable de Luz a dos Manos
+itm_lightsaber_red_2h_pl|Sable de Luz a dos Manos
+itm_lightsaber_green_1h|Sable de Luz
+itm_lightsaber_green_1h_pl|Sable de Luz
+itm_lightsaber_blue_1h|Sable de Luz
+itm_lightsaber_blue_1h_pl|Sable de Luz
+itm_lightsaber_orange_1h|Sable de Luz
+itm_lightsaber_orange_1h_pl|Sable de Luz
+itm_lightsaber_purple_1h|Sable de Luz
+itm_lightsaber_purple_1h_pl|Sable de Luz
+itm_lightsaber_yellow_1h|Sable de Luz
+itm_lightsaber_yellow_1h_pl|Sable de Luz
+itm_lightsaber_red_1h|Sable de Luz
+itm_lightsaber_red_1h_pl|Sable de Luz
+itm_lightsaber_green_pike|Pica Jedi
+itm_lightsaber_green_pike_pl|Pica Jedi
+itm_lightsaber_blue_pike|Pica Jedi
+itm_lightsaber_blue_pike_pl|Pica Jedi
+itm_lightsaber_orange_pike|Pica Jedi
+itm_lightsaber_orange_pike_pl|Pica Jedi
+itm_lightsaber_purple_pike|Pica Jedi
+itm_lightsaber_purple_pike_pl|Pica Jedi
+itm_lightsaber_yellow_pike|Pica Jedi
+itm_lightsaber_yellow_pike_pl|Pica Jedi
+itm_lightsaber_red_pike|Pica Jedi
+itm_lightsaber_red_pike_pl|Pica Jedi
+itm_darth_vader_lightsaber|Sable de Luz de Darth Vader
+itm_darth_vader_lightsaber_pl|Sable de Luz de Darth Vader
+itm_obi_wan_lightsaber|Sable de Luz de Obi-Wan Kenobi
+itm_obi_wan_lightsaber_pl|Sable de Luz de Obi-Wan Kenobi
+itm_luke_skywalker_lightsaber|Sable de Luz de Luke Skywalker
+itm_luke_skywalker_lightsaber_pl|Sable de Luz de Luke Skywalker
+itm_melee_punch| 
+itm_melee_punch_pl| 
+itm_durasteel_staff|Bastón de Duracero
+itm_durasteel_staff_pl|Bastón de Duracero
+itm_electro_staff_medium|Bastón Electrico
+itm_electro_staff_medium_pl|Bastón Electrico
+itm_electro_staff_long|Bastón Electrico
+itm_electro_staff_long_pl|Bastón Electrico
+itm_vibro_axe_medium|Vibro-Hacha Gamorreana
+itm_vibro_axe_medium_pl|Vibro-Hacha Gamorreana
+itm_vibro_axe_long|Vibro-Hacha BD-1
+itm_vibro_axe_long_pl|Vibro-Hacha BD-1
+itm_tusken_gaffi_staff|Bastón Gaffi
+itm_tusken_gaffi_staff_pl|Bastón Gaffi
+itm_tusken_gaffi_stick|Palo Gaffi
+itm_tusken_gaffi_stick_pl|Palo Gaffi
+itm_durasteel_mace|Maza de Durasteel
+itm_durasteel_mace_pl|Maza de Durasteel
+itm_baton|Porra
+itm_baton_pl|Porra
+itm_trandoshan_blade|Hoja Trandoshana
+itm_trandoshan_blade_pl|Hoja Trandoshana
+itm_durasteel_bat|Bate de Duracero
+itm_durasteel_bat_pl|Bate de Duracero
+itm_force_pike|Pica de Fuerza
+itm_force_pike_pl|Pica de Fuerza
+itm_geonosian_static_pike|Pica Geonosiana
+itm_geonosian_static_pike_pl|Pica Geonosiana
+itm_pipe1|Tubería
+itm_pipe1_pl|Tubería
+itm_pipe2|Tubería
+itm_pipe2_pl|Tubería
+itm_ryyk_blade|Hoja de Ryyk
+itm_ryyk_blade_pl|Hoja de Ryyk
+itm_ryyk_kerarthorr|Hoja Kerarthorr
+itm_ryyk_kerarthorr_pl|Hoja Kerarthorr
+itm_ryyk_blade_chieftain|Hoja de Ryyk mejorada
+itm_ryyk_blade_chieftain_pl|Hoja de Ryyk mejorada
+itm_sith_sword|Espada Sith
+itm_sith_sword_pl|Espada Sith
+itm_combat_knife|Cuchillo de Combate
+itm_combat_knife_pl|Cuchillo de Combate
+itm_twilek_dagger|Daga Twilek
+itm_twilek_dagger_pl|Daga Twilek
+itm_vibro_knuckler|Vibro Knuckler
+itm_vibro_knuckler_pl|Vibro Knuckler
+itm_vibro_blade1|Vibroespada
+itm_vibro_blade1_pl|Vibroespada
+itm_vibro_blade2|Vibroespada
+itm_vibro_blade2_pl|Vibroespada
+itm_vibro_blade3|Vibroespada
+itm_vibro_blade3_pl|Vibroespada
+itm_vibro_blade4|Vibroespada
+itm_vibro_blade4_pl|Vibroespada
+itm_vibro_sword1b|Vibroespada
+itm_vibro_sword1b_pl|Vibroespada
+itm_vibro_sword2b|Vibroespada a dos manos
+itm_vibro_sword2b_pl|Vibroespada a dos manos
+itm_vibro_sword3a|Vibroespada
+itm_vibro_sword3a_pl|Vibroespada
+itm_vibro_sword3b|Vibroespada
+itm_vibro_sword3b_pl|Vibroespada
+itm_vibro_sword3c|Vibroespada
+itm_vibro_sword3c_pl|Vibroespada
+itm_vibro_sword3d|Vibroespada
+itm_vibro_sword3d_pl|Vibroespada
+itm_weapons_end|FLAG FOR WEAPONS END
+itm_weapons_end_pl|FLAG FOR WEAPONS END
+itm_tutorial_lightsaber|Sable de Luz
+itm_tutorial_lightsaber_pl|Sable de Luz
+itm_practice_vibro_axe_medium|VibroHacha Gamorreana
+itm_practice_vibro_axe_medium_pl|VibroHacha Gamorreana
+itm_practice_vibro_axe_long|VibroHacha BD-1
+itm_practice_vibro_axe_long_pl|VibroHacha BD-1
+itm_practice_vibro_axe_long_no_attack|VibroHacha BD-1
+itm_practice_vibro_axe_long_no_attack_pl|VibroHacha BD-1
+itm_practice_vibro_blade|Vibroespada
+itm_practice_vibro_blade_pl|Vibroespada
+itm_practice_vibro_sword3a|Vibroespada
+itm_practice_vibro_sword3a_pl|Vibroespada
+itm_practice_vibro_sword2b|Vibroespada a dos manos
+itm_practice_vibro_sword2b_pl|Vibroespada a dos manos
+itm_practice_vibro_sword1b|Vibroespada
+itm_practice_vibro_sword1b_pl|Vibroespada
+itm_quick_battle_armor|Armadura
+itm_quick_battle_armor_pl|Armor
+itm_transparent_helmet_armor|Transparent Helmet with Body Armor
+itm_transparent_helmet_armor_pl|Transparent Helmet with Body Armor
+itm_twilek_female_helmet_armor|Twilek Female Helmet with Body Armor
+itm_twilek_female_helmet_armor_pl|Twilek Female Helmet with Body Armor
+itm_twilek_male_head_bib|Bib Fortuna Head
+itm_twilek_male_head_bib_pl|Bib Fortuna Head
+itm_weequay_head_helmet_a|Weequay Head
+itm_weequay_head_helmet_a_pl|Weequay Head
+itm_weequay_head_helmet_b|Weequay Head
+itm_weequay_head_helmet_b_pl|Weequay Head
+itm_klatooinian_head_helmet_a|Klatooinian Head
+itm_klatooinian_head_helmet_a_pl|Klatooinian Head
+itm_nikto_head_helmet_a|Nikto Head
+itm_nikto_head_helmet_a_pl|Nikto Head
+itm_nikto_head_helmet_b|Nikto Head
+itm_nikto_head_helmet_b_pl|Nikto Head
+itm_nikto_head_helmet_c|Nikto Head
+itm_nikto_head_helmet_c_pl|Nikto Head
+itm_tarkin_head|Grand Moff Tarkin Head
+itm_tarkin_head_pl|Grand Moff Tarkin Head
+itm_rancor_body_a|Cuerpo de Ráncor
+itm_rancor_body_a_pl|Cuerpo de Ráncor
+itm_rancor_body_b|Cuerpo de Ráncor
+itm_rancor_body_b_pl|Cuerpo de Ráncor
+itm_rancor_body_c|Cuerpo de Ráncor
+itm_rancor_body_c_pl|Cuerpo de Ráncor
+itm_rancor_attack| 
+itm_rancor_attack_pl| 
+itm_rancor_keeper_armor|Armadura de Vigilante Ráncor
+itm_rancor_keeper_armor_pl|Armadura de Vigilante Ráncor
+itm_yoda_armor|Cuerpo y Silla de Yoda
+itm_yoda_armor_pl|Cuerpo y Silla de Yoda
+itm_yoda_lightsaber|Sable de Yoda
+itm_yoda_lightsaber_pl|Sable de Yoda
+itm_yoda_speeder|Speeder transparente de Yoda
+itm_yoda_speeder_pl|Speeder transparente de Yoda
+itm_jabba_armor|Cuerpo y Silla de Jabba
+itm_jabba_armor_pl|Cuerpo y Silla de Jabba
+itm_jabba_attack|No ataque de Jabba
+itm_jabba_attack_pl|No ataque de Jabba
+itm_jabba_speeder|Speeder Transparente de Jabba
+itm_jabba_speeder_pl|Speeder Transparente de Jabba
+itm_transparent_head|Cabeza Transparente
+itm_transparent_head_pl|Cabeza Transparente
+itm_transparent_body|Cuerpo Transparente
+itm_transparent_body_pl|Cuerpo Transparente
+itm_transparent_hands|Manos Transparentes
+itm_transparent_hands_pl|Manos Transparentes
+itm_transparent_feet|Pies Transparentes
+itm_transparent_feet_pl|Pies Transparentes
+itm_darth_vader_helmet|Casco de Darth Vader
+itm_darth_vader_helmet_pl|Casco de Darth Vader
+itm_darth_vader_armor|Armadura de Darth Vader
+itm_darth_vader_armor_pl|Armadura de Darth Vader
+itm_princess_leia_outfit|Vestimenta de la Princesa Leia
+itm_princess_leia_outfit_pl|Vestimenta de la Princesa Leia
+itm_princess_leia_blaster|DCC de la Princesa Leia
+itm_princess_leia_blaster_pl|DCC de la Princesa Leia
+itm_han_solo_outfit|Vestimenta de Han Solo
+itm_han_solo_outfit_pl|Vestimenta de Han Solo
+itm_han_solo_blaster|DL-44 de Han Solo
+itm_han_solo_blaster_pl|DL-44 de Han Solo
+itm_luke_skywalker_outfit|Vestimenta de Luke Skywalker
+itm_luke_skywalker_outfit_pl|Vestimenta de Luke Skywalker
+itm_chewbacca_bowcaster|Ballesta Wookie de Chewbacca
+itm_chewbacca_bowcaster_pl|Ballesta Wookie de Chewbacca
+itm_chewbacca_ryyk_blade|Sable de Chewbacca
+itm_chewbacca_ryyk_blade_pl|Sable de Chewbacca
+itm_boba_fett_armor|Armadura de Boba Fett
+itm_boba_fett_armor_pl|Armadura de Boba Fett
+itm_boba_fett_helmet|Casco de Boba Fett
+itm_boba_fett_helmet_pl|Casco de Boba Fett
+itm_boba_fett_boots|Botas de Boba Fett
+itm_boba_fett_boots_pl|Botas de Boba Fett
+itm_boba_fett_blaster|EE-3 de Boba Fett
+itm_boba_fett_blaster_pl|EE-3 de Boba Fett
+itm_dengar_armor|Armadura de Dengar
+itm_dengar_armor_pl|Armadura de Dengar
+itm_dengar_helmet|Cobertura Facial de Dengar
+itm_dengar_helmet_pl|Cobertura Facial de Dengar
+itm_dengar_boots|Botas de Dengar
+itm_dengar_boots_pl|Botas de Dengar
+itm_dengar_gloves|Guantes de Dengar
+itm_dengar_gloves_pl|Guantes de Dengar
+itm_weequay_vibro_axe|Vibro-Hacha Weequay
+itm_weequay_vibro_axe_pl|Vibro-Hacha Weequay
+itm_force_throw_lightsaber_green|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_green_pl|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_blue|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_blue_pl|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_orange|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_orange_pl|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_purple|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_purple_pl|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_yellow|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_yellow_pl|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_red|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_red_pl|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_green_merch|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_green_merch_pl|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_blue_merch|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_blue_merch_pl|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_orange_merch|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_orange_merch_pl|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_purple_merch|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_purple_merch_pl|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_yellow_merch|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_yellow_merch_pl|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_red_merch|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_red_merch_pl|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_green_pike|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_green_pike_pl|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_blue_pike|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_blue_pike_pl|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_orange_pike|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_orange_pike_pl|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_purple_pike|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_purple_pike_pl|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_yellow_pike|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_yellow_pike_pl|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_red_pike|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_red_pike_pl|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_red_double|Sable Doble Arrojadizo
+itm_force_throw_lightsaber_red_double_pl|Sable Doble Arrojadizo
+itm_twilek_dagger_throwing|Dagas Arrojadizas Twilek
+itm_twilek_dagger_throwing_pl|Dagas Arrojadizas Twilek
+itm_discblade|Hojadisco
+itm_discblade_pl|Hojadisco
+itm_thermal_detonator1|Detonador Termal
+itm_thermal_detonator1_pl|Detonador Termal
+itm_thermal_detonator2|Detonador Termal
+itm_thermal_detonator2_pl|Detonador Termal
+itm_thermal_detonator3|Detonador Termal
+itm_thermal_detonator3_pl|Detonador Termal
+itm_shields_begin|FLAG FOR SHIELDS BEGIN
+itm_shields_begin_pl|FLAG FOR SHIELDS BEGIN
+itm_energy_shield_red_small|Escudo de Energía Pequeño
+itm_energy_shield_red_small_pl|Escudo de Energía Pequeño
+itm_energy_shield_blue_small|Escudo de Energía Pequeño
+itm_energy_shield_blue_small_pl|Escudo de Energía Pequeño
+itm_energy_shield_green_small|Escudo de Energía Pequeño
+itm_energy_shield_green_small_pl|Escudo de Energía Pequeño
+itm_energy_shield_yellow_small|Escudo de Energía Pequeño
+itm_energy_shield_yellow_small_pl|Escudo de Energía Pequeño
+itm_energy_shield_red_medium|Escudo de Energía
+itm_energy_shield_red_medium_pl|Escudo de Energía
+itm_energy_shield_blue_medium|Escudo de Energía
+itm_energy_shield_blue_medium_pl|Escudo de Energía
+itm_energy_shield_green_medium|Escudo de Energía
+itm_energy_shield_green_medium_pl|Escudo de Energía
+itm_energy_shield_yellow_medium|Escudo de Energía
+itm_energy_shield_yellow_medium_pl|Escudo de Energía
+itm_energy_shield_red_large|Escudo de Energía
+itm_energy_shield_red_large_pl|Escudo de Energía Grande
+itm_energy_shield_blue_large|Escudo de Energía Grande
+itm_energy_shield_blue_large_pl|Escudo de Energía Grande
+itm_energy_shield_green_large|Escudo de Energía Grande
+itm_energy_shield_green_large_pl|Escudo de Energía Grande
+itm_energy_shield_yellow_large|Escudo de Energía Grande
+itm_energy_shield_yellow_large_pl|Escudo de Energía Grande
+itm_energy_shield_oval|Escudo Oval de Energía
+itm_energy_shield_oval_pl|Escudo Oval de Energía
+itm_energy_shield_circle|Escudo Circular de Energía
+itm_energy_shield_circle_pl|Escudo Circular de Energía
+itm_durasteel_shield_small|Escudo Pequeño de Durasteel
+itm_durasteel_shield_small_pl|Escudo Pequeño de Durasteel
+itm_durasteel_shield_small_2|Escudo Pequeño de Durasteel
+itm_durasteel_shield_small_2_pl|Escudo Pequeño de Durasteel
+itm_durasteel_shield_large|Escudo Grande de Durasteel
+itm_durasteel_shield_large_pl|Escudo Grande de Durasteel
+itm_wookiee_shield_small|Escudo Wookie Pequeño
+itm_wookiee_shield_small_pl|Escudo Wookie Pequeño
+itm_wookiee_shield_large|Escudo Wookie Grande
+itm_wookiee_shield_large_pl|Escudo Wookie Grande
+itm_shield_bash_begin|FLAG FOR SHIELD BASH BEGIN
+itm_shield_bash_begin_pl|FLAG FOR SHIELD BASH BEGIN
+itm_westar_shield|Westar-34 (Escudo)
+itm_westar_shield_pl|Westar-34 (Escudo)
+itm_ryyk_kerarthorr_shield|Kerarthorr de Ryyk (Escudo)
+itm_ryyk_kerarthorr_shield_pl|Kerarthorr de Ryyk (Escudo)
+itm_ryyk_blade_shield|Hoja de Ryyk de Escudo
+itm_ryyk_blade_shield_pl|Hoja de Ryyk de Escudo
+itm_lightsaber_block_blue|Sáble Láser de Escudo
+itm_lightsaber_block_blue_pl|Sáble Láser de Escudo
+itm_lightsaber_block_green|Sáble Láser de Escudo
+itm_lightsaber_block_green_pl|Sáble Láser de Escudo
+itm_lightsaber_block_orange|Sáble Láser de Escudo
+itm_lightsaber_block_orange_pl|Sáble Láser de Escudo
+itm_lightsaber_block_purple|Sáble Láser de Escudo
+itm_lightsaber_block_purple_pl|Sáble Láser de Escudo
+itm_lightsaber_block_red|Sáble Láser de Escudo
+itm_lightsaber_block_red_pl|Sáble Láser de Escudo
+itm_lightsaber_block_yellow|Sáble Láser de Escudo
+itm_lightsaber_block_yellow_pl|Sáble Láser de Escudo
+itm_shields_end|FLAG FOR SHIELDS END
+itm_shields_end_pl|FLAG FOR SHIELDS END
+itm_force_block|Bloquear con la Fuerza
+itm_force_block_pl|Bloquear con la Fuerza
+itm_force_shield|Escudar con la Fuerza
+itm_force_shield_pl|Escudar con la Fuerza
+itm_force_protect|Proteger con la fuerza
+itm_force_protect_pl|Proteger con la fuerza
+itm_hero_shield|Escudo Transparente
+itm_hero_shield_pl|Escudo Transparente
+itm_shield_bash_end|FLAG FOR SHIELD BASH END
+itm_shield_bash_end_pl|FLAG FOR SHIELD BASH END
+itm_practice_energy_shield|Escudo de Energía
+itm_practice_energy_shield_pl|Escudo de Energía
+itm_tutorial_energy_shield|Escudo de Energía
+itm_tutorial_energy_shield_pl|Escudo de Energía
+itm_force_throw_lightsaber_t|Lanzar Sable
+itm_force_throw_lightsaber_t_pl|Lanzar Sable
+itm_force_throw_lightsaber_tl|Lanzar Sable
+itm_force_throw_lightsaber_tl_pl|Lanzar Sable
+itm_force_lightning_ammo|Electrocutar con Fuerza
+itm_force_lightning_ammo_pl|Electrocutar con Fuerza
+itm_force_push_ammo|Empujón con la Fuerza
+itm_force_push_ammo_pl|Empujón con la Fuerza
+itm_laser_bolts_green_pistol|Cartuchos de Plasma
+itm_laser_bolts_green_pistol_pl|Cartuchos de Plasma
+itm_laser_bolts_red_pistol|Cartuchos de Plasma
+itm_laser_bolts_red_pistol_pl|Cartuchos de Plasma
+itm_laser_bolts_orange_pistol|Cartuchos de Plasma
+itm_laser_bolts_orange_pistol_pl|Cartuchos de Plasma
+itm_laser_bolts_yellow_pistol|Cartuchos de Plasma
+itm_laser_bolts_yellow_pistol_pl|Cartuchos de Plasma
+itm_laser_bolts_blue_pistol|Cartuchos de Plasma
+itm_laser_bolts_blue_pistol_pl|Cartuchos de Plasma
+itm_stun_beam_pistol|Cartuchos Aturdidores Bláster
+itm_stun_beam_pistol_pl|Cartuchos Aturdidores Bláster
+itm_ion_beam_pistol|Cartuchos de Iones
+itm_ion_beam_pistol_pl|Cartuchos de Iones
+itm_sonic_beam_pistol|Cartuchos Sónicos
+itm_sonic_beam_pistol_pl|Cartuchos Sónicos
+itm_ammo_belt_pistol|Cinturón de Munición
+itm_ammo_belt_pistol_pl|Cinturón de Munición
+itm_laser_bolts_green_rifle|Cartuchos de Plasma
+itm_laser_bolts_green_rifle_pl|Cartuchos de Plasma
+itm_laser_bolts_red_rifle|Cartuchos de Plasma
+itm_laser_bolts_red_rifle_pl|Cartuchos de Plasma
+itm_laser_bolts_orange_rifle|Cartuchos de Plasma
+itm_laser_bolts_orange_rifle_pl|Cartuchos de Plasma
+itm_laser_bolts_yellow_rifle|Cartuchos de Plasma
+itm_laser_bolts_yellow_rifle_pl|Cartuchos de Plasma
+itm_laser_bolts_blue_rifle|Cartuchos de Plasma
+itm_laser_bolts_blue_rifle_pl|Cartuchos de Plasma
+itm_stun_beam_rifle|Cartuchos Aturdidores Bláster
+itm_stun_beam_rifle_pl|Cartuchos Aturdidores Bláster
+itm_ion_beam_rifle|Cartuchos de Iones
+itm_ion_beam_rifle_pl|Cartuchos de Iones
+itm_sonic_beam_rifle|Cartuchos Sónicos
+itm_sonic_beam_rifle_pl|Cartuchos Sónicos
+itm_ammo_belt_rifle|Cintorón de Munición
+itm_ammo_belt_rifle_pl|Cintorón de Munición
+itm_laser_bolts_training_pistol|Munición Láser
+itm_laser_bolts_training_pistol_pl|Munición Láser
+itm_laser_bolts_training_rifle|Munición Láser
+itm_laser_bolts_training_rifle_pl|Munición Láser
+itm_force_power_ls_1|Poderes de Iniciado a la Fuerza
+itm_force_power_ls_1_pl|Poderes de Iniciado a la Fuerza
+itm_force_power_ls_2|Poderes de Aprendiz de la Fuerza
+itm_force_power_ls_2_pl|Poderes de Aprendiz de la Fuerza
+itm_force_power_ls_3|Poderes de Caballero Jedi
+itm_force_power_ls_3_pl|Poderes de Caballero Jedi
+itm_force_power_ls_4|Poderes de Maestro de la Fuerza
+itm_force_power_ls_4_pl|Poderes de Maestro de la Fuerza
+itm_force_power_ds_1|Poderes de Iniciado a la Fuerza
+itm_force_power_ds_1_pl|Poderes de Iniciado a la Fuerza
+itm_force_power_ds_2|Poderes de Aprendiz de la Fuerza
+itm_force_power_ds_2_pl|Poderes de Aprendiz de la Fuerza
+itm_force_power_ds_3|Poderes de Caballero Jedi
+itm_force_power_ds_3_pl|Poderes de Caballero Jedi
+itm_force_power_ds_4|Poderes de Maestro de la Fuerza
+itm_force_power_ds_4_pl|Poderes de Maestro de la Fuerza
+itm_force_jump|Saltar con la Fuerza
+itm_force_jump_pl|Saltar con la Fuerza
+itm_ranged_weapons_begin|FLAG FOR RANGED WEAPONS BEGIN
+itm_ranged_weapons_begin_pl|FLAG FOR RANGED WEAPONS BEGIN
+itm_a280|A-280
+itm_a280_pl|A-280
+itm_a280_stun|Aturdidor A-280
+itm_a280_stun_pl|Aturdidor A-280
+itm_a295|A-295
+itm_a295_pl|A-295
+itm_a295_stun|Aturdidor A-295
+itm_a295_stun_pl|Aturdidor A-295
+itm_mandalorian_heavy_blaster|Bláster Pesado Mandaloriano
+itm_mandalorian_heavy_blaster_pl|Bláster Pesado Mandaloriano
+itm_corellian_destroyer_blaster|Bláster Destructor Corelliano
+itm_corellian_destroyer_blaster_pl|Bláster Destructor Corelliano
+itm_dlt19|DLT-19
+itm_dlt19_pl|DLT-19
+itm_dlt19_scope|DLT-19 con mira telescópica
+itm_dlt19_scope_pl|DLT-19 con mira telescópica
+itm_dlt20a|DLT-20A
+itm_dlt20a_pl|DLT-20A
+itm_dc15a|DC-15A
+itm_dc15a_pl|DC-15A
+itm_dc15s|DC-15S
+itm_dc15s_pl|DC-15S
+itm_trandoshan_acp_array_gun|Pistola de Matriz ACP
+itm_trandoshan_acp_array_gun_pl|Pistola de Matriz ACP
+itm_trandoshan_stun_gun|Pistola Aturdidora Trandoshana
+itm_trandoshan_stun_gun_pl|Pistola Aturdidora Trandoshana
+itm_quicksnap_36t|36T Cumplimentada
+itm_quicksnap_36t_pl|36T Cumplimentada
+itm_bothan_bola_carabine|Carabina Bothan
+itm_bothan_bola_carabine_pl|Carabina Bothan
+itm_ee3|EE-3
+itm_ee3_pl|EE-3
+itm_ee3_stun|Aturdidor EE-3
+itm_ee3_stun_pl|Aturdidor EE-3
+itm_mg15|MG-15
+itm_mg15_pl|MG-15
+itm_e5|E-5
+itm_e5_pl|E-5
+itm_e11|E-11
+itm_e11_pl|E-11
+itm_e11_stun|Aturdidor E-11
+itm_e11_stun_pl|Aturdidor E-11
+itm_wookiee_bowcaster|Ballesta Wookie
+itm_wookiee_bowcaster_pl|Ballesta Wookie
+itm_kashyyyk_long_gun|Pistola Larga de Kashyyyk
+itm_kashyyyk_long_gun_pl|Pistola Larga de Kashyyyk
+itm_tusken_rifle|Termociclador Tusken
+itm_tusken_rifle_pl|Termociclador Tusken
+itm_geonosian_sonic_rifle|Rifle Sónico Geonosiano
+itm_geonosian_sonic_rifle_pl|Rifle Sónico Geonosiano
+itm_t21|T-21
+itm_t21_pl|T-21
+itm_senate_rifle|Rifle de Guardia de Seguridad
+itm_senate_rifle_pl|Rifle de Guardia de Seguridad
+itm_kisteer_1284|KiSteer 1284
+itm_kisteer_1284_pl|KiSteer 1284
+itm_ion_blaster|Bláster de Iones
+itm_ion_blaster_pl|Bláster de Iones
+itm_dh17|DH-17
+itm_dh17_pl|DH-17
+itm_se14r|SE-14R
+itm_se14r_pl|SE-14R
+itm_dh17_stun|Aturdidor DH-17
+itm_dh17_stun_pl|Aturdidor DH-17
+itm_dl44a|DL-44
+itm_dl44a_pl|DL-44
+itm_dl44a_stun|Aturdidor DL-44
+itm_dl44a_stun_pl|Aturdidor DL-44
+itm_dl44b|DL-44 Modificada
+itm_dl44b_pl|DL-44 Modificada
+itm_q2|Q2
+itm_q2_pl|Q2
+itm_q2_stun|Aturdidor Q2
+itm_q2_stun_pl|Aturdidor Q2
+itm_elg3a|ELG-3A
+itm_elg3a_pl|ELG-3A
+itm_elg3a_stun|Aturdidor ELG-3A
+itm_elg3a_stun_pl|Aturdidor ELG-3A
+itm_scout_trooper_pistol|Pistola de Soldado de Reconocimiento
+itm_scout_trooper_pistol_pl|Pistola de Soldado de Reconocimiento
+itm_ddc_defender|Defensor DDC
+itm_ddc_defender_pl|Defensor DDC
+itm_geonosian_sonic_pistol|Pistola Sónica Geonosiana
+itm_geonosian_sonic_pistol_pl|Pistola Sónica Geonosiana
+itm_dl18|DL-18
+itm_dl18_pl|DL-18
+itm_westar|Westar-34
+itm_westar_pl|Westar-34
+itm_westar_stun|Aturdidor Westar-34
+itm_westar_stun_pl|Aturdidor Westar-34
+itm_ion_pistol|Pistola de Iones
+itm_ion_pistol_pl|Pistola de Iones
+itm_trandoshan_supressor|Supresor Trandoshano
+itm_trandoshan_supressor_pl|Supresor Trandoshano
+itm_wrist_blaster|Blaster de Muñeca
+itm_wrist_blaster_pl|Blaster de Muñeca
+itm_ranged_weapons_end|FLAG FOR RANGED WEAPONS BEGIN
+itm_ranged_weapons_end_pl|FLAG FOR RANGED WEAPONS BEGIN
+itm_practice_dl44|DL-44
+itm_practice_dl44_pl|DL-44
+itm_dl44a_training|DL-44
+itm_dl44a_training_pl|DL-44
+itm_dlt19_training|DLT-19
+itm_dlt19_training_pl|DLT-19
+itm_heavy_weapons_ammo|Munición de Armas Pesadas
+itm_heavy_weapons_ammo_pl|Munición de Armas Pesadas
+itm_rocket_launcher|Lanzamisiles RDP-12 (in development)
+itm_rocket_launcher_pl|Lanzamisiles RDP-12 (in development)
+itm_flame_rifle|Rifle Lanzallamas CR-24 (in development)
+itm_flame_rifle_pl|Rifle Lanzallamas CR-24 (in development)
+itm_concussion_rifle|Rifle Aturdidor W-90 (in development)
+itm_concussion_rifle_pl|Rifle Aturdidor W-90 (in development)
+itm_force_kill|Matar con la Fuerza
+itm_force_kill_pl|Matar con la Fuerza
+itm_force_choke|Estrangular con la Fuerza
+itm_force_choke_pl|Estrangular con la Fuerza
+itm_force_knockdown|Derribar con la Fuerza
+itm_force_knockdown_pl|Derribar con la Fuerza
+itm_force_stun|Aturdir con la Fuerza
+itm_force_stun_pl|Aturdir con la Fuerza
+itm_horses_begin|FLAG FOR HORSES BEGIN
+itm_horses_begin_pl|FLAG FOR HORSES BEGIN
+itm_speeder|Speeder Civil Z4-Z
+itm_speeder_pl|Speeder Civil Z4-Z
+itm_speeder_rebel|Speeder Militar Z4-Z
+itm_speeder_rebel_pl|Speeder Militar Z4-Z
+itm_speeder_imperial|Speeder Militar Z4-Z
+itm_speeder_imperial_pl|Speeder Militar Z4-Z
+itm_speeder_hutt|Speeder Militar Z4-Z
+itm_speeder_hutt_pl|Speeder Militar Z4-Z
+itm_speeder_shadow|Speeder 74-Z Shadow
+itm_speeder_shadow_pl|Speeder 74-Z Shadow
+itm_speeder_fc20|Speeder Bike FC-20
+itm_speeder_fc20_pl|Speeder FC-20
+itm_horus_winged_cruiser|Crucero Horus
+itm_horus_winged_cruiser_pl|Crucero Horus
+itm_speeder_sparrow|Speeder Gorrion
+itm_speeder_sparrow_pl|Speeder Gorrion
+itm_pod_racer|Vaina
+itm_pod_racer_pl|Vaina
+itm_swoop_bike|Speeder de Carga
+itm_swoop_bike_pl|Speeder de Carga
+itm_speeder_dagger|DagaSpeeder 
+itm_speeder_dagger_pl|DagaSpeeder 
+itm_power_chair|Power Chair
+itm_power_chair_pl|Silla Flotante
+itm_horses_end|FLAG FOR HORSES END
+itm_horses_end_pl|FLAG FOR HORSES END
+itm_practice_speeder|Speeder Civil 74-Z
+itm_practice_speeder_pl|Speeder Civil 74-Z
+itm_arena_speeder|Speeder Civil 74-Z
+itm_arena_speeder_pl|Speeder Civil 74-Z
+itm_items_end|INVALID ITEM
+itm_items_end_pl|INVALID ITEM
+
+-- objetos 0.9
+
+itm_bacta_injector|Inyector de Bacta
+itm_rebel_heavy_trooper_helmet|Casco de Rebelde Pesado
+itm_rebel_heavy_trooper_helmet_pl|Casco de Rebelde Pesado
+
+itm_republic_commando_desert_helmet|Casco de Rebelde Pesado del Desierto
+itm_republic_commando_desert_helmet_pl|Casco de Rebelde Pesado
+itm_republic_commando_urban_helmet|Casco de Rebelde Pesado Urbano
+itm_republic_commando_urban_helmet_pl|Casco de Rebelde Pesado
+
+
+itm_padded_tunic_green|Túnica Acolchada
+itm_padded_tunic_green_pl|Túnica Acolchada
+itm_padded_tunic_white|Túnica Acolchada
+itm_padded_tunic_white_pl|Túnica Acolchada
+itm_padded_tunic_blue|Túnica Acolchada
+itm_padded_tunic_blue_pl|Túnica Acolchada
+itm_padded_tunic_red|Túnica Acolchada
+itm_padded_tunic_red_pl|Túnica Acolchada
+itm_padded_tunic_yellow|Túnica
+itm_padded_tunic_yellow_pl|Túnica
+
+itm_vest_closed_f|Chaqueta Ártica
+itm_vest_closed_f_pl|Chaqueta Ártica
