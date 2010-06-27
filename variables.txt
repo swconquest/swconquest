@@ -307,6 +307,9 @@ g_cur_interest_debt
 helmet_view
 crouch_key_down
 bash_readiness
+cur_casualties
+prev_casualties
+ranged_clock
 g_train_peasants_against_bandits_training_succeeded
 battle_won
 timer
@@ -615,7 +618,6 @@ training_fight_time
 g_player_entry_point
 g_enemy_troop
 g_assassin
-prev_casualties
 g_notification_menu_var1
 g_notification_menu_var2
 g_cur_week_half_daily_wage_payments
@@ -635,16 +637,3 @@ qst_scout_waypoints_wp_3_visited
 qst_train_peasants_against_bandits_num_hours_trained
 total_init_done
 g_bank_init
-$cur_casualties
-$cur_casualties
-$cur_casualties
-$cur_casualties
-$cur_casualties
-$cur_casualties
-$cur_casualties
-$cur_casualties
-$cur_casualties
-$cur_casualties
-$cur_casualties
-$cur_casualties
-$cur_casualties
