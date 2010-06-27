@@ -2046,10 +2046,10 @@ itemsfile version 2
  itm_rancor_body_a Rancor_Body Rancor_Body 1  swy_rancor 0  553652237 0 1000 0 30.000000 100 35 100 35 0 0 0 0 0 0 0 0
 0
 
- itm_rancor_body_b Rancor_Body Rancor_Body 1  rancor_b 0  553652237 0 1000 0 30.000000 100 35 100 35 0 0 0 0 0 0 0 0
+ itm_rancor_body_b Rancor_Body Rancor_Body 1  swy_rancor_alt 0  553652237 0 1000 0 30.000000 100 35 100 35 0 0 0 0 0 0 0 0
 0
 
- itm_rancor_body_c Rancor_Body Rancor_Body 1  rancor_c 0  553652237 0 1000 0 30.000000 100 35 100 35 0 0 0 0 0 0 0 0
+ itm_rancor_body_c Rancor_Body Rancor_Body 1  swy_rancor_mutant 0  553652237 0 1000 0 30.000000 100 35 100 35 0 0 0 0 0 0 0 0
 0
 
  itm_rancor_attack _ _ 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  79712258 9223372036854775821 250 0 1.000000 100 0 0 0 0 61440 85 0 15 0 301 60
