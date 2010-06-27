@@ -1,5 +1,5 @@
 itemsfile version 2
-890
+892
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -2770,7 +2770,13 @@ itemsfile version 2
  itm_arena_speeder Civilian_74-Z_Speeder_Bike Civilian_74-Z_Speeder_Bike 1  speeder_a 0  4097 0 1000 0 0.000000 100 0 0 0 0 30 45 50 0 0 15 0
 0
 
- itm_joruus_lightsaber Darth_Vader's_Lightsaber Darth_Vader's_Lightsaber 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71696387 9223635920677241343 4009 0 2.000000 100 0 0 0 14 36864 140 0 120 0 356 356
+ itm_joruus_lightsaber Cbaoth's_Lightsaber Cbaoth's_Lightsaber 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71696387 9223635920677241343 4009 0 2.000000 100 0 0 0 14 36864 140 0 120 0 356 356
+0
+
+ itm_disruptor_ammo Disruptor_Ammo_for_Pistols Disruptor_Ammo_for_Pistols 3  transparent 0  ion_beam 2305843009213693952  ion_beam_cartridges 1152921504606846976  67174418 0 960 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 160 514 0
+0
+
+ itm_disruptor_ammo_rifle Disruptor_Ammo_for_Rifles Disruptor_Ammo_for_Rifles 3  transparent 0  ion_beam 2305843009213693952  ion_beam_cartridges 1152921504606846976  67174406 0 960 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 160 514 0
 0
 
  itm_items_end INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528

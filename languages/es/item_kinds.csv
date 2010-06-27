@@ -1780,7 +1780,11 @@ itm_practice_speeder|Speeder Civil 74-Z
 itm_practice_speeder_pl|Speeder Civil 74-Z
 itm_arena_speeder|Speeder Civil 74-Z
 itm_arena_speeder_pl|Speeder Civil 74-Z
-itm_joruus_lightsaber|Sable de Luz de Darth Vader
-itm_joruus_lightsaber_pl|Sable de Luz de Darth Vader
+itm_joruus_lightsaber|Sable de Luz de Joruus C'Baoth
+itm_joruus_lightsaber_pl|Sable de Luz de Joruus C'Baoth
+itm_disruptor_ammo|Munición Disruptora de Pistola
+itm_disruptor_ammo_pl|Munición Disruptora de Pistola
+itm_disruptor_ammo_rifle|Munición Disruptora de Rifle
+itm_disruptor_ammo_rifle_pl|Munición Disruptora de Rifle
 itm_items_end|INVALID ITEM
 itm_items_end_pl|INVALID ITEM
