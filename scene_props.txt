@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1218
+ 1231
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3669,6 +3669,45 @@ spr_barf_rock_23 0 0 rock23 bo_rock23 0
 
 
 spr_barf_rock_24 0 0 rock24 bo_rock24 0
+
+
+spr_revnshn_rhenvar_addon 0 0 rhenvar_addon bo_yavinaddon 0
+
+
+spr_revnshn_rhenvar_pillar1 0 0 rhenvar_pillar1 bo_yavinpillar1 0
+
+
+spr_revnshn_rhenvar_pillar2 0 0 rhenvar_pillar2 bo_yavinpillar2 0
+
+
+spr_revnshn_rhenvar_spire 0 0 rhenvar_spire bo_yavinspire 0
+
+
+spr_revnshn_rhenvar_statue1 0 0 rhenvar_statue1 bo_yavinstatue1 0
+
+
+spr_revnshn_rhenvar_statue2 0 0 rhenvar_statue2 bo_yavinstatue2 0
+
+
+spr_revnshn_rhenvar_statue3 0 0 rhenvar_statue3 bo_yavinstatue3 0
+
+
+spr_revnshn_rhenvar_steps 0 0 rhenvar_steps bo_yavinsteps 0
+
+
+spr_revnshn_rhenvar_table1 0 0 rhenvar_table1 bo_yavintable1 0
+
+
+spr_revnshn_rhenvar_temple 0 0 rhenvar_templeblend bo_yavintempleblend 0
+
+
+spr_revnshn_rhenvar_wall1 0 0 rhenvar_wall1 bo_yavinwall1 0
+
+
+spr_revnshn_rhenvar_wall2 0 0 rhenvar_wall2 bo_yavinwall2 0
+
+
+spr_revnshn_rhenvar_wall3 0 0 rhenvar_wall3 bo_yavinwall3 0
 
 
 spr_skybox_cloud_1 0 0 skybox_cloud_1_prop 0 0
