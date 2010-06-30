@@ -1,4 +1,4 @@
-1027
+1028
 qstr_Type_your_Kingdom_s_ Type_your_Kingdom's_name:
 qstr_Accept Accept
 qstr_Reset Reset
@@ -260,6 +260,7 @@ qstr_Your_relation_with_{s Your_relation_with_{s1}_has_deteriorated.
 qstr_You_gain_honour. You_gain_honour.
 qstr_You_lose_honour. You_lose_honour.
 qstr_{s1}_has_declared_wa {s1}_has_declared_war_against_{s2}.
+qstr_{s1}_and_{s2}_are_in {s1}_and_{s2}_are_in_war_for_the_galactic_supremacy.
 qstr_{s1}_and_{s2}_have_m {s1}_and_{s2}_have_made_peace_with_each_other.
 qstr_{s2}_{reg3?was:is_cu {s2}_{reg3?was:is_currently}_at_{s3}.
 qstr_{s2}_{reg3?was:is}_t {s2}_{reg3?was:is}_travelling_to_{s3}_and_{reg4?she:he}_{reg3?was:should_be}_close_to_{s4}{reg3?:_at_the_moment}.
