@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1234
+ 1236
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3600,6 +3600,12 @@ spr_swy_tower1 0 0 swy_tower2 bo_swy_tower2 0
 
 
 spr_swy_city_ground 0 0 swy_city_ground bo_swy_city_ground 0
+
+
+spr_swy_city_ground2 0 0 swy_city_ground2 bo_swy_city_ground 0
+
+
+spr_swy_city_ground3 0 0 swy_city_ground3 bo_swy_city_ground 0
 
 
 spr_barf_tower 0 0 sw_taris_tower bo_sw_taris_tower 0
