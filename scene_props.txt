@@ -3596,7 +3596,7 @@ spr_swy_taris_build 0 0 taris_build bo_taris_build 0
 spr_swy_tower1 0 0 swy_tower1 bo_swy_tower1 0
 
 
-spr_swy_tower1 0 0 swy_tower2 bo_swy_tower2 0
+spr_swy_tower2 0 0 swy_tower2 bo_swy_tower2 0
 
 
 spr_swy_city_ground 0 0 swy_city_ground bo_swy_city_ground 0
