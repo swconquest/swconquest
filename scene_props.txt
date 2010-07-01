@@ -3608,7 +3608,7 @@ spr_swy_city_ground2 0 0 swy_city_ground2 bo_swy_city_ground 0
 spr_swy_city_ground3 0 0 swy_city_ground3 bo_swy_city_ground 0
 
 
-spr_swy_bespin_tibana 0 0 swy_bespin_tibana 0 0
+spr_swy_bespin_tibanna 0 0 swy_bespin_tibanna 0 0
 
 
 spr_barf_tower 0 0 sw_taris_tower bo_sw_taris_tower 0
