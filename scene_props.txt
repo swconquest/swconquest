@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1238
+ 1240
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3609,6 +3609,12 @@ spr_swy_city_ground3 0 0 swy_city_ground3 bo_swy_city_ground 0
 
 
 spr_swy_palm 0 0 swy_palm bo_swy_palm 0
+
+
+spr_swy_saleucami_rock 0 0 swy_saleucami_rock bo_swy_saleucami_rock 0
+
+
+spr_swy_saleucami_rock2 0 0 swy_saleucami_rock2 bo_swy_saleucami_rock2 0
 
 
 spr_swy_bespin_tibanna 0 0 swy_bespin_tibanna 0 0
