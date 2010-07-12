@@ -1,5 +1,5 @@
 itemsfile version 2
-892
+893
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -586,7 +586,7 @@ itemsfile version 2
 
  itm_torch Torch Torch 1  club 0  4194306 9223388529554358286 11 0 2.500000 100 0 0 0 0 11264 95 0 95 0 256 523
 1
--50.000000  5 1955 3 0 60 0 1965 1 1008806316530991116 1965 1 1008806316530991119 1950 3 150 130 70 1960 2 10 30 
+-50.000000  3 1955 3 0 60 0 1965 1 1008806316530991116 1965 1 1008806316530991119 
 
  itm_rich_outfit Rich_Outfit Rich_Outfit 1  merchant_outf 0  553713677 0 160 123731968 4.000000 100 0 16 4 0 0 0 0 0 0 0 0
 0
@@ -1763,22 +1763,22 @@ itemsfile version 2
  itm_lightsaber_red Lightsaber Lightsaber 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71761923 9223635920677241343 907 286740 0.500000 60 0 0 0 12 11264 120 0 115 0 331 331
 0
 
- itm_lightsaber_green_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_green_reverse 0  lightsaber_greenoff 3458764513820540928  71761922 9223388530560991247 1059 286740 0.500000 30 0 0 0 14 11264 135 0 130 0 331 331
+ itm_lightsaber_green_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_green_reverse 0  lightsaber_greenoff 3458764513820540928  71761924 9223388530560991247 1059 286740 0.500000 30 0 0 0 14 11264 135 0 130 0 331 331
 0
 
- itm_lightsaber_blue_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_blue_reverse 0  lightsaber_blueoff 3458764513820540928  71761922 9223388530560991247 1059 286740 0.500000 30 0 0 0 14 11264 135 0 130 0 331 331
+ itm_lightsaber_blue_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_blue_reverse 0  lightsaber_blueoff 3458764513820540928  71761924 9223388530560991247 1059 286740 0.500000 30 0 0 0 14 11264 135 0 130 0 331 331
 0
 
- itm_lightsaber_orange_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_orange_reverse 0  lightsaber_orangeoff 3458764513820540928  71761922 9223388530560991247 1059 286740 0.500000 10 0 0 0 14 11264 135 0 130 0 331 331
+ itm_lightsaber_orange_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_orange_reverse 0  lightsaber_orangeoff 3458764513820540928  71761924 9223388530560991247 1059 286740 0.500000 10 0 0 0 14 11264 135 0 130 0 331 331
 0
 
- itm_lightsaber_purple_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_purple_reverse 0  lightsaber_purpleoff 3458764513820540928  71761922 9223388530560991247 1059 286740 0.500000 10 0 0 0 14 11264 135 0 130 0 331 331
+ itm_lightsaber_purple_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_purple_reverse 0  lightsaber_purpleoff 3458764513820540928  71761924 9223388530560991247 1059 286740 0.500000 10 0 0 0 14 11264 135 0 130 0 331 331
 0
 
- itm_lightsaber_yellow_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_yellow_reverse 0  lightsaber_yellowoff 3458764513820540928  71761922 9223388530560991247 1059 286740 0.500000 10 0 0 0 14 11264 135 0 130 0 331 331
+ itm_lightsaber_yellow_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_yellow_reverse 0  lightsaber_yellowoff 3458764513820540928  71761924 9223388530560991247 1059 286740 0.500000 10 0 0 0 14 11264 135 0 130 0 331 331
 0
 
- itm_lightsaber_red_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_red_reverse 0  lightsaber_redoff 3458764513820540928  71761922 9223388530560991247 1059 286740 0.500000 30 0 0 0 14 11264 135 0 130 0 331 331
+ itm_lightsaber_red_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_red_reverse 0  lightsaber_redoff 3458764513820540928  71761924 9223388530560991247 1059 286740 0.500000 30 0 0 0 14 11264 135 0 130 0 331 331
 0
 
  itm_lightsaber_blue_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_blue_double 0  lightsaber_blue_doubleoff 3458764513820540928  73891844 4222129415393024 1319 286740 0.750000 30 0 0 0 14 11264 150 0 170 0 331 331
@@ -2778,6 +2778,10 @@ itemsfile version 2
 
  itm_disruptor_ammo_rifle Disruptor_Ammo_for_Rifles Disruptor_Ammo_for_Rifles 3  transparent 0  laser_disruptor 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174406 0 4960 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 160 516 0
 0
+
+ itm_heavy_repeater Imperial_Heavy_Repeater Imperial_Heavy_Repeater 2  HeavyRepeater 0  HeavyRepeater 1152921504606846976  73465865 483184082944 310 270342 6.000000 100 0 0 94 0 0 120 169 0 16 292 0
+1
+-51.000000  3 600 1 1152921504606847152 720 2 1 30 721 2 1 30 
 
  itm_items_end INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
