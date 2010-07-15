@@ -307,6 +307,7 @@ g_cur_interest_debt
 helmet_view
 crouch_key_down
 bash_readiness
+turret
 cur_casualties
 prev_casualties
 ranged_clock
