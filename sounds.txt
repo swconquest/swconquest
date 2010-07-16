@@ -1,5 +1,5 @@
 soundsfile version 2
-566
+570
  int_select.mp3 257
  tutorial_1.ogg 1793
  tutorial_2.ogg 1793
@@ -560,13 +560,17 @@ soundsfile version 2
  saber_swing5.mp3 1696
  saber_swing6.mp3 1696
  E5-blaster.mp3 1616
- swc_hangar_hutt.mp3 1840
- swc_hangar_imperial.mp3 1840
- swc_hangar_mandalorian.mp3 1072
- swc_hangar_neutral.mp3 1840
- swc_hangar_rebel.mp3 1840
- swc_hangar_siren.mp3 1846
-276
+ swc_hangar_siren.mp3 1590
+ swc_hangar_hutt.mp3 2576
+ swc_hangar_imperial.mp3 2576
+ swc_hangar_mandalorian.mp3 2576
+ swc_hangar_neutral.mp3 2576
+ swc_hangar_rebel.mp3 2576
+ swc_hangar_sith.mp3 2576
+ swc_hangar_wookie.mp3 2576
+ swc_hangar_clones.mp3 2576
+ swc_hangar_trandoshan.mp3 2576
+279
 snd_click 257 1 0 
 snd_tutorial_1 1793 1 1 
 snd_tutorial_2 1793 1 2 
@@ -836,10 +840,13 @@ snd_twilek_female_victory 2640 4 550 551 552 552
 snd_twilek_female_yell 2656 3 551 552 552 
 snd_lightsaber_swing 1696 6 553 554 555 556 557 558 
 snd_e5 1616 1 559 
-snd_swc_hangar_hutt 1840 1 560 
-snd_swc_hangar_imperial 1840 1 561 
-snd_swc_hangar_mandalorian 1072 1 562 
-snd_swc_hangar_neutral 1840 1 563 
-snd_swc_hangar_rebel 1840 1 564 
-snd_swc_hangar_siren 1846 1 565 
-snd_swc_hangar_rebel 1840 1 560 
+snd_swc_hangar_siren 1590 1 560 
+snd_swc_hangar_hutt 2576 1 561 
+snd_swc_hangar_imperial 2576 1 562 
+snd_swc_hangar_mandalorian 2576 1 563 
+snd_swc_hangar_neutral 2576 1 564 
+snd_swc_hangar_rebel 2576 1 565 
+snd_swc_hangar_sith 2576 1 566 
+snd_swc_hangar_wookie 2576 1 567 
+snd_swc_hangar_clones 2576 1 568 
+snd_swc_hangar_trandoshan 2576 1 569 

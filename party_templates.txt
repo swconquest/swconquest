@@ -2,17 +2,17 @@ partytemplatesfile version 1
 59
 pt_none none 28 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_rescued_prisoners Rescued_Prisoners 26 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_enemy Enemy 23 0 24 7 -1 -1 -1 -1 -1 -1 
+pt_enemy Enemy 23 0 28 7 -1 -1 -1 -1 -1 -1 
 pt_hero_party Hero_Party 25 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_village_defenders Colonial_Defenders 28 0 1 7 80 5 10 0 82 5 10 0 209 0 4 0 -1 -1 -1 
 pt_cattle_herd Nerf_Herd 2814749767106588 0 3 7 23 80 120 0 -1 -1 -1 -1 -1 
 pt_looters Jawas 2251799813685280 0 2 344 193 8 16 0 194 5 10 0 195 2 4 0 116 0 1 1 115 0 1 1 -1 
-pt_manhunters Trandoshan_Slavers 18 0 20 137 208 25 50 0 24 0 1 1 -1 -1 -1 -1 
+pt_manhunters Trandoshan_Slavers 18 0 24 137 208 25 50 0 24 0 1 1 -1 -1 -1 -1 
 pt_steppe_bandits Night_Fangs_Pirates 562949953421336 0 2 344 204 5 25 0 205 4 8 0 51 1 5 0 43 1 5 0 40 0 1 1 -1 
-pt_forest_bandits Blazing_Claw_Pirates 562949953421335 0 23 344 202 5 25 0 203 4 8 0 47 1 5 0 67 1 5 0 40 0 1 1 -1 
+pt_forest_bandits Blazing_Claw_Pirates 562949953421335 0 27 344 202 5 25 0 203 4 8 0 47 1 5 0 67 1 5 0 40 0 1 1 -1 
 pt_sea_raiders Tusken_Raiders 562949953421342 0 2 344 206 10 25 0 207 5 10 0 -1 -1 -1 -1 
-pt_mountain_bandits Black_Sun_Pirates 562949953421332 0 22 344 198 10 20 0 199 5 10 0 200 5 10 0 201 1 10 0 40 0 1 1 -1 
-pt_deserters Deserters 844424930131986 0 21 344 -1 -1 -1 -1 -1 -1 
+pt_mountain_bandits Black_Sun_Pirates 562949953421332 0 26 344 198 10 20 0 199 5 10 0 200 5 10 0 201 1 10 0 40 0 1 1 -1 
+pt_deserters Deserters 844424930131986 0 25 344 -1 -1 -1 -1 -1 -1 
 pt_kingdom_1_escort Patrol_Fleet 562949957681170 0 1 172 80 1 1 0 -1 -1 -1 -1 -1 
 pt_independent_traders Merchant_Convoy 5629499534475286 0 1 11 210 1 1 0 99 1 10 0 98 1 1 0 84 10 20 0 -1 -1 
 pt_merchant_caravan Merchant_Freighter 5629499534475285 0 1 11 210 1 1 0 84 15 30 0 -1 -1 -1 -1 
