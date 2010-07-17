@@ -554,6 +554,7 @@ bacta_injector_key
 binoculars_key
 deathcam_forward_key
 deathcam_backward_key
+g_little_pos_helper
 g_player_luck
 g_election_date
 g_player_party_icon

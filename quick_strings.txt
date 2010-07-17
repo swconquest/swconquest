@@ -1,4 +1,4 @@
-1028
+1032
 qstr_Type_your_Kingdom_s_ Type_your_Kingdom's_name:
 qstr_Accept Accept
 qstr_Reset Reset
@@ -165,6 +165,10 @@ qstr_Sale_price_{reg0}_cr Sale_price_{reg0}_credits
 qstr_Sell_the_ship Sell_the_ship
 qstr_Your_upgrade_has_bee Your_upgrade_has_been_installed.
 qstr_Your_ship_has_been_s Your_ship_has_been_sold
+qstr_0000 00,00
+qstr_As_you_grew_older_yo As_you_grew_older_you_decided_to...
+qstr_Go_Back... Go_Back...
+qstr_{reg1}{reg2} {reg1},{reg2}
 qstr_{s1}_of_{s3}_was_def {s1}_of_{s3}_was_defeated_in_battle_but_managed_to_escape.
 qstr_DEBUG:_{s1}_no_longe DEBUG:_{s1}_no_longer_leads_a_party.
 qstr_DEBUG:_{s1}_is_no_lo DEBUG:_{s1}_is_no_longer_a_prisoner.
