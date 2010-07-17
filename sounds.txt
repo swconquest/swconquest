@@ -1,5 +1,5 @@
 soundsfile version 2
-570
+606
  int_select.mp3 257
  tutorial_1.ogg 1793
  tutorial_2.ogg 1793
@@ -570,7 +570,43 @@ soundsfile version 2
  swc_hangar_wookie.mp3 2576
  swc_hangar_clones.mp3 2576
  swc_hangar_trandoshan.mp3 2576
-279
+ swc_neutral_death_1.mp3 2576
+ swc_neutral_death_2.mp3 2576
+ swc_neutral_death_3.mp3 2576
+ swc_neutral_deployed_1.mp3 2576
+ swc_neutral_deployed_2.mp3 2576
+ swc_neutral_deployed_3.mp3 2576
+ swc_neutral_victory_1.mp3 2576
+ swc_neutral_victory_2.mp3 2576
+ swc_empire_death_1.mp3 2576
+ swc_empire_death_2.mp3 2576
+ swc_empire_death_3.mp3 2576
+ swc_empire_deployed_1.mp3 2576
+ swc_empire_deployed_2.mp3 2576
+ swc_empire_deployed_3.mp3 2576
+ swc_empire_deployed_4.mp3 2576
+ swc_empire_victory_1.mp3 2576
+ swc_empire_victory_2.mp3 2576
+ swc_empire_victory_3.mp3 2576
+ swc_rebel_death_1.mp3 2576
+ swc_rebel_death_2.mp3 2576
+ swc_rebel_death_3.mp3 2576
+ swc_rebel_deployed_1.mp3 2576
+ swc_rebel_deployed_2.mp3 2576
+ swc_rebel_deployed_3.mp3 2576
+ swc_rebel_victory_1.mp3 2576
+ swc_rebel_victory_2.mp3 2576
+ swc_rebel_victory_3.mp3 2576
+ swc_hutt_death_1.mp3 2576
+ swc_hutt_death_2.mp3 2576
+ swc_hutt_death_3.mp3 2576
+ swc_hutt_deployed_1.mp3 2576
+ swc_hutt_deployed_2.mp3 2576
+ swc_hutt_deployed_3.mp3 2576
+ swc_hutt_victory_1.mp3 2576
+ swc_hutt_victory_2.mp3 2576
+ swc_hutt_victory_3.mp3 2576
+291
 snd_click 257 1 0 
 snd_tutorial_1 1793 1 1 
 snd_tutorial_2 1793 1 2 
@@ -850,3 +886,15 @@ snd_swc_hangar_sith 2576 1 566
 snd_swc_hangar_wookie 2576 1 567 
 snd_swc_hangar_clones 2576 1 568 
 snd_swc_hangar_trandoshan 2576 1 569 
+snd_swc_neutral_death 2576 3 570 571 572 
+snd_swc_neutral_deployed 2576 3 573 574 575 
+snd_swc_neutral_victory 2576 2 576 577 
+snd_swc_empire_death 2576 3 578 579 580 
+snd_swc_empire_deployed 2576 4 581 582 583 584 
+snd_swc_empire_victory 2576 3 585 586 587 
+snd_swc_rebel_death 2576 3 588 589 590 
+snd_swc_rebel_deployed 2576 3 591 592 593 
+snd_swc_rebel_victory 2576 3 594 595 596 
+snd_swc_hutt_death 2576 3 597 598 599 
+snd_swc_hutt_deployed 2576 3 600 601 602 
+snd_swc_hutt_victory 2576 3 603 604 605 
