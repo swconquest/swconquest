@@ -36,7 +36,7 @@ man 0
  23  manface_young_2 4291551456 1 3  hair_blonde  4294967295  4289742615  4283443737  manface_midage 4292866017 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  manface_young 4291879136 1 4  hair_blonde  4286787610  4283443737  4279832588  4278979865  manface_young_3 4292668909 1 3  hair_blonde  4281276430  4279702291  68451502092  manface_7 4290824392 1 2  hair_blonde  4279702291  68451502092  manface_midage_2 4259629272 1 3  hair_blonde  4283443737  4279832588  4278979865  manface_rugged 4289768117 1 2  hair_blonde  4279702291  68451502092  Jed_Q_1 4292866017 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  Jed_Q_2 4292866017 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  Jed_Q_3 4292866017 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  Jed_Q_4 4292866017 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  Jed_Q_5 4292866017 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  Jed_Q_6 4292866017 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  Jed_Q_7 4292866017 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  Jed_Q_8 4292866017 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  Jed_Q_9 4292866017 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  manface_african 4286610570 1 2  hair_blonde  4279371784  68451502092  sith_darth_maul 7014408 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  palpatine 4294967295 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  twilek_face_bib 14800009 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  chiss_face_a 3496959 1 2  hair_blonde  4279371784  68451502092  weequay_face_a 4286610570 1 2  hair_blonde  4279371784  68451502092  weequay_face_b 4286610570 1 2  hair_blonde  4279371784  68451502092 
  6  0 snd_man_die  1 snd_man_hit  2 snd_man_grunt  3 snd_man_grunt_long  4 snd_man_yell  6 snd_man_victory 
  skel_human 1.000000 
-2 3
+73 74
 8
 
 1.700000 1 2  1.000000 26 1.000000 23
@@ -59,7 +59,7 @@ woman 1
  12  womanface_young 4293126383 1 4  hair_blonde  4294967295  4289742615  4283443737  4279832588  womanface_a 4293451749 1 3  hair_blonde  4283443737  4279832588  4278979865  womanface_b 4292861919 1 4  hair_blonde  4289021983  4283443737  4279832588  4278979865  womanface_new_young 4293126383 1 4  hair_blonde  4294967295  4289742615  4283443737  4279832588  womanface_new_a 4293451749 1 3  hair_blonde  4283443737  4279832588  4278979865  womanface_new_b 4292861919 1 4  hair_blonde  4289021983  4283443737  4279832588  4278979865  Jed_Q_w_1 4293126383 1 4  hair_blonde  4294967295  4289742615  4283443737  4279832588  womanface_brown 4289699710 1 3  hair_blonde  4279832588  4278979865  68451502092  sibylla_womanface_amidala 4293126383 1 4  hair_blonde  4294967295  4289742615  4283443737  4279832588  womanface_african 4286611584 1 2  hair_blonde  4279371784  68451502092  sith_darth_maul_female 9910572 1 5  hair_blonde  4294967295  4289742615  4284689944  4283443737  4279832588  chiss_female_face_a 3496959 1 2  hair_blonde  4279371784  68451502092 
  6  0 snd_woman_die  1 snd_woman_hit  2 snd_woman_grunt  3 snd_woman_grunt_long  4 snd_woman_yell  6 snd_woman_victory 
  skel_human 1.000000 
-2 3
+73 74
 0
 
 jawa 0
@@ -74,7 +74,7 @@ jawa 0
  1  tusken_face_a 4294967295 0 0 
  7  0 snd_jawa_die  1 snd_jawa_hit  2 snd_jawa_grunt  3 snd_jawa_grunt_long  4 snd_jawa_yell  5 snd_jawa_victory  6 snd_jawa_victory 
  skel_human 0.560000 
-0 0
+73 74
 0
 
 tusken 0
@@ -89,7 +89,7 @@ tusken 0
  1  tusken_face_a 4294967295 0 0 
  7  0 snd_tusken_die  1 snd_tusken_hit  2 snd_tusken_grunt  3 snd_tusken_grunt_long  4 snd_tusken_yell  5 snd_tusken_victory  6 snd_tusken_victory 
  skel_human 0.900000 
-0 0
+73 74
 0
 
 rodian 0
@@ -104,7 +104,7 @@ rodian 0
  3  rodian_face_a 4294967295 0 0  rodian_face_b 4294967295 0 0  rodian_face_c 4294967295 0 0 
  7  0 snd_rodian_die  1 snd_rodian_hit  2 snd_rodian_grunt  3 snd_rodian_grunt_long  4 snd_rodian_yell  5 snd_rodian_victory  6 snd_rodian_victory 
  skel_human 0.700000 
-0 0
+73 74
 0
 
 moncal 0
@@ -119,7 +119,7 @@ moncal 0
  1  moncal_face_a 4294967295 0 0 
  6  0 snd_man_die  1 snd_man_hit  2 snd_man_grunt  3 snd_man_grunt_long  4 snd_man_yell  6 snd_man_victory 
  skel_human 1.300000 
-0 0
+73 74
 0
 
 trandoshan 0
@@ -134,7 +134,7 @@ trandoshan 0
  2  trandoshan_face_yellow 4289769806 0 0  trandoshan_face_green 4285577335 0 0 
  7  0 snd_trandoshan_die  1 snd_trandoshan_hit  2 snd_trandoshan_grunt  3 snd_trandoshan_grunt_long  4 snd_trandoshan_yell  5 snd_trandoshan_victory  6 snd_trandoshan_victory 
  skel_human 1.000000 
-0 0
+73 74
 0
 
 droid 0
@@ -149,7 +149,7 @@ droid 0
  1  droid_head 4294967295 0 0 
  7  0 snd_battledroid_die  1 snd_battledroid_hit  2 snd_battledroid_grunt  3 snd_battledroid_grunt_long  4 snd_battledroid_yell  5 snd_battledroid_victory  6 snd_battledroid_victory 
  skel_human 1.400000 
-4 5
+73 74
 0
 
 wookiee 0
@@ -164,7 +164,7 @@ wookiee 0
  2  wookiee_face_a 4294967295 0 0  wookiee_face_b 4294967295 0 0 
  7  0 snd_wookiee_die  1 snd_wookiee_hit  2 snd_wookiee_grunt  3 snd_wookiee_grunt_long  4 snd_wookiee_yell  5 snd_wookiee_victory  6 snd_wookiee_victory 
  skel_human 1.500000 
-0 0
+73 74
 0
 
 sullustan 0
@@ -179,7 +179,7 @@ sullustan 0
  1  sullustan_face_a 4294967295 0 0 
  7  0 snd_man_die  1 snd_man_hit  2 snd_man_grunt  3 snd_man_grunt_long  4 snd_sullustan_yell  5 snd_sullustan_victory  6 snd_sullustan_victory 
  skel_human 1.000000 
-0 0
+73 74
 0
 
 gamorrean 0
@@ -194,7 +194,7 @@ gamorrean 0
  1  gamorrean_face_a 4294967295 0 0 
  7  0 snd_gamorrean_die  1 snd_gamorrean_hit  2 snd_gamorrean_grunt  3 snd_gamorrean_grunt_long  4 snd_gamorrean_yell  5 snd_gamorrean_victory  6 snd_gamorrean_victory 
  skel_human 0.870000 
-0 0
+73 74
 0
 
 twilek 0
@@ -209,7 +209,7 @@ twilek 0
  5  twilek_face_red 16734039 0 0  twilek_face_green 5766999 0 0  twilek_face_blue 3496959 0 0  twilek_face_bib 14800009 0 0  sith_darth_maul 7014408 0 0 
  6  0 snd_man_die  1 snd_man_hit  2 snd_man_grunt  3 snd_man_grunt_long  4 snd_man_yell  6 snd_man_victory 
  skel_human 1.000000 
-0 0
+73 74
 0
 
 twilek_female 1
@@ -224,7 +224,7 @@ twilek_female 1
  4  twilek_female_face_red 16734039 0 0  twilek_female_face_green 8501864 0 0  twilek_female_face_blue 7240122 0 0  sith_darth_maul_female 8069136 0 0 
  6  0 snd_woman_die  1 snd_woman_hit  2 snd_woman_grunt  3 snd_woman_grunt_long  4 snd_twilek_female_yell  6 snd_twilek_female_victory 
  skel_human 1.000000 
-0 0
+73 74
 0
 
 bothan 0
@@ -239,7 +239,7 @@ bothan 0
  1  bothan_face_a 4294967295 0 0 
  6  0 snd_man_die  1 snd_man_hit  2 snd_man_grunt  3 snd_man_grunt_long  4 snd_man_yell  6 snd_man_victory 
  skel_human 0.900000 
-0 0
+73 74
 0
 
 geonosian 0
@@ -269,6 +269,6 @@ rancor 0
  1  transparent_body 4294967295 0 0 
  7  0 snd_gamorrean_die  1 snd_gamorrean_hit  2 snd_gamorrean_grunt  3 snd_gamorrean_grunt_long  4 snd_gamorrean_yell  5 snd_gamorrean_victory  6 snd_gamorrean_victory 
  skel_human 0.600000 
-0 0
+73 74
 0
 
