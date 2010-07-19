@@ -557,6 +557,7 @@ deathcam_backward_key
 g_little_pos_helper
 g_little_pos2_helper
 g_little_pos3_helper
+g_option_name
 g_player_luck
 g_election_date
 g_player_party_icon

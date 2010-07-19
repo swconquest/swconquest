@@ -351,9 +351,9 @@ soundsfile version 2
  bigblaster15_E11_variant.mp3 2176
  wep_e11_blaster.mp3 2176
  bigblaster19_DL44_DH17_short.mp3 2176
- bigblaster22_EE3_bowcaster_variant.mp3 2176
+ rvnshn_wookie_bowcaster.mp3 2176
  ionblaster_other01.mp3 2176
- sonicblaster_other02.mp3 2176
+ rvnshn_sonic_weapon.mp3 2176
  stunblaster_other03.mp3 2176
  littleblaster01.mp3 2176
  flame_fire.mp3 1664
