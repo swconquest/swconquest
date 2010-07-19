@@ -1,4 +1,4 @@
-1037
+1040
 qstr_Type_your_Kingdom_s_ Type_your_Kingdom's_name:
 qstr_Accept Accept
 qstr_Reset Reset
@@ -171,6 +171,9 @@ qstr_Selected: Selected:
 qstr_As_you_grew_older_yo As_you_grew_older_you_decided_to_join...
 qstr_Go_Back... Go_Back...
 qstr_Remain_Independent. Remain_Independent.
+qstr_Galactic_Empire Galactic_Empire
+qstr_Rebel_Alliance Rebel_Alliance
+qstr_Hutt_Cartel Hutt_Cartel
 qstr_Selected:_{reg5} Selected:_{reg5}
 qstr_You_decide_it_is_now You_decide_it_is_now_time_to_leave_your_family_and_seek_you_own_fortune.
 qstr_After_visiting_the_r After_visiting_the_recruiting_center_you_were_accepted_into_the_army_and_spent_several_months_training_at_the_Imperial_Academy._As_your_last_task_before_graduation_you_were_given_a_small_ship_and_sent_to_Coruscant_to_pledge_your_loyalty_before_Emperor_Palpatine_himself.
