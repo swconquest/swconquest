@@ -249,7 +249,7 @@ spr_sw_hoth_trench2 0 0 hoth_trench2 bo_hoth_trench2 0
 spr_sw_hoth_trench3 0 0 hoth_trench3 bo_hoth_trench3 0
 
 
-spr_sw_hoth_turret1 0 0 hoth_turret1 bo_hoth_turret1 0
+spr_sw_hoth_turret1 0 0 hoth_turret2 bo_hoth_turret2 0
 
 
 spr_sw_hoth_turret2 0 0 hoth_turret2 bo_hoth_turret2 0
