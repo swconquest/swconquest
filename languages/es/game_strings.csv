@@ -2,7 +2,6 @@
 # CREADO POR SWYTER, TODOS LOS DERECHOS RESERVADOS.
 # CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
 
-
 str_no_string|NO STRING!
 str_empty_string| 
 str_yes|Sí.
@@ -349,7 +348,7 @@ str_surname_29|{s50} Botanegra
 str_surname_30|{s50} el Chatarrero
 str_surname_31|{s50} el Espacial
 str_surname_32|{s50} el Joven
-str_surname_33|{s50} "Cabezacubo"
+str_surname_33|{s50} "Cabezacubo
 str_surname_34|{s50} Cazabichos
 str_surname_35|{s50} el Cortacesped
 str_surname_36|{s50} el viejete
@@ -730,7 +729,7 @@ str_npc10_personalityclash_speech|Excuse me, captain. I hate to trouble you with
 str_npc11_personalityclash_speech|Begging your pardon, captain, but I can't keep silent. That man, {s11} -- he killed his own brother.
 str_npc12_personalityclash_speech|My lord. The barbarian woman, {s11}, complained of headaches -- a possible symptom of excess of sanguinity. I thought to apply my leeches.
 str_npc13_personalityclash_speech|Captain, I weary of {s11}, who talks of nothing but chivalry and feats of arms.
-str_npc14_personalityclash_speech|Excuse me, captain. A few minutes ago, I had expressed the opinion that liberal use of the lash and occasional use of the gallows is essential to keep soldiers in line. Men without a healthy fear of their commanders are more likely to run from battle.
+str_npc14_personalityclash_speech|Captain. It is a pleasure going into battle with men like {s11} by my side.
 str_npc15_personalityclash_speech|Excuse me. I hope you don't mind me telling you that in my opinion, that girl {s11} is a danger to the party. She's a feral brat, disrespectful of authority and the basic principles of the military art.
 str_npc16_personalityclash_speech|Oy, captain. Just so you know -- there's something funny about {s11}. He makes strange scrawlings in the dirt, and mutters to himself.
 str_npc17_personalityclash_speech|Master, a member of your crew just tried to sell me for scrap metal.
@@ -748,7 +747,7 @@ str_npc10_personalityclash_speech_b|He's just a simple brigand, as far as I can 
 str_npc11_personalityclash_speech_b|He's a kinslayer, cursed by heaven, and he'll bring misfortune and sorrow upon us, that's for certain. I don't like being around him and I don't think he should be with us. That's all. Sorry for troubling you.
 str_npc12_personalityclash_speech_b|But when I tried to afix them, she recoiled and struck me, and accused me of witchcraft. Captain, I am deeply tired of attending to the complaints of such an ungrateful and ignorant lot.
 str_npc13_personalityclash_speech_b|Valorous deeds are all very well, but they are not the only goals worth pursuing in life. Personally, I never trust any man who has not at least once woken up drunk in a ditch, or been beaten by the slipper of his lover.
-str_npc14_personalityclash_speech_b|That chit {s11} saw fit to admonish me for this. I will not have my methods questioned in front of the men, and I will not serve any commander who tolerates such insubordination in his company. Thank you for allowing me to speak my peace.
+str_npc14_personalityclash_speech_b|He is a professional soldier, and though he may not be as fast on his feet as some others, he knows the wisdom of holding together in a disciplined battle-line. You showed good sense in bringing him into this company.
 str_npc15_personalityclash_speech_b|What's more, I suspect she's a thief. I found her going through my baggage and pawing some of my schematics, and she pulled a knife on me when I thought fit to object. A wise captain would not allow her in his company.
 str_npc16_personalityclash_speech_b|Fearing witchcraft, I asked him about it, and he told me that a chit of a girl like myself should mind her own business. So I had a look in his baggage, and found strange plans and diagrams. I think he's a sorceror, {sir/madame}, and if I catch him trying to hex me he'll have a knife in his throat.
 str_npc17_personalityclash_speech_b|Luckily, the scrap yard said I wasn't worth anything so they brought me back to the ship.
@@ -1281,11 +1280,11 @@ str_but_comma_2|. Nonetheless,
 str_rebellion_agree_default|[liege]
 str_rebellion_agree_martial|I have decided. I will back {s45} as the rightful heir.
 str_rebellion_agree_quarrelsome|Ahh, I've thought long enough. I never did like {s46} much anyway. Let's go take his throne away from him.
-str_rebellion_agree_pitiless|You are fortunate. I have decided to join you. Pray do not give me cause to regret this decision.
-str_rebellion_agree_cunning|This is a most dangerous decision, but after careful consideration, I have decided that I will join you. Let's hope it is for the best.
-str_rebellion_agree_sadistic|I have decided. I will back your {reg3?woman:man} {s45}. But you'd best make sure that {reg3?she:he} rewards me well!
-str_rebellion_agree_goodnatured|All right. I think your {reg3?woman:man} will be a good ruler. I'll join you.
-str_rebellion_agree_upstanding|So be it. My first duty is to this realm, and to save it from lawlessness I will back {s45} and renounce my homage to {s46}. May the Heavens forgive me if I do wrong.
+str_rebellion_agree_pitiless|No. I will not join your rebellion. I count it little more than the tantrum of a child, denied a bauble which {reg3?she:he} thinks should be {reg3?hers:his}. I will stick with {s46}, whose ability to rule is well-tested.
+str_rebellion_agree_cunning|I am sorry. You do not give me reason for confidence that you will win. Many will die, but I do not wish to be among them. I will continue to back {s46}.
+str_rebellion_agree_sadistic|No. I won't play your little game. You grasp at a crown, but I think instead you'll get a quick trip to the scaffold, and I'll be there by {s46}'s side to watch the headsman's axe drop.
+str_rebellion_agree_goodnatured|I am sorry. I don't feel right turning my back on {s46}. No hard feelings when me meet on the battlefield.
+str_rebellion_agree_upstanding|I am sorry. {s45}'s claim is not strong enough for me to inflict the curse of civil disorder on the poor wretches of this land. I will continue to back {s46}. May the Heavens forgive me if I do wrong.
 str_rebellion_refuse_default|[liege]
 str_rebellion_refuse_martial|I am sorry. {s45} has a good claim, but it's not enough for me to turn my back on {s46}. I will remain loyal to my liege.
 str_rebellion_refuse_quarrelsome|Nah. Your whelp {s45} doesn't have what it takes to rule this realm. I'm sticking with {s46}.
@@ -1405,7 +1404,7 @@ str_hero_wpn_slot_arrows|Arrows (should not see)
 str_hero_wpn_slot_bolts|Bolts (should not see)
 str_hero_wpn_slot_shield|Shield
 str_hero_wpn_slot_pistols|Bow (should not see)
-str_hero_wpn_slot_musket|Crossbow (should not see)
+str_hero_wpn_slot_musket|Rifles Láser
 str_hero_wpn_slot_throwing|Throwing Weapon
 str_hero_wpn_slot_goods|Do not use. Placeholder only.
 str_hero_wpn_slot_head_armor|Do not use. Placeholder only.

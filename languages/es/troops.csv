@@ -228,6 +228,8 @@ trp_arc_trooper_5|Comandante Arc Clon
 trp_arc_trooper_5_pl|Comandantes Arc Clon
 trp_rancor|Rancor Joven
 trp_rancor_pl|Rancors Jóvenes
+trp_rancor_mutant|Mutant Baby Rancor
+trp_rancor_mutant_pl|Mutant Baby Rancors
 trp_3poseries|Droide Serie 3PO
 trp_3poseries_pl|Droides Serie 3PO
 trp_r2series|Droide Serie R2
@@ -1094,6 +1096,10 @@ trp_town_21_seneschal|Administrador del Planeta
 trp_town_21_seneschal_pl|Town 21 Administrator
 trp_town_22_seneschal|Planet Administrator
 trp_town_22_seneschal_pl|Town 21 Administrator
+trp_town_23_seneschal|Planet Administrator
+trp_town_23_seneschal_pl|Town 21 Administrator
+trp_town_24_seneschal|Planet Administrator
+trp_town_24_seneschal_pl|Town 21 Administrator
 trp_castle_1_seneschal|Administrador del Planeta
 trp_castle_1_seneschal_pl|Castle 1 Administrator
 trp_castle_2_seneschal|Administrador del Planeta
@@ -1174,6 +1180,10 @@ trp_castle_39_seneschal|Administrador del Planeta
 trp_castle_39_seneschal_pl|Castle 9 Administrator
 trp_castle_40_seneschal|Administrador del Planeta
 trp_castle_40_seneschal_pl|Castle 20 Administrator
+trp_castle_41_seneschal|Planet Administrator
+trp_castle_41_seneschal_pl|Castle 20 Administrator
+trp_castle_42_seneschal|Planet Administrator
+trp_castle_42_seneschal_pl|Castle 20 Administrator
 trp_town_1_arena_master|Encargado de la Arena
 trp_town_1_arena_master_pl|Tournament Master
 trp_town_2_arena_master|Encargado de la Arena
@@ -1218,6 +1228,14 @@ trp_town_21_arena_master|Encargado de la Arena
 trp_town_21_arena_master_pl|Tournament Master
 trp_town_22_arena_master|Arena Master
 trp_town_22_arena_master_pl|Tournament Master
+trp_town_23_arena_master|Arena Master
+trp_town_23_arena_master_pl|Tournament Master
+trp_town_24_arena_master|Arena Master
+trp_town_24_arena_master_pl|Tournament Master
+trp_town_25_arena_master|Arena Master
+trp_town_25_arena_master_pl|Tournament Master
+trp_town_26_arena_master|Arena Master
+trp_town_26_arena_master_pl|Tournament Master
 trp_town_1_armorer|Vendedor de Ropa y Protección
 trp_town_1_armorer_pl|Vendedor de Ropa y Protección
 trp_town_2_armorer|Vendedor de Ropa y Protección
@@ -1262,6 +1280,14 @@ trp_town_21_armorer|Vendedor de Ropa y Protección
 trp_town_21_armorer_pl|Vendedor de Ropa y Protección
 trp_town_22_armorer|Armorer
 trp_town_22_armorer_pl|Armorer
+trp_town_23_armorer|Armorer
+trp_town_23_armorer_pl|Armorer
+trp_town_24_armorer|Armorer
+trp_town_24_armorer_pl|Armorer
+trp_town_25_armorer|Armorer
+trp_town_25_armorer_pl|Armorer
+trp_town_26_armorer|Armorer
+trp_town_26_armorer_pl|Armorer
 trp_town_1_weaponsmith|Vendedor de Pistolas y Armas
 trp_town_1_weaponsmith_pl|Vendedor de Pistolas y Armas
 trp_town_2_weaponsmith|Vendedor de Pistolas y Armas
@@ -1306,6 +1332,14 @@ trp_town_21_weaponsmith|Vendedor de Pistolas y Armas
 trp_town_21_weaponsmith_pl|Vendedor de Pistolas y Armas
 trp_town_22_weaponsmith|Weaponsmith
 trp_town_22_weaponsmith_pl|Weaponsmith
+trp_town_23_weaponsmith|Weaponsmith
+trp_town_23_weaponsmith_pl|Weaponsmith
+trp_town_24_weaponsmith|Weaponsmith
+trp_town_24_weaponsmith_pl|Weaponsmith
+trp_town_25_weaponsmith|Weaponsmith
+trp_town_25_weaponsmith_pl|Weaponsmith
+trp_town_26_weaponsmith|Weaponsmith
+trp_town_26_weaponsmith_pl|Weaponsmith
 trp_town_1_tavernkeeper|Camarero
 trp_town_1_tavernkeeper_pl|Camarero
 trp_town_2_tavernkeeper|Camarero
@@ -1350,6 +1384,14 @@ trp_town_21_tavernkeeper|Camarero
 trp_town_21_tavernkeeper_pl|Camarero
 trp_town_22_tavernkeeper|Bartender
 trp_town_22_tavernkeeper_pl|Bartender
+trp_town_23_tavernkeeper|Bartender
+trp_town_23_tavernkeeper_pl|Bartender
+trp_town_24_tavernkeeper|Bartender
+trp_town_24_tavernkeeper_pl|Bartender
+trp_town_25_tavernkeeper|Bartender
+trp_town_25_tavernkeeper_pl|Bartender
+trp_town_26_tavernkeeper|Bartender
+trp_town_26_tavernkeeper_pl|Bartender
 trp_town_1_merchant|Vendedor
 trp_town_1_merchant_pl|Vendedor
 trp_town_2_merchant|Vendedor
@@ -1394,6 +1436,14 @@ trp_town_21_merchant|Vendedor
 trp_town_21_merchant_pl|Vendedor
 trp_town_22_merchant|Merchant
 trp_town_22_merchant_pl|Merchant
+trp_town_23_merchant|Merchant
+trp_town_23_merchant_pl|Merchant
+trp_town_24_merchant|Merchant
+trp_town_24_merchant_pl|Merchant
+trp_town_25_merchant|Merchant
+trp_town_25_merchant_pl|Merchant
+trp_town_26_merchant|Merchant
+trp_town_26_merchant_pl|Merchant
 trp_salt_mine_merchant|Barezan
 trp_salt_mine_merchant_pl|Barezan
 trp_town_1_horse_merchant|Vendedor de Vehículos
@@ -1440,6 +1490,14 @@ trp_town_21_horse_merchant|Vendedor de Vehículos
 trp_town_21_horse_merchant_pl|Town 21 Vendedor de Vehículos
 trp_town_22_horse_merchant|Transportation Merchant
 trp_town_22_horse_merchant_pl|Town 21 Transportation Merchant
+trp_town_23_horse_merchant|Transportation Merchant
+trp_town_23_horse_merchant_pl|Town 23 Transportation Merchant
+trp_town_24_horse_merchant|Transportation Merchant
+trp_town_24_horse_merchant_pl|Town 24 Transportation Merchant
+trp_town_25_horse_merchant|Transportation Merchant
+trp_town_25_horse_merchant_pl|Town 23 Transportation Merchant
+trp_town_26_horse_merchant|Transportation Merchant
+trp_town_26_horse_merchant_pl|Town 24 Transportation Merchant
 trp_town_1_mayor|Administrador del Planeta
 trp_town_1_mayor_pl|Administrador del Planeta
 trp_town_2_mayor|Administrador del Planeta
@@ -1484,6 +1542,14 @@ trp_town_21_mayor|Administrador del Planeta
 trp_town_21_mayor_pl|Administrador del Planeta
 trp_town_22_mayor|Planet Administrator
 trp_town_22_mayor_pl|Planet Administrator
+trp_town_23_mayor|Planet Administrator
+trp_town_23_mayor_pl|Planet Administrator
+trp_town_24_mayor|Planet Administrator
+trp_town_24_mayor_pl|Planet Administrator
+trp_town_25_mayor|Planet Administrator
+trp_town_25_mayor_pl|Planet Administrator
+trp_town_26_mayor|Planet Administrator
+trp_town_26_mayor_pl|Planet Administrator
 trp_village_1_elder|Administrador del Planeta
 trp_village_1_elder_pl|village 1 elder
 trp_village_2_elder|Administrador del Planeta

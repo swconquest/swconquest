@@ -3,8 +3,8 @@
 # CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
 
 fac_no_faction|Sin Facción
-fac_commoners|Commoners
-fac_outlaws|Outlaws
+fac_commoners|Neutrales
+fac_outlaws|Fuera de la Ley
 fac_neutral|Neutral
 fac_innocents|Inocentes
 fac_merchants|Mercaderes
@@ -13,6 +13,10 @@ fac_dark_knights|Caballeros Oscuros
 fac_culture_1|culture 1
 fac_culture_2|culture 2
 fac_culture_3|culture 3
+fac_culture_4|culture 4
+fac_culture_5|culture 5
+fac_culture_6|culture 6
+fac_culture_7|culture 7
 fac_player_faction|Facción del Jugador
 fac_player_supporters_faction|Facción del Jugador
 fac_kingdom_1|Imperio Galáctico
@@ -20,13 +24,13 @@ fac_kingdom_2|Alianza Rebelde
 fac_kingdom_3|Cartel Hutt
 fac_kingdoms_end|kingdoms end
 fac_robber_knights|robber knights
-fac_khergits|Khergits
-fac_black_khergits|Black Khergits
-fac_manhunters|Desertores
-fac_deserters|Deserters
-fac_mountain_bandits|Mountain Bandits
-fac_forest_bandits|Forest Bandits
+fac_khergits|Bandidos y Ladrones
+fac_black_khergits|Bandidos y Ladrones
+fac_manhunters|Bandidos y Ladrones
+fac_deserters|Desertores
+fac_mountain_bandits|Bandidos y Ladrones
+fac_forest_bandits|Bandidos y Ladrones
 fac_undeads|No Muertos
-fac_slavers|Esclavos
-fac_peasant_rebels|Peasant Rebels
-fac_noble_refugees|Noble Refugees
+fac_slavers|Esclavistas
+fac_peasant_rebels|Campesinos Rebeldes
+fac_noble_refugees|Refugiados Nobles

@@ -2,8 +2,6 @@
 # CREADO POR SWYTER, TODOS LOS DERECHOS RESERVADOS.
 # CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
 
-
-
 itm_no_item|INVALID ITEM
 itm_no_item_pl|INVALID ITEM
 itm_horse_meat|Horse Meat
@@ -1070,8 +1068,14 @@ itm_mandalorian_tunic|Túnica Mandaloriana
 itm_mandalorian_tunic_pl|Túnica Mandaloriana
 itm_mandalorian_soldier_helmet|Casco Mandaloriano
 itm_mandalorian_soldier_helmet_pl|Casco Mandaloriano
+itm_mandalorian_soldier_helmet2|Casco Mandaloriano
+itm_mandalorian_soldier_helmet2_pl|Casco Mandaloriano
+itm_mandalorian_soldier_helmet3|Casco Mandaloriano
+itm_mandalorian_soldier_helmet3_pl|Casco Mandaloriano
 itm_mandalorian_soldier_armor|Armadura Mandaloriana
 itm_mandalorian_soldier_armor_pl|Armadura Mandaloriana
+itm_mandalorian_soldier_armor2|Armadura Mandaloriana
+itm_mandalorian_soldier_armor2_pl|Armadura Mandaloriana
 itm_mandalorian_soldier_boots|Botas Mandalorianas
 itm_mandalorian_soldier_boots_pl|Botas Mandalorianas
 itm_mandalorian_commando_helmet|Casco Mandaloriano
@@ -1084,6 +1088,10 @@ itm_mandalorian_sniper_helmet|Casco Mandaloriano
 itm_mandalorian_sniper_helmet_pl|Casco Mandaloriano
 itm_mandalorian_sniper_armor|Armadura Mandaloriana
 itm_mandalorian_sniper_armor_pl|Armadura Mandaloriana
+itm_mandalorian_sniper_armor2|Mandalorian Sniper Armor
+itm_mandalorian_sniper_armor2_pl|Mandalorian Sniper Armor
+itm_mandalorian_sniper_armor3|Mandalorian Sniper Armor
+itm_mandalorian_sniper_armor3_pl|Mandalorian Sniper Armor
 itm_mandalorian_sniper_boots|Botas Mandalorianas
 itm_mandalorian_sniper_boots_pl|Botas Mandalorianas
 itm_mandalorian_crusader_helmet|Casco Mandaloriano
@@ -1092,6 +1100,10 @@ itm_mandalorian_neocrusader_helmet|Casco Mandaloriano
 itm_mandalorian_neocrusader_helmet_pl|Casco Mandaloriano
 itm_mandalorian_crusader_armor|Armadura Mandaloriana
 itm_mandalorian_crusader_armor_pl|Armadura Mandaloriana
+itm_mandalorian_crusader_armor2|Armadura Mandaloriana
+itm_mandalorian_crusader_armor2_pl|Armadura Mandaloriana
+itm_mandalorian_crusader_armor3|Armadura Mandaloriana
+itm_mandalorian_crusader_armor3_pl|Armadura Mandaloriana
 itm_mandalorian_crusader_boots|Botas Mandalorianas
 itm_mandalorian_crusader_boots_pl|Botas Mandalorianas
 itm_mandalorian_crusader_set_end|Botas Mandalorianas
@@ -1100,6 +1112,10 @@ itm_mandalorian_deadeye_helmet|Casco Mandaloriano
 itm_mandalorian_deadeye_helmet_pl|Casco Mandaloriano
 itm_mandalorian_deadeye_armor|Armadura Mandaloriana
 itm_mandalorian_deadeye_armor_pl|Armadura Mandaloriana
+itm_mandalorian_deadeye_armor2|Armadura Mandaloriana
+itm_mandalorian_deadeye_armor2_pl|Armadura Mandaloriana
+itm_mandalorian_deadeye_armor3|Armadura Mandaloriana
+itm_mandalorian_deadeye_armor3_pl|Armadura Mandaloriana
 itm_mandalorian_deadeye_boots|Botas Mandalorianas
 itm_mandalorian_deadeye_boots_pl|Botas Mandalorianas
 itm_mandalorian_deadeye_set_end|Botas Mandalorianas
@@ -1786,5 +1802,7 @@ itm_disruptor_ammo|Munición Disruptora de Pistola
 itm_disruptor_ammo_pl|Munición Disruptora de Pistola
 itm_disruptor_ammo_rifle|Munición Disruptora de Rifle
 itm_disruptor_ammo_rifle_pl|Munición Disruptora de Rifle
+itm_heavy_repeater|Imperial Heavy Repeater
+itm_heavy_repeater_pl|Imperial Heavy Repeater
 itm_items_end|INVALID ITEM
 itm_items_end_pl|INVALID ITEM

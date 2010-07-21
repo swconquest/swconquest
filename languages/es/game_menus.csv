@@ -3,6 +3,7 @@
 # CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
 
 menu_start_game_1|Hace mucho tiempo, en una galaxia muy, muy lejana...^^Bienvenido, a Star Wars: Conquest, un mod para Mount&Blade. Antes de empezar a jugar debes crear un personaje. Elige tu raza:
+mno_start_mod|Personaje rápido  [para desarrolladores]
 mno_start_male|Hombre Humano
 mno_start_female|Mujer Humana
 mno_start_twilek|Hombre Twilek
@@ -44,17 +45,17 @@ mno_tutorial_5|Tutorial 5: Comandar una tropa de Soldados. {s5}
 mno_go_back_dot|Volver.
 menu_reports|Renombre del Personaje: {reg5}^Reputación: {reg6}^Moral del Grupo: {reg8}^Tamaño máximo del Grupo: {reg7}^
 mno_cheat_faction_orders|Truco: Órdenes a la Facción.
-mno_view_character_report|Estado de los NPC.
+mno_view_character_report|Informe de compañeros.
 mno_view_party_size_report|Ver Informe del Tamaño del Grupo.
 mno_view_morale_report|Ver Informe de la Moral del Grupo.
-mno_view_character_report|Estado de los NPC.
+mno_view_character_report|Informe de compañeros.
 mno_Companions_overview|Revisión de Compañeros.
 mno_view_faction_relations_report|Ver tu Relación con las Facciones.
 mno_resume_travelling|Volver al viaje.
 menu_custom_battle_2|{s16}
 mno_custom_battle_go|Iniciar
 mno_leave_custom_battle_2|Cancelar.
-menu_custom_battle_end|La Batalla ha terminado. {s1} Tu ejercito a matado a {reg5} tropas, el ejercito enemigo a matado a {reg6} tropas. Tú has matado a {reg7} tropas.
+menu_custom_battle_end|La Batalla ha terminado. {s1} Tu ejercito ha acabado con {reg5} tropas, el ejercito enemigo ha acabado con {reg6} tropas. Tú en concreto has matado {reg7} tropas.
 mno_continue|Volver
 menu_start_character_0|Te pasaste tus primeros años viajando con tus padres por la Galaxia. Tu padre fué...
 mno_start_quick_ambassador|Un Embajador
@@ -101,7 +102,7 @@ mno_camp_manage_inventory|Administrar el Inventario.
 mno_camp_wait_here|Esperar aquí por un tiempo.
 mno_walk_around_menu|Caminar por tu Nave.
 mno_configuration_menu|Menú de Configuración de SWC.
-mno_cheat_menu|Menú de Modding/Trucos [Uso de Desarrollo]
+mno_cheat_menu|Menú de los Desarrolladores
 mno_resume_travelling|Volver al viaje.
 menu_walk_around_choose|¿Por qué área de la Nave quieres caminar?
 mno_walk_around_passenger_quarters|La zona de Pasajeros.
@@ -284,14 +285,14 @@ mno_start_fight|Comenzar duelo.
 mno_duel_again|Enfrentarse otra vez.
 mno_leave|{s20}
 menu_simple_encounter|{s2} Tienes a {reg10} tropas para una batalla contra {reg11}.
-mno_commander_change_simple_encounter|Cambiar de comandante.(Current:{s7})
+mno_commander_change_simple_encounter|Cambiar de comandante.[Actual: {s7}]
 mno_encounter_attack|Aterrizar y luchar en {s1}.
 mno_encounter_attack_board_ship|Luchar en la nave.
 mno_encounter_order_attack|Ordenar a tus tropas que ataquen sin ti.
 mno_encounter_leave|Abandonar.
 mno_encounter_retreat|Retirarse, dejando a algunos soldados detrás para cubrir la retirada.
 mno_encounter_surrender|Rendirse.
-menu_change_commander|Selecciona a un compañero como el comandante para la siguiente batalla.^^Current:{s7}.
+menu_change_commander|Selecciona a un compañero como el comandante para la siguiente batalla.^^[Actual: {s7}].
 mno_go_back|Volver.
 mno_prev_page|Página anterior.
 mno_commander1|{s11}(Salud:{reg1}%) 
@@ -375,12 +376,12 @@ mno_leave|{s20}
 menu_castle_outside|Estás afuera de {s2}.{s11} {s3} {s4}
 mno_approach_gates|Acercarse al planeta y contactar con la seguridad local.
 mno_town_sneak|Disfrazarse e intentar entrar en el planeta.
-mno_castle_start_siege|Asediar {reg6?town:castle}.
-mno_cheat_castle_start_siege|CHEAT: Asediar {reg6?town:castle}...
+mno_castle_start_siege|Asediar {reg6?Planeta:Castillo}.
+mno_cheat_castle_start_siege|Truco: Asediar {reg6?ciudad:castillo}...
 mno_castle_leave|Abandonar.
-mno_castle_cheat_interior|CHEAT! Interior.
-mno_castle_cheat_exterior|CHEAT! Exterior.
-mno_castle_cheat_town_walls|CHEAT! Murallas.
+mno_castle_cheat_interior|Truco: Interior.
+mno_castle_cheat_exterior|Truco: Exterior.
+mno_castle_cheat_town_walls|Truco: Murallas.
 menu_castle_guard|Te aproximas a las pistas de aterrizaje. Los guardias en los puestos de observación vigilan tus movimientos.
 mno_request_shelter|Pedir permiso para entrar.
 mno_request_meeting_commander|Pedir audiencia con alguien.
@@ -467,7 +468,7 @@ mno_village_buy_food|Comprar suministros.
 mno_commander_change_village_attack_bandits|Cambiar Comandante.[{s7}]
 mno_village_attack_bandits|Atacar a los bandidos
 mno_village_wait|Esperar aquí un tiempo
-mno_collect_taxes_qst|{reg5?Seguir cobrando impuestos:Cobrar impuestos} debido a {s1}.
+mno_collect_taxes_qst|{reg5?Seguir cobrando impuestos:Collect taxes} debidos a {s1}.
 mno_train_peasants_against_bandits_qst|Entrenar a los locales.
 mno_village_hostile_action|Realizar un acto hostil.
 mno_village_reports|CHEAT! Mostrar Informes.
@@ -492,11 +493,11 @@ mno_build_b2series|B2-Series Battle Droids.
 mno_leave|{s20}
 menu_recruit_droids|{s18}
 mno_continue|Volver
-mno_recruit_them|Constuir {reg5} de ellos ({reg6} créditos).
+mno_recruit_them|Reclutar {reg5} de ellos ({reg6} créditos).
 mno_forget_it|Olvídalo.
 menu_recruit_rancors|{s18}
 mno_continue|Volver
-mno_recruit_them|Criar {reg5} de ellos ({reg6} créditos).
+mno_recruit_them|Reclutar {reg5} de ellos ({reg6} créditos).
 mno_forget_it|Olvídalo.
 menu_recruit_volunteers|{s18}
 mno_continue|Volver
@@ -508,7 +509,7 @@ menu_village_infest_bandits_result|{s9}
 mno_continue|Volver
 menu_village_infestation_removed|En una batalla digna de recuerdo consigues deshacerte de la patrulla hostil. Poco les queda a las gentes del planeta, pero te lo ofrecen de buena gana en muestra de agradecimiento.
 mno_village_bandits_defeated_accept|Tómalo como tu justo pago.
-mno_village_bandits_defeated_cont|Niégate, alegando que lo necesitan más que tú.
+mno_village_bandits_defeated_cont|Niégate, alegado que lo necesitan más que tú.
 menu_center_manage|{s19}^{reg6?^^Actualmente estas construyendo {s7}. El edificio estará completo en el dia {reg8} {reg9?s:}.:}
 mno_center_build_temple|Construir un Templo de la Fuerza.
 mno_center_build_clone_chambers|Construir Cámaras de Clonación.
@@ -677,17 +678,17 @@ menu_sneak_into_town_caught_ran_away|Te haces un camino hasta tu nave y te march
 mno_continue|Volver
 menu_enemy_offer_ransom_for_prisoner|{s2} te ofrece una sume de {reg12} créditos si aceptas venderle a {s1}.
 mno_ransom_accept|Aceptar la oferta.
-mno_ransom_reject|Reject la oferta.
+mno_ransom_reject|Rechazar la oferta.
 menu_training_ground|Alcanzas un campo de entrenamiento donde puedes practicar tus habilidades tranquilamente. ¿Qué tipo de entrenamiento quieres realizar?
 mno_camp_trainer|Hablar con el entrenador.
 mno_camp_train_melee|Practicar con sparring.
 mno_camp_train_archery|Practicar tiro al blanco.
 mno_camp_train_mounted|Practicar con moto speeders.
 mno_space_entry|Practicar combate espacial.
-mno_leave|Salir
-mno_space_battle|Cheat: Batalla espacial
+mno_leave|{s20}
+mno_space_battle|Truco: Batalla espacial
 mno_space_battle_door|Despegar la nave espacial.
-mno_go_to_track|Cheat: Go to track.
+mno_go_to_track|Truco: Go to track.
 mno_go_to_range|Cheat: Go to range.
 menu_training_ground_selection_details_melee_1|¿A cuántos oponentes piensas enfrentarte?
 mno_camp_train_melee_num_men_1|Uno.
@@ -742,7 +743,7 @@ menu_training_ground_description|{s0}
 mno_continue|Volver
 menu_training_ground_training_result|{s7}{s2}
 mno_continue|Volver
-menu_marshall_selection_candidate_ask|{s15} will soon select a new marshall for {s23}. Some of the lords have suggested your name as a likely candidate.
+menu_marshall_selection_candidate_ask|{s15} elegirá proximamente el nuevo mariscal de {s23}. Algunos de los comandantes han sugerido tu nombre para tomar parte en el cargo.
 mno_marshall_candidate_accept|Deja que {s15} conozca que pretendes ser Mariscal.
 mno_marshall_candidate_reject|Dile a todo el mundo que te encuentras indispuesto estos días.
 menu_captivity_avoid_wilderness|Suddenly all the world goes black around you. Many hours later you regain your conciousness and find yourself at the spot you fell. Your enemies must have taken you up for dead and left you there. However, it seems that none of your wound were lethal, and altough you feel awful, you find out that can still walk. You get up and try to look for any other survivors from your party.
@@ -765,8 +766,8 @@ menu_captivity_castle_check|stub
 menu_captivity_end_exchanged_with_prisoner|After days of imprisonment, you are finally set free when your captors exchange you with another prisoner.
 mno_continue|Volver
 menu_captivity_end_propose_ransom|You spend long hours in the sunless dank of the dungeon, more than you can count. Suddenly one of your captors enters your cell with an offer; he proposes to free you in return for {reg5} créditos of your hidden wealth. You decide to...
-mno_captivity_end_ransom_accept|Aceptar the offer.
-mno_captivity_end_ransom_deny|Refuse him, wait for something better.
+mno_captivity_end_ransom_accept|Aceptar la oferta.
+mno_captivity_end_ransom_deny|Rechazarla, esperar a otra mejor.
 menu_captivity_castle_remain|More days pass in the darkness of your cell. You get through them as best you can, enduring the kicks and curses of the guards, watching your underfed body waste away more and more...
 mno_continue|Volver
 menu_kingdom_army_quest_report_to_army|{s8} sends word that he wishes you to join his new military campaign. You need to bring at least {reg13} troops to the army, and are instructed to raise more men with all due haste if you do not have enough.
@@ -779,15 +780,15 @@ menu_kingdom_army_follow_failed|You have disobeyed orders and failed to follow {
 mno_continue|Volver
 menu_invite_player_to_faction_without_center|You receive an offer of vassalage!^^ {s8} of {s9} has sent a royal herald to bring you an invititation in his own hand. You would be granted the honour of becoming a vassal {lord/lady} of {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, although he offers you no lands or titles. He will surely be offended if you do not take the offer...
 mno_faction_accept|Aceptar
-mno_faction_reject|Decline the invitation.
+mno_faction_reject|Declinar la invitación.
 menu_invite_player_to_faction|You receive an offer of vassalage!^^ {s8} of {s9} has sent a royal herald to bring you an invititation in his own hand. You would be granted the honour of becoming a vassal {lord/lady} of {s9}, and in return {s8} asks you to swear an oath of homage to him and fight in his military campaigns, offering you the fief of {s2} for your loyal service. He will surely be offended if you do not take the offer...
 mno_faction_accept|Aceptar
-mno_faction_reject|Decline the invitation.
+mno_faction_reject|Declinar la invitación.
 menu_invite_player_to_faction_accepted|In order to become a vassal, you must swear an oath of homage to {s3}. You shall have to find him and give him your oath in person. {s5}
 mno_continue|Volver
 menu_question_peace_offer|You Receive a Peace Offer^^{s1} offers you a peace agreement. What is your answer?
 mno_peace_offer_accept|Aceptar
-mno_peace_offer_reject|Reject
+mno_peace_offer_reject|Rechazar
 menu_notification_player_faction_active|You now posess land in your name without being tied to any kingdom, as a masterless warlord who knows no higher authority. Enjoy this freedom, but know that the kings of the land will not look to you kindly and will make every attempt to dispose of you. You may find life very difficult without the protection of a kingdom.
 mno_continue|Volver
 menu_notification_player_faction_deactive|You no longer hold any land.
@@ -827,8 +828,8 @@ mno_next|Siguiente
 mno_cancel_custom_battle_mod|Cancel
 menu_custom_battle_config_2|Elige un tipo de batalla.^Elección: {s1}
 mno_1vs1|Uno contra uno
-mno_3way|Three Way
-mno_4way|Four Way
+mno_3way|Tres facciones, todos contra todos
+mno_4way|Cuatro facciones, todos contra todos
 mno_2vs2|Dos contra dos
 mno_next|Siguiente
 menu_custom_battle_config_3|Elige la facción para tu ejercito {reg1}.^Elección: {s1}
@@ -940,9 +941,9 @@ mno_take_deposit|Sacar 1000 créditos de tu cuenta.
 mno_take_deposit_all|Sacar todos tus ahorros de la cuenta.
 mno_back_to_town_menu|Volver Atrás
 menu_take_out_loan|Se te concede un préstamo^^Sólo puedes tener un préstamo a la vez. SSi pides más se te añadira el pago a tu deuda total^^Todas las deudas son por 30 dias. Tienes que pagar tu deuda antes del tiempo estipulado.
-mno_1000_créditos|Tomar un préstamo de 1000 créditos. Tendrás que devolver {reg11} créditos.
-mno_2500_créditos|Tomar un préstamo de 2500 créditos. Tendrás que devolver {reg11} créditos.
-mno_5000_créditos|Tomar un préstamo de 5000 créditos. Tendrás que devolver {reg11} créditos.
+mno_1000_credits|Take a loan of 1000 credits. You'll have to repay {reg11} credits.
+mno_2500_credits|Take a loan of 2500 credits. You'll have to repay {reg11} credits.
+mno_5000_credits|Take a loan of 5000 credits. You'll have to repay {reg11} credits.
 mno_back_to_bank_menu|Volver Atrás
 menu_swc_readme|Star Wars: Conquest - Notas^^Este mod todavía está en desarrollo. Esperamos ir añadiendo modelos, facciones, misiones, edición de escenarios, y otras funcionalidades. Por Favor, postea todos los errores que encuentres en nuetro foro(en Inglés).^^El contenido del mod y los cambios futuros se orientarán principalmente en las películas originales, Episodio 4-6. Las tropas y equipamiento de las Guerras Clon se han incluido pero no está previsto un mantenimiento exaustivo.^^La edición de escenas está todavía en progreso y hemos cambiado los planetas más importantes como Tatooine, Yavin IV, Naboo, Geonosis, Ryloth, Kashyyyk, y Endor. Tambien estamos creando varias escenas genéricas para usar en estaciones espaciales, de guerra, y planetas menos importantes. Esto todavía está por hacer y no está listo por ahora.^^Los Poderes de la Fuerza se pueden comprar a un Maestro de la Fuerza que se podrá encontrar en la Cantina.^^Los Soldados Clon, Droides de Batalla B1, Rancors jóvenes, y personas sensibles a la Fuerza pueden reclutarse construyendo sus respectivos edificios en tus planetas.^^Las Batallas Espaciales se encuentran el la Academia de Entrenamiento. Mejorar este aspecto no es una prioridad pero puede ser revisado en el futuro.^^Las Armas Pesadas (Lanzador de Cohetes, Rifle Lanzallamas, etc) y algunos poderes de la fuerza (Matar con la Fuerza,Desmayar con la Fuerza, etc) se incluyen por diversión pero desequilibran la dificultad de juego si decides usarlos.^^Actualmente algunas naves pueden ser compradas y mejoradas en las Bases de la Federación de Comercio y planeamos añadir más.^^No se distribuye música con el mod, pero se han incluido MP3 vacios facilmente reemplazables. Mira nuestro foro para ver como añadir música.^^Es posible cojer droides de los prisioneros Jawa pero esos droides no harán nada en batalla.^^Admitimos ayuda con modelos, texturas, edición de Escenas, y programación. Postea en nuestro foro si estás interesado en ayudar.^^
 mno_done|Aceptar
@@ -1559,6 +1560,7 @@ mno_choose_scene_466|pueblo 90: generar
 mno_choose_scene_467|zendar arena: generar
 menu_choose_scenes_468|Elige una escena: (Página 37 de 37)
 mno_back|Atrás
+mno_next|Siguiente
 mno_previous|Anterior
 mno_choose_scene_468|zendar center: generar
 mno_choose_scene_469|zendar merchant: (interna|geometria)
@@ -1572,3 +1574,62 @@ mno_choose_scene_476|pueblo 90: generar
 mno_choose_scene_477|zendar arena: generar
 mno_choose_scene_478|zendar center: generar
 mno_choose_scene_479|zendar merchant: (interna|geometria)
+mno_choose_scene_480|village 54: generate
+menu_choose_scenes_481|Choose a scene: (Page 38 of 41)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_481|village 55: generate
+mno_choose_scene_482|village 56: generate
+mno_choose_scene_483|village 57: generate
+mno_choose_scene_484|village 58: generate
+mno_choose_scene_485|village 59: generate
+mno_choose_scene_486|village 6: generate
+mno_choose_scene_487|village 60: generate
+mno_choose_scene_488|village 61: generate
+mno_choose_scene_489|village 62: generate
+mno_choose_scene_490|village 63: generate
+mno_choose_scene_491|village 64: generate
+mno_choose_scene_492|village 65: generate
+mno_choose_scene_493|village 66: generate
+menu_choose_scenes_494|Choose a scene: (Page 39 of 41)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_494|village 67: generate
+mno_choose_scene_495|village 68: generate
+mno_choose_scene_496|village 69: generate
+mno_choose_scene_497|village 7: generate
+mno_choose_scene_498|village 70: generate
+mno_choose_scene_499|village 71: generate
+mno_choose_scene_500|village 72: generate
+mno_choose_scene_501|village 73: generate
+mno_choose_scene_502|village 74: generate
+mno_choose_scene_503|village 75: generate
+mno_choose_scene_504|village 76: generate
+mno_choose_scene_505|village 77: generate
+mno_choose_scene_506|village 78: generate
+menu_choose_scenes_507|Choose a scene: (Page 40 of 41)
+mno_back|Atrás
+mno_next|Siguiente
+mno_previous|Anterior
+mno_choose_scene_507|village 79: generate
+mno_choose_scene_508|village 8: generate
+mno_choose_scene_509|village 80: generate
+mno_choose_scene_510|village 81: generate
+mno_choose_scene_511|village 82: generate
+mno_choose_scene_512|village 83: generate
+mno_choose_scene_513|village 84: generate
+mno_choose_scene_514|village 85: generate
+mno_choose_scene_515|village 86: generate
+mno_choose_scene_516|village 87: generate
+mno_choose_scene_517|village 88: generate
+mno_choose_scene_518|village 89: generate
+mno_choose_scene_519|village 9: generate
+menu_choose_scenes_520|Choose a scene: (Page 41 of 41)
+mno_back|Atrás
+mno_previous|Anterior
+mno_choose_scene_520|village 90: generate
+mno_choose_scene_521|zendar arena: generate
+mno_choose_scene_522|zendar center: generate
+mno_choose_scene_523|zendar merchant: indoors

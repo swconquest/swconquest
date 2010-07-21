@@ -168,16 +168,32 @@ qstr_Sale_price_{reg0}_cr|Precio de Venta {reg0} créditos
 qstr_Sell_the_ship|Vender la Nave
 qstr_Your_upgrade_has_bee|La mejora ha sido instalada.
 qstr_Your_ship_has_been_s|Tu nave ha sido vendida
+qstr_X:_00Y:_00|X: 00,Y: 00
+qstr_Over:|Over:
+qstr_Selected:|Selected:
+qstr_As_you_grew_older_yo|Según creciste decidiste unirte a una facción...
+qstr_Go_Back...|Volver...
+qstr_Remain_Independent.|Permanecer independiente.
+qstr_Galactic_Empire|Imperio Galáctico
+qstr_Rebel_Alliance|Alianza Rebelde
+qstr_Hutt_Cartel|Cartel Hutt
+qstr_Selected:_{reg5}|Selected: {reg5}
+qstr_You_decide_it_is_now|Decides que es la hora de dejar a tu familia e ir en busca de aventuras por la Galaxia.
+qstr_After_visiting_the_r|Después de visitar el Centro de Reclutamiento fuiste aceptado en el ejército. Dedicaste incontables horas de tu valioso tiempo entrenando en la Academia Imperial. Como última tarea después de tu graducación te recompensaron con una pequeña nave con destino a Coruscant para comparecer frente al mismísimo Emperador Palpatine y demostrar tu lealtad al Imperio Galáctico.
+qstr_Using_some_of_your_l|Usando algunos de tus contactos consigues localizar reuniones secretas de dirigentes Rebeldes. Después de colaborar duramente como una unidad indispensable de su comando local, varios meses después te dan una pequeña nave con la que viajar a Yavin IV para comparecer frente Mon Mothma y demostrar tu valía para la causa Rebelde.
+qstr_You_spent_several_mo|Pasas muchos meses haciendo algunos trabajos de poca monta para el señor del crimen local. Los robos y asesinatos se convierten en una parte normal de tu vida, por lo que poco a poco te vas labrando una reputación que se ve recompensada cuando te dan una pequeña nave con destino a Tatooine para dar prueba de tu lealtad frente al mismísimo Jabba el Hutt.
+qstr_X:_{reg1}Y:_{reg2}|X: {reg1},Y: {reg2}
+qstr_Over:_{reg3}{reg4}|Over: {reg3},{reg4}
 qstr_{s1}_of_{s3}_was_def|{s1} de {s3} ha sido derrotado, pero ha conseguido escapar.
-qstr_DEBUG:_{s1}_no_longe|DEBUG: {s1} no longer leads a party.
-qstr_DEBUG:_{s1}_is_no_lo|DEBUG: {s1} is no longer a prisoner.
-qstr_DEBUG:_{s1}_is_now_a|DEBUG: {s1} is now a prisoner of player.
-qstr_DEBUG:_{s1}_is_now_a_|DEBUG: {s1} is now a prisoner of {s2}.
+qstr_DEBUG:_{s1}_no_longe|DEBUG: {s1} ya no lidera ningún grupo.
+qstr_DEBUG:_{s1}_is_no_lo|DEBUG: {s1} ya no es un prisionero.
+qstr_DEBUG:_{s1}_is_now_a|DEBUG: {s1} ahora es tu prisionero.
+qstr_DEBUG:_{s1}_is_now_a_|DEBUG: {s1} es ahora prisionero de {s2}.
 qstr_+{reg1}_to_party_mor|+{reg1} de moral
 qstr_Requires_{reg1}_inte|Requiere {reg1} de inteligencia para verlo.
 qstr_Viewing_Progress:_{r|Progreso de Visionado: {reg1}%
 qstr_wound_treament|Curar Desmayos
-qstr_tactics|tacticas
+qstr_tactics|tácticas
 qstr_first_aid|primeros auxilios
 qstr_ironflesh|salud de hierro
 qstr_mounted_accuracy|precisión sobre ruedas
@@ -263,6 +279,7 @@ qstr_Your_relation_with_{s|Has empeorado tu relación con {s1}.
 qstr_You_gain_honour.|Has ganado reputación.
 qstr_You_lose_honour.|Has perdido reputación.
 qstr_{s1}_has_declared_wa|{s1} ha declarado la guerra a {s2}.
+qstr_{s1}_and_{s2}_are_in|{s1} and {s2} are in war for the galactic supremacy.
 qstr_{s1}_and_{s2}_have_m|{s1} y {s2} han hecho las paces.
 qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?estaba:está} en {s3}.
 qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?estaba:está} viajando a {s3} y ahora estará cerca de {s4}{reg3?: en este momento}.
@@ -631,17 +648,13 @@ qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is 
 qstr_End_the_sparring_mat|End the sparring match?
 qstr_You_are_not_injured_|No estás herido y por lo tanto no necesitas usar el Tanque de Bacta esta vez.
 qstr_You_are_being_healed|Estás siendo sanado por el tanque de Bacta...
-qstr_Walk_into_the_Bacta_|Métete en el Tanque de Bacta para curar tus heridas.
+qstr_Walk_into_the_Bacta_|Colócate en el Tanque de Bacta para curar tus heridas.
 qstr_Space_Combat_practic|Práctica de Combate Espacial
 qstr_Do_you_wish_to_give_|¿Quieres dejar la batalla?
 qstr_You_ve_lost_a_total_|Has perdido {reg2} duelos.
 qstr_You_ve_won_a_total_n|Has ganado {reg2} duelos
 qstr_{s4}:_M{reg3}_2M{reg|{s4}: M{reg3}, 2M{reg4}, PC{reg5}, 2PC{reg6}, PM{reg7}
 qstr_No_companions_in_par|¡No tienes compañeros en tu grupo!
-qstr_After_visiting_the_r|Después de visitar el Centro de Reclutamiento fuiste aceptado en el ejército. Dedicaste incontables horas de tu valioso tiempo entrenando en la Academia Imperial. Como última tarea después de tu graducación te recompensaron con una pequeña nave con destino a Coruscant para comparecer frente al mismísimo Emperador Palpatine y demostrar tu lealtad al Imperio Galáctico.
-qstr_Using_some_of_your_l|Usando algunos de tus contactos consigues localizar reuniones secretas de dirigentes Rebeldes. Después de colaborar duramente como una unidad indispensable de su comando local, varios meses después te dan una pequeña nave con la que viajar a Yavin IV para comparecer frente Mon Mothma y demostrar tu valía para la causa Rebelde.
-qstr_You_spent_several_mo|Pasas muchos meses haciendo algunos trabajos de poca monta para el señor del crimen local. Los robos y asesinatos se convierten en una parte normal de tu vida, por lo que poco a poco te vas labrando una reputación que se ve recompensada cuando te dan una pequeña nave con destino a Tatooine para dar prueba de tu lealtad frente al mismísimo Jabba el Hutt.
-qstr_You_decide_it_is_now|Decides que es la hora de dejar a tu familia e ir en busca de aventuras por la Galaxia.
 qstr_Back_to_the_beginnin|Vuelta al principio...
 qstr_View_next_segment...|Ver el siguiente segmento...
 qstr___| -
@@ -700,17 +713,17 @@ qstr_midnight|medianoche
 qstr_You_are_currently_vie|Actualmente estás visualizando el holocrón '{s8}' ({reg2}%).
 qstr_You_are_not_viewing_a|No estás visualizando ningún holocrón.
 qstr_You_don_t_have_enough|¡No tienes suficientes planetas como para reclutar un comandante!
-qstr_Player_Kingdom_cultu|La facción del jugador ahora es Galactic Empire.
-qstr_Player_Kingdom_cultur|La facción del jugador ahora es Rebel Alliance.
-qstr_Player_Kingdom_culture|La facción del jugador ahora es Hutt Cartel.
-qstr_Player_Kingdom_culture_|La facción del jugador ahora es Human.
+qstr_Player_Kingdom_cultu|La facción del jugador ahora es del Impero Galáctico.
+qstr_Player_Kingdom_cultur|La facción del jugador ahora es de la Alianza Rebelde.
+qstr_Player_Kingdom_culture|La facción del jugador ahora es del Cartel Hutt.
+qstr_Player_Kingdom_culture_|La facción del jugador ahora es Humana.
 qstr_Player_Kingdom_culture_i|La facción del jugador ahora es Wookiee.
-qstr_Player_Kingdom_culture_is|La facción del jugador ahora es Mandalorian.
-qstr_Player_Kingdom_culture_is_|La facción del jugador ahora es Clone.
-qstr_Player_Kingdom_culture_is_n|La facción del jugador ahora es Trandoshan.
+qstr_Player_Kingdom_culture_is|La facción del jugador ahora es Mandaloriana.
+qstr_Player_Kingdom_culture_is_|La facción del jugador ahora es Clon.
+qstr_Player_Kingdom_culture_is_n|La facción del jugador ahora es Trandoshana.
 qstr_{s2}_belongs_to_{s3}|{s2}, pertenece a {s3}
-qstr_Currently_enabled|Currently enabled
-qstr_Currently_disabled|Currently disabled
+qstr_Currently_enabled|Actualmente Activado
+qstr_Currently_disabled|Actualmente Desctivado
 qstr_Shield_Bash_integrat|Shield Bash integration has been disabled.
 qstr_Shield_Bash_integrati|Shield Bash integration has been enabled.
 qstr_Frequency_of_random_|Frequency of random scene battles was modified.

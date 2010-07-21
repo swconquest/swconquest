@@ -1,7 +1,3 @@
-# TRADUCCIÓN DE STAR WARS CONQUEST - ESPAÑOL
-# CREADO POR SWYTER, TODOS LOS DERECHOS RESERVADOS.
-# CONTACTO: MANDA UN MENSAJE PERSONAL EN FORUMS.TALEWORLDS.COM A "SWYTER"
-
 qst_deliver_message|Enviar mensaje a {s13}
 qst_deliver_message_text|{s9} te ha pedido que envíes un mensaje a {s13}. {s13} estaba en {s4} cuando te dieron esta misión.
 qst_deliver_message_to_enemy_lord|Enviar mensaje a {s13}
