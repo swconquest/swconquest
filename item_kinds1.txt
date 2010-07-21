@@ -1,5 +1,5 @@
 itemsfile version 2
-893
+902
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -1604,7 +1604,16 @@ itemsfile version 2
  itm_mandalorian_soldier_helmet Mandalorian_Soldier_Helmet Mandalorian_Soldier_Helmet 1  mandalorian_soldier_helmet 0  2684420108 0 190 704643236 2.000000 80 15 0 0 0 0 0 0 0 0 0 0
 0
 
+ itm_mandalorian_soldier_helmet2 Mandalorian_Soldier_Helmet Mandalorian_Soldier_Helmet 1  mandalorian_soldier_helmet2 0  2684420108 0 190 704643236 2.000000 80 15 0 0 0 0 0 0 0 0 0 0
+0
+
+ itm_mandalorian_soldier_helmet3 Mandalorian_Soldier_Helmet Mandalorian_Soldier_Helmet 1  mandalorian_soldier_helmet3 0  2684420108 0 190 704643236 2.000000 80 15 0 0 0 0 0 0 0 0 0 0
+0
+
  itm_mandalorian_soldier_armor Mandalorian_Soldier_Armor Mandalorian_Soldier_Armor 1  mandalorian_soldier_armor 0  553713677 0 540 704643236 8.000000 80 0 34 10 0 0 0 0 0 0 0 0
+0
+
+ itm_mandalorian_soldier_armor2 Mandalorian_Soldier_Armor Mandalorian_Soldier_Armor 1  mandalorian_soldier_armor2 0  553713677 0 540 704643236 8.000000 80 0 34 10 0 0 0 0 0 0 0 0
 0
 
  itm_mandalorian_soldier_boots Mandalorian_Soldier_Boots Mandalorian_Soldier_Boots 1  mandalorian_soldier_boots 0  536940302 0 150 704643236 2.000000 80 0 0 12 0 0 0 0 0 0 0 0
@@ -1625,6 +1634,12 @@ itemsfile version 2
  itm_mandalorian_sniper_armor Mandalorian_Sniper_Armor Mandalorian_Sniper_Armor 1  mandalorian_sniper_armor 0  553713677 0 780 704643236 8.000000 80 0 46 14 0 0 0 0 0 0 0 0
 0
 
+ itm_mandalorian_sniper_armor2 Mandalorian_Sniper_Armor Mandalorian_Sniper_Armor 1  mandalorian_sniper_armor2 0  553713677 0 780 704643236 8.000000 80 0 46 14 0 0 0 0 0 0 0 0
+0
+
+ itm_mandalorian_sniper_armor3 Mandalorian_Sniper_Armor Mandalorian_Sniper_Armor 1  mandalorian_sniper_armor3 0  553713677 0 780 704643236 8.000000 80 0 46 14 0 0 0 0 0 0 0 0
+0
+
  itm_mandalorian_sniper_boots Mandalorian_Sniper_Boots Mandalorian_Sniper_Boots 1  mandalorian_sniper_boots 0  536940302 0 180 704643236 2.000000 80 0 0 14 0 0 0 0 0 0 0 0
 0
 
@@ -1637,6 +1652,12 @@ itemsfile version 2
  itm_mandalorian_crusader_armor Mandalorian_Crusader_Armor Mandalorian_Crusader_Armor 1  mandalorian_crusader_armor 0  553713677 0 930 704643236 8.000000 80 0 52 18 0 0 0 0 0 0 0 0
 0
 
+ itm_mandalorian_crusader_armor2 Mandalorian_Crusader_Armor Mandalorian_Crusader_Armor 1  mandalorian_crusader_armor2 0  553713677 0 930 704643236 8.000000 80 0 52 18 0 0 0 0 0 0 0 0
+0
+
+ itm_mandalorian_crusader_armor3 Mandalorian_Crusader_Armor Mandalorian_Crusader_Armor 1  mandalorian_crusader_armor3 0  553713677 0 930 704643236 8.000000 80 0 52 18 0 0 0 0 0 0 0 0
+0
+
  itm_mandalorian_crusader_boots Mandalorian_Crusader_Boots Mandalorian_Crusader_Boots 1  mandalorian_crusader_boots 0  536940302 0 210 704643236 2.000000 80 0 0 16 0 0 0 0 0 0 0 0
 0
 
@@ -1647,6 +1668,12 @@ itemsfile version 2
 0
 
  itm_mandalorian_deadeye_armor Mandalorian_Deadeye_Armor Mandalorian_Deadeye_Armor 1  mandalorian_deadeye_armor 0  553713677 0 930 704643236 8.000000 80 0 52 18 0 0 0 0 0 0 0 0
+0
+
+ itm_mandalorian_deadeye_armor2 Mandalorian_Deadeye_Armor Mandalorian_Deadeye_Armor 1  mandalorian_deadeye_armor2 0  553713677 0 930 704643236 8.000000 80 0 52 18 0 0 0 0 0 0 0 0
+0
+
+ itm_mandalorian_deadeye_armor3 Mandalorian_Deadeye_Armor Mandalorian_Deadeye_Armor 1  mandalorian_deadeye_armor3 0  553713677 0 930 704643236 8.000000 80 0 52 18 0 0 0 0 0 0 0 0
 0
 
  itm_mandalorian_deadeye_boots Mandalorian_Deadeye_Boots Mandalorian_Deadeye_Boots 1  mandalorian_deadeye_boots 0  536940302 0 240 704643236 2.000000 80 0 0 18 0 0 0 0 0 0 0 0
