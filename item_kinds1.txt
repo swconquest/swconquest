@@ -1,5 +1,5 @@
 itemsfile version 2
-902
+905
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -1625,6 +1625,9 @@ itemsfile version 2
  itm_mandalorian_commando_armor Mandalorian_Commando_Armor Mandalorian_Commando_Armor 1  mandalorian_commando_armor 0  553713677 0 780 704643236 8.000000 80 0 46 14 0 0 0 0 0 0 0 0
 0
 
+ itm_mandalorian_commando_armor2 Mandalorian_Commando_Armor Mandalorian_Commando_Armor 1  mandalorian_commando_armor2 0  553713677 0 780 704643236 8.000000 80 0 46 14 0 0 0 0 0 0 0 0
+0
+
  itm_mandalorian_commando_boots Mandalorian_Commando_Boots Mandalorian_Commando_Boots 1  mandalorian_commando_boots 0  536940302 0 180 704643236 2.000000 80 0 0 14 0 0 0 0 0 0 0 0
 0
 
@@ -2809,6 +2812,12 @@ itemsfile version 2
  itm_heavy_repeater Imperial_Heavy_Repeater Imperial_Heavy_Repeater 2  HeavyRepeater 0  HeavyRepeater 1152921504606846976  73465865 483184082944 310 270342 6.000000 100 0 0 94 0 0 120 169 0 16 292 0
 1
 -51.000000  3 600 1 1152921504606847152 720 2 1 30 721 2 1 30 
+
+ itm_tfu_stormie tfu_stormie tfu_stormie 1  tfu_stormtrooper 0  2701135885 0 3000 0 55.000000 100 30 70 30 0 0 0 0 0 0 0 0
+0
+
+ itm_transparent_torso Transparent_Torso Transparent_Torso 2  transparent 0  transparent_helmet_inv 1152921504606846976  553652237 0 140 0 1.000000 60 15 0 0 0 0 0 0 0 0 0 0
+0
 
  itm_items_end INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0

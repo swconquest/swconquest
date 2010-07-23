@@ -279,7 +279,7 @@ qstr_Your_relation_with_{s|Has empeorado tu relación con {s1}.
 qstr_You_gain_honour.|Has ganado reputación.
 qstr_You_lose_honour.|Has perdido reputación.
 qstr_{s1}_has_declared_wa|{s1} ha declarado la guerra a {s2}.
-qstr_{s1}_and_{s2}_are_in|{s1} and {s2} are in war for the galactic supremacy.
+qstr_{s1}_and_{s2}_are_in|{s1} y {s2} están en guerra por la supremacía galáctica.
 qstr_{s1}_and_{s2}_have_m|{s1} y {s2} han hecho las paces.
 qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?estaba:está} en {s3}.
 qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?estaba:está} viajando a {s3} y ahora estará cerca de {s4}{reg3?: en este momento}.
@@ -297,7 +297,7 @@ qstr_Following|Siguiendo
 qstr_Charging|Cargando
 qstr_Advancing|Avanzando
 qstr_Falling_Back|Retrocediendo
-qstr_Standing_Closer|Marcahndo cerca
+qstr_Standing_Closer|Marchando cerca
 qstr_Spreading_Out|Dispersados
 qstr_Standing|De pie
 qstr_N/A|Nada
@@ -334,23 +334,23 @@ qstr_{s57}_{s58}|{s57}, {s58}
 qstr_{reg3?She:He}|{reg3?Ella:Él}
 qstr_^{s59}|^{s59}
 qstr_{reg6?:{reg4?{s54}_i|{reg6?:{reg4?{s54} dirige {s56}.^:{s54} es un comandante de {s55} de {s56}.^}}Renombre: {reg5}.^{reg9?{reg3?Ella:Él} es {reg3?la dirigente:el dirigente} de {s58}.:{reg3?Ella:El} por lo visto no tiene ningún planeta a su cargo.}{s59}
-qstr_The_last_time_you_sa|The last time you saw {reg1?her:him}, {s1}
-qstr_The_last_time_you_he|The last time you heard about {reg1?her:him}, {s1}
+qstr_The_last_time_you_sa|La última vez que {reg1?la:le} viste, {s1}
+qstr_The_last_time_you_he|La última vez que oiste hablar de {reg1?ella:él}, {s1}
 qstr_The_planet_of_{s50}|El planeta de {s50}
 qstr_The_planet_of_{s50}_|El planeta de {s50} cerca de {s52}
 qstr_{s50}|{s50}
 qstr_{s51}_belongs_to_{s1|{s51} pertenece a {s1} de {s2}.^
-qstr_{s2}It_has_no_villag|{s2} no tiene territorios.^
+qstr_{s2}It_has_no_villag|{s2} no gobierna en ningún planeta.^
 qstr_{s2}{reg0?Its_planet|{s2}{reg0?Sus planetas son:su planeta es} {s8}.^
 qstr_{s2}Its_prosperity_i|{s2}Su prosperidad es {s50}
-qstr_Current_garrison_con|Current garrison consists of {reg5} men.^Has food stock for {reg6} days.
+qstr_Current_garrison_con|La cantidad de efectivos es de {reg5} tropas.^Sus suministros les durarán sin problemas {reg6} días máS.
 qstr_Very_Poor|Muy pobre
 qstr_Poor|Pobre
 qstr_Average|Medio
 qstr_Rich|Rico
 qstr_Very_Rich|Muy rico
 qstr_Palace|Palacio
-qstr_A_palace_lets_you_re|A palace lets you rest on the planet y pay your troops half wages while you rest.
+qstr_A_palace_lets_you_re|Un palacio te permite descansar en el planeta y pagar a tus tropas la mitad de créditos en el tiempo que permanezcas en él.
 qstr_Industrial_Factory|Fábrica
 qstr_A_industrial_factory|Una fábrica te permite aumentar la prosperidad un 5%.
 qstr_Radar_Station|Estación de Radar
@@ -365,11 +365,11 @@ qstr_Cloning_Chambers|Cámaras de Clonación
 qstr_A_cloning_chamber_gi|Una cámara de clonación te permite crear clones.
 qstr_Droid_Foundry|Fundición de Droides
 qstr_A_droid_foundry_give|Una funcidión de Droides te permite construir Droides de combate.
-qstr_Force_Sensitive_Temp|Force-Sensitive Temple
-qstr_A_force_sensitive_te|A force-sensitive temple gives you the chance to recruit force sensitives.
+qstr_Force_Sensitive_Temp|Templo de Sensibles a la Fuerza
+qstr_A_force_sensitive_te|Un Templo the da la oportunidad de reclutar tropas sensibles a la fuerza.
 qstr_Rancor_Pit|Pozo del Rancor
 qstr_A_rancor_pit_gives_y|Un pozo del ráncor te proporciona la capacidad de reclutar Ráncors.
-qstr_Prosperity_of_{s2}_h|Prosperity of {s2} has changed from {s3} to {s4}.
+qstr_Prosperity_of_{s2}_h|La prosperidad de {s2} ha cambiado de {s3} a {s4}.
 qstr_{s4}_looks_upset.|{s4} parece enfadado.
 qstr_your_party|tu grupo
 qstr_{reg0?One_of_your_pr|{reg0?One of your prisoners, :}{s1} of {s3} has escaped from captivity!
@@ -377,12 +377,12 @@ qstr_You_brought_a_herd_o|You brought a herd of {reg3} nerfs to {s1}.
 qstr_I_heard_that_there_w|I heard that there will be a tournament in {s62} soon.
 qstr_I_heard_that_one_can|I heard that one can buy {s62} very cheap at {s63}.
 qstr_I_heard_that_they_pa|I heard that they pay a very high price for {s62} at {s63}.
-qstr_Log_entry_{reg3}:_ty|Log entry {reg3}: type {reg4}
-qstr_Center:_{s4}|Center: {s4}
-qstr_Troop:_{s4}|Troop: {s4}
-qstr_Lord:_{s4}|Lord: {s4}
-qstr_Ally_party_is_presen|Ally party is present
-qstr_{s4}_is_present_at_e|{s4} is present at event
+qstr_Log_entry_{reg3}:_ty|Entrada {reg3}: tipo {reg4}
+qstr_Center:_{s4}|Centro: {s4}
+qstr_Troop:_{s4}|Tropa: {s4}
+qstr_Lord:_{s4}|Comandante: {s4}
+qstr_Ally_party_is_presen|Un ejército aliado te ayudará en combate
+qstr_{s4}_is_present_at_e|{s4} se encuentra aquí
 qstr_Event_#{reg5}_type_{|Event #{reg5}, type {reg6}, time {reg8}: player's kingdom relation to troop object = {reg7}
 qstr_Event_#{reg5}_type_{r|Event #{reg5}, type {reg6}, time {reg8}: player's kingdom relation to center object faction = {reg7}
 qstr_Event_#{reg5}_type_{re|Event #{reg5}, type {reg6}, time {reg8}: player's kingdom relation to faction object = {reg7}
@@ -610,9 +610,9 @@ qstr_mouse_button_7|mouse button 7
 qstr_mouse_button_8|mouse button 8
 qstr_mouse_scroll_up|mouse scroll up
 qstr_mouse_scroll_down|mouse scroll down
-qstr_too_many_teams_for_A|too many teams for AI
-qstr_You_don_t_have_a_Bac|You don't have a Bacta Injector in inventory!
-qstr_You_don_t_have_any_B|You don't have any Bacta Capsules in inventory!
+qstr_too_many_teams_for_A|Demasiados equipos para la IA [reporta el error al equipo de desarrollo de SWC]
+qstr_You_don_t_have_a_Bac|¡No tienes inyectores de Bacta en el inventario!
+qstr_You_don_t_have_any_B|¡No tienes cápsulas de Bacta en el inventario!
 qstr_You_were_healed_for_|Has sido sanado con 20 puntos de vida^Todavía te quedan {reg1} cápsulas de Bacta.
 qstr_You_are_not_hurt.|No estás herido.
 qstr_You_don_t_have_any_M|¡No tienes unos Macrobinoculares en el inventario!
@@ -644,8 +644,8 @@ qstr_{reg3?{s1}_s_proficiency_i|{reg3?{s1}'s proficiency in firearms has improve
 qstr_You_have_fallen_in_b|You have fallen in battle. You can watch the rest of the fight or press tab to exit
 qstr_You_have_fallen_in_ba|You have fallen in battle. Watch the rest of the fight or press tab to exit
 qstr_Tutorial|Tutorial
-qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is not counted.
-qstr_End_the_sparring_mat|End the sparring match?
+qstr_You_must_stay_behind|¡Debes ponerte detrás de la línea del suelo! No se contará el punto.
+qstr_End_the_sparring_mat|¿Terminar el duelo?
 qstr_You_are_not_injured_|No estás herido y por lo tanto no necesitas usar el Tanque de Bacta esta vez.
 qstr_You_are_being_healed|Estás siendo sanado por el tanque de Bacta...
 qstr_Walk_into_the_Bacta_|Colócate en el Tanque de Bacta para curar tus heridas.
