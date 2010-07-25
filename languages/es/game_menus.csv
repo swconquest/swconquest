@@ -146,8 +146,8 @@ menu_camp_configuration|Star Wars: Conquest MENÚ DE CONFIGURACIÓN
 mno_config_shield_bash|Cambiar integración de golpe de escudo ( {s1} )
 mno_config_random_scene_battles|Cambiar frecuencia de ataques espontaneos en escenas ( Ahora {reg1}% )
 mno_config_random_scene_assassination|Cambiar frecuencia de intentos de asesinato ( Ahora {reg1}% )
-mno_config_faction_colors|CCambiar colores de facción ( {s1} )
-mno_config_back|Volver al menú de estacionamiento.
+mno_config_faction_colors|Cambiar colores de facción ( {s1} )
+mno_setup_keys|Asignación de Teclas
 mno_config_back|Volver al menú de estacionamiento.
 menu_setup_keys|Elige una abilidad y persiona una tecla para asignarla. Para cancelar la asignación, selecciona una abilidad y presiona ESC
 mno_shield_bash|Golpeo de Escudo [ bloquear + atacar ]
@@ -341,7 +341,7 @@ mno_zendar_merchant|
 mno_zendar_merchant_door|Entrada al mercader.
 mno_zendar_arena| 
 mno_zendar_arena_door|Entrada a la arena.
-mno_town_1_leave| 
+mno_town_1_leave|Dejar
 menu_salt_mine|Entrada a la mina de sal.
 mno_enter|Entrar.
 mno_leave|{s20}
