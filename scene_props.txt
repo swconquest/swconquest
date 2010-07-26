@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1247
+ 1251
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3639,6 +3639,18 @@ spr_swy_turbolaser_base 0 0 swy_turbolaser_base bo_swy_turbolaser_base 0
 
 
 spr_swy_moisturevaporator 0 0 swy_moisturevaporator bo_swy_moisturevaporator 0
+
+
+spr_swy_rebel_panel 0 0 swy_rebel_panel bo_swy_rebel_panel 0
+
+
+spr_swy_rebel_panel2 0 0 swy_rebel_panel2 bo_swy_rebel_panel 0
+
+
+spr_swy_rebel_panel_orange 0 0 swy_rebel_panel_orange bo_swy_rebel_panel 0
+
+
+spr_swy_rebel_panel_purple 0 0 swy_rebel_panel_purple bo_swy_rebel_panel 0
 
 
 spr_barf_tower 0 0 sw_taris_tower bo_sw_taris_tower 0
