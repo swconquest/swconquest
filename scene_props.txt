@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1246
+ 1247
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -1069,7 +1069,7 @@ spr_appartment31 0 0 appartment31 bo_appartment 0
 spr_apptbridge 0 0 apptbridge bo_castle_drawbridges_open 0
 
 
-spr_sw_moisture_vaporator 0 0 moisture_vaporator bo_moisture_vaporator 0
+spr_sw_moisture_vaporator 0 0 swy_moisturevaporator bo_swy_moisturevaporator 0
 
 
 spr_sw_sandstone_building_a 0 0 abuilding bo_abuilding 0
@@ -2393,7 +2393,7 @@ spr_wood_heap 0 0 wood_heap_a bo_wood_heap_a 0
 spr_wood_heap_b 0 0 wood_heap_b bo_wood_heap_b 0
 
 
-spr_water_well_a 0 0 moisture_vaporator bo_moisture_vaporator 0
+spr_water_well_a 0 0 swy_moisturevaporator bo_swy_moisturevaporator 0
 
 
 spr_net_a 0 0 net_a bo_net_a 0
@@ -3636,6 +3636,9 @@ spr_swy_turbolaser_battery 0 0 swy_turbolaser_battery bo_swy_turbolaser_battery 
 
 
 spr_swy_turbolaser_base 0 0 swy_turbolaser_base bo_swy_turbolaser_base 0
+
+
+spr_swy_moisturevaporator 0 0 swy_moisturevaporator bo_swy_moisturevaporator 0
 
 
 spr_barf_tower 0 0 sw_taris_tower bo_sw_taris_tower 0
