@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1251
+ 1253
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3630,6 +3630,12 @@ spr_swy_bespin_tibanna 0 0 swy_bespin_tibanna 0 0
 
 
 spr_swy_hoth_turret 0 0 swy_hoth_turret bo_swy_hoth_turret 0
+
+
+spr_swy_hoth_turret_cannon 0 0 swy_hoth_turret_cannon bo_swy_hoth_turret_cannon 0
+
+
+spr_swy_hoth_turret_base 0 0 swy_hoth_turret_base bo_swy_hoth_turret_base 0
 
 
 spr_swy_turbolaser_battery 0 0 swy_turbolaser_battery bo_swy_turbolaser_battery 0
