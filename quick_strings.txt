@@ -1,4 +1,4 @@
-1047
+1049
 qstr_Type_your_Kingdom_s_ Type_your_Kingdom's_name:
 qstr_Accept Accept
 qstr_Reset Reset
@@ -627,6 +627,8 @@ qstr_All_enemies_at_this_ All_enemies_at_this_location_have_been_defeated!
 qstr_Success Success
 qstr_Cannot_leave_now. Cannot_leave_now.
 qstr_As_you_land_your_shi As_you_land_your_ship_you_notice_that_this_area_is_under_attack!
+qstr_Mounted_on_Turret: Mounted_on_Turret:
+qstr_Dismounted_of_Turret Dismounted_of_Turret:
 qstr_You_have_been_knocke You_have_been_knocked_out_by_the_enemy._Watch_your_men_continue_the_fight_without_you_or_press_Tab_to_retreat.
 qstr_If_you_choose_to_wat If_you_choose_to_watch_the_fight_you_can_use_the_'{s1}'_and_'{s2}'_keys_to_change_your_camera_view.
 qstr_A_Power_Droid_refill A_Power_Droid_refilled_your_ammo!

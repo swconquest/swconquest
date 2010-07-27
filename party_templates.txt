@@ -20,9 +20,9 @@ pt_troublesome_bandits Troublesome_Bandits 2533274790658066 0 2 344 196 15 55 0 
 pt_bandits_awaiting_ransom Bandits_Awaiting_Ransom 2533274790658066 0 3 344 196 25 65 0 211 1 1 1 -1 -1 -1 -1 
 pt_kidnapped_girl Kidnapped_Girl 262172 0 3 7 211 1 1 0 -1 -1 -1 -1 -1 
 pt_village_farmers Colonial_Farmers 25 0 4 7 80 6 12 0 209 4 8 0 -1 -1 -1 -1 
-pt_spy_partners Unremarkable_Travellers 844424930459666 0 3 7 925 1 1 0 84 5 10 0 -1 -1 -1 -1 
+pt_spy_partners Unremarkable_Travellers 844424930459666 0 3 7 926 1 1 0 84 5 10 0 -1 -1 -1 -1 
 pt_runaway_serfs Runaway_Slaves 2251799814012954 0 3 7 80 6 10 0 209 3 3 0 -1 -1 -1 -1 
-pt_spy Ordinary_Townsman 844424930459666 0 3 7 924 1 1 0 -1 -1 -1 -1 -1 
+pt_spy Ordinary_Townsman 844424930459666 0 3 7 925 1 1 0 -1 -1 -1 -1 -1 
 pt_sacrificed_messenger Sacrificed_Messenger 844424930459666 0 3 7 -1 -1 -1 -1 -1 -1 
 pt_forager_party Foraging_Party 1407374887747602 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_scout_party Scouts 281474980904978 0 1 344 -1 -1 -1 -1 -1 -1 
