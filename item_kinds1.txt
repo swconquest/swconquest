@@ -1,5 +1,5 @@
 itemsfile version 2
-905
+906
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -2118,10 +2118,13 @@ itemsfile version 2
  itm_transparent_feet Transparent_Feet Transparent_Feet 2  transparent 0  transparent_helmet_inv 1152921504606846976  536875022 0 1 0 0.250000 100 0 0 1 0 0 0 0 0 0 0 0
 0
 
- itm_darth_vader_helmet Darth_Vader's_Helmet Darth_Vader's_Helmet 1  darth_vader_helmet 0  2684354572 0 2000 0 2.000000 100 28 0 0 0 0 0 0 0 0 0 0
+ itm_darth_vader_helmet Darth_Vader's_Helmet Darth_Vader's_Helmet 1  TFU_vader_helmet 0  2684354572 0 2000 0 2.000000 100 28 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_darth_vader_armor Darth_Vader's_Armor Darth_Vader's_Armor 1  darth_vader_armor 0  553648141 0 3000 0 6.000000 100 0 60 18 0 0 0 0 0 0 0 0
+ itm_darth_vader_armor Darth_Vader's_Armor Darth_Vader's_Armor 1  TFU_vader_armor 0  553648141 0 3000 0 6.000000 100 0 60 18 0 0 0 0 0 0 0 0
+0
+
+ itm_darth_vader_feet Darth_Vader's_Feet Darth_Vader's_Feet 2  transparent 0  transparent_helmet_inv 1152921504606846976  536875022 0 1 0 0.250000 100 0 0 47 0 0 0 0 0 0 0 0
 0
 
  itm_princess_leia_outfit Princess_Leia's_Outfit Princess_Leia's_Outfit 1  princess_leia_outfit 0  553648141 0 1200 0 2.000000 100 0 40 12 0 0 0 0 0 0 0 0
