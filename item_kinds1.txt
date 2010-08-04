@@ -1,5 +1,5 @@
 itemsfile version 2
-906
+905
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -307,9 +307,6 @@ itemsfile version 2
 0
 
  itm_bacta_capsule Bacta_Capsule Bacta_Capsule 1  bacta_capsule 0  65547 0 500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_binocular Macrobinoculars Macrobinoculars 1  macrobinoculars 0  65547 0 3000 0 3.000000 40 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_jetpack Jetpack Jetpack 1  macrobinoculars 0  65547 0 6000 0 6.000000 35 0 0 0 0 0 0 0 0 0 0 0

@@ -789,7 +789,7 @@ mno_continue|Volver
 menu_question_peace_offer|You Receive a Peace Offer^^{s1} offers you a peace agreement. What is your answer?
 mno_peace_offer_accept|Aceptar
 mno_peace_offer_reject|Rechazar
-menu_notification_player_faction_active|You now posess land in your name without being tied to any kingdom, as a masterless warlord who knows no higher authority. Enjoy this freedom, but know that the kings of the land will not look to you kindly and will make every attempt to dispose of you. You may find life very difficult without the protection of a kingdom.
+menu_notification_player_faction_active|You now posess land in your name without being tied to any faction, as a masterless warlord who knows no higher authority. Enjoy this freedom, but know that the kings of the land will not look to you kindly and will make every attempt to dispose of you. You may find life very difficult without the protection of a faction.
 mno_continue|Volver
 menu_notification_player_faction_deactive|You no longer hold any land.
 mno_continue|Volver

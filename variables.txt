@@ -429,6 +429,9 @@ g_presentation_credits_obj_6_alpha
 g_presentation_credits_obj_7_alpha
 g_presentation_credits_obj_8_alpha
 g_presentation_credits_obj_9_alpha
+g_little_pos_helper
+g_rotation
+g_distance
 g_presentation_obj_0
 g_presentation_obj_1
 g_presentation_obj_2
@@ -553,10 +556,8 @@ toggle_weapon_key
 helmet_view_key
 jetpack_key
 bacta_injector_key
-binoculars_key
 deathcam_forward_key
 deathcam_backward_key
-g_little_pos_helper
 g_little_pos2_helper
 g_little_pos3_helper
 g_option_empire_text
