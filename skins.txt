@@ -154,14 +154,14 @@ droid 0
 
 wookiee 0
  wookiee_body wookiee_calf_l wookiee_mittenL
- wookiee_head 0 
+ wookiee_head_new_half 0 
 0
 
  0
 
  1  hair_blonde 
  0 
- 2  wookiee_face_a 4294967295 0 0  wookiee_face_b 4294967295 0 0 
+ 2  wookiee_face_a_new 4294967295 0 0  wookiee_face_a_new2 4294967295 0 0 
  7  0 snd_wookiee_die  1 snd_wookiee_hit  2 snd_wookiee_grunt  3 snd_wookiee_grunt_long  4 snd_wookiee_yell  5 snd_wookiee_victory  6 snd_wookiee_victory 
  skel_human 1.500000 
 74 73
