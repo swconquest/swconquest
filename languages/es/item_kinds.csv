@@ -1326,8 +1326,8 @@ itm_vibro_blade4|Vibroespada
 itm_vibro_blade4_pl|Vibroespada
 itm_vibro_sword1b|Vibroespada
 itm_vibro_sword1b_pl|Vibroespada
-itm_vibro_sword2b|Vibroespada a dos manos
-itm_vibro_sword2b_pl|Vibroespada a dos manos
+itm_vibro_sword2b|Vibroespada a dos Manos
+itm_vibro_sword2b_pl|Vibroespada a dos Manos
 itm_vibro_sword3_gold|Vibroespada
 itm_vibro_sword3_gold_pl|Vibroespada
 itm_vibro_sword3_blue|Vibroespada
@@ -1654,8 +1654,8 @@ itm_corellian_destroyer_blaster|Bláster Destructor Corelliano
 itm_corellian_destroyer_blaster_pl|Bláster Destructor Corelliano
 itm_dlt19|DLT-19
 itm_dlt19_pl|DLT-19
-itm_dlt19_scope|DLT-19 con mira telescópica
-itm_dlt19_scope_pl|DLT-19 con mira telescópica
+itm_dlt19_scope|DLT-19 con mira Telescópica
+itm_dlt19_scope_pl|DLT-19 con mira Telescópica
 itm_dlt20a|DLT-20A
 itm_dlt20a_pl|DLT-20A
 itm_dc15a|DC-15A
@@ -1664,20 +1664,20 @@ itm_dc15a_hip|DC-15A
 itm_dc15a_hip_pl|DC-15A
 itm_dc15s|DC-15S
 itm_dc15s_pl|DC-15S
-itm_trandoshan_acp_array_gun|Pistola de Matriz ACP
-itm_trandoshan_acp_array_gun_pl|Pistola de Matriz ACP
+itm_trandoshan_acp_array_gun|Pistola de Matriz ACP Trandoshana
+itm_trandoshan_acp_array_gun_pl|Pistola de Matriz ACP Trandoshana
 itm_trandoshan_stun_gun|Pistola Aturdidora Trandoshana
 itm_trandoshan_stun_gun_pl|Pistola Aturdidora Trandoshana
-itm_quicksnap_36t|36T Cumplimentada
-itm_quicksnap_36t_pl|36T Cumplimentada
-itm_bothan_bola_carabine|Carabina Bothan
-itm_bothan_bola_carabine_pl|Carabina Bothan
+itm_quicksnap_36t|36T TiroRapid
+itm_quicksnap_36t_pl|36T TiroRapid
+itm_bothan_bola_carabine|Carabina 'Bola' Bothan
+itm_bothan_bola_carabine_pl|Carabina 'Bola' Bothan
 itm_ee3|EE-3
 itm_ee3_pl|EE-3
 itm_ee3_stun|Aturdidor EE-3
 itm_ee3_stun_pl|Aturdidor EE-3
-itm_mg15|MG-15
-itm_mg15_pl|MG-15
+itm_mg15|RT-97C
+itm_mg15_pl|RT-97C
 itm_e5|E-5
 itm_e5_pl|E-5
 itm_e11|E-11
@@ -1766,43 +1766,43 @@ itm_force_stun|Aturdir con la Fuerza
 itm_force_stun_pl|Aturdir con la Fuerza
 itm_horses_begin|FLAG FOR HORSES BEGIN
 itm_horses_begin_pl|FLAG FOR HORSES BEGIN
-itm_speeder|Speeder Civil Z4-Z
-itm_speeder_pl|Speeder Civil Z4-Z
-itm_speeder_rebel|Speeder Militar Z4-Z
-itm_speeder_rebel_pl|Speeder Militar Z4-Z
-itm_speeder_imperial|Speeder Militar Z4-Z
-itm_speeder_imperial_pl|Speeder Militar Z4-Z
-itm_speeder_hutt|Speeder Militar Z4-Z
-itm_speeder_hutt_pl|Speeder Militar Z4-Z
-itm_speeder_shadow|Speeder 74-Z <Sombra>
-itm_speeder_shadow_pl|Speeder 74-Z <Sombra>
-itm_speeder_fc20|Moto Speeder FC-20
-itm_speeder_fc20_pl|Moto Speeder FC-20
-itm_horus_winged_cruiser|Crucero Horus
-itm_horus_winged_cruiser_pl|Crucero Horus
-itm_speeder_sparrow|Speeder-Gorrión
-itm_speeder_sparrow_pl|Speeder-Gorrión
-itm_pod_racer|Vaina
-itm_pod_racer_pl|Vaina
-itm_swoop_bike|Speeder de Carga
-itm_swoop_bike_pl|Speeder de Carga
-itm_speeder_dagger|DagaSpeeder 
-itm_speeder_dagger_pl|DagaSpeeder 
-itm_power_chair|Power Chair
+itm_speeder|MotoDeslizador Civil Z4-Z
+itm_speeder_pl|MotoDeslizador Civil Z4-Z
+itm_speeder_rebel|MotoDeslizador Militar Z4-Z
+itm_speeder_rebel_pl|MotoDeslizador Militar Z4-Z
+itm_speeder_imperial|MotoDeslizador Militar Z4-Z
+itm_speeder_imperial_pl|MotoDeslizador Militar Z4-Z
+itm_speeder_hutt|MotoDeslizador Militar Z4-Z
+itm_speeder_hutt_pl|MotoDeslizador Militar Z4-Z
+itm_speeder_shadow|Deslizador 74-Z <Sombra>
+itm_speeder_shadow_pl|MotoDeslizador 74-Z <Sombra>
+itm_speeder_fc20|MotoDeslizador FC-20
+itm_speeder_fc20_pl|MotoDeslizador FC-20
+itm_horus_winged_cruiser|Crucero Alado Horus
+itm_horus_winged_cruiser_pl|Crucero Alado Horus
+itm_speeder_sparrow|MotoDelizador Gorrión
+itm_speeder_sparrow_pl|MotoDeslizador Gorrión
+itm_pod_racer|Vaina de Carreras
+itm_pod_racer_pl|Vaina de Carreras
+itm_swoop_bike|MotoDeslizador de Carga
+itm_swoop_bike_pl|MotoDeslizador de Carga
+itm_speeder_dagger|DagaDeslizador
+itm_speeder_dagger_pl|DagaDeslizador
+itm_power_chair|Silla Flotante
 itm_power_chair_pl|Silla Flotante
 itm_horses_end|FLAG FOR HORSES END
 itm_horses_end_pl|FLAG FOR HORSES END
-itm_practice_speeder|Speeder Civil 74-Z
-itm_practice_speeder_pl|Speeder Civil 74-Z
-itm_arena_speeder|Speeder Civil 74-Z
-itm_arena_speeder_pl|Speeder Civil 74-Z
+itm_practice_speeder|MotoDeslizador Civil 74-Z
+itm_practice_speeder_pl|MotoDeslizador Civil 74-Z
+itm_arena_speeder|MotoDeslizador Civil 74-Z
+itm_arena_speeder_pl|MotoDeslizador Civil 74-Z
 itm_joruus_lightsaber|Sable de Luz de Joruus C'Baoth
 itm_joruus_lightsaber_pl|Sable de Luz de Joruus C'Baoth
 itm_disruptor_ammo|Munición Disruptora de Pistola
 itm_disruptor_ammo_pl|Munición Disruptora de Pistola
 itm_disruptor_ammo_rifle|Munición Disruptora de Rifle
 itm_disruptor_ammo_rifle_pl|Munición Disruptora de Rifle
-itm_heavy_repeater|Imperial Heavy Repeater
-itm_heavy_repeater_pl|Imperial Heavy Repeater
+itm_heavy_repeater|Repetidor Imperial Pesado
+itm_heavy_repeater_pl|Repetidor Imperial Pesado
 itm_items_end|INVALID ITEM
 itm_items_end_pl|INVALID ITEM
