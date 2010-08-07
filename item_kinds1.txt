@@ -2070,16 +2070,16 @@ itemsfile version 2
  itm_leia_head Leia_Organa_Head Leia_Organa_Head 1  leia_head 0  2684358668 0 1500 0 1.000000 100 15 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_rancor_body_a Rancor_Body Rancor_Body 1  swy_rancor 0  553652237 0 1000 0 57.000000 100 35 90 35 0 0 0 0 0 0 0 0
+ itm_rancor_body_a Rancor_Body Rancor_Body 1  swy_rancor 0  553652237 0 1000 0 0.000000 100 35 90 35 0 0 0 0 0 0 0 0
 0
 
- itm_rancor_body_b Rancor_Body Rancor_Body 1  swy_rancor_alt 0  553652237 0 1000 0 57.000000 100 35 90 35 0 0 0 0 0 0 0 0
+ itm_rancor_body_b Rancor_Body Rancor_Body 1  swy_rancor_alt 0  553652237 0 1000 0 0.000000 100 35 90 35 0 0 0 0 0 0 0 0
 0
 
- itm_rancor_body_c Rancor_Body Rancor_Body 1  swy_rancor_mutant 0  553652237 0 1000 0 57.000000 100 35 90 35 0 0 0 0 0 0 0 0
+ itm_rancor_body_c Rancor_Body Rancor_Body 1  swy_rancor_mutant 0  553652237 0 1000 0 0.000000 100 35 90 35 0 0 0 0 0 0 0 0
 0
 
- itm_rancor_attack _ _ 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  79712258 9223372036854775821 250 0 1.000000 100 0 0 0 0 61440 85 0 15 0 301 60
+ itm_rancor_attack _ _ 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  79712258 9223372036854775821 250 0 0.000000 100 0 0 0 0 61440 85 0 15 0 301 60
 0
 
  itm_rancor_keeper_armor Rancor_Keeper_Armor Rancor_Keeper_Armor 1  rancor_keeper 0  553652237 0 500 0 20.000000 100 5 35 10 0 0 0 0 0 0 0 0
@@ -2631,7 +2631,7 @@ itemsfile version 2
 
  itm_dh17 DH-17 DH-17 1  DH17 0  71368720 483452715008 550 270342 1.000000 100 0 0 88 0 0 110 160 0 244 292 0
 1
--51.000000  3 600 1 1152921504606847154 720 2 1 12 721 2 1 15 
+-51.000000  3 600 1 1152921504606847246 720 2 1 12 721 2 1 15 
 
  itm_se14r SE-14R SE-14R 1  se_14r 0  71368720 483452715008 410 270342 2.000000 100 0 0 88 0 0 110 160 0 16 292 0
 1
@@ -2639,7 +2639,7 @@ itemsfile version 2
 
  itm_dh17_stun Stun_DH-17 Stun_DH-17 1  DH17 0  71368720 483452715008 550 270342 1.000000 80 0 0 88 0 0 110 160 0 244 548 0
 1
--51.000000  3 600 1 1152921504606847158 720 2 1 12 721 2 1 15 
+-51.000000  3 600 1 1152921504606847246 720 2 1 12 721 2 1 15 
 
  itm_dl44a DL-44 DL-44 1  DL44a 0  71368720 483452715008 750 270342 1.500000 100 0 0 87 0 0 120 140 0 25 282 0
 1

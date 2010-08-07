@@ -23,7 +23,7 @@ skinkey_eye_depth|Profundidad ojos
 skinkey_eyelids|Párpados
 skinkey_eyebrow_position|Posición cejas
 skinkey_eyebrow_height|Alto cejas
-skinkey_neck_width|Neck Width
+skinkey_neck_width|Anchura de cuello
 skinkey_eyebrow_shape|Forma cejas
 skinkey_temple_width|Ancho sien
 skinkey_face_depth|Profundidad cara
@@ -42,6 +42,7 @@ skinkey_nose_height|Alto nariz
 skinkey_nose_width|Ancho nariz
 skinkey_nose_size|Tamaño nariz
 skinkey_nose_shape|Forma nariz
+skinkey_nasal_curvature|Curvatura de Nariz
 skinkey_nose_bridge|Puente nariz
 skinkey_cheek_bones|Pómulos
 skinkey_eye_width|Ancho ojos
