@@ -319,8 +319,6 @@ timer_speed
 pin_player_fallen
 defender_reinforcement_stage
 attacker_reinforcement_stage
-g_presentation_battle_active
-dmod_current_agent
 dmod_move_camera
 g_cur_one_handed_weapon_limt
 g_cur_two_handed_weapon_limt
@@ -331,6 +329,8 @@ g_cur_throwing_limt
 g_cur_firearm_limt
 g_player_begin_hp
 ground_level
+g_presentation_battle_active
+dmod_current_agent
 defender_team
 attacker_team
 defender_team_2
