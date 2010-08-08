@@ -229,7 +229,7 @@ twilek_female 1
 
 bothan 0
  bothan_body bothan_calf_l bothan_handL
- bothan_head 0 
+ bothan_head 4 skinkey_bothan_face_shape 10 0 0.000000 1.000000 Bothan_Face_Shape skinkey_bothan_mouth_forward 30 0 0.000000 1.000000 Bothan_Mouth_Forward skinkey_bothan_head_size 50 0 0.000000 1.000000 Bothan_Head_Size skinkey_post_edit 0 0 1.000000 0.000000 Post-Edit 
 3
  bothan_hair_a  bothan_hair_b  bothan_hair_c 
  0
@@ -244,7 +244,7 @@ bothan 0
 
 geonosian 0
  geonosian_body geonosian_calf_l geonosian_handL
- geonosian_head 0 
+ geonosian_head 4 skinkey_exoskeleton_shape 10 0 0.000000 1.000000 Exoskeleton_Shape skinkey_exoskeleton_forward 30 0 0.000000 1.000000 Exoskeleton_Forward skinkey_exoskeleton_size 50 0 1.000000 0.000000 Exoskeleton_Size skinkey_post_edit 0 0 1.000000 0.000000 Post-Edit 
 0
 
  0
