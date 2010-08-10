@@ -1,5 +1,5 @@
 itemsfile version 2
-904
+905
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -309,6 +309,9 @@ itemsfile version 2
  itm_bacta_capsule Bacta_Capsule Bacta_Capsule 1  bacta_capsule 0  65547 0 500 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
+ itm_binocular Macrobinoculars Macrobinoculars 1  macrobinoculars 0  65547 0 3000 0 3.000000 40 0 0 0 0 0 0 0 0 0 0 0
+0
+
  itm_jetpack Jetpack Jetpack 1  macrobinoculars 0  65547 0 6000 0 6.000000 35 0 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -583,7 +586,7 @@ itemsfile version 2
 
  itm_torch Torch Torch 1  club 0  4194306 9223388529554358286 11 0 2.500000 100 0 0 0 0 11264 95 0 95 0 256 523
 1
--50.000000  3 1955 3 0 60 0 1965 1 1008806316530991116 1965 1 1008806316530991119 
+-50.000000  5 1955 3 0 60 0 1965 1 1008806316530991116 1965 1 1008806316530991119 1950 3 150 130 70 1960 2 10 30 
 
  itm_rich_outfit Rich_Outfit Rich_Outfit 1  merchant_outf 0  553713677 0 160 123731968 4.000000 100 0 16 4 0 0 0 0 0 0 0 0
 0
@@ -2141,7 +2144,7 @@ itemsfile version 2
  itm_luke_skywalker_outfit Luke_Skywalker's_Outfit Luke_Skywalker's_Outfit 1  jedi_robe_b 0  553648141 0 2500 123731968 0.750000 100 0 55 18 0 0 0 0 0 0 0 0
 0
 
- itm_chewbacca_bowcaster Chewbacca's_Bowcaster Chewbacca's_Bowcaster 1  wookiee_bowcaster 0  73400329 555392974848 3000 0 6.250000 100 0 0 95 0 0 135 170 0 35 301 0
+ itm_chewbacca_bowcaster Chewbacca's_Bowcaster Chewbacca's_Bowcaster 1  wookiee_bowcaster 0  73400329 555392974848 3000 0 2.000000 100 0 0 95 0 0 135 170 0 24 301 0
 1
 -51.000000  3 600 1 1152921504606847155 720 2 1 6 721 2 1 8 
 
@@ -2157,9 +2160,12 @@ itemsfile version 2
  itm_boba_fett_boots Boba_Fett's_Boots Boba_Fett's_Boots 1  fettboots 0  536874766 0 430 0 2.000000 100 0 0 18 0 0 0 0 0 0 0 0
 0
 
- itm_boba_fett_blaster Boba_Fett's_EE-3 Boba_Fett's_EE-3 2  EE3 0  EE3_inventory 1152921504606846976  73400329 487210369024 3400 0 2.500000 100 0 0 98 0 0 140 190 0 32 306 0
+ itm_boba_fett_blaster Boba_Fett's_EE-3 Boba_Fett's_EE-3 2  EE3 0  EE3_inventory 1152921504606846976  73400329 487210369024 3400 0 2.500000 100 0 0 95 0 0 140 190 0 32 306 0
 1
 -51.000000  3 600 1 1152921504606847155 720 2 1 6 721 2 1 8 
+
+ itm_joruus_lightsaber Cbaoth's_Lightsaber Cbaoth's_Lightsaber 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71696387 9223635920677241343 4009 0 2.000000 100 0 0 0 14 36864 140 0 120 0 356 356
+0
 
  itm_dengar_armor Dengar's_Armor Dengar's_Armor 1  dengarbody 0  553648141 0 2500 0 6.000000 100 0 60 10 0 0 0 0 0 0 0 0
 0
@@ -2425,6 +2431,9 @@ itemsfile version 2
  itm_ammo_belt_pistol Ammo_Belt Ammo_Belt 4  transparent 0  laser_bolt_yellow 2305843009213693952  ammo_belt 3458764513820540928  ammo_belt 1152921504606846976  67174418 4294967296 150 0 0.000000 50 0 0 0 0 0 0 0 60 150 257 0
 0
 
+ itm_disruptor_ammo Disruptor_Ammo_for_Pistols Disruptor_Ammo_for_Pistols 3  transparent 0  laser_disruptor 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174418 0 4960 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 160 516 0
+0
+
  itm_laser_bolts_green_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_green 2305843009213693952  laser_bolt_green_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 60 125 257 0
 0
 
@@ -2450,6 +2459,9 @@ itemsfile version 2
 0
 
  itm_ammo_belt_rifle Ammo_Belt Ammo_Belt 4  transparent 0  laser_bolt_yellow 2305843009213693952  ammo_belt 3458764513820540928  ammo_belt 1152921504606846976  67174406 4294967296 150 0 0.000000 50 0 0 0 0 0 0 0 60 175 257 0
+0
+
+ itm_disruptor_ammo_rifle Disruptor_Ammo_for_Rifles Disruptor_Ammo_for_Rifles 3  transparent 0  laser_disruptor 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174406 0 4960 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 160 516 0
 0
 
  itm_laser_bolts_training_pistol Laser_Bolts Laser_Bolts 3  transparent 0  laser_bolt_yellow 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67112978 0 500 0 0.000000 100 0 0 0 0 0 0 0 5 12 257 0
@@ -2533,7 +2545,7 @@ itemsfile version 2
 1
 -51.000000  3 600 1 1152921504606847151 720 2 1 4 721 2 1 5 
 
- itm_dlt19_scope DLT-19_with_Scope DLT-19_with_Scope 2  DLT19_scope 0  DLT19_scope_inventory 1152921504606846976  73465865 555930353664 690 270342 3.500000 70 0 0 98 0 0 90 190 0 6 321 0
+ itm_dlt19_scope DLT-19_with_Scope DLT-19_with_Scope 2  DLT19_scope 0  DLT19_scope_inventory 1152921504606846976  73465865 555930353664 690 270342 3.500000 70 0 0 96 0 0 90 190 0 12 316 0
 1
 -51.000000  3 600 1 1152921504606847151 720 2 1 4 721 2 1 5 
 
@@ -2621,7 +2633,7 @@ itemsfile version 2
 1
 -51.000000  3 600 1 1152921504606847151 720 2 1 6 721 2 1 8 
 
- itm_kisteer_1284 KiSteer_1284 KiSteer_1284 2  kisteer_1284 0  kisteer_1284_inventory 1152921504606846976  73465865 555930353664 500 270342 3.500000 100 0 0 97 0 0 110 180 0 10 306 0
+ itm_kisteer_1284 KiSteer_1284 KiSteer_1284 2  kisteer_1284 0  kisteer_1284_inventory 1152921504606846976  73465865 555930353664 130 270342 2.500000 70 0 0 88 0 0 70 120 0 10 544 0
 1
 -51.000000  3 600 1 1152921504606847151 720 2 1 6 721 2 1 8 
 
@@ -2633,13 +2645,13 @@ itemsfile version 2
 1
 -51.000000  3 600 1 1152921504606847246 720 2 1 12 721 2 1 15 
 
+ itm_dh17_stun Stun_DH-17 Stun_DH-17 1  DH17 0  71368720 483452715008 550 270342 1.000000 80 0 0 88 0 0 110 160 0 244 548 0
+1
+-51.000000  3 600 1 1152921504606847158 720 2 1 12 721 2 1 15 
+
  itm_se14r SE-14R SE-14R 1  se_14r 0  71368720 483452715008 410 270342 2.000000 100 0 0 88 0 0 110 160 0 16 292 0
 1
 -51.000000  3 600 1 1152921504606847154 720 2 1 12 721 2 1 15 
-
- itm_dh17_stun Stun_DH-17 Stun_DH-17 1  DH17 0  71368720 483452715008 550 270342 1.000000 80 0 0 88 0 0 110 160 0 244 548 0
-1
--51.000000  3 600 1 1152921504606847246 720 2 1 12 721 2 1 15 
 
  itm_dl44a DL-44 DL-44 1  DL44a 0  71368720 483452715008 750 270342 1.500000 100 0 0 87 0 0 120 140 0 25 282 0
 1
@@ -2701,9 +2713,13 @@ itemsfile version 2
 1
 -51.000000  3 600 1 1152921504606847158 720 2 1 10 721 2 1 14 
 
- itm_wrist_blaster Wrist_Mounted_Blaster Wrist_Mounted_Blaster 2  transparent 0  wrist_blaster 1152921504606846976  71368720 481036795904 500 0 1.000000 60 0 0 90 0 0 105 135 0 24 291 0
+ itm_wrist_blaster Wrist_Mounted_Blaster Wrist_Mounted_Blaster 2  transparent 0  wrist_blaster 1152921504606846976  71368720 481036795904 500 0 1.250000 60 0 0 90 0 0 105 135 0 24 291 0
 1
 -51.000000  3 600 1 1152921504606847150 720 2 1 0 721 2 1 0 
+
+ itm_heavy_repeater Imperial_Heavy_Repeater Imperial_Heavy_Repeater 3  HeavyRepeater 0  HeavyRepeater_inv 1152921504606846976  HeavyRepeater_carried 3458764513820540928  73465865 483184082944 1500 270342 4.500000 100 0 0 94 0 0 120 169 0 144 292 0
+1
+-51.000000  3 600 1 1152921504606847160 720 2 1 30 721 2 1 30 
 
  itm_ranged_weapons_end FLAG_FOR_RANGED_WEAPONS_BEGIN FLAG_FOR_RANGED_WEAPONS_BEGIN 1  A280 0  73400329 555929845760 1 0 1.000000 100 0 0 1 0 0 1 1 0 1 257 0
 1
@@ -2799,19 +2815,6 @@ itemsfile version 2
 
  itm_arena_speeder Civilian_74-Z_Speeder_Bike Civilian_74-Z_Speeder_Bike 1  speeder_a 0  4097 0 1000 0 0.000000 100 0 0 0 0 30 45 50 0 0 15 0
 0
-
- itm_joruus_lightsaber Cbaoth's_Lightsaber Cbaoth's_Lightsaber 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71696387 9223635920677241343 4009 0 2.000000 100 0 0 0 14 36864 140 0 120 0 356 356
-0
-
- itm_disruptor_ammo Disruptor_Ammo_for_Pistols Disruptor_Ammo_for_Pistols 3  transparent 0  laser_disruptor 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174418 0 4960 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 160 516 0
-0
-
- itm_disruptor_ammo_rifle Disruptor_Ammo_for_Rifles Disruptor_Ammo_for_Rifles 3  transparent 0  laser_disruptor 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174406 0 4960 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 160 516 0
-0
-
- itm_heavy_repeater Imperial_Heavy_Repeater Imperial_Heavy_Repeater 3  HeavyRepeater 0  HeavyRepeater_inv 1152921504606846976  HeavyRepeater_carried 3458764513820540928  73465865 483184082944 1500 270342 4.500000 100 0 0 94 0 0 120 169 0 144 292 0
-1
--51.000000  3 600 1 1152921504606847160 720 2 1 30 721 2 1 30 
 
  itm_tfu_stormie tfu_stormie tfu_stormie 1  tfu_stormtrooper 0  2701135885 0 3000 0 55.000000 100 30 70 30 0 0 0 0 0 0 0 0
 0

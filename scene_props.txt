@@ -150,10 +150,10 @@ spr_sw_gun_turret 0 0 gun_turret bo_gun_turret 0
 spr_sw_chest1 0 0 player_chest_sw bo_player_chest_sw 0
 
 
-spr_sw_box_a 0 0 box_a_sw_sp bo_box_a_sw_sp 0
+spr_sw_box_a 8192 0 box_a_sw_sp bo_box_a_sw_sp 0
 
 
-spr_sw_box_a_square 0 0 box_a_square bo_box_a_square 0
+spr_sw_box_a_square 8192 0 box_a_square bo_box_a_square 0
 
 
 spr_sw_bacta_tank 0 0 bacta_tank bo_bacta_tank 0
@@ -168,16 +168,16 @@ spr_sw_bacta_tank_new_heal 0 0 bacta_tank_new 0 0
 spr_sw_antenna 0 0 sw_antenna bo_sw_antenna 0
 
 
-spr_sw_box_b 0 0 sw_box_b bo_sw_box_b 0
+spr_sw_box_b 8192 0 sw_box_b bo_sw_box_b 0
 
 
-spr_sw_box_c 0 0 sw_box_c bo_sw_box_c 0
+spr_sw_box_c 8192 0 sw_box_c bo_sw_box_c 0
 
 
-spr_sw_box_d 0 0 sw_box_d bo_sw_box_d 0
+spr_sw_box_d 8192 0 sw_box_d bo_sw_box_d 0
 
 
-spr_sw_box_e 0 0 sw_box_e bo_sw_box_e 0
+spr_sw_box_e 8192 0 sw_box_e bo_sw_box_e 0
 
 
 spr_sw_part_a 0 0 sw_part_a bo_sw_part_a 0
@@ -270,19 +270,19 @@ spr_sw_terminal1 0 0 terminal1 bo_terminal1 0
 spr_sw_terminal2 0 0 terminal2 bo_terminal2 0
 
 
-spr_sw_holocron_new_a 0 0 holocron_new_a bo_holocron_new 0
+spr_sw_holocron_new_a 8192 0 holocron_new_a bo_holocron_new 0
 
 
-spr_sw_holocron_new_b 0 0 holocron_new_b bo_holocron_new 0
+spr_sw_holocron_new_b 8192 0 holocron_new_b bo_holocron_new 0
 
 
-spr_sw_holocron_new_c 0 0 holocron_new_c bo_holocron_new 0
+spr_sw_holocron_new_c 8192 0 holocron_new_c bo_holocron_new 0
 
 
-spr_sw_holocron_new_d 0 0 holocron_new_d bo_holocron_new 0
+spr_sw_holocron_new_d 8192 0 holocron_new_d bo_holocron_new 0
 
 
-spr_sw_holocron_new_e 0 0 holocron_new_e bo_holocron_new 0
+spr_sw_holocron_new_e 8192 0 holocron_new_e bo_holocron_new 0
 
 
 spr_sw_holocron_old_blue 0 0 holocron_blue bo_holocron_old 0
@@ -429,13 +429,13 @@ spr_sw_table_a 0 0 sw_table_a bo_sw_table_a 0
 spr_sw_beer_a 0 0 sw_beer_a 0 0
 
 
-spr_sw_glass_a 0 0 sw_glass_a 0 0
+spr_sw_glass_a 8192 0 sw_glass_a 0 0
 
 
-spr_sw_glass_b 0 0 sw_glass_b 0 0
+spr_sw_glass_b 8192 0 sw_glass_b 0 0
 
 
-spr_sw_glass_c 0 0 sw_glass_c 0 0
+spr_sw_glass_c 8192 0 sw_glass_c 0 0
 
 
 spr_sw_plate_a 0 0 sw_plate_a 0 0
@@ -750,10 +750,10 @@ spr_sw_poster_v 0 0 sw_poster_v bo_sw_poster_a 0
 spr_sw_ship_bed 0 0 ship_bed bo_ship_bed 0
 
 
-spr_sw_ship_box1 0 0 ship_box1 bo_ship_box1 0
+spr_sw_ship_box1 8192 0 ship_box1 bo_ship_box1 0
 
 
-spr_sw_ship_box2 0 0 ship_box2 bo_ship_box2 0
+spr_sw_ship_box2 8192 0 ship_box2 bo_ship_box2 0
 
 
 spr_sw_ship_comp1 0 0 ship_comp1 bo_ship_comp1 0
@@ -829,7 +829,7 @@ spr_sw_ship_wall3_destructible 98304 200 ship_wall3 bo_ship_wall3 2
 -42.000000  2 600 1 1152921504606847137 1969 3 1008806316530991133 1 100 
 
 
-spr_sw_ship_chest 0 0 ship_chest bo_ship_chest 0
+spr_sw_ship_chest 8192 0 ship_chest bo_ship_chest 0
 
 
 spr_sw_ship_ventilation 0 0 ship_ventilation bo_ship_ventilation 0
@@ -1093,7 +1093,7 @@ spr_sw_tent_b 0 0 tent_b bo_tent_b 0
 spr_sw_tent_c 0 0 tent_c bo_tent_c 0
 
 
-spr_sw_microchip 0 0 tyr_chip bo_tyr_chip 0
+spr_sw_microchip 8192 0 tyr_chip bo_tyr_chip 0
 
 
 spr_sw_bench_white 0 0 tyr_bench bo_tyr_bench 0
@@ -1117,7 +1117,7 @@ spr_sw_shelf_white_closed 0 0 tyr_shelf_2 bo_tyr_shelf_2 0
 spr_sw_table_white 0 0 tyr_table bo_tyr_table 0
 
 
-spr_sw_table_circle 0 0 sw_table_circle bo_sw_table_circle 0
+spr_sw_table_circle 8192 0 sw_table_circle bo_sw_table_circle 0
 
 
 spr_sw_chair_a 0 0 sw_chair_a bo_sw_chair_a 0
@@ -1135,7 +1135,7 @@ spr_sw_bench_a 0 0 bench_a bo_bench_a 0
 spr_sw_bench_curved_a 0 0 bench_curved_a bo_bench_curved_a 0
 
 
-spr_sw_chair_b 0 0 chair_b bo_chair_b 0
+spr_sw_chair_b 8192 0 chair_b bo_chair_b 0
 
 
 spr_sw_chair_b_no_collision 0 0 chair_b 0 0
@@ -1245,7 +1245,7 @@ spr_light_sun 16384 0 light_sphere 0 1
 
 
 spr_light 16384 0 light_sphere 0 1
--40.000000  13 2071 1 1224979098644774912 2124 1 100 1852 2 5 1224979098644774912 735 2 1224979098644774913 5 2122 3 1224979098644774914 314 1224979098644774913 2122 3 1224979098644774915 314 1224979098644774913 2122 3 1224979098644774916 314 1224979098644774913 2108 2 1224979098644774914 100 2108 2 1224979098644774915 100 2108 2 1224979098644774916 100 1950 3 1224979098644774914 1224979098644774915 1224979098644774916 1955 3 0 0 0 1960 2 0 0 
+-40.000000  13 2071 1 1224979098644774912 2124 1 100 1852 2 5 1224979098644774912 735 2 1224979098644774913 5 2122 3 1224979098644774914 314 1224979098644774913 2122 3 1224979098644774915 314 1224979098644774913 2122 3 1224979098644774916 330 1224979098644774913 2108 2 1224979098644774914 100 2108 2 1224979098644774915 100 2108 2 1224979098644774916 100 1950 3 1224979098644774914 1224979098644774915 1224979098644774916 1955 3 0 0 0 1960 2 0 0 
 
 
 spr_light_red 16384 0 light_sphere 0 1
@@ -1331,10 +1331,10 @@ spr_carpet_with_pillows_a 0 0 carpet_with_pillows_a bo_carpet_with_pillows 0
 spr_carpet_with_pillows_b 0 0 carpet_with_pillows_b bo_carpet_with_pillows 0
 
 
-spr_table_round_a 0 0 table_round_a bo_table_round_a 0
+spr_table_round_a 8192 0 table_round_a bo_table_round_a 0
 
 
-spr_table_round_b 0 0 table_round_b bo_table_round_b 0
+spr_table_round_b 8192 0 table_round_b bo_table_round_b 0
 
 
 spr_fireplace_b 0 0 fireplace_b bo_fireplace_b 0
@@ -1412,10 +1412,10 @@ spr_Catapult 0 0 ATST_scene_prop bo_ATST_scene_prop 0
 spr_broom 0 0 0 0 0
 
 
-spr_garlic 0 0 garlic 0 0
+spr_garlic 8192 0 garlic 0 0
 
 
-spr_garlic_b 0 0 garlic_b 0 0
+spr_garlic_b 8192 0 garlic_b 0 0
 
 
 spr_destroy_a 0 0 transparent 0 0
@@ -2258,7 +2258,7 @@ spr_tavern_table_b 0 0 tavern_table_b bo_tavern_table_b 0
 spr_fireplace_a 0 0 fireplace_a bo_fireplace_a 0
 
 
-spr_barrel 0 0 sw_barrel bo_sw_barrel 0
+spr_barrel 8192 0 sw_barrel bo_sw_barrel 0
 
 
 spr_bench_tavern 0 0 bench_tavern bobench_tavern 0
@@ -2315,7 +2315,7 @@ spr_weapon_rack 0 0 weapon_rack boweapon_rack 0
 spr_weapon_rack_big 0 0 weapon_rack_big boweapon_rack_big 0
 
 
-spr_tavern_barrel 0 0 sw_barrel bo_sw_barrel 0
+spr_tavern_barrel 8192 0 sw_barrel bo_sw_barrel 0
 
 
 spr_tavern_barrel_b 0 0 tavern_barrel_b bo_tavern_barrel_b 0

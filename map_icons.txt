@@ -1,5 +1,5 @@
 map_icons_file version 1
-241
+240
 player 1 civilian_transport 0.300000 191 0.150000 0.173000 0.000000 0
 
 
@@ -103,9 +103,6 @@ mercenary_fighter_grey 1 z95_grey 0.400000 191 0.150000 0.173000 0.000000 0
 
 
 mercenary_fighter_brown 1 z95_brown 0.400000 191 0.150000 0.173000 0.000000 0
-
-
-death_star 1 death_star 0.700000 0 0 0 0 0
 
 
 y_wing_debris 1 y_wing_gold_debris 0.500000 191 0.150000 0.173000 0.000000 0
