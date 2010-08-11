@@ -212,13 +212,13 @@ qstr_Press__{s1}__to_heal Press_'{s1}'_to_heal_player^(Bacta_Capsule_required)
 qstr_Heals_20hp^_Bacta_In Heals_20hp^(Bacta_Injector_required)
 qstr_Press__{s1}__to_enab Press_'{s1}'_to_enable_Helmet_View
 qstr_Press__{s1}__to_togg Press_'{s1}'_to_toggle_weapon_capabilities
-qstr_Press__{s1}__to_toggl Press_'{s1}'_to_toggle_weapon_firing_position
 qstr_Press__{s1}__to_use Press_'{s1}'_to_use
 qstr_Refills_ammo_of_near Refills_ammo_of_nearby_team_when_equipped
 qstr_Refills_health_of_ne Refills_health_of_nearby_team_when_equipped
 qstr_Ammo_for_Force_Power Ammo_for_Force_Powers
 qstr_Hurts_player_when_us Hurts_player_when_used
 qstr_Ammo_clip_size:_{reg Ammo_clip_size:_{reg1}
+qstr_Press__{s1}__to_toggl Press_'{s1}'_to_toggle_weapon_firing_position
 qstr_Usable_in_a_Pistol Usable_in_a_Pistol
 qstr_Usable_in_a_Rifle Usable_in_a_Rifle
 qstr_Allows_Shield_Bash Allows_Shield_Bash
