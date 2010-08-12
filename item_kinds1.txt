@@ -2404,10 +2404,10 @@ itemsfile version 2
  itm_force_push_ammo Force_Push Force_Push 3  transparent 0  f_push 2305843009213693952  f_push 1152921504606846976  67112965 0 200 0 0.000000 80 0 0 0 0 0 0 0 95 30 513 0
 0
 
- itm_laser_bolts_green_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_green 2305843009213693952  laser_bolt_green_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 60 100 257 0
+ itm_laser_bolts_green_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_green 2305843009213693952  laser_bolt_green_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 60 100 257 0
 0
 
- itm_laser_bolts_red_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_red 2305843009213693952  laser_bolt_red_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 60 100 257 0
+ itm_laser_bolts_red_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_red 2305843009213693952  laser_bolt_red_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 60 100 257 0
 0
 
  itm_laser_bolts_orange_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_orange 2305843009213693952  laser_bolt_orange_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 80 0 0 0 0 0 0 0 60 100 257 0
@@ -2434,10 +2434,10 @@ itemsfile version 2
  itm_disruptor_ammo Disruptor_Ammo_for_Pistols Disruptor_Ammo_for_Pistols 3  transparent 0  laser_disruptor 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174418 0 4960 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 160 516 0
 0
 
- itm_laser_bolts_green_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_green 2305843009213693952  laser_bolt_green_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 60 125 257 0
+ itm_laser_bolts_green_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_green 2305843009213693952  laser_bolt_green_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 60 125 257 0
 0
 
- itm_laser_bolts_red_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_red 2305843009213693952  laser_bolt_red_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 60 125 257 0
+ itm_laser_bolts_red_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_red 2305843009213693952  laser_bolt_red_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 60 125 257 0
 0
 
  itm_laser_bolts_orange_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_orange 2305843009213693952  laser_bolt_orange_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 80 0 0 0 0 0 0 0 60 125 257 0

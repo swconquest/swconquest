@@ -566,6 +566,12 @@ g_option_rebel_text
 g_option_rebel
 g_option_hutt_text
 g_option_hutt
+g_option_ambassador_text
+g_option_ambassador
+g_option_merchant_text
+g_option_merchant
+g_option_soldier_text
+g_option_soldier
 g_player_luck
 g_election_date
 g_player_party_icon
