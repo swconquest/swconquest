@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1253
+ 1266
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3774,6 +3774,45 @@ spr_revnshn_rhenvar_wall2 0 0 rhenvar_wall2 bo_yavinwall2 0
 
 
 spr_revnshn_rhenvar_wall3 0 0 rhenvar_wall3 bo_yavinwall3 0
+
+
+spr_revnshn_ziost_addon 0 0 ziost_addon bo_yavinaddon 0
+
+
+spr_revnshn_ziost_pillar1 0 0 ziost_pillar1 bo_yavinpillar1 0
+
+
+spr_revnshn_ziost_pillar2 0 0 ziost_pillar2 bo_yavinpillar2 0
+
+
+spr_revnshn_ziost_spire 0 0 ziost_spire bo_yavinspire 0
+
+
+spr_revnshn_ziost_statue1 0 0 ziost_statue1 bo_yavinstatue1 0
+
+
+spr_revnshn_ziost_statue2 0 0 ziost_statue2 bo_yavinstatue2 0
+
+
+spr_revnshn_ziost_statue3 0 0 ziost_statue3 bo_yavinstatue3 0
+
+
+spr_revnshn_ziost_steps 0 0 ziost_steps bo_yavinsteps 0
+
+
+spr_revnshn_ziost_table1 0 0 ziost_table1 bo_yavintable1 0
+
+
+spr_revnshn_ziost_temple 0 0 ziost_templeblend bo_yavintempleblend 0
+
+
+spr_revnshn_ziost_wall1 0 0 ziost_wall1 bo_yavinwall1 0
+
+
+spr_revnshn_ziost_wall2 0 0 ziost_wall2 bo_yavinwall2 0
+
+
+spr_revnshn_ziost_wall3 0 0 ziost_wall3 bo_yavinwall3 0
 
 
 spr_skybox_cloud_1 0 0 skybox_cloud_1_prop 0 0
