@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1269
+ 1312
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3668,6 +3668,24 @@ spr_swy_dant_base_build 0 0 swy_dant_base_build 0 0
 spr_swy_dant_dish 0 0 swy_dant_dish 0 0
 
 
+spr_swy_deflector_shield 0 0 swy_deflector_shield bo_swy_deflector_shield 2
+-42.000000  2 600 1 1152921504606847246 1969 3 1008806316530991133 1 100 
+-40.000000  1 600 1 1152921504606847245 
+
+
+spr_swy_deflector_shield_no_col 0 0 swy_deflector_shield 0 1
+-40.000000  1 600 1 1152921504606847245 
+
+
+spr_swy_deflector_shield_red 0 0 swy_deflector_shield_red bo_swy_deflector_shield 2
+-42.000000  2 600 1 1152921504606847246 1969 3 1008806316530991133 1 100 
+-40.000000  1 600 1 1152921504606847245 
+
+
+spr_swy_deflector_shield_red_no_col 0 0 swy_deflector_shield_red 0 1
+-40.000000  1 600 1 1152921504606847245 
+
+
 spr_barf_tower 0 0 sw_taris_tower bo_sw_taris_tower 0
 
 
@@ -3822,6 +3840,123 @@ spr_revnshn_ziost_wall2 0 0 ziost_wall2 bo_yavinwall2 0
 
 
 spr_revnshn_ziost_wall3 0 0 ziost_wall3 bo_yavinwall3 0
+
+
+spr_revnshn_datooine_addon 0 0 datooine_addon bo_yavinaddon 0
+
+
+spr_revnshn_datooine_pillar1 0 0 datooine_pillar1 bo_yavinpillar1 0
+
+
+spr_revnshn_datooine_pillar2 0 0 datooine_pillar2 bo_yavinpillar2 0
+
+
+spr_revnshn_datooine_spire 0 0 datooine_spire bo_yavinspire 0
+
+
+spr_revnshn_datooine_statue1 0 0 datooine_statue1 bo_yavinstatue1 0
+
+
+spr_revnshn_datooine_statue2 0 0 datooine_statue2 bo_yavinstatue2 0
+
+
+spr_revnshn_datooine_statue3 0 0 datooine_statue3 bo_yavinstatue3 0
+
+
+spr_revnshn_datooine_steps 0 0 datooine_steps bo_yavinsteps 0
+
+
+spr_revnshn_datooine_table1 0 0 datooine_table1 bo_yavintable1 0
+
+
+spr_revnshn_datooine_temple 0 0 datooine_templeblend bo_yavintempleblend 0
+
+
+spr_revnshn_datooine_wall1 0 0 datooine_wall1 bo_yavinwall1 0
+
+
+spr_revnshn_datooine_wall2 0 0 datooine_wall2 bo_yavinwall2 0
+
+
+spr_revnshn_datooine_wall3 0 0 datooine_wall3 bo_yavinwall3 0
+
+
+spr_revnshn_korriban_1_addon 0 0 korriban_1_addon bo_yavinaddon 0
+
+
+spr_revnshn_korriban_1_pillar1 0 0 korriban_1_pillar1 bo_yavinpillar1 0
+
+
+spr_revnshn_korriban_1_pillar2 0 0 korriban_1_pillar2 bo_yavinpillar2 0
+
+
+spr_revnshn_korriban_1_spire 0 0 korriban_1_spire bo_yavinspire 0
+
+
+spr_revnshn_korriban_1_statue1 0 0 korriban_1_statue1 bo_yavinstatue1 0
+
+
+spr_revnshn_korriban_1_statue2 0 0 korriban_1_statue2 bo_yavinstatue2 0
+
+
+spr_revnshn_korriban_1_statue3 0 0 korriban_1_statue3 bo_yavinstatue3 0
+
+
+spr_revnshn_korriban_1_steps 0 0 korriban_1_steps bo_yavinsteps 0
+
+
+spr_revnshn_korriban_1_table1 0 0 korriban_1_table1 bo_yavintable1 0
+
+
+spr_revnshn_korriban_1_temple 0 0 korriban_1_templeblend bo_yavintempleblend 0
+
+
+spr_revnshn_korriban_1_wall1 0 0 korriban_1_wall1 bo_yavinwall1 0
+
+
+spr_revnshn_korriban_1_wall2 0 0 korriban_1_wall2 bo_yavinwall2 0
+
+
+spr_revnshn_korriban_1_wall3 0 0 korriban_1_wall3 bo_yavinwall3 0
+
+
+spr_revnshn_korriban_2_addon 0 0 korriban_2_addon bo_yavinaddon 0
+
+
+spr_revnshn_korriban_2_pillar1 0 0 korriban_2_pillar1 bo_yavinpillar1 0
+
+
+spr_revnshn_korriban_2_pillar2 0 0 korriban_2_pillar2 bo_yavinpillar2 0
+
+
+spr_revnshn_korriban_2_spire 0 0 korriban_2_spire bo_yavinspire 0
+
+
+spr_revnshn_korriban_2_statue1 0 0 korriban_2_statue1 bo_yavinstatue1 0
+
+
+spr_revnshn_korriban_2_statue2 0 0 korriban_2_statue2 bo_yavinstatue2 0
+
+
+spr_revnshn_korriban_2_statue3 0 0 korriban_2_statue3 bo_yavinstatue3 0
+
+
+spr_revnshn_korriban_2_steps 0 0 korriban_2_steps bo_yavinsteps 0
+
+
+spr_revnshn_korriban_2_table1 0 0 korriban_2_table1 bo_yavintable1 0
+
+
+spr_revnshn_korriban_2_temple 0 0 korriban_2_templeblend bo_yavintempleblend 0
+
+
+spr_revnshn_korriban_2_wall1 0 0 korriban_2_wall1 bo_yavinwall1 0
+
+
+spr_revnshn_korriban_2_wall2 0 0 korriban_2_wall2 bo_yavinwall2 0
+
+
+spr_revnshn_korriban_2_wall3 0 0 korriban_2_wall3 bo_yavinwall3 0
 
 
 spr_skybox_cloud_1 0 0 skybox_cloud_1_prop 0 0

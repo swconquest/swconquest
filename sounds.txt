@@ -1,5 +1,5 @@
 soundsfile version 2
-645
+647
  swc_click.mp3 257
  tutorial_1.ogg 1793
  tutorial_2.ogg 1793
@@ -557,6 +557,8 @@ soundsfile version 2
  saber_swing4.mp3 1696
  saber_swing5.mp3 1696
  saber_swing6.mp3 1696
+ deflector_shield.mp3 1314
+ deflector_shield_hit.mp3 2576
  E5-blaster.mp3 1616
  rvnshn_DH17.mp3 1616
  vader_breath.mp3 1554
@@ -645,7 +647,7 @@ soundsfile version 2
  swc_hutt_enemy25_1.mp3 2577
  swc_hutt_enemy25_2.mp3 2577
  swc_hutt_enemy50_1.mp3 2577
-314
+316
 snd_click 257 1 0 
 snd_tutorial_1 1793 1 1 
 snd_tutorial_2 1793 1 2 
@@ -915,48 +917,50 @@ snd_sullustan_yell 2656 4 544 545 546 547
 snd_twilek_female_victory 2640 4 548 549 550 550 
 snd_twilek_female_yell 2656 3 549 550 550 
 snd_lightsaber_swing 1696 6 551 552 553 554 555 556 
-snd_e5 1616 1 557 
-snd_dh17 1616 1 558 
-snd_vader_breath 1554 1 559 
-snd_swc_hangar_siren 1074 1 560 
-snd_swc_hangar_hutt 2577 1 561 
-snd_swc_hangar_imperial 2577 1 562 
-snd_swc_hangar_mandalorian 2577 1 563 
-snd_swc_hangar_neutral 2577 1 564 
-snd_swc_hangar_rebel 2577 1 565 
-snd_swc_hangar_sith 2577 1 566 
-snd_swc_hangar_wookie 2577 1 567 
-snd_swc_hangar_clones 2577 1 568 
-snd_swc_hangar_trandoshan 2577 1 569 
-snd_swc_neutral_death 2577 3 570 571 572 
-snd_swc_neutral_deployed 2577 3 573 574 575 
-snd_swc_neutral_victory 2577 2 576 577 
-snd_swc_neutral_fired 2577 2 578 579 
-snd_swc_neutral_player25 2577 2 580 581 
-snd_swc_neutral_player50 2577 2 582 583 
-snd_swc_neutral_enemy25 2577 1 584 
-snd_swc_neutral_enemy50 2577 3 585 586 587 
-snd_swc_empire_death 2577 3 588 589 590 
-snd_swc_empire_deployed 2577 4 591 592 593 594 
-snd_swc_empire_victory 2577 3 595 596 597 
-snd_swc_empire_fired 2577 1 598 
-snd_swc_empire_player25 2577 3 599 600 601 
-snd_swc_empire_player50 2577 2 602 603 
-snd_swc_empire_enemy25 2577 1 604 
-snd_swc_empire_enemy50 2577 3 605 606 607 
-snd_swc_rebel_death 2577 3 608 609 610 
-snd_swc_rebel_deployed 2577 3 611 612 613 
-snd_swc_rebel_victory 2577 3 614 615 616 
-snd_swc_rebel_fired 2577 2 617 618 
-snd_swc_rebel_player25 2577 2 619 620 
-snd_swc_rebel_player50 2577 2 621 622 
-snd_swc_rebel_enemy25 2577 1 623 
-snd_swc_rebel_enemy50 2577 3 624 625 626 
-snd_swc_hutt_death 2577 3 627 628 629 
-snd_swc_hutt_deployed 2577 3 630 631 632 
-snd_swc_hutt_victory 2577 3 633 634 635 
-snd_swc_hutt_fired 2577 2 636 637 
-snd_swc_hutt_player25 2577 2 638 639 
-snd_swc_hutt_player50 2577 2 640 641 
-snd_swc_hutt_enemy25 2577 2 642 643 
-snd_swc_hutt_enemy50 2577 1 644 
+snd_deflector_shield 1314 1 557 
+snd_deflector_shield_hit 2576 1 558 
+snd_e5 1616 1 559 
+snd_dh17 1616 1 560 
+snd_vader_breath 1554 1 561 
+snd_swc_hangar_siren 1074 1 562 
+snd_swc_hangar_hutt 2577 1 563 
+snd_swc_hangar_imperial 2577 1 564 
+snd_swc_hangar_mandalorian 2577 1 565 
+snd_swc_hangar_neutral 2577 1 566 
+snd_swc_hangar_rebel 2577 1 567 
+snd_swc_hangar_sith 2577 1 568 
+snd_swc_hangar_wookie 2577 1 569 
+snd_swc_hangar_clones 2577 1 570 
+snd_swc_hangar_trandoshan 2577 1 571 
+snd_swc_neutral_death 2577 3 572 573 574 
+snd_swc_neutral_deployed 2577 3 575 576 577 
+snd_swc_neutral_victory 2577 2 578 579 
+snd_swc_neutral_fired 2577 2 580 581 
+snd_swc_neutral_player25 2577 2 582 583 
+snd_swc_neutral_player50 2577 2 584 585 
+snd_swc_neutral_enemy25 2577 1 586 
+snd_swc_neutral_enemy50 2577 3 587 588 589 
+snd_swc_empire_death 2577 3 590 591 592 
+snd_swc_empire_deployed 2577 4 593 594 595 596 
+snd_swc_empire_victory 2577 3 597 598 599 
+snd_swc_empire_fired 2577 1 600 
+snd_swc_empire_player25 2577 3 601 602 603 
+snd_swc_empire_player50 2577 2 604 605 
+snd_swc_empire_enemy25 2577 1 606 
+snd_swc_empire_enemy50 2577 3 607 608 609 
+snd_swc_rebel_death 2577 3 610 611 612 
+snd_swc_rebel_deployed 2577 3 613 614 615 
+snd_swc_rebel_victory 2577 3 616 617 618 
+snd_swc_rebel_fired 2577 2 619 620 
+snd_swc_rebel_player25 2577 2 621 622 
+snd_swc_rebel_player50 2577 2 623 624 
+snd_swc_rebel_enemy25 2577 1 625 
+snd_swc_rebel_enemy50 2577 3 626 627 628 
+snd_swc_hutt_death 2577 3 629 630 631 
+snd_swc_hutt_deployed 2577 3 632 633 634 
+snd_swc_hutt_victory 2577 3 635 636 637 
+snd_swc_hutt_fired 2577 2 638 639 
+snd_swc_hutt_player25 2577 2 640 641 
+snd_swc_hutt_player50 2577 2 642 643 
+snd_swc_hutt_enemy25 2577 2 644 645 
+snd_swc_hutt_enemy50 2577 1 646 
