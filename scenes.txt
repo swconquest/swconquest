@@ -1351,7 +1351,7 @@ scn_castle_20_prison castle_20_prison 1 interior_prison_d bo_interior_prison_d -
 scn_castle_21_exterior castle_21_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
- outer_terrain_desert 
+ 0 
 scn_castle_21_interior castle_21_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  572 
@@ -1363,7 +1363,7 @@ scn_castle_21_prison castle_21_prison 1 interior_prison_d bo_interior_prison_d -
 scn_castle_22_exterior castle_22_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
- outer_terrain_desert 
+ 0 
 scn_castle_22_interior castle_22_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  573 
@@ -1375,7 +1375,7 @@ scn_castle_22_prison castle_22_prison 1 interior_prison_i bo_interior_prison_i -
 scn_castle_23_exterior castle_23_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
- outer_terrain_desert 
+ 0 
 scn_castle_23_interior castle_23_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  574 
@@ -1387,7 +1387,7 @@ scn_castle_23_prison castle_23_prison 1 interior_prison_b bo_interior_prison_b -
 scn_castle_24_exterior castle_24_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
- outer_terrain_desert 
+ 0 
 scn_castle_24_interior castle_24_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  575 
@@ -1459,7 +1459,7 @@ scn_castle_29_prison castle_29_prison 1 interior_prison_a bo_interior_prison_a -
 scn_castle_30_exterior castle_30_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
- outer_terrain_desert 
+ 0 
 scn_castle_30_interior castle_30_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  581 
@@ -1468,10 +1468,10 @@ scn_castle_30_prison castle_30_prison 1 interior_prison_n bo_interior_prison_n -
   0 
   0 
  0 
-scn_castle_31_exterior castle_31_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_castle_31_exterior castle_31_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -900.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
- outer_terrain_desert 
+ 0 
 scn_castle_31_interior castle_31_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  582 
@@ -1516,10 +1516,10 @@ scn_castle_34_prison castle_34_prison 1 interior_prison_f bo_interior_prison_f -
   0 
   0 
  0 
-scn_castle_35_exterior castle_35_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_castle_35_exterior castle_35_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -900.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
- outer_terrain_desert 
+ 0 
 scn_castle_35_interior castle_35_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  586 
@@ -1528,10 +1528,10 @@ scn_castle_35_prison castle_35_prison 1 interior_prison_f bo_interior_prison_f -
   0 
   0 
  0 
-scn_castle_36_exterior castle_36_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_castle_36_exterior castle_36_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -900.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
- outer_terrain_desert 
+ 0 
 scn_castle_36_interior castle_36_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  587 
