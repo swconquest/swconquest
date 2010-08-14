@@ -557,7 +557,7 @@ soundsfile version 2
  saber_swing4.mp3 1696
  saber_swing5.mp3 1696
  saber_swing6.mp3 1696
- deflector_shield.mp3 1314
+ deflector_shield.mp3 1058
  deflector_shield_hit.mp3 2576
  E5-blaster.mp3 1616
  rvnshn_DH17.mp3 1616
@@ -917,7 +917,7 @@ snd_sullustan_yell 2656 4 544 545 546 547
 snd_twilek_female_victory 2640 4 548 549 550 550 
 snd_twilek_female_yell 2656 3 549 550 550 
 snd_lightsaber_swing 1696 6 551 552 553 554 555 556 
-snd_deflector_shield 1314 1 557 
+snd_deflector_shield 1058 1 557 
 snd_deflector_shield_hit 2576 1 558 
 snd_e5 1616 1 559 
 snd_dh17 1616 1 560 

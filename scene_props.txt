@@ -3842,43 +3842,43 @@ spr_revnshn_ziost_wall2 0 0 ziost_wall2 bo_yavinwall2 0
 spr_revnshn_ziost_wall3 0 0 ziost_wall3 bo_yavinwall3 0
 
 
-spr_revnshn_datooine_addon 0 0 datooine_addon bo_yavinaddon 0
+spr_revnshn_dantooine_addon 0 0 dantooine_addon bo_yavinaddon 0
 
 
-spr_revnshn_datooine_pillar1 0 0 datooine_pillar1 bo_yavinpillar1 0
+spr_revnshn_dantooine_pillar1 0 0 dantooine_pillar1 bo_yavinpillar1 0
 
 
-spr_revnshn_datooine_pillar2 0 0 datooine_pillar2 bo_yavinpillar2 0
+spr_revnshn_dantooine_pillar2 0 0 dantooine_pillar2 bo_yavinpillar2 0
 
 
-spr_revnshn_datooine_spire 0 0 datooine_spire bo_yavinspire 0
+spr_revnshn_dantooine_spire 0 0 dantooine_spire bo_yavinspire 0
 
 
-spr_revnshn_datooine_statue1 0 0 datooine_statue1 bo_yavinstatue1 0
+spr_revnshn_dantooine_statue1 0 0 dantooine_statue1 bo_yavinstatue1 0
 
 
-spr_revnshn_datooine_statue2 0 0 datooine_statue2 bo_yavinstatue2 0
+spr_revnshn_dantooine_statue2 0 0 dantooine_statue2 bo_yavinstatue2 0
 
 
-spr_revnshn_datooine_statue3 0 0 datooine_statue3 bo_yavinstatue3 0
+spr_revnshn_dantooine_statue3 0 0 dantooine_statue3 bo_yavinstatue3 0
 
 
-spr_revnshn_datooine_steps 0 0 datooine_steps bo_yavinsteps 0
+spr_revnshn_dantooine_steps 0 0 dantooine_steps bo_yavinsteps 0
 
 
-spr_revnshn_datooine_table1 0 0 datooine_table1 bo_yavintable1 0
+spr_revnshn_dantooine_table1 0 0 dantooine_table1 bo_yavintable1 0
 
 
-spr_revnshn_datooine_temple 0 0 datooine_templeblend bo_yavintempleblend 0
+spr_revnshn_dantooine_temple 0 0 dantooine_templeblend bo_yavintempleblend 0
 
 
-spr_revnshn_datooine_wall1 0 0 datooine_wall1 bo_yavinwall1 0
+spr_revnshn_dantooine_wall1 0 0 dantooine_wall1 bo_yavinwall1 0
 
 
-spr_revnshn_datooine_wall2 0 0 datooine_wall2 bo_yavinwall2 0
+spr_revnshn_dantooine_wall2 0 0 dantooine_wall2 bo_yavinwall2 0
 
 
-spr_revnshn_datooine_wall3 0 0 datooine_wall3 bo_yavinwall3 0
+spr_revnshn_dantooine_wall3 0 0 dantooine_wall3 bo_yavinwall3 0
 
 
 spr_revnshn_korriban_1_addon 0 0 korriban_1_addon bo_yavinaddon 0
