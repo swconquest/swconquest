@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1312
+ 1318
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -153,7 +153,22 @@ spr_sw_chest1 0 0 player_chest_sw bo_player_chest_sw 0
 spr_sw_box_a 8192 0 box_a_sw_sp bo_box_a_sw_sp 0
 
 
+spr_sw_box_a 8192 0 box_a_sw_sp bo_box_a_sw_sp 0
+
+
 spr_sw_box_a_square 8192 0 box_a_square bo_box_a_square 0
+
+
+spr_sw_box_a_square_blue 8192 0 box_a_square_blue bo_box_a_square 0
+
+
+spr_sw_box_a_square_brown 8192 0 box_a_square_brown bo_box_a_square 0
+
+
+spr_sw_box_a_square_red 8192 0 box_a_square_red bo_box_a_square 0
+
+
+spr_sw_box_a_square_yellow 8192 0 box_a_square_yellow bo_box_a_square 0
 
 
 spr_sw_bacta_tank 0 0 bacta_tank bo_bacta_tank 0
@@ -3972,6 +3987,9 @@ spr_skybox_sunset_1 0 0 skybox_sunset_1_prop 0 0
 
 
 spr_skybox_space 0 0 compass_prop 0 0
+
+
+spr_skybox_vjun 0 0 skybox_vjun 0 0
 
 
 spr_scene_props_end 0 0 0 0 0
