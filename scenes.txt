@@ -376,7 +376,7 @@ scn_town_26_center town_26_center 256 none none 0.000000 0.000000 240.000000 240
   0 
   0 
  outer_terrain_plain 
-scn_town_27_center town_27_center 256 none none 0.000000 0.000000 4.000000 4.000000 -800.000000 0x00000040400681000a46298a003702000051a10000512f00 
+scn_town_27_center town_27_center 1 box_a_square bo_box_a_square -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
@@ -808,7 +808,7 @@ scn_town_26_arena town_26_arena 256 none none 0.000000 0.000000 240.000000 240.0
   0 
   0 
  outer_terrain_plain 
-scn_town_27_arena town_27_arena 256 none none 0.000000 0.000000 4.000000 4.000000 -8000.000000 0x00000040400681000a46298a003702000051a10000512f00 
+scn_town_27_arena town_27_arena 1 box_a_square bo_box_a_square -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
