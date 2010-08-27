@@ -167,11 +167,11 @@
  mount_horse 1024  1
   2.000000 sw_pilot_mount 0 100 3 0 0.000000 0.000000 0.000000  0.0 
  dismount_horse 16640  1
-  3.000000 sw_pilot_mount 100 0 3 0 -0.600000 0.000000 0.000000  0.0 
+  3.000000 sw_pilot_mount 100 0 2 0 -0.600000 0.000000 0.000000  0.0 
  lancer_ride_0 257  1
   43.000000 stand_onhorse_staff 0 1300 301989888 0 0.0 0.0 0.0 0.0 
  equip_default 0  1
-  0.600000 equip_arms 206 221 1 0 0.0 0.0 0.0 0.0 
+  0.600000 equip_arms 352 365 1 0 0.0 0.0 0.0 0.0 
  unequip_default 0  1
   0.300000 equip_arms 207 200 1 0 0.0 0.0 0.0 0.0 
  equip_sword 0  1
