@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1327
+ 1329
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3635,6 +3635,9 @@ spr_swy_city_ground_hypori 0 0 swy_city_ground_hypori bo_swy_city_ground 0
 spr_swy_city_ground_hypori2 0 0 swy_city_ground_hypori2 bo_swy_city_ground 0
 
 
+spr_swy_city_ground_sarapin 0 0 swy_city_ground_sarapin bo_swy_city_ground 0
+
+
 spr_swy_city_wall 0 0 swy_city_wall bo_swy_city_wall 0
 
 
@@ -3654,6 +3657,9 @@ spr_swy_city_wall_hypori 0 0 swy_city_wall_hypori bo_swy_city_wall 0
 
 
 spr_swy_city_wall_hypori2 0 0 swy_city_wall_hypori2 bo_swy_city_wall 0
+
+
+spr_swy_city_wall_sarapin 0 0 swy_city_wall_sarapin bo_swy_city_wall 0
 
 
 spr_swy_palm 0 0 swy_palm bo_swy_palm 0
