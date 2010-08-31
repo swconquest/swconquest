@@ -1,117 +1,117 @@
 map_icons_file version 1
 240
-player 1 civilian_transport 0.300000 191 0.150000 0.173000 0.000000 0
+player 1 civilian_transport 0.300000 193 0.150000 0.173000 0.000000 0
 
 
-imperial_star_destroyer 1 Imp_ISD 0.800000 191 0.150000 0.173000 0.000000 0
+imperial_star_destroyer 1 Imp_ISD 0.800000 193 0.150000 0.173000 0.000000 0
 
 
-imperial_star_destroyer_interdictor 1 Imp_ISD_Interdictor 0.800000 191 0.150000 0.173000 0.000000 0
+imperial_star_destroyer_interdictor 1 Imp_ISD_Interdictor 0.800000 193 0.150000 0.173000 0.000000 0
 
 
-imperial_victory_c2_frigate 1 Imp_Victory_Class_II_Frigate 0.800000 191 0.150000 0.173000 0.000000 0
+imperial_victory_c2_frigate 1 Imp_Victory_Class_II_Frigate 0.800000 193 0.150000 0.173000 0.000000 0
 
 
-imperial_dreadnaught_frigate 1 Imp_Dreadnaught_Frigate 0.500000 191 0.150000 0.173000 0.000000 0
+imperial_dreadnaught_frigate 1 Imp_Dreadnaught_Frigate 0.500000 193 0.150000 0.173000 0.000000 0
 
 
-imperial_trade_frigate 1 Imp_trade_frigate 0.500000 191 0.150000 0.173000 0.000000 0
+imperial_trade_frigate 1 Imp_trade_frigate 0.500000 193 0.150000 0.173000 0.000000 0
 
 
-tie_fighter 1 tie_fighter 0.400000 191 0.150000 0.173000 0.000000 0
+tie_fighter 1 tie_fighter 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-imperial_shuttle 1 imperial_shuttle 0.500000 191 0.150000 0.173000 0.000000 0
+imperial_shuttle 1 imperial_shuttle 0.500000 193 0.150000 0.173000 0.000000 0
 
 
-a_wing 1 a_wing 0.300000 191 0.150000 0.173000 0.000000 0
+a_wing 1 a_wing 0.300000 193 0.150000 0.173000 0.000000 0
 
 
-rebel_transport 1 rebel_transport 0.650000 191 0.150000 0.173000 0.000000 0
+rebel_transport 1 rebel_transport 0.650000 193 0.150000 0.173000 0.000000 0
 
 
-corellian_gunship 1 Cor_Gunship 0.500000 191 0.150000 0.173000 0.000000 0
+corellian_gunship 1 Cor_Gunship 0.500000 193 0.150000 0.173000 0.000000 0
 
 
-moncal_cruiser 1 Moncal_Cruiser 0.650000 191 0.150000 0.173000 0.000000 0
+moncal_cruiser 1 Moncal_Cruiser 0.650000 193 0.150000 0.173000 0.000000 0
 
 
-y_wing 1 y_wing_gold 0.400000 191 0.150000 0.173000 0.000000 0
+y_wing 1 y_wing_gold 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-hutt_cruiser 1 Hutt_Cruiser 0.650000 191 0.150000 0.173000 0.000000 0
+hutt_cruiser 1 Hutt_Cruiser 0.650000 193 0.150000 0.173000 0.000000 0
 
 
-hutt_frigate_mk2 1 Hutt_Frigate_MK2 0.650000 191 0.150000 0.173000 0.000000 0
+hutt_frigate_mk2 1 Hutt_Frigate_MK2 0.650000 193 0.150000 0.173000 0.000000 0
 
 
-hutt_frigate_mk1 1 Hutt_Frigate_MK1 0.650000 191 0.150000 0.173000 0.000000 0
+hutt_frigate_mk1 1 Hutt_Frigate_MK1 0.650000 193 0.150000 0.173000 0.000000 0
 
 
-hutt_trade 1 Hutt_Trade 0.500000 191 0.150000 0.173000 0.000000 0
+hutt_trade 1 Hutt_Trade 0.500000 193 0.150000 0.173000 0.000000 0
 
 
-hutt_patrol 1 Hutt_Patrol 0.300000 191 0.150000 0.173000 0.000000 0
+hutt_patrol 1 Hutt_Patrol 0.300000 193 0.150000 0.173000 0.000000 0
 
 
-z95 1 z96 0.400000 191 0.150000 0.173000 0.000000 0
+z95 1 z96 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-scyk_fighter 1 hutt_scyk_fighter 0.400000 191 0.150000 0.173000 0.000000 0
+scyk_fighter 1 hutt_scyk_fighter 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-mercenary_raider 1 mercenary_raider 0.400000 191 0.150000 0.173000 0.000000 0
+mercenary_raider 1 mercenary_raider 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-freighter 1 freighter 0.500000 191 0.150000 0.173000 0.000000 0
+freighter 1 freighter 0.500000 193 0.150000 0.173000 0.000000 0
 
 
-bulk_freighter 1 bulk_frigate 0.500000 191 0.150000 0.173000 0.000000 0
+bulk_freighter 1 bulk_frigate 0.500000 193 0.150000 0.173000 0.000000 0
 
 
-mercenary_fighter 1 z95 0.400000 191 0.150000 0.173000 0.000000 0
+mercenary_fighter 1 z95 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-mercenary_shuttle 1 shuttle 0.400000 191 0.150000 0.173000 0.000000 0
+mercenary_shuttle 1 shuttle 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-civilian_transport 1 civilian_transport 0.400000 191 0.150000 0.173000 0.000000 0
+civilian_transport 1 civilian_transport 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-civilian_cruiser 1 civilian_transport_2 0.500000 191 0.150000 0.173000 0.000000 0
+civilian_cruiser 1 civilian_transport_2 0.500000 193 0.150000 0.173000 0.000000 0
 
 
 cis_star_cruiser 1 CIS_Station 0.600000 0 0 0 0 0
 
 
-shuttle 1 shuttle_civilian 0.300000 191 0.150000 0.173000 0.000000 0
+shuttle 1 shuttle_civilian 0.300000 193 0.150000 0.173000 0.000000 0
 
 
-mercenary_raider_grey 1 mercenary_raider_grey 0.400000 191 0.150000 0.173000 0.000000 0
+mercenary_raider_grey 1 mercenary_raider_grey 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-mercenary_raider_brown 1 mercenary_raider_brown 0.400000 191 0.150000 0.173000 0.000000 0
+mercenary_raider_brown 1 mercenary_raider_brown 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-mercenary_shuttle_grey 1 shuttle_grey 0.400000 191 0.150000 0.173000 0.000000 0
+mercenary_shuttle_grey 1 shuttle_grey 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-mercenary_shuttle_brown 1 shuttle_brown 0.400000 191 0.150000 0.173000 0.000000 0
+mercenary_shuttle_brown 1 shuttle_brown 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-mercenary_fighter_grey 1 z95_grey 0.400000 191 0.150000 0.173000 0.000000 0
+mercenary_fighter_grey 1 z95_grey 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-mercenary_fighter_brown 1 z95_brown 0.400000 191 0.150000 0.173000 0.000000 0
+mercenary_fighter_brown 1 z95_brown 0.400000 193 0.150000 0.173000 0.000000 0
 
 
-y_wing_debris 1 y_wing_gold_debris 0.500000 191 0.150000 0.173000 0.000000 0
+y_wing_debris 1 y_wing_gold_debris 0.500000 193 0.150000 0.173000 0.000000 0
 
 
-z95_debris 1 z95_debris 0.500000 191 0.150000 0.173000 0.000000 0
+z95_debris 1 z95_debris 0.500000 193 0.150000 0.173000 0.000000 0
 
 
-tie_fighter_debris 1 tie_fighter_debris 0.500000 191 0.150000 0.173000 0.000000 0
+tie_fighter_debris 1 tie_fighter_debris 0.500000 193 0.150000 0.173000 0.000000 0
 
 
 sw_planet_green 1 planet_green 0.500000 0 0 0 0 0

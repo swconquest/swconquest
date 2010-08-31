@@ -648,7 +648,7 @@ soundsfile version 2
  swc_hutt_enemy25_1.mp3 2577
  swc_hutt_enemy25_2.mp3 2577
  swc_hutt_enemy50_1.mp3 2577
-317
+319
 snd_click 257 1 0 
 snd_tutorial_1 1793 1 1 
 snd_tutorial_2 1793 1 2 
@@ -816,6 +816,8 @@ snd_gourd_destroyed 144 1 134
 snd_cow_moo 2193 0 
 snd_cow_slaughter 2193 1 332 
 snd_distant_dog_bark 641 3 333 334 335 
+snd_blast_door_open 641 1 333 
+snd_blast_door_close 641 1 334 
 snd_distant_owl 641 2 336 337 
 snd_distant_chicken 641 2 337 336 
 snd_distant_carpenter 641 2 338 339 

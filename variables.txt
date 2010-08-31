@@ -306,7 +306,6 @@ g_player_deposit
 g_cur_interest_debt
 helmet_view
 crouch_key_down
-close_door
 g_started_battle_random_by_enemy_faction
 bash_readiness
 cur_casualties
@@ -572,6 +571,7 @@ g_option_merchant_text
 g_option_merchant
 g_option_soldier_text
 g_option_soldier
+g_roller_end_plus_1
 g_player_luck
 g_election_date
 g_player_party_icon
