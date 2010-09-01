@@ -20,7 +20,7 @@ imod_tempered|%s con buen temple
 imod_deadly|%s letal
 imod_exquisite|%s de calidad exquisita
 imod_masterwork|%s de calidad suprema
-imod_heavy|%s enorme
+imod_heavy|%s pesado
 imod_strong|%s fuerte
 imod_powerful|%s potente
 imod_tattered|%s en mal estado
@@ -28,7 +28,7 @@ imod_ragged|%s en jirones
 imod_rough|%s desigual
 imod_sturdy|%s resistente
 imod_thick|%s contundente
-imod_hardened|%s durable
+imod_hardened|%s endurecido
 imod_reinforced|%s con refuerzos
 imod_superb|%s de calidad soberbia
 imod_lordly|%s de calidad señorial

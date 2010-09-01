@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1329
+ 1348
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3810,6 +3810,63 @@ spr_barf_rock_23 0 0 rock23 bo_rock23 0
 
 
 spr_barf_rock_24 0 0 rock24 bo_rock24 0
+
+
+spr_kashyyyk_house 0 0 kashyyyk_house 0 0
+
+
+spr_kashyyyk_house_platform_bridge 0 0 kashyyyk_house_platform_bridge 0 0
+
+
+spr_kashyyyk_house_platform_down 0 0 kashyyyk_house_platform_down 0 0
+
+
+spr_kashyyyk_house_platform_a 0 0 kashyyyk_house_platform_a 0 0
+
+
+spr_kashyyyk_platform_eighth_fence_addon 0 0 kashyyyk_platform_eighth_fence_addon 0 0
+
+
+spr_kashyyyk_platform_eighth_fence_houseup_addon 0 0 kashyyyk_platform_eighth_fence_houseup_addon 0 0
+
+
+spr_kashyyyk_platform_eighth_platform 0 0 kashyyyk_platform_eighth_platform 0 0
+
+
+spr_kashyyyk_platform_house_a 0 0 kashyyyk_platform_house_a 0 0
+
+
+spr_kashyyyk_platform_house_b 0 0 kashyyyk_platform_house_b 0 0
+
+
+spr_kashyyyk_platform_house_bridge 0 0 kashyyyk_platform_house_bridge 0 0
+
+
+spr_kashyyyk_platform_offtree_a 0 0 kashyyyk_platform_offtree_a 0 0
+
+
+spr_kashyyyk_platform_sixteenth_fence 0 0 kashyyyk_platform_sixteenth_fence 0 0
+
+
+spr_kashyyyk_platform_sixteenth_fence_bridge 0 0 kashyyyk_platform_sixteenth_fence_bridge 0 0
+
+
+spr_kashyyyk_platform_sixteenth_platform 0 0 kashyyyk_platform_sixteenth_platform 0 0
+
+
+spr_kashyyyk_platform_stringer 0 0 kashyyyk_platform_stringer 0 0
+
+
+spr_kashyyyk_platform_stringer_bridge 0 0 kashyyyk_platform_stringer_bridge 0 0
+
+
+spr_kashyyyk_stairs 0 0 kashyyyk_stairs 0 0
+
+
+spr_kashyyyk_tree1 0 0 kashyyyk_tree1 0 0
+
+
+spr_kashyyyk_tree2 0 0 kashyyyk_tree2 0 0
 
 
 spr_revnshn_rhenvar_addon 0 0 rhenvar_addon bo_yavinaddon 0
