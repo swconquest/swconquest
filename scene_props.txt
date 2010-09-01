@@ -3821,7 +3821,7 @@ spr_kashyyyk_house_platform_bridge 0 0 kashyyyk_house_platform_bridge 0 0
 spr_kashyyyk_house_platform_down 0 0 kashyyyk_house_platform_down 0 0
 
 
-spr_kashyyyk_house_platform_a 0 0 kashyyyk_house_platform_a 0 0
+spr_kashyyyk_platform_a 0 0 kashyyyk_platform_a 0 0
 
 
 spr_kashyyyk_platform_eighth_fence_addon 0 0 kashyyyk_platform_eighth_fence_addon 0 0
