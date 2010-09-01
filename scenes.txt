@@ -380,43 +380,43 @@ scn_town_27_center town_27_center 1 box_a_square bo_box_a_square -100.000000 -10
   0 
   0 
  0 
-scn_town_1_castle town_1_castle 1 imperial_office_green bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_1_castle town_1_castle 1 imperial_office_green bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  528 
  0 
-scn_town_2_castle town_2_castle 1 imperial_office_green bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_2_castle town_2_castle 1 imperial_office_green bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  529 
  0 
-scn_town_3_castle town_3_castle 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_3_castle town_3_castle 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  530 
  0 
-scn_town_4_castle town_4_castle 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_4_castle town_4_castle 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  531 
  0 
-scn_town_5_castle town_5_castle 1 imperial_office_red bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_5_castle town_5_castle 1 imperial_office_red bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  532 
  0 
-scn_town_6_castle town_6_castle 1 imperial_office_brown bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_6_castle town_6_castle 1 imperial_office_brown bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  533 
  0 
-scn_town_7_castle town_7_castle 1 imperial_office_green bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_7_castle town_7_castle 1 imperial_office_green bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  534 
  0 
-scn_town_8_castle town_8_castle 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_8_castle town_8_castle 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  535 
  0 
-scn_town_9_castle town_9_castle 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_9_castle town_9_castle 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  536 
  0 
-scn_town_10_castle town_10_castle 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_10_castle town_10_castle 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  537 
  0 
@@ -424,67 +424,67 @@ scn_town_11_castle town_11_castle 256 none none 0.000000 0.000000 100.000000 100
   1  100000 
   1  538 
  0 
-scn_town_12_castle town_12_castle 1 imperial_office_brown bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_12_castle town_12_castle 1 imperial_office_brown bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  539 
  0 
-scn_town_13_castle town_13_castle 1 imperial_office_green bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_13_castle town_13_castle 1 imperial_office_green bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  540 
  0 
-scn_town_14_castle town_14_castle 1 imperial_office_brown bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_14_castle town_14_castle 1 imperial_office_brown bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  541 
  0 
-scn_town_15_castle town_15_castle 1 imperial_office_green bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_15_castle town_15_castle 1 imperial_office_green bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  542 
  0 
-scn_town_16_castle town_16_castle 1 imperial_office_red bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_16_castle town_16_castle 1 imperial_office_red_furnished bo_imperial_office_furnished -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  543 
  0 
-scn_town_17_castle town_17_castle 1 imperial_office_brown bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_17_castle town_17_castle 1 imperial_office_brown bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  544 
  0 
-scn_town_18_castle town_18_castle 1 imperial_office_brown bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_18_castle town_18_castle 1 imperial_office_brown bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  545 
  0 
-scn_town_19_castle town_19_castle 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_19_castle town_19_castle 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  546 
  0 
-scn_town_20_castle town_20_castle 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_20_castle town_20_castle 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  547 
  0 
-scn_town_21_castle town_21_castle 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_21_castle town_21_castle 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  548 
  0 
-scn_town_22_castle town_22_castle 1 imperial_office_red bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_22_castle town_22_castle 1 imperial_office_red bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  549 
  0 
-scn_town_23_castle town_23_castle 1 imperial_office_brown bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_23_castle town_23_castle 1 imperial_office_brown bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  550 
  0 
-scn_town_24_castle town_24_castle 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_24_castle town_24_castle 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  551 
  0 
-scn_town_25_castle town_25_castle 1 imperial_office_brown bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_25_castle town_25_castle 1 imperial_office_brown bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  552 
  0 
-scn_town_26_castle town_26_castle 1 imperial_office_brown bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_26_castle town_26_castle 1 imperial_office_brown bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  553 
  0 
-scn_town_27_castle town_27_castle 1 imperial_office_brown bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_town_27_castle town_27_castle 1 imperial_office_brown bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  554 
  0 
@@ -1140,7 +1140,7 @@ scn_castle_1_exterior castle_1_exterior 256 none none 0.000000 0.000000 100.0000
   0 
   0 
  outer_terrain_plain 
-scn_castle_1_interior castle_1_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_1_interior castle_1_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  555 
  0 
@@ -1152,7 +1152,7 @@ scn_castle_2_exterior castle_2_exterior 1 bunker_a bo_bunker_a -100.000000 -100.
   0 
   0 
  0 
-scn_castle_2_interior castle_2_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_2_interior castle_2_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  556 
  0 
@@ -1164,7 +1164,7 @@ scn_castle_3_exterior castle_3_exterior 256 none none 0.000000 0.000000 100.0000
   0 
   0 
  outer_terrain_desert 
-scn_castle_3_interior castle_3_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_3_interior castle_3_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  557 
  0 
@@ -1200,7 +1200,7 @@ scn_castle_6_exterior castle_6_exterior 1 bunker_a bo_bunker_a -100.000000 -100.
   0 
   0 
  0 
-scn_castle_6_interior castle_6_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_6_interior castle_6_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  560 
  0 
@@ -1212,7 +1212,7 @@ scn_castle_7_exterior castle_7_exterior 256 none none 0.000000 0.000000 100.0000
   0 
   0 
  0 
-scn_castle_7_interior castle_7_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_7_interior castle_7_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  561 
  0 
@@ -1224,7 +1224,7 @@ scn_castle_8_exterior castle_8_exterior 256 none none 0.000000 0.000000 100.0000
   0 
   0 
  0 
-scn_castle_8_interior castle_8_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_8_interior castle_8_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  562 
  0 
@@ -1236,7 +1236,7 @@ scn_castle_9_exterior castle_9_exterior 256 none none 0.000000 0.000000 100.0000
   0 
   0 
  0 
-scn_castle_9_interior castle_9_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_9_interior castle_9_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  563 
  0 
@@ -1248,7 +1248,7 @@ scn_castle_10_exterior castle_10_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_10_interior castle_10_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_10_interior castle_10_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  564 
  0 
@@ -1260,7 +1260,7 @@ scn_castle_11_exterior castle_11_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_11_interior castle_11_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_11_interior castle_11_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  565 
  0 
@@ -1272,7 +1272,7 @@ scn_castle_12_exterior castle_12_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_12_interior castle_12_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_12_interior castle_12_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  566 
  0 
@@ -1284,7 +1284,7 @@ scn_castle_13_exterior castle_13_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_13_interior castle_13_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_13_interior castle_13_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  567 
  0 
@@ -1296,7 +1296,7 @@ scn_castle_14_exterior castle_14_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_14_interior castle_14_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_14_interior castle_14_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  568 
  0 
@@ -1308,7 +1308,7 @@ scn_castle_15_exterior castle_15_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_15_interior castle_15_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_15_interior castle_15_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  569 
  0 
@@ -1320,7 +1320,7 @@ scn_castle_16_exterior castle_16_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_16_interior castle_16_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_16_interior castle_16_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  570 
  0 
@@ -1332,7 +1332,7 @@ scn_castle_17_exterior castle_17_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_17_interior castle_17_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_17_interior castle_17_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  571 
  0 
@@ -1344,7 +1344,7 @@ scn_castle_18_exterior castle_18_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_18_interior castle_18_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_18_interior castle_18_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  572 
  0 
@@ -1356,7 +1356,7 @@ scn_castle_19_exterior castle_19_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  outer_terrain_plain 
-scn_castle_19_interior castle_19_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_19_interior castle_19_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  573 
  0 
@@ -1368,7 +1368,7 @@ scn_castle_20_exterior castle_20_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_20_interior castle_20_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_20_interior castle_20_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  574 
  0 
@@ -1380,7 +1380,7 @@ scn_castle_21_exterior castle_21_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_21_interior castle_21_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_21_interior castle_21_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  575 
  0 
@@ -1392,7 +1392,7 @@ scn_castle_22_exterior castle_22_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_22_interior castle_22_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_22_interior castle_22_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  576 
  0 
@@ -1404,7 +1404,7 @@ scn_castle_23_exterior castle_23_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_23_interior castle_23_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_23_interior castle_23_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  577 
  0 
@@ -1416,7 +1416,7 @@ scn_castle_24_exterior castle_24_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_24_interior castle_24_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_24_interior castle_24_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  578 
  0 
@@ -1428,7 +1428,7 @@ scn_castle_25_exterior castle_25_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_25_interior castle_25_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_25_interior castle_25_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  579 
  0 
@@ -1440,7 +1440,7 @@ scn_castle_26_exterior castle_26_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_26_interior castle_26_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_26_interior castle_26_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  580 
  0 
@@ -1452,7 +1452,7 @@ scn_castle_27_exterior castle_27_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_27_interior castle_27_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_27_interior castle_27_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  581 
  0 
@@ -1464,7 +1464,7 @@ scn_castle_28_exterior castle_28_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  outer_terrain_plain 
-scn_castle_28_interior castle_28_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_28_interior castle_28_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  582 
  0 
@@ -1476,7 +1476,7 @@ scn_castle_29_exterior castle_29_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_29_interior castle_29_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_29_interior castle_29_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  583 
  0 
@@ -1488,7 +1488,7 @@ scn_castle_30_exterior castle_30_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_30_interior castle_30_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_30_interior castle_30_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  584 
  0 
@@ -1500,7 +1500,7 @@ scn_castle_31_exterior castle_31_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_31_interior castle_31_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_31_interior castle_31_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  585 
  0 
@@ -1512,7 +1512,7 @@ scn_castle_32_exterior castle_32_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_32_interior castle_32_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_32_interior castle_32_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  586 
  0 
@@ -1524,7 +1524,7 @@ scn_castle_33_exterior castle_33_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_33_interior castle_33_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_33_interior castle_33_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  587 
  0 
@@ -1536,7 +1536,7 @@ scn_castle_34_exterior castle_34_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_34_interior castle_34_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_34_interior castle_34_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  588 
  0 
@@ -1548,7 +1548,7 @@ scn_castle_35_exterior castle_35_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_35_interior castle_35_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_35_interior castle_35_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  589 
  0 
@@ -1560,7 +1560,7 @@ scn_castle_36_exterior castle_36_exterior 256 none none 0.000000 0.000000 100.00
   0 
   0 
  0 
-scn_castle_36_interior castle_36_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_36_interior castle_36_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  590 
  0 
@@ -1572,7 +1572,7 @@ scn_castle_37_exterior castle_37_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_37_interior castle_37_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_37_interior castle_37_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  591 
  0 
@@ -1584,7 +1584,7 @@ scn_castle_38_exterior castle_38_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_38_interior castle_38_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_38_interior castle_38_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  592 
  0 
@@ -1596,7 +1596,7 @@ scn_castle_39_exterior castle_39_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_39_interior castle_39_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_39_interior castle_39_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  593 
  0 
@@ -1608,7 +1608,7 @@ scn_castle_40_exterior castle_40_exterior 1 bunker_a bo_bunker_a -100.000000 -10
   0 
   0 
  0 
-scn_castle_40_interior castle_40_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_40_interior castle_40_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  594 
  0 
@@ -1620,7 +1620,7 @@ scn_castle_41_exterior castle_41_exterior 256 none none 0.000000 0.000000 240.00
   0 
   0 
  outer_terrain_snow 
-scn_castle_41_interior castle_41_interior 1 imperial_office_grey bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_41_interior castle_41_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  595 
  0 
@@ -1632,7 +1632,7 @@ scn_castle_42_exterior castle_42_exterior 256 none none 0.000000 0.000000 240.00
   0 
   0 
  outer_terrain_plain 
-scn_castle_42_interior castle_42_interior 1 imperial_office_brown bo_imperial_office -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_castle_42_interior castle_42_interior 1 imperial_office_brown bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  596 
  0 
