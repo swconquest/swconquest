@@ -2771,40 +2771,40 @@ itemsfile version 2
  itm_horses_begin FLAG_FOR_HORSES_BEGIN FLAG_FOR_HORSES_BEGIN 1  speeder_a 0  1 0 1 0 0.000000 100 0 1 0 0 1 1 1 0 0 1 0
 0
 
- itm_speeder Civilian_74-Z_Speeder_Bike Civilian_74-Z_Speeder_Bike 1  speeder_a 0  65537 0 1000 37715443746 0.000000 100 0 0 0 0 30 45 60 0 0 15 0
+ itm_speeder Civilian_74-Z_Speeder_Bike Civilian_74-Z_Speeder_Bike 1  speeder_a 0  65537 0 1000 37715443746 0.000000 100 0 0 0 0 30 45 65 0 0 15 0
 0
 
- itm_speeder_rebel Military_74-Z_Speeder_Bike Military_74-Z_Speeder_Bike 1  speeder_b 0  65537 0 1501 106434920482 0.000000 90 0 10 0 1 40 50 70 0 0 20 0
+ itm_speeder_rebel Military_74-Z_Speeder_Bike Military_74-Z_Speeder_Bike 1  speeder_b 0  65537 0 1501 106434920482 0.000000 90 0 10 0 1 40 55 75 0 0 20 0
 0
 
- itm_speeder_imperial Military_Z4-Z_Speeder_Bike Military_Z4-Z_Speeder_Bike 1  speeder_e 0  65537 0 1501 106434920482 0.000000 90 0 10 0 1 40 50 70 0 0 20 0
+ itm_speeder_imperial Military_Z4-Z_Speeder_Bike Military_Z4-Z_Speeder_Bike 1  speeder_e 0  65537 0 1501 106434920482 0.000000 90 0 10 0 1 40 55 75 0 0 20 0
 0
 
- itm_speeder_hutt Military_Z4-Z_Speeder_Bike Military_Z4-Z_Speeder_Bike 1  speeder_d 0  65537 0 1501 106434920482 0.000000 90 0 10 0 1 40 50 70 0 0 20 0
+ itm_speeder_hutt Military_Z4-Z_Speeder_Bike Military_Z4-Z_Speeder_Bike 1  speeder_d 0  65537 0 1501 106434920482 0.000000 90 0 10 0 1 40 55 75 0 0 20 0
 0
 
- itm_speeder_shadow Shadow_74-Z_Speeder_Bike Shadow_74-Z_Speeder_Bike 1  speeder_c 0  65537 0 2002 106434920482 0.000000 80 0 30 0 2 60 60 80 0 0 25 0
+ itm_speeder_shadow Shadow_74-Z_Speeder_Bike Shadow_74-Z_Speeder_Bike 1  speeder_c 0  65537 0 2002 106434920482 0.000000 80 0 30 0 2 60 65 85 0 0 25 0
 0
 
- itm_speeder_fc20 FC-20_Speeder_Bike FC-20_Speeder_Bike 1  speeder_fc20 0  65537 0 2502 106434920482 0.000000 60 0 20 0 2 60 75 90 0 0 15 0
+ itm_speeder_fc20 FC-20_Speeder_Bike FC-20_Speeder_Bike 1  speeder_fc20 0  65537 0 2502 106434920482 0.000000 60 0 20 0 2 60 80 95 0 0 15 0
 0
 
- itm_horus_winged_cruiser Horus_Winged_Cruiser Horus_Winged_Cruiser 1  a_horus 0  65537 0 2002 106434920482 0.000000 70 0 35 0 2 65 55 70 0 0 30 0
+ itm_horus_winged_cruiser Horus_Winged_Cruiser Horus_Winged_Cruiser 1  a_horus 0  65537 0 2002 106434920482 0.000000 70 0 35 0 2 65 60 75 0 0 30 0
 0
 
- itm_speeder_sparrow Sparrow_Speeder Sparrow_Speeder 2  speeder_sparrow 0  speeder_sparrow_inv 1152921504606846976  65537 0 2002 106434920482 0.000000 70 0 30 0 2 60 55 75 0 0 25 0
+ itm_speeder_sparrow Sparrow_Speeder Sparrow_Speeder 2  speeder_sparrow 0  speeder_sparrow_inv 1152921504606846976  65537 0 2002 106434920482 0.000000 70 0 30 0 2 60 60 80 0 0 25 0
 0
 
  itm_pod_racer Pod_Racer Pod_Racer 1  pod_racer 0  65537 0 3003 106434920482 0.000000 60 0 0 0 3 20 75 125 0 0 10 0
 0
 
- itm_swoop_bike Swoop_Bike Swoop_Bike 1  swoop_bike 0  65537 0 2503 106434920482 0.000000 60 0 0 0 3 25 70 115 0 0 10 0
+ itm_swoop_bike Swoop_Bike Swoop_Bike 1  swoop_bike 0  65537 0 2503 106434920482 0.000000 60 0 0 0 3 25 75 115 0 0 10 0
 0
 
- itm_speeder_dagger Dagger_Speeder_Bike Dagger_Speeder_Bike 1  speeder_dagger 0  65537 0 2002 106434920482 0.000000 70 0 10 0 2 45 60 70 0 0 35 0
+ itm_speeder_dagger Dagger_Speeder_Bike Dagger_Speeder_Bike 1  speeder_dagger 0  65537 0 2002 106434920482 0.000000 70 0 10 0 2 45 65 75 0 0 35 0
 0
 
- itm_power_chair Power_Chair Power_Chair 1  power_chair 0  65537 0 500 37715443746 0.000000 50 0 0 0 0 20 30 40 0 0 10 0
+ itm_power_chair Power_Chair Power_Chair 1  power_chair 0  65537 0 500 37715443746 0.000000 50 0 0 0 0 20 35 45 0 0 10 0
 0
 
  itm_horses_end FLAG_FOR_HORSES_END FLAG_FOR_HORSES_END 1  speeder_a 0  1 0 1 0 0.000000 100 0 1 0 0 1 1 1 0 0 1 0
