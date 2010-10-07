@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1358
+ 1378
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3894,6 +3894,66 @@ spr_coruscant8 0 0 coruscant8 0 0
 
 
 spr_coruscant9 0 0 coruscant9 0 0
+
+
+spr_taris_building_a_1_hw 0 0 taris_building_a_1_hw 0 0
+
+
+spr_taris_building_a_2_hw 0 0 taris_building_a_2_hw 0 0
+
+
+spr_taris_building_a_3_hw 0 0 taris_building_a_3_hw 0 0
+
+
+spr_taris_building_a_1_aw 0 0 taris_building_a_1_aw 0 0
+
+
+spr_taris_building_a_2_aw 0 0 taris_building_a_2_aw 0 0
+
+
+spr_taris_building_a_3_aw 0 0 taris_building_a_3_aw 0 0
+
+
+spr_taris_building_a_1_nw 0 0 taris_building_a_1_nw 0 0
+
+
+spr_taris_building_a_2_nw 0 0 taris_building_a_2_nw 0 0
+
+
+spr_taris_building_a_3_nw 0 0 taris_building_a_3_nw 0 0
+
+
+spr_taris_building_b_1_hw 0 0 taris_building_b_1_hw 0 0
+
+
+spr_taris_building_b_2_hw 0 0 taris_building_b_2_hw 0 0
+
+
+spr_taris_building_b_3_hw 0 0 taris_building_b_3_hw 0 0
+
+
+spr_taris_building_b_1_aw 0 0 taris_building_b_1_aw 0 0
+
+
+spr_taris_building_b_2_aw 0 0 taris_building_b_2_aw 0 0
+
+
+spr_taris_building_b_3_aw 0 0 taris_building_b_3_aw 0 0
+
+
+spr_taris_building_b_1_nw 0 0 taris_building_b_1_nw 0 0
+
+
+spr_taris_building_b_2_nw 0 0 taris_building_b_2_nw 0 0
+
+
+spr_taris_building_b_3_nw 0 0 taris_building_b_3_nw 0 0
+
+
+spr_taris_building_2_bridge 0 0 taris_building_2_bridge 0 0
+
+
+spr_taris_platform 0 0 taris_platform 0 0
 
 
 spr_revnshn_rhenvar_addon 0 0 rhenvar_addon bo_yavinaddon 0
