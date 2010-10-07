@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1349
+ 1358
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3867,6 +3867,33 @@ spr_kashyyyk_tree1 0 0 kashyyyk_tree1 0 0
 
 
 spr_kashyyyk_tree2 0 0 kashyyyk_tree2 0 0
+
+
+spr_coruscant1 0 0 coruscant1 0 0
+
+
+spr_coruscant2 0 0 coruscant2 0 0
+
+
+spr_coruscant3 0 0 coruscant3 0 0
+
+
+spr_coruscant4 0 0 coruscant4 0 0
+
+
+spr_coruscant5 0 0 coruscant5 0 0
+
+
+spr_coruscant6 0 0 coruscant6 0 0
+
+
+spr_coruscant7 0 0 coruscant7 0 0
+
+
+spr_coruscant8 0 0 coruscant8 0 0
+
+
+spr_coruscant9 0 0 coruscant9 0 0
 
 
 spr_revnshn_rhenvar_addon 0 0 rhenvar_addon bo_yavinaddon 0
