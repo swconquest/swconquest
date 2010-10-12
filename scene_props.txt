@@ -1740,7 +1740,7 @@ spr_dummy_a 98304 0 imperial_stormtrooper_dummy bo_arena_archery_target_b 2
 spr_band_a 0 0 band_a 0 0
 
 
-spr_arena_sign 0 0 sw_arena_arms 0 0
+spr_arena_sign 0 0 swy_sign_arena 0 0
 
 
 spr_castle_h_battlement_a 0 0 castle_h_battlement_a bo_castle_h_battlement_a 0
