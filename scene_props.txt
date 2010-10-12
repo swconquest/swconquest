@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1374
+ 1377
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3720,6 +3720,15 @@ spr_swy_deflector_shield_red_no_col 0 0 swy_deflector_shield_red 0 1
 
 
 spr_swy_gate.sys 0 0 ship_door2 bo_ship_door2 0
+
+
+spr_swy_sign_arena 0 0 swy_sign_arena 0 0
+
+
+spr_swy_sign_cantina 0 0 swy_sign_cantina 0 0
+
+
+spr_swy_sign_shop 0 0 swy_sign_shop 0 0
 
 
 spr_barf_tower 0 0 sw_taris_tower bo_sw_taris_tower 0
