@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1378
+ 1374
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3600,18 +3600,6 @@ spr_rocket 0 0 colonial_missile 0 0
 
 
 spr_rm_end 0 0 colonial_missile 0 0
-
-
-spr_swy_landing_arm 0 0 sw_landing_arm bo_sw_landing_arm 0
-
-
-spr_swy_taris_build 0 0 taris_build bo_taris_build 0
-
-
-spr_swy_tower1 0 0 swy_tower1 bo_swy_tower1 0
-
-
-spr_swy_tower2 0 0 swy_tower2 bo_swy_tower2 0
 
 
 spr_swy_city_ground 0 0 swy_city_ground bo_swy_city_ground 0
