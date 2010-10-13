@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1393
+ 1396
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3738,6 +3738,15 @@ spr_swy_sign_extra2 0 0 swy_sign_extra2 0 0
 
 
 spr_swy_sign_extra3 0 0 swy_sign_extra3 0 0
+
+
+spr_swy_glass 0 0 swy_glass 0 0
+
+
+spr_swy_glass_curved 0 0 swy_glass_curved 0 0
+
+
+spr_swy_glass_rectangle 0 0 swy_glass_rectangle 0 0
 
 
 spr_barf_tower 0 0 sw_taris_tower bo_sw_taris_tower 0
