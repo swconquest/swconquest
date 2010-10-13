@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1380
+ 1393
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4155,6 +4155,45 @@ spr_revnshn_korriban_2_wall2 0 0 korriban_2_wall2 bo_yavinwall2 0
 
 
 spr_revnshn_korriban_2_wall3 0 0 korriban_2_wall3 bo_yavinwall3 0
+
+
+spr_revnshn_sarapin_addon 0 0 sarapin_addon bo_yavinaddon 0
+
+
+spr_revnshn_sarapin_pillar1 0 0 sarapin_pillar1 bo_yavinpillar1 0
+
+
+spr_revnshn_sarapin_pillar2 0 0 sarapin_pillar2 bo_yavinpillar2 0
+
+
+spr_revnshn_sarapin_spire 0 0 sarapin_spire bo_yavinspire 0
+
+
+spr_revnshn_sarapin_statue1 0 0 sarapin_statue1 bo_yavinstatue1 0
+
+
+spr_revnshn_sarapin_statue2 0 0 sarapin_statue2 bo_yavinstatue2 0
+
+
+spr_revnshn_sarapin_statue3 0 0 sarapin_statue3 bo_yavinstatue3 0
+
+
+spr_revnshn_sarapin_steps 0 0 sarapin_steps bo_yavinsteps 0
+
+
+spr_revnshn_sarapin_table1 0 0 sarapin_table1 bo_yavintable1 0
+
+
+spr_revnshn_sarapin_temple 0 0 sarapin_templeblend bo_yavintempleblend 0
+
+
+spr_revnshn_sarapin_wall1 0 0 sarapin_wall1 bo_yavinwall1 0
+
+
+spr_revnshn_sarapin_wall2 0 0 sarapin_wall2 bo_yavinwall2 0
+
+
+spr_revnshn_sarapin_wall3 0 0 sarapin_wall3 bo_yavinwall3 0
 
 
 spr_skybox_cloud_1 0 0 skybox_cloud_1_prop 0 0
