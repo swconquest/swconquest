@@ -1163,7 +1163,7 @@ scn_castle_2_prison castle_2_prison 1 interior_prison_d bo_interior_prison_d -10
 scn_castle_3_exterior castle_3_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
- outer_terrain_desert 
+ 0 
 scn_castle_3_interior castle_3_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  557 

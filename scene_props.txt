@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1396
+ 1419
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -1238,6 +1238,75 @@ spr_sw_planet_snow 0 0 sw_planet_snow bo_planet 0
 
 
 spr_sw_planet_snow_water 0 0 sw_snow_water bo_planet 0
+
+
+spr_swy_Death_Star 0 0 swy_Death_Star bo_planet 0
+
+
+spr_swy_Planet_Coruscant 0 0 swy_Planet_Coruscant bo_planet 0
+
+
+spr_swy_Planet_Endor 0 0 swy_Planet_Endor bo_planet 0
+
+
+spr_swy_Planet_Kessel 0 0 swy_Planet_Kessel bo_planet 0
+
+
+spr_swy_Planet_RaxusPrime 0 0 swy_Planet_RaxusPrime bo_planet 0
+
+
+spr_swy_Planet_Sarapin 0 0 swy_Planet_Sarapin bo_planet 0
+
+
+spr_swy_Planet_Taris 0 0 swy_Planet_Taris bo_planet 0
+
+
+spr_swy_Planet_Tatooine 0 0 swy_Planet_Tatooine bo_planet 0
+
+
+spr_swy_Planet_forest 0 0 swy_Planet_forest bo_planet 0
+
+
+spr_swy_Planet_frozen 0 0 swy_Planet_frozen bo_planet 0
+
+
+spr_swy_Planet_geonosis 0 0 swy_Planet_geonosis bo_planet 0
+
+
+spr_swy_Planet_lava 0 0 swy_Planet_lava bo_planet 0
+
+
+spr_swy_rePlanet_craters 0 0 swy_rePlanet_craters bo_planet 0
+
+
+spr_swy_rePlanet_earth 0 0 swy_rePlanet_earth bo_planet 0
+
+
+spr_swy_Planet_lava 0 0 swy_Planet_lava bo_planet 0
+
+
+spr_swy_rePlanet_earth 0 0 swy_rePlanet_earth bo_planet 0
+
+
+spr_swy_rePlanet_gas 0 0 swy_rePlanet_gas bo_planet 0
+
+
+spr_swy_rePlanet_ice 0 0 swy_rePlanet_ice bo_planet 0
+
+
+spr_swy_rePlanet_kashyyyk 0 0 swy_rePlanet_kashyyyk bo_planet 0
+
+
+spr_swy_rePlanet_rock 0 0 swy_rePlanet_rock bo_planet 0
+
+
+spr_swy_rePlanet_snow 0 0 swy_rePlanet_snow bo_planet 0
+
+
+spr_swy_rePlanet_water 0 0 swy_rePlanet_water bo_planet 0
+
+
+spr_swy_rePlanet_wilderness 0 0 swy_rePlanet_wilderness bo_planet 0
 
 
 spr_sw_skull_a 0 0 sw_skull_a 0 0
