@@ -2774,7 +2774,7 @@ itemsfile version 2
  itm_speeder Civilian_74-Z_Speeder_Bike Civilian_74-Z_Speeder_Bike 1  speeder_a 0  65537 0 1000 37715443746 0.000000 100 0 0 0 0 30 45 65 0 0 15 0
 0
 
- itm_speeder_rebel Military_74-Z_Speeder_Bike Military_74-Z_Speeder_Bike 1  speeder_b 0  65537 0 1501 106434920482 0.000000 90 0 10 0 1 40 55 75 0 0 20 0
+ itm_speeder_rebel Military_74-Z_Speeder_Bike Military_74-Z_Speeder_Bike 1  speeder_b_norig 0  65537 0 1501 106434920482 0.000000 90 0 10 0 1 40 55 75 0 0 20 0
 0
 
  itm_speeder_imperial Military_Z4-Z_Speeder_Bike Military_Z4-Z_Speeder_Bike 1  speeder_e 0  65537 0 1501 106434920482 0.000000 90 0 10 0 1 40 55 75 0 0 20 0
