@@ -1,5 +1,5 @@
 stringsfile version 1
-1546
+1548
 str_no_string NO_STRING!
 str_empty_string _
 str_yes Yes.
@@ -1512,6 +1512,8 @@ str_spaceship_moncal_cruiser_name Mon_Cal_Cruiser
 str_spaceship_moncal_cruiser_desc _
 str_spaceship_corellian_gunship_name Corellian_Gunship
 str_spaceship_corellian_gunship_desc _
+str_spaceship_corellian_corvette_name Corellian_Corvette
+str_spaceship_corellian_corvette_desc _
 str_spaceship_y_wing_name Y-Wing
 str_spaceship_y_wing_desc _
 str_spaceship_hutt_cruiser_name Hutt_Cruiser

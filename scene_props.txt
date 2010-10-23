@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1422
+ 1423
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -85,6 +85,9 @@ spr_sw_moncal_cruiser 0 0 Moncal_Cruiser bo_Moncal_Cruiser 0
 
 
 spr_sw_corellian_gunship 0 0 Cor_Gunship bo_Cor_Gunship 0
+
+
+spr_sw_corellian_corvette 0 0 swy_corellian_corvette bo_Cor_Gunship 0
 
 
 spr_sw_shuttle 0 0 shuttle bo_shuttle 0
