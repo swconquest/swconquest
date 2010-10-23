@@ -1,39 +1,39 @@
 partytemplatesfile version 1
 59
-pt_none none 29 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_rescued_prisoners Rescued_Prisoners 27 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_enemy Enemy 24 0 28 7 -1 -1 -1 -1 -1 -1 
-pt_hero_party Hero_Party 26 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_village_defenders Colonial_Defenders 29 0 1 7 80 5 10 0 82 5 10 0 209 0 4 0 -1 -1 -1 
-pt_cattle_herd Nerf_Herd 2814749767106589 0 3 7 23 80 120 0 -1 -1 -1 -1 -1 
-pt_looters Jawas 2251799813685281 0 2 344 193 8 16 0 194 5 10 0 195 2 4 0 116 0 1 1 115 0 1 1 -1 
-pt_manhunters Trandoshan_Slavers 19 0 24 137 208 25 50 0 24 0 1 1 -1 -1 -1 -1 
-pt_steppe_bandits Night_Fangs_Pirates 562949953421337 0 2 344 204 5 25 0 205 4 8 0 51 1 5 0 43 1 5 0 40 0 1 1 -1 
-pt_forest_bandits Blazing_Claw_Pirates 562949953421336 0 27 344 202 5 25 0 203 4 8 0 47 1 5 0 67 1 5 0 40 0 1 1 -1 
-pt_sea_raiders Tusken_Raiders 562949953421343 0 2 344 206 10 25 0 207 5 10 0 -1 -1 -1 -1 
-pt_mountain_bandits Black_Sun_Pirates 562949953421333 0 26 344 198 10 20 0 199 5 10 0 200 5 10 0 201 1 10 0 40 0 1 1 -1 
-pt_deserters Deserters 844424930131987 0 25 344 -1 -1 -1 -1 -1 -1 
-pt_kingdom_1_escort Patrol_Fleet 562949957681171 0 1 172 80 1 1 0 -1 -1 -1 -1 -1 
-pt_independent_traders Merchant_Convoy 5629499534475287 0 1 11 210 1 1 0 99 1 10 0 98 1 1 0 84 10 20 0 -1 -1 
-pt_merchant_caravan Merchant_Freighter 5629499534475286 0 1 11 210 1 1 0 84 15 30 0 -1 -1 -1 -1 
-pt_troublesome_bandits Troublesome_Bandits 2533274790658067 0 2 344 196 15 55 0 -1 -1 -1 -1 -1 
-pt_bandits_awaiting_ransom Bandits_Awaiting_Ransom 2533274790658067 0 3 344 196 25 65 0 211 1 1 1 -1 -1 -1 -1 
-pt_kidnapped_girl Kidnapped_Girl 262173 0 3 7 211 1 1 0 -1 -1 -1 -1 -1 
-pt_village_farmers Colonial_Farmers 26 0 4 7 80 6 12 0 209 4 8 0 -1 -1 -1 -1 
-pt_spy_partners Unremarkable_Travellers 844424930459667 0 3 7 943 1 1 0 84 5 10 0 -1 -1 -1 -1 
-pt_runaway_serfs Runaway_Slaves 2251799814012955 0 3 7 80 6 10 0 209 3 3 0 -1 -1 -1 -1 
-pt_spy Ordinary_Townsman 844424930459667 0 3 7 942 1 1 0 -1 -1 -1 -1 -1 
-pt_sacrificed_messenger Sacrificed_Messenger 844424930459667 0 3 7 -1 -1 -1 -1 -1 -1 
-pt_forager_party Foraging_Party 1407374887747603 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_scout_party Scouts 281474980904979 0 1 344 -1 -1 -1 -1 -1 -1 
-pt_patrol_party Patrol 562949957615635 0 1 137 -1 -1 -1 -1 -1 -1 
-pt_messenger_party Messenger 4194323 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_raider_party Raiders 4503599627632659 0 1 344 -1 -1 -1 -1 -1 -1 
+pt_none none 30 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_rescued_prisoners Rescued_Prisoners 28 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_enemy Enemy 25 0 28 7 -1 -1 -1 -1 -1 -1 
+pt_hero_party Hero_Party 27 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_village_defenders Colonial_Defenders 30 0 1 7 80 5 10 0 82 5 10 0 209 0 4 0 -1 -1 -1 
+pt_cattle_herd Nerf_Herd 2814749767106590 0 3 7 23 80 120 0 -1 -1 -1 -1 -1 
+pt_looters Jawas 2251799813685282 0 2 344 193 8 16 0 194 5 10 0 195 2 4 0 116 0 1 1 115 0 1 1 -1 
+pt_manhunters Trandoshan_Slavers 20 0 24 137 208 25 50 0 24 0 1 1 -1 -1 -1 -1 
+pt_steppe_bandits Night_Fangs_Pirates 562949953421338 0 2 344 204 5 25 0 205 4 8 0 51 1 5 0 43 1 5 0 40 0 1 1 -1 
+pt_forest_bandits Blazing_Claw_Pirates 562949953421337 0 27 344 202 5 25 0 203 4 8 0 47 1 5 0 67 1 5 0 40 0 1 1 -1 
+pt_sea_raiders Tusken_Raiders 562949953421344 0 2 344 206 10 25 0 207 5 10 0 -1 -1 -1 -1 
+pt_mountain_bandits Black_Sun_Pirates 562949953421334 0 26 344 198 10 20 0 199 5 10 0 200 5 10 0 201 1 10 0 40 0 1 1 -1 
+pt_deserters Deserters 844424930131988 0 25 344 -1 -1 -1 -1 -1 -1 
+pt_kingdom_1_escort Patrol_Fleet 562949957681172 0 1 172 80 1 1 0 -1 -1 -1 -1 -1 
+pt_independent_traders Merchant_Convoy 5629499534475288 0 1 11 210 1 1 0 99 1 10 0 98 1 1 0 84 10 20 0 -1 -1 
+pt_merchant_caravan Merchant_Freighter 5629499534475287 0 1 11 210 1 1 0 84 15 30 0 -1 -1 -1 -1 
+pt_troublesome_bandits Troublesome_Bandits 2533274790658068 0 2 344 196 15 55 0 -1 -1 -1 -1 -1 
+pt_bandits_awaiting_ransom Bandits_Awaiting_Ransom 2533274790658068 0 3 344 196 25 65 0 211 1 1 1 -1 -1 -1 -1 
+pt_kidnapped_girl Kidnapped_Girl 262174 0 3 7 211 1 1 0 -1 -1 -1 -1 -1 
+pt_village_farmers Colonial_Farmers 27 0 4 7 80 6 12 0 209 4 8 0 -1 -1 -1 -1 
+pt_spy_partners Unremarkable_Travellers 844424930459668 0 3 7 943 1 1 0 84 5 10 0 -1 -1 -1 -1 
+pt_runaway_serfs Runaway_Slaves 2251799814012956 0 3 7 80 6 10 0 209 3 3 0 -1 -1 -1 -1 
+pt_spy Ordinary_Townsman 844424930459668 0 3 7 942 1 1 0 -1 -1 -1 -1 -1 
+pt_sacrificed_messenger Sacrificed_Messenger 844424930459668 0 3 7 -1 -1 -1 -1 -1 -1 
+pt_forager_party Foraging_Party 1407374887747604 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_scout_party Scouts 281474980904980 0 1 344 -1 -1 -1 -1 -1 -1 
+pt_patrol_party Patrol 562949957615636 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_messenger_party Messenger 4194324 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_raider_party Raiders 4503599627632660 0 1 344 -1 -1 -1 -1 -1 -1 
 pt_raider_captives Raider_Captives 0 0 1 0 209 6 30 1 -1 -1 -1 -1 -1 
-pt_kingdom_caravan_party Freighters 7036874421960726 0 1 7 210 1 1 0 84 12 40 0 -1 -1 -1 -1 
-pt_prisoner_train_party Prisoner_Train 1407374887747607 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_kingdom_caravan_party Freighters 7036874421960727 0 1 7 210 1 1 0 84 12 40 0 -1 -1 -1 -1 
+pt_prisoner_train_party Prisoner_Train 1407374887747608 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_default_prisoners Default_Prisoners 0 0 1 0 196 5 10 1 -1 -1 -1 -1 -1 
-pt_center_reinforcements Reinforcements 4503599627370515 0 1 137 81 5 15 0 82 5 15 0 80 5 15 0 -1 -1 -1 
+pt_center_reinforcements Reinforcements 4503599627370516 0 1 137 81 5 15 0 82 5 15 0 80 5 15 0 -1 -1 -1 
 pt_kingdom_hero_party War_Party 4259840 0 1 137 -1 -1 -1 -1 -1 -1 
 pt_kingdom_1_reinforcements_a kingdom_1_reinforcements_a 0 0 1 0 132 2 3 0 141 4 10 0 -1 -1 -1 -1 
 pt_kingdom_1_reinforcements_b kingdom_1_reinforcements_b 0 0 1 0 143 6 13 0 -1 -1 -1 -1 -1 

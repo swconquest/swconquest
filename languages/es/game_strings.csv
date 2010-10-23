@@ -1492,59 +1492,6 @@ str_center_55_kingdom|Facción del Jugador
 str_center_56_kingdom|Facción del Jugador
 str_center_57_kingdom|Facción del Jugador
 str_center_58_kingdom|Facción del Jugador
-str_spaceship_imperial_star_destroyer_name|Destructor Estelar Imperial
-str_spaceship_imperial_star_destroyer_desc|Si necesitas toneladas de espacio libre para tus tropas, ^ el Destructor Estelar Imperial es la nave idónea.
-str_spaceship_imperial_star_destroyer_interdictor_name|Destructor Imperial <Interdictor>
-str_spaceship_imperial_star_destroyer_interdictor_desc|Si necesitas toneladas de espacio libre para tus tropas, ^ el Interdictor Imperial es la nave idónea.
-str_spaceship_imperial_dreadnaught_frigate_name|Crucero Acorazado Imperial
-str_spaceship_imperial_dreadnaught_frigate_desc| 
-str_spaceship_imperial_victory_c2_frigate_name|Fragata Imperial Victoria-II
-str_spaceship_imperial_victory_c2_frigate_desc| 
-str_spaceship_imperial_trade_frigate_name|Fragata Comercial Imperial
-str_spaceship_imperial_trade_frigate_desc| 
-str_spaceship_tie_fighter_name|Caza Tie Imperial
-str_spaceship_tie_fighter_desc| 
-str_spaceship_imperial_shuttle_name|Transporte Imperial
-str_spaceship_imperial_shuttle_desc|Una auténtica belleza, el Transporte imperial combina velocidad con capacidad de transporte de tropas.
-str_spaceship_a_wing_name|Ala-A
-str_spaceship_a_wing_desc|El Ala-A es el caza más rápido de la Galaxia.
-str_spaceship_rebel_transport_name|Crucero de la Alianza Rebelde
-str_spaceship_rebel_transport_desc|El Crucero de la Alianza Rebelde es una nave grande y sofisticada.
-str_spaceship_moncal_cruiser_name|Crucero Mon Cal
-str_spaceship_moncal_cruiser_desc| 
-str_spaceship_corellian_gunship_name|Artillero Coreliano
-str_spaceship_corellian_gunship_desc| 
-str_spaceship_y_wing_name|Ala-Y
-str_spaceship_y_wing_desc| 
-str_spaceship_hutt_cruiser_name|Crucero Hutt
-str_spaceship_hutt_cruiser_desc| 
-str_spaceship_hutt_frigate_mk1_name|Fragata Hutt MK-1
-str_spaceship_hutt_frigate_mk1_desc| 
-str_spaceship_hutt_frigate_mk2_name|Fragata Hutt MK-2
-str_spaceship_hutt_frigate_mk2_desc| 
-str_spaceship_hutt_trade_name|Nave Comercial Hutt
-str_spaceship_hutt_trade_desc| 
-str_spaceship_hutt_patrol_name|Nave de Patrulla Hutt
-str_spaceship_hutt_patrol_desc| 
-str_spaceship_z95_name|Cazacabezas Z-95
-str_spaceship_z95_desc|El Cazacabezas Z-95 es una nave pequeña y ágil que te permitirá explorar ^todos los confines de la galaxia.
-str_spaceship_scyk_fighter_name|Caza Scyk M3-A 
-str_spaceship_scyk_fighter_desc| 
-str_spaceship_mercenary_raider_name|Incursor Mercenario
-str_spaceship_mercenary_raider_desc| 
-str_spaceship_freighter_name|Fragata
-str_spaceship_freighter_desc|Este modelo es el carguero estándar de los comerciantes de toda la Galaxia.
-str_spaceship_mercenary_fighter_name|Caza Mercenario
-str_spaceship_mercenary_fighter_desc| 
-str_spaceship_mercenary_shuttle_name|Transporte Mercenario
-str_spaceship_mercenary_shuttle_desc| 
-str_spaceship_civilian_transport_name|Transporte Civil
-str_spaceship_civilian_transport_desc| 
-str_spaceship_civilian_cruiser_name|Crucero Civil
-str_spaceship_civilian_cruiser_desc| 
-str_spaceship_bulk_freighter_name|Fragata de Carga
-str_spaceship_bulk_freighter_desc| 
-str_spaceship_cis_star_cruiser_name|Crucero Estelar de la CSI
-str_spaceship_cis_star_cruiser_desc| 
+
 str_swy_space_battles_won|-Victoria-
 str_swy_space_battles_won_desc|Felicidades, comandante^Has ganado la batalla...
