@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1425
+ 1414
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -102,19 +102,16 @@ spr_sw_asteroid_base 0 0 asteroid_base bo_asteroid_base 0
 spr_sw_spacestation1 0 0 spacestation1 bo_spacestation1 0
 
 
-spr_sw_spacestation2 0 0 spacestation2 bo_spacestation2 0
+spr_sw_spacestation2 0 0 spacestation1_grey bo_spacestation2 0
 
 
-spr_sw_spacestation3 0 0 spacestation3 bo_spacestation3 0
+spr_sw_spacestation3 0 0 spacestation3 bo_spacestation2 0
 
 
 spr_sw_spacestation4 0 0 spacestation4 bo_spacestation4 0
 
 
 spr_sw_spacestation5 0 0 spacestation5 bo_spacestation5 0
-
-
-spr_sw_stormtrooper_transport 0 0 stormtrooper_transport bo_stormtrooper_transport 0
 
 
 spr_sw_tie_fighter 0 0 tie_fighter bo_tie_fighter 0
@@ -1219,33 +1216,6 @@ spr_sw_sith_statue_stone 0 0 sith_statue_stone bo_sith_statue 0
 spr_sw_sith_statue_white 0 0 sith_statue_white bo_sith_statue 0
 
 
-spr_sw_planet_craters 0 0 sw_planet_craters bo_planet 0
-
-
-spr_sw_planet_farmland 0 0 sw_planet_farmland bo_planet 0
-
-
-spr_sw_planet_gas 0 0 sw_planet_gas bo_planet 0
-
-
-spr_sw_planet_green 0 0 sw_planet_green bo_planet 0
-
-
-spr_sw_planet_green_water 0 0 sw_planet_green_water bo_planet 0
-
-
-spr_sw_planet_industrial 0 0 sw_planet_industrial bo_planet 0
-
-
-spr_sw_planet_plain 0 0 sw_planet_plain bo_planet 0
-
-
-spr_sw_planet_snow 0 0 sw_planet_snow bo_planet 0
-
-
-spr_sw_planet_snow_water 0 0 sw_snow_water bo_planet 0
-
-
 spr_swy_Death_Star 0 0 swy_Death_Star bo_planet 0
 
 
@@ -1650,9 +1620,6 @@ spr_village_shed_a 0 0 village_shed_a bo_village_shed_a 0
 
 
 spr_village_shed_b 0 0 village_shed_b bo_village_shed_b 0
-
-
-spr_trunks_snowy 0 0 trunks_snowy 0 0
 
 
 spr_dungeon_door_cell_a 0 0 dungeon_door_cell_a bo_dungeon_door_cell_a 0
@@ -3635,7 +3602,7 @@ spr_viper_mk7 0 0 space_battle_a_wing 0 0
 spr_cylon_raider 0 0 space_battle_tie_fighter 0 0
 
 
-spr_col_end 0 0 target_arrow 0 0
+spr_col_end 0 0 0 0 0
 
 
 spr_target1 16384 0 target_arrow 0 0
@@ -3671,10 +3638,10 @@ spr_target_end 16384 0 target_arrow 0 0
 spr_missile 0 0 laser_bolt_blue 0 0
 
 
-spr_rocket 0 0 colonial_missile 0 0
+spr_rocket 0 0 0 0 0
 
 
-spr_rm_end 0 0 colonial_missile 0 0
+spr_rm_end 0 0 0 0 0
 
 
 spr_swy_city_ground 0 0 swy_city_ground bo_swy_city_ground 0
