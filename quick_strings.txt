@@ -1,4 +1,6 @@
-1039
+1041
+qstr_2006_2010_THE_STAR_W 2006-2010_THE_STAR_WARS_CONQUEST_DEV_TEAM
+qstr_This_Module_it_s_ded This_Module_it's_dedicated_to_every_person_who_believed_in_us.^^Their_valuable_Work_and_Support_have_inspired_Us_to_Make_this_bigger.^^The_Force_It's_Strong_with_you!_:-)
 qstr_X:_00Y:_00 X:_00,Y:_00
 qstr_Binocular_Rotation Binocular_Rotation
 qstr_Binocular_Distance Binocular_Distance
