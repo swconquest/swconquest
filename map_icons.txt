@@ -1,5 +1,5 @@
 map_icons_file version 1
-242
+243
 player 1 civilian_transport 0.300000 194 0.150000 0.173000 0.000000 0
 
 
@@ -58,6 +58,9 @@ hutt_patrol 1 Hutt_Patrol 0.300000 194 0.150000 0.173000 0.000000 0
 
 
 nebulon 1 swy_nebulon 0.600000 0 0 0 0 0
+
+
+starchaser 1 vec_starchaser 0.400000 0 0 0 0 0
 
 
 z95 1 z96 0.400000 194 0.150000 0.173000 0.000000 0

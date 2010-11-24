@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1427
+ 1426
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -1247,9 +1247,6 @@ spr_swy_Planet_frozen 0 0 swy_Planet_frozen bo_planet 0
 
 
 spr_swy_Planet_geonosis 0 0 swy_Planet_geonosis bo_planet 0
-
-
-spr_swy_Planet_lava 0 0 swy_Planet_lava bo_planet 0
 
 
 spr_swy_rePlanet_craters 0 0 swy_rePlanet_craters bo_planet 0
@@ -3605,34 +3602,34 @@ spr_cylon_raider 0 0 space_battle_tie_fighter 0 0
 spr_col_end 0 0 0 0 0
 
 
-spr_target1 16384 0 target_arrow 0 0
+spr_target1 16384 0 0 0 0
 
 
-spr_target2 16384 0 target_arrow 0 0
+spr_target2 16384 0 0 0 0
 
 
-spr_target3 16384 0 target_arrow 0 0
+spr_target3 16384 0 0 0 0
 
 
-spr_target4 16384 0 target_arrow 0 0
+spr_target4 16384 0 0 0 0
 
 
-spr_target5 16384 0 target_arrow 0 0
+spr_target5 16384 0 0 0 0
 
 
-spr_target6 16384 0 target_arrow 0 0
+spr_target6 16384 0 0 0 0
 
 
-spr_target7 16384 0 target_arrow 0 0
+spr_target7 16384 0 0 0 0
 
 
-spr_target8 16384 0 target_arrow 0 0
+spr_target8 16384 0 0 0 0
 
 
-spr_target9 16384 0 target_arrow 0 0
+spr_target9 16384 0 0 0 0
 
 
-spr_target_end 16384 0 target_arrow 0 0
+spr_target_end 16384 0 0 0 0
 
 
 spr_missile 0 0 laser_bolt_blue 0 0
