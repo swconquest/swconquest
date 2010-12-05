@@ -1,5 +1,5 @@
 itemsfile version 2
-904
+905
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -2813,6 +2813,9 @@ itemsfile version 2
 0
 
  itm_arena_speeder Civilian_74-Z_Speeder_Bike Civilian_74-Z_Speeder_Bike 1  speeder_a 0  4097 0 1000 0 0.000000 100 0 0 0 0 30 45 50 0 0 15 0
+0
+
+ itm_bf2_stormie bf2_stormie bf2_stormie 1  bf2_stormtrooper_rigged 0  2701135885 0 3000 0 55.000000 100 30 70 30 0 0 0 0 0 0 0 0
 0
 
  itm_tfu_stormie tfu_stormie tfu_stormie 1  tfu_stormtrooper 0  2701135885 0 3000 0 55.000000 100 30 70 30 0 0 0 0 0 0 0 0
