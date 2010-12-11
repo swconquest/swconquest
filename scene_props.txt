@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1426
+ 1433
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4053,6 +4053,27 @@ spr_taris_building_2_bridge 0 0 taris_building_2_bridge 0 0
 
 
 spr_taris_platform 0 0 taris_platform 0 0
+
+
+spr_moseisley_angle 0 0 moseisley_angle bo_moseisley_angle 0
+
+
+spr_moseisley_chair 0 0 moseisley_chair bo_moseisley_chair 0
+
+
+spr_moseisley_machine 0 0 moseisley_machine bo_moseisley_machine 0
+
+
+spr_moseisley_table 0 0 moseisley_table bo_moseisley_table 0
+
+
+spr_moseisley_bar 0 0 moseisley_bar bo_moseisley_bar 0
+
+
+spr_moseisley_bank 0 0 moseisley_bank bo_moseisley_bank 0
+
+
+spr_moseisleybottles 0 0 moseisleybottles bo_moseisleybottles 0
 
 
 spr_revnshn_rhenvar_addon 0 0 rhenvar_addon bo_yavinaddon 0

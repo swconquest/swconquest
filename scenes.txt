@@ -540,7 +540,7 @@ scn_mainplanet_13_cantina mainplanet_13_cantina 1 cantina_bar bo_cantina_bar -10
   0 
   0 
  0 
-scn_mainplanet_14_cantina mainplanet_14_cantina 1 cantina_bar bo_cantina_bar -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_mainplanet_14_cantina mainplanet_14_cantina 1 moseisley_cantina bo_moseisley_cantina -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
