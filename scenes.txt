@@ -1,5 +1,5 @@
 scenesfile version 1
- 533
+ 536
 scn_random_scene random_scene 1280 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
   0 
   0 
@@ -31,7 +31,19 @@ scn_ship_hangar_open_3b ship_hangar_open_3b 1 hangar bo_hangar -100.000000 -100.
 scn_ship_interior ship_interior 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0000000050001d63c005114300006228000053bf00004eb9 
   0 
   0 
- outer_terrain_steppe 
+ 0 
+scn_ship_interior_imp ship_interior_imp 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0000000050001d63c005114300006228000053bf00004eb9 
+  0 
+  0 
+ 0 
+scn_ship_interior_reb ship_interior_reb 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0000000050001d63c005114300006228000053bf00004eb9 
+  0 
+  0 
+ 0 
+scn_ship_interior_hut ship_interior_hut 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0000000050001d63c005114300006228000053bf00004eb9 
+  0 
+  0 
+ 0 
 scn_space_battle space_battle 0 space_cube bo_space_cube -100.000000 -100.000000 100.000000 100.000000 -100000.000000 0 
   0 
   0 
@@ -261,11 +273,11 @@ scn_training_ground_ranged_melee_5 training_ground_ranged_melee_5 256 none none 
   0 
  outer_terrain_plain 
 scn_zendar_center zendar_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
-  3  66  0  67 
+  3  69  0  70 
   0 
  outer_terrain_plain_1 
 scn_the_happy_boar the_happy_boar 1 interior_town_house_f bo_interior_town_house_f -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
-  1  65 
+  1  68 
   1  878 
  0 
 scn_zendar_merchant zendar_merchant 1 interior_town_house_i bo_interior_town_house_i -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
