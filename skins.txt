@@ -254,7 +254,7 @@ geonosian 0
  1  geonosian_face_a 4294967295 0 0 
  7  0 snd_geonosian_die  1 snd_geonosian_hit  2 snd_geonosian_grunt  3 snd_geonosian_grunt_long  4 snd_geonosian_yell  5 snd_geonosian_victory  6 snd_geonosian_victory 
  skel_human 0.500000 
-0 0
+77 76
 0
 
 rancor 0

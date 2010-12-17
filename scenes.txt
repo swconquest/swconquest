@@ -1,5 +1,5 @@
 scenesfile version 1
- 536
+ 535
 scn_random_scene random_scene 1280 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
   0 
   0 
@@ -8,23 +8,19 @@ scn_conversation_scene conversation_scene 0 dungeon_a bo_dungeon_a -100.000000 -
   0 
   0 
  0 
-scn_random_scene_ship random_scene_ship 1 ship_interior bo_ship_interior -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_ship_hangar_imp ship_hangar_imp 1 hangar bo_hangar -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_ship_hangar_closed_1a ship_hangar_closed_1a 1 ship_hangar_closed bo_ship_hangar_closed -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_ship_hangar_reb ship_hangar_reb 1 hangar bo_hangar -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_ship_hangar_closed_1b ship_hangar_closed_1b 1 ship_hangar_closed bo_ship_hangar_closed -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_ship_hangar_hut ship_hangar_hut 1 hangar bo_hangar -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_ship_hangar_open_3a ship_hangar_open_3a 1 hangar bo_hangar -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
-  0 
-  0 
- 0 
-scn_ship_hangar_open_3b ship_hangar_open_3b 1 hangar bo_hangar -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_ship_hangar ship_hangar 1 hangar bo_hangar -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
@@ -273,11 +269,11 @@ scn_training_ground_ranged_melee_5 training_ground_ranged_melee_5 256 none none 
   0 
  outer_terrain_plain 
 scn_zendar_center zendar_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
-  3  69  0  70 
+  3  68  0  69 
   0 
  outer_terrain_plain_1 
 scn_the_happy_boar the_happy_boar 1 interior_town_house_f bo_interior_town_house_f -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
-  1  68 
+  1  67 
   1  878 
  0 
 scn_zendar_merchant zendar_merchant 1 interior_town_house_i bo_interior_town_house_i -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 

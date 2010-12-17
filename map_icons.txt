@@ -1,5 +1,5 @@
 map_icons_file version 1
-244
+245
 player 1 civilian_transport 0.300000 194 0.150000 0.173000 0.000000 0
 
 
@@ -37,6 +37,9 @@ corellian_corvette 1 swy_corellian_corvette 0.500000 194 0.150000 0.173000 0.000
 
 
 moncal_cruiser 1 Moncal_Cruiser 0.650000 194 0.150000 0.173000 0.000000 0
+
+
+x_wing 1 xwing 0.400000 194 0.150000 0.173000 0.000000 0
 
 
 y_wing 1 y_wing_gold 0.400000 194 0.150000 0.173000 0.000000 0

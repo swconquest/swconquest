@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1433
+ 1438
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -310,6 +310,21 @@ spr_sw_holocron_old_green 0 0 holocron_green bo_holocron_old 0
 
 
 spr_sw_holocron_old_red 0 0 holocron_red bo_holocron_old 0
+
+
+spr_xwing_landed 0 0 xwing_landed bo_xwing_landed 0
+
+
+spr_xwing_landed2 0 0 xwing_landed2 bo_xwing_landed 0
+
+
+spr_xwing_landed3 0 0 xwing_landed3 bo_xwing_landed 0
+
+
+spr_xwing_landed4 0 0 xwing_landed4 bo_xwing_landed 0
+
+
+spr_xwing_landed5 0 0 xwing_landed5 bo_xwing_landed 0
 
 
 spr_sw_bonus_chest 5 0 box_a_square bo_box_a_square 0
