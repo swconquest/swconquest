@@ -1,5 +1,5 @@
 map_icons_file version 1
-245
+246
 player 1 civilian_transport 0.300000 194 0.150000 0.173000 0.000000 0
 
 
@@ -100,6 +100,9 @@ shuttle 1 shuttle_civilian 0.300000 194 0.150000 0.173000 0.000000 0
 
 
 mercenary_raider_grey 1 mercenary_raider_grey 0.400000 194 0.150000 0.173000 0.000000 0
+
+
+jawa_ship 1 jawaship 0.500000 194 0.150000 0.173000 0.000000 0
 
 
 mercenary_raider_brown 1 mercenary_raider_brown 0.400000 194 0.150000 0.173000 0.000000 0
