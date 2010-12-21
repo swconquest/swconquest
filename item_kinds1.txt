@@ -2401,13 +2401,13 @@ itemsfile version 2
  itm_laser_bolts_red_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_red_alpha 2305843009213693952  laser_bolt_red_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 60 100 257 0
 0
 
- itm_laser_bolts_orange_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_orange 2305843009213693952  laser_bolt_orange_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 80 0 0 0 0 0 0 0 60 100 257 0
+ itm_laser_bolts_orange_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_orange_alpha 2305843009213693952  laser_bolt_orange_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 80 0 0 0 0 0 0 0 60 100 257 0
 0
 
- itm_laser_bolts_yellow_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_yellow 2305843009213693952  laser_bolt_yellow_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 80 0 0 0 0 0 0 0 60 100 257 0
+ itm_laser_bolts_yellow_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_yellow_alpha 2305843009213693952  laser_bolt_yellow_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 80 0 0 0 0 0 0 0 60 100 257 0
 0
 
- itm_laser_bolts_blue_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_blue 2305843009213693952  laser_bolt_blue_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 100 257 0
+ itm_laser_bolts_blue_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_blue_alpha 2305843009213693952  laser_bolt_blue_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 100 257 0
 0
 
  itm_stun_beam_pistol Stun_Beam_Cartridges Stun_Beam_Cartridges 3  transparent 0  stun_beam 2305843009213693952  stun_beam_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 80 100 513 0
