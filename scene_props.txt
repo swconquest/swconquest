@@ -312,19 +312,88 @@ spr_sw_holocron_old_green 0 0 holocron_green bo_holocron_old 0
 spr_sw_holocron_old_red 0 0 holocron_red bo_holocron_old 0
 
 
-spr_xwing_landed 0 0 xwing_landed bo_xwing_landed 0
+spr_sw_xwing_landed 0 0 xwing_landed bo_xwing_landed 0
 
 
-spr_xwing_landed2 0 0 xwing_landed2 bo_xwing_landed 0
+spr_sw_xwing_landed2 0 0 xwing_landed2 bo_xwing_landed 0
 
 
-spr_xwing_landed3 0 0 xwing_landed3 bo_xwing_landed 0
+spr_sw_xwing_landed3 0 0 xwing_landed3 bo_xwing_landed 0
 
 
-spr_xwing_landed4 0 0 xwing_landed4 bo_xwing_landed 0
+spr_sw_xwing_landed4 0 0 xwing_landed4 bo_xwing_landed 0
 
 
-spr_xwing_landed5 0 0 xwing_landed5 bo_xwing_landed 0
+spr_sw_xwing_landed5 0 0 xwing_landed5 bo_xwing_landed 0
+
+
+spr_sw_yavin_arch 0 0 sw_Yavin_Arch bo_Yavin_Arch 0
+
+
+spr_sw_yavin_block_A 0 0 sw_Yavin_Block_A bo_Yavin_Block_A 0
+
+
+spr_sw_yavin_bridge_Large 0 0 sw_Yavin_Bridge_Large bo_Yavin_Bridge_Large 0
+
+
+spr_sw_yavin_bridge_Large_Broken_A 0 0 sw_Yavin_Bridge_Large_Broken_A bo_Yavin_Bridge_Large_Broken_A 0
+
+
+spr_sw_yavin_bridge_Large_Broken_B 0 0 sw_Yavin_Bridge_Large_Broken_B bo_Yavin_Bridge_Large_Broken_B 0
+
+
+spr_sw_yavin_house_1 0 0 sw_Yavin_House_1 bo_Yavin_House_1 0
+
+
+spr_sw_yavin_house_2 0 0 sw_Yavin_House_2 bo_Yavin_House_2 0
+
+
+spr_sw_yavin_house_3 0 0 sw_Yavin_House_3 bo_Yavin_House_3 0
+
+
+spr_sw_yavin_platform 0 0 sw_Yavin_Platform bo_Yavin_Platform 0
+
+
+spr_sw_yavin_ramp_A 0 0 sw_Yavin_Ramp_A bo_Yavin_Ramp_A 0
+
+
+spr_sw_yavin_ramp_B 0 0 sw_Yavin_Ramp_B bo_Yavin_Ramp_B 0
+
+
+spr_sw_yavin_stairs 0 0 sw_Yavin_Stairs bo_Yavin_Stairs 0
+
+
+spr_sw_yavin_statue_4 0 0 sw_Yavin_Statue_4 bo_Yavin_Statue_4 0
+
+
+spr_sw_yavin_statue_5 0 0 sw_Yavin_Statue_5 bo_Yavin_Statue_5 0
+
+
+spr_sw_yavin_statue_6 0 0 sw_Yavin_Statue_6 bo_Yavin_Statue_6 0
+
+
+spr_sw_yavin_temple_2 0 0 sw_Yavin_Temple_2 bo_Yavin_Temple_2 0
+
+
+spr_sw_yavin_tower_1 0 0 sw_Yavin_Tower_1 bo_Yavin_Tower_1 0
+
+
+spr_sw_yavin_tower_2 0 0 sw_Yavin_Tower_2 bo_Yavin_Tower_2 0
+
+
+spr_sw_yavin_wall_big 0 0 sw_Yavin_Wall_Big bo_Yavin_Wall_Big 0
+
+
+spr_sw_yavin_wall_big_broken 0 0 sw_Yavin_Wall_Big_Broken bo_Yavin_Wall_Big_Broken 0
+
+
+spr_sw_yavin_wall_big_hole 0 0 sw_Yavin_Wall_Big_Hole bo_Yavin_Wall_Big_Hole 0
+
+
+spr_sw_yavin_wall_big_hole_2 0 0 sw_Yavin_Wall_Big_Hole_2 bo_Yavin_Wall_Big_Hole_2 0
+
+
+spr_sw_yavin_wall_big_hub 0 0 sw_Yavin_Wall_Big_Hub bo_Yavin_Wall_Big_Hub 0
 
 
 spr_sw_bonus_chest 5 0 box_a_square bo_box_a_square 0
