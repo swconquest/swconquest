@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1438
+ 1462
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -153,25 +153,25 @@ spr_sw_gun_turret 0 0 gun_turret bo_gun_turret 0
 spr_sw_chest1 0 0 player_chest_sw bo_player_chest_sw 0
 
 
-spr_sw_box_a 8192 0 box_a_sw_sp bo_box_a_sw_sp 0
+spr_sw_box_a 73728 0 box_a_sw_sp bo_box_a_sw_sp 0
 
 
-spr_sw_box_a 8192 0 box_a_sw_sp bo_box_a_sw_sp 0
+spr_sw_box_a 73728 0 box_a_sw_sp bo_box_a_sw_sp 0
 
 
-spr_sw_box_a_square 8192 0 box_a_square bo_box_a_square 0
+spr_sw_box_a_square 73728 0 box_a_square bo_box_a_square 0
 
 
-spr_sw_box_a_square_blue 8192 0 box_a_square_blue bo_box_a_square 0
+spr_sw_box_a_square_blue 73728 0 box_a_square_blue bo_box_a_square 0
 
 
-spr_sw_box_a_square_brown 8192 0 box_a_square_brown bo_box_a_square 0
+spr_sw_box_a_square_brown 73728 0 box_a_square_brown bo_box_a_square 0
 
 
-spr_sw_box_a_square_red 8192 0 box_a_square_red bo_box_a_square 0
+spr_sw_box_a_square_red 73728 0 box_a_square_red bo_box_a_square 0
 
 
-spr_sw_box_a_square_yellow 8192 0 box_a_square_yellow bo_box_a_square 0
+spr_sw_box_a_square_yellow 73728 0 box_a_square_yellow bo_box_a_square 0
 
 
 spr_sw_bacta_tank 0 0 bacta_tank bo_bacta_tank 0
@@ -186,16 +186,16 @@ spr_sw_bacta_tank_new_heal 0 0 bacta_tank_new 0 0
 spr_sw_antenna 0 0 sw_antenna bo_sw_antenna 0
 
 
-spr_sw_box_b 8192 0 sw_box_b bo_sw_box_b 0
+spr_sw_box_b 73728 0 sw_box_b bo_sw_box_b 0
 
 
-spr_sw_box_c 8192 0 sw_box_c bo_sw_box_c 0
+spr_sw_box_c 73728 0 sw_box_c bo_sw_box_c 0
 
 
-spr_sw_box_d 8192 0 sw_box_d bo_sw_box_d 0
+spr_sw_box_d 73728 0 sw_box_d bo_sw_box_d 0
 
 
-spr_sw_box_e 8192 0 sw_box_e bo_sw_box_e 0
+spr_sw_box_e 73728 0 sw_box_e bo_sw_box_e 0
 
 
 spr_sw_part_a 0 0 sw_part_a bo_sw_part_a 0
@@ -252,6 +252,78 @@ spr_sw_yavin_wall2 0 0 yavinwall2 bo_yavinwall2 0
 spr_sw_yavin_wall3 0 0 yavinwall3 bo_yavinwall3 0
 
 
+spr_sw_Yavin_Arch 0 0 sw_Yavin_Arch bo_sw_Yavin_Arch 0
+
+
+spr_sw_Yavin_Block_A 0 0 sw_Yavin_Block_A bo_sw_Yavin_Block_A 0
+
+
+spr_sw_Yavin_Bridge_Large 0 0 sw_Yavin_Bridge_Large bo_sw_Yavin_Bridge_Large 0
+
+
+spr_sw_Yavin_Bridge_Large_Broken_A 0 0 sw_Yavin_Bridge_Large_Broken_A bo_sw_Yavin_Bridge_Large_Broken_A 0
+
+
+spr_sw_Yavin_Bridge_Large_Broken_B 0 0 sw_Yavin_Bridge_Large_Broken_B bo_sw_Yavin_Bridge_Large_Broken_B 0
+
+
+spr_sw_Yavin_Bridge_Large_Cracked 0 0 sw_Yavin_Bridge_Large_Cracked bo_sw_Yavin_Bridge_Large_Cracked 0
+
+
+spr_sw_Yavin_House_1 0 0 sw_Yavin_House_1 bo_sw_Yavin_House_1 0
+
+
+spr_sw_Yavin_House_2 0 0 sw_Yavin_House_2 bo_sw_Yavin_House_2 0
+
+
+spr_sw_Yavin_House_3 0 0 sw_Yavin_House_3 bo_sw_Yavin_House_3 0
+
+
+spr_sw_Yavin_Platform 0 0 sw_Yavin_Platform bo_sw_Yavin_Platform 0
+
+
+spr_sw_Yavin_Ramp_A 0 0 sw_Yavin_Ramp_A bo_sw_Yavin_Ramp_A 0
+
+
+spr_sw_Yavin_Ramp_B 0 0 sw_Yavin_Ramp_B bo_sw_Yavin_Ramp_B 0
+
+
+spr_sw_Yavin_Stairs 0 0 sw_Yavin_Stairs bo_sw_Yavin_Stairs 0
+
+
+spr_sw_Yavin_Statue_4 0 0 sw_Yavin_Statue_4 bo_sw_Yavin_Statue_4 0
+
+
+spr_sw_Yavin_Statue_5 0 0 sw_Yavin_Statue_5 bo_sw_Yavin_Statue_4 0
+
+
+spr_sw_Yavin_Statue_6 0 0 sw_Yavin_Statue_6 bo_sw_Yavin_Statue_4 0
+
+
+spr_sw_Yavin_Temple_2 0 0 sw_Yavin_Temple_2 bo_sw_Yavin_Temple_2 0
+
+
+spr_sw_Yavin_Tower_1 0 0 sw_Yavin_Tower_1 bo_sw_Yavin_Tower_1 0
+
+
+spr_sw_Yavin_Tower_2 0 0 sw_Yavin_Tower_2 bo_sw_Yavin_Tower_2 0
+
+
+spr_sw_Yavin_Wall_Big 0 0 sw_Yavin_Wall_Big bo_sw_Yavin_Wall_Big 0
+
+
+spr_sw_Yavin_Wall_Big_Broken 0 0 sw_Yavin_Wall_Big_Broken bo_sw_Yavin_Wall_Big_Broken 0
+
+
+spr_sw_Yavin_Wall_Big_Hole 0 0 sw_Yavin_Wall_Big_Hole bo_sw_Yavin_Wall_Big_Hole 0
+
+
+spr_sw_Yavin_Wall_Big_Hole_2 0 0 sw_Yavin_Wall_Big_Hole_2 bo_sw_Yavin_Wall_Big_Hole_2 0
+
+
+spr_sw_Yavin_Wall_Big_Hub 0 0 sw_Yavin_Wall_Big_Hub bo_sw_Yavin_Wall_Big_Hub 0
+
+
 spr_sw_hoth_bunker 0 0 hoth_bunker bo_hoth_bunker 0
 
 
@@ -288,19 +360,19 @@ spr_sw_terminal1 0 0 terminal1 bo_terminal1 0
 spr_sw_terminal2 0 0 terminal2 bo_terminal2 0
 
 
-spr_sw_holocron_new_a 8192 0 holocron_new_a bo_holocron_new 0
+spr_sw_holocron_new_a 73728 0 holocron_new_a bo_holocron_new 0
 
 
-spr_sw_holocron_new_b 8192 0 holocron_new_b bo_holocron_new 0
+spr_sw_holocron_new_b 73728 0 holocron_new_b bo_holocron_new 0
 
 
-spr_sw_holocron_new_c 8192 0 holocron_new_c bo_holocron_new 0
+spr_sw_holocron_new_c 73728 0 holocron_new_c bo_holocron_new 0
 
 
-spr_sw_holocron_new_d 8192 0 holocron_new_d bo_holocron_new 0
+spr_sw_holocron_new_d 73728 0 holocron_new_d bo_holocron_new 0
 
 
-spr_sw_holocron_new_e 8192 0 holocron_new_e bo_holocron_new 0
+spr_sw_holocron_new_e 73728 0 holocron_new_e bo_holocron_new 0
 
 
 spr_sw_holocron_old_blue 0 0 holocron_blue bo_holocron_old 0
@@ -312,88 +384,19 @@ spr_sw_holocron_old_green 0 0 holocron_green bo_holocron_old 0
 spr_sw_holocron_old_red 0 0 holocron_red bo_holocron_old 0
 
 
-spr_sw_xwing_landed 0 0 xwing_landed bo_xwing_landed 0
+spr_xwing_landed 0 0 xwing_landed bo_xwing_landed 0
 
 
-spr_sw_xwing_landed2 0 0 xwing_landed2 bo_xwing_landed 0
+spr_xwing_landed2 0 0 xwing_landed2 bo_xwing_landed 0
 
 
-spr_sw_xwing_landed3 0 0 xwing_landed3 bo_xwing_landed 0
+spr_xwing_landed3 0 0 xwing_landed3 bo_xwing_landed 0
 
 
-spr_sw_xwing_landed4 0 0 xwing_landed4 bo_xwing_landed 0
+spr_xwing_landed4 0 0 xwing_landed4 bo_xwing_landed 0
 
 
-spr_sw_xwing_landed5 0 0 xwing_landed5 bo_xwing_landed 0
-
-
-spr_sw_yavin_arch 0 0 sw_Yavin_Arch bo_Yavin_Arch 0
-
-
-spr_sw_yavin_block_A 0 0 sw_Yavin_Block_A bo_Yavin_Block_A 0
-
-
-spr_sw_yavin_bridge_Large 0 0 sw_Yavin_Bridge_Large bo_Yavin_Bridge_Large 0
-
-
-spr_sw_yavin_bridge_Large_Broken_A 0 0 sw_Yavin_Bridge_Large_Broken_A bo_Yavin_Bridge_Large_Broken_A 0
-
-
-spr_sw_yavin_bridge_Large_Broken_B 0 0 sw_Yavin_Bridge_Large_Broken_B bo_Yavin_Bridge_Large_Broken_B 0
-
-
-spr_sw_yavin_house_1 0 0 sw_Yavin_House_1 bo_Yavin_House_1 0
-
-
-spr_sw_yavin_house_2 0 0 sw_Yavin_House_2 bo_Yavin_House_2 0
-
-
-spr_sw_yavin_house_3 0 0 sw_Yavin_House_3 bo_Yavin_House_3 0
-
-
-spr_sw_yavin_platform 0 0 sw_Yavin_Platform bo_Yavin_Platform 0
-
-
-spr_sw_yavin_ramp_A 0 0 sw_Yavin_Ramp_A bo_Yavin_Ramp_A 0
-
-
-spr_sw_yavin_ramp_B 0 0 sw_Yavin_Ramp_B bo_Yavin_Ramp_B 0
-
-
-spr_sw_yavin_stairs 0 0 sw_Yavin_Stairs bo_Yavin_Stairs 0
-
-
-spr_sw_yavin_statue_4 0 0 sw_Yavin_Statue_4 bo_Yavin_Statue_4 0
-
-
-spr_sw_yavin_statue_5 0 0 sw_Yavin_Statue_5 bo_Yavin_Statue_5 0
-
-
-spr_sw_yavin_statue_6 0 0 sw_Yavin_Statue_6 bo_Yavin_Statue_6 0
-
-
-spr_sw_yavin_temple_2 0 0 sw_Yavin_Temple_2 bo_Yavin_Temple_2 0
-
-
-spr_sw_yavin_tower_1 0 0 sw_Yavin_Tower_1 bo_Yavin_Tower_1 0
-
-
-spr_sw_yavin_tower_2 0 0 sw_Yavin_Tower_2 bo_Yavin_Tower_2 0
-
-
-spr_sw_yavin_wall_big 0 0 sw_Yavin_Wall_Big bo_Yavin_Wall_Big 0
-
-
-spr_sw_yavin_wall_big_broken 0 0 sw_Yavin_Wall_Big_Broken bo_Yavin_Wall_Big_Broken 0
-
-
-spr_sw_yavin_wall_big_hole 0 0 sw_Yavin_Wall_Big_Hole bo_Yavin_Wall_Big_Hole 0
-
-
-spr_sw_yavin_wall_big_hole_2 0 0 sw_Yavin_Wall_Big_Hole_2 bo_Yavin_Wall_Big_Hole_2 0
-
-
-spr_sw_yavin_wall_big_hub 0 0 sw_Yavin_Wall_Big_Hub bo_Yavin_Wall_Big_Hub 0
+spr_xwing_landed5 0 0 xwing_landed5 bo_xwing_landed 0
 
 
 spr_sw_bonus_chest 5 0 box_a_square bo_box_a_square 0
@@ -531,13 +534,13 @@ spr_sw_table_a 0 0 sw_table_a bo_sw_table_a 0
 spr_sw_beer_a 0 0 sw_beer_a 0 0
 
 
-spr_sw_glass_a 8192 0 sw_glass_a 0 0
+spr_sw_glass_a 73728 0 sw_glass_a 0 0
 
 
-spr_sw_glass_b 8192 0 sw_glass_b 0 0
+spr_sw_glass_b 73728 0 sw_glass_b 0 0
 
 
-spr_sw_glass_c 8192 0 sw_glass_c 0 0
+spr_sw_glass_c 73728 0 sw_glass_c 0 0
 
 
 spr_sw_plate_a 0 0 sw_plate_a 0 0
@@ -852,10 +855,10 @@ spr_sw_poster_v 0 0 sw_poster_v bo_sw_poster_a 0
 spr_sw_ship_bed 0 0 ship_bed bo_ship_bed 0
 
 
-spr_sw_ship_box1 8192 0 ship_box1 bo_ship_box1 0
+spr_sw_ship_box1 73728 0 ship_box1 bo_ship_box1 0
 
 
-spr_sw_ship_box2 8192 0 ship_box2 bo_ship_box2 0
+spr_sw_ship_box2 73728 0 ship_box2 bo_ship_box2 0
 
 
 spr_sw_ship_comp1 0 0 ship_comp1 bo_ship_comp1 0
@@ -931,7 +934,7 @@ spr_sw_ship_wall3_destructible 98304 200 ship_wall3 bo_ship_wall3 2
 -42.000000  2 600 1 1152921504606847137 1969 3 1008806316530991133 1 100 
 
 
-spr_sw_ship_chest 8192 0 ship_chest bo_ship_chest 0
+spr_sw_ship_chest 73728 0 ship_chest bo_ship_chest 0
 
 
 spr_sw_ship_ventilation 0 0 ship_ventilation bo_ship_ventilation 0
@@ -1195,7 +1198,7 @@ spr_sw_tent_b 0 0 tent_b bo_tent_b 0
 spr_sw_tent_c 0 0 tent_c bo_tent_c 0
 
 
-spr_sw_microchip 8192 0 tyr_chip bo_tyr_chip 0
+spr_sw_microchip 73728 0 tyr_chip bo_tyr_chip 0
 
 
 spr_sw_bench_white 0 0 tyr_bench bo_tyr_bench 0
@@ -1219,7 +1222,7 @@ spr_sw_shelf_white_closed 0 0 tyr_shelf_2 bo_tyr_shelf_2 0
 spr_sw_table_white 0 0 tyr_table bo_tyr_table 0
 
 
-spr_sw_table_circle 8192 0 sw_table_circle bo_sw_table_circle 0
+spr_sw_table_circle 73728 0 sw_table_circle bo_sw_table_circle 0
 
 
 spr_sw_chair_a 0 0 sw_chair_a bo_sw_chair_a 0
@@ -1237,7 +1240,7 @@ spr_sw_bench_a 0 0 bench_a bo_bench_a 0
 spr_sw_bench_curved_a 0 0 bench_curved_a bo_bench_curved_a 0
 
 
-spr_sw_chair_b 8192 0 chair_b bo_chair_b 0
+spr_sw_chair_b 73728 0 chair_b bo_chair_b 0
 
 
 spr_sw_chair_b_no_collision 0 0 chair_b 0 0
@@ -1439,7 +1442,7 @@ spr_ai_limiter_8m 16392 0 barrier_8m bo_barrier_8m 0
 spr_ai_limiter_16m 16392 0 barrier_16m bo_barrier_16m 0
 
 
-spr_Shield 8192 0 0 boshield 0
+spr_Shield 73728 0 0 boshield 0
 
 
 spr_shelves 0 0 shelves boshelves 0
@@ -1472,10 +1475,10 @@ spr_carpet_with_pillows_a 0 0 carpet_with_pillows_a bo_carpet_with_pillows 0
 spr_carpet_with_pillows_b 0 0 carpet_with_pillows_b bo_carpet_with_pillows 0
 
 
-spr_table_round_a 8192 0 table_round_a bo_table_round_a 0
+spr_table_round_a 73728 0 table_round_a bo_table_round_a 0
 
 
-spr_table_round_b 8192 0 table_round_b bo_table_round_b 0
+spr_table_round_b 73728 0 table_round_b bo_table_round_b 0
 
 
 spr_fireplace_b 0 0 fireplace_b bo_fireplace_b 0
@@ -1553,10 +1556,10 @@ spr_Catapult 0 0 ATST_scene_prop bo_ATST_scene_prop 0
 spr_broom 0 0 0 0 0
 
 
-spr_garlic 8192 0 garlic 0 0
+spr_garlic 73728 0 garlic 0 0
 
 
-spr_garlic_b 8192 0 garlic_b 0 0
+spr_garlic_b 73728 0 garlic_b 0 0
 
 
 spr_destroy_a 0 0 transparent 0 0
@@ -2396,7 +2399,7 @@ spr_tavern_table_b 0 0 tavern_table_b bo_tavern_table_b 0
 spr_fireplace_a 0 0 fireplace_a bo_fireplace_a 0
 
 
-spr_barrel 8192 0 sw_barrel bo_sw_barrel 0
+spr_barrel 73728 0 sw_barrel bo_sw_barrel 0
 
 
 spr_bench_tavern 0 0 bench_tavern bobench_tavern 0
@@ -2453,7 +2456,7 @@ spr_weapon_rack 0 0 weapon_rack boweapon_rack 0
 spr_weapon_rack_big 0 0 weapon_rack_big boweapon_rack_big 0
 
 
-spr_tavern_barrel 8192 0 sw_barrel bo_sw_barrel 0
+spr_tavern_barrel 73728 0 sw_barrel bo_sw_barrel 0
 
 
 spr_tavern_barrel_b 0 0 tavern_barrel_b bo_tavern_barrel_b 0
