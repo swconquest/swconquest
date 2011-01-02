@@ -35,28 +35,28 @@ FontDDS_AlternativeFilename = "FONT_SWC.dds"
 
 
 -- // Core Resource
-	CoreResources2CommonRes("Core Resource\\","materials.brf")
-	CoreResources2CommonRes("Core Resource\\","pictures.brf")
-	CoreResources2CommonRes("Core Resource\\","shaders.brf")
-	CoreResources2CommonRes("Core Resource\\","textures.brf")
-	CoreResources2CommonRes("Core Resource\\","ui_meshes.brf")
+	CoreResources2CommonRes("Core Resource\\","materials.brf");
+	CoreResources2CommonRes("Core Resource\\","pictures.brf");
+	CoreResources2CommonRes("Core Resource\\","shaders.brf");
+	CoreResources2CommonRes("Core Resource\\","textures.brf");
+	CoreResources2CommonRes("Core Resource\\","ui_meshes.brf");
 
 
 -- // Module Root
 
 --warband shaders
-	ModuleRoot2CommonRoot("Shaders and Videos\\","mb_2a.fxo")
-	ModuleRoot2CommonRoot("Shaders and Videos\\","mb_2b.fxo")
-	ModuleRoot2CommonRoot("Shaders and Videos\\","earlyz.fxo")
+	ModuleRoot2CommonRoot("Shaders and Videos\\","mb_2a.fxo");
+	ModuleRoot2CommonRoot("Shaders and Videos\\","mb_2b.fxo");
+	ModuleRoot2CommonRoot("Shaders and Videos\\","earlyz.fxo");
 --original shader file
-	ModuleRoot2CommonRoot("Shaders and Videos\\","mb.fxo")
+	ModuleRoot2CommonRoot("Shaders and Videos\\","mb.fxo");
 
 --videos (wb & orig)
-	ModuleRoot2CommonRoot("Shaders and Videos\\","taleworlds_intro.bik")
-	ModuleRoot2CommonRoot("Shaders and Videos\\","paradox.bik")
+	ModuleRoot2CommonRoot("Shaders and Videos\\","taleworlds_intro.bik");
+	ModuleRoot2CommonRoot("Shaders and Videos\\","paradox.bik");
 
 -- extra _Warband_ configuration / Modifies rgl_config.txt located at My Docs
-	OverwriteWarbandConfig("battle_size",2.0000)
+	OverwriteWarbandConfig("battle_size",2.0000);
 
 -- hide the other modules
 	HideOtherModules()
@@ -104,25 +104,25 @@ WriteLogFile("["..System.GetTime(TIME_FMT_AMPM).."] "..Game.." has closed, Undoi
 
 -- // Core Resource
 
-	CommonRes2trash("materials.brf")
-	CommonRes2trash("pictures.brf")
-	CommonRes2trash("shaders.brf")
-	CommonRes2trash("textures.brf")
-	CommonRes2trash("ui_meshes.brf")
+	CommonRes2trash("materials.brf");
+	CommonRes2trash("pictures.brf");
+	CommonRes2trash("shaders.brf");
+	CommonRes2trash("textures.brf");
+	CommonRes2trash("ui_meshes.brf");
 
 
 -- // Module Root
 
 --warband shaders
-	CommonRoot2trash("mb_2a.fxo")
-	CommonRoot2trash("mb_2b.fxo")
-	CommonRoot2trash("earlyz.fxo")
+	CommonRoot2trash("mb_2a.fxo");
+	CommonRoot2trash("mb_2b.fxo");
+	CommonRoot2trash("earlyz.fxo");
 --original shader file
-	CommonRoot2trash("mb.fxo")
+	CommonRoot2trash("mb.fxo");
 
 --videos (wb & orig)
-	CommonRoot2trash("taleworlds_intro.bik")
-	CommonRoot2trash("paradox.bik")
+	CommonRoot2trash("taleworlds_intro.bik");
+	CommonRoot2trash("paradox.bik");
 
 --restaurar la visibilidad del resto de módulos...
 	UnhideOtherModules()

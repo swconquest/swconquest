@@ -45,5 +45,5 @@ qst_deliver_cattle Deliver_a_heard_of_{reg5}_nerfs_to_{s3} 2 The_administrator_o
 qst_train_peasants_against_bandits Train_the_Peasants_of_{s13}_Against_Bandits. 2 None 
 qst_eliminate_bandits_infesting_village Save_the_planet_of_{s7}_from_Marauding_Bandits 2 A_citizen_from_{s7}_begged_you_to_save_their_planet_from_the_bandits_that_took_refuge_there. 
 qst_join_faction Give_Oath_of_Homage_to_{s1} 2 Find_{s1}_and_give_him_your_oath_of_homage. 
-qst_rebel_against_kingdom Help_{s13}_Claim_the_Throne_of_{s14} 2 None 
+qst_rebel_against_faction Help_{s13}_Claim_the_Throne_of_{s14} 2 None 
 qst_quests_end Quests_End 0 . 

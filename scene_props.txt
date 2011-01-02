@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1462
+ 1356
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -648,13 +648,13 @@ spr_sw_sign_random_all_3 0 0 sw_sign_e bo_sw_sign_a 0
 spr_sw_sign_random_all_4 0 0 sw_sign_e bo_sw_sign_a 0
 
 
-spr_sw_sign_random_townfaction_1 0 0 sw_sign_a bo_sw_sign_a 0
+spr_sw_sign_random_towngalacticempire 0 0 sw_sign_a bo_sw_sign_a 0
 
 
-spr_sw_sign_random_townfaction_2 0 0 sw_sign_a bo_sw_sign_a 0
+spr_sw_sign_random_townrebelalliance 0 0 sw_sign_a bo_sw_sign_a 0
 
 
-spr_sw_sign_random_townfaction_3 0 0 sw_sign_a bo_sw_sign_a 0
+spr_sw_sign_random_townhuttcartel 0 0 sw_sign_a bo_sw_sign_a 0
 
 
 spr_sw_sign_random_townfaction_4 0 0 sw_sign_a bo_sw_sign_a 0
@@ -756,13 +756,13 @@ spr_sw_poster_random_all_3 0 0 sw_poster_e bo_sw_poster_a 0
 spr_sw_poster_random_all_4 0 0 sw_poster_e bo_sw_poster_a 0
 
 
-spr_sw_poster_random_townfaction_1 0 0 sw_poster_a bo_sw_poster_a 0
+spr_sw_poster_random_towngalacticempire 0 0 sw_poster_a bo_sw_poster_a 0
 
 
-spr_sw_poster_random_townfaction_2 0 0 sw_poster_a bo_sw_poster_a 0
+spr_sw_poster_random_townrebelalliance 0 0 sw_poster_a bo_sw_poster_a 0
 
 
-spr_sw_poster_random_townfaction_3 0 0 sw_poster_a bo_sw_poster_a 0
+spr_sw_poster_random_townhuttcartel 0 0 sw_poster_a bo_sw_poster_a 0
 
 
 spr_sw_poster_random_townfaction_4 0 0 sw_poster_a bo_sw_poster_a 0
@@ -1869,108 +1869,6 @@ spr_band_a 0 0 band_a 0 0
 spr_arena_sign 0 0 sw_arena_arms 0 0
 
 
-spr_castle_h_battlement_a 0 0 castle_h_battlement_a bo_castle_h_battlement_a 0
-
-
-spr_castle_h_battlement_b 0 0 castle_h_battlement_b bo_castle_h_battlement_b 0
-
-
-spr_castle_h_battlement_a2 0 0 castle_h_battlement_a2 bo_castle_h_battlement_a2 0
-
-
-spr_castle_h_battlement_b2 0 0 castle_h_battlement_b2 bo_castle_h_battlement_b2 0
-
-
-spr_castle_h_corner_a 0 0 castle_h_corner_a bo_castle_h_corner_a 0
-
-
-spr_castle_h_stairs_a 0 0 castle_h_stairs_a bo_castle_h_stairs_a 0
-
-
-spr_castle_h_stairs_b 0 0 castle_h_stairs_b bo_castle_h_stairs_b 0
-
-
-spr_castle_h_gatehouse_a 0 0 castle_h_gatehouse_a bo_castle_h_gatehouse_a 0
-
-
-spr_castle_h_keep_a 0 0 castle_h_keep_a bo_castle_h_keep_a 0
-
-
-spr_castle_h_keep_b 0 0 castle_h_keep_b bo_castle_h_keep_b 0
-
-
-spr_castle_h_house_a 0 0 castle_h_house_a bo_castle_h_house_a 0
-
-
-spr_castle_h_house_b 0 0 castle_h_house_b bo_castle_h_house_b 0
-
-
-spr_castle_h_house_c 0 0 castle_h_house_c bo_castle_h_house_b 0
-
-
-spr_castle_h_battlement_barrier 0 0 castle_h_battlement_barrier bo_castle_h_battlement_barrier 0
-
-
-spr_castle_f_keep_a 0 0 castle_f_keep_a bo_castle_f_keep_a 0
-
-
-spr_castle_f_battlement_a 0 0 castle_f_battlement_a bo_castle_f_battlement_a 0
-
-
-spr_castle_f_battlement_a_destroyed 0 0 castle_f_battlement_a_destroyed bo_castle_f_battlement_a_destroyed 0
-
-
-spr_castle_f_battlement_b 0 0 castle_f_battlement_b bo_castle_f_battlement_b 0
-
-
-spr_castle_f_battlement_corner_a 0 0 castle_f_battlement_corner_a bo_castle_f_battlement_corner_a 0
-
-
-spr_castle_f_battlement_corner_b 0 0 castle_f_battlement_corner_b bo_castle_f_battlement_corner_b 0
-
-
-spr_castle_f_stairs_a 0 0 castle_f_stairs_a bo_castle_f_stairs_a 0
-
-
-spr_castle_f_tower_a 0 0 castle_f_tower_a bo_castle_f_tower_a 0
-
-
-spr_castle_f_wall_stairs_a 0 0 castle_f_wall_stairs_a bo_castle_f_wall_stairs_a 0
-
-
-spr_castle_f_wall_stairs_b 0 0 castle_f_wall_stairs_b bo_castle_f_wall_stairs_b 0
-
-
-spr_castle_f_wall_way_a 0 0 castle_f_wall_way_a bo_castle_f_wall_way_a 0
-
-
-spr_castle_f_wall_way_b 0 0 castle_f_wall_way_b bo_castle_f_wall_way_b 0
-
-
-spr_castle_f_gatehouse_a 0 0 castle_f_gatehouse_a bo_castle_f_gatehouse_a 0
-
-
-spr_castle_g_battlement_a 0 0 castle_g_battlement_a bo_castle_g_battlement_a 0
-
-
-spr_castle_g_corner_a 0 0 castle_g_corner_a bo_castle_g_corner_a 0
-
-
-spr_castle_g_tower_a 0 0 castle_g_tower_a bo_castle_g_tower_a 0
-
-
-spr_castle_g_gate_house 0 0 castle_g_gate_house bo_castle_g_gate_house 0
-
-
-spr_castle_g_gate_house_door_a 0 0 castle_g_gate_house_door_a bo_castle_g_gate_house_door_a 0
-
-
-spr_castle_g_gate_house_door_b 0 0 castle_g_gate_house_door_b bo_castle_g_gate_house_door_b 0
-
-
-spr_castle_g_square_keep_a 0 0 castle_g_square_keep_a bo_castle_g_square_keep_a 0
-
-
 spr_mosque_a 0 0 mosque_a bo_mosque_a 0
 
 
@@ -2193,195 +2091,6 @@ spr_banner_ct 0 0 banner_c20 0 0
 
 
 spr_banner_cu 0 0 banner_c21 0 0
-
-
-spr_banner_da 0 0 banner_d01 0 0
-
-
-spr_banner_db 0 0 banner_d02 0 0
-
-
-spr_banner_dc 0 0 banner_d03 0 0
-
-
-spr_banner_dd 0 0 banner_d04 0 0
-
-
-spr_banner_de 0 0 banner_d05 0 0
-
-
-spr_banner_df 0 0 banner_d06 0 0
-
-
-spr_banner_dg 0 0 banner_d07 0 0
-
-
-spr_banner_dh 0 0 banner_d08 0 0
-
-
-spr_banner_di 0 0 banner_d09 0 0
-
-
-spr_banner_dj 0 0 banner_d10 0 0
-
-
-spr_banner_dk 0 0 banner_d11 0 0
-
-
-spr_banner_dl 0 0 banner_d12 0 0
-
-
-spr_banner_dm 0 0 banner_d13 0 0
-
-
-spr_banner_dn 0 0 banner_d14 0 0
-
-
-spr_banner_do 0 0 banner_d15 0 0
-
-
-spr_banner_dp 0 0 banner_d16 0 0
-
-
-spr_banner_dq 0 0 banner_d17 0 0
-
-
-spr_banner_dr 0 0 banner_d18 0 0
-
-
-spr_banner_ds 0 0 banner_d19 0 0
-
-
-spr_banner_dt 0 0 banner_d20 0 0
-
-
-spr_banner_du 0 0 banner_d21 0 0
-
-
-spr_banner_ea 0 0 banner_e01 0 0
-
-
-spr_banner_eb 0 0 banner_e02 0 0
-
-
-spr_banner_ec 0 0 banner_e03 0 0
-
-
-spr_banner_ed 0 0 banner_e04 0 0
-
-
-spr_banner_ee 0 0 banner_e05 0 0
-
-
-spr_banner_ef 0 0 banner_e06 0 0
-
-
-spr_banner_eg 0 0 banner_e07 0 0
-
-
-spr_banner_eh 0 0 banner_e08 0 0
-
-
-spr_banner_ei 0 0 banner_e09 0 0
-
-
-spr_banner_ej 0 0 banner_e10 0 0
-
-
-spr_banner_ek 0 0 banner_e11 0 0
-
-
-spr_banner_el 0 0 banner_e12 0 0
-
-
-spr_banner_em 0 0 banner_e13 0 0
-
-
-spr_banner_en 0 0 banner_e14 0 0
-
-
-spr_banner_eo 0 0 banner_e15 0 0
-
-
-spr_banner_ep 0 0 banner_e16 0 0
-
-
-spr_banner_eq 0 0 banner_e17 0 0
-
-
-spr_banner_er 0 0 banner_e18 0 0
-
-
-spr_banner_es 0 0 banner_e19 0 0
-
-
-spr_banner_et 0 0 banner_e20 0 0
-
-
-spr_banner_eu 0 0 banner_e21 0 0
-
-
-spr_banner_f01 0 0 banner_f01 0 0
-
-
-spr_banner_f02 0 0 banner_f02 0 0
-
-
-spr_banner_f03 0 0 banner_f03 0 0
-
-
-spr_banner_f04 0 0 banner_f04 0 0
-
-
-spr_banner_f05 0 0 banner_f05 0 0
-
-
-spr_banner_f06 0 0 banner_f06 0 0
-
-
-spr_banner_f07 0 0 banner_f07 0 0
-
-
-spr_banner_f08 0 0 banner_f08 0 0
-
-
-spr_banner_f09 0 0 banner_f09 0 0
-
-
-spr_banner_f10 0 0 banner_f10 0 0
-
-
-spr_banner_f11 0 0 banner_f11 0 0
-
-
-spr_banner_f12 0 0 banner_f12 0 0
-
-
-spr_banner_f13 0 0 banner_f13 0 0
-
-
-spr_banner_f14 0 0 banner_f14 0 0
-
-
-spr_banner_f15 0 0 banner_f15 0 0
-
-
-spr_banner_f16 0 0 banner_f16 0 0
-
-
-spr_banner_f17 0 0 banner_f17 0 0
-
-
-spr_banner_f18 0 0 banner_f18 0 0
-
-
-spr_banner_f19 0 0 banner_f19 0 0
-
-
-spr_banner_f20 0 0 banner_f20 0 0
-
-
-spr_banner_f21 0 0 banner_a15 0 0
 
 
 spr_tavern_chair_a 0 0 tavern_chair_a bo_tavern_chair_a 0
@@ -2934,81 +2643,6 @@ spr_village_steppe_f 0 0 village_steppe_f bo_village_steppe_f 0
 
 
 spr_town_house_aa 0 0 town_house_aa bo_town_house_aa 0
-
-
-spr_snowy_house_a 0 0 snowy_house_a bo_snowy_house_a 0
-
-
-spr_snowy_house_b 0 0 snowy_house_b bo_snowy_house_b 0
-
-
-spr_snowy_house_c 0 0 snowy_house_c bo_snowy_house_c 0
-
-
-spr_snowy_house_d 0 0 snowy_house_d bo_snowy_house_d 0
-
-
-spr_snowy_house_e 0 0 snowy_house_e bo_snowy_house_e 0
-
-
-spr_snowy_house_f 0 0 snowy_house_f bo_snowy_house_f 0
-
-
-spr_snowy_house_g 0 0 snowy_house_g bo_snowy_house_g 0
-
-
-spr_snowy_house_h 0 0 snowy_house_h bo_snowy_house_h 0
-
-
-spr_snowy_house_i 0 0 snowy_house_i bo_snowy_house_i 0
-
-
-spr_snowy_wall_a 0 0 snowy_wall_a bo_snowy_wall_a 0
-
-
-spr_snowy_stand 0 0 snowy_stand bo_snowy_stand 0
-
-
-spr_snowy_heap_a 0 0 snowy_heap_a bo_snowy_heap_a 0
-
-
-spr_snowy_trunks_a 0 0 snowy_trunks_a bo_snowy_trunks_a 0
-
-
-spr_snowy_castle_tower_a 0 0 snowy_castle_tower_a bo_snowy_castle_tower_a 0
-
-
-spr_snowy_castle_battlement_a 0 0 snowy_castle_battlement_a bo_snowy_castle_battlement_a 0
-
-
-spr_snowy_castle_battlement_a_destroyed 0 0 snowy_castle_battlement_a_destroyed bo_snowy_castle_battlement_a_destroyed 0
-
-
-spr_snowy_castle_battlement_b 0 0 snowy_castle_battlement_b bo_snowy_castle_battlement_b 0
-
-
-spr_snowy_castle_battlement_corner_a 0 0 snowy_castle_battlement_corner_a bo_snowy_castle_battlement_corner_a 0
-
-
-spr_snowy_castle_battlement_corner_b 0 0 snowy_castle_battlement_corner_b bo_snowy_castle_battlement_corner_b 0
-
-
-spr_snowy_castle_battlement_stairs_a 0 0 snowy_castle_battlement_stairs_a bo_snowy_castle_battlement_stairs_a 0
-
-
-spr_snowy_castle_battlement_stairs_b 0 0 snowy_castle_battlement_stairs_b bo_snowy_castle_battlement_stairs_b 0
-
-
-spr_snowy_castle_gate_house_a 0 0 snowy_castle_gate_house_a bo_snowy_castle_gate_house_a 0
-
-
-spr_snowy_castle_round_tower_a 0 0 snowy_castle_round_tower_a bo_snowy_castle_round_tower_a 0
-
-
-spr_snowy_castle_square_keep_a 0 0 snowy_castle_square_keep_a bo_snowy_castle_square_keep_a 0
-
-
-spr_snowy_castle_stairs_a 0 0 snowy_castle_stairs_a bo_snowy_castle_stairs_a 0
 
 
 spr_square_keep_b 0 0 square_keep_b bo_square_keep_b 0
@@ -4161,6 +3795,54 @@ spr_moseisley_bank 0 0 moseisley_bank bo_moseisley_bank 0
 
 
 spr_moseisleybottles 0 0 moseisleybottles bo_moseisleybottles 0
+
+
+spr_bespin_bridge 0 0 bespin_bridge bo_bespin_bridge 0
+
+
+spr_bespin_bridge_add 0 0 bespin_bridge_add bo_bespin_bridge_add 0
+
+
+spr_bespin_building_1 0 0 bespin_building_1 bo_bespin_building_1 0
+
+
+spr_bespin_building_2 0 0 bespin_building_2 bo_bespin_building_2 0
+
+
+spr_bespin_building_3 0 0 bespin_building_3 bo_bespin_building_3 0
+
+
+spr_bespin_building_4 0 0 bespin_building_4 bo_bespin_building_4 0
+
+
+spr_bespin_building_5 0 0 bespin_building_5 bo_bespin_building_5 0
+
+
+spr_bespin_building_6 0 0 bespin_building_6 bo_bespin_building_6 0
+
+
+spr_bespin_building_7 0 0 bespin_building_7 bo_bespin_building_7 0
+
+
+spr_bespin_building_8 0 0 bespin_building_8 bo_bespin_building_8 0
+
+
+spr_bespin_building_9 0 0 bespin_building_9 bo_bespin_building_9 0
+
+
+spr_bespin_platform_1 0 0 bespin_platform_1 bo_bespin_platform_1 0
+
+
+spr_bespin_platform_2 0 0 bespin_platform_2 bo_bespin_platform_2 0
+
+
+spr_bespin_platform_3 0 0 bespin_platform_3 bo_bespin_platform_3 0
+
+
+spr_bespin_platform_pillar_1 0 0 bespin_platform_pillar_1 bo_bespin_platform_pillar_1 0
+
+
+spr_bespin_platform_pillar_2 0 0 bespin_platform_pillar_2 bo_bespin_platform_pillar_2 0
 
 
 spr_revnshn_rhenvar_addon 0 0 rhenvar_addon bo_yavinaddon 0

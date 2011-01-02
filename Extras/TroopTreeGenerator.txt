@@ -1,0 +1,71 @@
+config default
+{
+	input = troops.txt
+	output = trooptree_default.txt
+
+	renderer = bbc
+
+	default_color = #000000
+	ranged_color = #22AA22
+	mounted_color = #FF0000
+	ranged_mounted_color = #0000FF
+
+	default_text = $NAME$ (Level $LEVEL$ STR: $STRENGTH$ AGI: $AGILITY$ 1H: $PROF_1H$ 2H: $PROF_2H$ POLE: $PROF_POLEARMS$)
+	ranged_text = $NAME$ (Level $LEVEL$ STR: $STRENGTH$ AGI: $AGILITY$ BOW: $PROF_ARCHERY$ XBOW: $PROF_CROSSBOWS$ THR: $PROF_THROWING$)
+	mounted_text = $NAME$ (Level $LEVEL$ STR: $STRENGTH$ AGI: $AGILITY$ 1H: $PROF_1H$ 2H: $PROF_2H$ POLE: $PROF_POLEARMS$)
+	ranged_mounted_text = $NAME$ (Level $LEVEL$ STR: $STRENGTH$ AGI: $AGILITY$ BOW: $PROF_ARCHERY$ XBOW: $PROF_CROSSBOWS$ THR: $PROF_THROWING$)
+}
+
+config html
+{
+	input = troops.txt
+	output = trooptree_default.htm
+
+	renderer = html
+
+	default_color = #000000
+	ranged_color = #22AA22
+	mounted_color = #FF0000
+	ranged_mounted_color = #0000FF
+
+	default_text = $NAME$ (Level $LEVEL$ STR: $STRENGTH$ AGI: $AGILITY$ 1H: $PROF_1H$ 2H: $PROF_2H$ POLE: $PROF_POLEARMS$)
+	ranged_text = $NAME$ (Level $LEVEL$ STR: $STRENGTH$ AGI: $AGILITY$ BOW: $PROF_ARCHERY$ XBOW: $PROF_CROSSBOWS$ THR: $PROF_THROWING$)
+	mounted_text = $NAME$ (Level $LEVEL$ STR: $STRENGTH$ AGI: $AGILITY$ 1H: $PROF_1H$ 2H: $PROF_2H$ POLE: $PROF_POLEARMS$)
+	ranged_mounted_text = $NAME$ (Level $LEVEL$ STR: $STRENGTH$ AGI: $AGILITY$ BOW: $PROF_ARCHERY$ XBOW: $PROF_CROSSBOWS$ THR: $PROF_THROWING$)
+}
+
+config starwars_bbc
+{
+	input = troops.txt
+	output = trooptree_swc.txt
+
+	renderer = bbc
+
+	default_color = #000000
+	ranged_color = #22AA22
+	mounted_color = #FF0000
+	ranged_mounted_color = #0000FF
+
+	default_text = $NAME$ (Level $LEVEL$ - STR: $STRENGTH$ AGI: $AGILITY$ - 1H: $PROF_1H$ 2H: $PROF_2H$ RIFLE: $PROF_CROSSBOWS$ PISTOL: $PROF_FIREARMS$)
+	ranged_text = $NAME$ (Level $LEVEL$ - STR: $STRENGTH$ AGI: $AGILITY$ - 1H: $PROF_1H$ 2H: $PROF_2H$ RIFLE: $PROF_CROSSBOWS$ PISTOL: $PROF_FIREARMS$)
+	mounted_text = $NAME$ (Level $LEVEL$ - STR: $STRENGTH$ AGI: $AGILITY$ - 1H: $PROF_1H$ 2H: $PROF_2H$ RIFLE: $PROF_CROSSBOWS$ PISTOL: $PROF_FIREARMS$)
+	ranged_mounted_text = $NAME$ (Level $LEVEL$ - STR: $STRENGTH$ AGI: $AGILITY$ - 1H: $PROF_1H$ 2H: $PROF_2H$ RIFLE: $PROF_CROSSBOWS$ PISTOL: $PROF_FIREARMS$)
+}
+
+config starwars_html
+{
+	input = troops.txt
+	output = trooptree_swc.htm
+
+	renderer = html
+
+	default_color = #000000
+	ranged_color = #22AA22
+	mounted_color = #FF0000
+	ranged_mounted_color = #0000FF
+
+	default_text = $NAME$ (Level $LEVEL$ - STR: $STRENGTH$ AGI: $AGILITY$ - 1H: $PROF_1H$ 2H: $PROF_2H$ RIFLE: $PROF_CROSSBOWS$ PISTOL: $PROF_FIREARMS$)
+	ranged_text = $NAME$ (Level $LEVEL$ - STR: $STRENGTH$ AGI: $AGILITY$ - 1H: $PROF_1H$ 2H: $PROF_2H$ RIFLE: $PROF_CROSSBOWS$ PISTOL: $PROF_FIREARMS$)
+	mounted_text = $NAME$ (Level $LEVEL$ - STR: $STRENGTH$ AGI: $AGILITY$ - 1H: $PROF_1H$ 2H: $PROF_2H$ RIFLE: $PROF_CROSSBOWS$ PISTOL: $PROF_FIREARMS$)
+	ranged_mounted_text = $NAME$ (Level $LEVEL$ - STR: $STRENGTH$ AGI: $AGILITY$ - 1H: $PROF_1H$ 2H: $PROF_2H$ RIFLE: $PROF_CROSSBOWS$ PISTOL: $PROF_FIREARMS$)
+}

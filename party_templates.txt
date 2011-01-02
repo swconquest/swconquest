@@ -2,18 +2,18 @@ partytemplatesfile version 1
 59
 pt_none none 32 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_rescued_prisoners Rescued_Prisoners 30 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_enemy Enemy 27 0 27 7 -1 -1 -1 -1 -1 -1 
+pt_enemy Enemy 27 0 24 7 -1 -1 -1 -1 -1 -1 
 pt_hero_party Hero_Party 29 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_minorplanet_defenders Colonial_Defenders 32 0 1 7 80 5 10 0 82 5 10 0 209 0 4 0 -1 -1 -1 
 pt_cattle_herd Nerf_Herd 2814749767106592 0 3 7 23 80 120 0 -1 -1 -1 -1 -1 
 pt_jawas Jawas 2251799813685282 0 2 344 193 8 16 0 194 5 10 0 195 2 4 0 116 0 1 1 115 0 1 1 -1 
-pt_bountyhunters Trandoshan_Slavers 22 0 23 137 208 25 50 0 24 0 1 1 -1 -1 -1 -1 
+pt_bountyhunters Trandoshan_Slavers 22 0 20 137 208 25 50 0 24 0 1 1 -1 -1 -1 -1 
 pt_steppe_bandits Night_Fangs_Pirates 562949953421340 0 2 344 204 5 25 0 205 4 8 0 51 1 5 0 43 1 5 0 40 0 1 1 -1 
-pt_blazing_claw_pirates Blazing_Claw_Pirates 562949953421339 0 26 344 202 5 25 0 203 4 8 0 47 1 5 0 67 1 5 0 40 0 1 1 -1 
+pt_blazing_claw_pirates Blazing_Claw_Pirates 562949953421339 0 23 344 202 5 25 0 203 4 8 0 47 1 5 0 67 1 5 0 40 0 1 1 -1 
 pt_sea_raiders Tusken_Raiders 562949953421347 0 2 344 206 10 25 0 207 5 10 0 -1 -1 -1 -1 
-pt_black_sun_pirates Black_Sun_Pirates 562949953421333 0 25 344 198 10 20 0 199 5 10 0 200 5 10 0 201 1 10 0 40 0 1 1 -1 
-pt_deserters Deserters 844424930131990 0 24 344 -1 -1 -1 -1 -1 -1 
-pt_kingdom_1_escort Patrol_Fleet 562949957681174 0 1 172 80 1 1 0 -1 -1 -1 -1 -1 
+pt_black_sun_pirates Black_Sun_Pirates 562949953421333 0 22 344 198 10 20 0 199 5 10 0 200 5 10 0 201 1 10 0 40 0 1 1 -1 
+pt_deserters Deserters 844424930131990 0 21 344 -1 -1 -1 -1 -1 -1 
+pt_galacticempire_escort Patrol_Fleet 562949957681174 0 1 172 80 1 1 0 -1 -1 -1 -1 -1 
 pt_independent_traders Merchant_Convoy 5629499534475290 0 1 11 210 1 1 0 99 1 10 0 98 1 1 0 84 10 20 0 -1 -1 
 pt_merchant_caravan Merchant_Freighter 5629499534475289 0 1 11 210 1 1 0 84 15 30 0 -1 -1 -1 -1 
 pt_troublesome_bandits Troublesome_Bandits 2533274790658070 0 2 344 196 15 55 0 -1 -1 -1 -1 -1 
@@ -30,32 +30,32 @@ pt_patrol_party Patrol 562949957615638 0 1 137 -1 -1 -1 -1 -1 -1
 pt_messenger_party Messenger 4194326 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_raider_party Raiders 4503599627632662 0 1 344 -1 -1 -1 -1 -1 -1 
 pt_raider_captives Raider_Captives 0 0 1 0 209 6 30 1 -1 -1 -1 -1 -1 
-pt_kingdom_caravan_party Freighters 7036874421960729 0 1 7 210 1 1 0 84 12 40 0 -1 -1 -1 -1 
+pt_faction_caravan_party Freighters 7036874421960729 0 1 7 210 1 1 0 84 12 40 0 -1 -1 -1 -1 
 pt_prisoner_train_party Prisoner_Train 1407374887747610 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_default_prisoners Default_Prisoners 0 0 1 0 196 5 10 1 -1 -1 -1 -1 -1 
 pt_center_reinforcements Reinforcements 4503599627370518 0 1 137 81 5 15 0 82 5 15 0 80 5 15 0 -1 -1 -1 
-pt_kingdom_hero_party War_Party 4259840 0 1 137 -1 -1 -1 -1 -1 -1 
-pt_kingdom_1_reinforcements_a kingdom_1_reinforcements_a 0 0 1 0 132 2 3 0 141 4 10 0 -1 -1 -1 -1 
-pt_kingdom_1_reinforcements_b kingdom_1_reinforcements_b 0 0 1 0 143 6 13 0 -1 -1 -1 -1 -1 
-pt_kingdom_1_reinforcements_c kingdom_1_reinforcements_c 0 0 1 0 133 1 2 0 59 1 2 0 143 1 2 0 -1 -1 -1 
-pt_kingdom_2_reinforcements_a kingdom_2_reinforcements_a 0 0 1 0 157 2 3 0 167 3 9 0 -1 -1 -1 -1 
-pt_kingdom_2_reinforcements_b kingdom_2_reinforcements_b 0 0 1 0 168 3 8 0 24 1 2 0 55 1 2 0 -1 -1 -1 
-pt_kingdom_2_reinforcements_c kingdom_2_reinforcements_c 0 0 1 0 158 1 2 0 67 1 2 0 71 1 2 0 -1 -1 -1 
-pt_kingdom_3_reinforcements_a kingdom_3_reinforcements_a 0 0 1 0 181 2 3 0 182 2 6 0 36 1 3 0 40 0 1 1 -1 -1 
-pt_kingdom_3_reinforcements_b kingdom_3_reinforcements_b 0 0 1 0 183 2 5 0 51 1 2 0 47 1 2 0 43 1 3 0 40 0 1 1 -1 
-pt_kingdom_3_reinforcements_c kingdom_3_reinforcements_c 0 0 1 0 30 1 1 0 36 1 2 0 186 1 1 0 77 0 1 0 113 0 1 0 -1 
-pt_kingdom_human_reinforcements_a kingdom_human_reinforcements_a 0 0 1 0 82 6 12 0 -1 -1 -1 -1 -1 
-pt_kingdom_human_reinforcements_b kingdom_human_reinforcements_b 0 0 1 0 82 3 6 0 83 2 4 0 89 1 2 0 -1 -1 -1 
-pt_kingdom_human_reinforcements_c kingdom_human_reinforcements_c 0 0 1 0 83 2 4 0 89 2 4 0 -1 -1 -1 -1 
-pt_kingdom_wookiee_reinforcements_a kingdom_wookiee_reinforcements_a 0 0 1 0 24 6 12 0 -1 -1 -1 -1 -1 
-pt_kingdom_wookiee_reinforcements_b kingdom_wookiee_reinforcements_b 0 0 1 0 24 3 6 0 25 3 6 0 -1 -1 -1 -1 
-pt_kingdom_wookiee_reinforcements_c kingdom_wookiee_reinforcements_c 0 0 1 0 26 2 4 0 27 2 4 0 -1 -1 -1 -1 
-pt_kingdom_mandalorian_reinforcements_a kingdom_mandalorian_reinforcements_a 0 0 1 0 30 6 12 0 -1 -1 -1 -1 -1 
-pt_kingdom_mandalorian_reinforcements_b kingdom_mandalorian_reinforcements_b 0 0 1 0 30 3 6 0 31 3 6 0 -1 -1 -1 -1 
-pt_kingdom_mandalorian_reinforcements_c kingdom_mandalorian_reinforcements_c 0 0 1 0 32 2 4 0 33 2 4 0 -1 -1 -1 -1 
-pt_kingdom_clone_reinforcements_a kingdom_clone_reinforcements_a 0 0 1 0 104 6 12 0 -1 -1 -1 -1 -1 
-pt_kingdom_clone_reinforcements_b kingdom_clone_reinforcements_b 0 0 1 0 105 5 9 0 106 1 3 0 -1 -1 -1 -1 
-pt_kingdom_clone_reinforcements_c kingdom_clone_reinforcements_c 0 0 1 0 107 3 6 0 108 1 2 0 -1 -1 -1 -1 
-pt_kingdom_trandoshan_reinforcements_a kingdom_trandoshan_reinforcements_a 0 0 1 0 51 6 12 0 -1 -1 -1 -1 -1 
-pt_kingdom_trandoshan_reinforcements_b kingdom_trandoshan_reinforcements_b 0 0 1 0 51 3 6 0 52 3 6 0 -1 -1 -1 -1 
-pt_kingdom_trandoshan_reinforcements_c kingdom_trandoshan_reinforcements_c 0 0 1 0 53 2 4 0 54 2 4 0 -1 -1 -1 -1 
+pt_faction_hero_party War_Party 4259840 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_galacticempire_reinforcements_a galacticempire_reinforcements_a 0 0 1 0 132 2 3 0 141 4 10 0 -1 -1 -1 -1 
+pt_galacticempire_reinforcements_b galacticempire_reinforcements_b 0 0 1 0 143 6 13 0 -1 -1 -1 -1 -1 
+pt_galacticempire_reinforcements_c galacticempire_reinforcements_c 0 0 1 0 133 1 2 0 59 1 2 0 143 1 2 0 -1 -1 -1 
+pt_rebelalliance_reinforcements_a rebelalliance_reinforcements_a 0 0 1 0 157 2 3 0 167 3 9 0 -1 -1 -1 -1 
+pt_rebelalliance_reinforcements_b rebelalliance_reinforcements_b 0 0 1 0 168 3 8 0 24 1 2 0 55 1 2 0 -1 -1 -1 
+pt_rebelalliance_reinforcements_c rebelalliance_reinforcements_c 0 0 1 0 158 1 2 0 67 1 2 0 71 1 2 0 -1 -1 -1 
+pt_huttcartel_reinforcements_a huttcartel_reinforcements_a 0 0 1 0 181 2 3 0 182 2 6 0 36 1 3 0 40 0 1 1 -1 -1 
+pt_huttcartel_reinforcements_b huttcartel_reinforcements_b 0 0 1 0 183 2 5 0 51 1 2 0 47 1 2 0 43 1 3 0 40 0 1 1 -1 
+pt_huttcartel_reinforcements_c huttcartel_reinforcements_c 0 0 1 0 30 1 1 0 36 1 2 0 186 1 1 0 77 0 1 0 113 0 1 0 -1 
+pt_faction_human_reinforcements_a faction_human_reinforcements_a 0 0 1 0 82 6 12 0 -1 -1 -1 -1 -1 
+pt_faction_human_reinforcements_b faction_human_reinforcements_b 0 0 1 0 82 3 6 0 83 2 4 0 89 1 2 0 -1 -1 -1 
+pt_faction_human_reinforcements_c faction_human_reinforcements_c 0 0 1 0 83 2 4 0 89 2 4 0 -1 -1 -1 -1 
+pt_faction_wookiee_reinforcements_a faction_wookiee_reinforcements_a 0 0 1 0 24 6 12 0 -1 -1 -1 -1 -1 
+pt_faction_wookiee_reinforcements_b faction_wookiee_reinforcements_b 0 0 1 0 24 3 6 0 25 3 6 0 -1 -1 -1 -1 
+pt_faction_wookiee_reinforcements_c faction_wookiee_reinforcements_c 0 0 1 0 26 2 4 0 27 2 4 0 -1 -1 -1 -1 
+pt_faction_mandalorian_reinforcements_a faction_mandalorian_reinforcements_a 0 0 1 0 30 6 12 0 -1 -1 -1 -1 -1 
+pt_faction_mandalorian_reinforcements_b faction_mandalorian_reinforcements_b 0 0 1 0 30 3 6 0 31 3 6 0 -1 -1 -1 -1 
+pt_faction_mandalorian_reinforcements_c faction_mandalorian_reinforcements_c 0 0 1 0 32 2 4 0 33 2 4 0 -1 -1 -1 -1 
+pt_faction_clone_reinforcements_a faction_clone_reinforcements_a 0 0 1 0 104 6 12 0 -1 -1 -1 -1 -1 
+pt_faction_clone_reinforcements_b faction_clone_reinforcements_b 0 0 1 0 105 5 9 0 106 1 3 0 -1 -1 -1 -1 
+pt_faction_clone_reinforcements_c faction_clone_reinforcements_c 0 0 1 0 107 3 6 0 108 1 2 0 -1 -1 -1 -1 
+pt_faction_trandoshan_reinforcements_a faction_trandoshan_reinforcements_a 0 0 1 0 51 6 12 0 -1 -1 -1 -1 -1 
+pt_faction_trandoshan_reinforcements_b faction_trandoshan_reinforcements_b 0 0 1 0 51 3 6 0 52 3 6 0 -1 -1 -1 -1 
+pt_faction_trandoshan_reinforcements_c faction_trandoshan_reinforcements_c 0 0 1 0 53 2 4 0 54 2 4 0 -1 -1 -1 -1 
