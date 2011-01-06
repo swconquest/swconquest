@@ -1,6 +1,6 @@
 map_icons_file version 1
-246
-player 1 civilian_transport 0.300000 194 0.150000 0.173000 0.000000 0
+250
+player 1 Action_IV 0.300000 194 0.150000 0.173000 0.000000 0
 
 
 imperial_star_destroyer 1 Imp_ISD 0.800000 194 0.150000 0.173000 0.000000 0
@@ -42,6 +42,18 @@ moncal_cruiser 1 Moncal_Cruiser 0.650000 194 0.150000 0.173000 0.000000 0
 x_wing 1 xwing 0.400000 194 0.150000 0.173000 0.000000 0
 
 
+x_wing2 1 xwing2 0.400000 194 0.150000 0.173000 0.000000 0
+
+
+x_wing3 1 xwing3 0.400000 194 0.150000 0.173000 0.000000 0
+
+
+x_wing4 1 xwing4 0.400000 194 0.150000 0.173000 0.000000 0
+
+
+x_wing5 1 xwing5 0.400000 194 0.150000 0.173000 0.000000 0
+
+
 y_wing 1 y_wing_gold 0.400000 194 0.150000 0.173000 0.000000 0
 
 
@@ -72,7 +84,7 @@ z95 1 z96 0.400000 194 0.150000 0.173000 0.000000 0
 scyk_fighter 1 hutt_scyk_fighter 0.400000 194 0.150000 0.173000 0.000000 0
 
 
-mercenary_raider 1 mercenary_raider 0.400000 194 0.150000 0.173000 0.000000 0
+mercenary_raider 1 Wild_Karrde 0.400000 194 0.150000 0.173000 0.000000 0
 
 
 freighter 1 freighter 0.500000 194 0.150000 0.173000 0.000000 0
@@ -81,7 +93,7 @@ freighter 1 freighter 0.500000 194 0.150000 0.173000 0.000000 0
 bulk_freighter 1 bulk_frigate 0.500000 194 0.150000 0.173000 0.000000 0
 
 
-mercenary_fighter 1 z95 0.400000 194 0.150000 0.173000 0.000000 0
+mercenary_fighter 1 vec_starchaser 0.400000 194 0.150000 0.173000 0.000000 0
 
 
 mercenary_shuttle 1 shuttle 0.400000 194 0.150000 0.173000 0.000000 0
@@ -105,13 +117,13 @@ mercenary_raider_grey 1 mercenary_raider_grey 0.400000 194 0.150000 0.173000 0.0
 jawa_ship 1 jawaship 0.500000 194 0.150000 0.173000 0.000000 0
 
 
-mercenary_raider_brown 1 mercenary_raider_brown 0.400000 194 0.150000 0.173000 0.000000 0
+mercenary_raider_brown 1 Action_IV_Tusken 0.400000 194 0.150000 0.173000 0.000000 0
 
 
 mercenary_shuttle_grey 1 shuttle_grey 0.400000 194 0.150000 0.173000 0.000000 0
 
 
-mercenary_shuttle_brown 1 shuttle_brown 0.400000 194 0.150000 0.173000 0.000000 0
+mercenary_shuttle_brown 1 Wild_Karrde 0.400000 194 0.150000 0.173000 0.000000 0
 
 
 mercenary_fighter_grey 1 z95_grey 0.400000 194 0.150000 0.173000 0.000000 0

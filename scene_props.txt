@@ -129,7 +129,7 @@ spr_sw_y_wing 0 0 y_wing_gold bo_y_wing_gold 0
 spr_sw_y_wing_debris 0 0 y_wing_gold_debris bo_y_wing_gold_debris 0
 
 
-spr_sw_z95 0 0 z95 bo_z95 0
+spr_sw_z95 0 0 xwing_landed2 bo_xwing_landed 0
 
 
 spr_sw_z95_debris 0 0 z95_debris bo_z95_debris 0
