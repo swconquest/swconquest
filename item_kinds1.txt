@@ -2419,7 +2419,7 @@ itemsfile version 2
  itm_sonic_beam_pistol Sonic_Beam_Cartridges Sonic_Beam_Cartridges 3  transparent 0  sonic_ammo 2305843009213693952  ion_beam_cartridges_pistol 1152921504606846976  67174418 0 50 4398046511104 0.000000 40 0 0 0 0 0 0 0 60 80 513 0
 0
 
- itm_ammo_belt_pistol Ammo_Belt Ammo_Belt 4  transparent 0  laser_bolt_yellow 2305843009213693952  ammo_belt 3458764513820540928  ammo_belt 1152921504606846976  67174418 4294967296 150 0 0.000000 50 0 0 0 0 0 0 0 60 150 257 0
+ itm_ammo_belt_pistol Ammo_Belt Ammo_Belt 4  transparent 0  swy_blasterbolt_yellow_alpha 2305843009213693952  ammo_belt 3458764513820540928  ammo_belt 1152921504606846976  67174418 4294967296 150 0 0.000000 50 0 0 0 0 0 0 0 60 150 257 0
 0
 
  itm_disruptor_ammo Disruptor_Ammo_for_Pistols Disruptor_Ammo_for_Pistols 3  transparent 0  laser_disruptor 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174418 0 4960 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 160 516 0
@@ -2431,13 +2431,13 @@ itemsfile version 2
  itm_laser_bolts_red_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_red_alpha 2305843009213693952  laser_bolt_red_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 60 125 257 0
 0
 
- itm_laser_bolts_orange_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_orange 2305843009213693952  laser_bolt_orange_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 80 0 0 0 0 0 0 0 60 125 257 0
+ itm_laser_bolts_orange_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_orange_alpha 2305843009213693952  laser_bolt_orange_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 80 0 0 0 0 0 0 0 60 125 257 0
 0
 
- itm_laser_bolts_yellow_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_yellow 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 80 0 0 0 0 0 0 0 60 125 257 0
+ itm_laser_bolts_yellow_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_yellow_alpha 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 80 0 0 0 0 0 0 0 60 125 257 0
 0
 
- itm_laser_bolts_blue_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  laser_bolt_blue 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 125 257 0
+ itm_laser_bolts_blue_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_blue_alpha 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 125 257 0
 0
 
  itm_stun_beam_rifle Stun_Beam_Cartridges Stun_Beam_Cartridges 3  transparent 0  stun_beam 2305843009213693952  stun_beam_cartridges 1152921504606846976  67174406 0 100 4398046511104 0.000000 100 0 0 0 0 0 0 0 80 125 513 0
@@ -2449,16 +2449,16 @@ itemsfile version 2
  itm_sonic_beam_rifle Sonic_Beam_Cartridges Sonic_Beam_Cartridges 3  transparent 0  sonic_ammo 2305843009213693952  ion_beam_cartridges 1152921504606846976  67174406 0 50 4398046511104 0.000000 40 0 0 0 0 0 0 0 60 100 513 0
 0
 
- itm_ammo_belt_rifle Ammo_Belt Ammo_Belt 4  transparent 0  laser_bolt_yellow 2305843009213693952  ammo_belt 3458764513820540928  ammo_belt 1152921504606846976  67174406 4294967296 150 0 0.000000 50 0 0 0 0 0 0 0 60 175 257 0
+ itm_ammo_belt_rifle Ammo_Belt Ammo_Belt 4  transparent 0  swy_blasterbolt_yellow_alpha 2305843009213693952  ammo_belt 3458764513820540928  ammo_belt 1152921504606846976  67174406 4294967296 150 0 0.000000 50 0 0 0 0 0 0 0 60 175 257 0
 0
 
  itm_disruptor_ammo_rifle Disruptor_Ammo_for_Rifles Disruptor_Ammo_for_Rifles 3  transparent 0  laser_disruptor 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174406 0 4960 4398046511104 0.000000 60 0 0 0 0 0 0 0 60 160 516 0
 0
 
- itm_laser_bolts_training_pistol Laser_Bolts Laser_Bolts 3  transparent 0  laser_bolt_yellow 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67112978 0 500 0 0.000000 100 0 0 0 0 0 0 0 5 12 257 0
+ itm_laser_bolts_training_pistol Laser_Bolts Laser_Bolts 3  transparent 0  swy_blasterbolt_yellow_alpha 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67112978 0 500 0 0.000000 100 0 0 0 0 0 0 0 5 12 257 0
 0
 
- itm_laser_bolts_training_rifle Laser_Bolts Laser_Bolts 3  transparent 0  laser_bolt_yellow 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67112966 0 500 0 0.000000 100 0 0 0 0 0 0 0 5 12 257 0
+ itm_laser_bolts_training_rifle Laser_Bolts Laser_Bolts 3  transparent 0  swy_blasterbolt_yellow_alpha 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67112966 0 500 0 0.000000 100 0 0 0 0 0 0 0 5 12 257 0
 0
 
  itm_force_power_ls_1 Initiate_Force_Powers Initiate_Force_Powers 2  transparent 0  force_powers_ls 1152921504606846976  4198408 4096 502 0 0.000000 80 0 0 85 2 0 80 80 0 50 542 0

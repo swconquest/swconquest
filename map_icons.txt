@@ -87,7 +87,7 @@ scyk_fighter 1 hutt_scyk_fighter 0.400000 194 0.150000 0.173000 0.000000 0
 mercenary_raider 1 Wild_Karrde 0.400000 194 0.150000 0.173000 0.000000 0
 
 
-freighter 1 freighter 0.500000 194 0.150000 0.173000 0.000000 0
+freighter 1 swy_nebulon 0.500000 194 0.150000 0.173000 0.000000 0
 
 
 bulk_freighter 1 bulk_frigate 0.500000 194 0.150000 0.173000 0.000000 0
@@ -96,13 +96,13 @@ bulk_freighter 1 bulk_frigate 0.500000 194 0.150000 0.173000 0.000000 0
 mercenary_fighter 1 vec_starchaser 0.400000 194 0.150000 0.173000 0.000000 0
 
 
-mercenary_shuttle 1 shuttle 0.400000 194 0.150000 0.173000 0.000000 0
+mercenary_shuttle 1 interceptor_IV 0.400000 194 0.150000 0.173000 0.000000 0
 
 
-civilian_transport 1 civilian_transport 0.400000 194 0.150000 0.173000 0.000000 0
+civilian_transport 1 Action_IV 0.400000 194 0.150000 0.173000 0.000000 0
 
 
-civilian_cruiser 1 civilian_transport_2 0.500000 194 0.150000 0.173000 0.000000 0
+civilian_cruiser 1 swy_nebulon 0.500000 194 0.150000 0.173000 0.000000 0
 
 
 cis_star_cruiser 1 CIS_Station 0.600000 0 0 0 0 0
