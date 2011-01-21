@@ -96,7 +96,7 @@ bulk_freighter 1 bulk_frigate 0.500000 194 0.150000 0.173000 0.000000 0
 mercenary_fighter 1 vec_starchaser 0.400000 194 0.150000 0.173000 0.000000 0
 
 
-mercenary_shuttle 1 interceptor_IV 0.400000 194 0.150000 0.173000 0.000000 0
+mercenary_shuttle 1 Interceptor_IV 0.400000 194 0.150000 0.173000 0.000000 0
 
 
 civilian_transport 1 Action_IV 0.400000 194 0.150000 0.173000 0.000000 0
