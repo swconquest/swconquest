@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1245
+ 1307
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3335,6 +3335,12 @@ spr_kashyyyk_tree1 0 0 kashyyyk_tree1 0 0
 spr_kashyyyk_tree2 0 0 kashyyyk_tree2 0 0
 
 
+spr_kashyyyyk_cliff_1 0 0 kashyyyyk_cliff_1 0 0
+
+
+spr_kashyyyyk_cliff_2 0 0 kashyyyyk_cliff_2 0 0
+
+
 spr_coruscant1 0 0 coruscant1 0 0
 
 
@@ -3360,6 +3366,21 @@ spr_coruscant8 0 0 coruscant8 0 0
 
 
 spr_coruscant9 0 0 coruscant9 0 0
+
+
+spr_coruscant10 0 0 coruscant10 0 0
+
+
+spr_coruscant11 0 0 coruscant11 0 0
+
+
+spr_coruscant12 0 0 coruscant12 0 0
+
+
+spr_christophsis_buiding_1 0 0 christophsis_buiding_1 0 0
+
+
+spr_christophsis_buiding_2 0 0 christophsis_buiding_2 0 0
 
 
 spr_taris_building_a_1_hw 0 0 taris_building_a_1_hw 0 0
@@ -3422,6 +3443,18 @@ spr_taris_building_2_bridge 0 0 taris_building_2_bridge 0 0
 spr_taris_platform 0 0 taris_platform 0 0
 
 
+spr_taris_cantina 0 0 taris_cantina 0 0
+
+
+spr_taris_cantina_door 0 0 taris_cantina_door 0 0
+
+
+spr_taris_cantina_lift 0 0 taris_cantina_lift 0 0
+
+
+spr_taris_cantina_table 0 0 taris_cantina_table 0 0
+
+
 spr_moseisley_angle 0 0 moseisley_angle bo_moseisley_angle 0
 
 
@@ -3441,6 +3474,48 @@ spr_moseisley_bank 0 0 moseisley_bank bo_moseisley_bank 0
 
 
 spr_moseisleybottles 0 0 moseisleybottles bo_moseisleybottles 0
+
+
+spr_moseisley_building_1 0 0 moseisley_building_1 0 0
+
+
+spr_moseisley_building_2 0 0 moseisley_building_2 0 0
+
+
+spr_jabba_palace_building_1 0 0 jabba_palace_building_1 0 0
+
+
+spr_jabba_palace_building_2 0 0 jabba_palace_building_2 0 0
+
+
+spr_jabba_palace_building_3 0 0 jabba_palace_building_3 0 0
+
+
+spr_jabba_palace_building_4 0 0 jabba_palace_building_4 0 0
+
+
+spr_jabba_palace_building_5 0 0 jabba_palace_building_5 0 0
+
+
+spr_jabba_palace_building_6 0 0 jabba_palace_building_6 0 0
+
+
+spr_trandoshan_building_1 0 0 trandoshan_building_1 0 0
+
+
+spr_trandoshan_building_2 0 0 trandoshan_building_2 0 0
+
+
+spr_trandoshan_building_3 0 0 trandoshan_building_3 0 0
+
+
+spr_trandoshan_building_4 0 0 trandoshan_building_4 0 0
+
+
+spr_trandoshan_building_5 0 0 trandoshan_building_5 0 0
+
+
+spr_trandoshan_building_6 0 0 trandoshan_building_6 0 0
 
 
 spr_bespin_bridge 0 0 bespin_bridge bo_bespin_bridge 0
@@ -3497,13 +3572,124 @@ spr_Naboo_house_1 0 0 Naboo_house_1 bo_Naboo_house_1 0
 spr_Naboo_house_3 0 0 Naboo_house_3 bo_Naboo_house_3 0
 
 
-spr_Naboo_theedpalace 0 0 Naboo_theedpalace_temp 0 0
+spr_Naboo_house_4 0 0 Naboo_house_4 0 0
+
+
+spr_naboo_house_5 0 0 naboo_house_5 0 0
+
+
+spr_Naboo_theedpalace_1 0 0 Naboo_theedpalace_1 0 0
+
+
+spr_Naboo_theedpalace_2 0 0 Naboo_theedpalace_2 0 0
+
+
+spr_Naboo_theedpalace_3 0 0 Naboo_theedpalace_3 0 0
+
+
+spr_Naboo_theedpalace_4 0 0 Naboo_theedpalace_4 0 0
+
+
+spr_Naboo_theedpalace_5 0 0 Naboo_theedpalace_5 0 0
+
+
+spr_Naboo_theedpalace_6 0 0 Naboo_theedpalace_6 0 0
+
+
+spr_Naboo_theedpalace_7 0 0 Naboo_theedpalace_7 0 0
+
+
+spr_Naboo_theedpalace_8 0 0 Naboo_theedpalace_8 0 0
+
+
+spr_Naboo_theedpalace_9 0 0 Naboo_theedpalace_9 0 0
+
+
+spr_Naboo_theedpalace_10 0 0 Naboo_theedpalace_10 0 0
+
+
+spr_Naboo_theedpalace_11 0 0 Naboo_theedpalace_11 0 0
+
+
+spr_Naboo_theedpalace_12 0 0 Naboo_theedpalace_12 0 0
+
+
+spr_Naboo_theedpalace_13 0 0 Naboo_theedpalace_13 0 0
+
+
+spr_Naboo_theedpalace_14 0 0 Naboo_theedpalace_14 0 0
+
+
+spr_Naboo_theedpalace_15 0 0 Naboo_theedpalace_15 0 0
+
+
+spr_Naboo_theedpalace_16 0 0 Naboo_theedpalace_16 0 0
+
+
+spr_Naboo_theedpalace_17 0 0 Naboo_theedpalace_17 0 0
+
+
+spr_Naboo_theedpalace_18 0 0 Naboo_theedpalace_18 0 0
+
+
+spr_Naboo_theedpalace_19 0 0 Naboo_theedpalace_19 0 0
+
+
+spr_Naboo_theedpalace_20 0 0 Naboo_theedpalace_20 0 0
+
+
+spr_Naboo_theedpalace_21 0 0 Naboo_theedpalace_21 0 0
+
+
+spr_Naboo_theedpalace_bridge 0 0 Naboo_theedpalace_bridge 0 0
+
+
+spr_Naboo_column 0 0 Naboo_column 0 0
+
+
+spr_naboo_arch_1 0 0 naboo_arch_1 0 0
+
+
+spr_naboo_arch_2 0 0 naboo_arch_2 0 0
+
+
+spr_Naboo_cantina 0 0 Naboo_cantina 0 0
 
 
 spr_saleucami_plant_1 0 0 saleucami_plant_1 bo_saleucami_plant_1 0
 
 
 spr_saleucami_plant_2 0 0 saleucami_plant_2 bo_saleucami_plant_2 0
+
+
+spr_saleucami_plant_3 0 0 saleucami_plant_3 0 0
+
+
+spr_saleucami_plant_4 0 0 saleucami_plant_4 0 0
+
+
+spr_spaceview_coruscant 0 0 spaceview_coruscant 0 0
+
+
+spr_spaceview_dagobah 0 0 spaceview_dagobah 0 0
+
+
+spr_spaceview_endor 0 0 spaceview_endor 0 0
+
+
+spr_spaceview_geonosis 0 0 spaceview_geonosis 0 0
+
+
+spr_spaceview_naboo 0 0 spaceview_naboo 0 0
+
+
+spr_spaceview_taris 0 0 spaceview_taris 0 0
+
+
+spr_spaceview_tatoonie 0 0 spaceview_tatoonie 0 0
+
+
+spr_spaceview_yavin_iv 0 0 spaceview_yavin_iv 0 0
 
 
 spr_revnshn_rhenvar_addon 0 0 rhenvar_addon bo_yavinaddon 0
