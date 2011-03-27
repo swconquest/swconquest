@@ -580,7 +580,7 @@ scn_mainplanet_21_cantina mainplanet_21_cantina 1 cantina_bar bo_cantina_bar -10
   0 
   0 
  0 
-scn_mainplanet_22_cantina mainplanet_22_cantina 1 cantina_bar bo_cantina_bar -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_mainplanet_22_cantina mainplanet_22_cantina 1 taris_cantina bo_taris_cantina -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
