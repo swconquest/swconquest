@@ -1416,16 +1416,16 @@ itemsfile version 2
  itm_droid_weapon_no_attack Droid_Melee_Weapon_(No_Attack) Droid_Melee_Weapon_(No_Attack) 2  transparent 0  force_block_inv 1152921504606846976  4198403 0 1 0 1.000000 100 0 0 0 0 0 40 0 25 0 512 512
 0
 
- itm_r2series_blue R2-Series_Blue R2-Series_Blue 1  r2series_blue 0  553652237 0 500 0 50.000000 100 15 30 15 0 0 0 0 0 0 0 0
+ itm_r2series_blue R2-Series_Blue R2-Series_Blue 1  swy_R2D2 0  553652237 0 500 0 50.000000 100 15 30 15 0 0 0 0 0 0 0 0
 0
 
- itm_r2series_green R2-Series_Green R2-Series_Green 1  r2series_green 0  553652237 0 500 0 50.000000 100 15 30 15 0 0 0 0 0 0 0 0
+ itm_r2series_green R2-Series_Green R2-Series_Green 1  swy_R2D2_alt_green 0  553652237 0 500 0 50.000000 100 15 30 15 0 0 0 0 0 0 0 0
 0
 
- itm_r2series_orange R2-Series_Orange R2-Series_Orange 1  r2series_orange 0  553652237 0 500 0 50.000000 100 15 30 15 0 0 0 0 0 0 0 0
+ itm_r2series_orange R2-Series_Orange R2-Series_Orange 1  swy_R2D2_alt_orange 0  553652237 0 500 0 50.000000 100 15 30 15 0 0 0 0 0 0 0 0
 0
 
- itm_r2series_purple R2-Series_Purple R2-Series_Purple 1  r2series_purple 0  553652237 0 500 0 50.000000 100 15 30 15 0 0 0 0 0 0 0 0
+ itm_r2series_purple R2-Series_Purple R2-Series_Purple 1  swy_R2D2_alt_purple 0  553652237 0 500 0 50.000000 100 15 30 15 0 0 0 0 0 0 0 0
 0
 
  itm_mse6_armor MSE-Series_Droid_Body MSE-Series_Droid_Body 1  MSE-6 0  553652237 0 250 0 35.000000 100 10 20 10 0 0 0 0 0 0 0 0
