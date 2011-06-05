@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1306
+ 1324
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3278,241 +3278,7 @@ spr_barf_rock_23 0 0 rock23 bo_rock23 0
 spr_barf_rock_24 0 0 rock24 bo_rock24 0
 
 
-spr_kashyyyk_house 0 0 kashyyyk_house 0 0
-
-
-spr_kashyyyk_house_platform_bridge 0 0 kashyyyk_house_platform_bridge 0 0
-
-
-spr_kashyyyk_house_platform_down 0 0 kashyyyk_house_platform_down 0 0
-
-
-spr_kashyyyk_platform_a 0 0 kashyyyk_platform_a 0 0
-
-
-spr_kashyyyk_platform_eighth_fence_addon 0 0 kashyyyk_platform_eighth_fence_addon 0 0
-
-
-spr_kashyyyk_platform_eighth_fence_houseup_addon 0 0 kashyyyk_platform_eighth_fence_houseup_addon 0 0
-
-
-spr_kashyyyk_platform_eighth_platform 0 0 kashyyyk_platform_eighth_platform 0 0
-
-
-spr_kashyyyk_platform_house_a 0 0 kashyyyk_platform_house_a 0 0
-
-
-spr_kashyyyk_platform_house_b 0 0 kashyyyk_platform_house_b 0 0
-
-
-spr_kashyyyk_platform_house_bridge 0 0 kashyyyk_platform_house_bridge 0 0
-
-
-spr_kashyyyk_platform_offtree_a 0 0 kashyyyk_platform_offtree_a 0 0
-
-
-spr_kashyyyk_platform_sixteenth_fence 0 0 kashyyyk_platform_sixteenth_fence 0 0
-
-
-spr_kashyyyk_platform_sixteenth_fence_bridge 0 0 kashyyyk_platform_sixteenth_fence_bridge 0 0
-
-
-spr_kashyyyk_platform_sixteenth_platform 0 0 kashyyyk_platform_sixteenth_platform 0 0
-
-
-spr_kashyyyk_platform_stringer 0 0 kashyyyk_platform_stringer 0 0
-
-
-spr_kashyyyk_platform_stringer_bridge 0 0 kashyyyk_platform_stringer_bridge 0 0
-
-
-spr_kashyyyk_stairs 0 0 kashyyyk_stairs 0 0
-
-
-spr_kashyyyk_tree1 0 0 kashyyyk_tree1 0 0
-
-
-spr_kashyyyk_tree2 0 0 kashyyyk_tree2 0 0
-
-
-spr_kashyyyyk_cliff_1 0 0 kashyyyyk_cliff_1 0 0
-
-
-spr_kashyyyyk_cliff_2 0 0 kashyyyyk_cliff_2 0 0
-
-
-spr_coruscant1 0 0 coruscant1 0 0
-
-
-spr_coruscant2 0 0 coruscant2 0 0
-
-
-spr_coruscant3 0 0 coruscant3 0 0
-
-
-spr_coruscant4 0 0 coruscant4 0 0
-
-
-spr_coruscant5 0 0 coruscant5 0 0
-
-
-spr_coruscant6 0 0 coruscant6 0 0
-
-
-spr_coruscant7 0 0 coruscant7 0 0
-
-
-spr_coruscant8 0 0 coruscant8 0 0
-
-
-spr_coruscant9 0 0 coruscant9 0 0
-
-
-spr_coruscant10 0 0 coruscant10 0 0
-
-
-spr_coruscant11 0 0 coruscant11 0 0
-
-
-spr_coruscant12 0 0 coruscant12 0 0
-
-
-spr_christophsis_buiding_1 0 0 christophsis_buiding_1 0 0
-
-
-spr_christophsis_buiding_2 0 0 christophsis_buiding_2 0 0
-
-
-spr_taris_building_a_1_hw 0 0 taris_building_a_1_hw 0 0
-
-
-spr_taris_building_a_2_hw 0 0 taris_building_a_2_hw 0 0
-
-
-spr_taris_building_a_3_hw 0 0 taris_building_a_3_hw 0 0
-
-
-spr_taris_building_a_1_aw 0 0 taris_building_a_1_aw 0 0
-
-
-spr_taris_building_a_2_aw 0 0 taris_building_a_2_aw 0 0
-
-
-spr_taris_building_a_3_aw 0 0 taris_building_a_3_aw 0 0
-
-
-spr_taris_building_a_1_nw 0 0 taris_building_a_1_nw 0 0
-
-
-spr_taris_building_a_2_nw 0 0 taris_building_a_2_nw 0 0
-
-
-spr_taris_building_a_3_nw 0 0 taris_building_a_3_nw 0 0
-
-
-spr_taris_building_b_1_hw 0 0 taris_building_b_1_hw 0 0
-
-
-spr_taris_building_b_2_hw 0 0 taris_building_b_2_hw 0 0
-
-
-spr_taris_building_b_3_hw 0 0 taris_building_b_3_hw 0 0
-
-
-spr_taris_building_b_1_aw 0 0 taris_building_b_1_aw 0 0
-
-
-spr_taris_building_b_2_aw 0 0 taris_building_b_2_aw 0 0
-
-
-spr_taris_building_b_3_aw 0 0 taris_building_b_3_aw 0 0
-
-
-spr_taris_building_b_1_nw 0 0 taris_building_b_1_nw 0 0
-
-
-spr_taris_building_b_2_nw 0 0 taris_building_b_2_nw 0 0
-
-
-spr_taris_building_b_3_nw 0 0 taris_building_b_3_nw 0 0
-
-
-spr_taris_building_2_bridge 0 0 taris_building_2_bridge 0 0
-
-
-spr_taris_platform 0 0 taris_platform 0 0
-
-
-spr_taris_cantina_door 0 0 taris_cantina_door 0 0
-
-
-spr_taris_cantina_lift 0 0 taris_cantina_lift 0 0
-
-
-spr_taris_cantina_table 0 0 taris_cantina_table 0 0
-
-
-spr_moseisley_angle 0 0 moseisley_angle bo_moseisley_angle 0
-
-
-spr_moseisley_chair 0 0 moseisley_chair bo_moseisley_chair 0
-
-
-spr_moseisley_machine 0 0 moseisley_machine bo_moseisley_machine 0
-
-
-spr_moseisley_table 0 0 moseisley_table bo_moseisley_table 0
-
-
-spr_moseisley_bar 0 0 moseisley_bar bo_moseisley_bar 0
-
-
-spr_moseisley_bank 0 0 moseisley_bank bo_moseisley_bank 0
-
-
-spr_moseisleybottles 0 0 moseisleybottles bo_moseisleybottles 0
-
-
-spr_moseisley_building_1 0 0 moseisley_building_1 0 0
-
-
-spr_moseisley_building_2 0 0 moseisley_building_2 0 0
-
-
-spr_jabba_palace_building_1 0 0 jabba_palace_building_1 0 0
-
-
-spr_jabba_palace_building_2 0 0 jabba_palace_building_2 0 0
-
-
-spr_jabba_palace_building_3 0 0 jabba_palace_building_3 0 0
-
-
-spr_jabba_palace_building_4 0 0 jabba_palace_building_4 0 0
-
-
-spr_jabba_palace_building_5 0 0 jabba_palace_building_5 0 0
-
-
-spr_jabba_palace_building_6 0 0 jabba_palace_building_6 0 0
-
-
-spr_trandoshan_building_1 0 0 trandoshan_building_1 0 0
-
-
-spr_trandoshan_building_2 0 0 trandoshan_building_2 0 0
-
-
-spr_trandoshan_building_3 0 0 trandoshan_building_3 0 0
-
-
-spr_trandoshan_building_4 0 0 trandoshan_building_4 0 0
-
-
-spr_trandoshan_building_5 0 0 trandoshan_building_5 0 0
-
-
-spr_trandoshan_building_6 0 0 trandoshan_building_6 0 0
+spr_ahto_walls 0 0 ahto_walls bo_ahto_walls 0
 
 
 spr_bespin_bridge 0 0 bespin_bridge bo_bespin_bridge 0
@@ -3561,6 +3327,99 @@ spr_bespin_platform_pillar_1 0 0 bespin_platform_pillar_1 bo_bespin_platform_pil
 
 
 spr_bespin_platform_pillar_2 0 0 bespin_platform_pillar_2 bo_bespin_platform_pillar_2 0
+
+
+spr_corellia_building_1 0 0 corellia_building_1 0 0
+
+
+spr_corellia_building_2 0 0 corellia_building_2 0 0
+
+
+spr_corellia_building_3 0 0 corellia_building_3 0 0
+
+
+spr_corellia_building_4 0 0 corellia_building_4 0 0
+
+
+spr_coruscant1 0 0 coruscant1 0 0
+
+
+spr_coruscant2 0 0 coruscant2 0 0
+
+
+spr_coruscant3 0 0 coruscant3 0 0
+
+
+spr_coruscant4 0 0 coruscant4 0 0
+
+
+spr_coruscant5 0 0 coruscant5 0 0
+
+
+spr_coruscant6 0 0 coruscant6 0 0
+
+
+spr_coruscant7 0 0 coruscant7 0 0
+
+
+spr_coruscant8 0 0 coruscant8 0 0
+
+
+spr_coruscant9 0 0 coruscant9 0 0
+
+
+spr_coruscant10 0 0 coruscant10 0 0
+
+
+spr_coruscant11 0 0 coruscant11 0 0
+
+
+spr_coruscant12 0 0 coruscant12 0 0
+
+
+spr_christophsis_buiding_1 0 0 christophsis_buiding_1 0 0
+
+
+spr_christophsis_buiding_2 0 0 christophsis_buiding_2 0 0
+
+
+spr_felucia_flower_1 0 0 felucia_flower_1 0 0
+
+
+spr_felucia_flower_2 0 0 felucia_flower_2 0 0
+
+
+spr_felucia_flower_3 0 0 felucia_flower_3 bo_felucia_flower_3_4 0
+
+
+spr_felucia_flower_4 0 0 felucia_flower_4 bo_felucia_flower_3_4 0
+
+
+spr_felucia_flower_5 0 0 felucia_flower_5 0 0
+
+
+spr_felucia_flower_6 0 0 felucia_flower_6 0 0
+
+
+spr_felucia_flower_7 0 0 felucia_flower_7 0 0
+
+
+spr_felucia_fungus_1 0 0 felucia_fungus_1 0 0
+
+
+spr_felucia_fungus_2 0 0 felucia_fungus_2 0 0
+
+
+spr_felucia_fungus_3 0 0 felucia_fungus_3 0 0
+
+
+spr_felucia_fungus_4 0 0 felucia_fungus_4 0 0
+
+
+spr_felucia_fungus_5 0 0 felucia_fungus_5 0 0
+
+
+spr_felucia_fungus_6 0 0 felucia_fungus_6 0 0
 
 
 spr_Naboo_house_1 0 0 Naboo_house_1 bo_Naboo_house_1 0
@@ -3653,6 +3512,33 @@ spr_naboo_arch_2 0 0 naboo_arch_2 0 0
 spr_Naboo_cantina 0 0 Naboo_cantina 0 0
 
 
+spr_moseisley_angle 0 0 moseisley_angle bo_moseisley_angle 0
+
+
+spr_moseisley_chair 0 0 moseisley_chair bo_moseisley_chair 0
+
+
+spr_moseisley_machine 0 0 moseisley_machine bo_moseisley_machine 0
+
+
+spr_moseisley_table 0 0 moseisley_table bo_moseisley_table 0
+
+
+spr_moseisley_bar 0 0 moseisley_bar bo_moseisley_bar 0
+
+
+spr_moseisley_bank 0 0 moseisley_bank bo_moseisley_bank 0
+
+
+spr_moseisleybottles 0 0 moseisleybottles bo_moseisleybottles 0
+
+
+spr_moseisley_building_1 0 0 moseisley_building_1 0 0
+
+
+spr_moseisley_building_2 0 0 moseisley_building_2 0 0
+
+
 spr_saleucami_plant_1 0 0 saleucami_plant_1 bo_saleucami_plant_1 0
 
 
@@ -3663,6 +3549,174 @@ spr_saleucami_plant_3 0 0 saleucami_plant_3 0 0
 
 
 spr_saleucami_plant_4 0 0 saleucami_plant_4 0 0
+
+
+spr_taris_building_a_1_hw 0 0 taris_building_a_1_hw 0 0
+
+
+spr_taris_building_a_2_hw 0 0 taris_building_a_2_hw 0 0
+
+
+spr_taris_building_a_3_hw 0 0 taris_building_a_3_hw 0 0
+
+
+spr_taris_building_a_1_aw 0 0 taris_building_a_1_aw 0 0
+
+
+spr_taris_building_a_2_aw 0 0 taris_building_a_2_aw 0 0
+
+
+spr_taris_building_a_3_aw 0 0 taris_building_a_3_aw 0 0
+
+
+spr_taris_building_a_1_nw 0 0 taris_building_a_1_nw 0 0
+
+
+spr_taris_building_a_2_nw 0 0 taris_building_a_2_nw 0 0
+
+
+spr_taris_building_a_3_nw 0 0 taris_building_a_3_nw 0 0
+
+
+spr_taris_building_b_1_hw 0 0 taris_building_b_1_hw 0 0
+
+
+spr_taris_building_b_2_hw 0 0 taris_building_b_2_hw 0 0
+
+
+spr_taris_building_b_3_hw 0 0 taris_building_b_3_hw 0 0
+
+
+spr_taris_building_b_1_aw 0 0 taris_building_b_1_aw 0 0
+
+
+spr_taris_building_b_2_aw 0 0 taris_building_b_2_aw 0 0
+
+
+spr_taris_building_b_3_aw 0 0 taris_building_b_3_aw 0 0
+
+
+spr_taris_building_b_1_nw 0 0 taris_building_b_1_nw 0 0
+
+
+spr_taris_building_b_2_nw 0 0 taris_building_b_2_nw 0 0
+
+
+spr_taris_building_b_3_nw 0 0 taris_building_b_3_nw 0 0
+
+
+spr_taris_building_2_bridge 0 0 taris_building_2_bridge 0 0
+
+
+spr_taris_platform 0 0 taris_platform 0 0
+
+
+spr_taris_cantina_door 0 0 taris_cantina_door 0 0
+
+
+spr_taris_cantina_lift 0 0 taris_cantina_lift 0 0
+
+
+spr_taris_cantina_table 0 0 taris_cantina_table 0 0
+
+
+spr_jabba_palace_building_1 0 0 jabba_palace_building_1 0 0
+
+
+spr_jabba_palace_building_2 0 0 jabba_palace_building_2 0 0
+
+
+spr_jabba_palace_building_3 0 0 jabba_palace_building_3 0 0
+
+
+spr_jabba_palace_building_4 0 0 jabba_palace_building_4 0 0
+
+
+spr_jabba_palace_building_5 0 0 jabba_palace_building_5 0 0
+
+
+spr_jabba_palace_building_6 0 0 jabba_palace_building_6 0 0
+
+
+spr_trandoshan_building_1 0 0 trandoshan_building_1 0 0
+
+
+spr_trandoshan_building_2 0 0 trandoshan_building_2 0 0
+
+
+spr_trandoshan_building_3 0 0 trandoshan_building_3 0 0
+
+
+spr_trandoshan_building_4 0 0 trandoshan_building_4 0 0
+
+
+spr_trandoshan_building_5 0 0 trandoshan_building_5 0 0
+
+
+spr_trandoshan_building_6 0 0 trandoshan_building_6 0 0
+
+
+spr_kashyyyk_house 0 0 kashyyyk_house 0 0
+
+
+spr_kashyyyk_house_platform_bridge 0 0 kashyyyk_house_platform_bridge 0 0
+
+
+spr_kashyyyk_house_platform_down 0 0 kashyyyk_house_platform_down 0 0
+
+
+spr_kashyyyk_platform_a 0 0 kashyyyk_platform_a 0 0
+
+
+spr_kashyyyk_platform_eighth_fence_addon 0 0 kashyyyk_platform_eighth_fence_addon 0 0
+
+
+spr_kashyyyk_platform_eighth_fence_houseup_addon 0 0 kashyyyk_platform_eighth_fence_houseup_addon 0 0
+
+
+spr_kashyyyk_platform_eighth_platform 0 0 kashyyyk_platform_eighth_platform 0 0
+
+
+spr_kashyyyk_platform_house_a 0 0 kashyyyk_platform_house_a 0 0
+
+
+spr_kashyyyk_platform_house_b 0 0 kashyyyk_platform_house_b 0 0
+
+
+spr_kashyyyk_platform_house_bridge 0 0 kashyyyk_platform_house_bridge 0 0
+
+
+spr_kashyyyk_platform_offtree_a 0 0 kashyyyk_platform_offtree_a 0 0
+
+
+spr_kashyyyk_platform_sixteenth_fence 0 0 kashyyyk_platform_sixteenth_fence 0 0
+
+
+spr_kashyyyk_platform_sixteenth_fence_bridge 0 0 kashyyyk_platform_sixteenth_fence_bridge 0 0
+
+
+spr_kashyyyk_platform_sixteenth_platform 0 0 kashyyyk_platform_sixteenth_platform 0 0
+
+
+spr_kashyyyk_platform_stringer 0 0 kashyyyk_platform_stringer 0 0
+
+
+spr_kashyyyk_platform_stringer_bridge 0 0 kashyyyk_platform_stringer_bridge 0 0
+
+
+spr_kashyyyk_stairs 0 0 kashyyyk_stairs 0 0
+
+
+spr_kashyyyk_tree1 0 0 kashyyyk_tree1 0 0
+
+
+spr_kashyyyk_tree2 0 0 kashyyyk_tree2 0 0
+
+
+spr_kashyyyyk_cliff_1 0 0 kashyyyyk_cliff_1 0 0
+
+
+spr_kashyyyyk_cliff_2 0 0 kashyyyyk_cliff_2 0 0
 
 
 spr_spaceview_coruscant 0 0 spaceview_coruscant 0 0

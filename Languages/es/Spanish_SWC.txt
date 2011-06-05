@@ -5,4 +5,4 @@
 {es-ES} Esta es una versión mejorada de la versión en Español de SWC. Traducido directamente del Inglés por Swyter.
 {es-EN} This is an Spanish enhanced version of SWC. Translated directly from the English version by Swyter
 
-Por favor postea los errores que encuentres en nuestro foro... www.swconquest.co.cc
+Por favor postea los errores que encuentres en nuestro foro... community.getconquest.net
