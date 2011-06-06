@@ -1,6 +1,6 @@
 soundsfile version 2
 649
- swc_click.mp3 257
+ swc_click.ogg 257
  tutorial_1.ogg 1793
  tutorial_2.ogg 1793
  s_cymbals.ogg 1937
@@ -10,7 +10,7 @@ soundsfile version 2
  quest_failed.ogg 1937
  quest_cancelled.ogg 1937
  rain_1.ogg 1187
- ui_toggle_mouse_mode.mp3 1696
+ ui_toggle_mouse_mode.ogg 1696
  sword_clank_metal_09.ogg 0
  sword_clank_metal_09b.ogg 0
  sword_clank_metal_10.ogg 0
@@ -37,56 +37,56 @@ soundsfile version 2
  jump_end.ogg 1424
  jump_begin_water.ogg 1168
  jump_end_water.ogg 1168
- speeder_jump_begin.mp3 1936
- speeder_jump_end.mp3 1936
+ speeder_jump_begin.ogg 1936
+ speeder_jump_end.ogg 1936
  throw_javelin_2.ogg 1280
  throw_axe_1.ogg 1792
  throw_knife_1.ogg 1280
  throw_stone_1.ogg 1792
- blaster_reload_a.mp3 1904
- blaster_reload_b.mp3 1904
+ blaster_reload_a.ogg 1904
+ blaster_reload_b.ogg 1904
  arrow_pass_by_1.ogg 0
  arrow_pass_by_2.ogg 0
  arrow_pass_by_3.ogg 0
  arrow_pass_by_4.ogg 0
- boltby_01.mp3 0
- boltby_02.mp3 0
- boltby_03.mp3 0
- boltby_04.mp3 0
- boltby_05.mp3 0
- boltby_06.mp3 0
- boltby_07.mp3 0
- boltby_08.mp3 0
- boltby_09.mp3 0
- boltby_10.mp3 0
+ boltby_01.ogg 0
+ boltby_02.ogg 0
+ boltby_03.ogg 0
+ boltby_04.ogg 0
+ boltby_05.ogg 0
+ boltby_06.ogg 0
+ boltby_07.ogg 0
+ boltby_08.ogg 0
+ boltby_09.ogg 0
+ boltby_10.ogg 0
  javelin_pass_by_1.ogg 0
  javelin_pass_by_2.ogg 0
  stone_pass_by_1.ogg 2304
  axe_pass_by_1.ogg 0
  knife_pass_by_1.ogg 0
- bolthit_01.mp3 1904
- bolthit_02.mp3 1904
- bolthit_03.mp3 1904
- bolthit_04.mp3 1904
- bolthit_05.mp3 1904
- bolthit_06.mp3 1904
- bolthit_07.mp3 1904
- bolthit_08.mp3 1904
- bolthit_09.mp3 1904
- bolthit_10.mp3 1904
- bolthit_11.mp3 1904
- bolthit_12.mp3 1904
- bolthit_13.mp3 1904
- bolthit_14.mp3 1904
- bolthit_15.mp3 1904
- bolthit_16.mp3 1904
- bolthit_17.mp3 1904
- bolthit_18.mp3 1904
- bolthit_19.mp3 1904
- bolthit_20.mp3 1904
- bolthit_21.mp3 1904
- bolthit_22.mp3 1904
- bolthit_23.mp3 1904
+ bolthit_01.ogg 1904
+ bolthit_02.ogg 1904
+ bolthit_03.ogg 1904
+ bolthit_04.ogg 1904
+ bolthit_05.ogg 1904
+ bolthit_06.ogg 1904
+ bolthit_07.ogg 1904
+ bolthit_08.ogg 1904
+ bolthit_09.ogg 1904
+ bolthit_10.ogg 1904
+ bolthit_11.ogg 1904
+ bolthit_12.ogg 1904
+ bolthit_13.ogg 1904
+ bolthit_14.ogg 1904
+ bolthit_15.ogg 1904
+ bolthit_16.ogg 1904
+ bolthit_17.ogg 1904
+ bolthit_18.ogg 1904
+ bolthit_19.ogg 1904
+ bolthit_20.ogg 1904
+ bolthit_21.ogg 1904
+ bolthit_22.ogg 1904
+ bolthit_23.ogg 1904
  incoming_javelin_hit_ground_1.ogg 1904
  incoming_stone_hit_ground_1.ogg 1904
  outgoing_arrow_hit_ground.ogg 2672
@@ -98,12 +98,12 @@ soundsfile version 2
  draw_greataxe.ogg 64
  put_back_to_leather.ogg 64
  draw_spear.ogg 64
- ui_equip_blaster.mp3 64
- lightsaber_powerup.mp3 2448
- lightsaber_powerdown.mp3 2448
+ ui_equip_blaster.ogg 64
+ lightsaber_powerup.ogg 2448
+ lightsaber_powerdown.ogg 2448
  draw_bow.ogg 64
- wep_shoulder_on.mp3 1856
- wep_shoulder_off.mp3 1856
+ wep_shoulder_on.ogg 1856
+ wep_shoulder_off.ogg 1856
  draw_other.ogg 64
  draw_other2.ogg 64
  body_fall_small_1.ogg 2656
@@ -114,9 +114,9 @@ soundsfile version 2
  horse_body_fall_begin_1.ogg 2656
  horse_body_fall_end_1.ogg 2656
  body_fall_very_big_1.ogg 2656
- saber_clash1.mp3 2672
- saber_clash2.mp3 2672
- saber_clash3.mp3 2672
+ saber_clash1.ogg 2672
+ saber_clash2.ogg 2672
+ saber_clash3.ogg 2672
  hit_metal_metal_3.ogg 2672
  hit_metal_metal_4.ogg 2672
  hit_metal_metal_5.ogg 2672
@@ -131,9 +131,9 @@ soundsfile version 2
  shield_hit_metal_metal_2.ogg 2672
  shield_hit_metal_metal_3.ogg 2672
  shield_hit_metal_metal_4.ogg 2672
- shield_hit1.mp3 2672
- shield_hit2.mp3 2672
- shield_hit3.mp3 2672
+ shield_hit1.ogg 2672
+ shield_hit2.ogg 2672
+ shield_hit3.ogg 2672
  shield_broken.ogg 144
  man_hit_5.ogg 2672
  man_hit_6.ogg 2672
@@ -216,13 +216,13 @@ soundsfile version 2
  femgrunt10.ogg 1120
  s_hide.wav 0
  s_unhide.wav 0
- engine_stop.mp3 0
- space_battle_noise_1.mp3 1280
- space_battle_noise_2.mp3 1280
- rvnshn_blaster_hit.mp3 64
- rvnshn_blaster_hit2.mp3 64
- rvnshn_blaster_hit3.mp3 64
- rvnshn_blaster_hit4.mp3 64
+ engine_stop.ogg 0
+ space_battle_noise_1.ogg 1280
+ space_battle_noise_2.ogg 1280
+ rvnshn_blaster_hit.ogg 64
+ rvnshn_blaster_hit2.ogg 64
+ rvnshn_blaster_hit3.ogg 64
+ rvnshn_blaster_hit4.ogg 64
  sword_hit_lo_armor_lo_dmg_1.ogg 2384
  sword_hit_lo_armor_lo_dmg_2.ogg 2384
  sword_hit_lo_armor_lo_dmg_3.ogg 2384
@@ -316,7 +316,7 @@ soundsfile version 2
  encounter_vaegirs_neutral_2.ogg 1281
  encounter_vaegirs_neutral_3.ogg 1281
  encounter_vaegirs_neutral_4.ogg 1281
- set_for_stun.mp3 1
+ set_for_stun.ogg 1
  block_fist_3.ogg 0
  block_fist_4.ogg 0
  man_victory_3.ogg 2640
@@ -333,45 +333,45 @@ soundsfile version 2
  shield_hit_cut_3.ogg 144
  shield_hit_cut_5.ogg 144
  cow_slaughter.ogg 2193
- str_door_blast_open.mp3 641
- str_door_blast_close_stop.mp3 641
- str_door_blast_open_stop.mp3 641
- str_turret_pwr_on.mp3 641
- veh_s_foil_movement.mp3 641
- veh_x_wing_flyby_1.mp3 641
- veh_shuttle_powerdown.mp3 641
+ str_door_blast_open.ogg 641
+ str_door_blast_close_stop.ogg 641
+ str_door_blast_open_stop.ogg 641
+ str_turret_pwr_on.ogg 641
+ veh_s_foil_movement.ogg 641
+ veh_x_wing_flyby_1.ogg 641
+ veh_shuttle_powerdown.ogg 641
  arena_loop11.ogg 899
  town_loop_3.ogg 899
- amb_cantina_large_lp.mp3 2435
- blaster04_long.mp3 2176
- bigblaster01.mp3 2176
- bigblaster15_E11_variant.mp3 2176
- wep_e11_blaster.mp3 2176
- bigblaster19_DL44_DH17_short.mp3 2176
- rvnshn_wookie_bowcaster.mp3 2176
- ionblaster_other01.mp3 2176
- rvnshn_sonic_weapon.mp3 2688
- stunblaster_other03.mp3 2176
- littleblaster01.mp3 2176
- rvnshn_heavy_repeater.mp3 2176
- rvnshn_stormrifle.mp3 2176
- flame_fire.mp3 1664
- concussion_fire.mp3 1664
- rocket_fire.mp3 2176
- saber_throw.mp3 2176
- force_push.mp3 2176
- force_lightning_01.mp3 2176
- force_lightning_02.mp3 2176
- item_air_gun.mp3 2176
- bacta_heal.mp3 2144
+ amb_cantina_large_lp.ogg 2435
+ blaster04_long.ogg 2176
+ bigblaster01.ogg 2176
+ bigblaster15_E11_variant.ogg 2176
+ wep_e11_blaster.ogg 2176
+ bigblaster19_DL44_DH17_short.ogg 2176
+ rvnshn_wookie_bowcaster.ogg 2176
+ ionblaster_other01.ogg 2176
+ rvnshn_sonic_weapon.ogg 2688
+ stunblaster_other03.ogg 2176
+ littleblaster01.ogg 2176
+ rvnshn_heavy_repeater.ogg 2176
+ rvnshn_stormrifle.ogg 2176
+ flame_fire.ogg 1664
+ concussion_fire.ogg 1664
+ rocket_fire.ogg 2176
+ saber_throw.ogg 2176
+ force_push.ogg 2176
+ force_lightning_01.ogg 2176
+ force_lightning_02.ogg 2176
+ item_air_gun.ogg 2176
+ bacta_heal.ogg 2144
  speeder_noise_idle.ogg 2448
  speeder_noise_begin.ogg 2448
  speeder_noise_moving.ogg 2400
  speeder_noise_loop.ogg 2451
- dro_gonk_voc_a.mp3 2128
- dro_gonk_voc_b.mp3 2128
- dro_gonk_voc_c.mp3 2128
- dro_gonk_voc_d.mp3 2128
+ dro_gonk_voc_a.ogg 2128
+ dro_gonk_voc_b.ogg 2128
+ dro_gonk_voc_c.ogg 2128
+ dro_gonk_voc_d.ogg 2128
  Vip_Impact_Gun.ogg 1536
  Rdr_Cannon.ogg 2560
  Vip_Cannon.ogg 256
@@ -383,272 +383,272 @@ soundsfile version 2
  SFX_Hit_Ricochet.ogg 512
  subspace_left.ogg 1537
  subspace_right.ogg 1537
- jawa_death1.mp3 2688
- jawa_death2.mp3 2688
- jawa_death3.mp3 2688
- jawa_chatter1.mp3 2144
- jawa_confuse1.mp3 2144
- jawa_confuse2.mp3 2144
- jawa_pushed1.mp3 2144
- jawa_pushed2.mp3 2144
- jawa_pushed3.mp3 2144
- jawa_chatter2.mp3 2128
- jawa_anger1.mp3 2128
- jawa_anger2.mp3 2128
- jawa_anger3.mp3 2128
- jawa_pain25.mp3 2672
- jawa_pain50.mp3 2672
- jawa_pain75.mp3 2672
- jawa_pain100.mp3 2672
- jawa_choke1.mp3 2672
- jawa_victory1.mp3 2640
- jawa_victory2.mp3 2640
- jawa_victory3.mp3 2640
- droid_pain25.mp3 2688
- droid_pain50.mp3 2688
- droid_pain75.mp3 2688
- droid_talk01.mp3 2144
- droid_talk02.mp3 2144
- droid_talk03.mp3 2144
- battledroid_pain25.mp3 2688
- battledroid_pain50.mp3 2688
- battledroid_pain75.mp3 2688
- battledroid_talk01.mp3 2144
- battledroid_talk02.mp3 2144
- battledroid_talk03.mp3 2144
- dbattleroid_talk01.mp3 2656
- tusken_death1.mp3 2688
- tusken_death2.mp3 2688
- tusken_falling1.mp3 2688
- tusken_jump1.mp3 2688
- tusken_confuse2.mp3 2144
- tusken_confuse3.mp3 2144
- tusken_cover1.mp3 2144
- tusken_cover2.mp3 2144
- tusken_cover3.mp3 2144
- tusken_confuse1.mp3 2128
- tusken_land1.mp3 2128
- tusken_look1.mp3 2128
- tusken_look2.mp3 2128
- tusken_outflank1.mp3 2128
- tusken_outflank2.mp3 2128
- tusken_pain25.mp3 2672
- tusken_pain50.mp3 2672
- tusken_gasp.mp3 2672
- tusken_victory1.mp3 2640
- tusken_taunt.mp3 2640
- tusken_anger1.mp3 2656
- tusken_anger2.mp3 2656
- tusken_anger3.mp3 2656
- tusken_pushed2.mp3 2656
- tusken_pushed1.mp3 2656
- trandoshan_death1.mp3 2688
- trandoshan_death2.mp3 2688
- trandoshan_death3.mp3 2688
- trandoshan_choke1.mp3 2688
- trandoshan_choke2.mp3 2688
- trandoshan_choke3.mp3 2688
- trandoshan_confuse1.mp3 2144
- trandoshan_confuse2.mp3 2144
- trandoshan_pushed1.mp3 2144
- trandoshan_pushed2.mp3 2144
- trandoshan_pushed3.mp3 2144
- trandoshan_confuse3.mp3 2128
- trandoshan_sight1.mp3 2128
- trandoshan_sight2.mp3 2128
- trandoshan_sight3.mp3 2128
- trandoshan_chase1.mp3 2128
- trandoshan_pain25.mp3 2672
- trandoshan_pain50.mp3 2672
- trandoshan_pain75.mp3 2672
- trandoshan_pain100.mp3 2672
- trandoshan_gasp.mp3 2672
- trandoshan_victory1.mp3 2640
- trandoshan_victory2.mp3 2640
- trandoshan_victory3.mp3 2640
- trandoshan_taunt.mp3 2640
- trandoshan_look1.mp3 2640
- trandoshan_look2.mp3 2640
- trandoshan_chase2.mp3 2640
- trandoshan_chase3.mp3 2640
- trandoshan_anger1.mp3 2656
- trandoshan_anger2.mp3 2656
- trandoshan_anger3.mp3 2656
- wookiee_death1.mp3 2688
- wookiee_death2.mp3 2688
- wookiee_death3.mp3 2688
- wookiee_falling1.mp3 2688
- wookiee_pushed1.mp3 2144
- wookiee_pushed2.mp3 2144
- wookiee_pushed3.mp3 2144
- wookiee_jump1.mp3 2144
- wookiee_land1.mp3 2144
- wookiee_ffwarn.mp3 2128
- wookiee_pain25.mp3 2672
- wookiee_pain50.mp3 2672
- wookiee_pain75.mp3 2672
- wookiee_pain100.mp3 2672
- wookiee_victory1.mp3 2640
- wookiee_victory2.mp3 2640
- wookiee_victory3.mp3 2640
- wookiee_taunt1.mp3 2640
- gamorrean_death1.mp3 2688
- gamorrean_death2.mp3 2688
- gamorrean_death3.mp3 2688
- gamorrean_falling1.mp3 2688
- gamorrean_taunt1.mp3 2144
- gamorrean_taunt2.mp3 2144
- gamorrean_gloat1.mp3 2144
- gamorrean_anger2.mp3 2144
- gamorrean_pain25.mp3 2672
- gamorrean_pain50.mp3 2672
- gamorrean_pain75.mp3 2672
- gamorrean_pain100.mp3 2672
- gamorrean_gasp.mp3 2672
- gamorrean_land1.mp3 2672
- gamorrean_victory1.mp3 2640
- rodian_death1.mp3 2688
- rodian_death2.mp3 2688
- rodian_death3.mp3 2688
- rodian_choke1.mp3 2688
- rodian_choke2.mp3 2688
- rodian_choke3.mp3 2688
- rodian_pushed1.mp3 2144
- rodian_pushed2.mp3 2144
- rodian_pushed3.mp3 2144
- rodian_gasp.mp3 2144
- rodian_land1.mp3 2144
- rodian_sound2.mp3 2144
- rodian_confuse1.mp3 2128
- rodian_confuse2.mp3 2128
- rodian_confuse3.mp3 2128
- rodian_jump1.mp3 2128
- rodian_pain25.mp3 2672
- rodian_pain50.mp3 2672
- rodian_pain75.mp3 2672
- rodian_pain100.mp3 2672
- rodian_victory1.mp3 2640
- rodian_victory2.mp3 2640
- rodian_victory3.mp3 2640
- rodian_cover1.mp3 2640
- rodian_cover2.mp3 2640
- rodian_cover3.mp3 2640
- rodian_anger1.mp3 2656
- rodian_anger2.mp3 2656
- rodian_anger3.mp3 2656
- geonosian_death.mp3 2688
- geonosian1.mp3 2144
- geonosian2.mp3 2144
- geonosian3.mp3 2144
- geonosian4.mp3 2144
- sullustan_victory1.mp3 2640
- sullustan_victory2.mp3 2640
- sullustan_victory3.mp3 2640
- sullustan_victory4.mp3 2640
- sullustan_yell1.mp3 2656
- sullustan_yell2.mp3 2656
- sullustan_yell3.mp3 2656
- sullustan_yell4.mp3 2656
- twilek_female_sound1.mp3 2640
- twilek_female_sound2.mp3 2640
- twilek_female_sound4.mp3 2640
- saber_swing1.mp3 1696
- saber_swing2.mp3 1696
- saber_swing3.mp3 1696
- saber_swing4.mp3 1696
- saber_swing5.mp3 1696
- saber_swing6.mp3 1696
- deflector_shield.mp3 850
- deflector_shield_hit.mp3 2576
- E5-blaster.mp3 1616
- rvnshn_DH17.mp3 1616
- rvnshn_westar.mp3 1616
- vader_breath.mp3 1554
- swc_hangar_siren.mp3 1074
- swc_hangar_hutt.mp3 2577
- swc_hangar_imperial.mp3 2577
- swc_hangar_mandalorian.mp3 2577
- swc_hangar_neutral.mp3 2577
- swc_hangar_rebel.mp3 2577
- swc_hangar_sith.mp3 2577
- swc_hangar_wookie.mp3 2577
- swc_hangar_clones.mp3 2577
- swc_hangar_trandoshan.mp3 2577
- swc_neutral_death_1.mp3 2577
- swc_neutral_death_2.mp3 2577
- swc_neutral_death_3.mp3 2577
- swc_neutral_deployed_1.mp3 2577
- swc_neutral_deployed_2.mp3 2577
- swc_neutral_deployed_3.mp3 2577
- swc_neutral_victory_1.mp3 2577
- swc_neutral_victory_2.mp3 2577
- swc_neutral_fired_1.mp3 2577
- swc_neutral_fired_2.mp3 2577
- swc_neutral_player25_1.mp3 2577
- swc_neutral_player25_2.mp3 2577
- swc_neutral_player50_1.mp3 2577
- swc_neutral_player50_2.mp3 2577
- swc_neutral_enemy25_1.mp3 2577
- swc_neutral_enemy50_1.mp3 2577
- swc_neutral_enemy50_2.mp3 2577
- swc_neutral_enemy50_3.mp3 2577
- swc_empire_death_1.mp3 2577
- swc_empire_death_2.mp3 2577
- swc_empire_death_3.mp3 2577
- swc_empire_deployed_1.mp3 2577
- swc_empire_deployed_2.mp3 2577
- swc_empire_deployed_3.mp3 2577
- swc_empire_deployed_4.mp3 2577
- swc_empire_victory_1.mp3 2577
- swc_empire_victory_2.mp3 2577
- swc_empire_victory_3.mp3 2577
- swc_empire_fired_1.mp3 2577
- swc_empire_player25_1.mp3 2577
- swc_empire_player25_2.mp3 2577
- swc_empire_player25_3.mp3 2577
- swc_empire_player50_1.mp3 2577
- swc_empire_player50_2.mp3 2577
- swc_empire_enemy25_1.mp3 2577
- swc_empire_enemy50_1.mp3 2577
- swc_empire_enemy50_2.mp3 2577
- swc_empire_enemy50_3.mp3 2577
- swc_rebel_death_1.mp3 2577
- swc_rebel_death_2.mp3 2577
- swc_rebel_death_3.mp3 2577
- swc_rebel_deployed_1.mp3 2577
- swc_rebel_deployed_2.mp3 2577
- swc_rebel_deployed_3.mp3 2577
- swc_rebel_victory_1.mp3 2577
- swc_rebel_victory_2.mp3 2577
- swc_rebel_victory_3.mp3 2577
- swc_rebel_fired_1.mp3 2577
- swc_rebel_fired_2.mp3 2577
- swc_rebel_player25_1.mp3 2577
- swc_rebel_player25_2.mp3 2577
- swc_rebel_player50_1.mp3 2577
- swc_rebel_player50_2.mp3 2577
- swc_rebel_enemy25_1.mp3 2577
- swc_rebel_enemy50_1.mp3 2577
- swc_rebel_enemy50_2.mp3 2577
- swc_rebel_enemy50_3.mp3 2577
- swc_hutt_death_1.mp3 2577
- swc_hutt_death_2.mp3 2577
- swc_hutt_death_3.mp3 2577
- swc_hutt_deployed_1.mp3 2577
- swc_hutt_deployed_2.mp3 2577
- swc_hutt_deployed_3.mp3 2577
- swc_hutt_victory_1.mp3 2577
- swc_hutt_victory_2.mp3 2577
- swc_hutt_victory_3.mp3 2577
- swc_hutt_fired_1.mp3 2577
- swc_hutt_fired_2.mp3 2577
- swc_hutt_player25_1.mp3 2577
- swc_hutt_player25_2.mp3 2577
- swc_hutt_player50_1.mp3 2577
- swc_hutt_player50_2.mp3 2577
- swc_hutt_enemy25_1.mp3 2577
- swc_hutt_enemy25_2.mp3 2577
- swc_hutt_enemy50_1.mp3 2577
+ jawa_death1.ogg 2688
+ jawa_death2.ogg 2688
+ jawa_death3.ogg 2688
+ jawa_chatter1.ogg 2144
+ jawa_confuse1.ogg 2144
+ jawa_confuse2.ogg 2144
+ jawa_pushed1.ogg 2144
+ jawa_pushed2.ogg 2144
+ jawa_pushed3.ogg 2144
+ jawa_chatter2.ogg 2128
+ jawa_anger1.ogg 2128
+ jawa_anger2.ogg 2128
+ jawa_anger3.ogg 2128
+ jawa_pain25.ogg 2672
+ jawa_pain50.ogg 2672
+ jawa_pain75.ogg 2672
+ jawa_pain100.ogg 2672
+ jawa_choke1.ogg 2672
+ jawa_victory1.ogg 2640
+ jawa_victory2.ogg 2640
+ jawa_victory3.ogg 2640
+ droid_pain25.ogg 2688
+ droid_pain50.ogg 2688
+ droid_pain75.ogg 2688
+ droid_talk01.ogg 2144
+ droid_talk02.ogg 2144
+ droid_talk03.ogg 2144
+ battledroid_pain25.ogg 2688
+ battledroid_pain50.ogg 2688
+ battledroid_pain75.ogg 2688
+ battledroid_talk01.ogg 2144
+ battledroid_talk02.ogg 2144
+ battledroid_talk03.ogg 2144
+ dbattleroid_talk01.ogg 2656
+ tusken_death1.ogg 2688
+ tusken_death2.ogg 2688
+ tusken_falling1.ogg 2688
+ tusken_jump1.ogg 2688
+ tusken_confuse2.ogg 2144
+ tusken_confuse3.ogg 2144
+ tusken_cover1.ogg 2144
+ tusken_cover2.ogg 2144
+ tusken_cover3.ogg 2144
+ tusken_confuse1.ogg 2128
+ tusken_land1.ogg 2128
+ tusken_look1.ogg 2128
+ tusken_look2.ogg 2128
+ tusken_outflank1.ogg 2128
+ tusken_outflank2.ogg 2128
+ tusken_pain25.ogg 2672
+ tusken_pain50.ogg 2672
+ tusken_gasp.ogg 2672
+ tusken_victory1.ogg 2640
+ tusken_taunt.ogg 2640
+ tusken_anger1.ogg 2656
+ tusken_anger2.ogg 2656
+ tusken_anger3.ogg 2656
+ tusken_pushed2.ogg 2656
+ tusken_pushed1.ogg 2656
+ trandoshan_death1.ogg 2688
+ trandoshan_death2.ogg 2688
+ trandoshan_death3.ogg 2688
+ trandoshan_choke1.ogg 2688
+ trandoshan_choke2.ogg 2688
+ trandoshan_choke3.ogg 2688
+ trandoshan_confuse1.ogg 2144
+ trandoshan_confuse2.ogg 2144
+ trandoshan_pushed1.ogg 2144
+ trandoshan_pushed2.ogg 2144
+ trandoshan_pushed3.ogg 2144
+ trandoshan_confuse3.ogg 2128
+ trandoshan_sight1.ogg 2128
+ trandoshan_sight2.ogg 2128
+ trandoshan_sight3.ogg 2128
+ trandoshan_chase1.ogg 2128
+ trandoshan_pain25.ogg 2672
+ trandoshan_pain50.ogg 2672
+ trandoshan_pain75.ogg 2672
+ trandoshan_pain100.ogg 2672
+ trandoshan_gasp.ogg 2672
+ trandoshan_victory1.ogg 2640
+ trandoshan_victory2.ogg 2640
+ trandoshan_victory3.ogg 2640
+ trandoshan_taunt.ogg 2640
+ trandoshan_look1.ogg 2640
+ trandoshan_look2.ogg 2640
+ trandoshan_chase2.ogg 2640
+ trandoshan_chase3.ogg 2640
+ trandoshan_anger1.ogg 2656
+ trandoshan_anger2.ogg 2656
+ trandoshan_anger3.ogg 2656
+ wookiee_death1.ogg 2688
+ wookiee_death2.ogg 2688
+ wookiee_death3.ogg 2688
+ wookiee_falling1.ogg 2688
+ wookiee_pushed1.ogg 2144
+ wookiee_pushed2.ogg 2144
+ wookiee_pushed3.ogg 2144
+ wookiee_jump1.ogg 2144
+ wookiee_land1.ogg 2144
+ wookiee_ffwarn.ogg 2128
+ wookiee_pain25.ogg 2672
+ wookiee_pain50.ogg 2672
+ wookiee_pain75.ogg 2672
+ wookiee_pain100.ogg 2672
+ wookiee_victory1.ogg 2640
+ wookiee_victory2.ogg 2640
+ wookiee_victory3.ogg 2640
+ wookiee_taunt1.ogg 2640
+ gamorrean_death1.ogg 2688
+ gamorrean_death2.ogg 2688
+ gamorrean_death3.ogg 2688
+ gamorrean_falling1.ogg 2688
+ gamorrean_taunt1.ogg 2144
+ gamorrean_taunt2.ogg 2144
+ gamorrean_gloat1.ogg 2144
+ gamorrean_anger2.ogg 2144
+ gamorrean_pain25.ogg 2672
+ gamorrean_pain50.ogg 2672
+ gamorrean_pain75.ogg 2672
+ gamorrean_pain100.ogg 2672
+ gamorrean_gasp.ogg 2672
+ gamorrean_land1.ogg 2672
+ gamorrean_victory1.ogg 2640
+ rodian_death1.ogg 2688
+ rodian_death2.ogg 2688
+ rodian_death3.ogg 2688
+ rodian_choke1.ogg 2688
+ rodian_choke2.ogg 2688
+ rodian_choke3.ogg 2688
+ rodian_pushed1.ogg 2144
+ rodian_pushed2.ogg 2144
+ rodian_pushed3.ogg 2144
+ rodian_gasp.ogg 2144
+ rodian_land1.ogg 2144
+ rodian_sound2.ogg 2144
+ rodian_confuse1.ogg 2128
+ rodian_confuse2.ogg 2128
+ rodian_confuse3.ogg 2128
+ rodian_jump1.ogg 2128
+ rodian_pain25.ogg 2672
+ rodian_pain50.ogg 2672
+ rodian_pain75.ogg 2672
+ rodian_pain100.ogg 2672
+ rodian_victory1.ogg 2640
+ rodian_victory2.ogg 2640
+ rodian_victory3.ogg 2640
+ rodian_cover1.ogg 2640
+ rodian_cover2.ogg 2640
+ rodian_cover3.ogg 2640
+ rodian_anger1.ogg 2656
+ rodian_anger2.ogg 2656
+ rodian_anger3.ogg 2656
+ geonosian_death.ogg 2688
+ geonosian1.ogg 2144
+ geonosian2.ogg 2144
+ geonosian3.ogg 2144
+ geonosian4.ogg 2144
+ sullustan_victory1.ogg 2640
+ sullustan_victory2.ogg 2640
+ sullustan_victory3.ogg 2640
+ sullustan_victory4.ogg 2640
+ sullustan_yell1.ogg 2656
+ sullustan_yell2.ogg 2656
+ sullustan_yell3.ogg 2656
+ sullustan_yell4.ogg 2656
+ twilek_female_sound1.ogg 2640
+ twilek_female_sound2.ogg 2640
+ twilek_female_sound4.ogg 2640
+ saber_swing1.ogg 1696
+ saber_swing2.ogg 1696
+ saber_swing3.ogg 1696
+ saber_swing4.ogg 1696
+ saber_swing5.ogg 1696
+ saber_swing6.ogg 1696
+ deflector_shield.ogg 850
+ deflector_shield_hit.ogg 2576
+ E5-blaster.ogg 1616
+ rvnshn_DH17.ogg 1616
+ rvnshn_westar.ogg 1616
+ vader_breath.ogg 1554
+ swc_hangar_siren.ogg 1074
+ swc_hangar_hutt.ogg 2577
+ swc_hangar_imperial.ogg 2577
+ swc_hangar_mandalorian.ogg 2577
+ swc_hangar_neutral.ogg 2577
+ swc_hangar_rebel.ogg 2577
+ swc_hangar_sith.ogg 2577
+ swc_hangar_wookie.ogg 2577
+ swc_hangar_clones.ogg 2577
+ swc_hangar_trandoshan.ogg 2577
+ swc_neutral_death_1.ogg 2577
+ swc_neutral_death_2.ogg 2577
+ swc_neutral_death_3.ogg 2577
+ swc_neutral_deployed_1.ogg 2577
+ swc_neutral_deployed_2.ogg 2577
+ swc_neutral_deployed_3.ogg 2577
+ swc_neutral_victory_1.ogg 2577
+ swc_neutral_victory_2.ogg 2577
+ swc_neutral_fired_1.ogg 2577
+ swc_neutral_fired_2.ogg 2577
+ swc_neutral_player25_1.ogg 2577
+ swc_neutral_player25_2.ogg 2577
+ swc_neutral_player50_1.ogg 2577
+ swc_neutral_player50_2.ogg 2577
+ swc_neutral_enemy25_1.ogg 2577
+ swc_neutral_enemy50_1.ogg 2577
+ swc_neutral_enemy50_2.ogg 2577
+ swc_neutral_enemy50_3.ogg 2577
+ swc_empire_death_1.ogg 2577
+ swc_empire_death_2.ogg 2577
+ swc_empire_death_3.ogg 2577
+ swc_empire_deployed_1.ogg 2577
+ swc_empire_deployed_2.ogg 2577
+ swc_empire_deployed_3.ogg 2577
+ swc_empire_deployed_4.ogg 2577
+ swc_empire_victory_1.ogg 2577
+ swc_empire_victory_2.ogg 2577
+ swc_empire_victory_3.ogg 2577
+ swc_empire_fired_1.ogg 2577
+ swc_empire_player25_1.ogg 2577
+ swc_empire_player25_2.ogg 2577
+ swc_empire_player25_3.ogg 2577
+ swc_empire_player50_1.ogg 2577
+ swc_empire_player50_2.ogg 2577
+ swc_empire_enemy25_1.ogg 2577
+ swc_empire_enemy50_1.ogg 2577
+ swc_empire_enemy50_2.ogg 2577
+ swc_empire_enemy50_3.ogg 2577
+ swc_rebel_death_1.ogg 2577
+ swc_rebel_death_2.ogg 2577
+ swc_rebel_death_3.ogg 2577
+ swc_rebel_deployed_1.ogg 2577
+ swc_rebel_deployed_2.ogg 2577
+ swc_rebel_deployed_3.ogg 2577
+ swc_rebel_victory_1.ogg 2577
+ swc_rebel_victory_2.ogg 2577
+ swc_rebel_victory_3.ogg 2577
+ swc_rebel_fired_1.ogg 2577
+ swc_rebel_fired_2.ogg 2577
+ swc_rebel_player25_1.ogg 2577
+ swc_rebel_player25_2.ogg 2577
+ swc_rebel_player50_1.ogg 2577
+ swc_rebel_player50_2.ogg 2577
+ swc_rebel_enemy25_1.ogg 2577
+ swc_rebel_enemy50_1.ogg 2577
+ swc_rebel_enemy50_2.ogg 2577
+ swc_rebel_enemy50_3.ogg 2577
+ swc_hutt_death_1.ogg 2577
+ swc_hutt_death_2.ogg 2577
+ swc_hutt_death_3.ogg 2577
+ swc_hutt_deployed_1.ogg 2577
+ swc_hutt_deployed_2.ogg 2577
+ swc_hutt_deployed_3.ogg 2577
+ swc_hutt_victory_1.ogg 2577
+ swc_hutt_victory_2.ogg 2577
+ swc_hutt_victory_3.ogg 2577
+ swc_hutt_fired_1.ogg 2577
+ swc_hutt_fired_2.ogg 2577
+ swc_hutt_player25_1.ogg 2577
+ swc_hutt_player25_2.ogg 2577
+ swc_hutt_player50_1.ogg 2577
+ swc_hutt_player50_2.ogg 2577
+ swc_hutt_enemy25_1.ogg 2577
+ swc_hutt_enemy25_2.ogg 2577
+ swc_hutt_enemy50_1.ogg 2577
 320
 snd_click 257 1 0 
 snd_tutorial_1 1793 1 1 

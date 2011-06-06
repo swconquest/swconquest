@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1324
+ 1330
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3341,6 +3341,12 @@ spr_corellia_building_3 0 0 corellia_building_3 0 0
 spr_corellia_building_4 0 0 corellia_building_4 0 0
 
 
+spr_corellia_road_curve 0 0 corellia_road_curve bo_corellia_road_curve 0
+
+
+spr_corellia_road_straight 0 0 corellia_road_straight bo_corellia_road_straight 0
+
+
 spr_coruscant1 0 0 coruscant1 0 0
 
 
@@ -3383,6 +3389,18 @@ spr_christophsis_buiding_1 0 0 christophsis_buiding_1 0 0
 spr_christophsis_buiding_2 0 0 christophsis_buiding_2 0 0
 
 
+spr_christophisis_bridge_cross 0 0 christophisis_bridge_cross bo_christophisis_bridge_cross 0
+
+
+spr_christophisis_bridge_end 0 0 christophisis_bridge_end bo_christophisis_bridge_end 0
+
+
+spr_christophisis_bridge_straight 0 0 christophisis_bridge_straight bo_christophisis_bridge_straight 0
+
+
+spr_christophisis_hex 0 0 christophisis_hex 0 0
+
+
 spr_felucia_flower_1 0 0 felucia_flower_1 0 0
 
 
@@ -3404,22 +3422,22 @@ spr_felucia_flower_6 0 0 felucia_flower_6 0 0
 spr_felucia_flower_7 0 0 felucia_flower_7 0 0
 
 
-spr_felucia_fungus_1 0 0 felucia_fungus_1 0 0
+spr_felucia_fungus_1 0 0 felucia_fungus_1 bo_felucia_fungus_1 0
 
 
-spr_felucia_fungus_2 0 0 felucia_fungus_2 0 0
+spr_felucia_fungus_2 0 0 felucia_fungus_2 bo_felucia_fungus_2 0
 
 
-spr_felucia_fungus_3 0 0 felucia_fungus_3 0 0
+spr_felucia_fungus_3 0 0 felucia_fungus_3 bo_felucia_fungus_3 0
 
 
-spr_felucia_fungus_4 0 0 felucia_fungus_4 0 0
+spr_felucia_fungus_4 0 0 felucia_fungus_4 bo_felucia_fungus_4 0
 
 
-spr_felucia_fungus_5 0 0 felucia_fungus_5 0 0
+spr_felucia_fungus_5 0 0 felucia_fungus_5 bo_felucia_fungus_5 0
 
 
-spr_felucia_fungus_6 0 0 felucia_fungus_6 0 0
+spr_felucia_fungus_6 0 0 felucia_fungus_6 bo_felucia_fungus_6 0
 
 
 spr_Naboo_house_1 0 0 Naboo_house_1 bo_Naboo_house_1 0
