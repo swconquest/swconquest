@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1330
+ 1337
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -769,6 +769,18 @@ spr_sw_poster_random_generic_3 0 0 sw_poster_i bo_sw_poster_a 0
 
 
 spr_sw_poster_random_generic_4 0 0 sw_poster_i bo_sw_poster_a 0
+
+
+spr_swc_junk_a 0 0 swc_junk_a bo_swc_junk_a 0
+
+
+spr_swc_junk_b 0 0 swc_junk_b bo_swc_junk_b 0
+
+
+spr_swc_junk_c 0 0 swc_junk_c bo_swc_junk_c 0
+
+
+spr_swc_shop 0 0 swc_shop bo_swc_shop 0
 
 
 spr_sw_poster_a 0 0 sw_poster_a bo_sw_poster_a 0
@@ -3396,6 +3408,15 @@ spr_christophisis_bridge_end 0 0 christophisis_bridge_end bo_christophisis_bridg
 
 
 spr_christophisis_bridge_straight 0 0 christophisis_bridge_straight bo_christophisis_bridge_straight 0
+
+
+spr_christophisis_bridge_small 0 0 christophisis_bridge_small bo_christophisis_bridge_small 0
+
+
+spr_christophisis_bridge_small_pier 0 0 christophisis_bridge_small_pier bo_christophisis_bridge_small_pier 0
+
+
+spr_christophisis_stairs 0 0 christophisis_stairs bo_christophisis_stairs 0
 
 
 spr_christophisis_hex 0 0 christophisis_hex 0 0
