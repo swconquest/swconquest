@@ -343,7 +343,7 @@ scn_mainplanet_15_center mainplanet_15_center 256 none none 0.000000 0.000000 12
 scn_mainplanet_16_center mainplanet_16_center 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  899 
- outer_terrain_plain 
+ outer_terrain_city 
 scn_mainplanet_17_center mainplanet_17_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000020045abc000308c4000029d9000033bd000009b9 
   0 
   1  900 
@@ -367,7 +367,7 @@ scn_mainplanet_21_center mainplanet_21_center 256 none none 0.000000 0.000000 22
 scn_mainplanet_22_center mainplanet_22_center 256 none none 0.000000 0.000000 220.000000 220.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  904 
- 0 
+ outer_terrain_city 
 scn_mainplanet_23_center mainplanet_23_center 256 none none 0.000000 0.000000 240.000000 240.000000 -8.000000 0x00000040400681000a46298a003702000051a10000512f00 
   0 
   0 
