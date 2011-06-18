@@ -1,5 +1,5 @@
 itemsfile version 2
-905
+903
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -693,7 +693,7 @@ itemsfile version 2
  itm_imperial_royal_guard_boots Imperial_Royal_Guard_Boots Imperial_Royal_Guard_Boots 1  imperial_royal_guard_boots 0  536936462 0 140 123731968 2.000000 50 0 0 16 0 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_boots Imperial_Stormtrooper_Boots Imperial_Stormtrooper_Boots 1  stormtrooper_boots 0  536936462 0 210 704643236 2.000000 50 0 0 16 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_boots Imperial_Stormtrooper_Boots Imperial_Stormtrooper_Boots 1  Stormtrooper_legs_L 0  536936462 0 210 704643236 2.000000 50 0 0 16 0 0 0 0 0 0 0 0
 0
 
  itm_imperial_scout_trooper_boots Imperial_Scout_Trooper_Boots Imperial_Scout_Trooper_Boots 1  scoutboots 0  536936462 0 210 704643236 2.000000 50 0 0 16 0 0 0 0 0 0 0 0
@@ -816,7 +816,7 @@ itemsfile version 2
  itm_skiff_guard_helmet Skiff_Guard_Helmet Skiff_Guard_Helmet 1  skiffhelm 0  536936460 0 150 704643236 2.000000 60 12 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_helmet Imperial_Stormtrooper_Helmet Imperial_Stormtrooper_Helmet 1  stormtrooper_helmet 0  2684420108 0 190 704643236 1.000000 100 14 0 0 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_helmet Imperial_Stormtrooper_Helmet Imperial_Stormtrooper_Helmet 1  Stormtrooper_helm 0  2684420108 0 190 704643236 1.000000 100 14 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_imperial_pilot_helmet Imperial_Pilot_Helmet Imperial_Pilot_Helmet 1  tiepilot 0  2684420108 0 170 704643236 1.000000 60 12 0 0 0 0 0 0 0 0 0 0
@@ -1212,7 +1212,7 @@ itemsfile version 2
  itm_rebel_sniper_armor Rebel_Sniper_Armor Rebel_Sniper_Armor 1  republic_commando_armor_b 0  553713677 0 480 123731968 10.000000 60 0 42 18 0 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_armor Imperial_Stormtrooper_Armor Imperial_Stormtrooper_Armor 1  stormtrooper_armor 0  553713677 0 720 704643236 10.000000 100 0 42 18 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_armor Imperial_Stormtrooper_Armor Imperial_Stormtrooper_Armor 1  Stormtrooper_body 0  553713677 0 720 704643236 10.000000 100 0 42 18 0 0 0 0 0 0 0 0
 0
 
  itm_shadow_stormtrooper_armor Shadow_Stormtrooper_Armor Shadow_Stormtrooper_Armor 1  shadow_stormtrooper_armor 0  553713677 0 780 704643236 8.000000 60 0 44 20 0 0 0 0 0 0 0 0
@@ -2813,12 +2813,6 @@ itemsfile version 2
 0
 
  itm_arena_speeder Civilian_74-Z_Speeder_Bike Civilian_74-Z_Speeder_Bike 1  speeder_a 0  4097 0 1000 0 0.000000 100 0 0 0 0 30 45 50 0 0 15 0
-0
-
- itm_bf2_stormie bf2_stormie bf2_stormie 1  bf2_stormtrooper_rigged 0  2701135885 0 3000 0 55.000000 100 30 70 30 0 0 0 0 0 0 0 0
-0
-
- itm_tfu_stormie tfu_stormie tfu_stormie 1  tfu_stormtrooper 0  2701135885 0 3000 0 55.000000 100 30 70 30 0 0 0 0 0 0 0 0
 0
 
  itm_items_end INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528

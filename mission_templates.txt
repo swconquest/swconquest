@@ -1863,7 +1863,7 @@ You_lead_your_men_to_battle.
 0.352000 0.000000 100000000.000000  0  1 1 2 936748722493063616 -1 
 
 
-mst_trade_merchants trade_merchants 0  -1
+mst_trade_federation trade_federation 0  -1
 Visit_Merchants_at_Trade_Federation 
 
 40 0 4100 256 0 1 7  250 343 224 655 790 867 749 
