@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1337
+ 1339
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -322,6 +322,12 @@ spr_sw_Yavin_Wall_Big_Hole_2 0 0 sw_Yavin_Wall_Big_Hole_2 bo_sw_Yavin_Wall_Big_H
 
 
 spr_sw_Yavin_Wall_Big_Hub 0 0 sw_Yavin_Wall_Big_Hub bo_sw_Yavin_Wall_Big_Hub 0
+
+
+spr_sw_Yavin_Stairs_Large 0 0 sw_Yavin_Stairs_Large bo_sw_Yavin_Stairs_Large 0
+
+
+spr_sw_Yavin_Great_Temple 0 0 sw_Yavin_Great_Temple bo_sw_Yavin_Great_Temple 0
 
 
 spr_sw_hoth_bunker 0 0 hoth_bunker bo_hoth_bunker 0
