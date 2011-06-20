@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1339
+ 1342
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3345,6 +3345,15 @@ spr_bespin_platform_pillar_1 0 0 bespin_platform_pillar_1 bo_bespin_platform_pil
 
 
 spr_bespin_platform_pillar_2 0 0 bespin_platform_pillar_2 bo_bespin_platform_pillar_2 0
+
+
+spr_cato_neimodia_bridge_1 0 0 cato_neimodia_bridge_1 bo_cato_neimodia_bridge_1 0
+
+
+spr_cato_neimodia_bridge_2 0 0 cato_neimodia_bridge_2 bo_cato_neimodia_bridge_2 0
+
+
+spr_cato_neimodia_building_1 0 0 cato_neimodia_building_1 bo_cato_neimodia_building_1 0
 
 
 spr_corellia_building_1 0 0 corellia_building_1 0 0
