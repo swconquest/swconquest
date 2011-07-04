@@ -1,0 +1,27 @@
+# Add a line per object for every new prop that needs to be wired to the 
+# module system...   This file won't be distributed.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# [!] You can Ctrl+C Ctrl+V from the OpenBRF's resource list. Use +bo to add a collision object.
+#     Objects will be added automagically in my next commit. So ty to be exact.
+
+
+#-> Yiyang
+
+cato_neimodia_door
+cato_neimodia_building_arch_1
+cato_neimodia_building_arch_2
+cato_neimodia_mountain_arch_1
+cato_neimodia_building_arch_main
+cato_neimodia_mountain_cliff
+cato_neimodia_platform_1+bo
+cato_neimodia_bridge_stump+bo
+cato_neimodia_door+bo
+
+deathstar_parts_1+bo
+virtual_twilek_dancer_hologram
+
+#-> Vector
+
+taris_statue_base_1+bo
+taris_statue_base_2+bo
+taris_statue_1+bo
