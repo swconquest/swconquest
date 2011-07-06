@@ -17,8 +17,11 @@ cato_neimodia_platform_1+bo
 cato_neimodia_bridge_stump+bo
 cato_neimodia_door+bo
 
-deathstar_parts_1+bo
-virtual_twilek_dancer_hologram
+deathstar_parts_1_doorframe+bo
+deathstar_parts_1_door+bo
+deathstar_parts_2_door+bo
+deathstar_parts_2_corridor+bo
+virtual_twilek_dancer_hologram+bo
 
 #-> Vector
 
