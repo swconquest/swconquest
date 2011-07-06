@@ -25,3 +25,13 @@ virtual_twilek_dancer_hologram
 taris_statue_base_1+bo
 taris_statue_base_2+bo
 taris_statue_1+bo
+Container_1+bo
+Container_2+bo
+Container_3+bo
+Container_4+bo
+Container_5+bo
+Container_6+bo
+Container_7+bo
+Container_8+bo
+Container_9+bo
+Container_10+bo
