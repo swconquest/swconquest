@@ -7,43 +7,5 @@
 
 #-> Yiyang
 
-#[+] cato_neimodia_door w/o col
-#[+] cato_neimodia_building_arch_1 w/o col
-#[+] cato_neimodia_building_arch_2 w/o col
-#[+] cato_neimodia_mountain_arch_1 w/o col
-#[+] cato_neimodia_building_arch_main w/o col
-#[+] cato_neimodia_mountain_cliff w/o col
-#[+] cato_neimodia_platform_1
-#[+] cato_neimodia_bridge_stump
-#[+] cato_neimodia_door
-
-
-#[+] Naboo_house_2+bo
-#[+] Naboo_house_7+bo
-#[+] Naboo_house_8+bo(bo_Naboo_house_7)
-#[+] Naboo_theedpalace_entrance+bo
-#[+] naboo_fence
-#[+] naboo_statue_guard_female+bo(bo_naboo_statue_guard)
-#[+] naboo_statue_guard_male+bo(bo_naboo_statue_guard)
-
-#[+] deathstar_parts_1_doorframe
-#[+] deathstar_parts_1_door
-#[+] deathstar_parts_2_door
-#[+] deathstar_parts_2_corridor
-#[+] virtual_twilek_dancer_hologram
 
 #-> Vector
-
-#[+] taris_statue_base_1
-#[+] taris_statue_base_2
-#[+] taris_statue_1
-#[+] Container_1
-#[+] Container_2
-#[+] Container_3
-#[+] Container_4
-#[+] Container_5
-#[+] Container_6
-#[+] Container_7
-#[+] Container_8
-#[+] Container_9
-#[+] Container_10

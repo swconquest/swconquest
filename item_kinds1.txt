@@ -258,7 +258,7 @@ itemsfile version 2
  itm_mujo_fruit Mujo_Fruit Mujo_Fruit 1  mujo_fruit 0  34144267 0 44 0 35.000000 110 40 0 0 0 0 0 0 0 100 0 0
 0
 
- itm_cheese Byss_cheese Byss_cheese 1  cheese_b 0  34144267 0 90 0 15.000000 110 40 0 0 0 0 0 0 0 60 0 0
+ itm_cheese christophsis_cheese christophsis_cheese 1  cheese_b 0  34144267 0 90 0 15.000000 110 40 0 0 0 0 0 0 0 60 0 0
 0
 
  itm_chicken Chicken Chicken 1  chicken_roasted 0  34078731 0 70 0 15.000000 110 40 0 0 0 0 0 0 0 100 0 0

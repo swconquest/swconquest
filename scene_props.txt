@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1369
+ 1376
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4138,6 +4138,27 @@ spr_Container_9 0 0 Container_9 bo_Container_9 0
 
 
 spr_Container_10 0 0 Container_10 bo_Container_10 0
+
+
+spr_Naboo_house_2 0 0 Naboo_house_2 bo_Naboo_house_2 0
+
+
+spr_Naboo_house_7 0 0 Naboo_house_7 bo_Naboo_house_7 0
+
+
+spr_Naboo_house_8 0 0 Naboo_house_8 bo_Naboo_house_7 0
+
+
+spr_Naboo_theedpalace_entrance 0 0 Naboo_theedpalace_entrance bo_Naboo_theedpalace_entrance 0
+
+
+spr_naboo_fence 0 0 naboo_fence 0 0
+
+
+spr_naboo_statue_guard_female 0 0 naboo_statue_guard_female bo_naboo_statue_guard 0
+
+
+spr_naboo_statue_guard_male 0 0 naboo_statue_guard_male bo_naboo_statue_guard 0
 
 
 spr_rm_end 0 0 0 0 0

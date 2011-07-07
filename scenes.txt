@@ -284,7 +284,7 @@ scn_mainplanet_mandalore_center mainplanet_mandalore_center 256 none none 0.0000
   0 
   1  884 
  outer_terrain_plain 
-scn_mainplanet_byss_center mainplanet_byss_center 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
+scn_mainplanet_christophsis_center mainplanet_christophsis_center 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  885 
  outer_terrain_plain 
@@ -392,7 +392,7 @@ scn_mainplanet_mandalore_castle mainplanet_mandalore_castle 1 imperial_office_gr
   1  100000 
   1  528 
  0 
-scn_mainplanet_byss_castle mainplanet_byss_castle 1 imperial_office_green bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_mainplanet_christophsis_castle mainplanet_christophsis_castle 1 imperial_office_green bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  529 
  0 
@@ -500,7 +500,7 @@ scn_mainplanet_mandalore_cantina mainplanet_mandalore_cantina 1 cantina_bar bo_c
   0 
   0 
  0 
-scn_mainplanet_byss_cantina mainplanet_byss_cantina 1 cantina_bar bo_cantina_bar -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_mainplanet_christophsis_cantina mainplanet_christophsis_cantina 1 cantina_bar bo_cantina_bar -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
@@ -608,7 +608,7 @@ scn_mainplanet_mandalore_store mainplanet_mandalore_store 1 sw_merchant_shop bo_
   1  100000 
   0 
  0 
-scn_mainplanet_byss_store mainplanet_byss_store 1 sw_merchant_shop bo_sw_merchant_shop -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_mainplanet_christophsis_store mainplanet_christophsis_store 1 sw_merchant_shop bo_sw_merchant_shop -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   0 
  0 
@@ -716,7 +716,7 @@ scn_mainplanet_mandalore_arena mainplanet_mandalore_arena 256 none none 0.000000
   0 
   0 
  outer_terrain_plain 
-scn_mainplanet_byss_arena mainplanet_byss_arena 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
+scn_mainplanet_christophsis_arena mainplanet_christophsis_arena 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
  outer_terrain_plain 
@@ -824,7 +824,7 @@ scn_mainplanet_mandalore_prison mainplanet_mandalore_prison 1 interior_prison_a 
   0 
   0 
  0 
-scn_mainplanet_byss_prison mainplanet_byss_prison 1 interior_prison_b bo_interior_prison_b -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_mainplanet_christophsis_prison mainplanet_christophsis_prison 1 interior_prison_b bo_interior_prison_b -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
@@ -936,7 +936,7 @@ scn_mainplanet_mandalore_walls mainplanet_mandalore_walls 256 none none 0.000000
   0 
   0 
  outer_terrain_plain 
-scn_mainplanet_byss_walls mainplanet_byss_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
+scn_mainplanet_christophsis_walls mainplanet_christophsis_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
  outer_terrain_plain 
@@ -1040,7 +1040,7 @@ scn_mainplanet_mandalore_alley mainplanet_mandalore_alley 256 none none 0.000000
   0 
   0 
  outer_terrain_plain 
-scn_mainplanet_byss_alley mainplanet_byss_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+scn_mainplanet_christophsis_alley mainplanet_christophsis_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
  outer_terrain_plain 
@@ -1144,327 +1144,327 @@ scn_mainplanet_bespin_alley mainplanet_bespin_alley 256 none none 0.000000 0.000
   0 
   0 
  0 
-scn_spacestation_mandalore_exterior spacestation_mandalore_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029cb2000709c200003c9500004b9b00002f4d 
+scn_spacestation_1_exterior spacestation_1_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029cb2000709c200003c9500004b9b00002f4d 
   0 
   0 
  outer_terrain_plain 
-scn_spacestation_mandalore_interior spacestation_mandalore_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_1_interior spacestation_1_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  555 
  0 
-scn_spacestation_mandalore_prison spacestation_mandalore_prison 1 interior_prison_a bo_interior_prison_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_1_prison spacestation_1_prison 1 interior_prison_a bo_interior_prison_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_byss_exterior spacestation_byss_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_2_exterior spacestation_2_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_byss_interior spacestation_byss_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_2_interior spacestation_2_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  556 
  0 
-scn_spacestation_byss_prison spacestation_byss_prison 1 interior_prison_d bo_interior_prison_d -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_2_prison spacestation_2_prison 1 interior_prison_d bo_interior_prison_d -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_endor_exterior spacestation_endor_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_3_exterior spacestation_3_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_endor_interior spacestation_endor_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_3_interior spacestation_3_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  557 
  0 
-scn_spacestation_endor_prison spacestation_endor_prison 1 interior_prison_e bo_interior_prison_e -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_3_prison spacestation_3_prison 1 interior_prison_e bo_interior_prison_e -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_corellia_exterior spacestation_corellia_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029cb2000709c200003c9500004b9b00002f4d 
+scn_spacestation_4_exterior spacestation_4_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029cb2000709c200003c9500004b9b00002f4d 
   0 
   0 
  outer_terrain_plain 
-scn_spacestation_corellia_interior spacestation_corellia_interior 256 none none 0.000000 0.000000 100.000000 100.000000 -10.000000 0x0000000040000521000258960000350400006db600003191 
+scn_spacestation_4_interior spacestation_4_interior 256 none none 0.000000 0.000000 100.000000 100.000000 -10.000000 0x0000000040000521000258960000350400006db600003191 
   0 
   0 
  0 
-scn_spacestation_corellia_prison spacestation_corellia_prison 1 interior_prison_l bo_interior_prison_l -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_4_prison spacestation_4_prison 1 interior_prison_l bo_interior_prison_l -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_naboo_exterior spacestation_naboo_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_5_exterior spacestation_5_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_naboo_interior spacestation_naboo_interior 1 dshall bo_dshall -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_5_interior spacestation_5_interior 1 dshall bo_dshall -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  559 
  0 
-scn_spacestation_naboo_prison spacestation_naboo_prison 1 interior_prison_l bo_interior_prison_l -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_5_prison spacestation_5_prison 1 interior_prison_l bo_interior_prison_l -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_kessel_exterior spacestation_kessel_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_6_exterior spacestation_6_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_kessel_interior spacestation_kessel_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_6_interior spacestation_6_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  560 
  0 
-scn_spacestation_kessel_prison spacestation_kessel_prison 1 interior_prison_j bo_interior_prison_j -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_6_prison spacestation_6_prison 1 interior_prison_j bo_interior_prison_j -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_dantooine_exterior spacestation_dantooine_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_7_exterior spacestation_7_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_dantooine_interior spacestation_dantooine_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_7_interior spacestation_7_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  561 
  0 
-scn_spacestation_dantooine_prison spacestation_dantooine_prison 1 interior_prison_i bo_interior_prison_i -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_7_prison spacestation_7_prison 1 interior_prison_i bo_interior_prison_i -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_geonosis_exterior spacestation_geonosis_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_8_exterior spacestation_8_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_geonosis_interior spacestation_geonosis_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_8_interior spacestation_8_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  562 
  0 
-scn_spacestation_geonosis_prison spacestation_geonosis_prison 1 interior_prison_e bo_interior_prison_e -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_8_prison spacestation_8_prison 1 interior_prison_e bo_interior_prison_e -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_mon_cal_exterior spacestation_mon_cal_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_9_exterior spacestation_9_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_mon_cal_interior spacestation_mon_cal_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_9_interior spacestation_9_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  563 
  0 
-scn_spacestation_mon_cal_prison spacestation_mon_cal_prison 1 interior_prison_d bo_interior_prison_d -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_9_prison spacestation_9_prison 1 interior_prison_d bo_interior_prison_d -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_kashyyyk_exterior spacestation_kashyyyk_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_10_exterior spacestation_10_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_kashyyyk_interior spacestation_kashyyyk_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_10_interior spacestation_10_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  564 
  0 
-scn_spacestation_kashyyyk_prison spacestation_kashyyyk_prison 1 interior_prison_k bo_interior_prison_k -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_10_prison spacestation_10_prison 1 interior_prison_k bo_interior_prison_k -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_hoth_exterior spacestation_hoth_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_11_exterior spacestation_11_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_hoth_interior spacestation_hoth_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_11_interior spacestation_11_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  565 
  0 
-scn_spacestation_hoth_prison spacestation_hoth_prison 1 interior_prison_k bo_interior_prison_k -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_11_prison spacestation_11_prison 1 interior_prison_k bo_interior_prison_k -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_gamorr_exterior spacestation_gamorr_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_12_exterior spacestation_12_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_gamorr_interior spacestation_gamorr_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_12_interior spacestation_12_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  566 
  0 
-scn_spacestation_gamorr_prison spacestation_gamorr_prison 1 interior_prison_i bo_interior_prison_i -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_12_prison spacestation_12_prison 1 interior_prison_i bo_interior_prison_i -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_yavin_iv_exterior spacestation_yavin_iv_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_13_exterior spacestation_13_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_yavin_iv_interior spacestation_yavin_iv_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_13_interior spacestation_13_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  567 
  0 
-scn_spacestation_yavin_iv_prison spacestation_yavin_iv_prison 1 interior_prison_j bo_interior_prison_j -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_13_prison spacestation_13_prison 1 interior_prison_j bo_interior_prison_j -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_tatooine_exterior spacestation_tatooine_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_14_exterior spacestation_14_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_tatooine_interior spacestation_tatooine_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_14_interior spacestation_14_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  568 
  0 
-scn_spacestation_tatooine_prison spacestation_tatooine_prison 1 interior_prison_m bo_interior_prison_m -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_14_prison spacestation_14_prison 1 interior_prison_m bo_interior_prison_m -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_reecee_exterior spacestation_reecee_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_15_exterior spacestation_15_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_reecee_interior spacestation_reecee_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_15_interior spacestation_15_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  569 
  0 
-scn_spacestation_reecee_prison spacestation_reecee_prison 1 interior_prison_a bo_interior_prison_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_15_prison spacestation_15_prison 1 interior_prison_a bo_interior_prison_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_coruscant_exterior spacestation_coruscant_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_16_exterior spacestation_16_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_coruscant_interior spacestation_coruscant_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_16_interior spacestation_16_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  570 
  0 
-scn_spacestation_coruscant_prison spacestation_coruscant_prison 1 interior_prison_l bo_interior_prison_l -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_16_prison spacestation_16_prison 1 interior_prison_l bo_interior_prison_l -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_ryloth_exterior spacestation_ryloth_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_17_exterior spacestation_17_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_ryloth_interior spacestation_ryloth_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_17_interior spacestation_17_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  571 
  0 
-scn_spacestation_ryloth_prison spacestation_ryloth_prison 1 interior_prison_a bo_interior_prison_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_17_prison spacestation_17_prison 1 interior_prison_a bo_interior_prison_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_nalhutta_exterior spacestation_nalhutta_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_18_exterior spacestation_18_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -800.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_nalhutta_interior spacestation_nalhutta_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_18_interior spacestation_18_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  572 
  0 
-scn_spacestation_nalhutta_prison spacestation_nalhutta_prison 1 interior_prison_k bo_interior_prison_k -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_18_prison spacestation_18_prison 1 interior_prison_k bo_interior_prison_k -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_bothawui_exterior spacestation_bothawui_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029cb2000709c200003c9500004b9b00002f4d 
+scn_spacestation_19_exterior spacestation_19_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029cb2000709c200003c9500004b9b00002f4d 
   0 
   0 
  outer_terrain_plain 
-scn_spacestation_bothawui_interior spacestation_bothawui_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_19_interior spacestation_19_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  573 
  0 
-scn_spacestation_bothawui_prison spacestation_bothawui_prison 1 interior_prison_e bo_interior_prison_e -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_19_prison spacestation_19_prison 1 interior_prison_e bo_interior_prison_e -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_mustafar_exterior spacestation_mustafar_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_20_exterior spacestation_20_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_mustafar_interior spacestation_mustafar_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_20_interior spacestation_20_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  574 
  0 
-scn_spacestation_mustafar_prison spacestation_mustafar_prison 1 interior_prison_d bo_interior_prison_d -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_20_prison spacestation_20_prison 1 interior_prison_d bo_interior_prison_d -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_kamino_exterior spacestation_kamino_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_21_exterior spacestation_21_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_kamino_interior spacestation_kamino_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_21_interior spacestation_21_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  575 
  0 
-scn_spacestation_kamino_prison spacestation_kamino_prison 1 interior_prison_d bo_interior_prison_d -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_21_prison spacestation_21_prison 1 interior_prison_d bo_interior_prison_d -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_taris_exterior spacestation_taris_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_22_exterior spacestation_22_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_taris_interior spacestation_taris_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_22_interior spacestation_22_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  576 
  0 
-scn_spacestation_taris_prison spacestation_taris_prison 1 interior_prison_i bo_interior_prison_i -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_22_prison spacestation_22_prison 1 interior_prison_i bo_interior_prison_i -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_raxusprime_exterior spacestation_raxusprime_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_23_exterior spacestation_23_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_raxusprime_interior spacestation_raxusprime_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_23_interior spacestation_23_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  577 
  0 
-scn_spacestation_raxusprime_prison spacestation_raxusprime_prison 1 interior_prison_b bo_interior_prison_b -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_23_prison spacestation_23_prison 1 interior_prison_b bo_interior_prison_b -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_sarapin_exterior spacestation_sarapin_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_24_exterior spacestation_24_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000650000500400709c2000000000000000000000000 
   0 
   0 
  0 
-scn_spacestation_sarapin_interior spacestation_sarapin_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_24_interior spacestation_24_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  578 
  0 
-scn_spacestation_sarapin_prison spacestation_sarapin_prison 1 interior_prison_f bo_interior_prison_f -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_24_prison spacestation_24_prison 1 interior_prison_f bo_interior_prison_f -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_hypori_exterior spacestation_hypori_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_25_exterior spacestation_25_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_hypori_interior spacestation_hypori_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_25_interior spacestation_25_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  579 
  0 
-scn_spacestation_hypori_prison spacestation_hypori_prison 1 interior_prison_a bo_interior_prison_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_25_prison spacestation_25_prison 1 interior_prison_a bo_interior_prison_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_felucia_exterior spacestation_felucia_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_26_exterior spacestation_26_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_felucia_interior spacestation_felucia_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_26_interior spacestation_26_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  580 
  0 
-scn_spacestation_felucia_prison spacestation_felucia_prison 1 interior_prison_h bo_interior_prison_h -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_26_prison spacestation_26_prison 1 interior_prison_h bo_interior_prison_h -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_bespin_exterior spacestation_bespin_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_27_exterior spacestation_27_exterior 1 bunker_a bo_bunker_a -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
-scn_spacestation_bespin_interior spacestation_bespin_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_27_interior spacestation_27_interior 1 imperial_office_grey bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  581 
  0 
-scn_spacestation_bespin_prison spacestation_bespin_prison 1 interior_prison_i bo_interior_prison_i -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_spacestation_27_prison spacestation_27_prison 1 interior_prison_i bo_interior_prison_i -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
@@ -2032,7 +2032,7 @@ scn_mainplanet_mandalore_land_battle mainplanet_mandalore_land_battle 256 none n
   0 
   0 
  outer_terrain_plain 
-scn_mainplanet_byss_land_battle mainplanet_byss_land_battle 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000300005000006d9b9000052560000620000004c92 
+scn_mainplanet_christophsis_land_battle mainplanet_christophsis_land_battle 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000300005000006d9b9000052560000620000004c92 
   0 
   0 
  outer_terrain_plain 
