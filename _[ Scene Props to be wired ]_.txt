@@ -17,6 +17,15 @@
 #[+] cato_neimodia_bridge_stump
 #[+] cato_neimodia_door
 
+
+#[+] Naboo_house_2+bo
+#[+] Naboo_house_7+bo
+#[+] Naboo_house_8+bo(bo_Naboo_house_7)
+#[+] Naboo_theedpalace_entrance+bo
+#[+] naboo_fence
+#[+] naboo_statue_guard_female+bo(bo_naboo_statue_guard)
+#[+] naboo_statue_guard_male+bo(bo_naboo_statue_guard)
+
 #[+] deathstar_parts_1_doorframe
 #[+] deathstar_parts_1_door
 #[+] deathstar_parts_2_door
