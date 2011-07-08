@@ -3476,85 +3476,85 @@ spr_felucia_fungus_5 0 0 felucia_fungus_5 bo_felucia_fungus_5 0
 spr_felucia_fungus_6 0 0 felucia_fungus_6 bo_felucia_fungus_6 0
 
 
-spr_Naboo_house_1 0 0 Naboo_house_1 bo_Naboo_house_1 0
+spr_Naboo_house_1 0 0 naboo_house_1 bo_naboo_house_1 0
 
 
-spr_Naboo_house_3 0 0 Naboo_house_3 bo_Naboo_house_3 0
+spr_Naboo_house_3 0 0 naboo_house_3 bo_naboo_house_3 0
 
 
-spr_Naboo_house_4 0 0 Naboo_house_4 0 0
+spr_Naboo_house_4 0 0 naboo_house_4 0 0
 
 
-spr_naboo_house_5 0 0 naboo_house_5 0 0
+spr_naboo_house_5 0 0 naboo_house_5 bo_naboo_house_5 0
 
 
-spr_Naboo_theedpalace_1 0 0 Naboo_theedpalace_1 0 0
+spr_Naboo_theedpalace_1 0 0 naboo_theedpalace_1 0 0
 
 
-spr_Naboo_theedpalace_2 0 0 Naboo_theedpalace_2 0 0
+spr_Naboo_theedpalace_2 0 0 naboo_theedpalace_2 0 0
 
 
-spr_Naboo_theedpalace_3 0 0 Naboo_theedpalace_3 0 0
+spr_Naboo_theedpalace_3 0 0 naboo_theedpalace_3 0 0
 
 
-spr_Naboo_theedpalace_4 0 0 Naboo_theedpalace_4 0 0
+spr_Naboo_theedpalace_4 0 0 naboo_theedpalace_4 0 0
 
 
-spr_Naboo_theedpalace_5 0 0 Naboo_theedpalace_5 0 0
+spr_Naboo_theedpalace_5 0 0 naboo_theedpalace_5 0 0
 
 
-spr_Naboo_theedpalace_6 0 0 Naboo_theedpalace_6 0 0
+spr_Naboo_theedpalace_6 0 0 naboo_theedpalace_6 0 0
 
 
-spr_Naboo_theedpalace_7 0 0 Naboo_theedpalace_7 0 0
+spr_Naboo_theedpalace_7 0 0 naboo_theedpalace_7 0 0
 
 
-spr_Naboo_theedpalace_8 0 0 Naboo_theedpalace_8 0 0
+spr_Naboo_theedpalace_8 0 0 naboo_theedpalace_8 0 0
 
 
-spr_Naboo_theedpalace_9 0 0 Naboo_theedpalace_9 0 0
+spr_Naboo_theedpalace_9 0 0 naboo_theedpalace_9 0 0
 
 
-spr_Naboo_theedpalace_10 0 0 Naboo_theedpalace_10 0 0
+spr_Naboo_theedpalace_10 0 0 naboo_theedpalace_10 0 0
 
 
-spr_Naboo_theedpalace_11 0 0 Naboo_theedpalace_11 0 0
+spr_Naboo_theedpalace_11 0 0 naboo_theedpalace_11 0 0
 
 
-spr_Naboo_theedpalace_12 0 0 Naboo_theedpalace_12 0 0
+spr_Naboo_theedpalace_12 0 0 naboo_theedpalace_12 0 0
 
 
-spr_Naboo_theedpalace_13 0 0 Naboo_theedpalace_13 0 0
+spr_Naboo_theedpalace_13 0 0 naboo_theedpalace_13 0 0
 
 
-spr_Naboo_theedpalace_14 0 0 Naboo_theedpalace_14 0 0
+spr_Naboo_theedpalace_14 0 0 naboo_theedpalace_14 0 0
 
 
-spr_Naboo_theedpalace_15 0 0 Naboo_theedpalace_15 0 0
+spr_Naboo_theedpalace_15 0 0 naboo_theedpalace_15 0 0
 
 
-spr_Naboo_theedpalace_16 0 0 Naboo_theedpalace_16 0 0
+spr_Naboo_theedpalace_16 0 0 naboo_theedpalace_16 0 0
 
 
-spr_Naboo_theedpalace_17 0 0 Naboo_theedpalace_17 0 0
+spr_Naboo_theedpalace_17 0 0 naboo_theedpalace_17 0 0
 
 
-spr_Naboo_theedpalace_18 0 0 Naboo_theedpalace_18 0 0
+spr_Naboo_theedpalace_18 0 0 naboo_theedpalace_18 0 0
 
 
-spr_Naboo_theedpalace_19 0 0 Naboo_theedpalace_19 0 0
+spr_Naboo_theedpalace_19 0 0 naboo_theedpalace_19 0 0
 
 
-spr_Naboo_theedpalace_20 0 0 Naboo_theedpalace_20 0 0
+spr_Naboo_theedpalace_20 0 0 naboo_theedpalace_20 0 0
 
 
-spr_Naboo_theedpalace_21 0 0 Naboo_theedpalace_21 0 0
+spr_Naboo_theedpalace_21 0 0 naboo_theedpalace_21 0 0
 
 
-spr_Naboo_theedpalace_bridge 0 0 Naboo_theedpalace_bridge 0 0
+spr_Naboo_theedpalace_bridge 0 0 naboo_theedpalace_bridge 0 0
 
 
-spr_Naboo_column 0 0 Naboo_column 0 0
+spr_Naboo_column 0 0 naboo_column 0 0
 
 
 spr_naboo_arch_1 0 0 naboo_arch_1 0 0
@@ -3563,7 +3563,7 @@ spr_naboo_arch_1 0 0 naboo_arch_1 0 0
 spr_naboo_arch_2 0 0 naboo_arch_2 0 0
 
 
-spr_Naboo_cantina 0 0 Naboo_cantina 0 0
+spr_Naboo_cantina 0 0 naboo_cantina bo_naboo_cantina 0
 
 
 spr_moseisley_angle 0 0 moseisley_angle bo_moseisley_angle 0
@@ -4140,16 +4140,16 @@ spr_Container_9 0 0 Container_9 bo_Container_9 0
 spr_Container_10 0 0 Container_10 bo_Container_10 0
 
 
-spr_Naboo_house_2 0 0 Naboo_house_2 bo_Naboo_house_2 0
+spr_Naboo_house_2 0 0 naboo_house_2 bo_naboo_house_2 0
 
 
-spr_Naboo_house_7 0 0 Naboo_house_7 bo_Naboo_house_7 0
+spr_Naboo_house_7 0 0 naboo_house_7 bo_naboo_house_7 0
 
 
-spr_Naboo_house_8 0 0 Naboo_house_8 bo_Naboo_house_7 0
+spr_Naboo_house_8 0 0 naboo_house_8 bo_naboo_house_7 0
 
 
-spr_Naboo_theedpalace_entrance 0 0 Naboo_theedpalace_entrance bo_Naboo_theedpalace_entrance 0
+spr_Naboo_theedpalace_entrance 0 0 naboo_theedpalace_entrance bo_naboo_theedpalace_entrance 0
 
 
 spr_naboo_fence 0 0 naboo_fence 0 0
