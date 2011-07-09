@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1376
+ 1378
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4159,6 +4159,12 @@ spr_naboo_statue_guard_female 0 0 naboo_statue_guard_female bo_naboo_statue_guar
 
 
 spr_naboo_statue_guard_male 0 0 naboo_statue_guard_male bo_naboo_statue_guard 0
+
+
+spr_deathstar_parts_3_corridor 0 0 deathstar_parts_3_corridor bo_deathstar_parts_3_corridor 0
+
+
+spr_deathstar_parts_4_wall 0 0 deathstar_parts_4_wall bo_deathstar_parts_4_wall 0
 
 
 spr_rm_end 0 0 0 0 0
