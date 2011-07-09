@@ -7,5 +7,7 @@
 
 #-> Yiyang
 
+deathstar_parts_3_corridor+bo
+deathstar_parts_4_wall+bo
 
 #-> Vector
