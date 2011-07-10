@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1378
+ 1389
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3593,16 +3593,16 @@ spr_moseisley_building_1 0 0 moseisley_building_1 0 0
 spr_moseisley_building_2 0 0 moseisley_building_2 0 0
 
 
-spr_saleucami_plant_1 0 0 saleucami_plant_1 bo_saleucami_plant_1 0
+spr_saleucami_plant_1 0 0 saleucami_plant_1 bo_saleucami_plant_1_2 0
 
 
-spr_saleucami_plant_2 0 0 saleucami_plant_2 bo_saleucami_plant_2 0
+spr_saleucami_plant_2 0 0 saleucami_plant_2 bo_saleucami_plant_1_2 0
 
 
-spr_saleucami_plant_3 0 0 saleucami_plant_3 0 0
+spr_saleucami_plant_3 0 0 saleucami_plant_3 bo_saleucami_plant_3_4_5_6 0
 
 
-spr_saleucami_plant_4 0 0 saleucami_plant_4 0 0
+spr_saleucami_plant_4 0 0 saleucami_plant_4 bo_saleucami_plant_3_4_5_6 0
 
 
 spr_taris_building_a_1_hw 0 0 taris_building_a_1_hw 0 0
@@ -4165,6 +4165,39 @@ spr_deathstar_parts_3_corridor 0 0 deathstar_parts_3_corridor bo_deathstar_parts
 
 
 spr_deathstar_parts_4_wall 0 0 deathstar_parts_4_wall bo_deathstar_parts_4_wall 0
+
+
+spr_deathstar_parts_5_stairs 0 0 deathstar_parts_5_stairs bo_deathstar_parts_5_stairs 0
+
+
+spr_deathstar_parts_5_corridor_curve_1 0 0 deathstar_parts_5_corridor_curve_1 bo_deathstar_parts_5_corridor_curve 0
+
+
+spr_deathstar_parts_5_corridor_curve_2 0 0 deathstar_parts_5_corridor_curve_2 bo_deathstar_parts_5_corridor_curve 0
+
+
+spr_deathstar_parts_5_column_1 0 0 deathstar_parts_5_column_1 bo_deathstar_parts_5_column 0
+
+
+spr_deathstar_parts_5_column_2 0 0 deathstar_parts_5_column_2 bo_deathstar_parts_5_column 0
+
+
+spr_deathstar_parts_5_corridor_1 0 0 deathstar_parts_5_corridor_1 bo_deathstar_parts_5_corridor 0
+
+
+spr_deathstar_parts_5_corridor_2 0 0 deathstar_parts_5_corridor_2 bo_deathstar_parts_5_corridor 0
+
+
+spr_saleucami_plant_5 0 0 saleucami_plant_5 bo_saleucami_plant_3_4_5_6 0
+
+
+spr_saleucami_plant_6 0 0 saleucami_plant_6 bo_saleucami_plant_3_4_5_6 0
+
+
+spr_saleucami_plant_7 0 0 saleucami_plant_7 bo_saleucami_plant_7_8 0
+
+
+spr_saleucami_plant_8 0 0 saleucami_plant_8 bo_saleucami_plant_7_8 0
 
 
 spr_rm_end 0 0 0 0 0

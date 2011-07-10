@@ -315,7 +315,7 @@ str_name_23 Rosh
 str_name_24 Carth
 str_name_25 Naz
 str_surname_1 {s50}_of_Mandalore
-str_surname_2 {s50}_of_christophsis
+str_surname_2 {s50}_of_Christophsis
 str_surname_3 {s50}_of_Endor
 str_surname_4 {s50}_of_Carellia
 str_surname_5 {s50}_of_Naboo

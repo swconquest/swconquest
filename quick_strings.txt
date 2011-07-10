@@ -1031,9 +1031,9 @@ qstr_That_was_a_mistake._ That_was_a_mistake._Now_I'm_gonna_have_to_make_your_de
 qstr_That_s_fighting_talk That's_fighting_talk._Let's_see_you_back_it_up_with_your_blaster!
 qstr_A_{s5}?_Well..._Yes_ A_{s5}?_Well..._Yes,_I_suppose_it_is._What_a_strange_thing_to_ask.
 qstr_Eh?_No_it_most_certa Eh?_No,_it_most_certainly_is_not_a_{s5}._I'd_start_questioning_my_eyesight_if_I_were_you.
-qstr_This_is_the_{reg4?to This_is_the_{reg4?town:village}_of_{s5},_{sir/madam}.
-qstr_{s6}_Our_{reg4?town: {s6}_Our_{reg4?town:village}_and_the_surrounding_lands_belong_to_you_of_course.
-qstr_{s6}_Our_{reg4?town:v {s6}_Our_{reg4?town:village}_and_the_surrounding_lands_belong_to_{s7}_of_{s8}.
+qstr_Welcome_to_{s5}_{sir Welcome_to_{s5},_{sir/madam}.
+qstr_{s6}_Our_planet_and_ {s6}_Our_planet_and_the_surrounding_zone_belong_to_you_of_course.
+qstr_{s6}_Our_planet_and_t {s6}_Our_planet_and_the_surrounding_zones_belong_to_{s7}_of_{s8}.
 qstr_{s3}_and_{s5} {s3}_and_{s5}
 qstr_{s3}_{s5} {s3},_{s5}
 qstr_{reg20?We_mostly_pro {reg20?We_mostly_produce_{s5}_here:We_don't_produce_much_here_these_days}._If_you_would_like_to_learn_more,_you_can_speak_with_our_planet_{reg4?administrator:administrator}._He_is_nearby,_right_over_there.

@@ -2,17 +2,14 @@
 # module system...   This file won't be distributed.
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # [!] You can Ctrl+C Ctrl+V from the OpenBRF's resource list. Use +bo to add a collision object.
-#     Objects will be added automagically in my next commit. So ty to be exact.
-
+#     Objects will be added automagically in my next commit. So try to be exact.
 
 #-> Yiyang
-deathstar_parts_5_stairs+bo
-deathstar_parts_5_corridor_curve_1+bo(bo_deathstar_parts_5_corridor_curve)
-deathstar_parts_5_corridor_curve_2+bo(bo_deathstar_parts_5_corridor_curve)
-deathstar_parts_5_column_1+bo(bo_deathstar_parts_5_column)
-deathstar_parts_5_column_2+bo(bo_deathstar_parts_5_column)
-deathstar_parts_5_corridor_1+bo(bo_deathstar_parts_5_corridor)
-deathstar_parts_5_corridor_2+bo(bo_deathstar_parts_5_corridor)
+
+
+
+
+
 
 
 

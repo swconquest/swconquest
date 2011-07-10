@@ -1641,7 +1641,7 @@ dlga_minorplanet_elder_ask_fugitive:minorplanet_elder_pretalk 4095 852  1 2273 0
 dlga_minorplanet_elder_ask_fugitive:close_window 4095 852  0 Strangers_come_and_go_to_our_great_planet,_{sir/madam}._If_he_is_hiding_here,_you_will_surely_find_him_if_you_look_around.  6  0 
 dlga_minorplanet_elder_talk:minorplanet_elder_active_mission_1 69631 851  2 2240 1 1224979098644774912 30 2 1224979098644774912 0 About_the_task_you_asked_of_me...  854  0 
 dlga_minorplanet_elder_talk:minorplanet_elder_request_mission_ask 69631 851  3 30 2 144115188075855892 0 2240 1 1224979098644774912 2147483678 2 1224979098644774912 0 Do_you_have_any_tasks_I_can_help_you_with?  855  0 
-dlga_minorplanet_elder_talk:minorplanet_elder_trade_begin 69631 851  2 541 3 144115188075856080 35 0 2147484209 3 144115188075856080 39 1 I_want_to_buy_some_supplies._I_will_pay_with_gold.  856  0 
+dlga_minorplanet_elder_talk:minorplanet_elder_trade_begin 69631 851  2 541 3 144115188075856080 35 0 2147484209 3 144115188075856080 39 1 I_want_to_buy_some_supplies._I_will_pay_very_well.  856  0 
 dlga_minorplanet_elder_trade_begin:minorplanet_elder_trade_talk 4095 856  0 Of_course,_{sir/madam}._Do_you_want_to_buy_goods_or_nerfs?  857  0 
 dlga_minorplanet_elder_trade_talk:minorplanet_elder_trade 69631 857  0 I_want_to_buy_food_and_supplies.  858  0 
 dlga_minorplanet_elder_trade:minorplanet_elder_pretalk 4095 858  0 We_have_some_food_and_other_supplies_in_our_storehouse._Come_have_a_look.  853  1 2042 1 144115188075855887 

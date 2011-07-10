@@ -1,5 +1,5 @@
 map_icons_file version 1
-261
+258
 player 1 Action_IV 0.300000 194 0.150000 0.173000 0.000000 0
 
 
@@ -153,22 +153,13 @@ shipyard 1 spacestation1 0.500000 0 0 0 0 0
 battlestation 1 spacestation5 0.500000 0 0 0 0 0
 
 
-outpost_a 1 spacestation3 0.500000 0 0 0 0 0
+outpost_imp 1 spacestation8 0.500000 0 0 0 0 0
 
 
-outpost_b 1 spacestation4 0.500000 0 0 0 0 0
+outpost_reb 1 spacestation6 0.500000 0 0 0 0 0
 
 
-spacestation5 1 spacestation5 0.500000 0 0 0 0 0
-
-
-spacestation6 1 spacestation6 0.500000 0 0 0 0 0
-
-
-spacestation7 1 spacestation7 0.500000 0 0 0 0 0
-
-
-spacestation8 1 spacestation8 0.500000 0 0 0 0 0
+outpost_hut 1 spacestation7 0.500000 0 0 0 0 0
 
 
 XQ_04_Station_1 1 XQ_04_Station_1 0.500000 0 0 0 0 0
