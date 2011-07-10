@@ -6,7 +6,13 @@
 
 
 #-> Yiyang
-
+deathstar_parts_5_stairs+bo
+deathstar_parts_5_corridor_curve_1+bo(bo_deathstar_parts_5_corridor_curve)
+deathstar_parts_5_corridor_curve_2+bo(bo_deathstar_parts_5_corridor_curve)
+deathstar_parts_5_column_1+bo(bo_deathstar_parts_5_column)
+deathstar_parts_5_column_2+bo(bo_deathstar_parts_5_column)
+deathstar_parts_5_corridor_1+bo(bo_deathstar_parts_5_corridor)
+deathstar_parts_5_corridor_2+bo(bo_deathstar_parts_5_corridor)
 
 
 
