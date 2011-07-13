@@ -5,8 +5,8 @@
 #     Objects will be added automagically in my next commit. So try to be exact.
 
 #-> Yiyang
-
-
+naboo_theed_interior_column_1+bo
+naboo_theed_interior_window
 
 
 
