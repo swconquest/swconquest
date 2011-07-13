@@ -14,3 +14,17 @@ naboo_theed_interior_window
 
 
 #-> Vector
+Container_closed+bo
+Container_spice_1+bo
+Container_spice_2+bo
+Container_spice_3+bo
+Container_food_1+bo
+Container_food_2+bo
+Container_food_3+bo
+Container_metal_1+bo
+Container_metal_2+bo
+Container_metal_3+bo
+Container_death_sticks+bo
+Container_drink_1+bo
+Container_drink_2+bo
+Container_drink_3+bo
