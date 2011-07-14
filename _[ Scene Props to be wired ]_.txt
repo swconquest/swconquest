@@ -7,10 +7,10 @@
 #-> Yiyang
 naboo_theed_interior_column_1+bo
 naboo_theed_interior_window
-
-
-
-
+naboo_theed_interior_room_1+bo
+deathstar_hanging_bridge_1+bo
+deathstar_hanging_bridge_2+bo
+deathstar_hanger_part_1+bo
 
 
 #-> Vector
