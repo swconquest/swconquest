@@ -28,3 +28,6 @@ Container_death_sticks+bo
 Container_drink_1+bo
 Container_drink_2+bo
 Container_drink_3+bo
+Carbonite_Tibanna+bo
+terminal3+bo
+terminal3+bo
