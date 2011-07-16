@@ -5,29 +5,12 @@
 #     Objects will be added automagically in my next commit. So try to be exact.
 
 #-> Yiyang
-naboo_theed_interior_column_1+bo
-naboo_theed_interior_window
-naboo_theed_interior_room_1+bo
-deathstar_hanging_bridge_1+bo
-deathstar_hanging_bridge_2+bo
-deathstar_hanger_part_1+bo
+
+
+
+
+
+
 
 
 #-> Vector
-Container_closed+bo
-Container_spice_1+bo
-Container_spice_2+bo
-Container_spice_3+bo
-Container_food_1+bo
-Container_food_2+bo
-Container_food_3+bo
-Container_metal_1+bo
-Container_metal_2+bo
-Container_metal_3+bo
-Container_death_sticks+bo
-Container_drink_1+bo
-Container_drink_2+bo
-Container_drink_3+bo
-Carbonite_Tibanna+bo
-terminal3+bo
-terminal3+bo

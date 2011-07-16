@@ -287,7 +287,7 @@ scn_mainplanet_mandalore_center mainplanet_mandalore_center 256 none none 0.0000
 scn_mainplanet_christophsis_center mainplanet_christophsis_center 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  885 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_endor_center mainplanet_endor_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000002005591e00040506000059a100002cd500005052 
   0 
   1  886 
@@ -719,7 +719,7 @@ scn_mainplanet_mandalore_arena mainplanet_mandalore_arena 256 none none 0.000000
 scn_mainplanet_christophsis_arena mainplanet_christophsis_arena 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_endor_arena mainplanet_endor_arena 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0xa0001d9300031ccb0000156f000048ba0000361c 
   0 
   0 
@@ -939,7 +939,7 @@ scn_mainplanet_mandalore_walls mainplanet_mandalore_walls 256 none none 0.000000
 scn_mainplanet_christophsis_walls mainplanet_christophsis_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_endor_walls mainplanet_endor_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000120044ecf0005955e0000119b0000290000001f11 
   0 
   0 
@@ -1043,7 +1043,7 @@ scn_mainplanet_mandalore_alley mainplanet_mandalore_alley 256 none none 0.000000
 scn_mainplanet_christophsis_alley mainplanet_christophsis_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_endor_alley mainplanet_endor_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
@@ -1183,7 +1183,7 @@ scn_spacestation_3_prison spacestation_3_prison 1 interior_prison_e bo_interior_
 scn_spacestation_4_exterior spacestation_4_exterior 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000230029cb2000709c200003c9500004b9b00002f4d 
   0 
   0 
- outer_terrain_plain 
+ 0 
 scn_spacestation_4_interior spacestation_4_interior 256 none none 0.000000 0.000000 100.000000 100.000000 -10.000000 0x0000000040000521000258960000350400006db600003191 
   0 
   0 
@@ -2035,7 +2035,7 @@ scn_mainplanet_mandalore_land_battle mainplanet_mandalore_land_battle 256 none n
 scn_mainplanet_christophsis_land_battle mainplanet_christophsis_land_battle 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000300005000006d9b9000052560000620000004c92 
   0 
   0 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_endor_land_battle mainplanet_endor_land_battle 256 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000006200005000008f23c0000753d00004f66000033c8 
   0 
   0 

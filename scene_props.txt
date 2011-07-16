@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1389
+ 1412
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4198,6 +4198,75 @@ spr_saleucami_plant_7 0 0 saleucami_plant_7 bo_saleucami_plant_7_8 0
 
 
 spr_saleucami_plant_8 0 0 saleucami_plant_8 bo_saleucami_plant_7_8 0
+
+
+spr_naboo_theed_interior_column_1 0 0 naboo_theed_interior_column_1 bo_naboo_theed_interior_column_1 0
+
+
+spr_naboo_theed_interior_window 0 0 naboo_theed_interior_window 0 0
+
+
+spr_naboo_theed_interior_room_1 0 0 naboo_theed_interior_room_1 bo_naboo_theed_interior_room_1 0
+
+
+spr_deathstar_hanging_bridge_1 0 0 deathstar_hanging_bridge_1 bo_deathstar_hanging_bridge_1 0
+
+
+spr_deathstar_hanging_bridge_2 0 0 deathstar_hanging_bridge_2 bo_deathstar_hanging_bridge_2 0
+
+
+spr_deathstar_hanger_part_1 0 0 deathstar_hanger_part_1 bo_deathstar_hanger_part_1 0
+
+
+spr_Container_closed 0 0 Container_closed bo_Container_closed 0
+
+
+spr_Container_spice_1 0 0 Container_spice_1 bo_Container_spice_1 0
+
+
+spr_Container_spice_2 0 0 Container_spice_2 bo_Container_spice_2 0
+
+
+spr_Container_spice_3 0 0 Container_spice_3 bo_Container_spice_3 0
+
+
+spr_Container_food_1 0 0 Container_food_1 bo_Container_food_1 0
+
+
+spr_Container_food_2 0 0 Container_food_2 bo_Container_food_2 0
+
+
+spr_Container_food_3 0 0 Container_food_3 bo_Container_food_3 0
+
+
+spr_Container_metal_1 0 0 Container_metal_1 bo_Container_metal_1 0
+
+
+spr_Container_metal_2 0 0 Container_metal_2 bo_Container_metal_2 0
+
+
+spr_Container_metal_3 0 0 Container_metal_3 bo_Container_metal_3 0
+
+
+spr_Container_death_sticks 0 0 Container_death_sticks bo_Container_death_sticks 0
+
+
+spr_Container_drink_1 0 0 Container_drink_1 bo_Container_drink_1 0
+
+
+spr_Container_drink_2 0 0 Container_drink_2 bo_Container_drink_2 0
+
+
+spr_Container_drink_3 0 0 Container_drink_3 bo_Container_drink_3 0
+
+
+spr_Carbonite_Tibanna 0 0 Carbonite_Tibanna bo_Carbonite_Tibanna 0
+
+
+spr_terminal3 0 0 terminal3 bo_terminal3 0
+
+
+spr_terminal3 0 0 terminal3 bo_terminal3 0
 
 
 spr_rm_end 0 0 0 0 0
