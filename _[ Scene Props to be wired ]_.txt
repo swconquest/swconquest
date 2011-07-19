@@ -5,9 +5,9 @@
 #     Objects will be added automagically in my next commit. So try to be exact.
 
 #-> Yiyang
-naboo_table_1+bo
-naboo_chair_1+bo
-naboo_chair_2+bo
+
+
+
 
 
 

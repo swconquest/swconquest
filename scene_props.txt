@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1412
+ 1415
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -252,82 +252,82 @@ spr_sw_yavin_wall2 0 0 yavinwall2 bo_yavinwall2 0
 spr_sw_yavin_wall3 0 0 yavinwall3 bo_yavinwall3 0
 
 
-spr_sw_Yavin_Arch 0 0 sw_Yavin_Arch bo_sw_Yavin_Arch 0
+spr_sw_Yavin_Arch 0 0 Yavin_Arch bo_Yavin_Arch 0
 
 
-spr_sw_Yavin_Block_A 0 0 sw_Yavin_Block_A bo_sw_Yavin_Block_A 0
+spr_sw_Yavin_Block_A 0 0 Yavin_Block_A bo_Yavin_Block_A 0
 
 
-spr_sw_Yavin_Bridge_Large 0 0 sw_Yavin_Bridge_Large bo_sw_Yavin_Bridge_Large 0
+spr_sw_Yavin_Bridge_Large 0 0 Yavin_Bridge_Large bo_Yavin_Bridge_Large 0
 
 
-spr_sw_Yavin_Bridge_Large_Broken_A 0 0 sw_Yavin_Bridge_Large_Broken_A bo_sw_Yavin_Bridge_Large_Broken_A 0
+spr_sw_Yavin_Bridge_Large_Broken_A 0 0 Yavin_Bridge_Large_Broken_A bo_Yavin_Bridge_Large_Broken_A 0
 
 
-spr_sw_Yavin_Bridge_Large_Broken_B 0 0 sw_Yavin_Bridge_Large_Broken_B bo_sw_Yavin_Bridge_Large_Broken_B 0
+spr_sw_Yavin_Bridge_Large_Broken_B 0 0 Yavin_Bridge_Large_Broken_B bo_Yavin_Bridge_Large_Broken_B 0
 
 
-spr_sw_Yavin_Bridge_Large_Cracked 0 0 sw_Yavin_Bridge_Large_Cracked bo_sw_Yavin_Bridge_Large_Cracked 0
+spr_sw_Yavin_Bridge_Large_Cracked 0 0 Yavin_Bridge_Large_Cracked bo_Yavin_Bridge_Large_Cracked 0
 
 
-spr_sw_Yavin_House_1 0 0 sw_Yavin_House_1 bo_sw_Yavin_House_1 0
+spr_sw_Yavin_House_1 0 0 Yavin_House_1 bo_Yavin_House_1 0
 
 
-spr_sw_Yavin_House_2 0 0 sw_Yavin_House_2 bo_sw_Yavin_House_2 0
+spr_sw_Yavin_House_2 0 0 Yavin_House_2 bo_Yavin_House_2 0
 
 
-spr_sw_Yavin_House_3 0 0 sw_Yavin_House_3 bo_sw_Yavin_House_3 0
+spr_sw_Yavin_House_3 0 0 Yavin_House_3 bo_Yavin_House_3 0
 
 
-spr_sw_Yavin_Platform 0 0 sw_Yavin_Platform bo_sw_Yavin_Platform 0
+spr_sw_Yavin_Platform 0 0 Yavin_Platform bo_Yavin_Platform 0
 
 
-spr_sw_Yavin_Ramp_A 0 0 sw_Yavin_Ramp_A bo_sw_Yavin_Ramp_A 0
+spr_sw_Yavin_Ramp_A 0 0 Yavin_Ramp_A bo_Yavin_Ramp_A 0
 
 
-spr_sw_Yavin_Ramp_B 0 0 sw_Yavin_Ramp_B bo_sw_Yavin_Ramp_B 0
+spr_sw_Yavin_Ramp_B 0 0 Yavin_Ramp_B bo_Yavin_Ramp_B 0
 
 
-spr_sw_Yavin_Stairs 0 0 sw_Yavin_Stairs bo_sw_Yavin_Stairs 0
+spr_sw_Yavin_Stairs 0 0 Yavin_Stairs bo_Yavin_Stairs 0
 
 
-spr_sw_Yavin_Statue_4 0 0 sw_Yavin_Statue_4 bo_sw_Yavin_Statue_4 0
+spr_sw_Yavin_Statue_4 0 0 Yavin_Statue_4 bo_Yavin_Statue_4 0
 
 
-spr_sw_Yavin_Statue_5 0 0 sw_Yavin_Statue_5 bo_sw_Yavin_Statue_4 0
+spr_sw_Yavin_Statue_5 0 0 Yavin_Statue_5 bo_Yavin_Statue_4 0
 
 
-spr_sw_Yavin_Statue_6 0 0 sw_Yavin_Statue_6 bo_sw_Yavin_Statue_4 0
+spr_sw_Yavin_Statue_6 0 0 Yavin_Statue_6 bo_Yavin_Statue_4 0
 
 
-spr_sw_Yavin_Temple_2 0 0 sw_Yavin_Temple_2 bo_sw_Yavin_Temple_2 0
+spr_sw_Yavin_Temple_2 0 0 Yavin_Temple_2 bo_Yavin_Temple_2 0
 
 
-spr_sw_Yavin_Tower_1 0 0 sw_Yavin_Tower_1 bo_sw_Yavin_Tower_1 0
+spr_sw_Yavin_Tower_1 0 0 Yavin_Tower_1 bo_Yavin_Tower_1 0
 
 
-spr_sw_Yavin_Tower_2 0 0 sw_Yavin_Tower_2 bo_sw_Yavin_Tower_2 0
+spr_sw_Yavin_Tower_2 0 0 Yavin_Tower_2 bo_Yavin_Tower_2 0
 
 
-spr_sw_Yavin_Wall_Big 0 0 sw_Yavin_Wall_Big bo_sw_Yavin_Wall_Big 0
+spr_sw_Yavin_Wall_Big 0 0 Yavin_Wall_Big bo_Yavin_Wall_Big 0
 
 
-spr_sw_Yavin_Wall_Big_Broken 0 0 sw_Yavin_Wall_Big_Broken bo_sw_Yavin_Wall_Big_Broken 0
+spr_sw_Yavin_Wall_Big_Broken 0 0 Yavin_Wall_Big_Broken bo_Yavin_Wall_Big_Broken 0
 
 
-spr_sw_Yavin_Wall_Big_Hole 0 0 sw_Yavin_Wall_Big_Hole bo_sw_Yavin_Wall_Big_Hole 0
+spr_sw_Yavin_Wall_Big_Hole 0 0 Yavin_Wall_Big_Hole bo_Yavin_Wall_Big_Hole 0
 
 
-spr_sw_Yavin_Wall_Big_Hole_2 0 0 sw_Yavin_Wall_Big_Hole_2 bo_sw_Yavin_Wall_Big_Hole_2 0
+spr_sw_Yavin_Wall_Big_Hole_2 0 0 Yavin_Wall_Big_Hole_2 bo_Yavin_Wall_Big_Hole_2 0
 
 
-spr_sw_Yavin_Wall_Big_Hub 0 0 sw_Yavin_Wall_Big_Hub bo_sw_Yavin_Wall_Big_Hub 0
+spr_sw_Yavin_Wall_Big_Hub 0 0 Yavin_Wall_Big_Hub bo_Yavin_Wall_Big_Hub 0
 
 
-spr_sw_Yavin_Stairs_Large 0 0 sw_Yavin_Stairs_Large bo_sw_Yavin_Stairs_Large 0
+spr_sw_Yavin_Stairs_Large 0 0 Yavin_Stairs_Large bo_Yavin_Stairs_Large 0
 
 
-spr_sw_Yavin_Great_Temple 0 0 sw_Yavin_Great_Temple bo_sw_Yavin_Great_Temple 0
+spr_sw_Yavin_Great_Temple 0 0 Yavin_Great_Temple bo_Yavin_Great_Temple 0
 
 
 spr_sw_hoth_bunker 0 0 hoth_bunker bo_hoth_bunker 0
@@ -360,10 +360,10 @@ spr_sw_building_prefab2 0 0 building_prefab2 bo_building_prefab2 0
 spr_sw_building_prefab_ramp1 0 0 building_prefab_ramp1 bo_building_prefab_ramp1 0
 
 
-spr_sw_terminal1 0 0 terminal1 bo_terminal1 0
+spr_sw_terminal1 0 0 terminal1 bo_terminal1_2 0
 
 
-spr_sw_terminal2 0 0 terminal2 bo_terminal2 0
+spr_sw_terminal2 0 0 terminal2 bo_terminal1_2 0
 
 
 spr_sw_holocron_new_a 73728 0 holocron_new_a bo_holocron_new 0
@@ -4110,34 +4110,34 @@ spr_taris_statue_base_2 0 0 taris_statue_base_2 bo_taris_statue_base_2 0
 spr_taris_statue_1 0 0 taris_statue_1 bo_taris_statue_1 0
 
 
-spr_Container_1 0 0 Container_1 bo_Container_1 0
+spr_Container_1 0 0 Container_1 bo_Container_1_2_3_4 0
 
 
-spr_Container_2 0 0 Container_2 bo_Container_2 0
+spr_Container_2 0 0 Container_2 bo_Container_1_2_3_4 0
 
 
-spr_Container_3 0 0 Container_3 bo_Container_3 0
+spr_Container_3 0 0 Container_3 bo_Container_1_2_3_4 0
 
 
-spr_Container_4 0 0 Container_4 bo_Container_4 0
+spr_Container_4 0 0 Container_4 bo_Container_1_2_3_4 0
 
 
-spr_Container_5 0 0 Container_5 bo_Container_5 0
+spr_Container_5 0 0 Container_5 bo_Container_5_6_7 0
 
 
-spr_Container_6 0 0 Container_6 bo_Container_6 0
+spr_Container_6 0 0 Container_6 bo_Container_5_6_7 0
 
 
-spr_Container_7 0 0 Container_7 bo_Container_7 0
+spr_Container_7 0 0 Container_7 bo_Container_5_6_7 0
 
 
-spr_Container_8 0 0 Container_8 bo_Container_8 0
+spr_Container_8 0 0 Container_8 bo_Container_8_9_10 0
 
 
-spr_Container_9 0 0 Container_9 bo_Container_9 0
+spr_Container_9 0 0 Container_9 bo_Container_8_9_10 0
 
 
-spr_Container_10 0 0 Container_10 bo_Container_10 0
+spr_Container_10 0 0 Container_10 bo_Container_8_9_10 0
 
 
 spr_Naboo_house_2 0 0 naboo_house_2 bo_naboo_house_2 0
@@ -4221,52 +4221,61 @@ spr_deathstar_hanger_part_1 0 0 deathstar_hanger_part_1 bo_deathstar_hanger_part
 spr_Container_closed 0 0 Container_closed bo_Container_closed 0
 
 
-spr_Container_spice_1 0 0 Container_spice_1 bo_Container_spice_1 0
+spr_Container_spice_1 0 0 Container_spice_1 bo_Container_spice_1_2_3 0
 
 
-spr_Container_spice_2 0 0 Container_spice_2 bo_Container_spice_2 0
+spr_Container_spice_2 0 0 Container_spice_2 bo_Container_spice_1_2_3 0
 
 
-spr_Container_spice_3 0 0 Container_spice_3 bo_Container_spice_3 0
+spr_Container_spice_3 0 0 Container_spice_3 bo_Container_spice_1_2_3 0
 
 
-spr_Container_food_1 0 0 Container_food_1 bo_Container_food_1 0
+spr_Container_food_1 0 0 Container_food_1 bo_Container_food_1_2_3 0
 
 
-spr_Container_food_2 0 0 Container_food_2 bo_Container_food_2 0
+spr_Container_food_2 0 0 Container_food_2 bo_Container_food_1_2_3 0
 
 
-spr_Container_food_3 0 0 Container_food_3 bo_Container_food_3 0
+spr_Container_food_3 0 0 Container_food_3 bo_Container_food_1_2_3 0
 
 
-spr_Container_metal_1 0 0 Container_metal_1 bo_Container_metal_1 0
+spr_Container_metal_1 0 0 Container_metal_1 bo_Container_metal_1_2_3 0
 
 
-spr_Container_metal_2 0 0 Container_metal_2 bo_Container_metal_2 0
+spr_Container_metal_2 0 0 Container_metal_2 bo_Container_metal_1_2_3 0
 
 
-spr_Container_metal_3 0 0 Container_metal_3 bo_Container_metal_3 0
+spr_Container_metal_3 0 0 Container_metal_3 bo_Container_metal_1_2_3 0
 
 
 spr_Container_death_sticks 0 0 Container_death_sticks bo_Container_death_sticks 0
 
 
-spr_Container_drink_1 0 0 Container_drink_1 bo_Container_drink_1 0
+spr_Container_drink_1 0 0 Container_drink_1 bo_Container_drink_1_2_3 0
 
 
-spr_Container_drink_2 0 0 Container_drink_2 bo_Container_drink_2 0
+spr_Container_drink_2 0 0 Container_drink_2 bo_Container_drink_1_2_3 0
 
 
-spr_Container_drink_3 0 0 Container_drink_3 bo_Container_drink_3 0
+spr_Container_drink_3 0 0 Container_drink_3 bo_Container_drink_1_2_3 0
 
 
 spr_Carbonite_Tibanna 0 0 Carbonite_Tibanna bo_Carbonite_Tibanna 0
 
 
-spr_terminal3 0 0 terminal3 bo_terminal3 0
+spr_terminal3 0 0 terminal3 bo_terminal3_4 0
 
 
-spr_terminal3 0 0 terminal3 bo_terminal3 0
+spr_terminal4 0 0 terminal4 bo_terminal3_4 0
+
+
+spr_naboo_table_1 0 0 naboo_table_1 bo_naboo_table_1 0
+
+
+spr_naboo_chair_1 0 0 naboo_chair_1 bo_naboo_chair_1 0
+
+
+spr_naboo_chair_2 0 0 naboo_chair_2 bo_naboo_chair_2 0
 
 
 spr_rm_end 0 0 0 0 0
