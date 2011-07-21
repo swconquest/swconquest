@@ -331,7 +331,7 @@ scn_mainplanet_gamorr_center mainplanet_gamorr_center 256 none none 0.000000 0.0
 scn_mainplanet_yavin_iv_center mainplanet_yavin_iv_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300416a600035cd600007ee80000012100003fbc 
   0 
   1  896 
- 0 
+ outer_terrain_plain 
 scn_mainplanet_tatooine_center mainplanet_tatooine_center 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000200016da000364d9000060f500007591000064e7 
   0 
   1  897 
@@ -2079,7 +2079,7 @@ scn_mainplanet_gamorr_land_battle mainplanet_gamorr_land_battle 256 none none 0.
 scn_mainplanet_yavin_iv_land_battle mainplanet_yavin_iv_land_battle 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000300005000006d9b9000052560000620000004c92 
   0 
   0 
- 0 
+ outer_terrain_plain 
 scn_mainplanet_tatooine_land_battle mainplanet_tatooine_land_battle 256 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x0000000250c19207400691a400003efe00004b34000059be 
   0 
   0 
