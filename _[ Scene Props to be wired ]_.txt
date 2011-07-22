@@ -5,7 +5,13 @@
 #     Objects will be added automagically in my next commit. So try to be exact.
 
 #-> Yiyang
-
+sundari_block_2
+sundari_block_3
+sundari_block_4
+sundari_block_5
+sundari_small_block_1
+sundari_small_block_2
+sundari_small_block_3
 
 #-> Vector
 endor_walkway+bo
