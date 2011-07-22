@@ -280,10 +280,10 @@ scn_zendar_merchant zendar_merchant 1 interior_town_house_i bo_interior_town_hou
   0 
   0 
  0 
-scn_mainplanet_mandalore_center mainplanet_mandalore_center 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
+scn_mainplanet_mandalore_center mainplanet_mandalore_center 1 sundari_peace_park bo_sundari_peace_park -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   1  884 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_christophsis_center mainplanet_christophsis_center 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  885 

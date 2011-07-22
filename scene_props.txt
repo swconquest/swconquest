@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1417
+ 1426
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4282,6 +4282,33 @@ spr_sundari_peace_park 0 0 sundari_peace_park bo_sundari_peace_park 0
 
 
 spr_sundari_block_1 0 0 sundari_block_1 0 0
+
+
+spr_sundari_block_2 0 0 sundari_block_2 0 0
+
+
+spr_sundari_block_3 0 0 sundari_block_3 0 0
+
+
+spr_sundari_block_4 0 0 sundari_block_4 0 0
+
+
+spr_sundari_block_5 0 0 sundari_block_5 0 0
+
+
+spr_sundari_small_block_1 0 0 sundari_small_block_1 0 0
+
+
+spr_sundari_small_block_2 0 0 sundari_small_block_2 0 0
+
+
+spr_sundari_small_block_3 0 0 sundari_small_block_3 0 0
+
+
+spr_endor_walkway 0 0 endor_walkway bo_endor_walkway 0
+
+
+spr_endor_walkway_support 0 0 endor_walkway_support bo_endor_walkway_support 0
 
 
 spr_rm_end 0 0 0 0 0
