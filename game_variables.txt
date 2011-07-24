@@ -1,7 +1,7 @@
 #Buffer_sizes
 buffer_size_regular_ffp_static = 0
 buffer_size_regular_ffp_dynamic     =  24000
-buffer_size_regular_static          = 200000
+buffer_size_regular_static          = 270000
 buffer_size_regular_dynamic         =  35000
 buffer_size_skinning_static         = 150000
 buffer_size_skinning_dynamic        =      0
