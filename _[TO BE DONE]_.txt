@@ -7,16 +7,18 @@ ________________________________________________________________________________
 //-------> MAXIMUM PRIORITY
 
 [/] Do Scene Editing for the ~8 Main Planets with Props
- -yavin iv
+ -yavin iv 
  -coruscant
  -naboo
- -taris
+ -taris 
  -mandalore
- -
- 
+ -Endor
+
+
  
 [-] New Wookie Skin + Heads
 
+[-] New Jawa & Tusken models (Current ones are from Legacy and badly need some attention) 
 
 [-] New Stormtrooper Officer Skin
  -currently using placeholder, only armor needed
@@ -38,9 +40,11 @@ ________________________________________________________________________________
 
 [-] Add reskins
 
+[-] Add Yayiyangchen's Stormtrooper armors to "Imperial Deserter Party"
 
 //--------> LOW PRIORITY
 
 [/] Finish the tiny (5kb) Launcher in Assembler
 
 [-] Dialog Fixes
+
