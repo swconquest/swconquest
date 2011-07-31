@@ -1,8 +1,8 @@
 # Add a line per object for every new prop that needs to be wired to the 
-# module system...   This file won't be distributed.
+# module system   This file won't be distributed
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# [!] You can Ctrl+C Ctrl+V from the OpenBRF's resource list. Use +bo to add a collision object.
-#     Objects will be added automagically in my next commit. So try to be exact.
+# [!] You can Ctrl+C Ctrl+V from the OpenBRF's resource list Use +bo to add a collision object
+#     Objects will be added automagically in my next commit So try to be exact
 
 #-> Yiyang
 
