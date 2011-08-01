@@ -14,7 +14,6 @@ ________________________________________________________________________________
  -mandalore
  -Endor
 
-
  
 [-] New Wookie Skin + Heads
 
@@ -40,11 +39,11 @@ ________________________________________________________________________________
 
 [-] Add reskins
 
-[-] Add Yayiyangchen's Stormtrooper armors to "Imperial Deserter Party"
+[X] Add Yiyangchen's Stormtrooper armors to "Imperial Deserter Party"
 
 //--------> LOW PRIORITY
 
-[/] Finish the tiny (5kb) Launcher in Assembler
+[X] Finish the tiny (5kb) Launcher in Assembler
 
 [-] Dialog Fixes
 
