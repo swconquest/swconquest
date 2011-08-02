@@ -1,5 +1,5 @@
 itemsfile version 2
-935
+931
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -530,12 +530,6 @@ itemsfile version 2
  itm_court_hat Turret_Hat Turret_Hat 1  court_hat 0  1610612748 0 80 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_wimple_a Wimple Wimple 1  wimple_a 0  1610678284 0 10 123731968 0.500000 100 4 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_wimple_with_veil Wimple_with_Veil Wimple_with_Veil 1  wimple_b 0  1610678284 0 10 123731968 0.500000 100 4 0 0 0 0 0 0 0 0 0 0
-0
-
  itm_straw_hat Straw_Hat Straw_Hat 1  straw_hat 0  536936460 0 9 123731968 1.000000 100 2 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -567,18 +561,6 @@ itemsfile version 2
 0
 
  itm_female_hood Lady's_Hood Lady's_Hood 1  woolen_hood 0  536936460 0 9 123731968 1.000000 100 10 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_leather_steppe_cap_a Leather_Steppe_Cap Leather_Steppe_Cap 1  nomad_cap_a 0  65548 0 24 123731968 1.000000 100 12 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_leather_steppe_cap_b Leather_Steppe_Cap Leather_Steppe_Cap 1  leather_steppe_cap_a 0  65548 0 36 123731968 1.000000 100 14 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_leather_steppe_cap_c Leather_Steppe_Cap Leather_Steppe_Cap 1  leather_steppe_cap_b 0  65548 0 50 123731968 1.000000 100 16 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_leather_warrior_cap Leather_Warrior_Cap Leather_Warrior_Cap 1  skull_cap_new_b 0  536936460 0 14 123731968 1.000000 100 18 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_black_helmet Black_Helmet Black_Helmet 1  black_helm 0  12 0 944 704643238 2.750000 100 50 0 0 9 0 0 0 0 0 0 0
@@ -1509,7 +1491,13 @@ itemsfile version 2
  itm_wookiee_female_feet Wookiee_Female_Feet Wookiee_Female_Feet 1  wookiee_female_feet 0  536878862 0 150 123731968 2.000000 80 0 0 10 0 0 0 0 0 0 0 0
 0
 
- itm_droid_weapon_no_attack Droid_Melee_Weapon_(No_Attack) Droid_Melee_Weapon_(No_Attack) 2  transparent 0  force_block_inv 1152921504606846976  4198403 0 1 0 1.000000 100 0 0 0 0 0 40 0 25 0 512 512
+ itm_kaminoan_female_head Kaminoan_Female_Head Kaminoan_Female_Head 1  kaminoan_head 0  2684362508 0 70 123731968 1.000000 100 10 0 0 0 0 0 0 0 0 0 0
+0
+
+ itm_kaminoan_female_body Kaminoan_Female_Body Kaminoan_Female_Body 1  kaminoan_body 0  553652237 0 530 123731968 3.000000 100 0 32 12 0 0 0 0 0 0 0 0
+0
+
+ itm_droid_weapon_no_attack Droid_Melee_Weapon_(No_Attack) Droid_Melee_Weapon_(No_Attack) 2  transparent 0  force_block_inv 1152921504606846976  4198400 0 1 0 1.000000 100 0 0 0 0 0 40 0 25 0 512 512
 0
 
  itm_r2series_blue R2-Series_Blue R2-Series_Blue 1  swy_R2D2 0  553652237 0 500 0 50.000000 100 15 30 15 0 0 0 0 0 0 0 0

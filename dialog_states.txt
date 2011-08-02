@@ -69,7 +69,6 @@ member_castellan_pretalk
 member_review_castellan_equipment
 member_castellan_join
 member_wilderness_talk
-member_inn_talk
 kidnapped_girl_chat_1
 kidnapped_girl_chat_2
 member_lady_1
