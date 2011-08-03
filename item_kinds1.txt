@@ -1,5 +1,5 @@
 itemsfile version 2
-931
+920
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -22,9 +22,6 @@ itemsfile version 2
 0
 
  itm_arena_sword_two_handed Two_Handed_Sword Two_Handed_Sword 1  arena_sword_two_handed 0  6291459 9223635924301119728 670 155668 2.750000 100 0 0 0 0 29696 93 0 110 0 536 541
-0
-
- itm_arena_lance Lance Lance 1  arena_lance 0  138444804 4222131026005760 90 8202 2.500000 100 0 0 0 0 20480 96 0 150 0 537 532
 0
 
  itm_practice_staff Practice_Staff Practice_Staff 1  wooden_staff 0  138444804 4222129415393024 9 0 2.500000 100 0 0 0 0 16384 103 0 118 0 528 528
@@ -426,12 +423,6 @@ itemsfile version 2
  itm_nomad_boots Nomad_Boots Nomad_Boots 1  boot_nomad_b 0  536940302 0 120 123731968 1.250000 100 0 0 14 0 0 0 0 0 0 0 0
 0
 
- itm_mail_boots Mail_Boots Mail_Boots 1  shoe_cm 0  3854 0 1743 704643236 3.000000 100 0 0 31 8 0 0 0 0 0 0 0
-0
-
- itm_iron_greaves Iron_Greaves Iron_Greaves 1  iron_greaves 0  3854 0 294 704643236 3.500000 100 0 0 33 9 0 0 0 0 0 0 0
-0
-
  itm_lady_dress_ruby Lady_Dress Lady_Dress 1  lady_dress_r 0  553648141 0 170 123731968 3.000000 100 0 10 10 0 0 0 0 0 0 0 0
 0
 
@@ -515,14 +506,6 @@ itemsfile version 2
 
  itm_padded_leather Padded_Leather Padded_Leather 1  padded_leather 0  553648141 0 250 123731968 12.000000 100 0 27 10 0 0 0 0 0 0 0 0
 0
-
- itm_heraldic_mail_with_surcoat Heraldic_Mail_with_Surcoat Heraldic_Mail_with_Surcoat 1  heraldic_armor_a 0  16777229 0 662 704643236 22.000000 100 0 49 17 7 0 0 0 0 0 0 0
-1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063452 1729382256910270483 1224979098644774912 1224979098644774913 
-
- itm_heraldic_mail_with_tabard Heraldic_Mail_with_Tabard Heraldic_Mail_with_Tabard 1  heraldic_armor_d 0  16777229 0 672 704643236 21.000000 100 0 51 15 7 0 0 0 0 0 0 0
-1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063452 1729382256910270486 1224979098644774912 1224979098644774913 
 
  itm_head_wrappings head_wrapping head_wrapping 1  head_wrapping 0  1073741836 0 16 56623104 0.250000 100 3 0 0 0 0 0 0 0 0 0 0
 0
@@ -622,24 +605,6 @@ itemsfile version 2
 0
 
  itm_light_mail_and_plate Light_Mail_and_Plate Light_Mail_and_Plate 1  light_mail_and_plate 0  16777229 0 510 704643236 10.000000 100 0 32 12 0 0 0 0 0 0 0 0
-0
-
- itm_byzantion_helmet_a Byzantion_Helmet Byzantion_Helmet 1  byzantion_helmet_a 0  12 0 270 123731968 2.000000 100 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_magyar_helmet_a Magyar_Helmet Magyar_Helmet 1  magyar_helmet_a 0  12 0 270 123731968 2.000000 100 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_rus_helmet_a Rus_Helmet Rus_Helmet 1  rus_helmet_a 0  12 0 270 123731968 2.000000 100 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_sipahi_helmet_a Sipahi_Helmet Sipahi_Helmet 1  sipahi_helmet_a 0  12 0 270 123731968 2.000000 100 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_shahi Shahi Shahi 1  shahi 0  12 0 270 123731968 2.000000 100 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_rabati Rabati Rabati 1  rabati 0  12 0 270 123731968 2.000000 100 20 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_armors_begin FLAG_FOR_ARMOR_BEGIN FLAG_FOR_ARMOR_BEGIN 1  sw_armor3_white 0  553648141 0 1 0 1.000000 100 0 1 1 0 0 0 0 0 0 0 0
