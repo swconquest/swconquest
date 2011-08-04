@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1426
+ 1427
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4310,6 +4310,9 @@ spr_endor_walkway 0 0 endor_walkway bo_endor_walkway 0
 
 
 spr_endor_walkway_support 0 0 endor_walkway_support bo_endor_walkway_support 0
+
+
+spr_ahto_city 0 0 ahto_city bo_ahto_city 0
 
 
 spr_rm_end 0 0 0 0 0

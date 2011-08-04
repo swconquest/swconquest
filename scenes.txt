@@ -336,7 +336,7 @@ scn_mainplanet_tatooine_center mainplanet_tatooine_center 256 none none 0.000000
   0 
   1  900 
  outer_terrain_desert 
-scn_mainplanet_manaan_center mainplanet_manaan_center 1 ahto_city bo_ahto_city -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_mainplanet_manaan_center mainplanet_manaan_center 256 none none 0.000000 0.000000 220.000000 220.000000 30.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  901 
  swy_outer_sea 
@@ -768,7 +768,7 @@ scn_mainplanet_tatooine_arena mainplanet_tatooine_arena 256 none none 0.000000 0
   0 
   0 
  outer_terrain_desert 
-scn_mainplanet_manaan_arena mainplanet_manaan_arena 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
+scn_mainplanet_manaan_arena mainplanet_manaan_arena 256 none none 0.000000 0.000000 220.000000 220.000000 30.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
  swy_outer_sea 
@@ -1980,7 +1980,7 @@ scn_mainplanet_tatooine_land_battle mainplanet_tatooine_land_battle 256 none non
   0 
   0 
  outer_terrain_desert 
-scn_mainplanet_manaan_land_battle mainplanet_manaan_land_battle 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000300005000006d9b9000052560000620000004c92 
+scn_mainplanet_manaan_land_battle mainplanet_manaan_land_battle 256 none none 0.000000 0.000000 120.000000 120.000000 30.000000 0x00000000300005000006d9b9000052560000620000004c92 
   0 
   0 
  swy_outer_sea 

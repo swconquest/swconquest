@@ -328,7 +328,7 @@ str_surname_11 {s50}_of_Hoth
 str_surname_12 {s50}_of_Gamorr
 str_surname_13 {s50}_of_Yavin_IV
 str_surname_14 {s50}_of_Tatooine
-str_surname_15 {s50}_of_Reecee
+str_surname_15 {s50}_of_Manaan
 str_surname_16 {s50}_of_Coruscant
 str_surname_17 {s50}_of_Ryloth
 str_surname_18 {s50}_of_Nal_Hutta
@@ -916,7 +916,7 @@ str_npc1_home_recap I_was_an_Imperial.__Then_I_found_some_things_I_didn't_want_t
 str_npc2_home_recap I'd_rather_keep_most_of_it_to_myself,_to_be_honest.
 str_npc3_home_recap I'm_the_daughter_of_a_merchant,_but_that's_not_very_exciting_at_all.
 str_npc4_home_recap I'm_from_Coruscant,_and_I_spent_my_youth_in_the_flight_simulators.
-str_npc5_home_recap I_was_born_on_Reecee,_learned_to_fight_on_Tatooine,_and_spent_most_of_my_career_on_Gamorr.
+str_npc5_home_recap I_was_born_on_Manaan,_learned_to_fight_on_Tatooine,_and_spent_most_of_my_career_on_Gamorr.
 str_npc6_home_recap I'm_a_Corellian,_pure-blooded_and_proud_of_it.
 str_npc7_home_recap I_could_have_sworn_I_told_you_this_already.
 str_npc8_home_recap I'm_from_Duro._I_don't_quite_remember_how_my_family_got_there,_but_they're_there_regardless.
