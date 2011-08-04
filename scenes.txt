@@ -1,5 +1,5 @@
 scenesfile version 1
- 535
+ 509
 scn_random_scene random_scene 1280 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
   0 
   0 
@@ -188,7 +188,7 @@ scn_reserved8 reserved8 256 none none 0.000000 0.000000 100.000000 100.000000 -1
   0 
   0 
  0 
-scn_reserved9 reserved9 1 thirsty_lion bo_thirsty_lion -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_reserved9 reserved9 1 none none -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
@@ -200,7 +200,7 @@ scn_reserved11 reserved11 0 none none -100.000000 -100.000000 100.000000 100.000
   0 
   0 
  0 
-scn_reserved12 reserved12 1 thirsty_lion bo_thirsty_lion -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_reserved12 reserved12 1 none none -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
@@ -336,10 +336,10 @@ scn_mainplanet_tatooine_center mainplanet_tatooine_center 256 none none 0.000000
   0 
   1  900 
  outer_terrain_desert 
-scn_mainplanet_reecee_center mainplanet_reecee_center 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
+scn_mainplanet_manaan_center mainplanet_manaan_center 1 ahto_city bo_ahto_city -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   1  901 
- outer_terrain_plain 
+ swy_outer_sea 
 scn_mainplanet_coruscant_center mainplanet_coruscant_center 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  902 
@@ -444,7 +444,7 @@ scn_mainplanet_tatooine_castle mainplanet_tatooine_castle 1 imperial_office_brow
   1  100000 
   1  544 
  0 
-scn_mainplanet_reecee_castle mainplanet_reecee_castle 1 imperial_office_green bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_mainplanet_manaan_castle mainplanet_manaan_castle 1 imperial_office_green bo_imperial_office_ramp -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   1  545 
  0 
@@ -552,7 +552,7 @@ scn_mainplanet_tatooine_cantina mainplanet_tatooine_cantina 1 moseisley_cantina 
   0 
   0 
  0 
-scn_mainplanet_reecee_cantina mainplanet_reecee_cantina 1 cantina_bar bo_cantina_bar -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_mainplanet_manaan_cantina mainplanet_manaan_cantina 1 cantina_bar bo_cantina_bar -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   0 
   0 
  0 
@@ -660,7 +660,7 @@ scn_mainplanet_tatooine_store mainplanet_tatooine_store 1 sw_merchant_shop bo_sw
   1  100000 
   0 
  0 
-scn_mainplanet_reecee_store mainplanet_reecee_store 1 sw_merchant_shop bo_sw_merchant_shop -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_mainplanet_manaan_store mainplanet_manaan_store 1 sw_merchant_shop bo_sw_merchant_shop -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   0 
  0 
@@ -768,10 +768,10 @@ scn_mainplanet_tatooine_arena mainplanet_tatooine_arena 256 none none 0.000000 0
   0 
   0 
  outer_terrain_desert 
-scn_mainplanet_reecee_arena mainplanet_reecee_arena 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
+scn_mainplanet_manaan_arena mainplanet_manaan_arena 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
- outer_terrain_plain 
+ swy_outer_sea 
 scn_mainplanet_coruscant_arena mainplanet_coruscant_arena 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
@@ -876,7 +876,7 @@ scn_mainplanet_tatooine_prison mainplanet_tatooine_prison 1 interior_prison_n bo
   1  100000 
   0 
  0 
-scn_mainplanet_reecee_prison mainplanet_reecee_prison 1 interior_prison_f bo_interior_prison_f -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
+scn_mainplanet_manaan_prison mainplanet_manaan_prison 1 interior_prison_f bo_interior_prison_f -100.000000 -100.000000 100.000000 100.000000 -100.000000 0 
   1  100000 
   0 
  0 
@@ -932,110 +932,6 @@ scn_mainplanet_bespin_prison mainplanet_bespin_prison 1 interior_prison_f bo_int
   1  100000 
   0 
  0 
-scn_mainplanet_mandalore_walls mainplanet_mandalore_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_christophsis_walls mainplanet_christophsis_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- 0 
-scn_mainplanet_endor_walls mainplanet_endor_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000120044ecf0005955e0000119b0000290000001f11 
-  0 
-  0 
- outer_terrain_steppe 
-scn_mainplanet_corellia_walls mainplanet_corellia_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_naboo_walls mainplanet_naboo_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300798b2000380e3000037960000573900003f48 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_kessel_walls mainplanet_kessel_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_dantooine_walls mainplanet_dantooine_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_geonosis_walls mainplanet_geonosis_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x3000148000025896000074e600006c260000125a 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_mon_cal_walls mainplanet_mon_cal_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_snow 
-scn_mainplanet_kashyyyk_walls mainplanet_kashyyyk_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000200016da000364d9000060f500007591000064e7 
-  0 
-  0 
- outer_terrain_steppe 
-scn_mainplanet_hoth_walls mainplanet_hoth_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_snow 
-scn_mainplanet_ryloth_walls mainplanet_ryloth_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000020045abc000308c4000029d9000033bd000009b9 
-  0 
-  0 
- outer_terrain_desert 
-scn_mainplanet_yavin_iv_walls mainplanet_yavin_iv_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130028e320005e17b00004a14000006d70000019d 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_tatooine_walls mainplanet_tatooine_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000200016da000364d9000060f500007591000064e7 
-  0 
-  0 
- outer_terrain_desert 
-scn_mainplanet_reecee_walls mainplanet_reecee_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_steppe 
-scn_mainplanet_coruscant_walls mainplanet_coruscant_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_ryloth_walls mainplanet_ryloth_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000020045abc000308c4000029d9000033bd000009b9 
-  0 
-  0 
- outer_terrain_desert 
-scn_mainplanet_nalhutta_walls mainplanet_nalhutta_walls 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000200016da000364d9000060f500007591000064e7 
-  0 
-  0 
- outer_terrain_desert 
-scn_mainplanet_bothawui_walls mainplanet_bothawui_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_mustafar_walls mainplanet_mustafar_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_kamino_walls mainplanet_kamino_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_taris_walls mainplanet_taris_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_raxusprime_walls mainplanet_raxusprime_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_sarapin_walls mainplanet_sarapin_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_hypori_walls mainplanet_hypori_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
-scn_mainplanet_felucia_walls mainplanet_felucia_walls 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
 scn_mainplanet_mandalore_alley mainplanet_mandalore_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
@@ -1092,10 +988,10 @@ scn_mainplanet_tatooine_alley mainplanet_tatooine_alley 256 none none 0.000000 0
   0 
   0 
  outer_terrain_steppe 
-scn_mainplanet_reecee_alley mainplanet_reecee_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
+scn_mainplanet_manaan_alley mainplanet_manaan_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_steppe 
+ swy_outer_sea 
 scn_mainplanet_coruscant_alley mainplanet_coruscant_alley 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
@@ -2084,10 +1980,10 @@ scn_mainplanet_tatooine_land_battle mainplanet_tatooine_land_battle 256 none non
   0 
   0 
  outer_terrain_desert 
-scn_mainplanet_reecee_land_battle mainplanet_reecee_land_battle 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000300005000006d9b9000052560000620000004c92 
+scn_mainplanet_manaan_land_battle mainplanet_manaan_land_battle 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000000300005000006d9b9000052560000620000004c92 
   0 
   0 
- outer_terrain_plain 
+ swy_outer_sea 
 scn_mainplanet_coruscant_land_battle mainplanet_coruscant_land_battle 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 

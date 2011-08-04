@@ -1,5 +1,5 @@
 itemsfile version 2
-920
+918
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -599,12 +599,6 @@ itemsfile version 2
 0
 
  itm_light_leather_boots Light_Leather_Boots Light_Leather_Boots 1  light_leather_boots 0  69390 0 140 123731968 1.000000 100 0 0 15 0 0 0 0 0 0 0 0
-0
-
- itm_mail_and_plate Mail_and_Plate Mail_and_Plate 1  mail_and_plate 0  16777229 0 450 704643236 16.000000 100 0 34 12 0 0 0 0 0 0 0 0
-0
-
- itm_light_mail_and_plate Light_Mail_and_Plate Light_Mail_and_Plate 1  light_mail_and_plate 0  16777229 0 510 704643236 10.000000 100 0 32 12 0 0 0 0 0 0 0 0
 0
 
  itm_armors_begin FLAG_FOR_ARMOR_BEGIN FLAG_FOR_ARMOR_BEGIN 1  sw_armor3_white 0  553648141 0 1 0 1.000000 100 0 1 1 0 0 0 0 0 0 0 0

@@ -1520,10 +1520,10 @@ spr_garlic 73728 0 garlic 0 0
 spr_garlic_b 73728 0 garlic_b 0 0
 
 
-spr_destroy_a 0 0 transparent 0 0
+spr_destroy_a 0 0 0 0 0
 
 
-spr_destroy_b 0 0 transparent 0 0
+spr_destroy_b 0 0 0 0 0
 
 
 spr_bridge_wooden 0 0 bridge_wooden bo_bridge_wooden 0
@@ -1535,46 +1535,46 @@ spr_bridge_wooden_snowy 0 0 bridge_wooden_snowy bo_bridge_wooden 0
 spr_grave_a 0 0 grave_a bo_grave_a 0
 
 
-spr_village_house_e 0 0 village_house_e bo_village_house_e 0
+spr_village_house_e 0 0 0 0 0
 
 
-spr_village_house_f 0 0 village_house_f bo_village_house_f 0
+spr_village_house_f 0 0 0 0 0
 
 
-spr_village_house_g 0 0 village_house_g bo_village_house_g 0
+spr_village_house_g 0 0 0 0 0
 
 
-spr_village_house_h 0 0 village_house_h bo_village_house_h 0
+spr_village_house_h 0 0 0 0 0
 
 
-spr_village_house_i 0 0 village_house_i bo_village_house_i 0
+spr_village_house_i 0 0 0 0 0
 
 
-spr_village_house_j 0 0 village_house_j bo_village_house_j 0
+spr_village_house_j 0 0 0 0 0
 
 
-spr_village_wall_a 0 0 village_wall_a bo_village_wall_a 0
+spr_village_wall_a 0 0 0 0 0
 
 
-spr_village_wall_b 0 0 village_wall_b bo_village_wall_b 0
+spr_village_wall_b 0 0 0 0 0
 
 
-spr_village_snowy_house_a 0 0 village_snowy_house_a bo_village_snowy_house_a 0
+spr_village_snowy_house_a 0 0 0 0 0
 
 
-spr_village_snowy_house_b 0 0 village_snowy_house_b bo_village_snowy_house_b 0
+spr_village_snowy_house_b 0 0 0 0 0
 
 
-spr_village_snowy_house_c 0 0 village_snowy_house_c bo_village_snowy_house_c 0
+spr_village_snowy_house_c 0 0 0 0 0
 
 
-spr_village_snowy_house_d 0 0 village_snowy_house_d bo_village_snowy_house_d 0
+spr_village_snowy_house_d 0 0 0 0 0
 
 
-spr_village_snowy_house_e 0 0 village_snowy_house_e bo_village_snowy_house_e 0
+spr_village_snowy_house_e 0 0 0 0 0
 
 
-spr_village_snowy_house_f 0 0 village_snowy_house_f bo_village_snowy_house_f 0
+spr_village_snowy_house_f 0 0 0 0 0
 
 
 spr_carpet_a 0 0 carpet_a 0 0
@@ -1622,13 +1622,13 @@ spr_snowy_fence 0 0 snowy_fence bo_snowy_fence 0
 spr_snowy_wood_heap 0 0 snowy_wood_heap bo_snowy_wood_heap 0
 
 
-spr_village_snowy_stable_a 0 0 village_snowy_stable_a bo_village_snowy_stable_a 0
+spr_village_snowy_stable_a 0 0 0 0 0
 
 
-spr_village_shed_a 0 0 village_shed_a bo_village_shed_a 0
+spr_village_shed_a 0 0 0 0 0
 
 
-spr_village_shed_b 0 0 village_shed_b bo_village_shed_b 0
+spr_village_shed_b 0 0 0 0 0
 
 
 spr_dungeon_door_cell_a 0 0 dungeon_door_cell_a bo_dungeon_door_cell_a 0
@@ -1779,10 +1779,10 @@ spr_band_a 0 0 band_a 0 0
 spr_arena_sign 0 0 sw_arena_arms 0 0
 
 
-spr_mosque_a 0 0 mosque_a bo_mosque_a 0
+spr_mosque_a 0 0 0 0 0
 
 
-spr_stone_minaret_a 0 0 stone_minaret_a bo_stone_minaret_a 0
+spr_stone_minaret_a 0 0 0 0 0
 
 
 spr_banner_pole 0 0 banner_pole bo_banner_pole 0
@@ -2186,22 +2186,22 @@ spr_table_small_b 0 0 table_small_b bo_table_small_b 0
 spr_small_timber_frame_house_a 0 0 small_timber_frame_house_a bo_small_timber_frame_house_a 0
 
 
-spr_timber_frame_house_b 0 0 tf_house_b bo_tf_house_b 0
+spr_timber_frame_house_b 0 0 0 0 0
 
 
-spr_timber_frame_house_c 0 0 tf_house_c bo_tf_house_c 0
+spr_timber_frame_house_c 0 0 0 0 0
 
 
-spr_timber_frame_extension_a 0 0 timber_frame_extension_a bo_timber_frame_extension_a 0
+spr_timber_frame_extension_a 0 0 0 0 0
 
 
-spr_timber_frame_extension_b 0 0 timber_frame_extension_b bo_timber_frame_extension_b 0
+spr_timber_frame_extension_b 0 0 0 0 0
 
 
-spr_stone_stairs_a 0 0 stone_stairs_a bo_stone_stairs_a 0
+spr_stone_stairs_a 0 0 0 0 0
 
 
-spr_stone_stairs_b 0 0 stone_stairs_b bo_stone_stairs_b 0
+spr_stone_stairs_b 0 0 0 0 0
 
 
 spr_railing_a 0 0 railing_a bo_railing_a 0
@@ -2210,49 +2210,49 @@ spr_railing_a 0 0 railing_a bo_railing_a 0
 spr_side_building_a 0 0 side_building_a bo_side_building_a 0
 
 
-spr_battlement_a 0 0 battlement_a bo_battlement_a 0
+spr_battlement_a 0 0 0 0 0
 
 
-spr_battlement_a_destroyed 0 0 battlement_a_destroyed bo_battlement_a_destroyed 0
+spr_battlement_a_destroyed 0 0 0 0 0
 
 
-spr_round_tower_a 0 0 round_tower_a bo_round_tower_a 0
+spr_round_tower_a 0 0 0 0 0
 
 
-spr_small_round_tower_a 0 0 small_round_tower_a bo_small_round_tower_a 0
+spr_small_round_tower_a 0 0 0 0 0
 
 
-spr_small_round_tower_roof_a 0 0 small_round_tower_roof_a bo_small_round_tower_roof_a 0
+spr_small_round_tower_roof_a 0 0 0 0 0
 
 
-spr_square_keep_a 0 0 square_keep_a bo_square_keep_a 0
+spr_square_keep_a 0 0 0 0 0
 
 
-spr_square_tower_roof_a 0 0 square_tower_roof_a 0 0
+spr_square_tower_roof_a 0 0 0 0 0
 
 
-spr_gate_house_a 0 0 gate_house_a bo_gate_house_a 0
+spr_gate_house_a 0 0 0 0 0
 
 
-spr_gate_house_b 0 0 gate_house_b bo_gate_house_b 0
+spr_gate_house_b 0 0 0 0 0
 
 
-spr_small_wall_a 0 0 small_wall_a bo_small_wall_a 0
+spr_small_wall_a 0 0 0 0 0
 
 
-spr_small_wall_b 0 0 small_wall_b bo_small_wall_b 0
+spr_small_wall_b 0 0 0 0 0
 
 
-spr_small_wall_c 0 0 small_wall_c bo_small_wall_c 0
+spr_small_wall_c 0 0 0 0 0
 
 
-spr_small_wall_c_destroy 0 0 small_wall_c_destroy bo_small_wall_c_destroy 0
+spr_small_wall_c_destroy 0 0 0 0 0
 
 
-spr_small_wall_d 0 0 small_wall_d bo_small_wall_d 0
+spr_small_wall_d 0 0 0 0 0
 
 
-spr_small_wall_e 0 0 small_wall_e bo_small_wall_d 0
+spr_small_wall_e 0 0 0 0 0
 
 
 spr_passage_house_a 0 0 passage_house_a bo_passage_house_a 0
@@ -2348,25 +2348,25 @@ spr_village_steppe_f 0 0 village_steppe_f bo_village_steppe_f 0
 spr_town_house_aa 0 0 town_house_aa bo_town_house_aa 0
 
 
-spr_square_keep_b 0 0 square_keep_b bo_square_keep_b 0
+spr_square_keep_b 0 0 0 0 0
 
 
-spr_square_keep_c 0 0 square_keep_c bo_square_keep_c 0
+spr_square_keep_c 0 0 0 0 0
 
 
-spr_square_keep_d 0 0 square_keep_d bo_square_keep_d 0
+spr_square_keep_d 0 0 0 0 0
 
 
-spr_square_keep_e 0 0 square_keep_e bo_square_keep_e 0
+spr_square_keep_e 0 0 0 0 0
 
 
-spr_square_keep_f 0 0 square_keep_f bo_square_keep_f 0
+spr_square_keep_f 0 0 0 0 0
 
 
-spr_square_extension_a 0 0 square_extension_a bo_square_extension_a 0
+spr_square_extension_a 0 0 0 0 0
 
 
-spr_square_stairs_a 0 0 square_stairs_a bo_square_stairs_a 0
+spr_square_stairs_a 0 0 0 0 0
 
 
 spr_castle_courtyard_house_a 0 0 castle_courtyard_house_a bo_castle_courtyard_house_a 0
@@ -2381,10 +2381,10 @@ spr_castle_courtyard_house_c 0 0 castle_courtyard_house_c bo_castle_courtyard_ho
 spr_castle_courtyard_a 0 0 castle_courtyard_a bo_castle_courtyard_a 0
 
 
-spr_gatehouse_b 0 0 gatehouse_b bo_gatehouse_b 0
+spr_gatehouse_b 0 0 0 0 0
 
 
-spr_castle_gaillard 0 0 castle_gaillard bo_castle_gaillard 0
+spr_castle_gaillard 0 0 0 0 0
 
 
 spr_stand_thatched 0 0 stand_thatched bo_stand_thatched 0
@@ -2516,10 +2516,10 @@ spr_castle_gate_house_a 0 0 sw_castle_gate_house_a bo_sw_castle_gate_house_a 0
 spr_castle_square_keep_a 0 0 sw_castle_square_keep_a bo_sw_castle_square_keep_a 0
 
 
-spr_castle_round_tower_a 0 0 castle_round_tower_a bo_castle_round_tower_a 0
+spr_castle_round_tower_a 0 0 0 0 0
 
 
-spr_castle_stairs_a 0 0 castle_stairs_a bo_castle_stairs_a 0
+spr_castle_stairs_a 0 0 0 0 0
 
 
 spr_castle_drawbridge_open 0 0 castle_drawbridges_open bo_castle_drawbridges_open 0
@@ -2710,10 +2710,10 @@ spr_bridge_modular_a 0 0 bridge_modular_a bo_bridge_modular_a 0
 spr_bridge_modular_b 0 0 bridge_modular_b bo_bridge_modular_b 0
 
 
-spr_church_a 0 0 church_a bo_church_a 0
+spr_church_a 0 0 0 0 0
 
 
-spr_church_tower_a 0 0 church_tower_a bo_church_tower_a 0
+spr_church_tower_a 0 0 0 0 0
 
 
 spr_stone_step_a 0 0 floor_stone_a bo_floor_stone_a 0
