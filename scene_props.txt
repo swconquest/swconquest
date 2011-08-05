@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1427
+ 1435
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4313,6 +4313,30 @@ spr_endor_walkway_support 0 0 endor_walkway_support bo_endor_walkway_support 0
 
 
 spr_ahto_city 0 0 ahto_city bo_ahto_city 0
+
+
+spr_Hoth_radio 0 0 Hoth_radio bo_Hoth_radio 0
+
+
+spr_Hoth_turret 0 0 Hoth_turret bo_Hoth_turret 0
+
+
+spr_Hoth_heater 0 0 Hoth_heater bo_Hoth_heater 0
+
+
+spr_Hoth_droid 0 0 Hoth_droid bo_Hoth_droid 0
+
+
+spr_Felucia_flower1 0 0 Felucia_flower1 bo_Felucia_flower1 0
+
+
+spr_Hoth_floor1 0 0 Hoth_floor1 bo_Hoth_floor1 0
+
+
+spr_Hoth_pillar1 0 0 Hoth_pillar1 bo_Hoth_pillar1 0
+
+
+spr_Hoth_pillar2 0 0 Hoth_pillar2 bo_Hoth_pillar2 0
 
 
 spr_rm_end 0 0 0 0 0
