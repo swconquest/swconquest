@@ -28,6 +28,12 @@ ________________________________________________________________________________
 [/] Update the Interface
  -swy- i'm on it
 
+[/] Resource cleanup and relocation
+ -swy- i'm on it
+ 
+[-] Turn blue normalmaps into green ones.
+ move the red channel into the alpha channel instead, and drop the blue channel (which can be calculated anyway)
+ 
 [-] Do Generic Minorplanet Scene Editing
  -needs sprops
 

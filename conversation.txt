@@ -33,7 +33,7 @@ dlga_ramun_ask_about_capturing:ramun_have_blunt_weapon 336 32  1 2147484208 3 14
 dlga_ramun_have_blunt_weapon:ramun_have_blunt_weapon_yes 65872 33  0 Of_course.  34  0 
 dlga_ramun_have_blunt_weapon:ramun_have_blunt_weapon_no 65872 33  0 As_a_matter_of_fact,_I_don't.  35  0 
 dlga_ramun_have_blunt_weapon_yes:ramun_ask_about_capturing_2 336 34  0 Good._Then_all_you_need_to_do_is_beat_the_bugger_down_with_your_weapon,_or_shoot_him_with_it,_and_when_the_fighting's_over_you_clap_him_in_irons._It's_a_bit_different_for_officers_and_such,_they_tend_to_be_protected_enough_that_it_won't_matter_what_kind_of_weapon_you_use,_but_your_average_rabble-rouser_will_bleed_like_a_stuck_pig_if_you_get_him_with_something_sharp._I_don't_have_many_requirements_in_my_merchandise,_but_I_do_insist_they_be_breathing_when_I_buy_them.  36  0 
-dlga_ramun_have_blunt_weapon_no:ramun_have_blunt_weapon_no_2 336 35  0 No?_Heh,_well,_this_must_be_your_lucky_day._I've_got_an_old_club_lying_around_that_I_was_going_to_throw_away._It_a_bit_battered,_but_still_good_enough_bash_someone_until_he_stops_moving._Here,_have_it.  37  1 1530 3 360287970189639680 288230376151711928 1 
+dlga_ramun_have_blunt_weapon_no:ramun_have_blunt_weapon_no_2 336 35  0 No?_Heh,_well,_this_must_be_your_lucky_day._I've_got_an_old_club_lying_around_that_I_was_going_to_throw_away._It_a_bit_battered,_but_still_good_enough_bash_someone_until_he_stops_moving._Here,_have_it.  37  1 1530 3 360287970189639680 288230376151711925 1 
 dlga_ramun_have_blunt_weapon_no_2:ramun_have_blunt_weapon_yes 65872 37  0 Thanks._Perhaps_I_may_try_my_hand_at_it.  34  0 
 dlga_ramun_ask_about_capturing:ramun_ask_about_capturing_2 336 32  0 Alright,_I'll_try_and_expain_it_again_in_simple_terms._The_basic_rule_of_taking_someone_prisoner_is_knocking_him_down_with_a_blunt_weapon,_like_a_club,_or_shooting_him_with_a_stun_blaster_rather_than_cutting_him_open_with_a_lightsaber,_or_blowing_his_head_off._That_way_he_goes_to_sleep_for_a_little_while_rather_than_bleeding_to_death,_you_see?_It's_a_bit_different_for_officers_and_such,_they_tend_to_be_protected_enough_that_it_won't_matter_what_kind_of_weapon_you_use,_but_your_average_rabble-rouser_will_bleed_like_a_stuck_pig_if_you_get_him_with_something_sharp.  36  0 
 dlga_ramun_ask_about_capturing_2:ramun_ask_about_capturing_3 65872 36  0 Alright,_I_think_I_understand._Anything_else?  38  0 
@@ -190,7 +190,7 @@ dlga_member_question_2:member_question_2_blackjack_1 69631 109  0 Do_you_want_to
 dlga_member_question_2:do_member_trade 69631 109  0 I_want_to_ask_you_something_else.  88  0 
 dlga_member_question_2_blackjack_1:member_question_2_blackjack_2 4095 112  0 Sure._Are_you_ready_to_play_or_should_I_review_the_rules?  113  0 
 dlga_member_question_2_blackjack_2:member_question_2_blackjack_3 69631 113  0 Start_playing.  114  0 
-dlga_member_question_2_blackjack_3:close_window 4095 114  2 2149 2 72057594037927937 360287970189639680 30 2 72057594037927937 1 Ok.^^You_will_have_to_click_'Done'_to_close_the_Party_window_before_the_game_can_begin.  6  3 2133 2 144115188075855912 1 2133 2 72057594037927986 0 900 1 1513209474796486676 
+dlga_member_question_2_blackjack_3:close_window 4095 114  2 2149 2 72057594037927937 360287970189639680 30 2 72057594037927937 1 Ok.^^You_will_have_to_click_'Done'_to_close_the_Party_window_before_the_game_can_begin.  6  3 2133 2 144115188075855912 1 2133 2 72057594037927986 0 900 1 1513209474796486677 
 dlga_member_question_2_blackjack_3:member_question_2_blackjack_1 4095 114  0 You_don't_have_enough_money.  112  0 
 dlga_member_question_2_blackjack_2:member_question_2_blackjack_4 69631 113  0 Discuss_the_rules.  115  0 
 dlga_member_question_2_blackjack_4:member_question_2_blackjack_1 4095 115  0 Pazaak_is_played_with_the_same_rules_as_Blackjack._The_player_closest_to_21,_without_going_over,_wins.  112  0 
@@ -553,7 +553,7 @@ dlga_lord_talk_ask_something_2:lord_talk_ask_about_war 69631 59  1 2147484208 3 
 dlga_lord_talk_ask_something_2:lord_blackjack_1 69631 59  0 Do_you_want_to_play_Pazaak?  292  0 
 dlga_lord_blackjack_1:lord_blackjack_2 4095 292  0 Sure._Are_you_ready_to_play_or_should_I_review_the_rules?  293  0 
 dlga_lord_blackjack_2:lord_blackjack_3 69631 293  0 Start_playing.  294  0 
-dlga_lord_blackjack_3:close_window 4095 294  2 2149 2 72057594037927937 360287970189639680 30 2 72057594037927937 1 Ok.^^You_may_need_to_move_your_character_to_one_side_so_the_'Talk'_dialog_does_not_appear_while_playing_the_game.  6  3 2133 2 144115188075855912 1 2133 2 72057594037927986 0 900 1 1513209474796486676 
+dlga_lord_blackjack_3:close_window 4095 294  2 2149 2 72057594037927937 360287970189639680 30 2 72057594037927937 1 Ok.^^You_may_need_to_move_your_character_to_one_side_so_the_'Talk'_dialog_does_not_appear_while_playing_the_game.  6  3 2133 2 144115188075855912 1 2133 2 72057594037927986 0 900 1 1513209474796486677 
 dlga_lord_blackjack_3:lord_blackjack_1 4095 294  0 You_don't_have_enough_money.  292  0 
 dlga_lord_blackjack_2:lord_blackjack_4 69631 293  0 Discuss_the_rules.  295  0 
 dlga_lord_blackjack_4:lord_blackjack_1 4095 295  0 Pazaak_is_played_with_the_same_rules_as_Blackjack._The_player_closest_to_21,_without_going_over,_wins.  292  0 
@@ -1311,7 +1311,7 @@ dlga_tavernkeeper_mission_hunt_down_fugitive_rejected:tavernkeeper_pretalk 4095 
 dlga_tavernkeeper_talk:tavernkeeper_blackjack_1 69631 660  0 Do_you_want_to_play_Pazaak?  681  0 
 dlga_tavernkeeper_blackjack_1:tavernkeeper_blackjack_2 4095 681  0 Sure._Are_you_ready_to_play_or_should_I_review_the_rules?  682  0 
 dlga_tavernkeeper_blackjack_2:tavernkeeper_blackjack_3 69631 682  0 Start_playing.  683  0 
-dlga_tavernkeeper_blackjack_3:close_window 4095 683  2 2149 2 72057594037927937 360287970189639680 30 2 72057594037927937 1 Ok.^^You_may_need_to_move_your_character_to_one_side_so_the_'Talk'_dialog_does_not_appear_while_playing_the_game.  6  3 2133 2 144115188075855912 1 2133 2 72057594037927986 0 900 1 1513209474796486676 
+dlga_tavernkeeper_blackjack_3:close_window 4095 683  2 2149 2 72057594037927937 360287970189639680 30 2 72057594037927937 1 Ok.^^You_may_need_to_move_your_character_to_one_side_so_the_'Talk'_dialog_does_not_appear_while_playing_the_game.  6  3 2133 2 144115188075855912 1 2133 2 72057594037927986 0 900 1 1513209474796486677 
 dlga_tavernkeeper_blackjack_3:tavernkeeper_blackjack_1 4095 683  0 You_don't_have_enough_money.  681  0 
 dlga_tavernkeeper_blackjack_2:tavernkeeper_blackjack_4 69631 682  0 Discuss_the_rules.  684  0 
 dlga_tavernkeeper_blackjack_4:tavernkeeper_blackjack_1 4095 684  0 Pazaak_is_played_with_the_same_rules_as_Blackjack._The_player_closest_to_21,_without_going_over,_wins.  681  0 
@@ -1904,7 +1904,7 @@ dlga_regular_member_talk:view_regular_char_requested 69631 973  0 Tell_me_about_
 dlga_regular_member_talk:regular_member_blackjack_1 69631 973  0 Do_you_want_to_play_Pazaak?  975  0 
 dlga_regular_member_blackjack_1:regular_member_blackjack_2 4095 975  0 Sure._Are_you_ready_to_play_or_should_I_review_the_rules?  976  0 
 dlga_regular_member_blackjack_2:regular_member_blackjack_3 69631 976  0 Start_playing.  977  0 
-dlga_regular_member_blackjack_3:close_window 4095 977  2 2149 2 72057594037927937 360287970189639680 30 2 72057594037927937 1 Ok.^^You_will_have_to_click_'Done'_to_close_the_Party_window_before_the_game_can_begin.  6  3 2133 2 144115188075855912 1 2133 2 72057594037927986 0 900 1 1513209474796486676 
+dlga_regular_member_blackjack_3:close_window 4095 977  2 2149 2 72057594037927937 360287970189639680 30 2 72057594037927937 1 Ok.^^You_will_have_to_click_'Done'_to_close_the_Party_window_before_the_game_can_begin.  6  3 2133 2 144115188075855912 1 2133 2 72057594037927986 0 900 1 1513209474796486677 
 dlga_regular_member_blackjack_3:regular_member_blackjack_1 4095 977  0 You_don't_have_enough_money.  975  0 
 dlga_regular_member_blackjack_2:regular_member_blackjack_4 69631 976  0 Discuss_the_rules.  978  0 
 dlga_regular_member_blackjack_4:regular_member_blackjack_1 4095 978  0 Pazaak_is_played_with_the_same_rules_as_Blackjack._The_player_closest_to_21,_without_going_over,_wins.  975  0 

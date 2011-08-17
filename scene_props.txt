@@ -4333,10 +4333,10 @@ spr_Felucia_flower1 0 0 Felucia_flower1 bo_Felucia_flower1 0
 spr_Hoth_floor1 0 0 Hoth_floor1 bo_Hoth_floor1 0
 
 
-spr_Hoth_pillar1 0 0 Hoth_pillar1 bo_Hoth_pillar1 0
+spr_Hoth_pillar1 0 0 Hoth_pillar1 bo_Hoth_pillar 0
 
 
-spr_Hoth_pillar2 0 0 Hoth_pillar2 bo_Hoth_pillar2 0
+spr_Hoth_pillar2 0 0 Hoth_pillar2 bo_Hoth_pillar 0
 
 
 spr_rm_end 0 0 0 0 0

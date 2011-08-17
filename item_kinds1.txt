@@ -1,5 +1,5 @@
 itemsfile version 2
-918
+915
  itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
 0
 
@@ -66,7 +66,7 @@ itemsfile version 2
  itm_practice_bolts_9_amount Practice_Bolts Practice_Bolts 4  bolt 0  flying_missile 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  6 1879048192 0 4398046511112 2.250000 100 0 0 0 0 0 0 0 55 9 0 0
 0
 
- itm_practice_boots Practice_Boots Practice_Boots 1  boot_nomad_a 0  536874766 0 11 123731968 1.000000 100 0 0 10 0 0 0 0 0 0 0 0
+ itm_practice_boots Practice_Boots Practice_Boots 2  boot_slim_black_reinforced_L 0  boot_slim_black_reinforced_inventory 1152921504606846976  536874766 0 11 123731968 1.000000 100 0 0 10 0 0 0 0 0 0 0 0
 0
 
  itm_red_tourney_armor Red_Tourney_Armor Red_Tourney_Armor 1  tourn_armor_a 0  16777229 0 150 0 15.000000 100 0 20 6 0 0 0 0 0 0 0 0
@@ -417,10 +417,10 @@ itemsfile version 2
  itm_hide_boots Hide_Boots Hide_Boots 1  boot_nomad_a 0  536940302 0 90 123731968 1.000000 100 0 0 10 0 0 0 0 0 0 0 0
 0
 
- itm_ankle_boots Ankle_Boots Ankle_Boots 1  ankle_boots_a 0  536940302 0 110 123731968 1.000000 100 0 0 12 0 0 0 0 0 0 0 0
+ itm_ankle_boots Ankle_Boots Ankle_Boots 2  boot_slim_black_reinforced2_L 0  boot_slim_black_reinforced2_inventory 1152921504606846976  536940302 0 110 123731968 1.000000 100 0 0 12 0 0 0 0 0 0 0 0
 0
 
- itm_nomad_boots Nomad_Boots Nomad_Boots 1  boot_nomad_b 0  536940302 0 120 123731968 1.250000 100 0 0 14 0 0 0 0 0 0 0 0
+ itm_nomad_boots Nomad_Boots Nomad_Boots 1  black_boots 0  536940302 0 120 123731968 1.250000 100 0 0 14 0 0 0 0 0 0 0 0
 0
 
  itm_lady_dress_ruby Lady_Dress Lady_Dress 1  lady_dress_r 0  553648141 0 170 123731968 3.000000 100 0 10 10 0 0 0 0 0 0 0 0
@@ -459,9 +459,6 @@ itemsfile version 2
  itm_leather_armor Leather_Armor Leather_Armor 1  lthr_armor_a 0  16842765 0 110 123731968 7.000000 100 0 18 0 0 0 0 0 0 0 0 0
 0
 
- itm_fur_coat Fur_Coat Fur_Coat 1  fur_coat 0  553713677 0 130 704643236 6.000000 100 0 13 6 0 0 0 0 0 0 0 0
-0
-
  itm_shirt Shirt Shirt 1  shirt 0  553713677 0 40 123731968 1.000000 100 0 5 0 0 0 0 0 0 0 0 0
 0
 
@@ -486,9 +483,6 @@ itemsfile version 2
  itm_leather_vest Leather_Vest Leather_Vest 1  leather_vest 0  553713677 0 180 123731968 4.000000 100 0 15 7 0 0 0 0 0 0 0 0
 0
 
- itm_steppe_armor Steppe_Armor Steppe_Armor 1  lamellar_leather 0  16842765 0 190 123731968 5.000000 100 0 16 8 0 0 0 0 0 0 0 0
-0
-
  itm_gambeson Gambeson Gambeson 1  white_gambeson 0  553648141 0 200 123731968 5.000000 100 0 20 5 0 0 0 0 0 0 0 0
 0
 
@@ -505,9 +499,6 @@ itemsfile version 2
 0
 
  itm_padded_leather Padded_Leather Padded_Leather 1  padded_leather 0  553648141 0 250 123731968 12.000000 100 0 27 10 0 0 0 0 0 0 0 0
-0
-
- itm_head_wrappings head_wrapping head_wrapping 1  head_wrapping 0  1073741836 0 16 56623104 0.250000 100 3 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_court_hat Turret_Hat Turret_Hat 1  court_hat 0  1610612748 0 80 123731968 0.500000 100 8 0 0 0 0 0 0 0 0 0 0

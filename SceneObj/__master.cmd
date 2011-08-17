@@ -1,501 +1,501 @@
-sceneobj scn_conversation_scene.sco
-sceneobj scn_custom_battle_1.sco
-sceneobj scn_custom_battle_2.sco
-sceneobj scn_custom_battle_3.sco
-sceneobj scn_field_1.sco
-sceneobj scn_field_2.sco
-sceneobj scn_mainplanet_bespin_alley.sco
-sceneobj scn_mainplanet_bespin_arena.sco
-sceneobj scn_mainplanet_bespin_cantina.sco
-sceneobj scn_mainplanet_bespin_castle.sco
-sceneobj scn_mainplanet_bespin_center.sco
-sceneobj scn_mainplanet_bespin_land_battle.sco
-sceneobj scn_mainplanet_bespin_store.sco
-sceneobj scn_mainplanet_bothawui_alley.sco
-sceneobj scn_mainplanet_bothawui_arena.sco
-sceneobj scn_mainplanet_bothawui_cantina.sco
-sceneobj scn_mainplanet_bothawui_castle.sco
-sceneobj scn_mainplanet_bothawui_center.sco
-sceneobj scn_mainplanet_bothawui_land_battle.sco
-sceneobj scn_mainplanet_bothawui_prison.sco
-sceneobj scn_mainplanet_bothawui_store.sco
-sceneobj scn_mainplanet_byss_alley.sco
-sceneobj scn_mainplanet_byss_arena.sco
-sceneobj scn_mainplanet_byss_cantina.sco
-sceneobj scn_mainplanet_byss_castle.sco
-sceneobj scn_mainplanet_byss_center.sco
-sceneobj scn_mainplanet_byss_land_battle.sco
-sceneobj scn_mainplanet_byss_prison.sco
-sceneobj scn_mainplanet_byss_store.sco
-sceneobj scn_mainplanet_christophsis_alley.sco
-sceneobj scn_mainplanet_christophsis_arena.sco
-sceneobj scn_mainplanet_christophsis_cantina.sco
-sceneobj scn_mainplanet_christophsis_castle.sco
-sceneobj scn_mainplanet_christophsis_center.sco
-sceneobj scn_mainplanet_christophsis_land_battle.sco
-sceneobj scn_mainplanet_christophsis_prison.sco
-sceneobj scn_mainplanet_christophsis_store.sco
-sceneobj scn_mainplanet_corellia_alley.sco
-sceneobj scn_mainplanet_corellia_arena.sco
-sceneobj scn_mainplanet_corellia_cantina.sco
-sceneobj scn_mainplanet_corellia_castle.sco
-sceneobj scn_mainplanet_corellia_center.sco
-sceneobj scn_mainplanet_corellia_land_battle.sco
-sceneobj scn_mainplanet_corellia_prison.sco
-sceneobj scn_mainplanet_corellia_store.sco
-sceneobj scn_mainplanet_coruscant_alley.sco
-sceneobj scn_mainplanet_coruscant_arena.sco
-sceneobj scn_mainplanet_coruscant_cantina.sco
-sceneobj scn_mainplanet_coruscant_castle.sco
-sceneobj scn_mainplanet_coruscant_center.sco
-sceneobj scn_mainplanet_coruscant_land_battle.sco
-sceneobj scn_mainplanet_coruscant_prison.sco
-sceneobj scn_mainplanet_coruscant_store.sco
-sceneobj scn_mainplanet_dantooine_alley.sco
-sceneobj scn_mainplanet_dantooine_arena.sco
-sceneobj scn_mainplanet_dantooine_cantina.sco
-sceneobj scn_mainplanet_dantooine_castle.sco
-sceneobj scn_mainplanet_dantooine_center.sco
-sceneobj scn_mainplanet_dantooine_land_battle.sco
-sceneobj scn_mainplanet_dantooine_prison.sco
-sceneobj scn_mainplanet_dantooine_store.sco
-sceneobj scn_mainplanet_endor_alley.sco
-sceneobj scn_mainplanet_endor_arena.sco
-sceneobj scn_mainplanet_endor_cantina.sco
-sceneobj scn_mainplanet_endor_castle.sco
-sceneobj scn_mainplanet_endor_center.sco
-sceneobj scn_mainplanet_endor_land_battle.sco
-sceneobj scn_mainplanet_endor_prison.sco
-sceneobj scn_mainplanet_endor_store.sco
-sceneobj scn_mainplanet_felucia_alley.sco
-sceneobj scn_mainplanet_felucia_arena.sco
-sceneobj scn_mainplanet_felucia_castle.sco
-sceneobj scn_mainplanet_felucia_center.sco
-sceneobj scn_mainplanet_felucia_land_battle.sco
-sceneobj scn_mainplanet_felucia_store.sco
-sceneobj scn_mainplanet_gamorr_alley.sco
-sceneobj scn_mainplanet_gamorr_arena.sco
-sceneobj scn_mainplanet_gamorr_cantina.sco
-sceneobj scn_mainplanet_gamorr_castle.sco
-sceneobj scn_mainplanet_gamorr_center.sco
-sceneobj scn_mainplanet_gamorr_land_battle.sco
-sceneobj scn_mainplanet_gamorr_prison.sco
-sceneobj scn_mainplanet_gamorr_store.sco
-sceneobj scn_mainplanet_geonosis_alley.sco
-sceneobj scn_mainplanet_geonosis_arena.sco
-sceneobj scn_mainplanet_geonosis_cantina.sco
-sceneobj scn_mainplanet_geonosis_castle.sco
-sceneobj scn_mainplanet_geonosis_center.sco
-sceneobj scn_mainplanet_geonosis_land_battle.sco
-sceneobj scn_mainplanet_geonosis_prison.sco
-sceneobj scn_mainplanet_geonosis_store.sco
-sceneobj scn_mainplanet_hoth_alley.sco
-sceneobj scn_mainplanet_hoth_arena.sco
-sceneobj scn_mainplanet_hoth_cantina.sco
-sceneobj scn_mainplanet_hoth_castle.sco
-sceneobj scn_mainplanet_hoth_center.sco
-sceneobj scn_mainplanet_hoth_land_battle.sco
-sceneobj scn_mainplanet_hoth_prison.sco
-sceneobj scn_mainplanet_hoth_store.sco
-sceneobj scn_mainplanet_hypori_alley.sco
-sceneobj scn_mainplanet_hypori_arena.sco
-sceneobj scn_mainplanet_hypori_cantina.sco
-sceneobj scn_mainplanet_hypori_castle.sco
-sceneobj scn_mainplanet_hypori_center.sco
-sceneobj scn_mainplanet_hypori_land_battle.sco
-sceneobj scn_mainplanet_hypori_prison.sco
-sceneobj scn_mainplanet_hypori_store.sco
-sceneobj scn_mainplanet_kamino_alley.sco
-sceneobj scn_mainplanet_kamino_arena.sco
-sceneobj scn_mainplanet_kamino_cantina.sco
-sceneobj scn_mainplanet_kamino_castle.sco
-sceneobj scn_mainplanet_kamino_center.sco
-sceneobj scn_mainplanet_kamino_land_battle.sco
-sceneobj scn_mainplanet_kamino_prison.sco
-sceneobj scn_mainplanet_kamino_store.sco
-sceneobj scn_mainplanet_kashyyyk_alley.sco
-sceneobj scn_mainplanet_kashyyyk_arena.sco
-sceneobj scn_mainplanet_kashyyyk_cantina.sco
-sceneobj scn_mainplanet_kashyyyk_castle.sco
-sceneobj scn_mainplanet_kashyyyk_center.sco
-sceneobj scn_mainplanet_kashyyyk_land_battle.sco
-sceneobj scn_mainplanet_kashyyyk_prison.sco
-sceneobj scn_mainplanet_kashyyyk_store.sco
-sceneobj scn_mainplanet_kessel_alley.sco
-sceneobj scn_mainplanet_kessel_arena.sco
-sceneobj scn_mainplanet_kessel_cantina.sco
-sceneobj scn_mainplanet_kessel_castle.sco
-sceneobj scn_mainplanet_kessel_center.sco
-sceneobj scn_mainplanet_kessel_land_battle.sco
-sceneobj scn_mainplanet_kessel_prison.sco
-sceneobj scn_mainplanet_kessel_store.sco
-sceneobj scn_mainplanet_manaan_center.sco
-sceneobj scn_mainplanet_mandalore_alley.sco
-sceneobj scn_mainplanet_mandalore_arena.sco
-sceneobj scn_mainplanet_mandalore_cantina.sco
-sceneobj scn_mainplanet_mandalore_castle.sco
-sceneobj scn_mainplanet_mandalore_center.sco
-sceneobj scn_mainplanet_mandalore_land_battle.sco
-sceneobj scn_mainplanet_mandalore_prison.sco
-sceneobj scn_mainplanet_mandalore_siege.sco
-sceneobj scn_mainplanet_mandalore_store.sco
-sceneobj scn_mainplanet_mon_cal_alley.sco
-sceneobj scn_mainplanet_mon_cal_arena.sco
-sceneobj scn_mainplanet_mon_cal_cantina.sco
-sceneobj scn_mainplanet_mon_cal_castle.sco
-sceneobj scn_mainplanet_mon_cal_center.sco
-sceneobj scn_mainplanet_mon_cal_land_battle.sco
-sceneobj scn_mainplanet_mon_cal_prison.sco
-sceneobj scn_mainplanet_mon_cal_store.sco
-sceneobj scn_mainplanet_mustafar_alley.sco
-sceneobj scn_mainplanet_mustafar_arena.sco
-sceneobj scn_mainplanet_mustafar_cantina.sco
-sceneobj scn_mainplanet_mustafar_castle.sco
-sceneobj scn_mainplanet_mustafar_center.sco
-sceneobj scn_mainplanet_mustafar_land_battle.sco
-sceneobj scn_mainplanet_mustafar_prison.sco
-sceneobj scn_mainplanet_mustafar_store.sco
-sceneobj scn_mainplanet_naboo_alley.sco
-sceneobj scn_mainplanet_naboo_arena.sco
-sceneobj scn_mainplanet_naboo_cantina.sco
-sceneobj scn_mainplanet_naboo_castle.sco
-sceneobj scn_mainplanet_naboo_center.sco
-sceneobj scn_mainplanet_naboo_land_battle.sco
-sceneobj scn_mainplanet_naboo_prison.sco
-sceneobj scn_mainplanet_naboo_store.sco
-sceneobj scn_mainplanet_nalhutta_alley.sco
-sceneobj scn_mainplanet_nalhutta_arena.sco
-sceneobj scn_mainplanet_nalhutta_cantina.sco
-sceneobj scn_mainplanet_nalhutta_castle.sco
-sceneobj scn_mainplanet_nalhutta_center.sco
-sceneobj scn_mainplanet_nalhutta_land_battle.sco
-sceneobj scn_mainplanet_nalhutta_prison.sco
-sceneobj scn_mainplanet_nalhutta_store.sco
-sceneobj scn_mainplanet_raxusprime_alley.sco
-sceneobj scn_mainplanet_raxusprime_arena.sco
-sceneobj scn_mainplanet_raxusprime_cantina.sco
-sceneobj scn_mainplanet_raxusprime_castle.sco
-sceneobj scn_mainplanet_raxusprime_center.sco
-sceneobj scn_mainplanet_raxusprime_land_battle.sco
-sceneobj scn_mainplanet_raxusprime_prison.sco
-sceneobj scn_mainplanet_raxusprime_store.sco
-sceneobj scn_mainplanet_reecee_alley.sco
-sceneobj scn_mainplanet_reecee_arena.sco
-sceneobj scn_mainplanet_reecee_cantina.sco
-sceneobj scn_mainplanet_reecee_castle.sco
-sceneobj scn_mainplanet_reecee_center.sco
-sceneobj scn_mainplanet_reecee_land_battle.sco
-sceneobj scn_mainplanet_reecee_prison.sco
-sceneobj scn_mainplanet_reecee_store.sco
-sceneobj scn_mainplanet_ryloth_alley.sco
-sceneobj scn_mainplanet_ryloth_arena.sco
-sceneobj scn_mainplanet_ryloth_cantina.sco
-sceneobj scn_mainplanet_ryloth_castle.sco
-sceneobj scn_mainplanet_ryloth_center.sco
-sceneobj scn_mainplanet_ryloth_land_battle.sco
-sceneobj scn_mainplanet_ryloth_prison.sco
-sceneobj scn_mainplanet_ryloth_store.sco
-sceneobj scn_mainplanet_sarapin_alley.sco
-sceneobj scn_mainplanet_sarapin_arena.sco
-sceneobj scn_mainplanet_sarapin_cantina.sco
-sceneobj scn_mainplanet_sarapin_castle.sco
-sceneobj scn_mainplanet_sarapin_center.sco
-sceneobj scn_mainplanet_sarapin_land_battle.sco
-sceneobj scn_mainplanet_sarapin_prison.sco
-sceneobj scn_mainplanet_sarapin_store.sco
-sceneobj scn_mainplanet_taris_alley.sco
-sceneobj scn_mainplanet_taris_arena.sco
-sceneobj scn_mainplanet_taris_cantina.sco
-sceneobj scn_mainplanet_taris_castle.sco
-sceneobj scn_mainplanet_taris_center.sco
-sceneobj scn_mainplanet_taris_land_battle.sco
-sceneobj scn_mainplanet_taris_prison.sco
-sceneobj scn_mainplanet_taris_store.sco
-sceneobj scn_mainplanet_tatooine_alley.sco
-sceneobj scn_mainplanet_tatooine_arena.sco
-sceneobj scn_mainplanet_tatooine_cantina.sco
-sceneobj scn_mainplanet_tatooine_castle.sco
-sceneobj scn_mainplanet_tatooine_center.sco
-sceneobj scn_mainplanet_tatooine_land_battle.sco
-sceneobj scn_mainplanet_tatooine_prison.sco
-sceneobj scn_mainplanet_tatooine_store.sco
-sceneobj scn_mainplanet_yavin_iv_alley.sco
-sceneobj scn_mainplanet_yavin_iv_arena.sco
-sceneobj scn_mainplanet_yavin_iv_cantina.sco
-sceneobj scn_mainplanet_yavin_iv_castle.sco
-sceneobj scn_mainplanet_yavin_iv_center.sco
-sceneobj scn_mainplanet_yavin_iv_land_battle.sco
-sceneobj scn_mainplanet_yavin_iv_prison.sco
-sceneobj scn_mainplanet_yavin_iv_store.sco
-sceneobj scn_minorplanet_1.sco
-sceneobj scn_minorplanet_10.sco
-sceneobj scn_minorplanet_11.sco
-sceneobj scn_minorplanet_12.sco
-sceneobj scn_minorplanet_13.sco
-sceneobj scn_minorplanet_14.sco
-sceneobj scn_minorplanet_15.sco
-sceneobj scn_minorplanet_16.sco
-sceneobj scn_minorplanet_17.sco
-sceneobj scn_minorplanet_18.sco
-sceneobj scn_minorplanet_19.sco
-sceneobj scn_minorplanet_2.sco
-sceneobj scn_minorplanet_20.sco
-sceneobj scn_minorplanet_21.sco
-sceneobj scn_minorplanet_22.sco
-sceneobj scn_minorplanet_23.sco
-sceneobj scn_minorplanet_24.sco
-sceneobj scn_minorplanet_25.sco
-sceneobj scn_minorplanet_26.sco
-sceneobj scn_minorplanet_27.sco
-sceneobj scn_minorplanet_28.sco
-sceneobj scn_minorplanet_29.sco
-sceneobj scn_minorplanet_3.sco
-sceneobj scn_minorplanet_30.sco
-sceneobj scn_minorplanet_31.sco
-sceneobj scn_minorplanet_32.sco
-sceneobj scn_minorplanet_33.sco
-sceneobj scn_minorplanet_34.sco
-sceneobj scn_minorplanet_35.sco
-sceneobj scn_minorplanet_36.sco
-sceneobj scn_minorplanet_37.sco
-sceneobj scn_minorplanet_38.sco
-sceneobj scn_minorplanet_39.sco
-sceneobj scn_minorplanet_4.sco
-sceneobj scn_minorplanet_40.sco
-sceneobj scn_minorplanet_41.sco
-sceneobj scn_minorplanet_42.sco
-sceneobj scn_minorplanet_43.sco
-sceneobj scn_minorplanet_44.sco
-sceneobj scn_minorplanet_45.sco
-sceneobj scn_minorplanet_46.sco
-sceneobj scn_minorplanet_47.sco
-sceneobj scn_minorplanet_48.sco
-sceneobj scn_minorplanet_49.sco
-sceneobj scn_minorplanet_5.sco
-sceneobj scn_minorplanet_50.sco
-sceneobj scn_minorplanet_51.sco
-sceneobj scn_minorplanet_52.sco
-sceneobj scn_minorplanet_53.sco
-sceneobj scn_minorplanet_54.sco
-sceneobj scn_minorplanet_55.sco
-sceneobj scn_minorplanet_56.sco
-sceneobj scn_minorplanet_57.sco
-sceneobj scn_minorplanet_58.sco
-sceneobj scn_minorplanet_59.sco
-sceneobj scn_minorplanet_6.sco
-sceneobj scn_minorplanet_60.sco
-sceneobj scn_minorplanet_61.sco
-sceneobj scn_minorplanet_62.sco
-sceneobj scn_minorplanet_63.sco
-sceneobj scn_minorplanet_64.sco
-sceneobj scn_minorplanet_65.sco
-sceneobj scn_minorplanet_66.sco
-sceneobj scn_minorplanet_67.sco
-sceneobj scn_minorplanet_68.sco
-sceneobj scn_minorplanet_69.sco
-sceneobj scn_minorplanet_7.sco
-sceneobj scn_minorplanet_70.sco
-sceneobj scn_minorplanet_71.sco
-sceneobj scn_minorplanet_72.sco
-sceneobj scn_minorplanet_73.sco
-sceneobj scn_minorplanet_74.sco
-sceneobj scn_minorplanet_75.sco
-sceneobj scn_minorplanet_76.sco
-sceneobj scn_minorplanet_77.sco
-sceneobj scn_minorplanet_78.sco
-sceneobj scn_minorplanet_79.sco
-sceneobj scn_minorplanet_8.sco
-sceneobj scn_minorplanet_80.sco
-sceneobj scn_minorplanet_81.sco
-sceneobj scn_minorplanet_82.sco
-sceneobj scn_minorplanet_83.sco
-sceneobj scn_minorplanet_84.sco
-sceneobj scn_minorplanet_85.sco
-sceneobj scn_minorplanet_86.sco
-sceneobj scn_minorplanet_87.sco
-sceneobj scn_minorplanet_88.sco
-sceneobj scn_minorplanet_89.sco
-sceneobj scn_minorplanet_9.sco
-sceneobj scn_minorplanet_90.sco
-sceneobj scn_novice_ground.sco
-sceneobj scn_quick_battle_1.sco
-sceneobj scn_quick_battle_2.sco
-sceneobj scn_quick_battle_3.sco
-sceneobj scn_quick_battle_4.sco
-sceneobj scn_quick_battle_5.sco
-sceneobj scn_quick_battle_6.sco
-sceneobj scn_quick_battle_7.sco
-sceneobj scn_quick_battle_8.sco
-sceneobj scn_quick_battle_9.sco
-sceneobj scn_random_scene.sco
-sceneobj scn_random_scene_desert.sco
-sceneobj scn_random_scene_plain.sco
-sceneobj scn_random_scene_plain_forest.sco
-sceneobj scn_random_scene_ship.sco
-sceneobj scn_random_scene_snow.sco
-sceneobj scn_random_scene_snow_forest.sco
-sceneobj scn_random_scene_steppe.sco
-sceneobj scn_random_scene_steppe_forest.sco
-sceneobj scn_random_scene_water.sco
-sceneobj scn_ship_hangar.sco
-sceneobj scn_ship_hangar_closed_1a.sco
-sceneobj scn_ship_hangar_closed_1b.sco
-sceneobj scn_ship_hangar_hut.sco
-sceneobj scn_ship_hangar_imp.sco
-sceneobj scn_ship_hangar_open_3a.sco
-sceneobj scn_ship_hangar_open_3b.sco
-sceneobj scn_ship_hangar_reb.sco
-sceneobj scn_ship_interior.sco
-sceneobj scn_ship_interior_hut.sco
-sceneobj scn_ship_interior_imp.sco
-sceneobj scn_ship_interior_reb.sco
-sceneobj scn_spacestation_10_exterior.sco
-sceneobj scn_spacestation_10_interior.sco
-sceneobj scn_spacestation_10_prison.sco
-sceneobj scn_spacestation_11_exterior.sco
-sceneobj scn_spacestation_11_interior.sco
-sceneobj scn_spacestation_11_prison.sco
-sceneobj scn_spacestation_12_exterior.sco
-sceneobj scn_spacestation_12_interior.sco
-sceneobj scn_spacestation_12_prison.sco
-sceneobj scn_spacestation_13_exterior.sco
-sceneobj scn_spacestation_13_interior.sco
-sceneobj scn_spacestation_13_prison.sco
-sceneobj scn_spacestation_14_exterior.sco
-sceneobj scn_spacestation_14_interior.sco
-sceneobj scn_spacestation_14_prison.sco
-sceneobj scn_spacestation_15_exterior.sco
-sceneobj scn_spacestation_15_interior.sco
-sceneobj scn_spacestation_15_prison.sco
-sceneobj scn_spacestation_16_exterior.sco
-sceneobj scn_spacestation_16_interior.sco
-sceneobj scn_spacestation_16_prison.sco
-sceneobj scn_spacestation_17_exterior.sco
-sceneobj scn_spacestation_17_interior.sco
-sceneobj scn_spacestation_17_prison.sco
-sceneobj scn_spacestation_18_exterior.sco
-sceneobj scn_spacestation_18_interior.sco
-sceneobj scn_spacestation_18_prison.sco
-sceneobj scn_spacestation_19_exterior.sco
-sceneobj scn_spacestation_19_interior.sco
-sceneobj scn_spacestation_19_prison.sco
-sceneobj scn_spacestation_1_exterior.sco
-sceneobj scn_spacestation_1_interior.sco
-sceneobj scn_spacestation_1_prison.sco
-sceneobj scn_spacestation_20_exterior.sco
-sceneobj scn_spacestation_20_interior.sco
-sceneobj scn_spacestation_20_prison.sco
-sceneobj scn_spacestation_21_exterior.sco
-sceneobj scn_spacestation_21_interior.sco
-sceneobj scn_spacestation_21_prison.sco
-sceneobj scn_spacestation_22_exterior.sco
-sceneobj scn_spacestation_22_interior.sco
-sceneobj scn_spacestation_22_prison.sco
-sceneobj scn_spacestation_23_exterior.sco
-sceneobj scn_spacestation_23_interior.sco
-sceneobj scn_spacestation_23_prison.sco
-sceneobj scn_spacestation_24_exterior.sco
-sceneobj scn_spacestation_24_interior.sco
-sceneobj scn_spacestation_24_prison.sco
-sceneobj scn_spacestation_25_exterior.sco
-sceneobj scn_spacestation_25_interior.sco
-sceneobj scn_spacestation_25_prison.sco
-sceneobj scn_spacestation_26_exterior.sco
-sceneobj scn_spacestation_26_interior.sco
-sceneobj scn_spacestation_26_prison.sco
-sceneobj scn_spacestation_27_exterior.sco
-sceneobj scn_spacestation_27_interior.sco
-sceneobj scn_spacestation_27_prison.sco
-sceneobj scn_spacestation_28_exterior.sco
-sceneobj scn_spacestation_28_interior.sco
-sceneobj scn_spacestation_28_prison.sco
-sceneobj scn_spacestation_29_exterior.sco
-sceneobj scn_spacestation_29_interior.sco
-sceneobj scn_spacestation_29_prison.sco
-sceneobj scn_spacestation_2_exterior.sco
-sceneobj scn_spacestation_2_interior.sco
-sceneobj scn_spacestation_2_prison.sco
-sceneobj scn_spacestation_30_exterior.sco
-sceneobj scn_spacestation_30_interior.sco
-sceneobj scn_spacestation_30_prison.sco
-sceneobj scn_spacestation_31_exterior.sco
-sceneobj scn_spacestation_31_interior.sco
-sceneobj scn_spacestation_31_prison.sco
-sceneobj scn_spacestation_32_exterior.sco
-sceneobj scn_spacestation_32_interior.sco
-sceneobj scn_spacestation_32_prison.sco
-sceneobj scn_spacestation_33_exterior.sco
-sceneobj scn_spacestation_33_interior.sco
-sceneobj scn_spacestation_33_prison.sco
-sceneobj scn_spacestation_34_exterior.sco
-sceneobj scn_spacestation_34_interior.sco
-sceneobj scn_spacestation_34_prison.sco
-sceneobj scn_spacestation_35_exterior.sco
-sceneobj scn_spacestation_35_interior.sco
-sceneobj scn_spacestation_35_prison.sco
-sceneobj scn_spacestation_36_exterior.sco
-sceneobj scn_spacestation_36_interior.sco
-sceneobj scn_spacestation_36_prison.sco
-sceneobj scn_spacestation_37_exterior.sco
-sceneobj scn_spacestation_37_interior.sco
-sceneobj scn_spacestation_37_prison.sco
-sceneobj scn_spacestation_38_exterior.sco
-sceneobj scn_spacestation_38_interior.sco
-sceneobj scn_spacestation_38_prison.sco
-sceneobj scn_spacestation_39_exterior.sco
-sceneobj scn_spacestation_39_interior.sco
-sceneobj scn_spacestation_39_prison.sco
-sceneobj scn_spacestation_3_exterior.sco
-sceneobj scn_spacestation_3_interior.sco
-sceneobj scn_spacestation_3_prison.sco
-sceneobj scn_spacestation_40_exterior.sco
-sceneobj scn_spacestation_40_interior.sco
-sceneobj scn_spacestation_40_prison.sco
-sceneobj scn_spacestation_41_exterior.sco
-sceneobj scn_spacestation_41_interior.sco
-sceneobj scn_spacestation_41_prison.sco
-sceneobj scn_spacestation_42_exterior.sco
-sceneobj scn_spacestation_42_interior.sco
-sceneobj scn_spacestation_42_prison.sco
-sceneobj scn_spacestation_4_exterior.sco
-sceneobj scn_spacestation_4_exterior_diff.sco
-sceneobj scn_spacestation_4_interior.sco
-sceneobj scn_spacestation_4_prison.sco
-sceneobj scn_spacestation_5_exterior.sco
-sceneobj scn_spacestation_5_interior.sco
-sceneobj scn_spacestation_5_prison.sco
-sceneobj scn_spacestation_6_exterior.sco
-sceneobj scn_spacestation_6_interior.sco
-sceneobj scn_spacestation_6_prison.sco
-sceneobj scn_spacestation_7_exterior.sco
-sceneobj scn_spacestation_7_interior.sco
-sceneobj scn_spacestation_7_prison.sco
-sceneobj scn_spacestation_8_exterior.sco
-sceneobj scn_spacestation_8_interior.sco
-sceneobj scn_spacestation_8_prison.sco
-sceneobj scn_spacestation_9_exterior.sco
-sceneobj scn_spacestation_9_interior.sco
-sceneobj scn_spacestation_9_prison.sco
-sceneobj scn_space_battle.sco
-sceneobj scn_space_battle_entry.sco
-sceneobj scn_space_battle_original.sco
-sceneobj scn_swc_dev_island.sco
-sceneobj scn_test_scene.sco
-sceneobj scn_trade_federation.sco
-sceneobj scn_training_ground.sco
-sceneobj scn_training_ground_horse_track_1.sco
-sceneobj scn_training_ground_horse_track_2.sco
-sceneobj scn_training_ground_horse_track_3.sco
-sceneobj scn_training_ground_horse_track_4.sco
-sceneobj scn_training_ground_horse_track_5.sco
-sceneobj scn_training_ground_ranged_melee_1.sco
-sceneobj scn_training_ground_ranged_melee_2.sco
-sceneobj scn_training_ground_ranged_melee_3.sco
-sceneobj scn_training_ground_ranged_melee_4.sco
-sceneobj scn_training_ground_ranged_melee_5.sco
-sceneobj scn_tutorial_1.sco
-sceneobj scn_tutorial_2.sco
-sceneobj scn_tutorial_3.sco
-sceneobj scn_tutorial_4.sco
-sceneobj scn_tutorial_5.sco
+sceneobj scn_conversation_scene.sco >> __out.log
+sceneobj scn_custom_battle_1.sco >> __out.log
+sceneobj scn_custom_battle_2.sco >> __out.log
+sceneobj scn_custom_battle_3.sco >> __out.log
+sceneobj scn_field_1.sco >> __out.log
+sceneobj scn_field_2.sco >> __out.log
+sceneobj scn_mainplanet_bespin_alley.sco >> __out.log
+sceneobj scn_mainplanet_bespin_arena.sco >> __out.log
+sceneobj scn_mainplanet_bespin_cantina.sco >> __out.log
+sceneobj scn_mainplanet_bespin_castle.sco >> __out.log
+sceneobj scn_mainplanet_bespin_center.sco >> __out.log
+sceneobj scn_mainplanet_bespin_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_bespin_store.sco >> __out.log
+sceneobj scn_mainplanet_bothawui_alley.sco >> __out.log
+sceneobj scn_mainplanet_bothawui_arena.sco >> __out.log
+sceneobj scn_mainplanet_bothawui_cantina.sco >> __out.log
+sceneobj scn_mainplanet_bothawui_castle.sco >> __out.log
+sceneobj scn_mainplanet_bothawui_center.sco >> __out.log
+sceneobj scn_mainplanet_bothawui_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_bothawui_prison.sco >> __out.log
+sceneobj scn_mainplanet_bothawui_store.sco >> __out.log
+sceneobj scn_mainplanet_byss_alley.sco >> __out.log
+sceneobj scn_mainplanet_byss_arena.sco >> __out.log
+sceneobj scn_mainplanet_byss_cantina.sco >> __out.log
+sceneobj scn_mainplanet_byss_castle.sco >> __out.log
+sceneobj scn_mainplanet_byss_center.sco >> __out.log
+sceneobj scn_mainplanet_byss_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_byss_prison.sco >> __out.log
+sceneobj scn_mainplanet_byss_store.sco >> __out.log
+sceneobj scn_mainplanet_christophsis_alley.sco >> __out.log
+sceneobj scn_mainplanet_christophsis_arena.sco >> __out.log
+sceneobj scn_mainplanet_christophsis_cantina.sco >> __out.log
+sceneobj scn_mainplanet_christophsis_castle.sco >> __out.log
+sceneobj scn_mainplanet_christophsis_center.sco >> __out.log
+sceneobj scn_mainplanet_christophsis_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_christophsis_prison.sco >> __out.log
+sceneobj scn_mainplanet_christophsis_store.sco >> __out.log
+sceneobj scn_mainplanet_corellia_alley.sco >> __out.log
+sceneobj scn_mainplanet_corellia_arena.sco >> __out.log
+sceneobj scn_mainplanet_corellia_cantina.sco >> __out.log
+sceneobj scn_mainplanet_corellia_castle.sco >> __out.log
+sceneobj scn_mainplanet_corellia_center.sco >> __out.log
+sceneobj scn_mainplanet_corellia_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_corellia_prison.sco >> __out.log
+sceneobj scn_mainplanet_corellia_store.sco >> __out.log
+sceneobj scn_mainplanet_coruscant_alley.sco >> __out.log
+sceneobj scn_mainplanet_coruscant_arena.sco >> __out.log
+sceneobj scn_mainplanet_coruscant_cantina.sco >> __out.log
+sceneobj scn_mainplanet_coruscant_castle.sco >> __out.log
+sceneobj scn_mainplanet_coruscant_center.sco >> __out.log
+sceneobj scn_mainplanet_coruscant_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_coruscant_prison.sco >> __out.log
+sceneobj scn_mainplanet_coruscant_store.sco >> __out.log
+sceneobj scn_mainplanet_dantooine_alley.sco >> __out.log
+sceneobj scn_mainplanet_dantooine_arena.sco >> __out.log
+sceneobj scn_mainplanet_dantooine_cantina.sco >> __out.log
+sceneobj scn_mainplanet_dantooine_castle.sco >> __out.log
+sceneobj scn_mainplanet_dantooine_center.sco >> __out.log
+sceneobj scn_mainplanet_dantooine_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_dantooine_prison.sco >> __out.log
+sceneobj scn_mainplanet_dantooine_store.sco >> __out.log
+sceneobj scn_mainplanet_endor_alley.sco >> __out.log
+sceneobj scn_mainplanet_endor_arena.sco >> __out.log
+sceneobj scn_mainplanet_endor_cantina.sco >> __out.log
+sceneobj scn_mainplanet_endor_castle.sco >> __out.log
+sceneobj scn_mainplanet_endor_center.sco >> __out.log
+sceneobj scn_mainplanet_endor_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_endor_prison.sco >> __out.log
+sceneobj scn_mainplanet_endor_store.sco >> __out.log
+sceneobj scn_mainplanet_felucia_alley.sco >> __out.log
+sceneobj scn_mainplanet_felucia_arena.sco >> __out.log
+sceneobj scn_mainplanet_felucia_castle.sco >> __out.log
+sceneobj scn_mainplanet_felucia_center.sco >> __out.log
+sceneobj scn_mainplanet_felucia_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_felucia_store.sco >> __out.log
+sceneobj scn_mainplanet_gamorr_alley.sco >> __out.log
+sceneobj scn_mainplanet_gamorr_arena.sco >> __out.log
+sceneobj scn_mainplanet_gamorr_cantina.sco >> __out.log
+sceneobj scn_mainplanet_gamorr_castle.sco >> __out.log
+sceneobj scn_mainplanet_gamorr_center.sco >> __out.log
+sceneobj scn_mainplanet_gamorr_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_gamorr_prison.sco >> __out.log
+sceneobj scn_mainplanet_gamorr_store.sco >> __out.log
+sceneobj scn_mainplanet_geonosis_alley.sco >> __out.log
+sceneobj scn_mainplanet_geonosis_arena.sco >> __out.log
+sceneobj scn_mainplanet_geonosis_cantina.sco >> __out.log
+sceneobj scn_mainplanet_geonosis_castle.sco >> __out.log
+sceneobj scn_mainplanet_geonosis_center.sco >> __out.log
+sceneobj scn_mainplanet_geonosis_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_geonosis_prison.sco >> __out.log
+sceneobj scn_mainplanet_geonosis_store.sco >> __out.log
+sceneobj scn_mainplanet_hoth_alley.sco >> __out.log
+sceneobj scn_mainplanet_hoth_arena.sco >> __out.log
+sceneobj scn_mainplanet_hoth_cantina.sco >> __out.log
+sceneobj scn_mainplanet_hoth_castle.sco >> __out.log
+sceneobj scn_mainplanet_hoth_center.sco >> __out.log
+sceneobj scn_mainplanet_hoth_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_hoth_prison.sco >> __out.log
+sceneobj scn_mainplanet_hoth_store.sco >> __out.log
+sceneobj scn_mainplanet_hypori_alley.sco >> __out.log
+sceneobj scn_mainplanet_hypori_arena.sco >> __out.log
+sceneobj scn_mainplanet_hypori_cantina.sco >> __out.log
+sceneobj scn_mainplanet_hypori_castle.sco >> __out.log
+sceneobj scn_mainplanet_hypori_center.sco >> __out.log
+sceneobj scn_mainplanet_hypori_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_hypori_prison.sco >> __out.log
+sceneobj scn_mainplanet_hypori_store.sco >> __out.log
+sceneobj scn_mainplanet_kamino_alley.sco >> __out.log
+sceneobj scn_mainplanet_kamino_arena.sco >> __out.log
+sceneobj scn_mainplanet_kamino_cantina.sco >> __out.log
+sceneobj scn_mainplanet_kamino_castle.sco >> __out.log
+sceneobj scn_mainplanet_kamino_center.sco >> __out.log
+sceneobj scn_mainplanet_kamino_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_kamino_prison.sco >> __out.log
+sceneobj scn_mainplanet_kamino_store.sco >> __out.log
+sceneobj scn_mainplanet_kashyyyk_alley.sco >> __out.log
+sceneobj scn_mainplanet_kashyyyk_arena.sco >> __out.log
+sceneobj scn_mainplanet_kashyyyk_cantina.sco >> __out.log
+sceneobj scn_mainplanet_kashyyyk_castle.sco >> __out.log
+sceneobj scn_mainplanet_kashyyyk_center.sco >> __out.log
+sceneobj scn_mainplanet_kashyyyk_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_kashyyyk_prison.sco >> __out.log
+sceneobj scn_mainplanet_kashyyyk_store.sco >> __out.log
+sceneobj scn_mainplanet_kessel_alley.sco >> __out.log
+sceneobj scn_mainplanet_kessel_arena.sco >> __out.log
+sceneobj scn_mainplanet_kessel_cantina.sco >> __out.log
+sceneobj scn_mainplanet_kessel_castle.sco >> __out.log
+sceneobj scn_mainplanet_kessel_center.sco >> __out.log
+sceneobj scn_mainplanet_kessel_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_kessel_prison.sco >> __out.log
+sceneobj scn_mainplanet_kessel_store.sco >> __out.log
+sceneobj scn_mainplanet_manaan_center.sco >> __out.log
+sceneobj scn_mainplanet_mandalore_alley.sco >> __out.log
+sceneobj scn_mainplanet_mandalore_arena.sco >> __out.log
+sceneobj scn_mainplanet_mandalore_cantina.sco >> __out.log
+sceneobj scn_mainplanet_mandalore_castle.sco >> __out.log
+sceneobj scn_mainplanet_mandalore_center.sco >> __out.log
+sceneobj scn_mainplanet_mandalore_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_mandalore_prison.sco >> __out.log
+sceneobj scn_mainplanet_mandalore_siege.sco >> __out.log
+sceneobj scn_mainplanet_mandalore_store.sco >> __out.log
+sceneobj scn_mainplanet_mon_cal_alley.sco >> __out.log
+sceneobj scn_mainplanet_mon_cal_arena.sco >> __out.log
+sceneobj scn_mainplanet_mon_cal_cantina.sco >> __out.log
+sceneobj scn_mainplanet_mon_cal_castle.sco >> __out.log
+sceneobj scn_mainplanet_mon_cal_center.sco >> __out.log
+sceneobj scn_mainplanet_mon_cal_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_mon_cal_prison.sco >> __out.log
+sceneobj scn_mainplanet_mon_cal_store.sco >> __out.log
+sceneobj scn_mainplanet_mustafar_alley.sco >> __out.log
+sceneobj scn_mainplanet_mustafar_arena.sco >> __out.log
+sceneobj scn_mainplanet_mustafar_cantina.sco >> __out.log
+sceneobj scn_mainplanet_mustafar_castle.sco >> __out.log
+sceneobj scn_mainplanet_mustafar_center.sco >> __out.log
+sceneobj scn_mainplanet_mustafar_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_mustafar_prison.sco >> __out.log
+sceneobj scn_mainplanet_mustafar_store.sco >> __out.log
+sceneobj scn_mainplanet_naboo_alley.sco >> __out.log
+sceneobj scn_mainplanet_naboo_arena.sco >> __out.log
+sceneobj scn_mainplanet_naboo_cantina.sco >> __out.log
+sceneobj scn_mainplanet_naboo_castle.sco >> __out.log
+sceneobj scn_mainplanet_naboo_center.sco >> __out.log
+sceneobj scn_mainplanet_naboo_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_naboo_prison.sco >> __out.log
+sceneobj scn_mainplanet_naboo_store.sco >> __out.log
+sceneobj scn_mainplanet_nalhutta_alley.sco >> __out.log
+sceneobj scn_mainplanet_nalhutta_arena.sco >> __out.log
+sceneobj scn_mainplanet_nalhutta_cantina.sco >> __out.log
+sceneobj scn_mainplanet_nalhutta_castle.sco >> __out.log
+sceneobj scn_mainplanet_nalhutta_center.sco >> __out.log
+sceneobj scn_mainplanet_nalhutta_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_nalhutta_prison.sco >> __out.log
+sceneobj scn_mainplanet_nalhutta_store.sco >> __out.log
+sceneobj scn_mainplanet_raxusprime_alley.sco >> __out.log
+sceneobj scn_mainplanet_raxusprime_arena.sco >> __out.log
+sceneobj scn_mainplanet_raxusprime_cantina.sco >> __out.log
+sceneobj scn_mainplanet_raxusprime_castle.sco >> __out.log
+sceneobj scn_mainplanet_raxusprime_center.sco >> __out.log
+sceneobj scn_mainplanet_raxusprime_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_raxusprime_prison.sco >> __out.log
+sceneobj scn_mainplanet_raxusprime_store.sco >> __out.log
+sceneobj scn_mainplanet_reecee_alley.sco >> __out.log
+sceneobj scn_mainplanet_reecee_arena.sco >> __out.log
+sceneobj scn_mainplanet_reecee_cantina.sco >> __out.log
+sceneobj scn_mainplanet_reecee_castle.sco >> __out.log
+sceneobj scn_mainplanet_reecee_center.sco >> __out.log
+sceneobj scn_mainplanet_reecee_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_reecee_prison.sco >> __out.log
+sceneobj scn_mainplanet_reecee_store.sco >> __out.log
+sceneobj scn_mainplanet_ryloth_alley.sco >> __out.log
+sceneobj scn_mainplanet_ryloth_arena.sco >> __out.log
+sceneobj scn_mainplanet_ryloth_cantina.sco >> __out.log
+sceneobj scn_mainplanet_ryloth_castle.sco >> __out.log
+sceneobj scn_mainplanet_ryloth_center.sco >> __out.log
+sceneobj scn_mainplanet_ryloth_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_ryloth_prison.sco >> __out.log
+sceneobj scn_mainplanet_ryloth_store.sco >> __out.log
+sceneobj scn_mainplanet_sarapin_alley.sco >> __out.log
+sceneobj scn_mainplanet_sarapin_arena.sco >> __out.log
+sceneobj scn_mainplanet_sarapin_cantina.sco >> __out.log
+sceneobj scn_mainplanet_sarapin_castle.sco >> __out.log
+sceneobj scn_mainplanet_sarapin_center.sco >> __out.log
+sceneobj scn_mainplanet_sarapin_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_sarapin_prison.sco >> __out.log
+sceneobj scn_mainplanet_sarapin_store.sco >> __out.log
+sceneobj scn_mainplanet_taris_alley.sco >> __out.log
+sceneobj scn_mainplanet_taris_arena.sco >> __out.log
+sceneobj scn_mainplanet_taris_cantina.sco >> __out.log
+sceneobj scn_mainplanet_taris_castle.sco >> __out.log
+sceneobj scn_mainplanet_taris_center.sco >> __out.log
+sceneobj scn_mainplanet_taris_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_taris_prison.sco >> __out.log
+sceneobj scn_mainplanet_taris_store.sco >> __out.log
+sceneobj scn_mainplanet_tatooine_alley.sco >> __out.log
+sceneobj scn_mainplanet_tatooine_arena.sco >> __out.log
+sceneobj scn_mainplanet_tatooine_cantina.sco >> __out.log
+sceneobj scn_mainplanet_tatooine_castle.sco >> __out.log
+sceneobj scn_mainplanet_tatooine_center.sco >> __out.log
+sceneobj scn_mainplanet_tatooine_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_tatooine_prison.sco >> __out.log
+sceneobj scn_mainplanet_tatooine_store.sco >> __out.log
+sceneobj scn_mainplanet_yavin_iv_alley.sco >> __out.log
+sceneobj scn_mainplanet_yavin_iv_arena.sco >> __out.log
+sceneobj scn_mainplanet_yavin_iv_cantina.sco >> __out.log
+sceneobj scn_mainplanet_yavin_iv_castle.sco >> __out.log
+sceneobj scn_mainplanet_yavin_iv_center.sco >> __out.log
+sceneobj scn_mainplanet_yavin_iv_land_battle.sco >> __out.log
+sceneobj scn_mainplanet_yavin_iv_prison.sco >> __out.log
+sceneobj scn_mainplanet_yavin_iv_store.sco >> __out.log
+sceneobj scn_minorplanet_1.sco >> __out.log
+sceneobj scn_minorplanet_10.sco >> __out.log
+sceneobj scn_minorplanet_11.sco >> __out.log
+sceneobj scn_minorplanet_12.sco >> __out.log
+sceneobj scn_minorplanet_13.sco >> __out.log
+sceneobj scn_minorplanet_14.sco >> __out.log
+sceneobj scn_minorplanet_15.sco >> __out.log
+sceneobj scn_minorplanet_16.sco >> __out.log
+sceneobj scn_minorplanet_17.sco >> __out.log
+sceneobj scn_minorplanet_18.sco >> __out.log
+sceneobj scn_minorplanet_19.sco >> __out.log
+sceneobj scn_minorplanet_2.sco >> __out.log
+sceneobj scn_minorplanet_20.sco >> __out.log
+sceneobj scn_minorplanet_21.sco >> __out.log
+sceneobj scn_minorplanet_22.sco >> __out.log
+sceneobj scn_minorplanet_23.sco >> __out.log
+sceneobj scn_minorplanet_24.sco >> __out.log
+sceneobj scn_minorplanet_25.sco >> __out.log
+sceneobj scn_minorplanet_26.sco >> __out.log
+sceneobj scn_minorplanet_27.sco >> __out.log
+sceneobj scn_minorplanet_28.sco >> __out.log
+sceneobj scn_minorplanet_29.sco >> __out.log
+sceneobj scn_minorplanet_3.sco >> __out.log
+sceneobj scn_minorplanet_30.sco >> __out.log
+sceneobj scn_minorplanet_31.sco >> __out.log
+sceneobj scn_minorplanet_32.sco >> __out.log
+sceneobj scn_minorplanet_33.sco >> __out.log
+sceneobj scn_minorplanet_34.sco >> __out.log
+sceneobj scn_minorplanet_35.sco >> __out.log
+sceneobj scn_minorplanet_36.sco >> __out.log
+sceneobj scn_minorplanet_37.sco >> __out.log
+sceneobj scn_minorplanet_38.sco >> __out.log
+sceneobj scn_minorplanet_39.sco >> __out.log
+sceneobj scn_minorplanet_4.sco >> __out.log
+sceneobj scn_minorplanet_40.sco >> __out.log
+sceneobj scn_minorplanet_41.sco >> __out.log
+sceneobj scn_minorplanet_42.sco >> __out.log
+sceneobj scn_minorplanet_43.sco >> __out.log
+sceneobj scn_minorplanet_44.sco >> __out.log
+sceneobj scn_minorplanet_45.sco >> __out.log
+sceneobj scn_minorplanet_46.sco >> __out.log
+sceneobj scn_minorplanet_47.sco >> __out.log
+sceneobj scn_minorplanet_48.sco >> __out.log
+sceneobj scn_minorplanet_49.sco >> __out.log
+sceneobj scn_minorplanet_5.sco >> __out.log
+sceneobj scn_minorplanet_50.sco >> __out.log
+sceneobj scn_minorplanet_51.sco >> __out.log
+sceneobj scn_minorplanet_52.sco >> __out.log
+sceneobj scn_minorplanet_53.sco >> __out.log
+sceneobj scn_minorplanet_54.sco >> __out.log
+sceneobj scn_minorplanet_55.sco >> __out.log
+sceneobj scn_minorplanet_56.sco >> __out.log
+sceneobj scn_minorplanet_57.sco >> __out.log
+sceneobj scn_minorplanet_58.sco >> __out.log
+sceneobj scn_minorplanet_59.sco >> __out.log
+sceneobj scn_minorplanet_6.sco >> __out.log
+sceneobj scn_minorplanet_60.sco >> __out.log
+sceneobj scn_minorplanet_61.sco >> __out.log
+sceneobj scn_minorplanet_62.sco >> __out.log
+sceneobj scn_minorplanet_63.sco >> __out.log
+sceneobj scn_minorplanet_64.sco >> __out.log
+sceneobj scn_minorplanet_65.sco >> __out.log
+sceneobj scn_minorplanet_66.sco >> __out.log
+sceneobj scn_minorplanet_67.sco >> __out.log
+sceneobj scn_minorplanet_68.sco >> __out.log
+sceneobj scn_minorplanet_69.sco >> __out.log
+sceneobj scn_minorplanet_7.sco >> __out.log
+sceneobj scn_minorplanet_70.sco >> __out.log
+sceneobj scn_minorplanet_71.sco >> __out.log
+sceneobj scn_minorplanet_72.sco >> __out.log
+sceneobj scn_minorplanet_73.sco >> __out.log
+sceneobj scn_minorplanet_74.sco >> __out.log
+sceneobj scn_minorplanet_75.sco >> __out.log
+sceneobj scn_minorplanet_76.sco >> __out.log
+sceneobj scn_minorplanet_77.sco >> __out.log
+sceneobj scn_minorplanet_78.sco >> __out.log
+sceneobj scn_minorplanet_79.sco >> __out.log
+sceneobj scn_minorplanet_8.sco >> __out.log
+sceneobj scn_minorplanet_80.sco >> __out.log
+sceneobj scn_minorplanet_81.sco >> __out.log
+sceneobj scn_minorplanet_82.sco >> __out.log
+sceneobj scn_minorplanet_83.sco >> __out.log
+sceneobj scn_minorplanet_84.sco >> __out.log
+sceneobj scn_minorplanet_85.sco >> __out.log
+sceneobj scn_minorplanet_86.sco >> __out.log
+sceneobj scn_minorplanet_87.sco >> __out.log
+sceneobj scn_minorplanet_88.sco >> __out.log
+sceneobj scn_minorplanet_89.sco >> __out.log
+sceneobj scn_minorplanet_9.sco >> __out.log
+sceneobj scn_minorplanet_90.sco >> __out.log
+sceneobj scn_novice_ground.sco >> __out.log
+sceneobj scn_quick_battle_1.sco >> __out.log
+sceneobj scn_quick_battle_2.sco >> __out.log
+sceneobj scn_quick_battle_3.sco >> __out.log
+sceneobj scn_quick_battle_4.sco >> __out.log
+sceneobj scn_quick_battle_5.sco >> __out.log
+sceneobj scn_quick_battle_6.sco >> __out.log
+sceneobj scn_quick_battle_7.sco >> __out.log
+sceneobj scn_quick_battle_8.sco >> __out.log
+sceneobj scn_quick_battle_9.sco >> __out.log
+sceneobj scn_random_scene.sco >> __out.log
+sceneobj scn_random_scene_desert.sco >> __out.log
+sceneobj scn_random_scene_plain.sco >> __out.log
+sceneobj scn_random_scene_plain_forest.sco >> __out.log
+sceneobj scn_random_scene_ship.sco >> __out.log
+sceneobj scn_random_scene_snow.sco >> __out.log
+sceneobj scn_random_scene_snow_forest.sco >> __out.log
+sceneobj scn_random_scene_steppe.sco >> __out.log
+sceneobj scn_random_scene_steppe_forest.sco >> __out.log
+sceneobj scn_random_scene_water.sco >> __out.log
+sceneobj scn_ship_hangar.sco >> __out.log
+sceneobj scn_ship_hangar_closed_1a.sco >> __out.log
+sceneobj scn_ship_hangar_closed_1b.sco >> __out.log
+sceneobj scn_ship_hangar_hut.sco >> __out.log
+sceneobj scn_ship_hangar_imp.sco >> __out.log
+sceneobj scn_ship_hangar_open_3a.sco >> __out.log
+sceneobj scn_ship_hangar_open_3b.sco >> __out.log
+sceneobj scn_ship_hangar_reb.sco >> __out.log
+sceneobj scn_ship_interior.sco >> __out.log
+sceneobj scn_ship_interior_hut.sco >> __out.log
+sceneobj scn_ship_interior_imp.sco >> __out.log
+sceneobj scn_ship_interior_reb.sco >> __out.log
+sceneobj scn_spacestation_10_exterior.sco >> __out.log
+sceneobj scn_spacestation_10_interior.sco >> __out.log
+sceneobj scn_spacestation_10_prison.sco >> __out.log
+sceneobj scn_spacestation_11_exterior.sco >> __out.log
+sceneobj scn_spacestation_11_interior.sco >> __out.log
+sceneobj scn_spacestation_11_prison.sco >> __out.log
+sceneobj scn_spacestation_12_exterior.sco >> __out.log
+sceneobj scn_spacestation_12_interior.sco >> __out.log
+sceneobj scn_spacestation_12_prison.sco >> __out.log
+sceneobj scn_spacestation_13_exterior.sco >> __out.log
+sceneobj scn_spacestation_13_interior.sco >> __out.log
+sceneobj scn_spacestation_13_prison.sco >> __out.log
+sceneobj scn_spacestation_14_exterior.sco >> __out.log
+sceneobj scn_spacestation_14_interior.sco >> __out.log
+sceneobj scn_spacestation_14_prison.sco >> __out.log
+sceneobj scn_spacestation_15_exterior.sco >> __out.log
+sceneobj scn_spacestation_15_interior.sco >> __out.log
+sceneobj scn_spacestation_15_prison.sco >> __out.log
+sceneobj scn_spacestation_16_exterior.sco >> __out.log
+sceneobj scn_spacestation_16_interior.sco >> __out.log
+sceneobj scn_spacestation_16_prison.sco >> __out.log
+sceneobj scn_spacestation_17_exterior.sco >> __out.log
+sceneobj scn_spacestation_17_interior.sco >> __out.log
+sceneobj scn_spacestation_17_prison.sco >> __out.log
+sceneobj scn_spacestation_18_exterior.sco >> __out.log
+sceneobj scn_spacestation_18_interior.sco >> __out.log
+sceneobj scn_spacestation_18_prison.sco >> __out.log
+sceneobj scn_spacestation_19_exterior.sco >> __out.log
+sceneobj scn_spacestation_19_interior.sco >> __out.log
+sceneobj scn_spacestation_19_prison.sco >> __out.log
+sceneobj scn_spacestation_1_exterior.sco >> __out.log
+sceneobj scn_spacestation_1_interior.sco >> __out.log
+sceneobj scn_spacestation_1_prison.sco >> __out.log
+sceneobj scn_spacestation_20_exterior.sco >> __out.log
+sceneobj scn_spacestation_20_interior.sco >> __out.log
+sceneobj scn_spacestation_20_prison.sco >> __out.log
+sceneobj scn_spacestation_21_exterior.sco >> __out.log
+sceneobj scn_spacestation_21_interior.sco >> __out.log
+sceneobj scn_spacestation_21_prison.sco >> __out.log
+sceneobj scn_spacestation_22_exterior.sco >> __out.log
+sceneobj scn_spacestation_22_interior.sco >> __out.log
+sceneobj scn_spacestation_22_prison.sco >> __out.log
+sceneobj scn_spacestation_23_exterior.sco >> __out.log
+sceneobj scn_spacestation_23_interior.sco >> __out.log
+sceneobj scn_spacestation_23_prison.sco >> __out.log
+sceneobj scn_spacestation_24_exterior.sco >> __out.log
+sceneobj scn_spacestation_24_interior.sco >> __out.log
+sceneobj scn_spacestation_24_prison.sco >> __out.log
+sceneobj scn_spacestation_25_exterior.sco >> __out.log
+sceneobj scn_spacestation_25_interior.sco >> __out.log
+sceneobj scn_spacestation_25_prison.sco >> __out.log
+sceneobj scn_spacestation_26_exterior.sco >> __out.log
+sceneobj scn_spacestation_26_interior.sco >> __out.log
+sceneobj scn_spacestation_26_prison.sco >> __out.log
+sceneobj scn_spacestation_27_exterior.sco >> __out.log
+sceneobj scn_spacestation_27_interior.sco >> __out.log
+sceneobj scn_spacestation_27_prison.sco >> __out.log
+sceneobj scn_spacestation_28_exterior.sco >> __out.log
+sceneobj scn_spacestation_28_interior.sco >> __out.log
+sceneobj scn_spacestation_28_prison.sco >> __out.log
+sceneobj scn_spacestation_29_exterior.sco >> __out.log
+sceneobj scn_spacestation_29_interior.sco >> __out.log
+sceneobj scn_spacestation_29_prison.sco >> __out.log
+sceneobj scn_spacestation_2_exterior.sco >> __out.log
+sceneobj scn_spacestation_2_interior.sco >> __out.log
+sceneobj scn_spacestation_2_prison.sco >> __out.log
+sceneobj scn_spacestation_30_exterior.sco >> __out.log
+sceneobj scn_spacestation_30_interior.sco >> __out.log
+sceneobj scn_spacestation_30_prison.sco >> __out.log
+sceneobj scn_spacestation_31_exterior.sco >> __out.log
+sceneobj scn_spacestation_31_interior.sco >> __out.log
+sceneobj scn_spacestation_31_prison.sco >> __out.log
+sceneobj scn_spacestation_32_exterior.sco >> __out.log
+sceneobj scn_spacestation_32_interior.sco >> __out.log
+sceneobj scn_spacestation_32_prison.sco >> __out.log
+sceneobj scn_spacestation_33_exterior.sco >> __out.log
+sceneobj scn_spacestation_33_interior.sco >> __out.log
+sceneobj scn_spacestation_33_prison.sco >> __out.log
+sceneobj scn_spacestation_34_exterior.sco >> __out.log
+sceneobj scn_spacestation_34_interior.sco >> __out.log
+sceneobj scn_spacestation_34_prison.sco >> __out.log
+sceneobj scn_spacestation_35_exterior.sco >> __out.log
+sceneobj scn_spacestation_35_interior.sco >> __out.log
+sceneobj scn_spacestation_35_prison.sco >> __out.log
+sceneobj scn_spacestation_36_exterior.sco >> __out.log
+sceneobj scn_spacestation_36_interior.sco >> __out.log
+sceneobj scn_spacestation_36_prison.sco >> __out.log
+sceneobj scn_spacestation_37_exterior.sco >> __out.log
+sceneobj scn_spacestation_37_interior.sco >> __out.log
+sceneobj scn_spacestation_37_prison.sco >> __out.log
+sceneobj scn_spacestation_38_exterior.sco >> __out.log
+sceneobj scn_spacestation_38_interior.sco >> __out.log
+sceneobj scn_spacestation_38_prison.sco >> __out.log
+sceneobj scn_spacestation_39_exterior.sco >> __out.log
+sceneobj scn_spacestation_39_interior.sco >> __out.log
+sceneobj scn_spacestation_39_prison.sco >> __out.log
+sceneobj scn_spacestation_3_exterior.sco >> __out.log
+sceneobj scn_spacestation_3_interior.sco >> __out.log
+sceneobj scn_spacestation_3_prison.sco >> __out.log
+sceneobj scn_spacestation_40_exterior.sco >> __out.log
+sceneobj scn_spacestation_40_interior.sco >> __out.log
+sceneobj scn_spacestation_40_prison.sco >> __out.log
+sceneobj scn_spacestation_41_exterior.sco >> __out.log
+sceneobj scn_spacestation_41_interior.sco >> __out.log
+sceneobj scn_spacestation_41_prison.sco >> __out.log
+sceneobj scn_spacestation_42_exterior.sco >> __out.log
+sceneobj scn_spacestation_42_interior.sco >> __out.log
+sceneobj scn_spacestation_42_prison.sco >> __out.log
+sceneobj scn_spacestation_4_exterior.sco >> __out.log
+sceneobj scn_spacestation_4_exterior_diff.sco > __out.log
+sceneobj scn_spacestation_4_interior.sco >> __out.log
+sceneobj scn_spacestation_4_prison.sco >> __out.log
+sceneobj scn_spacestation_5_exterior.sco >> __out.log
+sceneobj scn_spacestation_5_interior.sco >> __out.log
+sceneobj scn_spacestation_5_prison.sco >> __out.log
+sceneobj scn_spacestation_6_exterior.sco >> __out.log
+sceneobj scn_spacestation_6_interior.sco >> __out.log
+sceneobj scn_spacestation_6_prison.sco >> __out.log
+sceneobj scn_spacestation_7_exterior.sco >> __out.log
+sceneobj scn_spacestation_7_interior.sco >> __out.log
+sceneobj scn_spacestation_7_prison.sco >> __out.log
+sceneobj scn_spacestation_8_exterior.sco >> __out.log
+sceneobj scn_spacestation_8_interior.sco >> __out.log
+sceneobj scn_spacestation_8_prison.sco >> __out.log
+sceneobj scn_spacestation_9_exterior.sco >> __out.log
+sceneobj scn_spacestation_9_interior.sco >> __out.log
+sceneobj scn_spacestation_9_prison.sco >> __out.log
+sceneobj scn_space_battle.sco >> __out.log
+sceneobj scn_space_battle_entry.sco >> __out.log
+sceneobj scn_space_battle_original.sco >> __out.log
+sceneobj scn_swc_dev_island.sco >> __out.log
+sceneobj scn_test_scene.sco >> __out.log
+sceneobj scn_trade_federation.sco >> __out.log
+sceneobj scn_training_ground.sco >> __out.log
+sceneobj scn_training_ground_horse_track_1.sco >> __out.log
+sceneobj scn_training_ground_horse_track_2.sco >> __out.log
+sceneobj scn_training_ground_horse_track_3.sco >> __out.log
+sceneobj scn_training_ground_horse_track_4.sco >> __out.log
+sceneobj scn_training_ground_horse_track_5.sco >> __out.log
+sceneobj scn_training_ground_ranged_melee_1.sco >> __out.log
+sceneobj scn_training_ground_ranged_melee_2.sco >> __out.log
+sceneobj scn_training_ground_ranged_melee_3.sco >> __out.log
+sceneobj scn_training_ground_ranged_melee_4.sco >> __out.log
+sceneobj scn_training_ground_ranged_melee_5.sco >> __out.log
+sceneobj scn_tutorial_1.sco >> __out.log
+sceneobj scn_tutorial_2.sco >> __out.log
+sceneobj scn_tutorial_3.sco >> __out.log
+sceneobj scn_tutorial_4.sco >> __out.log
+sceneobj scn_tutorial_5.sco >> __out.log
 pause
