@@ -57,7 +57,7 @@ float time_var = 0.0f;
 float4 vFogColor;
 float fFogStart;
 float fFogEnd;
-float fFogDensity = 0.85f;
+float fFogDensity = 0.05f;
 float uv_2_scale = 1.237;
 
 
@@ -1389,31 +1389,31 @@ PS_OUTPUT ps_main_water( PS_INPUT_WATER In )
 { 
     PS_OUTPUT Output;
     
-    float3 normal = (0.5f * tex2D(NormalTextureSampler, In.Tex0 * 0.5f).agb - 0.5f);
+    float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0 * 1.0f).agb - 1.0f);
     normal.y = -normal.y;
-    normal.z = sqrt(100.0f - (normal.x * normal.x + normal.y * normal.y));
+    normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
 
-    float3 scaledNormal = normalize(normal * float3(0.2f, 0.2f, 3.2f));
+    float3 scaledNormal = normalize(normal * float3(0.2f, 0.2f, 1.0f));
 	float NdotL = saturate(dot(normal, In.LightDir));
 //	Output.RGBColor = max(0, NdotL) * In.LightDif;
 
-	float light_amount = (0.1f + NdotL) * 3.6f;
+	float light_amount = (0.1f + NdotL) * 0.6f;
 		
 	float3 H = normalize(In.LightDir + In.CameraDir); //half vector
-	float4 ColorSpec = /*vSpecularColor*/ 1.0f * pow(saturate(dot(H, normal)), 1.0f/*fMaterialPower*/) * In.LightDif;
+	float4 ColorSpec = /*vSpecularColor*/ 1.0f * pow(saturate(dot(H, normal)), 100.0f/*fMaterialPower*/) * In.LightDif;
 	
-//	Output.RGBColor *= float4(1.5f, 1.5f, 7.0f, 1.0f);
+//	Output.RGBColor *= float4(1.5f, 1.5f, 3.0f, 1.0f);
 //	ColorSpec *= float4(1.5f, 1.5f, 3.0f, 1.0f);
 
 //    float distScaledDistortion = In.PosWater.z;
- //   distScaledDistortion = clamp(1 / (distScaledDistortion), 0.1f, 0.1f);
+ //   distScaledDistortion = clamp(5 / (distScaledDistortion), 0.1f, 0.5f);
 
 	//TODO: Remove scaledNormal. Apply it on the image.
     
     float4 tex = tex2D(ReflectionTextureSampler, float2(0.5f + 0.5f * (In.PosWater.x / In.PosWater.z) + scaledNormal.x, 0.5f - 0.5f * (In.PosWater.y / In.PosWater.z) - scaledNormal.y));
     tex.rgb = pow(tex.rgb, output_gamma);
 	
-	Output.RGBColor = 0.91f * NdotL * In.LightDif;// 1.0f * tex2D(MeshTextureSampler, In.Tex0) * light_amount * In.LightDif * In.CameraDir.z;
+	Output.RGBColor = 0.01f * NdotL * In.LightDif;// 1.0f * tex2D(MeshTextureSampler, In.Tex0) * light_amount * In.LightDif * In.CameraDir.z;
 
 //	tex.b *= 0.5;
 //	tex.r *= 0.6;
@@ -1435,7 +1435,7 @@ PS_OUTPUT ps_fake_water( PS_INPUT_WATER In )
     
     //TODO: Remove normalize when the image is correct
     float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0 * 2.0f).agb - 1.0f);
-    normal.z = sqrt(10.0f - (normal.x * normal.x + normal.y * normal.y));
+    normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
 
 	float NdotL = dot(normal, In.LightDir);
 //	Output.RGBColor = max(0, NdotL) * In.LightDif;

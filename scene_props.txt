@@ -2276,13 +2276,13 @@ spr_door_extension_a 0 0 door_extension_a bo_door_extension_a 0
 spr_stairs_arch_a 0 0 stairs_arch_a bo_stairs_arch_a 0
 
 
-spr_windmill 0 0 windmill bo_windmill 0
+spr_windmill 0 0 0 0 0
 
 
-spr_windmill_fan_turning 65536 0 windmill_fan_turning bo_windmill_fan_turning 0
+spr_windmill_fan_turning 65536 0 0 0 0
 
 
-spr_windmill_fan 0 0 windmill_fan bo_windmill_fan 0
+spr_windmill_fan 0 0 0 0 0
 
 
 spr_earth_wall_a 0 0 earth_wall_a bo_earth_wall_a 0
@@ -2638,16 +2638,16 @@ spr_bed_e 0 0 bed_e bo_bed_e 0
 spr_bed_f 0 0 bed_f bo_bed_f 0
 
 
-spr_towngate_door_left 0 0 door_g_left bo_door_left 0
+spr_towngate_door_left 0 0 0 0 0
 
 
-spr_towngate_door_right 0 0 door_g_right bo_door_right 0
+spr_towngate_door_right 0 0 0 0 0
 
 
-spr_towngate_rectangle_door_left 0 0 towngate_rectangle_door_left bo_towngate_rectangle_door_left 0
+spr_towngate_rectangle_door_left 0 0 0 0 0
 
 
-spr_towngate_rectangle_door_right 0 0 towngate_rectangle_door_right bo_towngate_rectangle_door_right 0
+spr_towngate_rectangle_door_right 0 0 0 0 0
 
 
 spr_door_screen 0 0 door_screen 0 0
