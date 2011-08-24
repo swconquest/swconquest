@@ -1297,13 +1297,13 @@ itemsfile version 2
  itm_sith_knight_robe_unique Sith_Knight_Robe Sith_Knight_Robe 1  jedi_master_robe_black 0  553652237 0 720 123731968 0.750000 100 10 45 18 0 0 0 0 0 0 0 0
 0
 
- itm_sith_knight_robe_a Sith_Kight_Robe Sith_Kight_Robe 1  sith_knight_robe_a 0  553652237 0 720 123731968 0.750000 100 10 45 18 0 0 0 0 0 0 0 0
+ itm_sith_knight_robe_a Sith_Knight_Robe Sith_Knight_Robe 1  sith_knight_robe_a 0  553652237 0 720 123731968 0.750000 100 10 45 18 0 0 0 0 0 0 0 0
 0
 
- itm_sith_knight_robe_b Sith_Kight_Robe Sith_Kight_Robe 1  sith_knight_robe_b 0  553652237 0 720 123731968 0.750000 100 10 45 18 0 0 0 0 0 0 0 0
+ itm_sith_knight_robe_b Sith_Knight_Robe Sith_Knight_Robe 1  sith_knight_robe_b 0  553652237 0 720 123731968 0.750000 100 10 45 18 0 0 0 0 0 0 0 0
 0
 
- itm_sith_knight_robe_c Sith_Kight_Robe Sith_Kight_Robe 1  sith_knight_robe_c 0  553652237 0 720 123731968 0.750000 100 10 45 18 0 0 0 0 0 0 0 0
+ itm_sith_knight_robe_c Sith_Knight_Robe Sith_Knight_Robe 1  sith_knight_robe_c 0  553652237 0 720 123731968 0.750000 100 10 45 18 0 0 0 0 0 0 0 0
 0
 
  itm_imperial_royal_guard_robe Imperial_Royal_Guard_Robe Imperial_Royal_Guard_Robe 1  imperial_royal_guard_robe 0  553713677 0 850 704643236 10.000000 80 0 45 22 0 0 0 0 0 0 0 0
