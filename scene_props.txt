@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1435
+ 1442
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4337,6 +4337,27 @@ spr_Hoth_pillar1 0 0 Hoth_pillar1 bo_Hoth_pillar 0
 
 
 spr_Hoth_pillar2 0 0 Hoth_pillar2 bo_Hoth_pillar 0
+
+
+spr_endor_fac_1 0 0 endor_fac_1 bo_endor_fac_1_2 0
+
+
+spr_endor_fac_2 0 0 endor_fac_2 bo_endor_fac_1_2 0
+
+
+spr_Hoth_radar 0 0 Hoth_radar bo_Hoth_radar 0
+
+
+spr_Hoth_cannon 0 0 Hoth_cannon bo_Hoth_cannon 0
+
+
+spr_Hoth_battery_2 0 0 Hoth_battery_2 0 0
+
+
+spr_Hoth_battery_3 0 0 Hoth_battery_3 0 0
+
+
+spr_Hoth_battery_4 0 0 Hoth_battery_4 0 0
 
 
 spr_rm_end 0 0 0 0 0
