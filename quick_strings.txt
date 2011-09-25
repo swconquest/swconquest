@@ -1,4 +1,4 @@
-1038
+1039
 qstr_2006_2010_THE_STAR_W 2006-2010_THE_STAR_WARS_CONQUEST_DEV_TEAM
 qstr_This_Module_it_s_ded This_Module_it's_dedicated_to_every_person_who_believed_in_us.^^Their_valuable_Work_and_Support_have_inspired_Us_to_Make_this_bigger.^^The_Force_It's_Strong_with_you!_:-)
 qstr_Type_your_Faction_s_ Type_your_Faction's_name:
@@ -122,6 +122,7 @@ qstr_{s3} {s3}
 qstr_{s5} {s5}
 qstr_Buy_the_ship Buy_the_ship
 qstr_Go_back... Go_back...
+qstr_>{s1} >{s1}
 qstr_You_have_{reg45}_cre You_have_{reg45}_credits
 qstr_view view
 qstr_The_{s3}_is_waiting_ The_{s3}_is_waiting_for_you_on_the_docking_bay.

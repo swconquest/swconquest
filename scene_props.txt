@@ -645,13 +645,13 @@ spr_sw_sign_random_all_3 0 0 sw_sign_e bo_sw_sign_a 0
 spr_sw_sign_random_all_4 0 0 sw_sign_e bo_sw_sign_a 0
 
 
-spr_sw_sign_random_towngalacticempire 0 0 sw_sign_a bo_sw_sign_a 0
+spr_sw_sign_random_galacticempire 0 0 sw_sign_a bo_sw_sign_a 0
 
 
-spr_sw_sign_random_townrebelalliance 0 0 sw_sign_a bo_sw_sign_a 0
+spr_sw_sign_random_rebelalliance 0 0 sw_sign_a bo_sw_sign_a 0
 
 
-spr_sw_sign_random_townhuttcartel 0 0 sw_sign_a bo_sw_sign_a 0
+spr_sw_sign_random_huttcartel 0 0 sw_sign_a bo_sw_sign_a 0
 
 
 spr_sw_sign_random_townfaction_4 0 0 sw_sign_a bo_sw_sign_a 0
@@ -4107,7 +4107,7 @@ spr_taris_statue_base_1 0 0 taris_statue_base_1 bo_taris_statue_base_1 0
 spr_taris_statue_base_2 0 0 taris_statue_base_2 bo_taris_statue_base_2 0
 
 
-spr_taris_statue_1 0 0 taris_statue_1 bo_taris_statue_1 1
+spr_taris_statue_1 65536 0 taris_statue_1 bo_taris_statue_1 1
 -40.000000  2 2071 1 1224979098644774912 1 5 936748722493063620 1224979098644774912 2 30 10 
 
 

@@ -1,3 +1,16 @@
+goto run
+
+cd "R:\Perfiles\Swyter\Documents\code\SceneObj_loader"
+rm -f "Objects/MingW/main.o" "../../../../../Juegos/Desura/Common/Mount&Blade/Modules/Star Wars Conquest Dev/SceneObj/SceneObj.exe"
+gcc.exe -c main.c -o Objects/MingW/main.o -I"C:/Program Files (x86)/Dev-Cpp/Include"    -std=c99
+gcc.exe "Objects/MingW/main.o" -o "../../../../../Juegos/Desura/Common/Mount&Blade/Modules/Star Wars Conquest Dev/SceneObj/SceneObj.exe" -L"C:/Program Files (x86)/Dev-Cpp/Lib"  -s  
+
+cd "../../../../../Juegos/Desura/Common/Mount&Blade/Modules/Star Wars Conquest Dev/SceneObj/"
+pause
+
+:run
+echo off && cls && title working-- && echo working-- pls wait
+del __out.log
 sceneobj scn_conversation_scene.sco >> __out.log
 sceneobj scn_custom_battle_1.sco >> __out.log
 sceneobj scn_custom_battle_2.sco >> __out.log
@@ -498,4 +511,4 @@ sceneobj scn_tutorial_2.sco >> __out.log
 sceneobj scn_tutorial_3.sco >> __out.log
 sceneobj scn_tutorial_4.sco >> __out.log
 sceneobj scn_tutorial_5.sco >> __out.log
-pause
+start __out.log && echo done-- && title done-- &&pause
