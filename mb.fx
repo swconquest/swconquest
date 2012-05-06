@@ -730,12 +730,28 @@ PS_OUTPUT ps_skybox_shading(PS_INPUT_FONT In)
 VS_OUTPUT_FONT vs_skybox(float4 vPosition : POSITION, float4 vColor : COLOR, float2 tc : TEXCOORD0)
 {
    VS_OUTPUT_FONT Out;
-
    Out.Pos = mul(matWorldViewProj, vPosition);
    
    float3 P = vPosition; //position in view space
    
    Out.Tex0 = tc;
+   
+   //SWY -- Sky rotation:
+   //float3 pos = normalize(P.xyz);
+   //float  cos_t = cos(time_var);
+   //float  sin_t = sin(time_var);
+   
+   //Out.Tex0.y = pos.y * sin_t - pos.x * cos_t;
+   //Out.Tex0.y = pos.z;
+   //Out.Tex0.x = pos.x * sin_t + pos.y * cos_t;
+   
+   //Out.Tex0.y +=  sin_t - cos_t;
+   //Out.Tex0.y = pos.z;
+   
+   //SWY -- Sky rotation:
+   Out.Tex0.x += time_var/1200;
+   
+   
    Out.Color = vColor * vMaterialColor;
    
    //apply fog
@@ -1330,6 +1346,10 @@ VS_OUTPUT_WATER vs_main_water(float4 vPosition : POSITION, float3 vNormal : NORM
 {
    VS_OUTPUT_WATER Out = (VS_OUTPUT_WATER) 0;
 
+   //SWY-- Wavy Water
+    vPosition.z += (cos( time_var + (vPosition.y/vPosition.x) * 5 ) /5 );
+   
+   
    Out.Pos = mul(matWorldViewProj, vPosition);
    Out.PosWater = mul(matWaterWorldViewProj, vPosition);
    
@@ -1348,6 +1368,9 @@ VS_OUTPUT_WATER vs_main_water(float4 vPosition : POSITION, float3 vNormal : NORM
 
    Out.Tex0 = tc + texture_offset.xy;
 
+   //SWY-- water displacement
+    Out.Tex0.xy += (time_var/100);
+   
    Out.LightDir = 0;
    Out.LightDif = vAmbientColor;
    float totalLightPower = 0;
@@ -1380,7 +1403,8 @@ VS_OUTPUT_WATER vs_main_water(float4 vPosition : POSITION, float3 vNormal : NORM
    
    //apply fog
    float d = length(P);
-   Out.Fog = get_fog_amount(d);
+   //SWY-- no fog for water
+   Out.Fog = get_fog_amount(d);///600);
    
    return Out;
 }
@@ -1388,25 +1412,31 @@ VS_OUTPUT_WATER vs_main_water(float4 vPosition : POSITION, float3 vNormal : NORM
 PS_OUTPUT ps_main_water( PS_INPUT_WATER In )
 { 
     PS_OUTPUT Output;
-    
-    float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0 * 1.0f).agb - 1.0f);
-    normal.y = -normal.y;
-    normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
+	
+   // SWY -- Use a standard normalmap instead of the weirdo-thingie that Taleworlds used...
+    float3 normal = tex2D(NormalTextureSampler, In.Tex0).rgb;
+   
+   // float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0 * 1.0f).agb - 1.0f);
+   // normal.y = -normal.y;
+   // normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
 
-    float3 scaledNormal = normalize(normal * float3(0.2f, 0.2f, 1.0f));
-	float NdotL = saturate(dot(normal, In.LightDir));
-//	Output.RGBColor = max(0, NdotL) * In.LightDif;
+    //float3 scaledNormal = normalize(normal * float3(0.2f, 0.2f, 1.0f));
+	
+	//SWY -- fix the scaled normal, added a minimum error to add depth to the reflection
+	float3 scaledNormal = normalize(((1.9f * normal) - 1.0f) * float3(0.2f, 0.2f, 1.0f));
+	float NdotL = saturate(dot(normal, In.LightDir))*8;
+ //	Output.RGBColor = max(0, NdotL) * In.LightDif;
 
 	float light_amount = (0.1f + NdotL) * 0.6f;
 		
 	float3 H = normalize(In.LightDir + In.CameraDir); //half vector
 	float4 ColorSpec = /*vSpecularColor*/ 1.0f * pow(saturate(dot(H, normal)), 100.0f/*fMaterialPower*/) * In.LightDif;
 	
-//	Output.RGBColor *= float4(1.5f, 1.5f, 3.0f, 1.0f);
-//	ColorSpec *= float4(1.5f, 1.5f, 3.0f, 1.0f);
+ //	Output.RGBColor *= float4(1.5f, 1.5f, 3.0f, 1.0f);
+ //	ColorSpec *= float4(1.5f, 1.5f, 3.0f, 1.0f);
 
-//    float distScaledDistortion = In.PosWater.z;
- //   distScaledDistortion = clamp(5 / (distScaledDistortion), 0.1f, 0.5f);
+ //  float distScaledDistortion = In.PosWater.z;
+ //  distScaledDistortion = clamp(5 / (distScaledDistortion), 0.1f, 0.5f);
 
 	//TODO: Remove scaledNormal. Apply it on the image.
     
@@ -1415,13 +1445,14 @@ PS_OUTPUT ps_main_water( PS_INPUT_WATER In )
 	
 	Output.RGBColor = 0.01f * NdotL * In.LightDif;// 1.0f * tex2D(MeshTextureSampler, In.Tex0) * light_amount * In.LightDif * In.CameraDir.z;
 
-//	tex.b *= 0.5;
-//	tex.r *= 0.6;
-//	tex.g *= 0.7;
+	//SWY-- Tint
+	tex.b *= 0.5;
+	tex.r *= 0.6;
+	tex.g *= 0.7;
 	Output.RGBColor += ((tex)/* + ColorSpec*/) * (1.0f - 0.8f * In.CameraDir.z) * light_amount;// + ColorSpec;
 
 	
-//	Output.RGBColor *= max(0, NdotL) * In.LightDif;
+	//Output.RGBColor *= max(0, NdotL) * In.LightDif;
 	Output.RGBColor.w = 1.0f - 0.3f * In.CameraDir.z;
     Output.RGBColor.rgb = saturate(pow(Output.RGBColor.rgb, output_gamma_inv));
 	
@@ -1482,6 +1513,7 @@ VS_OUTPUT_MAP_WATER vs_map_water (float4 vPosition : POSITION, float3 vNormal : 
    
    float3 P = mul(matWorldView, vPosition); //position in view space
    
+
    Out.Tex0 = tc + texture_offset.xy;
    
 
@@ -1712,9 +1744,10 @@ PS_OUTPUT ps_main_bump( PS_INPUT_BUMP In, uniform const int PcfMode )
     
     float4 total_light = vAmbientColor;//In.LightAmbient;
     
-    float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0).agb - 1.0f);
-    normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
-    normal.y *=  -1.0f;
+	float3 normal = tex2D(NormalTextureSampler, In.Tex0).rgb;
+    //float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0).agb - 1.0f);
+    //normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
+    //normal.y *=  -1.0f;
 
     if (PcfMode != PCF_NONE)
     {
@@ -1753,10 +1786,12 @@ PS_OUTPUT ps_main_bump_simple( PS_INPUT_BUMP In, uniform const int PcfMode )
     PS_OUTPUT Output;
     
     float4 total_light = vAmbientColor;//In.LightAmbient;
-    
-    float3 normal = (3.0f * tex2D(NormalTextureSampler, In.Tex0).rgb - 1.0f);
-    normal = normalize(normal);
-    normal.y =  -normal.y;
+   
+    float3 normal = tex2D(NormalTextureSampler, In.Tex0).rgb;
+   // float3 normal = (3.0f * tex2D(NormalTextureSampler, In.Tex0).rgb - 1.0f);
+   // normal = normalize(normal);
+   // normal.y =  -normal.y;
+
 
     if (PcfMode != PCF_NONE)
     {
@@ -1898,10 +1933,14 @@ PS_OUTPUT ps_main_bump_interior( PS_INPUT_BUMP_DYNAMIC In)
     
     float4 total_light = vAmbientColor;//In.LightAmbient;
     
+	float3 normal = tex2D(NormalTextureSampler, In.Tex0).rgb;
 //    float3 normal = 2.0f * tex2D(NormalTextureSampler, In.Tex0).rgb - 1.0f;// - float3(1.0f, , 1.0f);
-    float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0).agb - 1.0f);
-    normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
-    normal.y =  - normal.y;
+    //float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0).agb - 1.0f);
+    //normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
+    //normal.y =  - normal.y;
+
+	
+	
 //    normal = normalize(normal);
 
 //	float3 abs_min_vec_to_light = float3(100000, 100000, 100000);
