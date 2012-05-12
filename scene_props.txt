@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1442
+ 1462
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -2865,47 +2865,47 @@ spr_fish_roasted_a 0 0 fish_roasted_a 0 0
 spr_chicken_roasted 0 0 chicken_roasted 0 0
 
 
-spr_food_steam 0 0 0 0 1
+spr_food_steam 16384 0 psys_helper 0 1
 -40.000000  2 1955 3 0 0 0 1965 1 1008806316530991129 
 
 
-spr_city_smoke 0 0 0 0 1
+spr_city_smoke 16384 0 psys_helper 0 1
 -40.000000  4 2271 1 72057594037927948 2147483681 3 72057594037927948 5 20 1955 3 0 0 0 1965 1 1008806316530991142 
 
 
-spr_city_fire_fly_night 0 0 0 0 1
+spr_city_fire_fly_night 16384 0 psys_helper 0 1
 -40.000000  4 2271 1 72057594037927948 2147483681 3 72057594037927948 5 20 1955 3 0 0 0 1965 1 1008806316530991138 
 
 
-spr_city_fly_day 0 0 0 0 1
+spr_city_fly_day 16384 0 psys_helper 0 1
 -40.000000  1 1965 1 1008806316530991139 
 
 
-spr_flue_smoke_tall 0 0 0 0 1
+spr_flue_smoke_tall 16384 0 psys_helper 0 1
 -40.000000  1 1965 1 1008806316530991121 
 
 
-spr_flue_smoke_short 0 0 0 0 1
+spr_flue_smoke_short 16384 0 psys_helper 0 1
 -40.000000  1 1965 1 1008806316530991120 
 
 
-spr_moon_beam 0 0 0 0 1
+spr_moon_beam 16384 0 psys_helper 0 1
 -40.000000  2 1965 1 1008806316530991140 1965 1 1008806316530991141 
 
 
-spr_fire_small 0 0 0 0 1
+spr_fire_small 16384 0 psys_helper 0 1
 -40.000000  1 1965 1 1008806316530991143 
 
 
-spr_fire_big 0 0 0 0 1
+spr_fire_big 16384 0 psys_helper 0 1
 -40.000000  1 1965 1 1008806316530991144 
 
 
-spr_battle_field_smoke 0 0 0 0 1
+spr_battle_field_smoke 16384 0 psys_helper 0 1
 -40.000000  1 1965 1 1008806316530991122 
 
 
-spr_Village_fire_big 0 0 0 0 1
+spr_Village_fire_big 16384 0 psys_helper 0 1
 -40.000000  3 1965 1 1008806316530991145 1955 3 0 0 100 1965 1 1008806316530991146 
 
 
@@ -2939,7 +2939,7 @@ spr_fried_pig 0 0 fried_pig 0 0
 spr_village_oven 0 0 village_oven bo_village_oven 0
 
 
-spr_dungeon_water_drops 0 0 0 0 1
+spr_dungeon_water_drops 16384 0 psys_helper 0 1
 -40.000000  1 1965 1 1008806316530991150 
 
 
@@ -3092,7 +3092,7 @@ spr_swy_ground_floor_imperial_hangar 0 0 swy_ground_floor_imperial_hangar bo_swy
 spr_swy_city_wall_floor_imperial_hangar 0 0 swy_city_wall_floor_imperial_hangar bo_swy_city_wall 0
 
 
-spr_swy_ground_floor_rebel 0 0 swy_ground_floor_rebel bo_swy_city_ground 0
+spr_swy_ground_a 0 0 swy_ground_floor_rebel bo_swy_city_ground 0
 
 
 spr_swy_city_wall_floor_rebel 0 0 swy_city_wall_floor_rebel bo_swy_city_wall 0
@@ -3171,7 +3171,7 @@ spr_swy_dant_dish 0 0 swy_dant_dish 0 0
 
 
 spr_swy_deflector_shield 0 0 swy_deflector_shield bo_swy_deflector_shield 2
--42.000000  2 600 1 1152921504606847249 1969 3 1008806316530991178 1 100 
+-42.000000  2 600 1 1152921504606847249 1969 3 1008806316530991179 1 100 
 -40.000000  1 600 1 1152921504606847248 
 
 
@@ -3180,7 +3180,7 @@ spr_swy_deflector_shield_no_col 0 0 swy_deflector_shield 0 1
 
 
 spr_swy_deflector_shield_red 0 0 swy_deflector_shield_red bo_swy_deflector_shield 2
--42.000000  2 600 1 1152921504606847249 1969 3 1008806316530991179 1 100 
+-42.000000  2 600 1 1152921504606847249 1969 3 1008806316530991180 1 100 
 -40.000000  1 600 1 1152921504606847248 
 
 
@@ -3191,22 +3191,28 @@ spr_swy_deflector_shield_red_no_col 0 0 swy_deflector_shield_red 0 1
 spr_swy_gate.sys 0 0 ship_door2 bo_ship_door2 0
 
 
-spr_swy_sign_arena 0 0 swy_sign_arena 0 0
+spr_swy_sign_arena 0 0 swy_sign_arena 0 1
+-40.000000  3 1950 3 170 30 30 1955 3 0 0 0 1960 2 30 200 
 
 
-spr_swy_sign_cantina 0 0 swy_sign_cantina 0 0
+spr_swy_sign_cantina 0 0 swy_sign_cantina 0 1
+-40.000000  3 1950 3 170 122 30 1955 3 0 0 0 1960 2 30 200 
 
 
-spr_swy_sign_shop 0 0 swy_sign_shop 0 0
+spr_swy_sign_shop 0 0 swy_sign_shop 0 1
+-40.000000  3 1950 3 100 30 170 1955 3 0 0 0 1960 2 30 200 
 
 
-spr_swy_sign_extra1 0 0 swy_sign_extra1 0 0
+spr_swy_sign_extra1 0 0 swy_sign_extra1 0 1
+-40.000000  3 1950 3 141 207 30 1955 3 0 0 0 1960 2 30 200 
 
 
-spr_swy_sign_extra2 0 0 swy_sign_extra2 0 0
+spr_swy_sign_extra2 0 0 swy_sign_extra2 0 1
+-40.000000  3 1950 3 117 22 142 1955 3 0 0 0 1960 2 30 200 
 
 
-spr_swy_sign_extra3 0 0 swy_sign_extra3 0 0
+spr_swy_sign_extra3 0 0 swy_sign_extra3 0 1
+-40.000000  3 1950 3 191 217 22 1955 3 0 0 0 1960 2 30 200 
 
 
 spr_swy_glass 0 0 swy_glass 0 0
@@ -4107,7 +4113,7 @@ spr_taris_statue_base_1 0 0 taris_statue_base_1 bo_taris_statue_base_1 0
 spr_taris_statue_base_2 0 0 taris_statue_base_2 bo_taris_statue_base_2 0
 
 
-spr_taris_statue_1 65536 0 taris_statue_1 bo_taris_statue_1 1
+spr_taris_statue_1 65540 0 taris_statue_1 bo_taris_statue_1 1
 -40.000000  2 2071 1 1224979098644774912 1 5 936748722493063620 1224979098644774912 2 30 10 
 
 
@@ -4360,12 +4366,72 @@ spr_Hoth_battery_3 0 0 Hoth_battery_3 0 0
 spr_Hoth_battery_4 0 0 Hoth_battery_4 0 0
 
 
-spr_rm_end 0 0 0 0 0
+spr_Container_ore 0 0 Container_ore bo_Container_ore 0
 
 
-spr_col_end 0 0 0 0 0
+spr_endor_fac_3 0 0 endor_fac_3 bo_endor_fac_3 0
 
 
-spr_scene_props_end 0 0 0 0 0
+spr_endor_fac_4 0 0 endor_fac_4 bo_endor_fac_4 0
+
+
+spr_endor_fac_block 0 0 endor_fac_block bo_endor_fac_block 0
+
+
+spr_endor_fac_com 0 0 endor_fac_com bo_endor_fac_com 0
+
+
+spr_endor_fac_container_lava 0 0 endor_fac_container_lava bo_endor_fac_container_lava 0
+
+
+spr_endor_fac_container_emputy 0 0 endor_fac_container_emputy bo_endor_fac_container_emputy 0
+
+
+spr_endor_fac_small_1 0 0 endor_fac_small_1 bo_endor_fac_small_1 0
+
+
+spr_endor_fac_small_2 0 0 endor_fac_small_2 bo_endor_fac_small_2 0
+
+
+spr_endor_fac_terminal5 0 0 endor_fac_terminal5 bo_endor_fac_terminal5 0
+
+
+spr_endor_fac_terminal6 0 0 endor_fac_terminal6 bo_endor_fac_terminal6 0
+
+
+spr_endor_fac_terminal7 0 0 endor_fac_terminal7 bo_endor_fac_terminal7 0
+
+
+spr_endor_fac_tower_1 0 0 endor_fac_tower_1 bo_endor_fac_tower_1 0
+
+
+spr_endor_fac_tower_2 0 0 endor_fac_tower_2 bo_endor_fac_tower_2 0
+
+
+spr_endor_fac_rail_1 0 0 endor_fac_rail_1 bo_endor_fac_rail_1 0
+
+
+spr_endor_fac_rail_2 0 0 endor_fac_rail_2 bo_endor_fac_rail_2 0
+
+
+spr_endor_fac_pipe_1 0 0 endor_fac_pipe_1 bo_endor_fac_pipe_1 0
+
+
+spr_lava_tile 0 0 lava_tile bo_lava_tile 0
+
+
+spr_lava_tile_2 0 0 lava_tile_2 bo_lava_tile_2 0
+
+
+spr_lava_tile_3 0 0 lava_tile_3 bo_lava_tile_3 0
+
+
+spr_rm_end 16384 0 psys_helper 0 0
+
+
+spr_col_end 16384 0 psys_helper 0 0
+
+
+spr_scene_props_end 16384 0 psys_helper 0 0
 
 
