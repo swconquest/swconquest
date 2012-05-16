@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1442
+ 1462
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4360,12 +4360,72 @@ spr_Hoth_battery_3 0 0 Hoth_battery_3 0 0
 spr_Hoth_battery_4 0 0 Hoth_battery_4 0 0
 
 
-spr_rm_end 0 0 0 0 0
+spr_Container_ore 0 0 Container_ore bo_Container_ore 0
 
 
-spr_col_end 0 0 0 0 0
+spr_endor_fac_3 0 0 endor_fac_3 bo_endor_fac_3 0
 
 
-spr_scene_props_end 0 0 0 0 0
+spr_endor_fac_4 0 0 endor_fac_4 bo_endor_fac_4 0
+
+
+spr_endor_fac_block 0 0 endor_fac_block bo_endor_fac_block 0
+
+
+spr_endor_fac_com 0 0 endor_fac_com bo_endor_fac_com 0
+
+
+spr_endor_fac_container_lava 0 0 endor_fac_container_lava bo_endor_fac_container_lava 0
+
+
+spr_endor_fac_container_emputy 0 0 endor_fac_container_emputy bo_endor_fac_container_emputy 0
+
+
+spr_endor_fac_small_1 0 0 endor_fac_small_1 bo_endor_fac_small_1 0
+
+
+spr_endor_fac_small_2 0 0 endor_fac_small_2 bo_endor_fac_small_2 0
+
+
+spr_endor_fac_terminal5 0 0 endor_fac_terminal5 bo_endor_fac_terminal5 0
+
+
+spr_endor_fac_terminal6 0 0 endor_fac_terminal6 bo_endor_fac_terminal6 0
+
+
+spr_endor_fac_terminal7 0 0 endor_fac_terminal7 bo_endor_fac_terminal7 0
+
+
+spr_endor_fac_tower_1 0 0 endor_fac_tower_1 bo_endor_fac_tower_1 0
+
+
+spr_endor_fac_tower_2 0 0 endor_fac_tower_2 bo_endor_fac_tower_2 0
+
+
+spr_endor_fac_rail_1 0 0 endor_fac_rail_1 bo_endor_fac_rail_1 0
+
+
+spr_endor_fac_rail_2 0 0 endor_fac_rail_2 bo_endor_fac_rail_2 0
+
+
+spr_endor_fac_pipe_1 0 0 endor_fac_pipe_1 bo_endor_fac_pipe_1 0
+
+
+spr_lava_tile 0 0 lava_tile bo_lava_tile 0
+
+
+spr_lava_tile_2 0 0 lava_tile_2 bo_lava_tile_2 0
+
+
+spr_lava_tile_3 0 0 lava_tile_3 bo_lava_tile_3 0
+
+
+spr_rm_end 16384 0 psys_helper 0 0
+
+
+spr_col_end 16384 0 psys_helper 0 0
+
+
+spr_scene_props_end 16384 0 psys_helper 0 0
 
 
