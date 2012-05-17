@@ -2453,6 +2453,36 @@ PS_OUTPUT ps_envmap_specular(PS_INPUT_ENVMAP_SPECULAR In, uniform const int PcfM
 	return Output;
 }
 
+
+ /* * * * * * * * * * * * * * * * * * * * *
+  * swconquest based shaders -- by swyter
+  */
+  
+technique swconquest_planet
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE);
+		PixelShader  = compile ps_2_0 ps_swconquest_planet(PCF_NONE);
+	}
+}
+technique swconquest_planet_SHDW
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_DEFAULT);
+		PixelShader  = compile ps_2_0 ps_swconquest_planet(PCF_DEFAULT);
+	}
+}
+technique swconquest_planet_SHDWNVIDIA
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_a vs_specular_alpha(PCF_NVIDIA);
+		PixelShader  = compile ps_2_a ps_swconquest_planet(PCF_NVIDIA);
+	}
+}
+
 //the technique for the programmable shader (simply sets the vertex shader)
 technique font_uniform_color
 {
@@ -3130,34 +3160,5 @@ technique specular_alpha_skin_SHDWNVIDIA
 	{
 		VertexShader = compile vs_2_a vs_specular_alpha_skin(PCF_NVIDIA);
 		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA);
-	}
-}
-
- /* * * * * * * * * * * * * * * * * * * * *
-  * swconquest based shaders -- by swyter
-  */
-  
-technique swconquest_shader_planet
-{
-	pass P0
-	{
-		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE);
-		PixelShader  = compile ps_2_0 ps_swconquest_planet(PCF_NONE);
-	}
-}
-technique swconquest_shader_planet_SHDW
-{
-	pass P0
-	{
-		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_DEFAULT);
-		PixelShader  = compile ps_2_0 ps_swconquest_planet(PCF_DEFAULT);
-	}
-}
-technique swconquest_shader_planet_SHDWNVIDIA
-{
-	pass P0
-	{
-		VertexShader = compile vs_2_a vs_specular_alpha(PCF_NVIDIA);
-		PixelShader  = compile ps_2_a ps_swconquest_planet(PCF_NVIDIA);
 	}
 }
