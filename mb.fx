@@ -2252,7 +2252,6 @@ PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMod
 	// Compute half vector for specular lighting
 	// float3 vHalf = normalize(normalize(-ViewPos) + normalize(g_vLight - ViewPos));
 
-
 	float4 outColor = tex2D(MeshTextureSampler, In.Tex0);
 	outColor.rgb = pow(outColor.rgb, input_gamma);
 
@@ -2270,6 +2269,28 @@ PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMod
 		Output.RGBColor = (outColor * ((In.Color + (In.SunLight + fSpecular * 0.5f))));
 	}
 	Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
+
+	Output.RGBColor.a = 1.0f;
+	return Output;
+}
+
+PS_OUTPUT ps_swconquest_planet(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMode)
+{
+	PS_OUTPUT Output;
+
+	//In.Tex0.x += time_var/1200; <-- rotation isn't working because of time_var only changing in action mode
+
+	float3 normal   = normalize(In.worldNormal);
+	float3 lightVec = normalize(In.worldPos);
+	
+	float  diffuse  = saturate(dot(normal, lightVec-2));
+
+	//@> The final shading is a composition of the diagonal pass and the base texture + rim lighting...
+	Output.RGBColor = ( tex2D(MeshTextureSampler, In.Tex0) - (diffuse.x/2.2) );
+	
+	//@> Rimlight
+	float3 vHalf = normalize(vCameraPos - In.worldPos);
+	Output.RGBColor += (1.0f - saturate( dot( vHalf, normal ) *2 ))/2;
 
 	Output.RGBColor.a = 1.0f;
 	return Output;
@@ -3109,5 +3130,34 @@ technique specular_alpha_skin_SHDWNVIDIA
 	{
 		VertexShader = compile vs_2_a vs_specular_alpha_skin(PCF_NVIDIA);
 		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA);
+	}
+}
+
+ /* * * * * * * * * * * * * * * * * * * * *
+  * swconquest based shaders -- by swyter
+  */
+  
+technique swconquest_shader_planet
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE);
+		PixelShader  = compile ps_2_0 ps_swconquest_planet(PCF_NONE);
+	}
+}
+technique swconquest_shader_planet_SHDW
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_DEFAULT);
+		PixelShader  = compile ps_2_0 ps_swconquest_planet(PCF_DEFAULT);
+	}
+}
+technique swconquest_shader_planet_SHDWNVIDIA
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_a vs_specular_alpha(PCF_NVIDIA);
+		PixelShader  = compile ps_2_a ps_swconquest_planet(PCF_NVIDIA);
 	}
 }
