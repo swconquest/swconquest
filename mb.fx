@@ -974,9 +974,9 @@ PS_OUTPUT ps_main_no_shadow(PS_INPUT_FONT In)
 {
 	PS_OUTPUT Output;
 	float4 tex_col = tex2D(MeshTextureSampler, In.Tex0);
-	tex_col.rgb = pow(tex_col.rgb, input_gamma);
-	Output.RGBColor =  In.Color * tex_col;
-	Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
+	//tex_col.rgb = pow(tex_col.rgb, input_gamma);
+	Output.RGBColor = In.Color * tex_col;
+	//Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
 	return Output;
 }
 
