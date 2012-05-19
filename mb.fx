@@ -1087,6 +1087,44 @@ PS_OUTPUT ps_main(PS_INPUT In, uniform const int PcfMode)
 	return Output;
 }
 
+VS_OUTPUT vs_swconquest_hologram (uniform const int PcfMode, uniform const bool isAnimated, float4 vPosition : POSITION, float3 vNormal : NORMAL, float2 tc : TEXCOORD0, float4 vColor : COLOR0, float4 vLightColor : COLOR1)
+{
+	VS_OUTPUT Out = (VS_OUTPUT)0;
+
+	Out.Pos = mul(matWorldViewProj, vPosition);
+
+	float4 vWorldPos = (float4)mul(matWorld,vPosition);
+	float3 vWorldN = normalize(mul((float3x3)matWorld, vNormal)); //normal in world space
+
+	float3 P = mul(matWorldView, vPosition); //position in view space
+
+	Out.Tex0  = tc;
+	
+	if(isAnimated)
+	{
+		Out.Tex0.x += time_var/30;
+	}
+
+	//apply material color
+	Out.Color = (vColor);
+	Out.Color.a = max(0.6f,saturate(sin(time_var*15)));
+
+	//apply fog
+	float d = length(P);
+	Out.Fog = get_fog_amount(d);
+	
+	return Out;
+}
+
+PS_OUTPUT ps_swconquest_hologram(PS_INPUT In, uniform const int PcfMode)
+{
+	PS_OUTPUT Output;
+
+	Output.RGBColor = tex2D(MeshTextureSampler, In.Tex0) * In.Color;
+	
+	return Output;
+}
+
 
 VS_OUTPUT vs_main_skin (float4 vPosition : POSITION, float3 vNormal : NORMAL, float2 tc : TEXCOORD0, float4 vColor : COLOR, float4 vBlendWeights : BLENDWEIGHT, float4 vBlendIndices : BLENDINDICES, uniform const int PcfMode)
 {
@@ -2466,20 +2504,22 @@ technique swconquest_planet
 		PixelShader  = compile ps_2_0 ps_swconquest_planet(PCF_NONE);
 	}
 }
-technique swconquest_planet_SHDW
+
+technique swconquest_hologram
 {
 	pass P0
 	{
-		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_DEFAULT);
-		PixelShader  = compile ps_2_0 ps_swconquest_planet(PCF_DEFAULT);
+		VertexShader = compile vs_2_0 vs_swconquest_hologram (PCF_NONE, true);
+		PixelShader  = compile ps_2_0 ps_swconquest_hologram (PCF_NONE);
 	}
 }
-technique swconquest_planet_SHDWNVIDIA
+
+technique swconquest_hologram_static
 {
 	pass P0
 	{
-		VertexShader = compile vs_2_a vs_specular_alpha(PCF_NVIDIA);
-		PixelShader  = compile ps_2_a ps_swconquest_planet(PCF_NVIDIA);
+		VertexShader = compile vs_2_0 vs_swconquest_hologram (PCF_NONE, false);
+		PixelShader  = compile ps_2_0 ps_swconquest_hologram (PCF_NONE);
 	}
 }
 
