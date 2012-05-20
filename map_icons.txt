@@ -78,7 +78,7 @@ nebulon 1 swy_nebulon 0.6 0 0 0 0 0
 starchaser 1 vec_starchaser 0.4 0 0 0 0 0
 
 
-z95 1 z96 0.4 194 0.15 0.173 0 0
+z95 1 indie_ship 0.4 194 0.15 0.173 0 0
 
 
 tran_slaver 1 tran_slaver 0.4 194 0.15 0.173 0 0

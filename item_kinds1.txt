@@ -1312,7 +1312,7 @@ itemsfile version 2
  itm_shadow_guard_robe Imperial_Shadow_Guard_Robe Imperial_Shadow_Guard_Robe 1  shadow_guard_robe 0  553713677 0 900 704643236 8 40 0 50 25 0 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_armor_officer Imperial_Stormtrooper_Officer_Armor Imperial_Stormtrooper_Officer_Armor 1  Stormtrooper_Officer_body 0  553713677 0 820 704643236 12 80 0 45 22 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_armor_officer Imperial_Stormtrooper_Officer_Armor Imperial_Stormtrooper_Officer_Armor 1  Sandtrooper_body_orangepauldron 0  553713677 0 820 704643236 12 80 0 45 22 0 0 0 0 0 0 0 0
 0
 
  itm_sw_desert_armor Heavy_Desert_Armor Heavy_Desert_Armor 1  desert_armor_heavy 0  553713677 0 790 704643236 14 60 0 45 22 0 0 0 0 0 0 0 0
