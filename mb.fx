@@ -673,6 +673,27 @@ VS_OUTPUT_FONT vs_font(float4 vPosition : POSITION, float4 vColor : COLOR, float
 	return Out;
 }
 
+VS_OUTPUT_FONT vs_swconquest_galaxy(float4 vPosition : POSITION, float4 vColor : COLOR, float2 tc : TEXCOORD0)
+{
+	VS_OUTPUT_FONT Out;
+
+	Out.Pos = mul(matWorldViewProj, vPosition);
+
+	float3 P = mul(matWorldView, vPosition); //position in view space
+
+	//apply fog
+	float d = length(P);
+	Out.Fog = get_fog_amount(d);
+	
+	
+	Out.Tex0 = tc;
+	Out.Color = vColor * vMaterialColor;
+	Out.Color.b += (d + 0.2f);
+	Out.Color.a  = 0.8f;
+
+	return Out;
+}
+
 PS_OUTPUT ps_font_uniform_color(PS_INPUT_FONT In)
 {
 	PS_OUTPUT Output;
@@ -2345,9 +2366,9 @@ PS_OUTPUT ps_swconquest_planet(PS_INPUT_SPECULAR_ALPHA In)
 	
 	//@> Rimlight
 	float3 vHalf = normalize(vCameraPos - In.worldPos);
-	Output.RGBColor += (1.0f - saturate( dot( vHalf, normal ) *2 ))/2;
+	Output.RGBColor.rgb += (1.0f - saturate( dot( vHalf, normal ) *2 ))/2;
 
-	Output.RGBColor.a = 1.0f;
+	//Output.RGBColor.a = 1.0f;
 	return Output;
 }
 
@@ -2519,6 +2540,15 @@ technique swconquest_planet
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE);
 		PixelShader  = compile ps_2_0 ps_swconquest_planet();
+	}
+}
+
+technique swconquest_galaxy
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_swconquest_galaxy();
+		PixelShader  = compile ps_2_0 ps_main_no_shadow();
 	}
 }
 
