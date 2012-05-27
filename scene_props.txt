@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1465
+ 1495
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4439,6 +4439,99 @@ spr_acclamator_crash_partc 0 0 acclamator_crash_partc bo_acclamator_crash_partc 
 
 
 spr_acclamator_crash_partd 0 0 acclamator_crash_partd bo_acclamator_crash_partd 0
+
+
+spr_skybox_orange 0 0 skybox_orange 0 0
+
+
+spr_skybox_orange_2 0 0 skybox_orange_2 0 0
+
+
+spr_hologram_symbol_blacksun 0 0 hologram_symbol_blacksun 0 0
+
+
+spr_hologram_symbol_credits 0 0 hologram_symbol_credits 0 0
+
+
+spr_hologram_symbol_hutt 0 0 hologram_symbol_hutt 0 0
+
+
+spr_hologram_symbol_imp 0 0 hologram_symbol_imp 0 0
+
+
+spr_hologram_symbol_mando 0 0 hologram_symbol_mando 0 0
+
+
+spr_hologram_symbol_reb 0 0 hologram_symbol_reb 0 0
+
+
+spr_hologram_symbol_sep 0 0 hologram_symbol_sep 0 0
+
+
+spr_hologram_wall_text_1 0 0 hologram_wall_text_1 0 0
+
+
+spr_hologram_wall_text_2 0 0 hologram_wall_text_2 0 0
+
+
+spr_hologram_wall_text_3 0 0 hologram_wall_text_3 0 0
+
+
+spr_hologram_wall_text_4 0 0 hologram_wall_text_4 0 0
+
+
+spr_hologram_wall_text_5 0 0 hologram_wall_text_5 0 0
+
+
+spr_hologram_wall_text_6 0 0 hologram_wall_text_6 0 0
+
+
+spr_hologram_wall_text_big_1 0 0 hologram_wall_text_big_1 0 0
+
+
+spr_hologram_wall_text_big_2 0 0 hologram_wall_text_big_2 0 0
+
+
+spr_hologram_chars_rebpilot 0 0 hologram_chars_rebpilot 0 0
+
+
+spr_hologram_chars_rodian 0 0 hologram_chars_rodian 0 0
+
+
+spr_hologram_chars_storm 0 0 hologram_chars_storm 0 0
+
+
+spr_hologram_chars_tiepilot 0 0 hologram_chars_tiepilot 0 0
+
+
+spr_hologram_chars_zabrak 0 0 hologram_chars_zabrak 0 0
+
+
+spr_hologram_chars_imp 0 0 hologram_chars_imp 0 0
+
+
+spr_hologram_image_1 0 0 hologram_image_1 0 0
+
+
+spr_hologram_image_2 0 0 hologram_image_2 0 0
+
+
+spr_hologram_image_3 0 0 hologram_image_3 0 0
+
+
+spr_hologram_image_4 0 0 hologram_image_4 0 0
+
+
+spr_hologram_image_5 0 0 hologram_image_5 0 0
+
+
+spr_hologram_image_6 0 0 hologram_image_6 0 0
+
+
+spr_hologram_image_7 0 0 hologram_image_7 0 0
+
+
+spr_hologram_image_8 0 0 hologram_image_8 0 0
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0
