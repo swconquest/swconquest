@@ -1,5 +1,5 @@
 itemsfile version 2
-915
+916
  itm_no_item <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -673,7 +673,10 @@ itemsfile version 2
  itm_imperial_stormtrooper_boots Imperial_Stormtrooper_Boots Imperial_Stormtrooper_Boots 1  Stormtrooper_legs_L 0  536936462 0 210 704643236 2 50 0 0 16 0 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_boots_incinerator Incinerator_Trooper_Boots Incinerator_Trooper_Boots 1  Incinerator_legs_L 0  536936462 0 250 704643236 2 30 0 0 26 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_boots_incinerator Incinerator_Trooper_Boots Incinerator_Trooper_Boots 1  Incinerator_legs_L 0  536936462 0 250 704643236 2 30 0 0 27 0 0 0 0 0 0 0 0
+0
+
+ itm_imperial_stormtrooper_boots_novatrooper Novatrooper_Boots Novatrooper_Boots 1  Novatrooper_legs_L 0  536936462 0 250 704643236 2 40 0 0 26 0 0 0 0 0 0 0 0
 0
 
  itm_imperial_scout_trooper_boots Imperial_Scout_Trooper_Boots Imperial_Scout_Trooper_Boots 1  scoutboots 0  536936462 0 210 704643236 2 50 0 0 16 0 0 0 0 0 0 0 0
@@ -802,7 +805,7 @@ itemsfile version 2
  itm_imperial_stormtrooper_helmet_incinerator Incinerator_Trooper_Helmet Incinerator_Trooper_Helmet 1  Incinerator_Trooper_helm 0  2684420108 0 240 704643236 1 40 20 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_helmet_novatrooper NovaTrooper_Helmet NovaTrooper_Helmet 1  Novatrooper_helm 0  2684420108 0 210 704643236 1 50 18 0 0 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_helmet_novatrooper Novatrooper_Helmet Novatrooper_Helmet 1  Novatrooper_helm 0  2684420108 0 210 704643236 1 50 18 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_imperial_pilot_helmet Imperial_Pilot_Helmet Imperial_Pilot_Helmet 1  tiepilot 0  2684420108 0 170 704643236 1 60 12 0 0 0 0 0 0 0 0 0 0
