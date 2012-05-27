@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1495
+ 1499
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4532,6 +4532,18 @@ spr_hologram_image_7 0 0 hologram_image_7 0 0
 
 
 spr_hologram_image_8 0 0 hologram_image_8 0 0
+
+
+spr_!dirtdecal1 0 0 !dirtdecal1 0 0
+
+
+spr_!dirtdecal2 0 0 !dirtdecal2 0 0
+
+
+spr_!dirtdecal3 0 0 !dirtdecal3 0 0
+
+
+spr_!dirtdecal4 0 0 !dirtdecal4 0 0
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0
