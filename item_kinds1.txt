@@ -1,6 +1,6 @@
 itemsfile version 2
 915
- itm_no_item INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.5 100 0 0 0 0 16384 103 0 90 0 522 528
+ itm_no_item <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_horse_meat Horse_Meat Horse_Meat 1  raw_meat 0  34078731 0 12 0 40 100 30 0 0 0 0 0 0 0 40 0 0
@@ -592,7 +592,7 @@ itemsfile version 2
  itm_light_leather_boots Light_Leather_Boots Light_Leather_Boots 1  light_leather_boots 0  69390 0 140 123731968 1 100 0 0 15 0 0 0 0 0 0 0 0
 0
 
- itm_armors_begin FLAG_FOR_ARMOR_BEGIN FLAG_FOR_ARMOR_BEGIN 1  sw_armor3_white 0  553648141 0 1 0 1 100 0 1 1 0 0 0 0 0 0 0 0
+ itm_armors_begin <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_black_gloves Black_Gloves Black_Gloves 1  black_glove_L 0  536936463 0 28 123731968 0.25 100 0 3 0 0 0 0 0 0 0 0 0
@@ -733,7 +733,7 @@ itemsfile version 2
  itm_rebel_honor_guard_helmet Rebel_Honor_Guard_Helmet Rebel_Honor_Guard_Helmet 1  rebel_honor_guard_helmet 0  536936460 0 300 704643236 2 50 20 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_transparent_helmet Transparent_Helmet Transparent_Helmet 2  transparent 0  transparent_helmet_inv 1152921504606846976  553652236 0 140 0 1 60 15 0 0 0 0 0 0 0 0 0 0
+ itm_transparent_helmet Transparent_Helmet Transparent_Helmet 2  0 0  transparent_helmet_inv 1152921504606846976  553652236 0 140 0 1 60 15 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_imperial_trooper_helmet Imperial_Trooper_Helmet Imperial_Trooper_Helmet 1  imperial_atst_driver_helmet 0  536936460 0 120 704643236 2 100 10 0 0 0 0 0 0 0 0 0 0
@@ -1447,7 +1447,7 @@ itemsfile version 2
  itm_kaminoan_female_body Kaminoan_Female_Body Kaminoan_Female_Body 1  kaminoan_body 0  553652237 0 530 123731968 3 100 0 32 12 0 0 0 0 0 0 0 0
 0
 
- itm_droid_weapon_no_attack Droid_Melee_Weapon_(No_Attack) Droid_Melee_Weapon_(No_Attack) 2  transparent 0  force_block_inv 1152921504606846976  4198400 0 1 0 1 100 0 0 0 0 0 40 0 25 0 512 512
+ itm_droid_weapon_no_attack Droid_Melee_Weapon_(No_Attack) Droid_Melee_Weapon_(No_Attack) 2  0 0  force_block_inv 1152921504606846976  4198400 0 1 0 1 100 0 0 0 0 0 40 0 25 0 512 512
 0
 
  itm_r2series_blue R2-Series_Blue R2-Series_Blue 1  swy_R2D2 0  553652237 0 500 0 50 100 15 30 15 0 0 0 0 0 0 0 0
@@ -1543,7 +1543,7 @@ itemsfile version 2
  itm_3poseries_grey 3PO-Series_Grey 3PO-Series_Grey 1  C3PO_fullbody_grey 0  553652237 0 1000 0 60 100 15 45 15 0 0 0 0 0 0 0 0
 0
 
- itm_3poseries_attack 3PO-Series_Melee_Attack 3PO-Series_Melee_Attack 2  transparent 0  C3PO_gold_hand_L 1152921504606846976  12587010 9223372036879941647 250 0 1 100 0 0 0 0 5120 50 0 15 0 516 517
+ itm_3poseries_attack 3PO-Series_Melee_Attack 3PO-Series_Melee_Attack 2  0 0  C3PO_gold_hand_L 1152921504606846976  12587010 9223372036879941647 250 0 1 100 0 0 0 0 5120 50 0 15 0 516 517
 0
 
  itm_b1series_body B1-Series_Battle_Droid_Body B1-Series_Battle_Droid_Body 1  battledroid 0  553652237 0 2000 0 45 100 15 45 15 0 0 0 0 0 0 0 0
@@ -1564,7 +1564,7 @@ itemsfile version 2
  itm_oomseries_command_body OOM_Command_Droid_Body OOM_Command_Droid_Body 1  battledroid_commander 0  553652237 0 2750 0 35 100 25 55 25 0 0 0 0 0 0 0 0
 0
 
- itm_battle_droid_attack Battle_Droid_Melee_Attack Battle_Droid_Melee_Attack 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  12587010 9223372036879941647 250 0 1 100 0 0 0 0 7168 65 0 15 0 518 519
+ itm_battle_droid_attack Battle_Droid_Melee_Attack Battle_Droid_Melee_Attack 2  0 0  ArcTrooperGloves_L 1152921504606846976  12587010 9223372036879941647 250 0 1 100 0 0 0 0 7168 65 0 15 0 518 519
 0
 
  itm_b2series_body B2-Series_Battle_Droid_Body B2-Series_Battle_Droid_Body 1  B2-Battledroid 0  553652237 0 4160 0 50 100 20 60 20 0 0 0 0 0 0 0 0
@@ -1573,20 +1573,20 @@ itemsfile version 2
  itm_b2series_body_enhanced C-B3_Battle_Droid_Body C-B3_Battle_Droid_Body 1  B2-Battledroid_enhanced 0  553652237 0 7420 0 55 100 30 70 30 0 0 0 0 0 0 0 0
 0
 
- itm_b2series_attack B2-Series_Battle_Droid_Attack B2-Series_Battle_Droid_Attack 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  12587010 9223372036879941647 500 0 1 100 0 0 0 0 10240 75 0 20 0 520 522
+ itm_b2series_attack B2-Series_Battle_Droid_Attack B2-Series_Battle_Droid_Attack 2  0 0  ArcTrooperGloves_L 1152921504606846976  12587010 9223372036879941647 500 0 1 100 0 0 0 0 10240 75 0 20 0 520 522
 0
 
- itm_b2series_blaster B2-Series_Battle_Droid_Blaster B2-Series_Battle_Droid_Blaster 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  71307280 481036795904 500 0 2 100 0 0 88 0 0 90 145 0 24 291 0
+ itm_b2series_blaster B2-Series_Battle_Droid_Blaster B2-Series_Battle_Droid_Blaster 2  0 0  ArcTrooperGloves_L 1152921504606846976  71307280 481036795904 500 0 2 100 0 0 88 0 0 90 145 0 24 291 0
 1
 -51  3 600 1 180 720 2 1 12 721 2 1 15 
 
- itm_transparent_droid_head Transparent_Head_(for_Droids) Transparent_Head_(for_Droids) 2  transparent 0  transparent_helmet_inv 1152921504606846976  2684358668 0 1 0 0.25 100 1 0 0 0 0 0 0 0 0 0 0
+ itm_transparent_droid_head Transparent_Head_(for_Droids) Transparent_Head_(for_Droids) 2  0 0  transparent_helmet_inv 1152921504606846976  2684358668 0 1 0 0.25 100 1 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_transparent_droid_hands Transparent_Hands_(for_Droids) Transparent_Hands_(for_Droids) 2  transparent 0  transparent_helmet_inv 1152921504606846976  536875023 0 1 0 0.25 100 0 1 0 0 0 0 0 0 0 0 0
+ itm_transparent_droid_hands Transparent_Hands_(for_Droids) Transparent_Hands_(for_Droids) 2  0 0  transparent_helmet_inv 1152921504606846976  536875023 0 1 0 0.25 100 0 1 0 0 0 0 0 0 0 0 0
 0
 
- itm_transparent_droid_feet Transparent_Feet_(for_Droids) Transparent_Feet_(for_Droids) 2  transparent 0  transparent_helmet_inv 1152921504606846976  536875022 0 1 0 0.25 100 0 0 1 0 0 0 0 0 0 0 0
+ itm_transparent_droid_feet Transparent_Feet_(for_Droids) Transparent_Feet_(for_Droids) 2  0 0  transparent_helmet_inv 1152921504606846976  536875022 0 1 0 0.25 100 0 0 1 0 0 0 0 0 0 0 0
 0
 
  itm_ig88_head IG-Series_Head IG-Series_Head 1  IG88_head 0  2684354572 0 500 0 5 100 20 0 0 0 0 0 0 0 0 0 0
@@ -1601,7 +1601,7 @@ itemsfile version 2
  itm_ig88_feet IG-Series_Feet IG-Series_Feet 1  IG88_feet 0  536874766 0 500 0 5 100 0 0 20 0 0 0 0 0 0 0 0
 0
 
- itm_ig88_attack _ _ 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  79695874 9223372036879941647 250 0 1 100 0 0 0 0 30720 80 0 25 0 281 30
+ itm_ig88_attack _ _ 2  0 0  ArcTrooperGloves_L 1152921504606846976  79695874 9223372036879941647 250 0 1 100 0 0 0 0 30720 80 0 25 0 281 30
 0
 
  itm_ig88_e11_shield IG-88's_E-11_Shield IG-88's_E-11_Shield 1  E11_IG88 0  4103 0 500 0 3 100 0 10 0 0 200 70 0 45 0 0 0
@@ -1626,7 +1626,7 @@ itemsfile version 2
  itm_hk_feet HK-Series_Feet HK-Series_Feet 1  hk_feet 0  536874766 0 300 0 5 100 0 0 14 0 0 0 0 0 0 0 0
 0
 
- itm_hk_attack _ _ 2  transparent 0  hk_hand_L 1152921504606846976  79695874 9223372036879941647 250 0 1 100 0 0 0 0 24576 70 0 25 0 274 24
+ itm_hk_attack _ _ 2  0 0  hk_hand_L 1152921504606846976  79695874 9223372036879941647 250 0 1 100 0 0 0 0 24576 70 0 25 0 274 24
 0
 
  itm_mandalorian_tunic Mandalorian_Tunic Mandalorian_Tunic 1  mandalorian_tunic 0  553713677 0 270 123731968 2 80 0 25 4 0 0 0 0 0 0 0 0
@@ -1782,7 +1782,7 @@ itemsfile version 2
  itm_geonosian_armor_merch Geonosian_Armor Geonosian_Armor 1  geonosian_armor 0  553713677 0 510 123731968 5 50 0 40 16 0 0 0 0 0 0 0 0
 0
 
- itm_armors_end FLAG_FOR_ARMOR_END FLAG_FOR_ARMOR_END 1  sw_armor3_white 0  553648141 0 1 0 1 100 0 1 1 0 0 0 0 0 0 0 0
+ itm_armors_end <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_lightsaber_green_arena Lightsaber Lightsaber 2  lightsaber_green 0  lightsaber_greenoff 3458764513820540928  71700483 9223635920677241343 1500 0 0.5 100 0 0 0 0 51200 120 0 115 0 547 562
@@ -1797,7 +1797,7 @@ itemsfile version 2
  itm_lightsaber_red_arena Lightsaber Lightsaber 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71700483 9223635920677241343 1500 0 0.5 100 0 0 0 0 51200 120 0 115 0 547 562
 0
 
- itm_weapons_begin FLAG_FOR_WEAPONS_BEGIN FLAG_FOR_WEAPONS_BEGIN 2  lightsaber_green 0  lightsaber_greenoff 3458764513820540928  71696387 9223635920677241343 1 0 1 100 0 0 0 0 1024 1 0 1 0 257 1
+ itm_weapons_begin <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_lightsaber_green Lightsaber Lightsaber 2  lightsaber_green 0  lightsaber_greenoff 3458764513820540928  71761923 9223635920677241343 907 286740 0.5 60 0 0 0 12 11264 120 0 115 0 331 331
@@ -1924,7 +1924,7 @@ itemsfile version 2
 1
 -51  24 2133 2 1224979098644774912 99999 12 1 1224979098644774913 1702 1 1224979098644774913 1704 1 1224979098644774913 1709 2 2 1224979098644774913 710 3 1224979098644774914 1 2 2147483678 2 1224979098644774914 1224979098644774912 2133 2 1224979098644774915 1224979098644774913 2133 2 1224979098644774912 1224979098644774914 3 0 12 1 1224979098644774913 1702 1 1224979098644774913 2147485354 1 1224979098644774913 1710 2 2 1224979098644774913 2147484361 2 2 1 710 3 1224979098644774914 1 2 2147483678 2 1224979098644774914 275 1720 3 1224979098644774916 1224979098644774913 1 2136 3 1224979098644774917 10 50 2106 2 1224979098644774916 1224979098644774917 1721 3 1224979098644774913 1224979098644774916 1 1722 2 1224979098644774915 1224979098644774913 1750 2 1224979098644774913 118 3 0 
 
- itm_melee_punch _ _ 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  12603394 9223372036879941647 1 0 0 100 0 0 0 0 10240 105 0 25 0 522 522
+ itm_melee_punch _ _ 2  0 0  ArcTrooperGloves_L 1152921504606846976  12603394 9223372036879941647 1 0 0 100 0 0 0 0 10240 105 0 25 0 522 522
 0
 
  itm_durasteel_staff Durasteel_Staff Durasteel_Staff 1  iron_staff 0  138510340 4222129415393024 470 8202 2.5 100 0 0 0 0 25600 88 0 140 0 527 537
@@ -2032,7 +2032,7 @@ itemsfile version 2
  itm_vibro_sword3_red Vibro_Sword Vibro_Sword 1  vibro_sword3d 0  71368706 9223388534117761039 480 24596 1.25 50 0 0 0 0 40960 100 0 100 0 296 296
 0
 
- itm_weapons_end FLAG_FOR_WEAPONS_END FLAG_FOR_WEAPONS_END 2  lightsaber_green 0  lightsaber_greenoff 3458764513820540928  71303171 9223635920677241343 1 0 1 100 0 0 0 0 1024 1 0 1 0 257 1
+ itm_weapons_end <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_tutorial_lightsaber Lightsaber Lightsaber 2  lightsaber_yellow 0  lightsaber_yellowoff 3458764513820540928  71696387 9223635920677241343 1500 0 2.25 100 0 0 0 0 51200 120 0 115 0 291 306
@@ -2062,7 +2062,7 @@ itemsfile version 2
  itm_quick_battle_armor Armor Armor 1  jacket_closed_b 0  553652237 0 380 0 2 100 0 32 14 0 0 0 0 0 0 0 0
 0
 
- itm_transparent_helmet_armor Transparent_Helmet_with_Body_Armor Transparent_Helmet_with_Body_Armor 2  transparent 0  transparent_helmet_inv 1152921504606846976  553652236 0 140 0 0.25 100 15 35 15 0 0 0 0 0 0 0 0
+ itm_transparent_helmet_armor Transparent_Helmet_with_Body_Armor Transparent_Helmet_with_Body_Armor 2  0 0  transparent_helmet_inv 1152921504606846976  553652236 0 140 0 0.25 100 15 35 15 0 0 0 0 0 0 0 0
 0
 
  itm_twilek_female_helmet_armor Twilek_Female_Helmet_with_Body_Armor Twilek_Female_Helmet_with_Body_Armor 1  twilekwrap 0  553652236 0 500 0 1 100 15 35 15 0 0 0 0 0 0 0 0
@@ -2107,7 +2107,7 @@ itemsfile version 2
  itm_rancor_body_c Rancor_Body Rancor_Body 1  swy_rancor_mutant 0  553652237 0 1000 0 0 100 35 90 35 0 0 0 0 0 0 0 0
 0
 
- itm_rancor_attack _ _ 2  transparent 0  ArcTrooperGloves_L 1152921504606846976  79712258 9223372036854775821 250 0 0 100 0 0 0 0 61440 85 0 15 0 301 60
+ itm_rancor_attack _ _ 2  0 0  ArcTrooperGloves_L 1152921504606846976  79712258 9223372036854775821 250 0 0 100 0 0 0 0 61440 85 0 15 0 301 60
 0
 
  itm_rancor_keeper_armor Rancor_Keeper_Armor Rancor_Keeper_Armor 1  rancor_keeper 0  553652237 0 500 0 20 100 5 35 10 0 0 0 0 0 0 0 0
@@ -2119,28 +2119,28 @@ itemsfile version 2
  itm_yoda_lightsaber Yoda's_Lightsaber Yoda's_Lightsaber 2  lightsaber_green_1h 0  lightsaber_green_1hoff 3458764513820540928  71700482 9223388529755684879 600 0 0 100 0 0 0 0 11264 105 0 100 0 331 331
 0
 
- itm_yoda_speeder Yoda's_Transparent_Speeder Yoda's_Transparent_Speeder 2  transparent 0  force_block_inv 1152921504606846976  4097 0 500 0 0 100 0 25 0 0 40 50 40 0 0 5 0
+ itm_yoda_speeder Yoda's_Transparent_Speeder Yoda's_Transparent_Speeder 2  0 0  force_block_inv 1152921504606846976  4097 0 500 0 0 100 0 25 0 0 40 50 40 0 0 5 0
 0
 
  itm_jabba_armor Jabba_Armor_and_Chair Jabba_Armor_and_Chair 1  jabba 0  553652237 0 2000 0 16 100 30 80 25 0 0 0 0 0 0 0 0
 0
 
- itm_jabba_attack Jabba_No_Attack Jabba_No_Attack 2  transparent 0  transparent_helmet_inv 1152921504606846976  4198403 0 1 0 1 100 0 0 0 0 0 40 0 25 0 512 512
+ itm_jabba_attack Jabba_No_Attack Jabba_No_Attack 2  0 0  transparent_helmet_inv 1152921504606846976  4198403 0 1 0 1 100 0 0 0 0 0 40 0 25 0 512 512
 0
 
- itm_jabba_speeder Jabba's_Transparent_Speeder Jabba's_Transparent_Speeder 2  transparent 0  force_block_inv 1152921504606846976  4097 0 500 0 0 100 0 50 0 0 50 35 30 0 0 80 0
+ itm_jabba_speeder Jabba's_Transparent_Speeder Jabba's_Transparent_Speeder 2  0 0  force_block_inv 1152921504606846976  4097 0 500 0 0 100 0 50 0 0 50 35 30 0 0 80 0
 0
 
- itm_transparent_head Transparent_Head Transparent_Head 2  transparent 0  transparent_helmet_inv 1152921504606846976  2684358668 0 1 0 0.25 100 1 0 0 0 0 0 0 0 0 0 0
+ itm_transparent_head Transparent_Head Transparent_Head 2  0 0  transparent_helmet_inv 1152921504606846976  2684358668 0 1 0 0.25 100 1 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_transparent_body Transparent_Body Transparent_Body 2  transparent 0  transparent_helmet_inv 1152921504606846976  553652237 0 1 0 0.25 100 0 1 0 0 0 0 0 0 0 0 0
+ itm_transparent_body Transparent_Body Transparent_Body 2  0 0  transparent_helmet_inv 1152921504606846976  553652237 0 1 0 0.25 100 0 1 0 0 0 0 0 0 0 0 0
 0
 
- itm_transparent_hands Transparent_Hands Transparent_Hands 2  transparent 0  transparent_helmet_inv 1152921504606846976  536875023 0 1 0 0.25 100 0 1 0 0 0 0 0 0 0 0 0
+ itm_transparent_hands Transparent_Hands Transparent_Hands 2  0 0  transparent_helmet_inv 1152921504606846976  536875023 0 1 0 0.25 100 0 1 0 0 0 0 0 0 0 0 0
 0
 
- itm_transparent_feet Transparent_Feet Transparent_Feet 2  transparent 0  transparent_helmet_inv 1152921504606846976  536875022 0 1 0 0.25 100 0 0 1 0 0 0 0 0 0 0 0
+ itm_transparent_feet Transparent_Feet Transparent_Feet 2  0 0  transparent_helmet_inv 1152921504606846976  536875022 0 1 0 0.25 100 0 0 1 0 0 0 0 0 0 0 0
 0
 
  itm_darth_vader_helmet Darth_Vader's_Helmet Darth_Vader's_Helmet 1  TFU_vader_helmet 0  2684354572 0 2000 0 2 100 28 0 0 0 0 0 0 0 0 0 0
@@ -2149,7 +2149,7 @@ itemsfile version 2
  itm_darth_vader_armor Darth_Vader's_Armor Darth_Vader's_Armor 1  TFU_vader_armor 0  553648141 0 3000 0 6 100 0 60 18 0 0 0 0 0 0 0 0
 0
 
- itm_darth_vader_feet Darth_Vader's_Feet Darth_Vader's_Feet 2  transparent 0  transparent_helmet_inv 1152921504606846976  536875022 0 1 0 0.25 100 0 0 47 0 0 0 0 0 0 0 0
+ itm_darth_vader_feet Darth_Vader's_Feet Darth_Vader's_Feet 2  0 0  transparent_helmet_inv 1152921504606846976  536875022 0 1 0 0.25 100 0 0 47 0 0 0 0 0 0 0 0
 0
 
  itm_princess_leia_outfit Princess_Leia's_Outfit Princess_Leia's_Outfit 1  princess_leia_outfit 0  553648141 0 1200 0 2 100 0 40 12 0 0 0 0 0 0 0 0
@@ -2301,7 +2301,7 @@ itemsfile version 2
 1
 -51  8 600 1 41 2211 1 1224979098644774912 4 0 2147483681 3 1224979098644774912 2 10 1 14 387 1 30 0 0 1 300 700 600 58 4 0 -1 1 5 0 1 14 387 1 30 0 0 1 300 700 600 58 4 0 -1 0 3 0 
 
- itm_shields_begin FLAG_FOR_SHIELDS_BEGIN FLAG_FOR_SHIELDS_BEGIN 1  energy_shield_blue_small 0  262151 0 1 0 0 100 0 1 0 0 1 1 0 1 0 0 0
+ itm_shields_begin <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_energy_shield_red_small Small_Energy_Shield Small_Energy_Shield 1  energy_shield_red_small 0  327687 0 200 0 0 60 0 10 0 0 200 105 0 40 0 0 0
@@ -2361,7 +2361,7 @@ itemsfile version 2
  itm_wookiee_shield_large Large_Wookiee_Shield Large_Wookiee_Shield 1  shield_kite_m 0  65543 4831838208 150 167772194 3.5 80 0 10 0 0 400 80 0 85 0 0 0
 0
 
- itm_shield_bash_begin FLAG_FOR_SHIELD_BASH_BEGIN FLAG_FOR_SHIELD_BASH_BEGIN 1  energy_shield_blue_small 0  7 0 1 0 0 100 0 1 0 0 1 1 0 1 0 0 0
+ itm_shield_bash_begin <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_westar_shield Westar-34_Shield Westar-34_Shield 1  westar_shield 0  65543 0 250 0 1.5 80 0 5 0 0 150 100 0 15 0 0 0
@@ -2391,7 +2391,7 @@ itemsfile version 2
  itm_lightsaber_block_yellow Lightsaber_Shield Lightsaber_Shield 1  lightsaber_yellow_block 0  327687 0 800 0 0.5 40 0 35 0 0 800 105 0 75 0 0 0
 0
 
- itm_shields_end FLAG_FOR_SHIELDS_END FLAG_FOR_SHIELDS_END 1  energy_shield_blue_small 0  262151 0 1 0 0 100 0 1 0 0 1 1 0 1 0 0 0
+ itm_shields_end <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_force_block Force_Block Force_Block 2  force_block 0  force_block_inv 1152921504606846976  266247 0 600 0 0 100 0 40 0 0 600 110 0 60 0 0 0
@@ -2406,7 +2406,7 @@ itemsfile version 2
  itm_hero_shield Transparent_Hero_Shield Transparent_Hero_Shield 2  force_shield 0  force_shield_inv 1152921504606846976  4103 0 800 0 0 100 0 40 0 0 600 100 0 75 0 0 0
 0
 
- itm_shield_bash_end FLAG_FOR_SHIELD_BASH_END FLAG_FOR_SHIELD_BASH_END 1  energy_shield_blue_small 0  262151 0 1 0 0 100 0 1 0 0 1 1 0 1 0 0 0
+ itm_shield_bash_end <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_practice_energy_shield Practice_Energy_Shield Practice_Energy_Shield 1  energy_shield_yellow_medium 0  262151 0 300 0 0 100 0 10 0 0 400 105 0 45 0 0 0
@@ -2423,116 +2423,115 @@ itemsfile version 2
 1
 -51  3 600 1 191 720 2 1 0 721 2 1 0 
 
- itm_force_lightning_ammo Force_Lightning Force_Lightning 3  transparent 0  lightning 2305843009213693952  lightning 1152921504606846976  67112965 0 200 0 0 80 0 0 0 0 0 0 0 95 30 513 0
+ itm_force_lightning_ammo Force_Lightning Force_Lightning 3  0 0  lightning 2305843009213693952  lightning 1152921504606846976  67112965 0 200 0 0 80 0 0 0 0 0 0 0 95 30 513 0
 0
 
- itm_force_push_ammo Force_Push Force_Push 3  transparent 0  f_push 2305843009213693952  f_push 1152921504606846976  67112965 0 200 0 0 80 0 0 0 0 0 0 0 95 30 513 0
+ itm_force_push_ammo Force_Push Force_Push 3  0 0  f_push 2305843009213693952  f_push 1152921504606846976  67112965 0 200 0 0 80 0 0 0 0 0 0 0 95 30 513 0
 0
 
- itm_laser_bolts_green_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_green_alpha 2305843009213693952  laser_bolt_green_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0 100 0 0 0 0 0 0 0 60 100 257 0
+ itm_laser_bolts_green_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  0 0  swy_blasterbolt_green_alpha 2305843009213693952  laser_bolt_green_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0 100 0 0 0 0 0 0 0 60 100 257 0
 0
 
- itm_laser_bolts_red_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_red_alpha 2305843009213693952  laser_bolt_red_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0 100 0 0 0 0 0 0 0 60 100 257 0
+ itm_laser_bolts_red_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  0 0  swy_blasterbolt_red_alpha 2305843009213693952  laser_bolt_red_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0 100 0 0 0 0 0 0 0 60 100 257 0
 0
 
- itm_laser_bolts_orange_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_orange_alpha 2305843009213693952  laser_bolt_orange_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0 80 0 0 0 0 0 0 0 60 100 257 0
+ itm_laser_bolts_orange_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  0 0  swy_blasterbolt_orange_alpha 2305843009213693952  laser_bolt_orange_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0 80 0 0 0 0 0 0 0 60 100 257 0
 0
 
- itm_laser_bolts_yellow_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_yellow_alpha 2305843009213693952  laser_bolt_yellow_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0 80 0 0 0 0 0 0 0 60 100 257 0
+ itm_laser_bolts_yellow_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  0 0  swy_blasterbolt_yellow_alpha 2305843009213693952  laser_bolt_yellow_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0 80 0 0 0 0 0 0 0 60 100 257 0
 0
 
- itm_laser_bolts_blue_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_blue_alpha 2305843009213693952  laser_bolt_blue_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0 60 0 0 0 0 0 0 0 60 100 257 0
+ itm_laser_bolts_blue_pistol Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  0 0  swy_blasterbolt_blue_alpha 2305843009213693952  laser_bolt_blue_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0 60 0 0 0 0 0 0 0 60 100 257 0
 0
 
- itm_stun_beam_pistol Stun_Beam_Cartridges Stun_Beam_Cartridges 3  transparent 0  stun_beam 2305843009213693952  stun_beam_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0 100 0 0 0 0 0 0 0 80 100 513 0
+ itm_stun_beam_pistol Stun_Beam_Cartridges Stun_Beam_Cartridges 3  0 0  stun_beam 2305843009213693952  stun_beam_cartridges_pistol 1152921504606846976  67174418 0 100 4398046511104 0 100 0 0 0 0 0 0 0 80 100 513 0
 0
 
- itm_ion_beam_pistol Ion_Beam_Cartridges Ion_Beam_Cartridges 3  transparent 0  ion_beam 2305843009213693952  ion_beam_cartridges_pistol 1152921504606846976  67174418 0 50 4398046511104 0 60 0 0 0 0 0 0 0 60 80 513 0
+ itm_ion_beam_pistol Ion_Beam_Cartridges Ion_Beam_Cartridges 3  0 0  ion_beam 2305843009213693952  ion_beam_cartridges_pistol 1152921504606846976  67174418 0 50 4398046511104 0 60 0 0 0 0 0 0 0 60 80 513 0
 0
 
- itm_sonic_beam_pistol Sonic_Beam_Cartridges Sonic_Beam_Cartridges 3  transparent 0  sonic_ammo 2305843009213693952  ion_beam_cartridges_pistol 1152921504606846976  67174418 0 50 4398046511104 0 40 0 0 0 0 0 0 0 60 80 513 0
+ itm_sonic_beam_pistol Sonic_Beam_Cartridges Sonic_Beam_Cartridges 3  0 0  sonic_ammo 2305843009213693952  ion_beam_cartridges_pistol 1152921504606846976  67174418 0 50 4398046511104 0 40 0 0 0 0 0 0 0 60 80 513 0
 0
 
- itm_ammo_belt_pistol Ammo_Belt Ammo_Belt 4  transparent 0  swy_blasterbolt_yellow_alpha 2305843009213693952  ammo_belt 3458764513820540928  ammo_belt 1152921504606846976  67174418 4294967296 150 0 0 50 0 0 0 0 0 0 0 60 150 257 0
+ itm_ammo_belt_pistol Ammo_Belt Ammo_Belt 4  0 0  swy_blasterbolt_yellow_alpha 2305843009213693952  ammo_belt 3458764513820540928  ammo_belt 1152921504606846976  67174418 4294967296 150 0 0 50 0 0 0 0 0 0 0 60 150 257 0
 0
 
- itm_disruptor_ammo Disruptor_Ammo_for_Pistols Disruptor_Ammo_for_Pistols 3  transparent 0  laser_disruptor 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174418 0 4960 4398046511104 0 60 0 0 0 0 0 0 0 60 160 516 0
+ itm_disruptor_ammo Disruptor_Ammo_for_Pistols Disruptor_Ammo_for_Pistols 3  0 0  laser_disruptor 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174418 0 4960 4398046511104 0 60 0 0 0 0 0 0 0 60 160 516 0
 0
 
- itm_laser_bolts_green_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_green_alpha 2305843009213693952  laser_bolt_green_cartridges 1152921504606846976  67174406 0 100 4398046511104 0 100 0 0 0 0 0 0 0 60 125 257 0
+ itm_laser_bolts_green_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  0 0  swy_blasterbolt_green_alpha 2305843009213693952  laser_bolt_green_cartridges 1152921504606846976  67174406 0 100 4398046511104 0 100 0 0 0 0 0 0 0 60 125 257 0
 0
 
- itm_laser_bolts_red_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_red_alpha 2305843009213693952  laser_bolt_red_cartridges 1152921504606846976  67174406 0 100 4398046511104 0 100 0 0 0 0 0 0 0 60 125 257 0
+ itm_laser_bolts_red_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  0 0  swy_blasterbolt_red_alpha 2305843009213693952  laser_bolt_red_cartridges 1152921504606846976  67174406 0 100 4398046511104 0 100 0 0 0 0 0 0 0 60 125 257 0
 0
 
- itm_laser_bolts_orange_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_orange_alpha 2305843009213693952  laser_bolt_orange_cartridges 1152921504606846976  67174406 0 100 4398046511104 0 80 0 0 0 0 0 0 0 60 125 257 0
+ itm_laser_bolts_orange_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  0 0  swy_blasterbolt_orange_alpha 2305843009213693952  laser_bolt_orange_cartridges 1152921504606846976  67174406 0 100 4398046511104 0 80 0 0 0 0 0 0 0 60 125 257 0
 0
 
- itm_laser_bolts_yellow_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_yellow_alpha 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67174406 0 100 4398046511104 0 80 0 0 0 0 0 0 0 60 125 257 0
+ itm_laser_bolts_yellow_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  0 0  swy_blasterbolt_yellow_alpha 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67174406 0 100 4398046511104 0 80 0 0 0 0 0 0 0 60 125 257 0
 0
 
- itm_laser_bolts_blue_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  transparent 0  swy_blasterbolt_blue_alpha 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174406 0 100 4398046511104 0 60 0 0 0 0 0 0 0 60 125 257 0
+ itm_laser_bolts_blue_rifle Plasma_Gas_Cartridges Plasma_Gas_Cartridges 3  0 0  swy_blasterbolt_blue_alpha 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174406 0 100 4398046511104 0 60 0 0 0 0 0 0 0 60 125 257 0
 0
 
- itm_stun_beam_rifle Stun_Beam_Cartridges Stun_Beam_Cartridges 3  transparent 0  stun_beam 2305843009213693952  stun_beam_cartridges 1152921504606846976  67174406 0 100 4398046511104 0 100 0 0 0 0 0 0 0 80 125 513 0
+ itm_stun_beam_rifle Stun_Beam_Cartridges Stun_Beam_Cartridges 3  0 0  stun_beam 2305843009213693952  stun_beam_cartridges 1152921504606846976  67174406 0 100 4398046511104 0 100 0 0 0 0 0 0 0 80 125 513 0
 0
 
- itm_ion_beam_rifle Ion_Beam_Cartridges Ion_Beam_Cartridges 3  transparent 0  ion_beam 2305843009213693952  ion_beam_cartridges 1152921504606846976  67174406 0 50 4398046511104 0 60 0 0 0 0 0 0 0 60 100 513 0
+ itm_ion_beam_rifle Ion_Beam_Cartridges Ion_Beam_Cartridges 3  0 0  ion_beam 2305843009213693952  ion_beam_cartridges 1152921504606846976  67174406 0 50 4398046511104 0 60 0 0 0 0 0 0 0 60 100 513 0
 0
 
- itm_sonic_beam_rifle Sonic_Beam_Cartridges Sonic_Beam_Cartridges 3  transparent 0  sonic_ammo 2305843009213693952  ion_beam_cartridges 1152921504606846976  67174406 0 50 4398046511104 0 40 0 0 0 0 0 0 0 60 100 513 0
+ itm_sonic_beam_rifle Sonic_Beam_Cartridges Sonic_Beam_Cartridges 3  0 0  sonic_ammo 2305843009213693952  ion_beam_cartridges 1152921504606846976  67174406 0 50 4398046511104 0 40 0 0 0 0 0 0 0 60 100 513 0
 0
 
- itm_ammo_belt_rifle Ammo_Belt Ammo_Belt 4  transparent 0  swy_blasterbolt_yellow_alpha 2305843009213693952  ammo_belt 3458764513820540928  ammo_belt 1152921504606846976  67174406 4294967296 150 0 0 50 0 0 0 0 0 0 0 60 175 257 0
+ itm_ammo_belt_rifle Ammo_Belt Ammo_Belt 4  0 0  swy_blasterbolt_yellow_alpha 2305843009213693952  ammo_belt 3458764513820540928  ammo_belt 1152921504606846976  67174406 4294967296 150 0 0 50 0 0 0 0 0 0 0 60 175 257 0
 0
 
- itm_disruptor_ammo_rifle Disruptor_Ammo_for_Rifles Disruptor_Ammo_for_Rifles 3  transparent 0  laser_disruptor 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174406 0 4960 4398046511104 0 60 0 0 0 0 0 0 0 60 160 516 0
+ itm_disruptor_ammo_rifle Disruptor_Ammo_for_Rifles Disruptor_Ammo_for_Rifles 3  0 0  laser_disruptor 2305843009213693952  laser_bolt_blue_cartridges 1152921504606846976  67174406 0 4960 4398046511104 0 60 0 0 0 0 0 0 0 60 160 516 0
 0
 
- itm_laser_bolts_training_pistol Laser_Bolts Laser_Bolts 3  transparent 0  swy_blasterbolt_yellow_alpha 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67112978 0 500 0 0 100 0 0 0 0 0 0 0 5 12 257 0
+ itm_laser_bolts_training_pistol Laser_Bolts Laser_Bolts 3  0 0  swy_blasterbolt_yellow_alpha 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67112978 0 500 0 0 100 0 0 0 0 0 0 0 5 12 257 0
 0
 
- itm_laser_bolts_training_rifle Laser_Bolts Laser_Bolts 3  transparent 0  swy_blasterbolt_yellow_alpha 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67112966 0 500 0 0 100 0 0 0 0 0 0 0 5 12 257 0
+ itm_laser_bolts_training_rifle Laser_Bolts Laser_Bolts 3  0 0  swy_blasterbolt_yellow_alpha 2305843009213693952  laser_bolt_yellow_cartridges 1152921504606846976  67112966 0 500 0 0 100 0 0 0 0 0 0 0 5 12 257 0
 0
 
- itm_force_power_ls_1 Initiate_Force_Powers Initiate_Force_Powers 2  transparent 0  force_powers_ls 1152921504606846976  4198408 4096 502 0 0 80 0 0 85 2 0 80 80 0 50 542 0
+ itm_force_power_ls_1 Initiate_Force_Powers Initiate_Force_Powers 2  0 0  force_powers_ls 1152921504606846976  4198408 4096 502 0 0 80 0 0 85 2 0 80 80 0 50 542 0
 1
 -51  3 600 1 192 720 2 1 0 721 2 1 0 
 
- itm_force_power_ls_2 Apprentice_Force_Powers Apprentice_Force_Powers 2  transparent 0  force_powers_ls 1152921504606846976  4198408 458752 1004 0 0 70 0 0 90 4 0 100 100 0 50 552 0
+ itm_force_power_ls_2 Apprentice_Force_Powers Apprentice_Force_Powers 2  0 0  force_powers_ls 1152921504606846976  4198408 458752 1004 0 0 70 0 0 90 4 0 100 100 0 50 552 0
 1
 -51  3 600 1 192 720 2 1 0 721 2 1 0 
 
- itm_force_power_ls_3 Knight_Force_Powers Knight_Force_Powers 2  transparent 0  force_powers_ls 1152921504606846976  4198408 458752 1505 0 0 60 0 0 95 5 0 120 120 0 50 562 0
+ itm_force_power_ls_3 Knight_Force_Powers Knight_Force_Powers 2  0 0  force_powers_ls 1152921504606846976  4198408 458752 1505 0 0 60 0 0 95 5 0 120 120 0 50 562 0
 1
 -51  3 600 1 192 720 2 1 0 721 2 1 0 
 
- itm_force_power_ls_4 Master_Force_Powers Master_Force_Powers 2  transparent 0  force_powers_ls 1152921504606846976  4198408 458752 2001 0 0 50 0 0 100 6 0 140 140 0 50 572 0
+ itm_force_power_ls_4 Master_Force_Powers Master_Force_Powers 2  0 0  force_powers_ls 1152921504606846976  4198408 458752 2001 0 0 50 0 0 100 6 0 140 140 0 50 572 0
 1
 -51  3 600 1 192 720 2 1 0 721 2 1 0 
 
- itm_force_power_ds_1 Initiate_Force_Powers Initiate_Force_Powers 2  transparent 0  force_powers_ds 1152921504606846976  4198408 458752 502 0 0 80 0 0 85 2 0 80 80 0 50 286 0
+ itm_force_power_ds_1 Initiate_Force_Powers Initiate_Force_Powers 2  0 0  force_powers_ds 1152921504606846976  4198408 458752 502 0 0 80 0 0 85 2 0 80 80 0 50 286 0
 1
 -51  3 600 1 193 720 2 1 0 721 2 1 0 
 
- itm_force_power_ds_2 Apprentice_Force_Powers Apprentice_Force_Powers 2  transparent 0  force_powers_ds 1152921504606846976  4198408 458752 1004 0 0 70 0 0 90 4 0 100 100 0 50 296 0
+ itm_force_power_ds_2 Apprentice_Force_Powers Apprentice_Force_Powers 2  0 0  force_powers_ds 1152921504606846976  4198408 458752 1004 0 0 70 0 0 90 4 0 100 100 0 50 296 0
 1
 -51  3 600 1 193 720 2 1 0 721 2 1 0 
 
- itm_force_power_ds_3 Knight_Force_Powers Knight_Force_Powers 2  transparent 0  force_powers_ds 1152921504606846976  4198408 458752 1505 0 0 60 0 0 95 5 0 120 120 0 50 306 0
+ itm_force_power_ds_3 Knight_Force_Powers Knight_Force_Powers 2  0 0  force_powers_ds 1152921504606846976  4198408 458752 1505 0 0 60 0 0 95 5 0 120 120 0 50 306 0
 1
 -51  3 600 1 193 720 2 1 0 721 2 1 0 
 
- itm_force_power_ds_4 Master_Force_Powers Master_Force_Powers 2  transparent 0  force_powers_ds 1152921504606846976  4198408 458752 2001 0 0 50 0 0 100 6 0 140 140 0 50 316 0
+ itm_force_power_ds_4 Master_Force_Powers Master_Force_Powers 2  0 0  force_powers_ds 1152921504606846976  4198408 458752 2001 0 0 50 0 0 100 6 0 140 140 0 50 316 0
 1
 -51  3 600 1 193 720 2 1 0 721 2 1 0 
 
  itm_force_jump Force_Jump Force_Jump 1  force_push_inv 0  4107 0 3000 0 0 35 0 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_ranged_weapons_begin FLAG_FOR_RANGED_WEAPONS_BEGIN FLAG_FOR_RANGED_WEAPONS_BEGIN 1  A280 0  73400329 555929845760 1 0 1 100 0 0 1 0 0 1 1 0 1 257 0
-1
--51  3 600 1 176 720 2 1 14 721 2 1 18 
+ itm_ranged_weapons_begin <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
+0
 
  itm_a280 A-280 A-280 2  A280 0  A280_inventory 1152921504606846976  73400329 555929845760 1300 270342 6.5 100 0 0 93 0 0 110 180 0 30 301 0
 1
@@ -2742,7 +2741,7 @@ itemsfile version 2
 1
 -51  7 600 1 184 720 2 1 10 721 2 1 14 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
 
- itm_wrist_blaster Wrist_Mounted_Blaster Wrist_Mounted_Blaster 2  transparent 0  wrist_blaster 1152921504606846976  71368720 481036795904 500 0 1.25 60 0 0 90 0 0 105 135 0 24 291 0
+ itm_wrist_blaster Wrist_Mounted_Blaster Wrist_Mounted_Blaster 2  0 0  wrist_blaster 1152921504606846976  71368720 481036795904 500 0 1.25 60 0 0 90 0 0 105 135 0 24 291 0
 1
 -51  7 600 1 176 720 2 1 0 721 2 1 0 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
 
@@ -2754,7 +2753,7 @@ itemsfile version 2
 1
 -51  7 600 1 187 720 2 1 6 721 2 1 8 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
 
- itm_ranged_weapons_end FLAG_FOR_RANGED_WEAPONS_BEGIN FLAG_FOR_RANGED_WEAPONS_BEGIN 1  A280 0  73400329 555929845760 1 0 1 100 0 0 1 0 0 1 1 0 1 257 0
+ itm_ranged_weapons_end <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_practice_dl44 DL-44 DL-44 1  DL44a 0  71303184 483452715008 300 270342 1.5 100 0 0 90 0 0 120 140 0 12 282 0
@@ -2769,7 +2768,7 @@ itemsfile version 2
 1
 -51  3 600 1 176 720 2 1 14 721 2 1 18 
 
- itm_heavy_weapons_ammo Heavy_Weapons_Ammo Heavy_Weapons_Ammo 3  transparent 0  transparent 2305843009213693952  player_chest_sw 1152921504606846976  4102 0 100 4398046511104 2.25 90 0 0 0 0 0 0 0 10 12 257 0
+ itm_heavy_weapons_ammo Heavy_Weapons_Ammo Heavy_Weapons_Ammo 3  0 0  0 2305843009213693952  player_chest_sw 1152921504606846976  4102 0 100 4398046511104 2.25 90 0 0 0 0 0 0 0 10 12 257 0
 0
 
  itm_rocket_launcher RDP-12_Rocket_Launcher_(in_development) RDP-12_Rocket_Launcher_(in_development) 2  rpg 0  rpg_inventory 1152921504606846976  74453001 1036966690816 4000 0 10 90 0 0 95 0 0 60 160 0 1 406 0
@@ -2784,23 +2783,23 @@ itemsfile version 2
 1
 -51  24 6 3 72057594037927941 1 500 1969 3 25 1 15 721 2 1 10 700 2 2 1 791 1 2 710 3 1224979098644774912 1 2 2147483678 2 1224979098644774912 10 1969 3 33 1 2 600 1 189 1700 1 1224979098644774913 12 1 1224979098644774914 1710 2 2 1224979098644774914 710 3 1224979098644774912 1 2 2147483678 2 1224979098644774912 300 1721 3 1224979098644774914 1 0 1722 2 1224979098644774913 1224979098644774914 3 0 1811 3 1224979098644774915 980 0 719 2 2 1 1855 2 1224979098644774915 2 722 2 2 1000 1860 3 1224979098644774915 2 175 2133 2 72057594037927941 1000 3 0 
 
- itm_force_kill Force_Kill Force_Kill 2  transparent 0  force_kill_inv 1152921504606846976  6295562 9223388529554358286 6000 0 0 60 0 0 0 0 0 50 5 8 1 356 0
+ itm_force_kill Force_Kill Force_Kill 2  0 0  force_kill_inv 1152921504606846976  6295562 9223388529554358286 6000 0 0 60 0 0 0 0 0 50 5 8 1 356 0
 1
 -51  40 2133 2 1224979098644774912 99999 1700 1 1224979098644774913 12 1 1224979098644774914 1702 1 1224979098644774914 1704 1 1224979098644774914 1709 2 2 1224979098644774914 710 3 1224979098644774915 1 2 2147483678 2 1224979098644774915 1224979098644774912 2133 2 1224979098644774916 1224979098644774914 2133 2 1224979098644774912 1224979098644774915 1770 2 1224979098644774917 1224979098644774916 3 0 12 1 1224979098644774914 1702 1 1224979098644774914 1704 1 1224979098644774914 2147483679 2 1224979098644774914 1224979098644774913 2147483679 2 1224979098644774914 1224979098644774916 1770 2 1224979098644774918 1224979098644774914 2147483679 2 1224979098644774917 1224979098644774918 1710 2 2 1224979098644774914 1710 2 1 1224979098644774916 710 3 1224979098644774915 1 2 2147483678 2 1224979098644774915 350 722 2 2 150 1969 3 2 2 95 1969 3 3 2 95 600 1 118 1721 3 1224979098644774914 0 0 1722 2 1224979098644774913 1224979098644774914 1720 3 1224979098644774919 1224979098644774913 1 2136 3 1224979098644774920 3 6 2106 2 1224979098644774919 1224979098644774920 4 0 2147483680 2 1224979098644774919 0 1721 3 1224979098644774913 0 0 5 0 1721 3 1224979098644774913 1224979098644774919 1 3 0 1722 2 1224979098644774913 1224979098644774913 3 0 
 
- itm_force_choke Force_Choke Force_Choke 2  transparent 0  force_kill_inv 1152921504606846976  6295562 9223388529554358286 5000 0 0 60 0 0 0 0 0 50 5 8 1 527 0
+ itm_force_choke Force_Choke Force_Choke 2  0 0  force_kill_inv 1152921504606846976  6295562 9223388529554358286 5000 0 0 60 0 0 0 0 0 50 5 8 1 527 0
 1
 -51  38 2133 2 1224979098644774912 99999 1700 1 1224979098644774913 12 1 1224979098644774914 1702 1 1224979098644774914 1704 1 1224979098644774914 1709 2 2 1224979098644774914 710 3 1224979098644774915 1 2 2147483678 2 1224979098644774915 1224979098644774912 2133 2 1224979098644774916 1224979098644774914 2133 2 1224979098644774912 1224979098644774915 1770 2 1224979098644774917 1224979098644774916 3 0 12 1 1224979098644774914 1702 1 1224979098644774914 1704 1 1224979098644774914 2147483679 2 1224979098644774914 1224979098644774913 2147483679 2 1224979098644774914 1224979098644774916 1770 2 1224979098644774918 1224979098644774914 2147483679 2 1224979098644774917 1224979098644774918 1710 2 2 1224979098644774914 1710 2 1 1224979098644774916 710 3 1224979098644774915 1 2 2147483678 2 1224979098644774915 500 1750 2 1224979098644774913 192 2136 3 1224979098644774919 0 100 4 0 2147483678 2 1224979098644774919 35 1740 2 1224979098644774914 389 2136 3 1224979098644774920 4 6 5 0 1740 2 1224979098644774914 389 2136 3 1224979098644774920 6 10 3 0 1720 3 1224979098644774921 1224979098644774914 1 2106 2 1224979098644774921 1224979098644774920 1721 3 1224979098644774914 1224979098644774921 1 1722 2 1224979098644774913 1224979098644774914 3 0 
 
- itm_force_knockdown Force_Knockdown Force_Knockdown 2  transparent 0  force_stun_inv 1152921504606846976  6295562 1 6000 0 0 60 0 0 0 0 0 50 5 8 1 527 0
+ itm_force_knockdown Force_Knockdown Force_Knockdown 2  0 0  force_stun_inv 1152921504606846976  6295562 1 6000 0 0 60 0 0 0 0 0 50 5 8 1 527 0
 1
 -51  40 2133 2 1224979098644774912 99999 1700 1 1224979098644774913 12 1 1224979098644774914 1702 1 1224979098644774914 1704 1 1224979098644774914 1709 2 2 1224979098644774914 710 3 1224979098644774915 1 2 2147483678 2 1224979098644774915 1224979098644774912 2133 2 1224979098644774916 1224979098644774914 2133 2 1224979098644774912 1224979098644774915 1770 2 1224979098644774917 1224979098644774916 3 0 12 1 1224979098644774914 1702 1 1224979098644774914 1704 1 1224979098644774914 2147483679 2 1224979098644774914 1224979098644774913 2147483679 2 1224979098644774914 1224979098644774916 1770 2 1224979098644774918 1224979098644774914 2147483679 2 1224979098644774917 1224979098644774918 1710 2 2 1224979098644774914 1710 2 1 1224979098644774916 710 3 1224979098644774915 1 2 2147483678 2 1224979098644774915 500 1750 2 1224979098644774913 192 2136 3 1224979098644774919 0 100 4 0 2147483678 2 1224979098644774919 35 1740 2 1224979098644774914 388 1740 2 1224979098644774914 383 2136 3 1224979098644774920 4 6 5 0 1740 2 1224979098644774914 388 1740 2 1224979098644774914 383 2136 3 1224979098644774920 6 10 3 0 1720 3 1224979098644774921 1224979098644774914 1 2106 2 1224979098644774921 1224979098644774920 1721 3 1224979098644774914 1224979098644774921 1 1722 2 1224979098644774913 1224979098644774914 3 0 
 
- itm_force_stun Force_Stun Force_Stun 2  transparent 0  force_stun_inv 1152921504606846976  6295562 1 5000 0 0 60 0 0 0 0 0 50 5 8 1 527 0
+ itm_force_stun Force_Stun Force_Stun 2  0 0  force_stun_inv 1152921504606846976  6295562 1 5000 0 0 60 0 0 0 0 0 50 5 8 1 527 0
 1
 -51  38 2133 2 1224979098644774912 99999 1700 1 1224979098644774913 12 1 1224979098644774914 1702 1 1224979098644774914 1704 1 1224979098644774914 1709 2 2 1224979098644774914 710 3 1224979098644774915 1 2 2147483678 2 1224979098644774915 1224979098644774912 2133 2 1224979098644774916 1224979098644774914 2133 2 1224979098644774912 1224979098644774915 1770 2 1224979098644774917 1224979098644774916 3 0 12 1 1224979098644774914 1702 1 1224979098644774914 1704 1 1224979098644774914 2147483679 2 1224979098644774914 1224979098644774913 2147483679 2 1224979098644774914 1224979098644774916 1770 2 1224979098644774918 1224979098644774914 2147483679 2 1224979098644774917 1224979098644774918 1710 2 2 1224979098644774914 1710 2 1 1224979098644774916 710 3 1224979098644774915 1 2 2147483678 2 1224979098644774915 500 1750 2 1224979098644774913 192 2136 3 1224979098644774919 0 100 4 0 2147483678 2 1224979098644774919 35 1740 2 1224979098644774914 385 2136 3 1224979098644774920 4 6 5 0 1740 2 1224979098644774914 384 2136 3 1224979098644774920 6 10 3 0 1720 3 1224979098644774921 1224979098644774914 1 2106 2 1224979098644774921 1224979098644774920 1721 3 1224979098644774914 1224979098644774921 1 1722 2 1224979098644774913 1224979098644774914 3 0 
 
- itm_horses_begin FLAG_FOR_HORSES_BEGIN FLAG_FOR_HORSES_BEGIN 1  speeder_a 0  1 0 1 0 0 100 0 1 0 0 1 1 1 0 0 1 0
+ itm_horses_begin <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_speeder Civilian_74-Z_Speeder_Bike Civilian_74-Z_Speeder_Bike 1  speeder_a 0  65537 0 1000 37715443746 0 100 0 0 0 0 30 45 65 0 0 15 0
@@ -2839,7 +2838,7 @@ itemsfile version 2
  itm_power_chair Power_Chair Power_Chair 1  power_chair 0  65537 0 500 37715443746 0 50 0 0 0 0 20 35 45 0 0 10 0
 0
 
- itm_horses_end FLAG_FOR_HORSES_END FLAG_FOR_HORSES_END 1  speeder_a 0  1 0 1 0 0 100 0 1 0 0 1 1 1 0 0 1 0
+ itm_horses_end <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_practice_speeder Civilian_74-Z_Speeder_Bike Civilian_74-Z_Speeder_Bike 1  speeder_a 0  4097 0 1000 0 0 100 0 0 0 0 30 45 50 0 0 15 0
@@ -2848,6 +2847,6 @@ itemsfile version 2
  itm_arena_speeder Civilian_74-Z_Speeder_Bike Civilian_74-Z_Speeder_Bike 1  speeder_a 0  4097 0 1000 0 0 100 0 0 0 0 30 45 50 0 0 15 0
 0
 
- itm_items_end INVALID_ITEM INVALID_ITEM 1  transparent 0  12582914 9223388529554358287 3 0 1.5 100 0 0 0 0 16384 103 0 90 0 522 528
+ itm_items_end <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
