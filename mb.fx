@@ -1085,13 +1085,18 @@ VS_OUTPUT vs_main (uniform const int PcfMode, uniform const bool UseSecondLight,
 	return Out;
 }
 
-PS_OUTPUT ps_main(PS_INPUT In, uniform const int PcfMode)
+PS_OUTPUT ps_main(PS_INPUT In, uniform const int PcfMode, uniform const bool isGlowEnabled)
 {
 	PS_OUTPUT Output;
 
 	float4 tex_col = tex2D(MeshTextureSampler, In.Tex0);
 
 	tex_col.rgb = pow(tex_col.rgb, input_gamma);
+	
+	if(isGlowEnabled)
+	{
+		In.SunLight -= tex_col.a;
+	}
 
 	if ((PcfMode != PCF_NONE))
 	{
@@ -1103,6 +1108,7 @@ PS_OUTPUT ps_main(PS_INPUT In, uniform const int PcfMode)
 	{
 		Output.RGBColor = tex_col * (In.Color + In.SunLight);
 	}
+	
 	// gamma correct
 	Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
 	return Output;
@@ -2579,6 +2585,15 @@ technique swconquest_lightsaber
 	}
 }
 
+technique swconquest_glow
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_main(PCF_NONE, true);
+		PixelShader  = compile ps_2_0 ps_main(PCF_NONE, true); //glow_enabled
+	}
+}
+
 //the technique for the programmable shader (simply sets the vertex shader)
 technique font_uniform_color
 {
@@ -2657,7 +2672,7 @@ technique diffuse
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_main(PCF_NONE, true);
-		PixelShader = compile ps_2_0 ps_main(PCF_NONE);
+		PixelShader = compile ps_2_0 ps_main(PCF_NONE, false);
 	}
 }
 
@@ -2666,7 +2681,7 @@ technique diffuse_SHDW
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_main(PCF_DEFAULT, true);
-		PixelShader = compile ps_2_0 ps_main(PCF_DEFAULT);
+		PixelShader = compile ps_2_0 ps_main(PCF_DEFAULT, false);
 	}
 }
 
@@ -2675,7 +2690,7 @@ technique diffuse_SHDWNVIDIA
 	pass P0
 	{
 		VertexShader = compile vs_2_a vs_main(PCF_NVIDIA, true);
-		PixelShader = compile ps_2_a ps_main(PCF_NVIDIA);
+		PixelShader = compile ps_2_a ps_main(PCF_NVIDIA, false);
 	}
 }
 
@@ -2684,7 +2699,7 @@ technique diffuse_dynamic
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_main(PCF_NONE, false);
-		PixelShader = compile ps_2_0 ps_main(PCF_NONE);
+		PixelShader = compile ps_2_0 ps_main(PCF_NONE, false);
 	}
 }
 
@@ -2693,7 +2708,7 @@ technique diffuse_dynamic_SHDW
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_main(PCF_DEFAULT, false);
-		PixelShader = compile ps_2_0 ps_main(PCF_DEFAULT);
+		PixelShader = compile ps_2_0 ps_main(PCF_DEFAULT, false);
 	}
 }
 
@@ -2702,7 +2717,7 @@ technique diffuse_dynamic_SHDWNVIDIA
 	pass P0
 	{
 		VertexShader = compile vs_2_a vs_main(PCF_NVIDIA, false);
-		PixelShader = compile ps_2_a ps_main(PCF_NVIDIA);
+		PixelShader = compile ps_2_a ps_main(PCF_NVIDIA, false);
 	}
 }
 
@@ -2711,7 +2726,7 @@ technique skin_diffuse
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_main_skin(PCF_NONE);
-		PixelShader = compile ps_2_0 ps_main(PCF_NONE);
+		PixelShader = compile ps_2_0 ps_main(PCF_NONE, false);
 	}
 }
 
@@ -2720,7 +2735,7 @@ technique skin_diffuse_SHDW
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_main_skin(PCF_DEFAULT);
-		PixelShader = compile ps_2_0 ps_main(PCF_DEFAULT);
+		PixelShader = compile ps_2_0 ps_main(PCF_DEFAULT, false);
 	}
 }
 
@@ -2729,7 +2744,7 @@ technique skin_diffuse_SHDWNVIDIA
 	pass P0
 	{
 		VertexShader = compile vs_2_a vs_main_skin(PCF_NVIDIA);
-		PixelShader = compile ps_2_a ps_main(PCF_NVIDIA);
+		PixelShader = compile ps_2_a ps_main(PCF_NVIDIA, false);
 	}
 }
 
@@ -2827,7 +2842,7 @@ technique envmap_metal
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_main(PCF_NONE, true);
-		PixelShader = compile ps_2_0 ps_main(PCF_NONE);
+		PixelShader = compile ps_2_0 ps_main(PCF_NONE, false);
 	}
 }
 
@@ -2836,7 +2851,7 @@ technique envmap_metal_SHDW
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_main(PCF_DEFAULT, true);
-		PixelShader = compile ps_2_0 ps_main(PCF_DEFAULT);
+		PixelShader = compile ps_2_0 ps_main(PCF_DEFAULT, false);
 	}
 }
 
@@ -2845,7 +2860,7 @@ technique envmap_metal_SHDWNVIDIA
 	pass P0
 	{
 		VertexShader = compile vs_2_a vs_main(PCF_NVIDIA, true);
-		PixelShader = compile ps_2_a ps_main(PCF_NVIDIA);
+		PixelShader = compile ps_2_a ps_main(PCF_NVIDIA, false);
 	}
 }
 
