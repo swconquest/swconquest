@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1500
+ 1501
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -417,34 +417,34 @@ spr_sw_garage_rusty 0 0 garage_rusty bo_garage 0
 spr_sw_sarlacc 0 0 sarlacc bo_sarlacc 0
 
 
-spr_sw_building_new_a 0 0 building_new_a bo_building_new_a 0
+spr_sw_building_new_a 0 0 0 0 0
 
 
-spr_sw_bunker_concrete 0 0 bunker_concrete bo_bunker_metal_a 0
+spr_sw_bunker_concrete 0 0 0 0 0
 
 
-spr_sw_bunker_metal_a 0 0 bunker_metal_a bo_bunker_metal_a 0
+spr_sw_bunker_metal_a 0 0 0 0 0
 
 
-spr_sw_bunker_metal_b 0 0 bunker_metal_b bo_bunker_metal_a 0
+spr_sw_bunker_metal_b 0 0 0 0 0
 
 
-spr_sw_bunker_sandstone 0 0 bunker_sandstone bo_bunker_metal_a 0
+spr_sw_bunker_sandstone 0 0 0 0 0
 
 
-spr_sw_wall_new_concrete 0 0 wall_new_concrete bo_wall_new_metal_a 0
+spr_sw_wall_new_concrete 0 0 0 0 0
 
 
-spr_sw_wall_new_glass_cubes 0 0 wall_new_glass_cubes bo_wall_new_metal_a 0
+spr_sw_wall_new_glass_cubes 0 0 0 0 0
 
 
-spr_sw_wall_new_metal_a 0 0 wall_new_metal_a bo_wall_new_metal_a 0
+spr_sw_wall_new_metal_a 0 0 0 0 0
 
 
-spr_sw_wall_new_metal_b 0 0 wall_new_metal_b bo_wall_new_metal_a 0
+spr_sw_wall_new_metal_b 0 0 0 0 0
 
 
-spr_sw_wall_new_sandstone 0 0 wall_new_sandstone bo_wall_new_metal_a 0
+spr_sw_wall_new_sandstone 0 0 0 0 0
 
 
 spr_sw_ruin_02 0 0 ruin_02 bo_ruin_02 0
@@ -4544,6 +4544,9 @@ spr_!dirtdecal3 0 0 !dirtdecal3 0 0
 
 
 spr_!dirtdecal4 0 0 !dirtdecal4 0 0
+
+
+spr_deathstar_parts_6_wall 0 0 deathstar_parts_6_wall bo_deathstar_parts_6_wall 0
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0
