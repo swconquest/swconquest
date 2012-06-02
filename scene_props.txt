@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1501
+ 1505
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4547,6 +4547,18 @@ spr_!dirtdecal4 0 0 !dirtdecal4 0 0
 
 
 spr_deathstar_parts_6_wall 0 0 deathstar_parts_6_wall bo_deathstar_parts_6_wall 0
+
+
+spr_decal_1 0 0 decal_1 0 0
+
+
+spr_decal_2 0 0 decal_2 0 0
+
+
+spr_decal_3 0 0 decal_3 0 0
+
+
+spr_decal_4 0 0 decal_4 0 0
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0
