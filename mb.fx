@@ -965,10 +965,16 @@ PS_OUTPUT ps_grass_no_shadow(PS_INPUT_FLORA_NO_SHADOW In)
 }
 
 
-VS_OUTPUT_FONT vs_main_no_shadow(float4 vPosition : POSITION, float3 vNormal : NORMAL, float2 tc : TEXCOORD0, float4 vColor : COLOR0, float4 vLightColor : COLOR1)
+VS_OUTPUT_FONT vs_main_no_shadow(uniform const bool isSarlacc, float4 vPosition : POSITION, float3 vNormal : NORMAL, float2 tc : TEXCOORD0, float4 vColor : COLOR0, float4 vLightColor : COLOR1)
 {
 	VS_OUTPUT_FONT Out;
-
+	
+	if(isSarlacc){
+		vPosition.x +=sin(time_var-vPosition.z)/4*saturate(vPosition.z);
+		vPosition.y +=cos(time_var-vPosition.x)/4*saturate(vPosition.z);
+		vPosition.z +=sin(time_var-vPosition.y)/2*saturate(vPosition.z); //move the tentacles in a menacing way :)
+	}
+	
 	Out.Pos = mul(matWorldViewProj, vPosition);
 
 	float4 vWorldPos = (float4)mul(matWorld,vPosition);
@@ -2594,6 +2600,15 @@ technique swconquest_glow
 	}
 }
 
+technique swconquest_sarlacc
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_main_no_shadow(true);
+		PixelShader = compile ps_2_0 ps_main_no_shadow();
+	}
+}
+
 //the technique for the programmable shader (simply sets the vertex shader)
 technique font_uniform_color
 {
@@ -2976,7 +2991,7 @@ technique diffuse_no_shadow
 {
 	pass P0
 	{
-		VertexShader = compile vs_2_0 vs_main_no_shadow();
+		VertexShader = compile vs_2_0 vs_main_no_shadow(false);
 		PixelShader = compile ps_2_0 ps_main_no_shadow();
 	}
 }
