@@ -2605,7 +2605,7 @@ technique swconquest_sarlacc
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_main_no_shadow(true);
-		PixelShader = compile ps_2_0 ps_main_no_shadow();
+		PixelShader  = compile ps_2_0 ps_main_no_shadow();
 	}
 }
 
