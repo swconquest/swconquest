@@ -611,10 +611,10 @@ float GetSunAmount(uniform const int PcfMode, float4 ShadowTexCoord, float2 Texe
 	return sun_amount;
 }
 
-float get_fog_amount(float d)
+float get_fog_amount(float distance_to_view, float ground_height)
 {
 	//   return saturate((fFogEnd - d) / (fFogEnd - fFogStart));
-	return 1.0f / exp(d * fFogDensity);
+	return 1.0f / exp(( length(distance_to_view) - (ground_height*2) ) * fFogDensity);
 }
 
 //--> Derivative Maps helper functions from [http://www.rorydriscoll.com/2012/01/11/derivative-maps/]
@@ -672,7 +672,11 @@ VS_OUTPUT_NOTEXTURE vs_main_notexture(float4 vPosition : POSITION, float4 vColor
 	float3 P = mul(matWorldView, vPosition); //position in view space
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -697,7 +701,11 @@ VS_OUTPUT_FONT vs_font(float4 vPosition : POSITION, float4 vColor : COLOR, float
 
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -712,7 +720,10 @@ VS_OUTPUT_FONT vs_swconquest_galaxy(float4 vPosition : POSITION, float4 vColor :
 
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	Out.Fog = get_fog_amount(d,u);
 	
 	
 	Out.Tex0 = tc;
@@ -796,7 +807,11 @@ VS_OUTPUT_FONT vs_skybox(float4 vPosition : POSITION, float4 vColor : COLOR, flo
 	//apply fog
 	P.z    *= 0.2f;
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -830,7 +845,11 @@ VS_OUTPUT_FLORA vs_flora(uniform const int PcfMode, float4 vPosition : POSITION,
 
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -877,7 +896,11 @@ VS_OUTPUT_FLORA_NO_SHADOW vs_flora_no_shadow(float4 vPosition : POSITION, float4
 
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -925,7 +948,11 @@ VS_OUTPUT_FLORA vs_grass(uniform const int PcfMode, float4 vPosition : POSITION,
 	//shadow mapping variables end
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	Out.Color.a = min(1.0f,(1.0f - (d / 50.0f)) * 2.0f);
 
@@ -972,7 +999,11 @@ VS_OUTPUT_FLORA_NO_SHADOW vs_grass_no_shadow(float4 vPosition : POSITION, float4
 
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	Out.Color.a = min(1.0f,(1.0f - (d / 50.0f)) * 2.0f);
 
@@ -1020,7 +1051,10 @@ VS_OUTPUT_FONT vs_main_no_shadow(uniform const bool isSarlacc, float4 vPosition 
 	//apply fog
 	float d = length(P);
 
-	Out.Fog = get_fog_amount(d);
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -1116,7 +1150,10 @@ VS_OUTPUT vs_main (uniform const int PcfMode, uniform const bool UseSecondLight,
 	//apply fog
 	float d = length(P);
 
-	Out.Fog = get_fog_amount(d);
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+
+	Out.Fog = get_fog_amount(d,u);
 	return Out;
 }
 
@@ -1266,7 +1303,11 @@ VS_OUTPUT vs_main_skin (float4 vPosition : POSITION, float3 vNormal : NORMAL, fl
 
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -1323,7 +1364,10 @@ VS_OUTPUT vs_face (uniform const int PcfMode, float4 vPosition : POSITION, float
 	//apply fog
 	float d = length(P);
 
-	Out.Fog = get_fog_amount(d);
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+
+	Out.Fog = get_fog_amount(d,u);
 	return Out;
 }
 
@@ -1408,7 +1452,10 @@ VS_OUTPUT vs_hair (uniform const int PcfMode, float4 vPosition : POSITION, float
 	//apply fog
 	float d = length(P);
 
-	Out.Fog = get_fog_amount(d);
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+
+	Out.Fog = get_fog_amount(d,u);
 	return Out;
 }
 
@@ -1509,8 +1556,12 @@ for(int j = 0; j < iLightPointCount; j++)
 
 	//apply fog
 	float d = length(P);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
 	//SWY-- no fog for water
-	Out.Fog = get_fog_amount(d);///600);
+	Out.Fog = get_fog_amount(d,u);///600);
 
 	return Out;
 }
@@ -1638,7 +1689,11 @@ VS_OUTPUT_MAP_WATER vs_map_water (float4 vPosition : POSITION, float3 vNormal : 
 
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -1701,7 +1756,10 @@ VS_OUTPUT_MAP_MOUNTAIN vs_map_mountain(uniform const int PcfMode, uniform const 
 	//apply fog
 	float d = length(P);
 
-	Out.Fog = get_fog_amount(d);
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+
+	Out.Fog = get_fog_amount(d,u);
 	return Out;
 }
 
@@ -1767,7 +1825,11 @@ VS_OUTPUT_DOT3_BUMP vs_main_dot3_bump (uniform const int PcfMode, float4 vPositi
 
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -1840,7 +1902,11 @@ VS_OUTPUT_BUMP vs_main_bump (uniform const int PcfMode, float4 vPosition : POSIT
 
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -2030,7 +2096,11 @@ VS_OUTPUT_BUMP_DYNAMIC vs_main_bump_interior (float4 vPosition : POSITION, float
 	//apply fog
 	float3 P = mul(matWorldView, vPosition); //position in view space
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 	return Out;
 }
 
@@ -2195,7 +2265,11 @@ VS_OUTPUT_CHARACTER_SHADOW vs_character_shadow (uniform const int PcfMode, float
 
 	float3 P = mul(matWorldView, vPosition); //position in view space
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -2289,7 +2363,11 @@ VS_OUTPUT_SPECULAR_ALPHA vs_specular_alpha_skin (uniform const int PcfMode, floa
 
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -2355,7 +2433,11 @@ VS_OUTPUT_SPECULAR_ALPHA vs_specular_alpha (uniform const int PcfMode, float4 vP
 
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
@@ -2512,7 +2594,11 @@ VS_OUTPUT_ENVMAP_SPECULAR vs_envmap_specular(uniform const int PcfMode, float4 v
 
 	//apply fog
 	float d = length(P);
-	Out.Fog = get_fog_amount(d);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
 
 	return Out;
 }
