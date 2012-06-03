@@ -617,6 +617,35 @@ float get_fog_amount(float d)
 	return 1.0f / exp(d * fFogDensity);
 }
 
+//--> Derivative Maps helper functions from [http://www.rorydriscoll.com/2012/01/11/derivative-maps/]
+// Project the surface gradient (dhdx, dhdy) onto the surface (n, dpdx, dpdy)
+float3 CalculateSurfaceGradient(float3 normal, float3 dpdx, float3 dpdy, float dhdx, float dhdy)
+{
+    float3 r1 = cross(dpdy, normal);
+    float3 r2 = cross(normal, dpdx);
+ 
+    return (r1 * dhdx - r2 * dhdy) / dot(dpdx, r1);
+}
+ 
+// Move the normal away from the surface normal in the opposite surface gradient direction
+float3 PerturbNormal(float3 normal, float3 dpdx, float3 dpdy, float dhdx, float dhdy)
+{
+    return normalize(normal - CalculateSurfaceGradient(normal, dpdx, dpdy, dhdx, dhdy));
+}
+
+// Calculate the surface normal using screen-space partial derivatives of the height field
+float3 CalculateSurfaceNormal(float3 position, float3 normal, float height)
+{
+    float3 dpdx = ddx(position);
+    float3 dpdy = ddy(position);
+ 
+    float dhdx = ddx(height);
+    float dhdy = ddy(height);
+ 
+    return PerturbNormal(normal, dpdx, dpdy, dhdx, dhdy);
+}
+//<--
+
 VS_OUTPUT_CLEAR_FLOATING_POINT_BUFFER vs_clear_floating_point_buffer(float4 vPosition : POSITION)
 {
 	VS_OUTPUT_CLEAR_FLOATING_POINT_BUFFER Out;
