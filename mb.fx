@@ -2453,7 +2453,7 @@ VS_OUTPUT_SPECULAR_ALPHA vs_specular_alpha (uniform const int PcfMode, float4 vP
 
 
 
-PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMode)
+PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMode, uniform const bool isGlowEnabled)
 {
 	PS_OUTPUT Output;
 
@@ -2466,6 +2466,12 @@ PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMod
 	float3 vHalf = normalize(normalize(vCameraPos - In.worldPos) - vSunDir);
 	// Compute normal dot half for specular light
 	float4 fSpecular = vSpecularColor * pow( saturate( dot( vHalf, normalize( In.worldNormal) ) ), fMaterialPower) * outColor.a;
+	
+	if(isGlowEnabled)
+	{
+		In.SunLight -= outColor.a;
+	}
+	
 	if ((PcfMode != PCF_NONE))
 	{
 		float sun_amount = 0.15f + GetSunAmount(PcfMode, In.ShadowTexCoord, In.TexelPos);
@@ -2730,6 +2736,15 @@ technique swconquest_sarlacc
 	{
 		VertexShader = compile vs_2_0 vs_main_no_shadow(true);
 		PixelShader  = compile ps_2_0 ps_main_no_shadow();
+	}
+}
+
+technique swconquest_glow_iron
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE);
+		PixelShader  = compile ps_2_0 ps_specular_alpha(PCF_NONE,true); //glow_enabled
 	}
 }
 
@@ -3368,7 +3383,7 @@ technique specular_alpha
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE);
-		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_NONE);
+		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_NONE, false);
 	}
 }
 technique specular_alpha_SHDW
@@ -3376,7 +3391,7 @@ technique specular_alpha_SHDW
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_DEFAULT);
-		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_DEFAULT);
+		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_DEFAULT, false);
 	}
 }
 technique specular_alpha_SHDWNVIDIA
@@ -3384,7 +3399,7 @@ technique specular_alpha_SHDWNVIDIA
 	pass P0
 	{
 		VertexShader = compile vs_2_a vs_specular_alpha(PCF_NVIDIA);
-		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA);
+		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA, false);
 	}
 }
 
@@ -3393,7 +3408,7 @@ technique specular_alpha_skin
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha_skin(PCF_NONE);
-		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_NONE);
+		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_NONE, false);
 	}
 }
 technique specular_alpha_skin_SHDW
@@ -3401,7 +3416,7 @@ technique specular_alpha_skin_SHDW
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha_skin(PCF_DEFAULT);
-		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_DEFAULT);
+		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_DEFAULT, false);
 	}
 }
 technique specular_alpha_skin_SHDWNVIDIA
@@ -3409,6 +3424,6 @@ technique specular_alpha_skin_SHDWNVIDIA
 	pass P0
 	{
 		VertexShader = compile vs_2_a vs_specular_alpha_skin(PCF_NVIDIA);
-		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA);
+		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA, false);
 	}
 }
