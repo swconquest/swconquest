@@ -464,9 +464,9 @@ sampler FontTextureSampler =
 sampler_state
 {
 	Texture = <diffuse_texture>;
-	MipFilter = LINEAR;
-	MinFilter = LINEAR;
-	MagFilter = LINEAR;
+	MipFilter = Anisotropic;
+	MinFilter = Anisotropic;
+	MagFilter = Anisotropic;
 	AddressU  = WRAP;
 	AddressV  = WRAP;
 };
@@ -475,9 +475,9 @@ sampler CharacterShadowTextureSampler =
 sampler_state
 {
 	Texture = <diffuse_texture>;
-	MipFilter = NONE;
-	MinFilter = LINEAR;
-	MagFilter = LINEAR;
+	MipFilter = Anisotropic;
+	MinFilter = Anisotropic;
+	MagFilter = Anisotropic;
 	AddressU  = CLAMP;
 	AddressV  = CLAMP;
 };
@@ -505,7 +505,16 @@ sampler_state
 	AddressV  = WRAP;
 };
 
-
+sampler MeshTextureSamplerHQ =
+sampler_state
+{
+	Texture = <diffuse_texture>;
+	MipFilter = Anisotropic;
+	MinFilter = Anisotropic;
+	MagFilter = Anisotropic;
+	AddressU  = WRAP;
+	AddressV  = WRAP;
+};
 
 sampler DiffuseTextureSamplerNoWrap =
 sampler_state
@@ -1063,7 +1072,7 @@ VS_OUTPUT_FONT vs_main_no_shadow(uniform const bool isSarlacc, float4 vPosition 
 PS_OUTPUT ps_main_no_shadow(PS_INPUT_FONT In)
 {
 	PS_OUTPUT Output;
-	float4 tex_col = tex2D(MeshTextureSampler, In.Tex0);
+	float4 tex_col = tex2D(MeshTextureSamplerHQ, In.Tex0);
 	//tex_col.rgb = pow(tex_col.rgb, input_gamma);
 	Output.RGBColor = In.Color * tex_col;
 	//Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
