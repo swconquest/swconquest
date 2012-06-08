@@ -3680,22 +3680,22 @@ spr_taris_cantina_lift 0 0 taris_cantina_lift 0 0
 spr_taris_cantina_table 0 0 taris_cantina_table 0 0
 
 
-spr_jabba_palace_building_1 0 0 jabba_palace_building_1 0 0
+spr_jabba_palace_building_1 0 0 jabba_palace_building_1 bo_jabba_palace_building_1 0
 
 
-spr_jabba_palace_building_2 0 0 jabba_palace_building_2 0 0
+spr_jabba_palace_building_2 0 0 jabba_palace_building_2 bo_jabba_palace_building_2 0
 
 
-spr_jabba_palace_building_3 0 0 jabba_palace_building_3 0 0
+spr_jabba_palace_building_3 0 0 jabba_palace_building_3 bo_jabba_palace_building_3 0
 
 
-spr_jabba_palace_building_4 0 0 jabba_palace_building_4 0 0
+spr_jabba_palace_building_4 0 0 jabba_palace_building_4 bo_jabba_palace_building_4 0
 
 
-spr_jabba_palace_building_5 0 0 jabba_palace_building_5 0 0
+spr_jabba_palace_building_5 0 0 jabba_palace_building_5 bo_jabba_palace_building_5 0
 
 
-spr_jabba_palace_building_6 0 0 jabba_palace_building_6 0 0
+spr_jabba_palace_building_6 0 0 jabba_palace_building_6 bo_jabba_palace_building_6 0
 
 
 spr_trandoshan_building_1 0 0 trandoshan_building_1 0 0
@@ -4570,13 +4570,23 @@ spr_pipe_2 0 0 pipe_2 bo_pipe_2 0
 spr_pipe_3 0 0 pipe_3 bo_pipe_3 0
 
 
-spr_pipe__hutta_1 0 0 pipe_hutta_1 bo_pipe_hutta_1 0
+spr_pipe_hutta_1 0 0 pipe_hutta_1 bo_pipe_hutta_1 0
 
 
 spr_pipe_hutta_2 0 0 pipe_hutta_2 bo_pipe_hutta_2 0
 
 
 spr_pipe_hutta_3 0 0 pipe_hutta_3 bo_pipe_hutta_3 0
+
+
+spr_hologram_terminal_1 0 0 hologram_terminal_1 bo_hologram_terminal_1 0
+
+
+spr_hologram_terminal_2 0 0 hologram_terminal_2 bo_hologram_terminal_2 0
+
+
+spr_hologram_terminal_3 0 0 hologram_terminal_3 bo_hologram_terminal_3 0
+
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0
