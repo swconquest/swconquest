@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1505
+ 1511
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4559,6 +4559,24 @@ spr_decal_3 0 0 decal_3 0 0
 
 
 spr_decal_4 0 0 decal_4 0 0
+
+
+spr_pipe_1 0 0 pipe_1 bo_pipe_1 0
+
+
+spr_pipe_2 0 0 pipe_2 bo_pipe_2 0
+
+
+spr_pipe_3 0 0 pipe_3 bo_pipe_3 0
+
+
+spr_pipe__hutta_1 0 0 pipe_hutta_1 bo_pipe_hutta_1 0
+
+
+spr_pipe_hutta_2 0 0 pipe_hutta_2 bo_pipe_hutta_2 0
+
+
+spr_pipe_hutta_3 0 0 pipe_hutta_3 bo_pipe_hutta_3 0
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0
