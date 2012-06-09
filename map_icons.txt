@@ -1,5 +1,5 @@
 map_icons_file version 1
-173
+174
 player 1 Action_IV 0.3 194 0.15 0.173 0 0
 
 
@@ -109,6 +109,9 @@ civilian_cruiser 1 swy_nebulon 0.5 194 0.15 0.173 0 0
 
 
 cis_star_cruiser 1 CIS_Station 0.6 0 0 0 0 0
+
+
+y8_mining 1 y8_mining 0.4 194 0.15 0.173 0 0
 
 
 shuttle 1 shuttle_civilian 0.3 194 0.15 0.173 0 0

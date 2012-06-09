@@ -4588,7 +4588,6 @@ spr_hologram_terminal_2 0 0 hologram_terminal_2 bo_hologram_terminal_2 0
 spr_hologram_terminal_3 0 0 hologram_terminal_3 bo_hologram_terminal_3 0
 
 
-
 spr_scene_props_end 16384 0 psys_helper 0 0
 
 
