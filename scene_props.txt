@@ -3698,22 +3698,22 @@ spr_jabba_palace_building_5 0 0 jabba_palace_building_5 bo_jabba_palace_building
 spr_jabba_palace_building_6 0 0 jabba_palace_building_6 bo_jabba_palace_building_6 0
 
 
-spr_trandoshan_building_1 0 0 trandoshan_building_1 0 0
+spr_trandoshan_building_1 0 0 trandoshan_building_1 bo_jabba_palace_building_1 0
 
 
-spr_trandoshan_building_2 0 0 trandoshan_building_2 0 0
+spr_trandoshan_building_2 0 0 trandoshan_building_2 bo_jabba_palace_building_2 0
 
 
-spr_trandoshan_building_3 0 0 trandoshan_building_3 0 0
+spr_trandoshan_building_3 0 0 trandoshan_building_3 bo_jabba_palace_building_3 0
 
 
-spr_trandoshan_building_4 0 0 trandoshan_building_4 0 0
+spr_trandoshan_building_4 0 0 trandoshan_building_4 bo_jabba_palace_building_4 0
 
 
-spr_trandoshan_building_5 0 0 trandoshan_building_5 0 0
+spr_trandoshan_building_5 0 0 trandoshan_building_5 bo_jabba_palace_building_5 0
 
 
-spr_trandoshan_building_6 0 0 trandoshan_building_6 0 0
+spr_trandoshan_building_6 0 0 trandoshan_building_6 bo_jabba_palace_building_6 0
 
 
 spr_kashyyyk_house 0 0 kashyyyk_house 0 0
