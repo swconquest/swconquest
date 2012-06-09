@@ -512,7 +512,7 @@ scn_mainplanet_corellia_cantina mainplanet_corellia_cantina 1 cantina_bar bo_can
   0 
   0 
  0 
-scn_mainplanet_naboo_cantina mainplanet_naboo_cantina 1 naboo_cantina bo_naboo_cantina -100 -100 100 100 -100 0 
+scn_mainplanet_naboo_cantina mainplanet_naboo_cantina 256 none none 0 0 100 100 -100 0x0000000030078000000380e0000037960000573900003f48 
   0 
   0 
  0 
