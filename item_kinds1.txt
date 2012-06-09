@@ -1,5 +1,5 @@
 itemsfile version 2
-917
+912
  itm_no_item <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -409,9 +409,6 @@ itemsfile version 2
 0
 
  itm_wrapping_boots Wrapping_Boots Wrapping_Boots 1  jawa_boots 0  536940302 0 20 123731968 1 100 0 0 3 0 0 0 0 0 0 0 0
-0
-
- itm_woolen_hose Woolen_Hose Woolen_Hose 1  dark_boots 0  536940302 0 30 123731968 1 100 0 0 4 0 0 0 0 0 0 0 0
 0
 
  itm_blue_hose Blue_Hose Blue_Hose 1  light_leather_boots 0  536940302 0 40 123731968 1 100 0 0 5 0 0 0 0 0 0 0 0
@@ -2829,19 +2826,7 @@ itemsfile version 2
  itm_horus_winged_cruiser Horus_Winged_Cruiser Horus_Winged_Cruiser 1  a_horus 0  65537 0 2002 106434920482 0 70 0 35 0 2 65 60 75 0 0 30 0
 0
 
- itm_speeder_sparrow Sparrow_Speeder Sparrow_Speeder 2  speeder_sparrow 0  speeder_sparrow_inv 1152921504606846976  65537 0 2002 106434920482 0 70 0 30 0 2 60 60 80 0 0 25 0
-0
-
- itm_pod_racer Pod_Racer Pod_Racer 1  pod_racer 0  65537 0 3003 106434920482 0 60 0 0 0 3 20 75 125 0 0 10 0
-0
-
- itm_swoop_bike Swoop_Bike Swoop_Bike 1  swoop_bike 0  65537 0 2503 106434920482 0 60 0 0 0 3 25 75 115 0 0 10 0
-0
-
  itm_speeder_dagger Dagger_Speeder_Bike Dagger_Speeder_Bike 1  speeder_dagger 0  65537 0 2002 106434920482 0 70 0 10 0 2 45 65 75 0 0 35 0
-0
-
- itm_power_chair Power_Chair Power_Chair 1  power_chair 0  65537 0 500 37715443746 0 50 0 0 0 0 20 35 45 0 0 10 0
 0
 
  itm_horses_end <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
