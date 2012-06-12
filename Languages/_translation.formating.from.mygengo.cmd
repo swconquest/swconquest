@@ -22,21 +22,17 @@ echo Processing [%1]...
 
 for /f "tokens=1-3* delims=-()" %%1 in ('dir /b *.ini') do (
     set oldfilename=%%1
-    rem set out=%%2.csv&set out=!out:~0,8!
-    rem set newfilename=%%2(!out!^)%%4
-	rem set newfilename=!oldfilename!:[%1]=
-	rem set newfilename=!oldfilename:%1.=! this one gives an error with the spanish files removes two "es."
 	set newfilename=!oldfilename:~3!
-    echo Oldfilename=!oldfilename!
-    echo Newfilename=!newfilename!
-    pause>nul
+
+	echo !oldfilename! ^=^> !newfilename!
     echo.&echo.
+	
     ren !oldfilename! !newfilename!
     )
 popd
 
 ren *.ini *.csv
-ren items.csv item_kinds.csv
+echo Everything converted from *.ini ^=^> *.csv
 
 cd ..
 rem --------------{end}
