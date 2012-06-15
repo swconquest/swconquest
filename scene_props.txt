@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1514
+ 1515
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4586,6 +4586,9 @@ spr_hologram_terminal_2 0 0 hologram_terminal_2 bo_hologram_terminal_2 0
 
 
 spr_hologram_terminal_3 0 0 hologram_terminal_3 bo_hologram_terminal_3 0
+
+
+spr_naboo_arena_wall_fix 0 0 naboo_arena_wall_fix bo_naboo_arena_wall_fix 0
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0
