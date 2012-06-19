@@ -3740,13 +3740,13 @@ spr_kashyyyk_platform_eighth_platform 0 0 kashyyyk_platform_eighth_platform 0 0
 spr_kashyyyk_platform_house_a 0 0 kashyyyk_platform_house_a 0 0
 
 
-spr_kashyyyk_platform_house_b 0 0 kashyyyk_platform_house_b 0 0
+spr_kashyyyk_platform_house_b 0 0 kashyyyk_platform_house_b bo_kashyyyk_platform_house_b 0
 
 
 spr_kashyyyk_platform_house_bridge 0 0 kashyyyk_platform_house_bridge 0 0
 
 
-spr_kashyyyk_platform_offtree_a 0 0 kashyyyk_platform_offtree_a 0 0
+spr_kashyyyk_platform_offtree_a 0 0 kashyyyk_platform_offtree_a bo_kashyyyk_platform_offtree_a 0
 
 
 spr_kashyyyk_platform_sixteenth_fence 0 0 kashyyyk_platform_sixteenth_fence 0 0
@@ -3767,16 +3767,16 @@ spr_kashyyyk_platform_stringer_bridge 0 0 kashyyyk_platform_stringer_bridge 0 0
 spr_kashyyyk_stairs 0 0 kashyyyk_stairs 0 0
 
 
-spr_kashyyyk_tree1 0 0 kashyyyk_tree1 0 0
+spr_kashyyyk_tree1 0 0 kashyyyk_tree1 bo_kashyyyk_tree1 0
 
 
-spr_kashyyyk_tree2 0 0 kashyyyk_tree2 0 0
+spr_kashyyyk_tree2 0 0 kashyyyk_tree2 bo_kashyyyk_tree2 0
 
 
-spr_kashyyyyk_cliff_1 0 0 kashyyyyk_cliff_1 0 0
+spr_kashyyyyk_cliff_1 0 0 kashyyyyk_cliff_1 bo_kashyyyyk_cliff_1 0
 
 
-spr_kashyyyyk_cliff_2 0 0 kashyyyyk_cliff_2 0 0
+spr_kashyyyyk_cliff_2 0 0 kashyyyyk_cliff_2 bo_kashyyyyk_cliff_2 0
 
 
 spr_spaceview_coruscant 0 0 spaceview_coruscant 0 0
