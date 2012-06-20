@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1516
+ 1514
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -3740,13 +3740,13 @@ spr_kashyyyk_platform_eighth_platform 0 0 kashyyyk_platform_eighth_platform 0 0
 spr_kashyyyk_platform_house_a 0 0 kashyyyk_platform_house_a 0 0
 
 
-spr_kashyyyk_platform_house_b 0 0 kashyyyk_platform_house_b bo_kashyyyk_platform_house_b 0
+spr_kashyyyk_platform_house_b 0 0 kashyyyk_platform_house_b 0 0
 
 
 spr_kashyyyk_platform_house_bridge 0 0 kashyyyk_platform_house_bridge 0 0
 
 
-spr_kashyyyk_platform_offtree_a 0 0 kashyyyk_platform_offtree_a bo_kashyyyk_platform_offtree_a 0
+spr_kashyyyk_platform_offtree_a 0 0 kashyyyk_platform_offtree_a 0 0
 
 
 spr_kashyyyk_platform_sixteenth_fence 0 0 kashyyyk_platform_sixteenth_fence 0 0
@@ -3767,16 +3767,16 @@ spr_kashyyyk_platform_stringer_bridge 0 0 kashyyyk_platform_stringer_bridge 0 0
 spr_kashyyyk_stairs 0 0 kashyyyk_stairs 0 0
 
 
-spr_kashyyyk_tree1 0 0 kashyyyk_tree1 bo_kashyyyk_tree1 0
+spr_kashyyyk_tree1 0 0 kashyyyk_tree1 0 0
 
 
-spr_kashyyyk_tree2 0 0 kashyyyk_tree2 bo_kashyyyk_tree2 0
+spr_kashyyyk_tree2 0 0 kashyyyk_tree2 0 0
 
 
-spr_kashyyyyk_cliff_1 0 0 kashyyyyk_cliff_1 bo_kashyyyyk_cliff_1 0
+spr_kashyyyyk_cliff_1 0 0 kashyyyyk_cliff_1 0 0
 
 
-spr_kashyyyyk_cliff_2 0 0 kashyyyyk_cliff_2 bo_kashyyyyk_cliff_2 0
+spr_kashyyyyk_cliff_2 0 0 kashyyyyk_cliff_2 0 0
 
 
 spr_spaceview_coruscant 0 0 spaceview_coruscant 0 0
@@ -4586,12 +4586,6 @@ spr_hologram_terminal_2 0 0 hologram_terminal_2 bo_hologram_terminal_2 0
 
 
 spr_hologram_terminal_3 0 0 hologram_terminal_3 bo_hologram_terminal_3 0
-
-
-spr_naboo_arena_wall_fix 0 0 naboo_arena_wall_fix bo_naboo_arena_wall_fix 0
-
-
-spr_naboo_arena_corner 0 0 naboo_arena_corner bo_naboo_arena_corner 0
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0
