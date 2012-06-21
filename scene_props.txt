@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1518
+ 1537
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4598,6 +4598,63 @@ spr_endor_fac_wall 0 0 endor_fac_wall bo_endor_fac_wall 0
 
 
 spr_endor_fac_floor 0 0 endor_fac_floor bo_endor_fac_floor 0
+
+
+spr_sarapin_fac_tower_2 0 0 sarapin_fac_tower_2 bo_sarapin_fac_tower_2 0
+
+
+spr_sarapin_fac_floor 0 0 sarapin_fac_floor bo_sarapin_fac_floor 0
+
+
+spr_sarapin_fac_container_emputy 0 0 sarapin_fac_container_emputy bo_sarapin_fac_container_emputy 0
+
+
+spr_sarapin_fac_container_lava 0 0 sarapin_fac_container_lava bo_sarapin_fac_container_lava 0
+
+
+spr_sarapin_fac_wall 0 0 sarapin_fac_wall bo_sarapin_fac_wall 0
+
+
+spr_sarapin_walkway_support 0 0 sarapin_walkway_support bo_sarapin_walkway_support 0
+
+
+spr_sarapin_walkway 0 0 sarapin_walkway bo_sarapin_walkway 0
+
+
+spr_sarapin_fac_rail_2 0 0 sarapin_fac_rail_2 bo_sarapin_fac_rail_2 0
+
+
+spr_sarapin_fac_1 0 0 sarapin_fac_1 bo_sarapin_fac_1 0
+
+
+spr_sarapin_fac_4 0 0 sarapin_fac_4 bo_sarapin_fac_4 0
+
+
+spr_sarapin_fac_com 0 0 sarapin_fac_com bo_sarapin_fac_com 0
+
+
+spr_sarapin_fac_2 0 0 sarapin_fac_2 bo_sarapin_fac_2 0
+
+
+spr_sarapin_terminal1 0 0 sarapin_terminal1 bo_sarapin_terminal1 0
+
+
+spr_sarapin_terminal2 0 0 sarapin_terminal2 bo_sarapin_terminal2 0
+
+
+spr_sarapin_terminal3 0 0 sarapin_terminal3 bo_sarapin_terminal3 0
+
+
+spr_sarapin_terminal4 0 0 sarapin_terminal4 bo_sarapin_terminal4 0
+
+
+spr_sarapin_fac_terminal5 0 0 sarapin_fac_terminal5 bo_sarapin_fac_terminal5 0
+
+
+spr_sarapin_fac_terminal6 0 0 sarapin_fac_terminal6 bo_sarapin_fac_terminal6 0
+
+
+spr_sarapin_fac_terminal7 0 0 sarapin_fac_terminal7 bo_sarapin_fac_terminal7 0
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0
