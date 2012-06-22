@@ -316,10 +316,10 @@ scn_mainplanet_mon_cal_center mainplanet_mon_cal_center 256 none none 0 0 120 12
   0 
   1  895 
  0 
-scn_mainplanet_kashyyyk_center mainplanet_kashyyyk_center 256 none none 0 0 100 100 -100 0x00000000200016da000364d9000060f500007591000064e7 
+scn_mainplanet_kashyyyk_center mainplanet_kashyyyk_center 256 none none 0 0 240 240 -0.5 0x00000006200005000008f23c0000753d00004f66000033c8 
   0 
   1  896 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_hoth_center mainplanet_hoth_center 256 none none 0 0 120 120 -200 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  897 
