@@ -1245,11 +1245,17 @@ PS_OUTPUT ps_swconquest_lightsaber(PS_INPUT In)
 {
 	PS_OUTPUT Output;
 	
-	Output.RGBColor = tex2D(MeshTextureSampler, In.Tex0) * In.Color;
-
+	//we don't want to draw the hilt :-)
+	if(In.Tex0.x > 0.8f){
+		//clip(-1);
+		In.Color.a=0.0f;
+	}
+	
+	Output.RGBColor = tex2D(MeshTextureSampler, In.Tex0);
+	Output.RGBColor.a *= In.Color.a;
+	
 	return Output;
 }
-
 
 VS_OUTPUT vs_main_skin (float4 vPosition : POSITION, float3 vNormal : NORMAL, float2 tc : TEXCOORD0, float4 vColor : COLOR, float4 vBlendWeights : BLENDWEIGHT, float4 vBlendIndices : BLENDINDICES, uniform const int PcfMode)
 {
@@ -2453,7 +2459,7 @@ VS_OUTPUT_SPECULAR_ALPHA vs_specular_alpha (uniform const int PcfMode, float4 vP
 
 
 
-PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMode, uniform const bool isGlowEnabled)
+PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMode, uniform const bool isGlowEnabled, uniform const bool isLightsaber)
 {
 	PS_OUTPUT Output;
 
@@ -2470,6 +2476,14 @@ PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMod
 	if(isGlowEnabled)
 	{
 		In.SunLight -= outColor.a;
+	}
+	
+	if(isLightsaber)
+	{
+		//we don't want to draw the lightblade in metallic fashion :-)
+		if(In.Tex0.x < 0.811f){
+			clip(-1);
+		}
 	}
 	
 	if ((PcfMode != PCF_NONE))
@@ -2714,11 +2728,24 @@ technique swconquest_hologram_static
 
 technique swconquest_lightsaber
 {
-	pass P0
+
+	pass Lightblade
 	{
+		SrcBlend = SrcAlpha;
+		DestBlend = One;
 		VertexShader = compile vs_2_0 vs_swconquest_lightsaber();
 		PixelShader  = compile ps_2_0 ps_swconquest_lightsaber();
 	}
+	
+	pass Hilt
+	{
+		SrcBlend = SrcAlpha; 
+		DestBlend = InvSrcAlpha;
+		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE);
+		PixelShader  = compile ps_2_0 ps_specular_alpha(PCF_NONE,false, true); //special parameter for clipping out the lightblade parts
+	}
+	
+
 }
 
 technique swconquest_glow
@@ -2744,7 +2771,7 @@ technique swconquest_glow_iron
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE);
-		PixelShader  = compile ps_2_0 ps_specular_alpha(PCF_NONE,true); //glow_enabled
+		PixelShader  = compile ps_2_0 ps_specular_alpha(PCF_NONE, true, false); //glow_enabled
 	}
 }
 
@@ -3383,7 +3410,7 @@ technique specular_alpha
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE);
-		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_NONE, false);
+		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_NONE, false, false);
 	}
 }
 technique specular_alpha_SHDW
@@ -3391,7 +3418,7 @@ technique specular_alpha_SHDW
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_DEFAULT);
-		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_DEFAULT, false);
+		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_DEFAULT, false, false);
 	}
 }
 technique specular_alpha_SHDWNVIDIA
@@ -3399,7 +3426,7 @@ technique specular_alpha_SHDWNVIDIA
 	pass P0
 	{
 		VertexShader = compile vs_2_a vs_specular_alpha(PCF_NVIDIA);
-		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA, false);
+		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA, false, false);
 	}
 }
 
@@ -3408,7 +3435,7 @@ technique specular_alpha_skin
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha_skin(PCF_NONE);
-		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_NONE, false);
+		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_NONE, false, false);
 	}
 }
 technique specular_alpha_skin_SHDW
@@ -3416,7 +3443,7 @@ technique specular_alpha_skin_SHDW
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha_skin(PCF_DEFAULT);
-		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_DEFAULT, false);
+		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_DEFAULT, false, false);
 	}
 }
 technique specular_alpha_skin_SHDWNVIDIA
@@ -3424,6 +3451,6 @@ technique specular_alpha_skin_SHDWNVIDIA
 	pass P0
 	{
 		VertexShader = compile vs_2_a vs_specular_alpha_skin(PCF_NVIDIA);
-		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA, false);
+		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA, false, false);
 	}
 }
