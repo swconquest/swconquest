@@ -754,14 +754,10 @@ PS_OUTPUT ps_font_uniform_color(PS_INPUT_FONT In)
   BGreen: #7cfd78
  */
 
-	if( In.Color.r == 1.0f  //--> Replace yellow
+	if( In.Color.r == 1.0f
 	 && In.Color.g >= 0.86f
 	 && In.Color.g <= 0.87f
-	 && In.Color.b == 0.0f
-	 ||                     //--> This thing means OR
-	 && In.Color.r == 0.0f  //--> Replace black
-	 && In.Color.g == 0.0f
-	 && In.Color.b == 0.0f ){
+	 && In.Color.b == 0.0f){
 	    In.Color.rgb = float3(0.0f,0.0f,1.0f);  //--> We like blue.
 	}
 	
