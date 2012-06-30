@@ -707,6 +707,22 @@ VS_OUTPUT_FONT vs_font(float4 vPosition : POSITION, float4 vColor : COLOR, float
 
 	Out.Tex0 = tc;
 	Out.Color = vColor * vMaterialColor;
+	
+	
+	/*
+	  Replace hardcoded menu colors--
+	  Yellow: #fddd0b
+	  DGreen: #218221
+	  BBrown: #d4c5b5
+	  BGreen: #7cfd78
+	 */
+
+	if( Out.Color.r == 1.0f
+	 && Out.Color.g >= 0.86f
+	 && Out.Color.g <= 0.87f
+	 && Out.Color.b == 0.0f){
+		Out.Color.rgb = float3(0.0f,0.0f,1.0f);  //--> We like blue.
+	}
 
 	//apply fog
 	float d = length(P);
@@ -744,23 +760,7 @@ VS_OUTPUT_FONT vs_swconquest_galaxy(float4 vPosition : POSITION, float4 vColor :
 }
 
 PS_OUTPUT ps_font_uniform_color(PS_INPUT_FONT In)
-{
-
-/*
-  Replace hardcoded menu colors--
-  Yellow: #fddd0b
-  DGreen: #218221
-  BBrown: #d4c5b5
-  BGreen: #7cfd78
- */
-
-	if( In.Color.r == 1.0f
-	 && In.Color.g >= 0.86f
-	 && In.Color.g <= 0.87f
-	 && In.Color.b == 0.0f){
-	    In.Color.rgb = float3(0.0f,0.0f,1.0f);  //--> We like blue.
-	}
-	
+{	
 	PS_OUTPUT Output;
 	Output.RGBColor =  In.Color;
 	
