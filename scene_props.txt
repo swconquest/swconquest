@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1539
+ 1540
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4663,6 +4663,10 @@ spr_sarapin_fac_drill 0 0 sarapin_fac_drill bo_sarapin_fac_drill 0
 spr_christophisis_arena 0 0 christophisis_arena bo_christophisis_arena 0
 
 
+spr_deathstar_parts_1_door_static 0 0 deathstar_parts_1_door_static bo_deathstar_parts_1_door_static 0
+
+
 spr_scene_props_end 16384 0 psys_helper 0 0
+
 
 
