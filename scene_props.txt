@@ -4049,7 +4049,7 @@ spr_skybox_night_1 0 0 skybox_night_1_prop 0 0
 spr_skybox_sunset_1 0 0 skybox_sunset_1_prop 0 0
 
 
-spr_skybox_space 0 0 compass_prop 0 0
+spr_skybox_space 0 0 skybox_space_prop 0 0
 
 
 spr_skybox_vjun 0 0 skybox_vjun 0 0
