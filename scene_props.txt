@@ -4669,6 +4669,9 @@ spr_deathstar_parts_1_door_static 0 0 deathstar_parts_1_door_static bo_deathstar
 spr_echo_base_outer 0 0 echo_base_outer bo_echo_base_outer 0
 
 
+spr_outer_snow 0 0 outer_snow bo_outer_snow 0
+
+
 spr_scene_props_end 16384 0 psys_helper 0 0
 
 
