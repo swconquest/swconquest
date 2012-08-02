@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1541
+ 1544
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4672,7 +4672,16 @@ spr_echo_base_outer 0 0 echo_base_outer bo_echo_base_outer 0
 spr_outer_snow 0 0 outer_snow 0 0
 
 
-spr_scene_props_end 16384 0 psys_helper 0 0
+spr_ahto_wall_small 0 0 ahto_wall_small bo_ahto_wall_small 0
+
+
+spr_ahto_wall_tiny 0 0 ahto_wall_tiny bo_ahto_wall_tiny 0
+
+
+spr_ahto_cube 0 0 ahto_cube bo_ahto_cube 0
+
+
+spr_scene_props_end 16386 0 psys_helper 0 0
 
 
 
