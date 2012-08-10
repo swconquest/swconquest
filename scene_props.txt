@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1544
+ 1550
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4679,6 +4679,24 @@ spr_ahto_wall_tiny 0 0 ahto_wall_tiny bo_ahto_wall_tiny 0
 
 
 spr_ahto_cube 0 0 ahto_cube bo_ahto_cube 0
+
+
+spr_dantooine_path_1 0 0 dantooine_path_1 bo_dantooine_path_1 0
+
+
+spr_dantooine_path_2 0 0 dantooine_path_2 bo_dantooine_path_2 0
+
+
+spr_dantooine_path_3 0 0 dantooine_path_3 bo_dantooine_path_3 0
+
+
+spr_dantooine_building_1 0 0 dantooine_building_1 bo_dantooine_building_1 0
+
+
+spr_dantooine_building_2 0 0 dantooine_building_2 bo_dantooine_building_2 0
+
+
+spr_dantooine_stone 0 0 dantooine_stone bo_dantooine_stone 0
 
 
 spr_scene_props_end 16386 0 psys_helper 0 0
