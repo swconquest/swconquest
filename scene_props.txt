@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1553
+ 1554
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4706,6 +4706,9 @@ spr_dantooine_building_4 0 0 dantooine_building_4 bo_dantooine_building_4 0
 
 
 spr_dantooine_building_5 0 0 dantooine_building_5 bo_dantooine_building_5 0
+
+
+spr_dantooine_block 0 0 dantooine_block bo_dantooine_block 0
 
 
 spr_scene_props_end 16386 0 psys_helper 0 0
