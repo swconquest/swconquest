@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1554
+ 1556
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4288,28 +4288,31 @@ spr_naboo_chair_2 0 0 naboo_chair_2 bo_naboo_chair_2 0
 spr_sundari_peace_park 0 0 sundari_peace_park bo_sundari_peace_park 0
 
 
-spr_sundari_block_1 0 0 sundari_block_1 0 0
+spr_sundari_block_1 0 0 sundari_block_1 bo_sundari_block_1 0
 
 
-spr_sundari_block_2 0 0 sundari_block_2 0 0
+spr_sundari_block_2 0 0 sundari_block_2 bo_sundari_block_2 0
 
 
-spr_sundari_block_3 0 0 sundari_block_3 0 0
+spr_sundari_block_3 0 0 sundari_block_3 bo_sundari_block_3 0
 
 
-spr_sundari_block_4 0 0 sundari_block_4 0 0
+spr_sundari_block_4 0 0 sundari_block_4 bo_sundari_block_4 0
 
 
-spr_sundari_block_5 0 0 sundari_block_5 0 0
+spr_sundari_block_5 0 0 sundari_block_5 bo_sundari_block_5 0
 
 
-spr_sundari_small_block_1 0 0 sundari_small_block_1 0 0
+spr_sundari_block_6 0 0 sundari_block_6 bo_sundari_block_6 0
 
 
-spr_sundari_small_block_2 0 0 sundari_small_block_2 0 0
+spr_sundari_small_block_1 0 0 sundari_small_block_1 bo_sundari_small_block_1 0
 
 
-spr_sundari_small_block_3 0 0 sundari_small_block_3 0 0
+spr_sundari_small_block_2 0 0 sundari_small_block_2 bo_sundari_small_block_2 0
+
+
+spr_sundari_small_block_3 0 0 sundari_small_block_3 bo_sundari_small_block_3 0
 
 
 spr_endor_walkway 0 0 endor_walkway bo_endor_walkway 0
@@ -4709,6 +4712,9 @@ spr_dantooine_building_5 0 0 dantooine_building_5 bo_dantooine_building_5 0
 
 
 spr_dantooine_block 0 0 dantooine_block bo_dantooine_block 0
+
+
+spr_skybox_sundari 0 0 skybox_sundari 0 0
 
 
 spr_scene_props_end 16386 0 psys_helper 0 0
