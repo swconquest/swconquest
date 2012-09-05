@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1557
+ 1558
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4718,6 +4718,9 @@ spr_skybox_sundari 0 0 skybox_sundari 0 0
 
 
 spr_sundari_battle 0 0 sundari_battle bo_sundari_battle 0
+
+
+spr_hutt_arena 0 0 hutt_arena bo_hutt_arena 0
 
 
 spr_scene_props_end 16386 0 psys_helper 0 0
