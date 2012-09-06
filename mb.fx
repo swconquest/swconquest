@@ -1221,11 +1221,16 @@ PS_OUTPUT ps_main(PS_INPUT In, uniform const int PcfMode, uniform const bool isG
 	{
 		float sun_amount = GetSunAmount(PcfMode, In.ShadowTexCoord, In.TexelPos);
 		// sun_amount *= sun_amount;
-		Output.RGBColor =  tex_col * ((In.Color + In.SunLight * sun_amount));
+		Output.RGBColor = tex_col * (In.Color + In.SunLight * sun_amount);
+
 	}
 	else
 	{
-		Output.RGBColor = tex_col * (In.Color + In.SunLight);
+		if(isGlowEnabled){
+			Output.RGBColor = tex_col * In.Color * In.SunLight; //vertx color multiplication fix
+		}else{
+			Output.RGBColor = tex_col * (In.Color + In.SunLight);
+		}
 	}
 	
 	// gamma correct
