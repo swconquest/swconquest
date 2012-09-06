@@ -1183,13 +1183,34 @@ VS_OUTPUT vs_main (uniform const int PcfMode, uniform const bool UseSecondLight,
 	return Out;
 }
 
-PS_OUTPUT ps_main(PS_INPUT In, uniform const int PcfMode, uniform const bool isGlowEnabled)
+PS_OUTPUT ps_main(PS_INPUT In, uniform const int PcfMode, uniform const bool isGlowEnabled = false, uniform const bool isLavaEnabled = false)
 {
 	PS_OUTPUT Output;
+	
+	float4 tex_col = float4(0,0,0,0); //makes happy the dumb fx compiler :(
+	
+	if(isLavaEnabled){
+	
+		float time = sin(cos(time_var/32));
+	
+		float4 tex_cola = tex2D(MeshTextureSampler,     In.Tex0     +time    );
+		float4 tex_colb = tex2D(Diffuse2Sampler,   (sin(In.Tex0)*cos(time))*2);
+		float4 tex_colc = tex2D(Diffuse2Sampler,    cos(In.Tex0)*sin(time)   );
+		
+		tex_col = tex_cola;
 
-	float4 tex_col = tex2D(MeshTextureSampler, In.Tex0);
-
-	tex_col.rgb = pow(tex_col.rgb, input_gamma);
+	
+		tex_col.rgb *= tex_colb.rgb;
+		tex_col.rgb *= tex_colc.rgb;
+		
+		tex_col.rgb *= (tex_colc.rgb+tex_colc.rgb+tex_cola.rgb);//*tex_cola.rgb;
+	
+	}else{
+	
+		tex_col = tex2D(MeshTextureSampler, In.Tex0);
+		tex_col.rgb = pow(tex_col.rgb, input_gamma);
+	}
+	
 	
 	if(isGlowEnabled)
 	{
@@ -2791,6 +2812,16 @@ technique swconquest_glow_iron
 		PixelShader  = compile ps_2_0 ps_specular_alpha(PCF_NONE, true, false); //glow_enabled
 	}
 }
+
+technique swconquest_lava
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_main(PCF_NONE, false);
+		PixelShader  = compile ps_2_0 ps_main(PCF_NONE, false, true);
+	}
+}
+
 
 //the technique for the programmable shader (simply sets the vertex shader)
 technique font_uniform_color
