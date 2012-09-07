@@ -2826,7 +2826,7 @@ itemsfile version 2
  itm_horus_winged_cruiser Horus_Winged_Cruiser Horus_Winged_Cruiser 1  a_horus 0  65537 0 2002 106434920482 0 70 0 35 0 2 65 60 75 0 0 30 0
 0
 
- itm_speeder_dagger Dagger_Speeder_Bike Dagger_Speeder_Bike 1  speeder_dagger 0  65537 0 2002 106434920482 0 70 0 10 0 2 45 65 75 0 0 35 0
+ itm_speeder_dagger Bladed_74-Z_Speeder_Bike Bladed_74-Z_Speeder_Bike 1  speeder_dagger 0  65537 0 2002 106434920482 0 70 0 10 0 2 45 65 75 0 0 35 0
 0
 
  itm_horses_end <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
