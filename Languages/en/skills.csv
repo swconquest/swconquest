@@ -1,7 +1,7 @@
 skl_inventory_management|Cargo Management
 skl_inventory_management_desc|Increases ship cargo capacity by +6 per skill level. (Leader skill)
-skl_spotting|Radar
-skl_spotting_desc|Ship radar range is increased by 10%% per skill level. (Party skill)
+skl_spotting|Sensors
+skl_spotting_desc|Ship sensors range is increased by 10%% per skill level. (Party skill)
 skl_pathfinding|Navigation
 skl_pathfinding_desc|Ship map speed is increased by 3%% per skill level. (Party skill)
 skl_horse_archery|Mounted Accuracy
