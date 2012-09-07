@@ -1964,10 +1964,10 @@ scn_mainplanet_kashyyyk_land_battle mainplanet_kashyyyk_land_battle 256 none non
   0 
   0 
  0 
-scn_mainplanet_hoth_land_battle mainplanet_hoth_land_battle 256 none none 0 0 240 240 -0.5 0x000000024003d08f0008aa2a00003efe00004b34000059be 
+scn_mainplanet_hoth_land_battle mainplanet_hoth_land_battle 256 none none 0 0 240 240 -0.5 0x000000024003d08f000b92e400003efe00004b34000059be 
   0 
   0 
- outer_terrain_snow 
+ outer_snow 
 scn_mainplanet_gamorr_land_battle mainplanet_gamorr_land_battle 256 none none 0 0 240 240 -0.5 0x00000006200005000008f23c0000753d00004f66000033c8 
   0 
   0 
