@@ -48,6 +48,7 @@ bountyhunter_talk_b2
 jawas_1
 jawas_2
 minorplanet_farmer_talk
+miningvessel_talk
 patrol_1
 patrol_2
 independent_trader_1

@@ -29,6 +29,7 @@ g_ally_strength
 g_strength_ratio
 g_comment_found
 g_leave_encounter
+encountered_party_friendly
 g_duel_result
 g_duel_vis_point_plyr
 g_duel_vis_point_opp
@@ -184,7 +185,6 @@ g_ally_party
 new_encounter
 g_encounter_is_in_village
 g_encounter_type
-encountered_party_friendly
 cant_leave_encounter
 talk_context
 g_next_menu
