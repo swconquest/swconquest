@@ -323,7 +323,7 @@ scn_mainplanet_kashyyyk_center mainplanet_kashyyyk_center 256 none none 0 0 240 
 scn_mainplanet_hoth_center mainplanet_hoth_center 256 none none 0 0 120 120 -200 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  897 
- outer_terrain_snow 
+ outer_snow 
 scn_mainplanet_gamorr_center mainplanet_gamorr_center 256 none none 0 0 100 100 -100 0x0000000020045abc000308c4000029d9000033bd000009b9 
   0 
   1  898 
