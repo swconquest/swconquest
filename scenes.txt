@@ -935,7 +935,7 @@ scn_mainplanet_bespin_prison mainplanet_bespin_prison 1 interior_prison_f bo_int
 scn_mainplanet_mandalore_alley mainplanet_mandalore_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_christophsis_alley mainplanet_christophsis_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
@@ -947,47 +947,47 @@ scn_mainplanet_endor_alley mainplanet_endor_alley 256 none none 0 0 100 100 -100
 scn_mainplanet_corellia_alley mainplanet_corellia_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_naboo_alley mainplanet_naboo_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_kessel_alley mainplanet_kessel_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_plain 
-scn_mainplanet_dantooine_alley mainplanet_dantooine_alley 256 none none 0 0 100 100 -100 0x20008a110002589600006af30000356b00002c27 
+ 0 
+scn_mainplanet_dantooine_alley mainplanet_dantooine_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_geonosis_alley mainplanet_geonosis_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_plain 
-scn_mainplanet_mon_cal_alley mainplanet_mon_cal_alley 256 none none 0 0 100 100 -100 0x400211130001e07800002ad400001172000035c4 
+ 0 
+scn_mainplanet_mon_cal_alley mainplanet_mon_cal_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_snow 
-scn_mainplanet_kashyyyk_alley mainplanet_kashyyyk_alley 256 none none 0 0 100 100 -100 0x0000000420000500000334ce00001d1100003d0600000d27 
+ 0 
+scn_mainplanet_kashyyyk_alley mainplanet_kashyyyk_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_steppe 
-scn_mainplanet_hoth_alley mainplanet_hoth_alley 256 none none 0 0 100 100 -100 0x400211130001e07800002ad400001172000035c4 
+ 0 
+scn_mainplanet_hoth_alley mainplanet_hoth_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_snow 
+ 0 
 scn_mainplanet_gamorr_alley mainplanet_gamorr_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_yavin_iv_alley mainplanet_yavin_iv_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
  0 
-scn_mainplanet_tatooine_alley mainplanet_tatooine_alley 256 none none 0 0 100 100 -100 0x0000000420000500000334ce00001d1100003d0600000d27 
+scn_mainplanet_tatooine_alley mainplanet_tatooine_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_steppe 
+ 0 
 scn_mainplanet_manaan_alley mainplanet_manaan_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
@@ -995,31 +995,31 @@ scn_mainplanet_manaan_alley mainplanet_manaan_alley 256 none none 0 0 100 100 -1
 scn_mainplanet_coruscant_alley mainplanet_coruscant_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_steppe 
-scn_mainplanet_ryloth_alley mainplanet_ryloth_alley 256 none none 0 0 100 100 -100 0x0000000420000500000334ce00001d1100003d0600000d27 
+ 0 
+scn_mainplanet_ryloth_alley mainplanet_ryloth_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_steppe 
-scn_mainplanet_nalhutta_alley mainplanet_nalhutta_alley 256 none none 0 0 100 100 -100 0x0000000420000500000334ce00001d1100003d0600000d27 
+ 0 
+scn_mainplanet_nalhutta_alley mainplanet_nalhutta_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_steppe 
+ 0 
 scn_mainplanet_bothawui_alley mainplanet_bothawui_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_steppe 
+ 0 
 scn_mainplanet_mustafar_alley mainplanet_mustafar_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_steppe 
+ 0 
 scn_mainplanet_kamino_alley mainplanet_kamino_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_steppe 
+ 0 
 scn_mainplanet_taris_alley mainplanet_taris_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- outer_terrain_steppe 
+ 0 
 scn_mainplanet_raxusprime_alley mainplanet_raxusprime_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
