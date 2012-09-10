@@ -1,5 +1,5 @@
 scenesfile version 1
- 509
+ 503
 scn_random_scene random_scene 1280 none none 0 0 240 240 -0.5 0x300028000003e8fa0000034e00004b34000059be 
   0 
   0 
@@ -104,27 +104,7 @@ scn_test_scene test_scene 256 none none 0 0 120 120 -100 0x0230817a00028ca300007
   0 
   0 
  outer_terrain_plain 
-scn_quick_battle_1 quick_battle_1 256 none none 0 0 100 100 -100 0x0000000120044ecf0005955e0000119b0000290000001f11 
-  0 
-  0 
- outer_terrain_plain 
-scn_quick_battle_2 quick_battle_2 256 none none 0 0 120 120 -100 0xa0425ccf0004a92a000063d600005a8a00003d9a 
-  0 
-  0 
- outer_terrain_steppe 
-scn_quick_battle_3 quick_battle_3 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
 scn_quick_battle_4 quick_battle_4 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
-  0 
-  0 
- outer_terrain_steppe 
-scn_quick_battle_5 quick_battle_5 256 none none 0 0 120 120 -100 0x3a078bb2000589630000667200002fb90000179c 
-  0 
-  0 
- outer_terrain_plain 
-scn_quick_battle_6 quick_battle_6 256 none none 0 0 120 120 -100 0xa0425ccf0004a92a000063d600005a8a00003d9a 
   0 
   0 
  outer_terrain_steppe 
@@ -136,10 +116,6 @@ scn_quick_battle_8 quick_battle_8 256 none none 0 0 120 120 -100 0x0000000050001
   0 
   0 
  outer_terrain_steppe 
-scn_quick_battle_9 quick_battle_9 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
-  0 
-  0 
- outer_terrain_plain 
 scn_custom_battle_1 custom_battle_1 256 none none 0 0 120 120 -100 0x00000000300005000006d9b9000052560000620000004c92 
   0 
   0 
@@ -269,11 +245,11 @@ scn_training_ground_ranged_melee_5 training_ground_ranged_melee_5 256 none none 
   0 
  outer_terrain_plain 
 scn_zendar_center zendar_center 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
-  3  68  0  69 
+  3  62  0  63 
   0 
  outer_terrain_plain 
 scn_the_happy_boar the_happy_boar 1 interior_town_house_f bo_interior_town_house_f -100 -100 100 100 -100 0 
-  1  67 
+  1  61 
   1  881 
  0 
 scn_zendar_merchant zendar_merchant 1 interior_town_house_i bo_interior_town_house_i -100 -100 100 100 -100 0 
