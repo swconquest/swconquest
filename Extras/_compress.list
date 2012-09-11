@@ -1,0 +1,22 @@
+*.txt
+module.ini
+main.bmp
+
+*.pdf
+*.ico
+swconquest.exe
+Change Star Wars Conquest Font.cmd
+
+
+Languages\de\*.csv
+Languages\en\*.csv
+Languages\es\*.csv
+Languages\fr\*.csv
+Languages\pl\*.csv
+
+Module Data\FONT_DATA.XML
+Music\*.ogg
+Resource\*.brf
+SceneObj\scn_*.sco
+Sounds\*.ogg
+Textures\*.dds
