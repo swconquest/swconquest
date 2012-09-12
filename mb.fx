@@ -1629,7 +1629,7 @@ PS_OUTPUT ps_main_water( PS_INPUT_WATER In )
 	PS_OUTPUT Output;
 
 	// SWY -- Use a standard normalmap instead of the weirdo-thingie that Taleworlds used...
-	float3 normal = tex2D(NormalTextureSampler, In.Tex0).rgb;
+	float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0).rgb - 1.0f);
 
 	// float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0 * 1.0f).agb - 1.0f);
 	// normal.y = -normal.y;
@@ -1975,10 +1975,10 @@ PS_OUTPUT ps_main_bump( PS_INPUT_BUMP In, uniform const int PcfMode )
 
 	float4 total_light = vAmbientColor;//In.LightAmbient;
 
-	float3 normal = tex2D(NormalTextureSampler, In.Tex0).rgb;
-	// float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0).agb - 1.0f);
-	// normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
-	// normal.y *=  -1.0f;
+	//float3 normal = tex2D(NormalTextureSampler, In.Tex0).rgb;
+	float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0).agb - 1.0f);
+	normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
+	normal.y *=  -1.0f;
 
 	if (PcfMode != PCF_NONE)
 	{
@@ -2018,10 +2018,10 @@ PS_OUTPUT ps_main_bump_simple( PS_INPUT_BUMP In, uniform const int PcfMode )
 
 	float4 total_light = vAmbientColor;//In.LightAmbient;
 
-	float3 normal = tex2D(NormalTextureSampler, In.Tex0).rgb;
-	// float3 normal = (3.0f * tex2D(NormalTextureSampler, In.Tex0).rgb - 1.0f);
-	// normal = normalize(normal);
-	// normal.y =  -normal.y;
+	//float3 normal = (2.0f *tex2D(NormalTextureSampler, In.Tex0).rgb - 1.0f);
+	float3 normal = (3.0f * tex2D(NormalTextureSampler, In.Tex0).rgb - 1.0f);
+	normal = normalize(normal);
+	normal.y =  -normal.y;
 
 
 	if (PcfMode != PCF_NONE)
@@ -2072,8 +2072,8 @@ PS_OUTPUT ps_main_bump_simple_multitex( PS_INPUT_BUMP In, uniform const int PcfM
 	multi_tex_col.rgb *= inv_alpha;
 	multi_tex_col.rgb += tex_col2.rgb * In.VertexColor.a;
 
-	float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0).rgb - 1.0f);
-	// float3 normal = (1.0f * (tex2D(NormalTextureSampler, In.Tex0).rgb + tex2D(NormalTextureSampler, In.Tex0 * 3.17f).rgb) - 1.0f);
+	//float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0).rgb - 1.0f);
+	float3 normal = (1.0f * (tex2D(NormalTextureSampler, In.Tex0).rgb + tex2D(NormalTextureSampler, In.Tex0 * 3.17f).rgb) - 1.0f);
 
 	// float3 normal2 = (2.0f * tex2D(NormalTexture2Sampler, In.Tex0).rgb - 1.0f);
 	float3 multi_normal = normal;
@@ -2168,11 +2168,11 @@ PS_OUTPUT ps_main_bump_interior( PS_INPUT_BUMP_DYNAMIC In)
 
 	float4 total_light = vAmbientColor;//In.LightAmbient;
 
-	float3 normal = tex2D(NormalTextureSampler, In.Tex0).rgb;
-	// float3 normal = 2.0f * tex2D(NormalTextureSampler, In.Tex0).rgb - 1.0f;// - float3(1.0f, , 1.0f);
-	//float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0).agb - 1.0f);
-	//normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
-	//normal.y =  - normal.y;
+	//float3 normal = tex2D(NormalTextureSampler, In.Tex0).rgb;
+	//float3 normal = 2.0f * tex2D(NormalTextureSampler, In.Tex0).rgb - 1.0f;// - float3(1.0f, , 1.0f);
+	float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0).agb - 1.0f);
+	normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
+	normal.y =  - normal.y;
 
 
 
