@@ -141,10 +141,10 @@ spr_sw_z96 0 0 z96 bo_z96 0
 spr_sw_bulk_frigate 0 0 bulk_frigate bo_bulk_frigate 0
 
 
-spr_sw_ship_hangar_closed 0 0 ship_hangar_closed bo_ship_hangar_closed 0
+spr_sw_ship_hangar_closed 0 0 0 0 0
 
 
-spr_sw_ship_hangar_open 0 0 ship_hangar_open bo_ship_hangar_open 0
+spr_sw_ship_hangar_open 0 0 0 0 0
 
 
 spr_sw_gun_turret 0 0 gun_turret bo_gun_turret 0
