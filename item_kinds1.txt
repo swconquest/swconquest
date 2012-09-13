@@ -357,7 +357,7 @@ itemsfile version 2
  itm_binocular Macrobinoculars Macrobinoculars 1  macrobinoculars 0  65547 0 3000 0 3 40 0 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_jetpack Jetpack Jetpack 1  macrobinoculars 0  65547 0 6000 0 6 35 0 0 0 0 0 0 0 0 0 0 0
+ itm_jetpack Jetpack Jetpack 1  macrobinoculars 0  4096 0 6000 0 6 35 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_oil Oil Oil 1  oil 0  65547 0 480 0 50 60 0 0 0 0 0 0 0 0 0 0 0
