@@ -63,7 +63,7 @@ scn_quick_battle_7 quick_battle_7 256 none none 0 0 100 100 -100 0x314d060900036
 scn_quick_battle_8 quick_battle_8 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
   0 
   0 
- outer_terrain_steppe 
+ 0 
 scn_custom_battle_1 custom_battle_1 256 none none 0 0 120 120 -100 0x00000000300005000006d9b9000052560000620000004c92 
   0 
   0 
