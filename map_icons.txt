@@ -455,7 +455,7 @@ banner_40 0 sw_map_banner_40 0.35 0 0 0 0 0
 banner_41 0 sw_map_banner_41 0.35 0 0 0 0 0
 
 
-banner_42 0 sw_map_banner_41 0.35 0 0 0 0 0
+banner_42 0 sw_map_banner_42 0.35 0 0 0 0 0
 
 
 sw_swy_Death_Star 1 swy_Death_Star 0.5 0 0 0 0 0
