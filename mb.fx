@@ -715,15 +715,52 @@ VS_OUTPUT_FONT vs_font(float4 vPosition : POSITION, float4 vColor : COLOR, float
 	  DGreen: #218221
 	  BBrown: #d4c5b5
 	  BGreen: #7cfd78
+    
+    255->1
+    129->x
+    
+    x=129/255
+    
 	 */
 
+  /* yellow */
 	if( Out.Color.r == 1.0f
 	 && Out.Color.g >= 0.86f
 	 && Out.Color.g <= 0.87f
 	 && Out.Color.b == 0.0f){
-		Out.Color.rgb = float3(0.0f,0.0f,1.0f);  //--> We like blue.
+  //Out.Color.rgb = float3(0.2f,0.4f,1.0f);  //--> We like blue.
+	//Out.Color.rgb = float3(0.3f,0.36f,0.7f); //--> We like blue.
+	  Out.Color.rgb = float3(0.3f,0.4f,1.0f);  //--> We like blue.
 	}
-
+  
+  /* pure black */
+	if( Out.Color.r == 0.0f
+	 && Out.Color.g == 0.0f
+	 && Out.Color.b == 0.0f){
+		Out.Color.rgb = float3(0.2f,0.2f,0.3f);  //--> We like blue.
+	}
+  
+  /* dark green */
+	if( Out.Color.r == 0.0f
+   
+   && Out.Color.g >= 0.46f
+	 && Out.Color.g <= 0.47f
+   
+   && Out.Color.b == 0.0f){
+	  Out.Color.rgb = float3(0.6f,0.2f,0.0f);  //--> #CCFF00 --lemon	}
+  }
+  
+  /* light green */
+	if( Out.Color.r >= 0.333f
+	 && Out.Color.r <= 0.334f
+   
+   && Out.Color.g == 1.0f
+   
+   && Out.Color.b >= 0.313f
+	 && Out.Color.b <= 0.314f){
+	  Out.Color.rgb = float3(0.7f,0.4f,0.0f);  //--> #CCFF00 --lemon	}
+  }
+  
 	//apply fog
 	float d = length(P);
 
