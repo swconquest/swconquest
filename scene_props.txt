@@ -1195,7 +1195,7 @@ spr_sw_sandstone_building_b 0 0 bbuilding bo_bbuilding 0
 spr_sw_sandstone_building_c 0 0 cbuilding bo_cbuilding 0
 
 
-spr_sw_small_camp 0 0 rebelcamp bo_rebelcamp 0
+spr_sw_small_camp 0 0 0 0 0
 
 
 spr_sw_tent_a 0 0 tent_a bo_tent_a 0
