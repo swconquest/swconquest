@@ -4,47 +4,47 @@ pt_none none 38 0 1 7 -1 -1 -1 -1 -1 -1
 pt_rescued_prisoners Rescued_Prisoners 35 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_enemy Enemy 32 0 24 7 -1 -1 -1 -1 -1 -1 
 pt_hero_party Hero_Party 34 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_minorplanet_defenders Colonial_Defenders 38 0 1 7 81 5 10 0 83 5 10 0 212 0 4 0 -1 -1 -1 
+pt_minorplanet_defenders Colonial_Defenders 38 0 1 7 81 5 10 0 83 5 10 0 213 0 4 0 -1 -1 -1 
 pt_cattle_herd Nerf_Herd 2814749767106598 0 3 7 23 80 120 0 -1 -1 -1 -1 -1 
-pt_jawas Jawas 2251799813685288 0 2 344 196 8 16 0 197 5 10 0 198 2 4 0 117 0 1 1 116 0 1 1 -1 
-pt_bountyhunters Trandoshan_Slavers 27 0 20 137 211 25 50 0 24 0 1 1 -1 -1 -1 -1 
-pt_night_fang_pirates Night_Fangs_Pirates 562949953421345 0 2 344 207 5 25 0 208 4 8 0 51 1 5 0 43 1 5 0 40 0 1 1 -1 
-pt_blazing_claw_pirates Blazing_Claw_Pirates 562949953421344 0 23 344 205 5 25 0 206 4 8 0 47 1 5 0 67 1 5 0 40 0 1 1 -1 
-pt_tusken_raiders Tusken_Raiders 562949953421353 0 2 344 209 10 25 0 210 5 10 0 -1 -1 -1 -1 
-pt_black_sun_pirates Black_Sun_Pirates 562949953421337 0 22 344 201 10 20 0 202 5 10 0 203 5 10 0 204 2 15 0 40 0 1 1 -1 
+pt_jawas Jawas 2251799813685288 0 2 344 197 8 16 0 198 5 10 0 199 2 4 0 118 0 1 1 117 0 1 1 -1 
+pt_bountyhunters Trandoshan_Slavers 27 0 20 137 212 25 50 0 24 0 1 1 -1 -1 -1 -1 
+pt_night_fang_pirates Night_Fangs_Pirates 562949953421345 0 2 344 208 5 25 0 209 4 8 0 51 1 5 0 43 1 5 0 40 0 1 1 -1 
+pt_blazing_claw_pirates Blazing_Claw_Pirates 562949953421344 0 23 344 206 5 25 0 207 4 8 0 47 1 5 0 67 1 5 0 40 0 1 1 -1 
+pt_tusken_raiders Tusken_Raiders 562949953421353 0 2 344 210 10 25 0 211 5 10 0 -1 -1 -1 -1 
+pt_black_sun_pirates Black_Sun_Pirates 562949953421337 0 22 344 202 10 20 0 203 5 10 0 204 5 10 0 205 2 15 0 40 0 1 1 -1 
 pt_deserters Deserters 844424930131995 0 21 344 -1 -1 -1 -1 -1 -1 
 pt_galacticempire_escort Patrol_Fleet 562949957681179 0 1 172 81 1 1 0 -1 -1 -1 -1 -1 
-pt_independent_traders Merchant_Convoy 5629499534475295 0 1 11 213 1 1 0 100 1 10 0 99 1 1 0 85 10 20 0 -1 -1 
-pt_merchant_caravan Merchant_Freighter 5629499534475294 0 1 11 213 1 1 0 85 15 30 0 -1 -1 -1 -1 
-pt_miningvessel Mining_Vessel 8444249301581861 0 1 24 213 1 1 0 100 1 10 0 99 1 1 0 85 10 20 0 -1 -1 
-pt_troublesome_bandits Troublesome_Bandits 2533274790658075 0 2 344 199 15 55 0 -1 -1 -1 -1 -1 
-pt_bandits_awaiting_ransom Bandits_Awaiting_Ransom 2533274790658075 0 3 344 199 25 65 0 214 1 1 1 -1 -1 -1 -1 
-pt_kidnapped_girl Kidnapped_Girl 262182 0 3 7 214 1 1 0 -1 -1 -1 -1 -1 
-pt_minorplanet_farmers Colonial_Farmers 34 0 4 7 81 6 12 0 212 4 8 0 -1 -1 -1 -1 
-pt_spy_partners Unremarkable_Travellers 844424930459675 0 3 7 938 1 1 0 85 5 10 0 -1 -1 -1 -1 
-pt_runaway_serfs Runaway_Slaves 2251799814012963 0 3 7 81 6 10 0 212 3 3 0 -1 -1 -1 -1 
-pt_spy Ordinary_Townsman 844424930459675 0 3 7 937 1 1 0 -1 -1 -1 -1 -1 
+pt_independent_traders Merchant_Convoy 5629499534475295 0 1 11 214 1 1 0 100 1 10 0 99 1 1 0 85 10 20 0 -1 -1 
+pt_merchant_caravan Merchant_Freighter 5629499534475294 0 1 11 214 1 1 0 85 15 30 0 -1 -1 -1 -1 
+pt_miningvessel Mining_Vessel 8444249301581861 0 1 24 116 10 20 0 100 2 5 0 -1 -1 -1 -1 
+pt_troublesome_bandits Troublesome_Bandits 2533274790658075 0 2 344 200 15 55 0 -1 -1 -1 -1 -1 
+pt_bandits_awaiting_ransom Bandits_Awaiting_Ransom 2533274790658075 0 3 344 200 25 65 0 215 1 1 1 -1 -1 -1 -1 
+pt_kidnapped_girl Kidnapped_Girl 262182 0 3 7 215 1 1 0 -1 -1 -1 -1 -1 
+pt_minorplanet_farmers Colonial_Farmers 34 0 4 7 81 6 12 0 213 4 8 0 -1 -1 -1 -1 
+pt_spy_partners Unremarkable_Travellers 844424930459675 0 3 7 939 1 1 0 85 5 10 0 -1 -1 -1 -1 
+pt_runaway_serfs Runaway_Slaves 2251799814012963 0 3 7 81 6 10 0 213 3 3 0 -1 -1 -1 -1 
+pt_spy Ordinary_Townsman 844424930459675 0 3 7 938 1 1 0 -1 -1 -1 -1 -1 
 pt_sacrificed_messenger Sacrificed_Messenger 844424930459675 0 3 7 -1 -1 -1 -1 -1 -1 
 pt_forager_party Foraging_Party 1407374887747611 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_scout_party Scouts 281474980904987 0 1 344 -1 -1 -1 -1 -1 -1 
 pt_patrol_party Patrol 562949957615643 0 1 137 -1 -1 -1 -1 -1 -1 
 pt_messenger_party Messenger 4194331 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_raider_party Raiders 4503599627632667 0 1 344 -1 -1 -1 -1 -1 -1 
-pt_raider_captives Raider_Captives 0 0 1 0 212 6 30 1 -1 -1 -1 -1 -1 
-pt_faction_caravan_party Freighters 7036874421960734 0 1 7 213 1 1 0 85 12 40 0 -1 -1 -1 -1 
+pt_raider_captives Raider_Captives 0 0 1 0 213 6 30 1 -1 -1 -1 -1 -1 
+pt_faction_caravan_party Freighters 7036874421960734 0 1 7 214 1 1 0 85 12 40 0 -1 -1 -1 -1 
 pt_prisoner_train_party Prisoner_Train 1407374887747615 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_default_prisoners Default_Prisoners 0 0 1 0 199 5 10 1 -1 -1 -1 -1 -1 
+pt_default_prisoners Default_Prisoners 0 0 1 0 200 5 10 1 -1 -1 -1 -1 -1 
 pt_center_reinforcements Reinforcements 4503599627370523 0 1 137 82 5 15 0 83 5 15 0 81 5 15 0 -1 -1 -1 
 pt_faction_hero_party War_Party 4259840 0 1 137 -1 -1 -1 -1 -1 -1 
-pt_galacticempire_reinforcements_a galacticempire_reinforcements_a 0 0 1 0 133 2 3 0 142 4 10 0 -1 -1 -1 -1 
-pt_galacticempire_reinforcements_b galacticempire_reinforcements_b 0 0 1 0 144 6 13 0 -1 -1 -1 -1 -1 
-pt_galacticempire_reinforcements_c galacticempire_reinforcements_c 0 0 1 0 134 1 2 0 59 1 2 0 144 1 2 0 -1 -1 -1 
-pt_rebelalliance_reinforcements_a rebelalliance_reinforcements_a 0 0 1 0 160 2 3 0 170 3 9 0 -1 -1 -1 -1 
-pt_rebelalliance_reinforcements_b rebelalliance_reinforcements_b 0 0 1 0 171 3 8 0 24 1 2 0 55 1 2 0 -1 -1 -1 
-pt_rebelalliance_reinforcements_c rebelalliance_reinforcements_c 0 0 1 0 161 1 2 0 67 1 2 0 71 1 2 0 -1 -1 -1 
-pt_huttcartel_reinforcements_a huttcartel_reinforcements_a 0 0 1 0 184 2 3 0 185 2 6 0 36 1 3 0 40 0 1 1 -1 -1 
-pt_huttcartel_reinforcements_b huttcartel_reinforcements_b 0 0 1 0 186 2 5 0 51 1 2 0 47 1 2 0 43 1 3 0 40 0 1 1 -1 
-pt_huttcartel_reinforcements_c huttcartel_reinforcements_c 0 0 1 0 30 1 1 0 36 1 2 0 189 1 1 0 78 0 1 0 114 0 1 0 -1 
+pt_galacticempire_reinforcements_a galacticempire_reinforcements_a 0 0 1 0 134 2 3 0 143 4 10 0 -1 -1 -1 -1 
+pt_galacticempire_reinforcements_b galacticempire_reinforcements_b 0 0 1 0 145 6 13 0 -1 -1 -1 -1 -1 
+pt_galacticempire_reinforcements_c galacticempire_reinforcements_c 0 0 1 0 135 1 2 0 59 1 2 0 145 1 2 0 -1 -1 -1 
+pt_rebelalliance_reinforcements_a rebelalliance_reinforcements_a 0 0 1 0 161 2 3 0 171 3 9 0 -1 -1 -1 -1 
+pt_rebelalliance_reinforcements_b rebelalliance_reinforcements_b 0 0 1 0 172 3 8 0 24 1 2 0 55 1 2 0 -1 -1 -1 
+pt_rebelalliance_reinforcements_c rebelalliance_reinforcements_c 0 0 1 0 162 1 2 0 67 1 2 0 71 1 2 0 -1 -1 -1 
+pt_huttcartel_reinforcements_a huttcartel_reinforcements_a 0 0 1 0 185 2 3 0 186 2 6 0 36 1 3 0 40 0 1 1 -1 -1 
+pt_huttcartel_reinforcements_b huttcartel_reinforcements_b 0 0 1 0 187 2 5 0 51 1 2 0 47 1 2 0 43 1 3 0 40 0 1 1 -1 
+pt_huttcartel_reinforcements_c huttcartel_reinforcements_c 0 0 1 0 30 1 1 0 36 1 2 0 190 1 1 0 78 0 1 0 114 0 1 0 -1 
 pt_faction_human_reinforcements_a faction_human_reinforcements_a 0 0 1 0 83 6 12 0 -1 -1 -1 -1 -1 
 pt_faction_human_reinforcements_b faction_human_reinforcements_b 0 0 1 0 83 3 6 0 84 2 4 0 90 1 2 0 -1 -1 -1 
 pt_faction_human_reinforcements_c faction_human_reinforcements_c 0 0 1 0 84 2 4 0 90 2 4 0 -1 -1 -1 -1 

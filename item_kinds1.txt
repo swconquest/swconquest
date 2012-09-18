@@ -1,5 +1,5 @@
 itemsfile version 2
-918
+919
  itm_no_item <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -300,10 +300,10 @@ itemsfile version 2
  itm_container_metal_1 Shipment_of_Beskar_bars Shipment_of_Beskar_bars 1  Container_metal_1 0  65547 0 150 0 12 50 0 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_container_metal_2 Shipment_of_Durasteel_bars Shipment_of_Durasteel_bars 1  Container_metal_2 0  65547 0 150 0 12 70 0 0 0 0 0 0 0 0 0 0 0
+ itm_container_metal_2 Shipment_of_Durasteel_bars Shipment_of_Durasteel_bars 1  Container_metal_2 0  65547 0 180 0 12 70 0 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_container_metal_3 Shipment_of_Bronzium_bars Shipment_of_Bronzium_bars 1  Container_metal_3 0  65547 0 150 0 12 110 0 0 0 0 0 0 0 0 0 0 0
+ itm_container_metal_3 Shipment_of_Bronzium_bars Shipment_of_Bronzium_bars 1  Container_metal_3 0  65547 0 210 0 12 110 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_container_death_sticks Carton_of_Death_Sticks Carton_of_Death_Sticks 1  Container_death_sticks 0  65547 0 150 0 12 110 0 0 0 0 0 0 0 0 0 0 0
@@ -1412,6 +1412,9 @@ itemsfile version 2
 0
 
  itm_ubese_armor Ubese_Armor Ubese_Armor 1  ubese_armour 0  553713677 0 430 123731968 5 80 0 35 14 0 0 0 0 0 0 0 0
+0
+
+ itm_ubese_armor_alt Ubese_Armor Ubese_Armor 1  ubese_armour_alt 0  553713677 0 430 123731968 5 80 0 35 14 0 0 0 0 0 0 0 0
 0
 
  itm_wookiee_armor1 Wookiee_Armor Wookiee_Armor 1  wookiee_body1 0  553652237 0 530 123731968 3 50 0 35 14 0 0 0 0 0 0 0 0

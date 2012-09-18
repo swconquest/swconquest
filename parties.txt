@@ -470,33 +470,33 @@ partiesfile version 1
 1.745329
  1 234 234 p_debris_10 <debris10> 541744 0 0 3 0 0 0 0 0 -82.19 14.56 -82.19 14.56 -82.19 14.56 0.0 0 
 1.745329
- 1 235 235 p_jawa_spawn_point <jawa_sp> 1280 0 0 2 0 0 0 0 0 43.21 -130.13 43.21 -130.13 43.21 -130.13 0.0 1 196 15 0 0 
+ 1 235 235 p_jawa_spawn_point <jawa_sp> 1280 0 0 2 0 0 0 0 0 43.21 -130.13 43.21 -130.13 43.21 -130.13 0.0 1 197 15 0 0 
 0
- 1 236 236 p_night_fang_pirate_spawn_point <steppe_bandit_sp> 1280 0 0 2 0 0 0 0 0 -66.83 88.49 -66.83 88.49 -66.83 88.49 0.0 1 196 15 0 0 
+ 1 236 236 p_night_fang_pirate_spawn_point <steppe_bandit_sp> 1280 0 0 2 0 0 0 0 0 -66.83 88.49 -66.83 88.49 -66.83 88.49 0.0 1 197 15 0 0 
 0
- 1 237 237 p_night_fang_pirate_spawn_point_2 <steppe_bandit_sp> 1280 0 0 2 0 0 0 0 0 -42.37 47.18 -42.37 47.18 -42.37 47.18 0.0 1 196 15 0 0 
+ 1 237 237 p_night_fang_pirate_spawn_point_2 <steppe_bandit_sp> 1280 0 0 2 0 0 0 0 0 -42.37 47.18 -42.37 47.18 -42.37 47.18 0.0 1 197 15 0 0 
 0
- 1 238 238 p_night_fang_pirate_spawn_point_3 <steppe_bandit_sp> 1280 0 0 2 0 0 0 0 0 -35.12 79.88 -35.12 79.88 -35.12 79.88 0.0 1 196 15 0 0 
+ 1 238 238 p_night_fang_pirate_spawn_point_3 <steppe_bandit_sp> 1280 0 0 2 0 0 0 0 0 -35.12 79.88 -35.12 79.88 -35.12 79.88 0.0 1 197 15 0 0 
 0
- 1 239 239 p_blazing_claw_pirate_spawn_point <blazing_claw_pirate_sp> 1280 0 0 2 0 0 0 0 0 43.76 104.07 43.76 104.07 43.76 104.07 0.0 1 196 15 0 0 
+ 1 239 239 p_blazing_claw_pirate_spawn_point <blazing_claw_pirate_sp> 1280 0 0 2 0 0 0 0 0 43.76 104.07 43.76 104.07 43.76 104.07 0.0 1 197 15 0 0 
 0
- 1 240 240 p_blazing_claw_pirate_spawn_point_2 <blazing_claw_pirate_sp> 1280 0 0 2 0 0 0 0 0 25.7 86.21 25.7 86.21 25.7 86.21 0.0 1 196 15 0 0 
+ 1 240 240 p_blazing_claw_pirate_spawn_point_2 <blazing_claw_pirate_sp> 1280 0 0 2 0 0 0 0 0 25.7 86.21 25.7 86.21 25.7 86.21 0.0 1 197 15 0 0 
 0
- 1 241 241 p_blazing_claw_pirate_spawn_point_3 <blazing_claw_pirate_sp> 1280 0 0 2 0 0 0 0 0 63.68 60 63.68 60 63.68 60 0.0 1 196 15 0 0 
+ 1 241 241 p_blazing_claw_pirate_spawn_point_3 <blazing_claw_pirate_sp> 1280 0 0 2 0 0 0 0 0 63.68 60 63.68 60 63.68 60 0.0 1 197 15 0 0 
 0
- 1 242 242 p_black_sun_pirate_spawn_point <black_sun_pirate_sp> 1280 0 0 2 0 0 0 0 0 -20.56 -81.35 -20.56 -81.35 -20.56 -81.35 0.0 1 196 15 0 0 
+ 1 242 242 p_black_sun_pirate_spawn_point <black_sun_pirate_sp> 1280 0 0 2 0 0 0 0 0 -20.56 -81.35 -20.56 -81.35 -20.56 -81.35 0.0 1 197 15 0 0 
 0
- 1 243 243 p_black_sun_pirate_spawn_point_2 <black_sun_pirates_sp> 1280 0 0 2 0 0 0 0 0 -66.4 -60.25 -66.4 -60.25 -66.4 -60.25 0.0 1 196 15 0 0 
+ 1 243 243 p_black_sun_pirate_spawn_point_2 <black_sun_pirates_sp> 1280 0 0 2 0 0 0 0 0 -66.4 -60.25 -66.4 -60.25 -66.4 -60.25 0.0 1 197 15 0 0 
 0
- 1 244 244 p_black_sun_pirate_spawn_point_3 <black_sun_pirates_sp> 1280 0 0 2 0 0 0 0 0 -62.39 -86.97 -62.39 -86.97 -62.39 -86.97 0.0 1 196 15 0 0 
+ 1 244 244 p_black_sun_pirate_spawn_point_3 <black_sun_pirates_sp> 1280 0 0 2 0 0 0 0 0 -62.39 -86.97 -62.39 -86.97 -62.39 -86.97 0.0 1 197 15 0 0 
 0
- 1 245 245 p_tusken_raider_spawn_point_1 <tusken_raiders_sp> 1280 0 0 2 0 0 0 0 0 133.24 -58.6 133.24 -58.6 133.24 -58.6 0.0 1 196 15 0 0 
+ 1 245 245 p_tusken_raider_spawn_point_1 <tusken_raiders_sp> 1280 0 0 2 0 0 0 0 0 133.24 -58.6 133.24 -58.6 133.24 -58.6 0.0 1 197 15 0 0 
 0
- 1 246 246 p_tusken_raider_spawn_point_2 <tusken_raiders_sp> 1280 0 0 2 0 0 0 0 0 48.72 -95.88 48.72 -95.88 48.72 -95.88 0.0 1 196 15 0 0 
+ 1 246 246 p_tusken_raider_spawn_point_2 <tusken_raiders_sp> 1280 0 0 2 0 0 0 0 0 48.72 -95.88 48.72 -95.88 48.72 -95.88 0.0 1 197 15 0 0 
 0
- 1 247 247 p_tusken_raider_spawn_point_3 <tusken_raider_sp> 1280 0 0 2 0 0 0 0 0 79.1 -75.61 79.1 -75.61 79.1 -75.61 0.0 1 196 15 0 0 
+ 1 247 247 p_tusken_raider_spawn_point_3 <tusken_raider_sp> 1280 0 0 2 0 0 0 0 0 79.1 -75.61 79.1 -75.61 79.1 -75.61 0.0 1 197 15 0 0 
 0
- 1 248 248 p_spawn_points_end last_spawn_point 1280 0 0 1 0 0 0 0 0 23 -112.26 23 -112.26 23 -112.26 0.0 1 196 15 0 0 
+ 1 248 248 p_spawn_points_end last_spawn_point 1280 0 0 1 0 0 0 0 0 23 -112.26 23 -112.26 23 -112.26 0.0 1 197 15 0 0 
 0
  1 249 249 p_spaceship_tie_fighter Spaceship_Array 2114890 0 0 3 0 0 0 0 0 -139 -40 -139 -40 -139 -40 0.0 0 
 0
