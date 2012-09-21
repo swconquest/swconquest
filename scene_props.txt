@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1560
+ 1563
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4724,6 +4724,15 @@ spr_hutt_arena 0 0 hutt_arena bo_hutt_arena 0
 
 
 spr_kashyyyk_floor 0 0 kashyyyk_floor bo_kashyyyk_floor 0
+
+
+spr_gamorr_wall_1 0 0 gamorr_wall_1 bo_gamorr_wall_1 0
+
+
+spr_gamorr_wall_2 0 0 gamorr_wall_2 bo_gamorr_wall_2 0
+
+
+spr_moncal_battle 0 0 moncal_battle bo_moncal_battle 0
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0
