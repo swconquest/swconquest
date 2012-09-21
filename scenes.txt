@@ -584,7 +584,7 @@ scn_mainplanet_endor_arena mainplanet_endor_arena 256 none none 0 0 100 100 -100
   0 
   0 
  0 
-scn_mainplanet_corellia_arena mainplanet_corellia_arena 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+scn_mainplanet_corellia_arena mainplanet_corellia_arena 256 none none 0 0 220 220 30 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
  outer_terrain_plain 
@@ -604,7 +604,7 @@ scn_mainplanet_geonosis_arena mainplanet_geonosis_arena 256 none none 0 0 120 12
   0 
   0 
  outer_terrain_plain 
-scn_mainplanet_mon_cal_arena mainplanet_mon_cal_arena 256 none none 0 0 100 100 -100 0x00000002500005004005f57b00005885000046bd00006d9c 
+scn_mainplanet_mon_cal_arena mainplanet_mon_cal_arena 256 none none 0 0 220 220 30 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
  0 
@@ -656,7 +656,7 @@ scn_mainplanet_kamino_arena mainplanet_kamino_arena 256 none none 0 0 100 100 -1
   0 
   0 
  swy_outer_sea 
-scn_mainplanet_taris_arena mainplanet_taris_arena 256 none none 0 0 100 100 -100 0x00000002500005004005f57b00005885000046bd00006d9c 
+scn_mainplanet_taris_arena mainplanet_taris_arena 256 none none 0 0 220 220 30 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
  outer_terrain_plain 
