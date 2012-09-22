@@ -96,7 +96,7 @@ freighter 1 swy_nebulon 0.5 194 0.15 0.173 0 0
 bulk_freighter 1 bulk_frigate 0.5 194 0.15 0.173 0 0
 
 
-mercenary_fighter 1 vec_starchaser 0.4 194 0.15 0.173 0 0
+mercenary_fighter 1 t_wing 0.4 194 0.15 0.173 0 0
 
 
 mercenary_shuttle 1 Interceptor_IV 0.4 194 0.15 0.173 0 0
