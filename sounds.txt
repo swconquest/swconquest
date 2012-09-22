@@ -1,16 +1,15 @@
 soundsfile version 2
-649
+647
  swc_click.ogg 257
  tutorial_1.ogg 1793
  tutorial_2.ogg 1793
- s_cymbals.ogg 1937
+ Vip_Impact_Gun.ogg 1937
  quest_completed.ogg 1937
- quest_succeeded.ogg 1937
+ ui_toggle_mouse_mode.ogg 1937
  quest_concluded.ogg 1937
  quest_failed.ogg 1937
  quest_cancelled.ogg 1937
  rain_1.ogg 1187
- ui_toggle_mouse_mode.ogg 1696
  sword_clank_metal_09.ogg 0
  sword_clank_metal_09b.ogg 0
  sword_clank_metal_10.ogg 0
@@ -372,7 +371,6 @@ soundsfile version 2
  dro_gonk_voc_b.ogg 2128
  dro_gonk_voc_c.ogg 2128
  dro_gonk_voc_d.ogg 2128
- Vip_Impact_Gun.ogg 1536
  Rdr_Cannon.ogg 2560
  Vip_Cannon.ogg 256
  Vip_EngineHum_Lp.ogg 2560
@@ -661,15 +659,15 @@ snd_quest_concluded 1937 1 6
 snd_quest_failed 1937 1 7 
 snd_quest_cancelled 1937 1 8 
 snd_rain 1187 1 9 
-snd_money_received 1696 1 10 
-snd_money_paid 2720 1 10 
-snd_sword_clash_1 0 8 11 12 13 14 15 16 17 18 
-snd_sword_clash_2 0 1 19 
-snd_sword_clash_3 0 1 20 
-snd_sword_swing 2144 1 21 
-snd_footstep_grass 1040 4 22 23 24 25 
-snd_footstep_wood 1552 3 26 27 28 
-snd_footstep_water 1072 4 29 30 31 32 
+snd_money_received 1696 1 5 
+snd_money_paid 2720 1 5 
+snd_sword_clash_1 0 8 10 11 12 13 14 15 16 17 
+snd_sword_clash_2 0 1 18 
+snd_sword_clash_3 0 1 19 
+snd_sword_swing 2144 1 20 
+snd_footstep_grass 1040 4 21 22 23 24 
+snd_footstep_wood 1552 3 25 26 27 
+snd_footstep_water 1072 4 28 29 30 31 
 snd_footstep_horse 48 0 
 snd_footstep_horse_1b 48 0 
 snd_footstep_horse_1f 48 0 
@@ -681,119 +679,119 @@ snd_footstep_horse_4b 48 0
 snd_footstep_horse_4f 48 0 
 snd_footstep_horse_5b 48 0 
 snd_footstep_horse_5f 48 0 
-snd_jump_begin 1936 1 33 
-snd_jump_end 1424 1 34 
-snd_jump_begin_water 1168 1 35 
-snd_jump_end_water 1168 1 36 
-snd_horse_jump_begin 1936 1 37 
-snd_horse_jump_end 1936 1 38 
-snd_horse_jump_begin_water 1168 1 37 
-snd_horse_jump_end_water 1168 1 38 
+snd_jump_begin 1936 1 32 
+snd_jump_end 1424 1 33 
+snd_jump_begin_water 1168 1 34 
+snd_jump_end_water 1168 1 35 
+snd_horse_jump_begin 1936 1 36 
+snd_horse_jump_end 1936 1 37 
+snd_horse_jump_begin_water 1168 1 36 
+snd_horse_jump_end_water 1168 1 37 
 snd_release_bow 1280 0 
 snd_release_crossbow 256 0 
-snd_throw_javelin 1280 1 39 
-snd_throw_axe 1792 1 40 
-snd_throw_knife 1280 1 41 
-snd_throw_stone 1792 1 42 
-snd_reload_crossbow 1904 1 43 
-snd_reload_crossbow_continue 1904 1 44 
+snd_throw_javelin 1280 1 38 
+snd_throw_axe 1792 1 39 
+snd_throw_knife 1280 1 40 
+snd_throw_stone 1792 1 41 
+snd_reload_crossbow 1904 1 42 
+snd_reload_crossbow_continue 1904 1 43 
 snd_pull_bow 1030 0 
 snd_pull_arrow 1280 0 
-snd_arrow_pass_by 0 4 45 46 47 48 
-snd_bolt_pass_by 0 10 49 50 51 52 53 54 55 56 57 58 
-snd_javelin_pass_by 0 2 59 60 
-snd_stone_pass_by 2304 1 61 
-snd_axe_pass_by 0 1 62 
-snd_knife_pass_by 0 1 63 
-snd_bullet_pass_by 0 10 49 50 51 52 53 54 55 56 57 58 
-snd_incoming_arrow_hit_ground 1904 23 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 
-snd_incoming_bolt_hit_ground 1904 23 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 
-snd_incoming_javelin_hit_ground 1904 1 87 
-snd_incoming_stone_hit_ground 1904 1 88 
-snd_incoming_axe_hit_ground 1904 1 87 
-snd_incoming_knife_hit_ground 1904 1 88 
-snd_incoming_bullet_hit_ground 1904 23 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 
-snd_outgoing_arrow_hit_ground 1904 23 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 
-snd_outgoing_bolt_hit_ground 1904 23 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 
-snd_outgoing_javelin_hit_ground 2672 1 89 
-snd_outgoing_stone_hit_ground 1904 1 88 
-snd_outgoing_axe_hit_ground 1904 1 87 
-snd_outgoing_knife_hit_ground 1904 1 88 
-snd_outgoing_bullet_hit_ground 1904 23 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 
-snd_draw_sword 64 1 90 
-snd_put_back_sword 64 1 91 
-snd_draw_greatsword 64 1 92 
-snd_put_back_greatsword 64 1 93 
-snd_draw_axe 64 1 94 
-snd_put_back_axe 64 1 93 
-snd_draw_greataxe 64 1 95 
-snd_put_back_greataxe 64 1 96 
-snd_draw_spear 64 1 97 
-snd_put_back_spear 64 1 96 
-snd_draw_crossbow 64 1 98 
-snd_put_back_crossbow 64 1 96 
-snd_draw_revolver 64 1 98 
-snd_put_back_revolver 64 1 93 
-snd_draw_dagger 2448 1 99 
-snd_put_back_dagger 2448 1 100 
-snd_draw_bow 64 1 101 
-snd_put_back_bow 64 1 93 
-snd_draw_shield 1856 1 102 
-snd_put_back_shield 1856 1 103 
-snd_draw_other 64 1 104 
-snd_put_back_other 64 1 105 
-snd_body_fall_small 2656 2 106 107 
-snd_body_fall_big 2656 3 108 109 110 
-snd_horse_body_fall_begin 2656 1 111 
-snd_horse_body_fall_end 2656 3 112 109 113 
-snd_hit_wood_wood 2672 3 114 115 116 
-snd_hit_metal_metal 2672 10 117 118 119 120 121 122 123 124 125 126 
-snd_hit_wood_metal 2672 3 114 115 116 
-snd_shield_hit_metal_metal 2672 4 127 128 129 130 
-snd_shield_hit_wood_wood 2672 3 131 132 133 
-snd_shield_hit_wood_metal 2672 3 131 132 133 
-snd_shield_hit_metal_wood 2672 3 131 132 133 
-snd_shield_broken 144 1 134 
-snd_man_hit 2672 20 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 
-snd_man_die 160 16 155 156 157 158 159 160 155 161 162 163 164 165 166 167 168 169 
-snd_woman_hit 112 27 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 
-snd_woman_die 160 5 197 198 199 200 201 
-snd_woman_victory 2640 7 202 203 204 205 206 207 208 
-snd_woman_grunt 1120 5 209 210 211 212 213 
-snd_woman_grunt_long 2128 4 209 210 212 213 
-snd_hide 0 1 214 
-snd_unhide 0 1 215 
-snd_neigh 0 1 216 
+snd_arrow_pass_by 0 4 44 45 46 47 
+snd_bolt_pass_by 0 10 48 49 50 51 52 53 54 55 56 57 
+snd_javelin_pass_by 0 2 58 59 
+snd_stone_pass_by 2304 1 60 
+snd_axe_pass_by 0 1 61 
+snd_knife_pass_by 0 1 62 
+snd_bullet_pass_by 0 10 48 49 50 51 52 53 54 55 56 57 
+snd_incoming_arrow_hit_ground 1904 23 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 
+snd_incoming_bolt_hit_ground 1904 23 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 
+snd_incoming_javelin_hit_ground 1904 1 86 
+snd_incoming_stone_hit_ground 1904 1 87 
+snd_incoming_axe_hit_ground 1904 1 86 
+snd_incoming_knife_hit_ground 1904 1 87 
+snd_incoming_bullet_hit_ground 1904 23 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 
+snd_outgoing_arrow_hit_ground 1904 23 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 
+snd_outgoing_bolt_hit_ground 1904 23 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 
+snd_outgoing_javelin_hit_ground 2672 1 88 
+snd_outgoing_stone_hit_ground 1904 1 87 
+snd_outgoing_axe_hit_ground 1904 1 86 
+snd_outgoing_knife_hit_ground 1904 1 87 
+snd_outgoing_bullet_hit_ground 1904 23 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 
+snd_draw_sword 64 1 89 
+snd_put_back_sword 64 1 90 
+snd_draw_greatsword 64 1 91 
+snd_put_back_greatsword 64 1 92 
+snd_draw_axe 64 1 93 
+snd_put_back_axe 64 1 92 
+snd_draw_greataxe 64 1 94 
+snd_put_back_greataxe 64 1 95 
+snd_draw_spear 64 1 96 
+snd_put_back_spear 64 1 95 
+snd_draw_crossbow 64 1 97 
+snd_put_back_crossbow 64 1 95 
+snd_draw_revolver 64 1 97 
+snd_put_back_revolver 64 1 92 
+snd_draw_dagger 2448 1 98 
+snd_put_back_dagger 2448 1 99 
+snd_draw_bow 64 1 100 
+snd_put_back_bow 64 1 92 
+snd_draw_shield 1856 1 101 
+snd_put_back_shield 1856 1 102 
+snd_draw_other 64 1 103 
+snd_put_back_other 64 1 104 
+snd_body_fall_small 2656 2 105 106 
+snd_body_fall_big 2656 3 107 108 109 
+snd_horse_body_fall_begin 2656 1 110 
+snd_horse_body_fall_end 2656 3 111 108 112 
+snd_hit_wood_wood 2672 3 113 114 115 
+snd_hit_metal_metal 2672 10 116 117 118 119 120 121 122 123 124 125 
+snd_hit_wood_metal 2672 3 113 114 115 
+snd_shield_hit_metal_metal 2672 4 126 127 128 129 
+snd_shield_hit_wood_wood 2672 3 130 131 132 
+snd_shield_hit_wood_metal 2672 3 130 131 132 
+snd_shield_hit_metal_wood 2672 3 130 131 132 
+snd_shield_broken 144 1 133 
+snd_man_hit 2672 20 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 
+snd_man_die 160 16 154 155 156 157 158 159 154 160 161 162 163 164 165 166 167 168 
+snd_woman_hit 112 27 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 
+snd_woman_die 160 5 196 197 198 199 200 
+snd_woman_victory 2640 7 201 202 203 204 205 206 207 
+snd_woman_grunt 1120 5 208 209 210 211 212 
+snd_woman_grunt_long 2128 4 208 209 211 212 
+snd_hide 0 1 213 
+snd_unhide 0 1 214 
+snd_neigh 0 1 215 
 snd_gallop 768 0 
-snd_battle 1280 2 217 218 
-snd_arrow_hit_body 64 4 219 220 221 222 
-snd_metal_hit_low_armor_low_damage 2384 3 223 224 225 
-snd_metal_hit_low_armor_high_damage 2384 3 226 227 228 
-snd_metal_hit_high_armor_low_damage 2384 3 229 230 231 
-snd_metal_hit_high_armor_high_damage 2384 3 232 233 234 
-snd_wooden_hit_low_armor_low_damage 2384 3 223 224 225 
-snd_wooden_hit_low_armor_high_damage 2384 3 226 227 228 
-snd_wooden_hit_high_armor_low_damage 2384 3 223 224 225 
-snd_wooden_hit_high_armor_high_damage 2384 3 226 227 228 
-snd_blunt_hit 2384 4 235 236 236 237 
-snd_player_hit_by_arrow 2720 4 219 220 221 222 
-snd_pistol_shot 2720 1 238 
-snd_man_grunt 1120 3 239 240 241 
-snd_man_breath_hard 2096 7 242 243 244 245 246 247 248 
-snd_man_grunt_long 2128 6 249 250 251 252 253 254 
-snd_woman_yell 2144 5 204 205 206 202 207 
-snd_man_yell 2144 22 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 
-snd_man_warcry 96 7 277 278 279 280 281 282 283 
-snd_encounter_jawas 1281 5 284 285 286 287 288 
-snd_encounter_bandits 1281 7 289 290 291 292 293 294 295 
-snd_encounter_farmers 1281 4 296 297 298 299 
-snd_encounter_tusken_raiders 1281 4 300 301 302 303 
-snd_encounter_steppe_bandits 1281 5 304 305 306 307 308 
-snd_encounter_nobleman 1281 1 309 
-snd_encounter_vaegirs_ally 1281 2 310 311 
-snd_encounter_vaegirs_neutral 1281 4 312 313 314 315 
-snd_encounter_vaegirs_enemy 1281 4 312 313 314 315 
-snd_sneak_town_halt 1 1 316 
+snd_battle 1280 2 216 217 
+snd_arrow_hit_body 64 4 218 219 220 221 
+snd_metal_hit_low_armor_low_damage 2384 3 222 223 224 
+snd_metal_hit_low_armor_high_damage 2384 3 225 226 227 
+snd_metal_hit_high_armor_low_damage 2384 3 228 229 230 
+snd_metal_hit_high_armor_high_damage 2384 3 231 232 233 
+snd_wooden_hit_low_armor_low_damage 2384 3 222 223 224 
+snd_wooden_hit_low_armor_high_damage 2384 3 225 226 227 
+snd_wooden_hit_high_armor_low_damage 2384 3 222 223 224 
+snd_wooden_hit_high_armor_high_damage 2384 3 225 226 227 
+snd_blunt_hit 2384 4 234 235 235 236 
+snd_player_hit_by_arrow 2720 4 218 219 220 221 
+snd_pistol_shot 2720 1 237 
+snd_man_grunt 1120 3 238 239 240 
+snd_man_breath_hard 2096 7 241 242 243 244 245 246 247 
+snd_man_grunt_long 2128 6 248 249 250 251 252 253 
+snd_woman_yell 2144 5 203 204 205 201 206 
+snd_man_yell 2144 22 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 
+snd_man_warcry 96 7 276 277 278 279 280 281 282 
+snd_encounter_jawas 1281 5 283 284 285 286 287 
+snd_encounter_bandits 1281 7 288 289 290 291 292 293 294 
+snd_encounter_farmers 1281 4 295 296 297 298 
+snd_encounter_tusken_raiders 1281 4 299 300 301 302 
+snd_encounter_steppe_bandits 1281 5 303 304 305 306 307 
+snd_encounter_nobleman 1281 1 308 
+snd_encounter_vaegirs_ally 1281 2 309 310 
+snd_encounter_vaegirs_neutral 1281 4 311 312 313 314 
+snd_encounter_vaegirs_enemy 1281 4 311 312 313 314 
+snd_sneak_town_halt 1 1 315 
 snd_horse_walk 2352 0 
 snd_horse_trot 2352 0 
 snd_horse_canter 2352 0 
@@ -801,172 +799,172 @@ snd_horse_gallop 2352 0
 snd_horse_breath 272 0 
 snd_horse_snort 272 0 
 snd_horse_low_whinny 272 0 
-snd_block_fist 0 2 317 318 
-snd_man_hit_blunt_weak 2640 5 143 150 151 152 153 
-snd_man_hit_blunt_strong 2640 5 143 150 151 152 153 
-snd_man_hit_pierce_weak 2640 5 143 150 151 152 153 
-snd_man_hit_pierce_strong 2640 5 143 150 151 152 153 
-snd_man_hit_cut_weak 2640 5 143 150 151 152 153 
-snd_man_hit_cut_strong 2640 5 143 150 151 152 153 
-snd_man_victory 2640 10 319 320 321 322 323 324 325 326 327 328 
-snd_fire_loop 1174 1 329 
-snd_torch_loop 1174 1 329 
-snd_dummy_hit 144 2 330 331 
-snd_dummy_destroyed 144 1 134 
-snd_gourd_destroyed 144 1 134 
+snd_block_fist 0 2 316 317 
+snd_man_hit_blunt_weak 2640 5 142 149 150 151 152 
+snd_man_hit_blunt_strong 2640 5 142 149 150 151 152 
+snd_man_hit_pierce_weak 2640 5 142 149 150 151 152 
+snd_man_hit_pierce_strong 2640 5 142 149 150 151 152 
+snd_man_hit_cut_weak 2640 5 142 149 150 151 152 
+snd_man_hit_cut_strong 2640 5 142 149 150 151 152 
+snd_man_victory 2640 10 318 319 320 321 322 323 324 325 326 327 
+snd_fire_loop 1174 1 328 
+snd_torch_loop 1174 1 328 
+snd_dummy_hit 144 2 329 330 
+snd_dummy_destroyed 144 1 133 
+snd_gourd_destroyed 144 1 133 
 snd_cow_moo 2193 0 
-snd_cow_slaughter 2193 1 332 
-snd_distant_dog_bark 641 3 333 334 335 
-snd_blast_door_open 641 1 333 
-snd_blast_door_close 641 1 334 
-snd_distant_owl 641 2 336 337 
-snd_distant_chicken 641 2 337 336 
-snd_distant_carpenter 641 2 338 339 
-snd_distant_blacksmith 641 2 339 338 
-snd_arena_ambiance 899 1 340 
-snd_town_ambiance 899 1 341 
-snd_cantina_ambiance 2435 1 342 
-snd_laser_fire 2176 1 343 
-snd_bigblaster01 2176 1 344 
-snd_bigblaster15_variant 2176 1 345 
-snd_bigblaster15 2176 1 346 
-snd_bigblaster19 2176 1 347 
-snd_bigblaster22 2176 1 348 
-snd_ionblaster 2176 1 349 
-snd_sonicblaster 2688 1 350 
-snd_stunblaster 2176 1 351 
-snd_littleblaster 2176 1 352 
-snd_heavyrepeater 2176 1 353 
-snd_stormrifle 2176 1 354 
-snd_flame_fire 1664 1 355 
-snd_concussion_fire 1664 1 356 
-snd_rocket_fire 2176 1 357 
-snd_throw_lightsaber 2176 1 358 
-snd_force_push 2176 1 359 
-snd_force_lightning 2176 2 360 361 
+snd_cow_slaughter 2193 1 331 
+snd_distant_dog_bark 641 3 332 333 334 
+snd_blast_door_open 641 1 332 
+snd_blast_door_close 641 1 333 
+snd_distant_owl 641 2 335 336 
+snd_distant_chicken 641 2 336 335 
+snd_distant_carpenter 641 2 337 338 
+snd_distant_blacksmith 641 2 338 337 
+snd_arena_ambiance 899 1 339 
+snd_town_ambiance 899 1 340 
+snd_cantina_ambiance 2435 1 341 
+snd_laser_fire 2176 1 342 
+snd_bigblaster01 2176 1 343 
+snd_bigblaster15_variant 2176 1 344 
+snd_bigblaster15 2176 1 345 
+snd_bigblaster19 2176 1 346 
+snd_bigblaster22 2176 1 347 
+snd_ionblaster 2176 1 348 
+snd_sonicblaster 2688 1 349 
+snd_stunblaster 2176 1 350 
+snd_littleblaster 2176 1 351 
+snd_heavyrepeater 2176 1 352 
+snd_stormrifle 2176 1 353 
+snd_flame_fire 1664 1 354 
+snd_concussion_fire 1664 1 355 
+snd_rocket_fire 2176 1 356 
+snd_throw_lightsaber 2176 1 357 
+snd_force_push 2176 1 358 
+snd_force_lightning 2176 2 359 360 
 snd_ship_noise 272 0 
-snd_bacta_injector 2176 1 362 
-snd_bacta_heal 2144 1 363 
-snd_speeder_noise_idle 2448 1 364 
-snd_speeder_noise_begin 2448 1 365 
-snd_speeder_noise_moving 2400 1 366 
-snd_speeder_noise_loop 2451 1 367 
-snd_gonk_noise 2128 4 368 369 370 371 
-snd_viper_cannon_impact 1536 1 372 
-snd_viper_cannon 2560 1 344 
-snd_cylon_cannon 2560 1 373 
-snd_viper_cannon_far 256 1 374 
-snd_cylon_cannon_far 512 1 373 
-snd_viper_engine_hum 2560 1 375 
-snd_viper_engine_loop 2048 1 376 
-snd_fighter_explode 2560 3 377 378 379 
-snd_cannon_hit 512 1 380 
-snd_subspace 1537 2 381 382 
-snd_loud_explosion 2560 3 377 378 379 
-snd_jawa_die 2688 3 383 384 385 
-snd_jawa_grunt 2144 6 386 387 388 389 390 391 
-snd_jawa_grunt_long 2128 7 392 393 394 395 389 390 391 
-snd_jawa_hit 2672 5 396 397 398 399 400 
-snd_jawa_victory 2640 6 401 402 403 389 390 391 
-snd_jawa_yell 2656 6 393 394 395 389 390 391 
-snd_droid_die 2688 3 404 405 406 
-snd_droid_grunt 2144 3 407 408 409 
-snd_droid_grunt_long 2128 3 407 408 409 
-snd_droid_hit 2672 3 404 405 406 
-snd_droid_victory 2640 3 407 408 409 
-snd_droid_yell 2656 3 407 408 409 
-snd_battledroid_die 2688 3 410 411 412 
-snd_battledroid_grunt 2144 3 413 414 415 
-snd_battledroid_grunt_long 2128 3 413 414 415 
-snd_battledroid_hit 2672 3 410 411 412 
-snd_battledroid_victory 2640 3 413 414 415 
-snd_battledroid_yell 2656 3 416 414 415 
-snd_tusken_die 2688 4 417 418 419 420 
-snd_tusken_grunt 2144 5 421 422 423 424 425 
-snd_tusken_grunt_long 2128 6 426 427 428 429 430 431 
-snd_tusken_hit 2672 4 432 433 434 427 
-snd_tusken_victory 2640 4 435 436 428 430 
-snd_tusken_yell 2656 5 437 438 439 440 441 
-snd_trandoshan_die 2688 6 442 443 444 445 446 447 
-snd_trandoshan_grunt 2144 5 448 449 450 451 452 
-snd_trandoshan_grunt_long 2128 5 453 454 455 456 457 
-snd_trandoshan_hit 2672 5 458 459 460 461 462 
-snd_trandoshan_victory 2640 8 463 464 465 466 467 468 469 470 
-snd_trandoshan_yell 2656 5 471 472 473 466 467 
-snd_wookiee_die 2688 4 474 475 476 477 
-snd_wookiee_grunt 2144 5 478 479 480 481 482 
-snd_wookiee_grunt_long 2128 4 483 478 479 480 
-snd_wookiee_hit 2672 6 484 485 486 487 481 482 
-snd_wookiee_victory 2640 4 488 489 490 491 
-snd_wookiee_yell 2656 5 488 489 490 491 483 
-snd_gamorrean_die 2688 4 492 493 494 495 
-snd_gamorrean_grunt 2144 4 496 497 498 499 
-snd_gamorrean_grunt_long 2128 4 496 497 498 499 
-snd_gamorrean_hit 2672 6 500 501 502 503 504 505 
-snd_gamorrean_victory 2640 5 506 499 496 497 498 
-snd_gamorrean_yell 2656 5 499 506 496 497 498 
-snd_rodian_die 2688 6 507 508 509 510 511 512 
-snd_rodian_grunt 2144 6 513 514 515 516 517 518 
-snd_rodian_grunt_long 2128 5 519 520 521 522 518 
-snd_rodian_hit 2672 7 523 524 525 526 513 514 515 
-snd_rodian_victory 2640 6 527 528 529 530 531 532 
-snd_rodian_yell 2656 6 533 534 535 530 531 532 
-snd_geonosian_die 2688 1 536 
-snd_geonosian_grunt 2144 4 537 538 539 540 
-snd_geonosian_grunt_long 2128 4 537 538 539 540 
-snd_geonosian_hit 2672 4 537 538 539 540 
-snd_geonosian_victory 2640 4 537 538 539 540 
-snd_geonosian_yell 2656 4 537 538 539 540 
-snd_sullustan_victory 2640 4 541 542 543 544 
-snd_sullustan_yell 2656 4 545 546 547 548 
-snd_twilek_female_victory 2640 4 549 550 551 551 
-snd_twilek_female_yell 2656 3 550 551 551 
-snd_lightsaber_swing 1696 6 552 553 554 555 556 557 
-snd_deflector_shield 850 1 558 
-snd_deflector_shield_hit 2576 1 559 
-snd_e5 1616 1 560 
-snd_dh17 1616 1 561 
-snd_westar 1616 1 562 
-snd_vader_breath 1554 1 563 
-snd_swc_hangar_siren 1074 1 564 
-snd_swc_hangar_hutt 2577 1 565 
-snd_swc_hangar_imperial 2577 1 566 
-snd_swc_hangar_mandalorian 2577 1 567 
-snd_swc_hangar_neutral 2577 1 568 
-snd_swc_hangar_rebel 2577 1 569 
-snd_swc_hangar_sith 2577 1 570 
-snd_swc_hangar_wookie 2577 1 571 
-snd_swc_hangar_clones 2577 1 572 
-snd_swc_hangar_trandoshan 2577 1 573 
-snd_swc_neutral_death 2577 3 574 575 576 
-snd_swc_neutral_deployed 2577 3 577 578 579 
-snd_swc_neutral_victory 2577 2 580 581 
-snd_swc_neutral_fired 2577 2 582 583 
-snd_swc_neutral_player25 2577 2 584 585 
-snd_swc_neutral_player50 2577 2 586 587 
-snd_swc_neutral_enemy25 2577 1 588 
-snd_swc_neutral_enemy50 2577 3 589 590 591 
-snd_swc_empire_death 2577 3 592 593 594 
-snd_swc_empire_deployed 2577 4 595 596 597 598 
-snd_swc_empire_victory 2577 3 599 600 601 
-snd_swc_empire_fired 2577 1 602 
-snd_swc_empire_player25 2577 3 603 604 605 
-snd_swc_empire_player50 2577 2 606 607 
-snd_swc_empire_enemy25 2577 1 608 
-snd_swc_empire_enemy50 2577 3 609 610 611 
-snd_swc_rebel_death 2577 3 612 613 614 
-snd_swc_rebel_deployed 2577 3 615 616 617 
-snd_swc_rebel_victory 2577 3 618 619 620 
-snd_swc_rebel_fired 2577 2 621 622 
-snd_swc_rebel_player25 2577 2 623 624 
-snd_swc_rebel_player50 2577 2 625 626 
-snd_swc_rebel_enemy25 2577 1 627 
-snd_swc_rebel_enemy50 2577 3 628 629 630 
-snd_swc_hutt_death 2577 3 631 632 633 
-snd_swc_hutt_deployed 2577 3 634 635 636 
-snd_swc_hutt_victory 2577 3 637 638 639 
-snd_swc_hutt_fired 2577 2 640 641 
-snd_swc_hutt_player25 2577 2 642 643 
-snd_swc_hutt_player50 2577 2 644 645 
-snd_swc_hutt_enemy25 2577 2 646 647 
-snd_swc_hutt_enemy50 2577 1 648 
+snd_bacta_injector 2176 1 361 
+snd_bacta_heal 2144 1 362 
+snd_speeder_noise_idle 2448 1 363 
+snd_speeder_noise_begin 2448 1 364 
+snd_speeder_noise_moving 2400 1 365 
+snd_speeder_noise_loop 2451 1 366 
+snd_gonk_noise 2128 4 367 368 369 370 
+snd_viper_cannon_impact 1536 1 3 
+snd_viper_cannon 2560 1 343 
+snd_cylon_cannon 2560 1 371 
+snd_viper_cannon_far 256 1 372 
+snd_cylon_cannon_far 512 1 371 
+snd_viper_engine_hum 2560 1 373 
+snd_viper_engine_loop 2048 1 374 
+snd_fighter_explode 2560 3 375 376 377 
+snd_cannon_hit 512 1 378 
+snd_subspace 1537 2 379 380 
+snd_loud_explosion 2560 3 375 376 377 
+snd_jawa_die 2688 3 381 382 383 
+snd_jawa_grunt 2144 6 384 385 386 387 388 389 
+snd_jawa_grunt_long 2128 7 390 391 392 393 387 388 389 
+snd_jawa_hit 2672 5 394 395 396 397 398 
+snd_jawa_victory 2640 6 399 400 401 387 388 389 
+snd_jawa_yell 2656 6 391 392 393 387 388 389 
+snd_droid_die 2688 3 402 403 404 
+snd_droid_grunt 2144 3 405 406 407 
+snd_droid_grunt_long 2128 3 405 406 407 
+snd_droid_hit 2672 3 402 403 404 
+snd_droid_victory 2640 3 405 406 407 
+snd_droid_yell 2656 3 405 406 407 
+snd_battledroid_die 2688 3 408 409 410 
+snd_battledroid_grunt 2144 3 411 412 413 
+snd_battledroid_grunt_long 2128 3 411 412 413 
+snd_battledroid_hit 2672 3 408 409 410 
+snd_battledroid_victory 2640 3 411 412 413 
+snd_battledroid_yell 2656 3 414 412 413 
+snd_tusken_die 2688 4 415 416 417 418 
+snd_tusken_grunt 2144 5 419 420 421 422 423 
+snd_tusken_grunt_long 2128 6 424 425 426 427 428 429 
+snd_tusken_hit 2672 4 430 431 432 425 
+snd_tusken_victory 2640 4 433 434 426 428 
+snd_tusken_yell 2656 5 435 436 437 438 439 
+snd_trandoshan_die 2688 6 440 441 442 443 444 445 
+snd_trandoshan_grunt 2144 5 446 447 448 449 450 
+snd_trandoshan_grunt_long 2128 5 451 452 453 454 455 
+snd_trandoshan_hit 2672 5 456 457 458 459 460 
+snd_trandoshan_victory 2640 8 461 462 463 464 465 466 467 468 
+snd_trandoshan_yell 2656 5 469 470 471 464 465 
+snd_wookiee_die 2688 4 472 473 474 475 
+snd_wookiee_grunt 2144 5 476 477 478 479 480 
+snd_wookiee_grunt_long 2128 4 481 476 477 478 
+snd_wookiee_hit 2672 6 482 483 484 485 479 480 
+snd_wookiee_victory 2640 4 486 487 488 489 
+snd_wookiee_yell 2656 5 486 487 488 489 481 
+snd_gamorrean_die 2688 4 490 491 492 493 
+snd_gamorrean_grunt 2144 4 494 495 496 497 
+snd_gamorrean_grunt_long 2128 4 494 495 496 497 
+snd_gamorrean_hit 2672 6 498 499 500 501 502 503 
+snd_gamorrean_victory 2640 5 504 497 494 495 496 
+snd_gamorrean_yell 2656 5 497 504 494 495 496 
+snd_rodian_die 2688 6 505 506 507 508 509 510 
+snd_rodian_grunt 2144 6 511 512 513 514 515 516 
+snd_rodian_grunt_long 2128 5 517 518 519 520 516 
+snd_rodian_hit 2672 7 521 522 523 524 511 512 513 
+snd_rodian_victory 2640 6 525 526 527 528 529 530 
+snd_rodian_yell 2656 6 531 532 533 528 529 530 
+snd_geonosian_die 2688 1 534 
+snd_geonosian_grunt 2144 4 535 536 537 538 
+snd_geonosian_grunt_long 2128 4 535 536 537 538 
+snd_geonosian_hit 2672 4 535 536 537 538 
+snd_geonosian_victory 2640 4 535 536 537 538 
+snd_geonosian_yell 2656 4 535 536 537 538 
+snd_sullustan_victory 2640 4 539 540 541 542 
+snd_sullustan_yell 2656 4 543 544 545 546 
+snd_twilek_female_victory 2640 4 547 548 549 549 
+snd_twilek_female_yell 2656 3 548 549 549 
+snd_lightsaber_swing 1696 6 550 551 552 553 554 555 
+snd_deflector_shield 850 1 556 
+snd_deflector_shield_hit 2576 1 557 
+snd_e5 1616 1 558 
+snd_dh17 1616 1 559 
+snd_westar 1616 1 560 
+snd_vader_breath 1554 1 561 
+snd_swc_hangar_siren 1074 1 562 
+snd_swc_hangar_hutt 2577 1 563 
+snd_swc_hangar_imperial 2577 1 564 
+snd_swc_hangar_mandalorian 2577 1 565 
+snd_swc_hangar_neutral 2577 1 566 
+snd_swc_hangar_rebel 2577 1 567 
+snd_swc_hangar_sith 2577 1 568 
+snd_swc_hangar_wookie 2577 1 569 
+snd_swc_hangar_clones 2577 1 570 
+snd_swc_hangar_trandoshan 2577 1 571 
+snd_swc_neutral_death 2577 3 572 573 574 
+snd_swc_neutral_deployed 2577 3 575 576 577 
+snd_swc_neutral_victory 2577 2 578 579 
+snd_swc_neutral_fired 2577 2 580 581 
+snd_swc_neutral_player25 2577 2 582 583 
+snd_swc_neutral_player50 2577 2 584 585 
+snd_swc_neutral_enemy25 2577 1 586 
+snd_swc_neutral_enemy50 2577 3 587 588 589 
+snd_swc_empire_death 2577 3 590 591 592 
+snd_swc_empire_deployed 2577 4 593 594 595 596 
+snd_swc_empire_victory 2577 3 597 598 599 
+snd_swc_empire_fired 2577 1 600 
+snd_swc_empire_player25 2577 3 601 602 603 
+snd_swc_empire_player50 2577 2 604 605 
+snd_swc_empire_enemy25 2577 1 606 
+snd_swc_empire_enemy50 2577 3 607 608 609 
+snd_swc_rebel_death 2577 3 610 611 612 
+snd_swc_rebel_deployed 2577 3 613 614 615 
+snd_swc_rebel_victory 2577 3 616 617 618 
+snd_swc_rebel_fired 2577 2 619 620 
+snd_swc_rebel_player25 2577 2 621 622 
+snd_swc_rebel_player50 2577 2 623 624 
+snd_swc_rebel_enemy25 2577 1 625 
+snd_swc_rebel_enemy50 2577 3 626 627 628 
+snd_swc_hutt_death 2577 3 629 630 631 
+snd_swc_hutt_deployed 2577 3 632 633 634 
+snd_swc_hutt_victory 2577 3 635 636 637 
+snd_swc_hutt_fired 2577 2 638 639 
+snd_swc_hutt_player25 2577 2 640 641 
+snd_swc_hutt_player50 2577 2 642 643 
+snd_swc_hutt_enemy25 2577 2 644 645 
+snd_swc_hutt_enemy50 2577 1 646 
