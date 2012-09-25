@@ -619,7 +619,7 @@ itemsfile version 2
  itm_imperial_royal_guard_gloves Imperial_Royal_Guard_Gloves Imperial_Royal_Guard_Gloves 1  imperial_royal_guard_glove_L 0  536936463 0 28 123731968 0.25 40 0 3 0 0 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_gloves Imperial_Stormtrooper_Gloves Imperial_Stormtrooper_Gloves 1  stormtrooper_glove_L 0  536936463 0 28 123731968 0.25 80 0 3 0 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_gloves Imperial_Stormtrooper_Gloves Imperial_Stormtrooper_Gloves 1  stormie_glov_L 0  536936463 0 28 123731968 0.25 80 0 3 0 0 0 0 0 0 0 0 0
 0
 
  itm_shadow_stormtrooper_gloves Shadow_Stormtrooper_Gloves Shadow_Stormtrooper_Gloves 1  shadow_stormtrooper_glove_L 0  536936463 0 28 123731968 0.25 40 0 3 0 0 0 0 0 0 0 0 0
