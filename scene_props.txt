@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1565
+ 1566
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4739,6 +4739,9 @@ spr_moncal_flora_bed_1 0 0 moncal_flora_bed_1 bo_moncal_flora_bed_1 0
 
 
 spr_moncal_flora_bed_2 0 0 moncal_flora_bed_2 bo_moncal_flora_bed_2 0
+
+
+spr_moncal_center 0 0 moncal_center bo_moncal_center 0
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0
