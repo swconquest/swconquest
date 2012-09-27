@@ -1809,127 +1809,127 @@ itemsfile version 2
  itm_armors_end <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_lightsaber_green_arena Lightsaber Lightsaber 2  lightsaber_green 0  lightsaber_greenoff 3458764513820540928  71700483 9223635920677241343 1500 0 0.5 100 0 0 0 0 51200 120 0 115 0 547 562
+ itm_lightsaber_green_arena Lightsaber Lightsaber 2  lightsaber_green 0  lightsaber_greenoff 3458764513820540928  71700483 9223635920677241343 2550 0 0.5 100 0 0 0 0 51200 120 0 115 0 547 562
 0
 
- itm_lightsaber_blue_arena Lightsaber Lightsaber 2  lightsaber_blue 0  lightsaber_blueoff 3458764513820540928  71700483 9223635920677241343 1500 0 0.5 100 0 0 0 0 51200 120 0 115 0 547 562
+ itm_lightsaber_blue_arena Lightsaber Lightsaber 2  lightsaber_blue 0  lightsaber_blueoff 3458764513820540928  71700483 9223635920677241343 2550 0 0.5 100 0 0 0 0 51200 120 0 115 0 547 562
 0
 
- itm_lightsaber_yellow_arena Lightsaber Lightsaber 2  lightsaber_yellow 0  lightsaber_yellowoff 3458764513820540928  71700483 9223635920677241343 1500 0 0.5 100 0 0 0 0 51200 120 0 115 0 547 562
+ itm_lightsaber_yellow_arena Lightsaber Lightsaber 2  lightsaber_yellow 0  lightsaber_yellowoff 3458764513820540928  71700483 9223635920677241343 2550 0 0.5 100 0 0 0 0 51200 120 0 115 0 547 562
 0
 
- itm_lightsaber_red_arena Lightsaber Lightsaber 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71700483 9223635920677241343 1500 0 0.5 100 0 0 0 0 51200 120 0 115 0 547 562
+ itm_lightsaber_red_arena Lightsaber Lightsaber 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71700483 9223635920677241343 2550 0 0.5 100 0 0 0 0 51200 120 0 115 0 547 562
 0
 
  itm_weapons_begin <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_lightsaber_green Lightsaber Lightsaber 2  lightsaber_green 0  lightsaber_greenoff 3458764513820540928  71761923 9223635920677241343 907 286740 0.5 30 0 0 0 12 11264 120 0 115 0 331 331
+ itm_lightsaber_green Lightsaber Lightsaber 2  lightsaber_green 0  lightsaber_greenoff 3458764513820540928  71761923 9223635920677241343 1537 286740 0.5 30 0 0 0 12 11264 120 0 115 0 331 331
 0
 
- itm_lightsaber_blue Lightsaber Lightsaber 2  lightsaber_blue 0  lightsaber_blueoff 3458764513820540928  71761923 9223635920677241343 907 286740 0.5 30 0 0 0 12 11264 120 0 115 0 331 331
+ itm_lightsaber_blue Lightsaber Lightsaber 2  lightsaber_blue 0  lightsaber_blueoff 3458764513820540928  71761923 9223635920677241343 1537 286740 0.5 30 0 0 0 12 11264 120 0 115 0 331 331
 0
 
- itm_lightsaber_orange Lightsaber Lightsaber 2  lightsaber_orange 0  lightsaber_orangeoff 3458764513820540928  71761923 9223635920677241343 907 286740 0.5 10 0 0 0 12 11264 120 0 115 0 331 331
+ itm_lightsaber_orange Lightsaber Lightsaber 2  lightsaber_orange 0  lightsaber_orangeoff 3458764513820540928  71761923 9223635920677241343 1537 286740 0.5 10 0 0 0 12 11264 120 0 115 0 331 331
 0
 
- itm_lightsaber_purple Lightsaber Lightsaber 2  lightsaber_purple 0  lightsaber_purpleoff 3458764513820540928  71761923 9223635920677241343 907 286740 0.5 20 0 0 0 12 11264 120 0 115 0 331 331
+ itm_lightsaber_purple Lightsaber Lightsaber 2  lightsaber_purple 0  lightsaber_purpleoff 3458764513820540928  71761923 9223635920677241343 1537 286740 0.5 20 0 0 0 12 11264 120 0 115 0 331 331
 0
 
- itm_lightsaber_yellow Lightsaber Lightsaber 2  lightsaber_yellow 0  lightsaber_yellowoff 3458764513820540928  71761923 9223635920677241343 907 286740 0.5 10 0 0 0 12 11264 120 0 115 0 331 331
+ itm_lightsaber_yellow Lightsaber Lightsaber 2  lightsaber_yellow 0  lightsaber_yellowoff 3458764513820540928  71761923 9223635920677241343 1537 286740 0.5 10 0 0 0 12 11264 120 0 115 0 331 331
 0
 
- itm_lightsaber_red Lightsaber Lightsaber 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71761923 9223635920677241343 907 286740 0.5 30 0 0 0 12 11264 120 0 115 0 331 331
+ itm_lightsaber_red Lightsaber Lightsaber 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71761923 9223635920677241343 1537 286740 0.5 30 0 0 0 12 11264 120 0 115 0 331 331
 0
 
- itm_lightsaber_green_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_green_reverse 0  lightsaber_greenoff 3458764513820540928  71761924 9223388530560991247 1059 286740 0.5 15 0 0 0 14 11264 135 0 130 0 331 331
+ itm_lightsaber_green_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_green_reverse 0  lightsaber_greenoff 3458764513820540928  71761924 9223388530560991247 1789 286740 0.5 15 0 0 0 14 11264 135 0 130 0 331 331
 0
 
- itm_lightsaber_blue_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_blue_reverse 0  lightsaber_blueoff 3458764513820540928  71761924 9223388530560991247 1059 286740 0.5 15 0 0 0 14 11264 135 0 130 0 331 331
+ itm_lightsaber_blue_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_blue_reverse 0  lightsaber_blueoff 3458764513820540928  71761924 9223388530560991247 1789 286740 0.5 15 0 0 0 14 11264 135 0 130 0 331 331
 0
 
- itm_lightsaber_orange_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_orange_reverse 0  lightsaber_orangeoff 3458764513820540928  71761924 9223388530560991247 1059 286740 0.5 5 0 0 0 14 11264 135 0 130 0 331 331
+ itm_lightsaber_orange_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_orange_reverse 0  lightsaber_orangeoff 3458764513820540928  71761924 9223388530560991247 1789 286740 0.5 5 0 0 0 14 11264 135 0 130 0 331 331
 0
 
- itm_lightsaber_purple_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_purple_reverse 0  lightsaber_purpleoff 3458764513820540928  71761924 9223388530560991247 1059 286740 0.5 5 0 0 0 14 11264 135 0 130 0 331 331
+ itm_lightsaber_purple_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_purple_reverse 0  lightsaber_purpleoff 3458764513820540928  71761924 9223388530560991247 1789 286740 0.5 5 0 0 0 14 11264 135 0 130 0 331 331
 0
 
- itm_lightsaber_yellow_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_yellow_reverse 0  lightsaber_yellowoff 3458764513820540928  71761924 9223388530560991247 1059 286740 0.5 5 0 0 0 14 11264 135 0 130 0 331 331
+ itm_lightsaber_yellow_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_yellow_reverse 0  lightsaber_yellowoff 3458764513820540928  71761924 9223388530560991247 1789 286740 0.5 5 0 0 0 14 11264 135 0 130 0 331 331
 0
 
- itm_lightsaber_red_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_red_reverse 0  lightsaber_redoff 3458764513820540928  71761924 9223388530560991247 1059 286740 0.5 15 0 0 0 14 11264 135 0 130 0 331 331
+ itm_lightsaber_red_reverse Reverse_Grip_Lightsaber Reverse_Grip_Lightsaber 2  lightsaber_red_reverse 0  lightsaber_redoff 3458764513820540928  71761924 9223388530560991247 1789 286740 0.5 15 0 0 0 14 11264 135 0 130 0 331 331
 0
 
- itm_lightsaber_blue_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_blue_double 0  lightsaber_blue_doubleoff 3458764513820540928  73891844 4222129415393024 1319 286740 0.75 15 0 0 0 14 11264 150 0 170 0 331 331
+ itm_lightsaber_blue_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_blue_double 0  lightsaber_blue_doubleoff 3458764513820540928  73891844 4222129415393024 2229 286740 0.75 15 0 0 0 14 11264 150 0 170 0 331 331
 0
 
- itm_lightsaber_green_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_green_double 0  lightsaber_green_doubleoff 3458764513820540928  73891844 4222125657296640 1319 286740 0.75 15 0 0 0 14 11264 150 0 170 0 331 331
+ itm_lightsaber_green_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_green_double 0  lightsaber_green_doubleoff 3458764513820540928  73891844 4222125657296640 2229 286740 0.75 15 0 0 0 14 11264 150 0 170 0 331 331
 0
 
- itm_lightsaber_orange_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_orange_double 0  lightsaber_orange_doubleoff_separate 3458764513820540928  73891844 4222125657296640 1319 286740 0.75 5 0 0 0 14 11264 150 0 170 0 331 331
+ itm_lightsaber_orange_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_orange_double 0  lightsaber_orange_doubleoff_separate 3458764513820540928  73891844 4222125657296640 2229 286740 0.75 5 0 0 0 14 11264 150 0 170 0 331 331
 0
 
- itm_lightsaber_purple_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_purple_double 0  lightsaber_purple_doubleoff 3458764513820540928  73891844 4222125657296640 1319 286740 0.75 10 0 0 0 14 11264 150 0 170 0 331 331
+ itm_lightsaber_purple_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_purple_double 0  lightsaber_purple_doubleoff 3458764513820540928  73891844 4222125657296640 2229 286740 0.75 10 0 0 0 14 11264 150 0 170 0 331 331
 0
 
- itm_lightsaber_red_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_red_double 0  lightsaber_red_doubleoff 3458764513820540928  73891844 4222125657296640 1319 286740 0.75 20 0 0 0 14 11264 150 0 170 0 331 331
+ itm_lightsaber_red_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_red_double 0  lightsaber_red_doubleoff 3458764513820540928  73891844 4222125657296640 2229 286740 0.75 20 0 0 0 14 11264 150 0 170 0 331 331
 0
 
- itm_lightsaber_yellow_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_yellow_double 0  lightsaber_yellow_doubleoff_separate 3458764513820540928  73891844 4222125657296640 1319 286740 0.75 5 0 0 0 14 11264 150 0 170 0 331 331
+ itm_lightsaber_yellow_double Double-Bladed_Lightsaber Double-Bladed_Lightsaber 2  lightsaber_yellow_double 0  lightsaber_yellow_doubleoff_separate 3458764513820540928  73891844 4222125657296640 2229 286740 0.75 5 0 0 0 14 11264 150 0 170 0 331 331
 0
 
- itm_lightsaber_green_2h Two_Handed_Lightsaber Two_Handed_Lightsaber 2  lightsaber_green_2h 0  lightsaber_green_2hoff 3458764513820540928  73859075 9223635920677241328 1197 286740 0.5 15 0 0 0 12 26624 135 0 130 0 346 346
+ itm_lightsaber_green_2h Two_Handed_Lightsaber Two_Handed_Lightsaber 2  lightsaber_green_2h 0  lightsaber_green_2hoff 3458764513820540928  73859075 9223635920677241328 2037 286740 0.5 15 0 0 0 12 26624 135 0 130 0 346 346
 0
 
- itm_lightsaber_blue_2h Two_Handed_Lightsaber Two_Handed_Lightsaber 2  lightsaber_blue_2h 0  lightsaber_blue_2hoff 3458764513820540928  73859075 9223635920677241328 1197 286740 0.5 15 0 0 0 12 26624 135 0 130 0 346 346
+ itm_lightsaber_blue_2h Two_Handed_Lightsaber Two_Handed_Lightsaber 2  lightsaber_blue_2h 0  lightsaber_blue_2hoff 3458764513820540928  73859075 9223635920677241328 2037 286740 0.5 15 0 0 0 12 26624 135 0 130 0 346 346
 0
 
- itm_lightsaber_orange_2h Two_Handed_Lightsaber Two_Handed_Lightsaber 2  lightsaber_orange_2h 0  lightsaber_orange_2hoff 3458764513820540928  73859075 9223635920677241328 1197 286740 0.5 5 0 0 0 12 26624 135 0 130 0 346 346
+ itm_lightsaber_orange_2h Two_Handed_Lightsaber Two_Handed_Lightsaber 2  lightsaber_orange_2h 0  lightsaber_orange_2hoff 3458764513820540928  73859075 9223635920677241328 2037 286740 0.5 5 0 0 0 12 26624 135 0 130 0 346 346
 0
 
- itm_lightsaber_purple_2h Two_Handed_Lightsaber Two_Handed_Lightsaber 2  lightsaber_purple_2h 0  lightsaber_purple_2hoff 3458764513820540928  73859075 9223635920677241328 1197 286740 0.5 10 0 0 0 12 26624 135 0 130 0 346 346
+ itm_lightsaber_purple_2h Two_Handed_Lightsaber Two_Handed_Lightsaber 2  lightsaber_purple_2h 0  lightsaber_purple_2hoff 3458764513820540928  73859075 9223635920677241328 2037 286740 0.5 10 0 0 0 12 26624 135 0 130 0 346 346
 0
 
- itm_lightsaber_yellow_2h Two_Handed_Lightsaber Two_Handed_Lightsaber 2  lightsaber_yellow_2h 0  lightsaber_yellow_2hoff 3458764513820540928  73859075 9223635920677241328 1197 286740 0.5 5 0 0 0 12 26624 135 0 130 0 346 346
+ itm_lightsaber_yellow_2h Two_Handed_Lightsaber Two_Handed_Lightsaber 2  lightsaber_yellow_2h 0  lightsaber_yellow_2hoff 3458764513820540928  73859075 9223635920677241328 2037 286740 0.5 5 0 0 0 12 26624 135 0 130 0 346 346
 0
 
- itm_lightsaber_red_2h Two_Handed_Lightsaber Two_Handed_Lightsaber 2  lightsaber_red_2h 0  lightsaber_red_2hoff 3458764513820540928  73859075 9223635920677241328 1197 286740 0.5 20 0 0 0 12 26624 135 0 130 0 346 346
+ itm_lightsaber_red_2h Two_Handed_Lightsaber Two_Handed_Lightsaber 2  lightsaber_red_2h 0  lightsaber_red_2hoff 3458764513820540928  73859075 9223635920677241328 2037 286740 0.5 20 0 0 0 12 26624 135 0 130 0 346 346
 0
 
- itm_lightsaber_green_1h One_Handed_Lightsaber One_Handed_Lightsaber 2  lightsaber_green_1h 0  lightsaber_green_1hoff 3458764513820540928  71761922 9223388530560991247 605 286740 0.25 15 0 0 0 10 61440 105 0 100 0 316 316
+ itm_lightsaber_green_1h One_Handed_Lightsaber One_Handed_Lightsaber 2  lightsaber_green_1h 0  lightsaber_green_1hoff 3458764513820540928  71761922 9223388530560991247 1025 286740 0.25 15 0 0 0 10 61440 105 0 100 0 316 316
 0
 
- itm_lightsaber_blue_1h One_Handed_Lightsaber One_Handed_Lightsaber 2  lightsaber_blue_1h 0  lightsaber_blue_1hoff 3458764513820540928  71761922 9223388530560991247 605 286740 0.25 15 0 0 0 10 61440 105 0 100 0 316 316
+ itm_lightsaber_blue_1h One_Handed_Lightsaber One_Handed_Lightsaber 2  lightsaber_blue_1h 0  lightsaber_blue_1hoff 3458764513820540928  71761922 9223388530560991247 1025 286740 0.25 15 0 0 0 10 61440 105 0 100 0 316 316
 0
 
- itm_lightsaber_orange_1h One_Handed_Lightsaber One_Handed_Lightsaber 2  lightsaber_orange_1h 0  lightsaber_orange_1hoff 3458764513820540928  71761922 9223388530560991247 605 286740 0.25 5 0 0 0 10 61440 105 0 100 0 316 316
+ itm_lightsaber_orange_1h One_Handed_Lightsaber One_Handed_Lightsaber 2  lightsaber_orange_1h 0  lightsaber_orange_1hoff 3458764513820540928  71761922 9223388530560991247 1025 286740 0.25 5 0 0 0 10 61440 105 0 100 0 316 316
 0
 
- itm_lightsaber_purple_1h One_Handed_Lightsaber One_Handed_Lightsaber 2  lightsaber_purple_1h 0  lightsaber_purple_1hoff 3458764513820540928  71761922 9223388530560991247 605 286740 0.25 10 0 0 0 10 61440 105 0 100 0 316 316
+ itm_lightsaber_purple_1h One_Handed_Lightsaber One_Handed_Lightsaber 2  lightsaber_purple_1h 0  lightsaber_purple_1hoff 3458764513820540928  71761922 9223388530560991247 1025 286740 0.25 10 0 0 0 10 61440 105 0 100 0 316 316
 0
 
- itm_lightsaber_yellow_1h One_Handed_Lightsaber One_Handed_Lightsaber 2  lightsaber_yellow_1h 0  lightsaber_yellow_1hoff 3458764513820540928  71761922 9223388530560991247 605 286740 0.25 5 0 0 0 10 61440 105 0 100 0 316 316
+ itm_lightsaber_yellow_1h One_Handed_Lightsaber One_Handed_Lightsaber 2  lightsaber_yellow_1h 0  lightsaber_yellow_1hoff 3458764513820540928  71761922 9223388530560991247 1025 286740 0.25 5 0 0 0 10 61440 105 0 100 0 316 316
 0
 
- itm_lightsaber_red_1h One_Handed_Lightsaber One_Handed_Lightsaber 2  lightsaber_red_1h 0  lightsaber_red_1hoff 3458764513820540928  71761922 9223388530560991247 605 286740 0.25 20 0 0 0 10 61440 105 0 100 0 316 316
+ itm_lightsaber_red_1h One_Handed_Lightsaber One_Handed_Lightsaber 2  lightsaber_red_1h 0  lightsaber_red_1hoff 3458764513820540928  71761922 9223388530560991247 1025 286740 0.25 20 0 0 0 10 61440 105 0 100 0 316 316
 0
 
- itm_lightsaber_green_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_green_pike 0  lightsaber_pike_off 3458764513820540928  138903556 4222131026005760 1045 286740 1 10 0 0 0 10 11264 120 0 150 0 331 331
+ itm_lightsaber_green_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_green_pike 0  lightsaber_pike_off 3458764513820540928  138903556 4222131026005760 1765 286740 1 10 0 0 0 10 11264 120 0 150 0 331 331
 0
 
- itm_lightsaber_blue_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_blue_pike 0  lightsaber_pike_off 3458764513820540928  138903556 4222131026005760 1045 286740 1 10 0 0 0 10 11264 120 0 150 0 331 331
+ itm_lightsaber_blue_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_blue_pike 0  lightsaber_pike_off 3458764513820540928  138903556 4222131026005760 1765 286740 1 10 0 0 0 10 11264 120 0 150 0 331 331
 0
 
- itm_lightsaber_orange_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_orange_pike 0  lightsaber_pike_off 3458764513820540928  138903556 4222131026005760 1045 286740 1 5 0 0 0 10 11264 120 0 150 0 331 331
+ itm_lightsaber_orange_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_orange_pike 0  lightsaber_pike_off 3458764513820540928  138903556 4222131026005760 1765 286740 1 5 0 0 0 10 11264 120 0 150 0 331 331
 0
 
- itm_lightsaber_purple_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_purple_pike 0  lightsaber_pike_off 3458764513820540928  138903556 4222131026005760 1045 286740 1 5 0 0 0 10 11264 120 0 150 0 331 331
+ itm_lightsaber_purple_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_purple_pike 0  lightsaber_pike_off 3458764513820540928  138903556 4222131026005760 1765 286740 1 5 0 0 0 10 11264 120 0 150 0 331 331
 0
 
- itm_lightsaber_yellow_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_yellow_pike 0  lightsaber_pike_off 3458764513820540928  138903556 4222131026005760 1045 286740 1 5 0 0 0 10 11264 120 0 150 0 331 331
+ itm_lightsaber_yellow_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_yellow_pike 0  lightsaber_pike_off 3458764513820540928  138903556 4222131026005760 1765 286740 1 5 0 0 0 10 11264 120 0 150 0 331 331
 0
 
- itm_lightsaber_red_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_red_pike 0  lightsaber_pike_off 3458764513820540928  138903556 4222131026005760 1045 286740 1 20 0 0 0 10 11264 120 0 150 0 331 331
+ itm_lightsaber_red_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_red_pike 0  lightsaber_pike_off 3458764513820540928  138903556 4222131026005760 1765 286740 1 20 0 0 0 10 11264 120 0 150 0 331 331
 0
 
  itm_darth_vader_lightsaber Darth_Vader's_Lightsaber Darth_Vader's_Lightsaber 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71696387 9223635920677241343 4009 0 2 100 0 0 0 14 36864 140 0 120 0 356 356
@@ -1944,7 +1944,7 @@ itemsfile version 2
  itm_anakin_skywalker_lightsaber Anakin_Skywalker's_Lightsaber Anakin_Skywalker's_Lightsaber 2  lightsaber_blue 0  lightsaber_blueoff 3458764513820540928  71696387 9223635920677241343 4009 0 2 100 0 0 0 14 62464 140 0 120 0 356 381
 0
 
- itm_lightsaber_red_multikill Multi-hit_Lightsaber_(in_development) Multi-hit_Lightsaber_(in_development) 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71700490 9223635920677241343 3000 0 0.5 100 0 0 0 0 11264 120 1 115 1 331 331
+ itm_lightsaber_red_multikill Multi-hit_Lightsaber_(in_development) Multi-hit_Lightsaber_(in_development) 2  lightsaber_red 0  lightsaber_redoff 3458764513820540928  71700490 9223635920677241343 5100 0 0.5 100 0 0 0 0 11264 120 1 115 1 331 331
 1
 -51  24 2133 2 1224979098644774912 99999 12 1 1224979098644774913 1702 1 1224979098644774913 1704 1 1224979098644774913 1709 2 2 1224979098644774913 710 3 1224979098644774914 1 2 2147483678 2 1224979098644774914 1224979098644774912 2133 2 1224979098644774915 1224979098644774913 2133 2 1224979098644774912 1224979098644774914 3 0 12 1 1224979098644774913 1702 1 1224979098644774913 2147485354 1 1224979098644774913 1710 2 2 1224979098644774913 2147484361 2 2 1 710 3 1224979098644774914 1 2 2147483678 2 1224979098644774914 275 1720 3 1224979098644774916 1224979098644774913 1 2136 3 1224979098644774917 10 50 2106 2 1224979098644774916 1224979098644774917 1721 3 1224979098644774913 1224979098644774916 1 1722 2 1224979098644774915 1224979098644774913 1750 2 1224979098644774913 118 3 0 
 
@@ -2693,82 +2693,6 @@ itemsfile version 2
 1
 -51  7 600 1 182 720 2 1 14 721 2 1 18 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
 
- itm_dh17 DH-17 DH-17 1  DH17 0  71368720 483452715008 550 270342 1 100 0 0 88 0 0 110 160 0 244 292 0
-1
--51  7 600 1 275 720 2 1 12 721 2 1 15 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_dh17_stun Stun_DH-17 Stun_DH-17 1  DH17 0  71368720 483452715008 550 270342 1 80 0 0 88 0 0 110 160 0 244 548 0
-1
--51  7 600 1 184 720 2 1 12 721 2 1 15 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_se14r SE-14R SE-14R 1  se_14r 0  71368720 483452715008 410 270342 2 100 0 0 88 0 0 110 160 0 16 292 0
-1
--51  7 600 1 180 720 2 1 12 721 2 1 15 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_dl44a DL-44 DL-44 1  DL44a 0  71368720 483452715008 750 270342 1.5 100 0 0 87 0 0 120 140 0 25 282 0
-1
--51  7 600 1 180 720 2 1 12 721 2 1 15 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_dl44a_stun Stun_DL-44 Stun_DL-44 1  DL44a 0  71368720 483452715008 750 270342 1.5 80 0 0 87 0 0 120 140 0 25 538 0
-1
--51  7 600 1 184 720 2 1 12 721 2 1 15 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_dl44b Modified_DL-44 Modified_DL-44 1  DL44b 0  71368720 483452715008 860 270342 1.5 70 0 0 89 0 0 140 160 0 25 288 0
-1
--51  7 600 1 180 720 2 1 4 721 2 1 5 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_q2 Q2 Q2 1  Q2 0  71368720 481036795904 300 270342 0.5 100 0 0 85 0 0 120 140 0 6 280 0
-1
--51  7 600 1 185 720 2 1 14 721 2 1 18 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_q2_stun Stun_Q2 Stun_Q2 1  Q2 0  71368720 483452715008 300 270342 0.5 80 0 0 85 0 0 120 140 0 6 536 0
-1
--51  7 600 1 184 720 2 1 14 721 2 1 18 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_elg3a ELG-3A ELG-3A 1  ELG_3A 0  71368720 483452715008 500 270342 0.5 80 0 0 88 0 0 125 150 0 100 285 0
-1
--51  7 600 1 185 720 2 1 14 721 2 1 18 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_elg3a_stun Stun_ELG-3A Stun_ELG-3A 1  ELG_3A 0  71368720 483452715008 500 270342 0.5 60 0 0 88 0 0 125 150 0 100 541 0
-1
--51  7 600 1 184 720 2 1 14 721 2 1 18 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_scout_trooper_pistol Scout_Trooper_Pistol Scout_Trooper_Pistol 1  scout_trooper_pistol 0  71368720 483452715008 590 270342 1.5 100 0 0 90 0 0 130 150 0 14 284 0
-1
--51  7 600 1 185 720 2 1 14 721 2 1 18 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_ddc_defender DDC_Defender DDC_Defender 1  DDC_defender 0  71368720 483452715008 340 270342 1 100 0 0 90 0 0 130 140 0 100 280 0
-1
--51  7 600 1 185 720 2 1 12 721 2 1 15 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_geonosian_sonic_pistol Geonosian_Sonic_Pistol Geonosian_Sonic_Pistol 1  geonosian_sonic_pistol 0  71368720 483452715008 770 270342 1.5 70 0 0 89 0 0 90 150 0 10 548 0
-1
--51  7 600 1 183 720 2 1 14 721 2 1 18 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_dl18 DL-18 DL-18 1  dl18 0  71368720 483452715008 500 270342 1 100 0 0 89 0 0 120 130 0 100 278 0
-1
--51  7 600 1 176 720 2 1 7 721 2 1 9 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_westar Westar-34 Westar-34 1  westar 0  71368720 483452715008 1300 270342 1.5 40 0 0 90 0 0 130 140 0 20 296 0
-1
--51  7 600 1 276 720 2 1 7 721 2 1 9 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_westar_stun Stun_Westar-34 Stun_Westar-34 1  westar 0  71368720 483452715008 1300 270342 1.5 40 0 0 90 0 0 130 140 0 20 552 0
-1
--51  7 600 1 276 720 2 1 17 721 2 1 9 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_ion_pistol Ion_Pistol Ion_Pistol 1  ion_pistol 0  71368720 483452715008 800 270342 3 70 0 0 85 0 0 60 120 0 15 548 0
-1
--51  7 600 1 182 720 2 1 14 721 2 1 18 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_trandoshan_supressor Trandoshan_Supressor Trandoshan_Supressor 1  trandoshan_supressor 0  71368720 482915844096 790 270342 1.5 70 0 0 90 0 0 110 150 0 10 544 0
-1
--51  7 600 1 184 720 2 1 10 721 2 1 14 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
- itm_wrist_blaster Wrist_Mounted_Blaster Wrist_Mounted_Blaster 2  0 0  wrist_blaster 1152921504606846976  71368720 481036795904 500 0 1.25 60 0 0 90 0 0 105 135 0 24 291 0
-1
--51  7 600 1 176 720 2 1 0 721 2 1 0 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
-
  itm_heavy_repeater Imperial_Heavy_Repeater Imperial_Heavy_Repeater 3  HeavyRepeater 0  HeavyRepeater_inv 1152921504606846976  HeavyRepeater_carried 3458764513820540928  73465865 483184082944 1500 270342 4.5 100 0 0 94 0 0 120 169 0 144 292 0
 1
 -51  7 600 1 186 720 2 1 30 721 2 1 30 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
@@ -2776,6 +2700,82 @@ itemsfile version 2
  itm_storm_rifle StormTrooper_Rifle StormTrooper_Rifle 2  uio0000_stormtrooperrifle 0  uio0000_stormtrooperrifle_inv 1152921504606846976  73465865 555929845760 870 270342 3.25 70 0 0 94 0 0 85 170 0 30 303 0
 1
 -51  7 600 1 187 720 2 1 6 721 2 1 8 720 2 1 -24 721 2 1 70 722 2 1 0 1969 3 79 1 1 
+
+ itm_dh17 DH-17 DH-17 1  DH17 0  71368720 483452715008 550 270342 1 100 0 0 88 0 0 110 160 0 244 292 0
+1
+-51  3 600 1 275 720 2 1 12 721 2 1 15 
+
+ itm_dh17_stun Stun_DH-17 Stun_DH-17 1  DH17 0  71368720 483452715008 550 270342 1 80 0 0 88 0 0 110 160 0 244 548 0
+1
+-51  3 600 1 184 720 2 1 12 721 2 1 15 
+
+ itm_se14r SE-14R SE-14R 1  se_14r 0  71368720 483452715008 410 270342 2 100 0 0 88 0 0 110 160 0 16 292 0
+1
+-51  3 600 1 180 720 2 1 12 721 2 1 15 
+
+ itm_dl44a DL-44 DL-44 1  DL44a 0  71368720 483452715008 750 270342 1.5 100 0 0 87 0 0 120 140 0 25 282 0
+1
+-51  3 600 1 180 720 2 1 12 721 2 1 15 
+
+ itm_dl44a_stun Stun_DL-44 Stun_DL-44 1  DL44a 0  71368720 483452715008 750 270342 1.5 80 0 0 87 0 0 120 140 0 25 538 0
+1
+-51  3 600 1 184 720 2 1 12 721 2 1 15 
+
+ itm_dl44b Modified_DL-44 Modified_DL-44 1  DL44b 0  71368720 483452715008 860 270342 1.5 70 0 0 89 0 0 140 160 0 25 288 0
+1
+-51  3 600 1 180 720 2 1 4 721 2 1 5 
+
+ itm_q2 Q2 Q2 1  Q2 0  71368720 481036795904 300 270342 0.5 100 0 0 85 0 0 120 140 0 6 280 0
+1
+-51  3 600 1 185 720 2 1 14 721 2 1 18 
+
+ itm_q2_stun Stun_Q2 Stun_Q2 1  Q2 0  71368720 483452715008 300 270342 0.5 80 0 0 85 0 0 120 140 0 6 536 0
+1
+-51  3 600 1 184 720 2 1 14 721 2 1 18 
+
+ itm_elg3a ELG-3A ELG-3A 1  ELG_3A 0  71368720 483452715008 500 270342 0.5 80 0 0 88 0 0 125 150 0 100 285 0
+1
+-51  3 600 1 185 720 2 1 14 721 2 1 18 
+
+ itm_elg3a_stun Stun_ELG-3A Stun_ELG-3A 1  ELG_3A 0  71368720 483452715008 500 270342 0.5 60 0 0 88 0 0 125 150 0 100 541 0
+1
+-51  3 600 1 184 720 2 1 14 721 2 1 18 
+
+ itm_scout_trooper_pistol Scout_Trooper_Pistol Scout_Trooper_Pistol 1  scout_trooper_pistol 0  71368720 483452715008 590 270342 1.5 100 0 0 90 0 0 130 150 0 14 284 0
+1
+-51  3 600 1 185 720 2 1 14 721 2 1 18 
+
+ itm_ddc_defender DDC_Defender DDC_Defender 1  DDC_defender 0  71368720 483452715008 340 270342 1 100 0 0 90 0 0 130 140 0 100 280 0
+1
+-51  3 600 1 185 720 2 1 12 721 2 1 15 
+
+ itm_geonosian_sonic_pistol Geonosian_Sonic_Pistol Geonosian_Sonic_Pistol 1  geonosian_sonic_pistol 0  71368720 483452715008 770 270342 1.5 70 0 0 89 0 0 90 150 0 10 548 0
+1
+-51  3 600 1 183 720 2 1 14 721 2 1 18 
+
+ itm_dl18 DL-18 DL-18 1  dl18 0  71368720 483452715008 500 270342 1 100 0 0 89 0 0 120 130 0 100 278 0
+1
+-51  3 600 1 176 720 2 1 7 721 2 1 9 
+
+ itm_westar Westar-34 Westar-34 1  westar 0  71368720 483452715008 1300 270342 1.5 40 0 0 90 0 0 130 140 0 20 296 0
+1
+-51  3 600 1 276 720 2 1 7 721 2 1 9 
+
+ itm_westar_stun Stun_Westar-34 Stun_Westar-34 1  westar 0  71368720 483452715008 1300 270342 1.5 40 0 0 90 0 0 130 140 0 20 552 0
+1
+-51  3 600 1 276 720 2 1 17 721 2 1 9 
+
+ itm_ion_pistol Ion_Pistol Ion_Pistol 1  ion_pistol 0  71368720 483452715008 800 270342 3 70 0 0 85 0 0 60 120 0 15 548 0
+1
+-51  3 600 1 182 720 2 1 14 721 2 1 18 
+
+ itm_trandoshan_supressor Trandoshan_Supressor Trandoshan_Supressor 1  trandoshan_supressor 0  71368720 482915844096 790 270342 1.5 70 0 0 90 0 0 110 150 0 10 544 0
+1
+-51  3 600 1 184 720 2 1 10 721 2 1 14 
+
+ itm_wrist_blaster Wrist_Mounted_Blaster Wrist_Mounted_Blaster 2  0 0  wrist_blaster 1152921504606846976  71368720 481036795904 500 0 1.25 60 0 0 90 0 0 105 135 0 24 291 0
+1
+-51  3 600 1 176 720 2 1 0 721 2 1 0 
 
  itm_ranged_weapons_end <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
