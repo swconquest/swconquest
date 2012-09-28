@@ -8,19 +8,19 @@ scn_conversation_scene conversation_scene 0 dungeon_a bo_dungeon_a -100 -100 100
   0 
   0 
  0 
-scn_ship_hangar_imp ship_hangar_imp 1 hangar bo_hangar -100 -100 100 100 -100 0 
+scn_ship_hangar_imp ship_hangar_imp 1 none none -100 -100 100 100 -100 0 
   0 
   0 
  0 
-scn_ship_hangar_reb ship_hangar_reb 1 hangar bo_hangar -100 -100 100 100 -100 0 
+scn_ship_hangar_reb ship_hangar_reb 1 none none -100 -100 100 100 -100 0 
   0 
   0 
  0 
-scn_ship_hangar_hut ship_hangar_hut 1 hangar bo_hangar -100 -100 100 100 -100 0 
+scn_ship_hangar_hut ship_hangar_hut 1 none none -100 -100 100 100 -100 0 
   0 
   0 
  0 
-scn_ship_hangar ship_hangar 1 hangar bo_hangar -100 -100 100 100 -100 0 
+scn_ship_hangar ship_hangar 1 none none -100 -100 100 100 -100 0 
   0 
   0 
  0 

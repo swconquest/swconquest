@@ -1270,7 +1270,7 @@ spr_sw_table_light_a 0 0 table_light_a bo_table_light_a 0
 spr_sw_cantina_building 0 0 cantina_bar bo_cantina_bar 0
 
 
-spr_sw_ship_interior 0 0 hangar bo_hangar 0
+spr_sw_ship_interior 0 0 0 0 0
 
 
 spr_sw_imperial_office_brown 0 0 imperial_office_brown bo_imperial_office_ramp 0
