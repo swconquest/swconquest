@@ -1317,15 +1317,14 @@ PS_OUTPUT ps_swconquest_lightsaber(PS_INPUT In)
 {
 	PS_OUTPUT Output;
 	
-	//we don't want to draw the hilt :-)
-	if(In.Tex0.x > 0.8f){
-		//clip(-1);
-		In.Color.a=0.0f;
-	}
-	
 	Output.RGBColor = tex2D(MeshTextureSampler, In.Tex0);
-	Output.RGBColor.a *= In.Color.a;
-	
+  
+  //we don't want have a blinking hilt :-)
+  if(In.Tex0.x <= 0.8f){
+      Output.RGBColor.a *= In.Color.a;
+  }
+  
+  
 	return Output;
 }
 
@@ -1587,7 +1586,7 @@ VS_OUTPUT_WATER vs_main_water(float4 vPosition : POSITION, float3 vNormal : NORM
 	VS_OUTPUT_WATER Out = (VS_OUTPUT_WATER) 0;
 
 	//SWY-- Wavy Water
-	vPosition.z += (cos( time_var + (vPosition.y/vPosition.x) * 5 ) /5 );
+	vPosition.z += (cos( time_var + (vPosition.y/vPosition.x) * 5 ) /50 );
 
 
 	Out.Pos = mul(matWorldViewProj, vPosition);
@@ -1657,8 +1656,9 @@ PS_OUTPUT ps_main_water( PS_INPUT_WATER In )
 {
 	PS_OUTPUT Output;
 
-	// SWY -- Use a standard normalmap instead of the weirdo-thingie that Taleworlds used...
-	float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0).rgb - 1.0f);
+	// Load normal and expand range
+	float4 vNormalSample = tex2D( NormalTextureSampler, In.Tex0 );
+	float3 vNormal = vNormalSample * 2.0 - 1.0;
 
 	// float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0 * 1.0f).agb - 1.0f);
 	// normal.y = -normal.y;
@@ -1667,14 +1667,14 @@ PS_OUTPUT ps_main_water( PS_INPUT_WATER In )
 	//float3 scaledNormal = normalize(normal * float3(0.2f, 0.2f, 1.0f));
 
 	//SWY -- fix the scaled normal, added a minimum error to add depth to the reflection
-	float3 scaledNormal = normalize(((1.9f * normal) - 1.0f) * float3(0.2f, 0.2f, 1.0f));
-	float NdotL = saturate(dot(normal, In.LightDir))*8;
+	float3 scaledNormal = normalize(((1.9f * vNormal) - 1.0f) * float3(0.2f, 0.2f, 1.0f));
+	float NdotL = saturate(dot(vNormal, In.LightDir))*8;
 	// Output.RGBColor = max(0, NdotL) * In.LightDif;
 
 	float light_amount = (0.1f + NdotL) * 0.6f;
 
 	float3 H = normalize(In.LightDir + In.CameraDir); //half vector
-	float4 ColorSpec = /*vSpecularColor*/ 1.0f * pow(saturate(dot(H, normal)), 100.0f/*fMaterialPower*/) * In.LightDif;
+	float4 ColorSpec = /*vSpecularColor*/ 1.0f * pow(saturate(dot(H, vNormal)), 100.0f/*fMaterialPower*/) * In.LightDif;
 
 	// Output.RGBColor *= float4(1.5f, 1.5f, 3.0f, 1.0f);
 	// ColorSpec *= float4(1.5f, 1.5f, 3.0f, 1.0f);
@@ -2803,16 +2803,12 @@ technique swconquest_lightsaber
 
 	pass Lightblade
 	{
-		SrcBlend = SrcAlpha;
-		DestBlend = One;
 		VertexShader = compile vs_2_0 vs_swconquest_lightsaber();
 		PixelShader  = compile ps_2_0 ps_swconquest_lightsaber();
 	}
 	
 	pass Hilt
 	{
-		SrcBlend = SrcAlpha; 
-		DestBlend = InvSrcAlpha;
 		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE);
 		PixelShader  = compile ps_2_0 ps_specular_alpha(PCF_NONE,false, true); //special parameter for clipping out the lightblade parts
 	}
