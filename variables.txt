@@ -304,8 +304,8 @@ g_presentation_details
 g_player_debt
 g_player_deposit
 g_cur_interest_debt
-helmet_view
 crouch_key_down
+helmet_view
 g_started_battle_random_by_enemy_faction
 bash_readiness
 cur_casualties
