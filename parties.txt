@@ -86,7 +86,7 @@ partiesfile version 1
 4.537856
  1 42 42 p_shipyard_corellia Corellia_Shipyards 4219960 0 0 3 0 0 0 0 0 17.5 -42.4 17.5 -42.4 17.5 -42.4 0.0 0 
 4.537856
- 1 43 43 p_shipyard_moncal Mon_Cal_Shipyards 4219961 0 0 3 0 0 0 0 0 115.3 70.99 115.3 70.99 115.3 70.99 0.0 0 
+ 1 43 43 p_shipyard_moncal Dac_Shipyards 4219961 0 0 3 0 0 0 0 0 115.3 70.99 115.3 70.99 115.3 70.99 0.0 0 
 4.537856
  1 44 44 p_shipyard_mandalore Mandalore_Shipyards 4219964 0 0 3 0 0 0 0 0 6.69 62.78 6.69 62.78 6.69 62.78 0.0 0 
 4.537856
@@ -156,7 +156,7 @@ partiesfile version 1
 1.570796
  1 77 77 p_spacestation_6 Endor_Outpost 4215858 0 0 3 0 0 0 0 0 -81.63 -80.35 -81.63 -80.35 -81.63 -80.35 0.0 0 
 0.959931
- 1 78 78 p_spacestation_7 Mon_Cal_Battlestation 4215860 0 0 3 0 0 0 0 0 106.1 87.9 106.1 87.9 106.1 87.9 0.0 0 
+ 1 78 78 p_spacestation_7 Dac_Battlestation 4215860 0 0 3 0 0 0 0 0 106.1 87.9 106.1 87.9 106.1 87.9 0.0 0 
 0.785398
  1 79 79 p_spacestation_8 Ryloth_Battlestation 4215860 0 0 3 0 0 0 0 0 60.59 -106.5 60.59 -106.5 60.59 -106.5 0.0 0 
 0.523599
@@ -220,7 +220,7 @@ partiesfile version 1
 4.537856
  1 109 109 p_spacestation_38 Nal_Hutta_Outpost 4215861 0 0 3 0 0 0 0 0 84.76 15.43 84.76 15.43 84.76 15.43 0.0 0 
 4.537856
- 1 110 110 p_spacestation_39 Mon_Cal_Outpost 4215861 0 0 3 0 0 0 0 0 127.53 76.29 127.53 76.29 127.53 76.29 0.0 0 
+ 1 110 110 p_spacestation_39 Dac_Outpost 4215861 0 0 3 0 0 0 0 0 127.53 76.29 127.53 76.29 127.53 76.29 0.0 0 
 4.886922
  1 111 111 p_spacestation_40 Tatooine_Outpost 4215861 0 0 3 0 0 0 0 0 87.68 -84.21 87.68 -84.21 87.68 -84.21 0.0 0 
 4.537856
@@ -266,7 +266,7 @@ partiesfile version 1
 2.96706
  1 132 132 p_minorplanet_19 Bakura_Moon 2114658 0 0 3 0 0 0 0 0 -94.14 -67.8 -94.14 -67.8 -94.14 -67.8 0.0 0 
 2.96706
- 1 133 133 p_minorplanet_20 Mon_Cal_Moon 2114655 0 0 3 0 0 0 0 0 106.79 63 106.79 63 106.79 63 0.0 0 
+ 1 133 133 p_minorplanet_20 Dac_Moon 2114655 0 0 3 0 0 0 0 0 106.79 63 106.79 63 106.79 63 0.0 0 
 2.96706
  1 134 134 p_minorplanet_21 Isde_Naha 2114659 0 0 3 0 0 0 0 0 -41.59 -127.52 -41.59 -127.52 -41.59 -127.52 0.0 0 
 1.745329
