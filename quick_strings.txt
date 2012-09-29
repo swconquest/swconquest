@@ -1,4 +1,4 @@
-1042
+1052
 qstr_2006_2010_THE_STAR_W 2006-2010_THE_STAR_WARS_CONQUEST_DEV_TEAM
 qstr_This_Module_it_s_ded This_Module_it's_dedicated_to_every_person_who_believed_in_us.^^Their_valuable_Work_and_Support_have_inspired_Us_to_Make_this_bigger.^^The_Force_It's_Strong_with_you!_:-)
 qstr_Type_your_Faction_s_ Type_your_Faction's_name:
@@ -188,6 +188,14 @@ qstr_You_spent_your_early You_spent_your_early_years_traveling_around_the_galaxy
 qstr_Ambassador Ambassador
 qstr_Merchant Merchant
 qstr_Soldier Soldier
+qstr_{reg3}_{s0}_can_upgr {reg3}_{s0}_can_upgrade.
+qstr_{reg1}^^Upgrade_to_{ {reg1}^^Upgrade_to_{s1}
+qstr_{reg2}^^Upgrade_to_{ {reg2}^^Upgrade_to_{s2}
+qstr_Upgrade_to_{s1}_{reg Upgrade_to_{s1}({reg3})
+qstr__ _
+qstr_Previous Previous
+qstr_Next Next
+qstr_{s0} {s0}
 qstr_{s1}_of_{s3}_was_def {s1}_of_{s3}_was_defeated_in_battle_but_managed_to_escape.
 qstr_DEBUG:_{s1}_no_longe DEBUG:_{s1}_no_longer_leads_a_party.
 qstr_DEBUG:_{s1}_is_no_lo DEBUG:_{s1}_is_no_longer_a_prisoner.
@@ -646,7 +654,6 @@ qstr_No_companions_in_par No_companions_in_party!
 qstr_Back_to_the_beginnin Back_to_the_beginning...
 qstr_View_next_segment... View_next_segment...
 qstr___ _-
-qstr__ _
 qstr__+ _+
 qstr_^No_food:___{reg7} ^No_food:__-{reg7}
 qstr_^Wage_debt:___{reg6} ^Wage_debt:__-{reg6}
@@ -831,7 +838,6 @@ qstr_The_Droid_Foundry_ca The_Droid_Foundry_can_not_currently_build_any_troops,_
 qstr_The_Droid_Foundry_can The_Droid_Foundry_can_build_{reg5}_droids.^What_type_of_droids_do_you_want_to_build?
 qstr_Try_as_you_might_you Try_as_you_might,_you_could_not_defeat_the_bandits._Infuriated,_they_raze_part_of_the_planet_to_the_ground_to_punish_the_peasants,_and_then_leave_the_burning_wasteland_behind_to_find_more_space_to_plunder.
 qstr_planet planet
-qstr_{s0} {s0}
 qstr_{s18}^{s0} {s18}^{s0}
 qstr_The_{s17}_has_no_imp The_{s17}_has_no_improvements.
 qstr_The_{s17}_has_the_fo The_{s17}_has_the_following_improvements:^^{s18}
@@ -885,6 +891,10 @@ qstr_^^^Your_current_ship ^^^Your_current_ship_is_a_{s3}
 qstr_^^Your_outstanding_l ^^Your_outstanding_loan_amount_is_{reg7}.
 qstr__The_loan_is_due_in_ _The_loan_is_due_in_{reg8}_days.
 qstr__The_loan_is_overdue _The_loan_is_overdue.
+qstr__No_one_can_upgrade. _No_one_can_upgrade.
+qstr_{reg1}_{s1}_can_upgr {reg1}_{s1}_can_upgrade.
+qstr_{reg1}_{s1}_and_{s0} {reg1}_{s1}_and_{s0}
+qstr_{reg1}_{s1}_{s0} {reg1}_{s1},_{s0}
 qstr_Breaking_camp... Breaking_camp...
 qstr_Current_wealth:_{reg Current_wealth:_{reg1}
 qstr_Your_party_is_spotte Your_party_is_spotted_by_{s1}.
