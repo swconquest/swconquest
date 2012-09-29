@@ -1,5 +1,5 @@
 itemsfile version 2
-920
+917
  itm_no_item <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -688,9 +688,6 @@ itemsfile version 2
  itm_shadow_scout_trooper_boots Shadow_Scout_Trooper_Boots Shadow_Scout_Trooper_Boots 1  shadow_scoutboots 0  536936462 0 240 704643236 2 40 0 0 18 0 0 0 0 0 0 0 0
 0
 
- itm_shadow_stormtrooper_boots Shadow_Stormtrooper_Boots Shadow_Stormtrooper_Boots 1  shadow_stormtrooper_boots 0  536936462 0 240 704643236 2 40 0 0 18 0 0 0 0 0 0 0 0
-0
-
  itm_clone_trooper_boots Clone_Trooper_Boots Clone_Trooper_Boots 1  ArcTrooperFeet 0  536870926 0 210 704643236 2 20 0 0 16 0 0 0 0 0 0 0 0
 0
 
@@ -812,9 +809,6 @@ itemsfile version 2
 0
 
  itm_imperial_pilot_helmet Imperial_Pilot_Helmet Imperial_Pilot_Helmet 1  tiepilot 0  2684420108 0 170 704643236 1 60 12 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_shadow_stormtrooper_helmet Shadow_Stormtrooper_Helmet Shadow_Stormtrooper_Helmet 1  shadow_stormtrooper_helmet 0  2684420108 0 220 704643236 1 60 16 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_clone_trooper_head Clone_Trooper_Head Clone_Trooper_Head 1  cloneface_helmet 0  2684358668 0 150 0 1 100 10 0 0 0 0 0 0 0 0 0 0
@@ -1214,9 +1208,6 @@ itemsfile version 2
 0
 
  itm_imperial_stormtrooper_armor Imperial_Stormtrooper_Armor Imperial_Stormtrooper_Armor 1  Stormtrooper_body 0  553713677 0 720 704643236 10 100 0 42 18 0 0 0 0 0 0 0 0
-0
-
- itm_shadow_stormtrooper_armor Shadow_Stormtrooper_Armor Shadow_Stormtrooper_Armor 1  shadow_stormtrooper_armor 0  553713677 0 780 704643236 8 60 0 44 20 0 0 0 0 0 0 0 0
 0
 
  itm_rebel_honor_guard_armor Rebel_Honor_Guard_Armor Rebel_Honor_Guard_Armor 1  outfit_green 0  553713677 0 760 704643236 6 50 0 44 20 0 0 0 0 0 0 0 0
