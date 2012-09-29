@@ -1,5 +1,5 @@
 itemsfile version 2
-919
+920
  itm_no_item <dummy> <dummy> 1  0 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -622,7 +622,10 @@ itemsfile version 2
  itm_imperial_stormtrooper_gloves Imperial_Stormtrooper_Gloves Imperial_Stormtrooper_Gloves 1  stormie_glov_L 0  536936463 0 28 123731968 0.25 80 0 3 0 0 0 0 0 0 0 0 0
 0
 
- itm_shadow_stormtrooper_gloves Shadow_Stormtrooper_Gloves Shadow_Stormtrooper_Gloves 1  shadow_stormtrooper_glove_L 0  536936463 0 28 123731968 0.25 40 0 3 0 0 0 0 0 0 0 0 0
+ itm_novatrooper_gloves Novatrooper_Gloves Novatrooper_Gloves 1  stnova_glov_L 0  536936463 0 38 123731968 0.25 40 0 4 0 0 0 0 0 0 0 0 0
+0
+
+ itm_incinerator_trooper_gloves Incinerator_Trooper_Gloves Incinerator_Trooper_Gloves 1  stincn_glov_L 0  536936463 0 43 123731968 0.25 40 0 5 0 0 0 0 0 0 0 0 0
 0
 
  itm_clone_trooper_gloves_white Clone_Trooper_Gloves Clone_Trooper_Gloves 1  ArcTrooperWhite_glove_L 0  536870927 0 28 123731968 0.25 80 0 3 0 0 0 0 0 0 0 0 0
