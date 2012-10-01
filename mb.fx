@@ -2646,7 +2646,8 @@ VS_OUTPUT_ENVMAP_SPECULAR vs_envmap_specular(uniform const int PcfMode, float4 v
 	float3 tempvec = relative_cam_pos - vWorldN;
 	float3 vHalf = normalize(relative_cam_pos - vSunDir);
 	float3 fSpecular = 4.0f * vSpecularColor * pow( saturate( dot( vHalf, vWorldN) ), fMaterialPower);
-	Out.vSpecular = fSpecular;
+
+	Out.vSpecular = relative_cam_pos;
 
 	envpos.x = (tempvec.y);// + tempvec.x);
 	envpos.y = tempvec.z;
@@ -2727,7 +2728,8 @@ PS_OUTPUT ps_envmap_specular(PS_INPUT_ENVMAP_SPECULAR In, uniform const int PcfM
 	envpos += 1.0f;
 	envpos *= 0.5f;
 */
-	float3 envColor = tex2D(EnvTextureSampler, In.Tex0.zw).rgb;
+	//float3 envColor = tex2D(EnvTextureSampler, In.Tex0.zw).rgb;
+	float3 envColor = texCUBE(EnvTextureSampler, In.vSpecular).rgb; //float3(In.Tex0.zw,1)).rgb;
 
 	// Compute normal dot half for specular light
 	// float4 fSpecular = 4.0f * specColor * vSpecularColor * pow( saturate( dot( vHalf, normalize( In.worldNormal) ) ), fMaterialPower);
@@ -2741,19 +2743,22 @@ PS_OUTPUT ps_envmap_specular(PS_INPUT_ENVMAP_SPECULAR In, uniform const int PcfM
 		float4 vcol = In.Color;
 		vcol.rgb += (In.SunLight.rgb + fSpecular) * sun_amount;
 		Output.RGBColor = (texColor * vcol);
-		Output.RGBColor.rgb += (In.SunLight * sun_amount + 0.3f) * (envColor.rgb * specTexture);
+		Output.RGBColor.rgb = envColor.rgb;
 	}
 	else
 	{
 		float4 vcol = In.Color;
 		vcol.rgb += (In.SunLight.rgb + fSpecular);
 		Output.RGBColor = (texColor * vcol);
-		Output.RGBColor.rgb += (In.SunLight + 0.3f) * (envColor.rgb * specTexture);
+		Output.RGBColor.rgb = envColor.rgb;
+    Output.RGBColor.rgb += envColor.rgb;
 	}
 
 	Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
+  Output.RGBColor.r*=1.4f;
 
-	Output.RGBColor.a = 1.0f;
+  In.vSpecular=normalize(In.vSpecular);
+	Output.RGBColor.a = ((0.4f-In.vSpecular.y)-In.vSpecular.x);
 	return Output;
 }
 
@@ -3464,6 +3469,16 @@ technique envmap_specular_diffuse
 		PixelShader = compile ps_2_0 ps_envmap_specular(PCF_NONE);
 	}
 }
+
+technique swconquest_glass
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_envmap_specular(PCF_NONE);
+		PixelShader = compile ps_2_0 ps_envmap_specular(PCF_NONE);
+	}
+}
+
 
 technique envmap_specular_diffuse_SHDW
 {
