@@ -2728,7 +2728,7 @@ PS_OUTPUT ps_envmap_specular(PS_INPUT_ENVMAP_SPECULAR In, uniform const int PcfM
 	envpos += 1.0f;
 	envpos *= 0.5f;
 	*/
-	float4 envColor = tex2D(EnvTextureSampler, In.Tex0.xy);
+	float4 envColor = tex2D(EnvTextureSampler, In.Tex0.zw/2);
 	//float3 envColor = texCUBE(EnvTextureSampler, In.vSpecular).rgb; //float3(In.Tex0.zw,1)).rgb;
 
 	// Compute normal dot half for specular light
@@ -2751,14 +2751,30 @@ PS_OUTPUT ps_envmap_specular(PS_INPUT_ENVMAP_SPECULAR In, uniform const int PcfM
 //		vcol.rgb += (In.SunLight.rgb + fSpecular);
 //		Output.RGBColor = (texColor * vcol);
 //		Output.RGBColor.rgba = envColor.a;
-    Output.RGBColor = envColor;
+
+	Output.RGBColor.rgb = texColor.rgb;
+    Output.RGBColor.a   = 0.4f;
+	Output.RGBColor.a  *= envColor.a/3;
+	Output.RGBColor.rgb  *= envColor.a/3;
 //	}
 
 	//Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
-  //Output.RGBColor.r*=1.4f;
+  Output.RGBColor.ra*=1.4f;
+  Output.RGBColor.a*=3.0f;
 
  // In.vSpecular=normalize(In.vSpecular);
-//	Output.RGBColor.a = ((0.4f-In.vSpecular.y)-In.vSpecular.x);
+	Output.RGBColor.a *= ((0.4f-envColor.y)-envColor.x);
+	Output.RGBColor+=texColor.rgba/2;
+	
+	
+	Output.RGBColor.a *=1.4f;
+	float2 thingie = normalize(In.Tex0.zw);
+	//Output.RGBColor.a = (thingie.x+thingie.y);
+	
+	
+	In.vSpecular=normalize(In.vSpecular);
+	Output.RGBColor.a *= saturate((0.4f-In.vSpecular.y)+(0.4f+In.vSpecular.x));
+	
 	return Output;
 }
 
