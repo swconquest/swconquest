@@ -15,7 +15,9 @@ Languages\es\*.csv
 Languages\fr\*.csv
 Languages\pl\*.csv
 
-Module Data\FONT_DATA.XML
+Font\FONT_DATA.XML
+Font\FONT_SWC.dds
+
 Music\*.ogg
 Resource\*.brf
 SceneObj\scn_*.sco
