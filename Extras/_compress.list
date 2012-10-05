@@ -1,6 +1,7 @@
 *.txt
 module.ini
 main.bmp
+mb.fx
 
 *.pdf
 *.ico
