@@ -912,7 +912,7 @@ scn_spacestation_2_prison spacestation_2_prison 1 interior_prison_d bo_interior_
   0 
   0 
  0 
-scn_spacestation_3_exterior spacestation_3_exterior 256 none none 0 0 100 100 -100 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_3_exterior spacestation_3_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
   0 
   0 
  0 
