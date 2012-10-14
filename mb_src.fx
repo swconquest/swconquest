@@ -719,10 +719,19 @@ VS_OUTPUT_FONT vs_font(float4 vPosition : POSITION, float4 vColor : COLOR, float
 
   /* yellow */
   if( Out.Color.r == 1.0f
+  
    && Out.Color.g >= 0.86f
    && Out.Color.g <= 0.87f
+   
    && Out.Color.b == 0.0f){
     Out.Color.rgb = float3(0.3f,0.4f,1.0f);  //--> soft blue
+  }
+  
+  /* pure blue */
+  if( Out.Color.r == 0.0f
+   && Out.Color.g == 0.0f //-->pure blue used all over the quests menu
+   && Out.Color.b == 1.0f){
+    Out.Color.rgb = float3(0.25f,0.35f,0.55f);  //--> darker soft blue
   }
   
   /* pure black */
@@ -733,12 +742,15 @@ VS_OUTPUT_FONT vs_font(float4 vPosition : POSITION, float4 vColor : COLOR, float
   }
   
   /* dark green */
-  if( Out.Color.r == 0.0f
+  if((Out.Color.r == 0.0f
    
    && Out.Color.g >= 0.46f
    && Out.Color.g <= 0.47f
    
-   && Out.Color.b == 0.0f){
+   && Out.Color.b == 0.0f)
+ || ( Out.Color.r == 1.0f
+   && Out.Color.g == 0.0f  //--> pure red used in the quests menu
+   && Out.Color.b == 0.0f)){
       Out.Color.rgb = float3(0.6f,0.2f,0.0f);  //-->  maroon
   }
   
