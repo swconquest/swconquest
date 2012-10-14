@@ -1237,7 +1237,7 @@ PS_OUTPUT ps_main(PS_INPUT In, uniform const int PcfMode, uniform const bool isG
 	}else{
 	
 		tex_col = tex2D(MeshTextureSampler, In.Tex0);
-		tex_col.rgb = pow(tex_col.rgb, input_gamma);
+		tex_col.rgb = pow(abs(tex_col.rgb), input_gamma);
 	}
 	
 	
@@ -1263,7 +1263,7 @@ PS_OUTPUT ps_main(PS_INPUT In, uniform const int PcfMode, uniform const bool isG
 	}
 	
 	// gamma correct
-	Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
+	Output.RGBColor.rgb = pow(abs(Output.RGBColor.rgb), output_gamma_inv);
 	return Output;
 }
 
@@ -2539,7 +2539,7 @@ PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMod
 	// float3 vHalf = normalize(normalize(-ViewPos) + normalize(g_vLight - ViewPos));
 
 	float4 outColor = tex2D(MeshTextureSampler, In.Tex0);
-	outColor.rgb = pow(outColor.rgb, input_gamma);
+	outColor.rgb = pow(abs(outColor.rgb), input_gamma);
 
 	float3 vHalf = normalize(normalize(vCameraPos - In.worldPos) - vSunDir);
 	// Compute normal dot half for specular light
@@ -2568,7 +2568,7 @@ PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMod
 	{
 		Output.RGBColor = (outColor * ((In.Color + (In.SunLight + fSpecular * 0.5f))));
 	}
-	Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
+	Output.RGBColor.rgb = pow(abs(Output.RGBColor.rgb), output_gamma_inv);
 
 	Output.RGBColor.a = 1.0f;
 	return Output;
@@ -2754,8 +2754,8 @@ PS_OUTPUT ps_envmap_specular(PS_INPUT_ENVMAP_SPECULAR In, uniform const int PcfM
 
 	Output.RGBColor.rgb = texColor.rgb;
     Output.RGBColor.a   = 0.4f;
-	Output.RGBColor.a  *= envColor.a/3;
-	Output.RGBColor.rgb  *= envColor.a/3;
+	Output.RGBColor.a  *= envColor.a/9;
+	Output.RGBColor.rgb  *= envColor.a/5;
 //	}
 
 	//Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
@@ -2773,7 +2773,8 @@ PS_OUTPUT ps_envmap_specular(PS_INPUT_ENVMAP_SPECULAR In, uniform const int PcfM
 	
 	
 	In.vSpecular=normalize(In.vSpecular);
-	Output.RGBColor.a *= saturate((0.4f-In.vSpecular.y)+(0.4f+In.vSpecular.x));
+	Output.RGBColor.a *= max(0.3f,saturate((0.4f-In.vSpecular.y)+(0.4f+In.vSpecular.x)));
+	Output.RGBColor.a  = max(0.1f,Output.RGBColor.a);
 	
 	return Output;
 }
