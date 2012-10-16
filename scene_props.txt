@@ -4061,8 +4061,7 @@ spr_skybox_kamino 0 0 skybox_kamino 0 0
 spr_skybox_volcanic 0 0 skybox_volcanic 0 0
 
 
-spr_swc_traffic 0 0 swc_traffic 0 1
--40  6 2071 1 1224979098644774912 1850 2 1 1224979098644774912 600 1 162 1969 3 59 1 100 721 2 1 2000 1860 3 1224979098644774912 1 1000 
+spr_swc_traffic 0 0 swc_traffic 0 0
 
 
 spr_cato_neimodia_door 0 0 cato_neimodia_door 0 0
@@ -4113,8 +4112,7 @@ spr_taris_statue_base_1 0 0 taris_statue_base_1 bo_taris_statue_base_1 0
 spr_taris_statue_base_2 0 0 taris_statue_base_2 bo_taris_statue_base_2 0
 
 
-spr_taris_statue_1 65540 0 taris_statue_1 bo_taris_statue_1 1
--40  2 2071 1 1224979098644774912 1 5 452 1224979098644774912 2 30 10 
+spr_taris_statue_1 65540 0 taris_statue_1 bo_taris_statue_1 0
 
 
 spr_Container_1 0 0 Container_1 bo_Container_1_2_3_4 0

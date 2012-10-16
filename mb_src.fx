@@ -2472,10 +2472,18 @@ VS_OUTPUT_SPECULAR_ALPHA vs_specular_alpha_skin (uniform const int PcfMode, floa
 }
 
 
-VS_OUTPUT_SPECULAR_ALPHA vs_specular_alpha (uniform const int PcfMode, float4 vPosition : POSITION, float3 vNormal : NORMAL, float2 tc : TEXCOORD0, float4 vColor : COLOR0)
+VS_OUTPUT_SPECULAR_ALPHA vs_specular_alpha (uniform const int PcfMode, float4 vPosition : POSITION, float3 vNormal : NORMAL, float2 tc : TEXCOORD0, float4 vColor : COLOR0, uniform const bool swytraffic = false)
 {
 	VS_OUTPUT_SPECULAR_ALPHA Out = (VS_OUTPUT_SPECULAR_ALPHA)0;
 
+  if(swytraffic){
+    //lerping position in local coordinates using a sawtooth wave /|/|/|/
+    vPosition.y=lerp(vPosition.y-100,vPosition.y+200,(time_var-floor(time_var))/3)-1;
+    /* refs: http://en.wikipedia.org/wiki/Piecewise_linear_function 
+             http://en.wikipedia.org/wiki/Sawtooth_wave
+             */
+  }
+  
 	Out.Pos = mul(matWorldViewProj, vPosition);
 
 	float4 vWorldPos = (float4)mul(matWorld,vPosition);
@@ -2515,7 +2523,7 @@ VS_OUTPUT_SPECULAR_ALPHA vs_specular_alpha (uniform const int PcfMode, float4 vP
 	}
 	//apply material color
 	// Out.Color = min(1, vMaterialColor * vColor * diffuse_light);
-	Out.Color = (vMaterialColor * vColor * diffuse_light);
+	Out.Color = (vMaterialColor * (vColor * diffuse_light));
 	//shadow mapping variables
 	float wNdotSun = max(-0.0001f,dot(vWorldN, -vSunDir));
 	Out.SunLight = (wNdotSun) * vSunColor * vMaterialColor * vColor;
@@ -2886,6 +2894,14 @@ technique swconquest_lava
 	}
 }
 
+technique swconquest_swytraffic_iron
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE, true);
+		PixelShader  = compile ps_2_0 ps_specular_alpha(PCF_NONE, true, false); //glow_enabled
+	}
+}
 
 //the technique for the programmable shader (simply sets the vertex shader)
 technique font_uniform_color
