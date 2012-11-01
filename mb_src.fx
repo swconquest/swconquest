@@ -1127,13 +1127,36 @@ VS_OUTPUT_FONT vs_main_no_shadow(uniform const bool isSarlacc, float4 vPosition 
 }
 
 
-PS_OUTPUT ps_main_no_shadow(PS_INPUT_FONT In)
+PS_OUTPUT ps_main_no_shadow(PS_INPUT_FONT In, uniform const bool isgalaxy=false)
 {
 	PS_OUTPUT Output;
-	float4 tex_col = tex2D(MeshTextureSamplerHQ, In.Tex0);
-	//tex_col.rgb = pow(tex_col.rgb, input_gamma);
+	float4 tex_col  = tex2D(MeshTextureSamplerHQ, In.Tex0);
+	tex_col.rgb     = pow(tex_col.rgb, input_gamma);
 	Output.RGBColor = In.Color * tex_col;
-	//Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
+
+  // if the fragment shader is used for the galaxy and this is not for asteroids
+  // (texture in the bottom part of the UV map, as they share map_trees mat)
+  if (isgalaxy && In.Tex0.y<0.86f ){
+    clip(tex_col.a - 0.11f);
+    
+    float4 tex_colb = tex2D(Diffuse2Sampler, In.Tex0*30);
+    float4 tex_colc = tex2D(Diffuse2Sampler, In.Tex0*20);
+    
+    Output.RGBColor.rg  += (tex_colc.rg*4);
+    Output.RGBColor.rgb *= (tex_colb.rgb*1.5+(tex_col/14));
+    Output.RGBColor.rgb *=  saturate((In.Tex0.x+0.5f)/(In.Tex0.y+0.5f));
+    
+    Output.RGBColor.rgb *= (tex_col.r+tex_col.g);
+    
+    Output.RGBColor.a    = max(tex_colb.a,  Output.RGBColor.a/2);
+    Output.RGBColor.a   /= tex_colb.rgb;
+    //Output.RGBColor.a += (In.Color.a) * (In.Color.a) * (3 - 2 * (In.Color.a));
+  }
+  
+	//Output.RGBColor = In.Color * Output.RGBColor;
+  
+	Output.RGBColor.rgb  = pow(Output.RGBColor.rgb, output_gamma_inv);
+  
 	return Output;
 }
 
@@ -2818,7 +2841,7 @@ technique swconquest_galaxy
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_swconquest_galaxy();
-		PixelShader  = compile ps_2_0 ps_main_no_shadow();
+		PixelShader  = compile ps_2_0 ps_main_no_shadow(true);
 	}
 }
 
