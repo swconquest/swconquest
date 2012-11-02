@@ -2635,7 +2635,7 @@ PS_OUTPUT ps_swconquest_planet(PS_INPUT_SPECULAR_ALPHA In)
 	float3 vHalf = normalize(vCameraPos - In.worldPos);
 	Output.RGBColor.rgb += (1.0f - saturate( dot( vHalf, normal ) *2 ))/2;
 
-	//Output.RGBColor.a = 1.0f;
+	Output.RGBColor.rgb *= In.Color;
 	return Output;
 }
 
