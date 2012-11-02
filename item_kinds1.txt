@@ -417,7 +417,7 @@ itemsfile version 2
  itm_hide_boots Hide_Boots Hide_Boots 1  grey_boots 0  536940302 0 90 123731968 1 100 0 0 10 0 0 0 0 0 0 0 0
 0
 
- itm_ankle_boots Ankle_Boots Ankle_Boots 2  boot_slim_black_reinforced2_L 0  boot_slim_black_reinforced2_inventory 1152921504606846976  536940302 0 110 123731968 1 100 0 0 12 0 0 0 0 0 0 0 0
+ itm_ankle_boots Ankle_Boots Ankle_Boots 2  boot_slim_black_reinforced2_L 0  boot_slim_black_reinforced2_inventory 1152921504606846976  536936462 0 110 123731968 1 100 0 0 12 0 0 0 0 0 0 0 0
 0
 
  itm_nomad_boots Nomad_Boots Nomad_Boots 1  black_boots 0  536940302 0 120 123731968 1.25 100 0 0 14 0 0 0 0 0 0 0 0

@@ -1,5 +1,5 @@
 map_icons_file version 1
-174
+175
 player 1 Action_IV 0.3 194 0.15 0.173 0 0
 
 
@@ -500,7 +500,10 @@ sw_swy_rePlanet_earth 1 swy_rePlanet_earth 0.8 0 0 0 0 0
 sw_swy_rePlanet_snow 1 swy_rePlanet_snow 0.8 0 0 0 0 0
 
 
-sw_swy_rePlanet_ice 1 swy_rePlanet_ice 0.8 0 0 0 0 0
+sw_swy_rePlanet_ice 1 swy_rePlanet_ice 0.5 0 0 0 0 0
+
+
+sw_swy_rePlanet_Saleucami 1 swy_rePlanet_Saleucami 0.8 0 0 0 0 0
 
 
 sw_swy_rePlanet_craters 1 swy_rePlanet_craters 0.5 0 0 0 0 0
@@ -515,7 +518,7 @@ sw_swy_rePlanet_kashyyyk 1 swy_rePlanet_kashyyyk 0.8 0 0 0 0 0
 sw_swy_rePlanet_wilderness 1 swy_rePlanet_wilderness 0.8 0 0 0 0 0
 
 
-sw_swy_rePlanet_rock 1 swy_rePlanet_rock 0.8 0 0 0 0 0
+sw_swy_rePlanet_rock 1 swy_rePlanet_rock 0.5 0 0 0 0 0
 
 
 sw_swy_Planet_Sarapin 1 swy_Planet_Sarapin 0.8 0 0 0 0 0
