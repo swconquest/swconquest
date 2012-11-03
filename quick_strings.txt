@@ -1,4 +1,4 @@
-1050
+1028
 qstr_2006_2010_THE_STAR_W 2006-2010_THE_STAR_WARS_CONQUEST_DEV_TEAM
 qstr_This_Module_it_s_ded This_Module_it's_dedicated_to_every_person_who_believed_in_us.^^Their_valuable_Work_and_Support_have_inspired_Us_to_Make_this_bigger.^^The_Force_It's_Strong_with_you!_:-)
 qstr_Type_your_Faction_s_ Type_your_Faction's_name:
@@ -336,8 +336,8 @@ qstr_{s57}_{s58} {s57},_{s58}
 qstr_{reg3?She:He} {reg3?She:He}
 qstr_^{s59} ^{s59}
 qstr_{reg6?:{reg4?{s54}_i {reg6?:{reg4?{s54}_is_the_ruler_of_{s56}.^:{s54}_is_a_vassal_of_{s55}_of_{s56}.^}}Renown:_{reg5}.^{reg9?{reg3?She:He}_is_the_{reg3?lady:lord}_of_{s58}.:{reg3?She:He}_has_no_territories.}{s59}
-qstr_The_last_time_you_sa The_last_time_you_saw_{reg1?her:him},_{s1}
-qstr_The_last_time_you_he The_last_time_you_heard_about_{reg1?her:him},_{s1}
+qstr_The_last_time_you_sa The_last_time_you_saw_{reg33?her:him},_{s1}
+qstr_The_last_time_you_he The_last_time_you_heard_about_{reg33?her:him},_{s1}
 qstr_The_planet_of_{s50} The_planet_of_{s50}
 qstr_The_planet_of_{s50}_ The_planet_of_{s50}_near_{s52}
 qstr_{s50} {s50}
@@ -399,28 +399,6 @@ qstr_{s0}^{s1} {s0}^{s1}
 qstr_Delivered_{reg1}_dam Delivered_{reg1}_damage.
 qstr_Received_%d_damage. Received_%d_damage.
 qstr_{s9}^^^Level:_{reg3} {s9}^^^Level:_{reg3}^Health:_{reg2}%^Morale:_{reg1}
-qstr_sir sir
-qstr_my_Lord my_Lord
-qstr_man man
-qstr_his his
-qstr_Lord Lord
-qstr_him him
-qstr_husband husband
-qstr_madam madam
-qstr_my_Lady my_Lady
-qstr_lady lady
-qstr_her her
-qstr_Lady Lady
-qstr_wife wife
-qstr_{reg1?madam:sir} {reg1?madam:sir}
-qstr_{reg1?my_Lady:my_Lor {reg1?my_Lady:my_Lord}
-qstr_{reg1?lady:man} {reg1?lady:man}
-qstr_{reg1?lady:sir} {reg1?lady:sir}
-qstr_{reg1?her:his} {reg1?her:his}
-qstr_{reg1?Lady:Lord} {reg1?Lady:Lord}
-qstr_{reg1?her:him} {reg1?her:him}
-qstr_{reg1?husband:wife} {reg1?husband:wife}
-qstr_{reg1?Madam:Sir} {reg1?Madam:Sir}
 qstr_No_Troops_Left. No_Troops_Left.
 qstr_Selected_Troop:_{s1} Selected_Troop:_{s1}
 qstr_MAXIMUM_25_character MAXIMUM_25_characters.__The_last_character_was_not_recorded
