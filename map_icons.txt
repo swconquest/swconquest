@@ -503,9 +503,6 @@ sw_swy_rePlanet_snow 1 swy_rePlanet_snow 0.8 0 0 0 0 0
 sw_swy_rePlanet_ice 1 swy_rePlanet_ice 0.5 0 0 0 0 0
 
 
-sw_swy_rePlanet_Saleucami 1 swy_rePlanet_Saleucami 0.8 0 0 0 0 0
-
-
 sw_swy_rePlanet_craters 1 swy_rePlanet_craters 0.5 0 0 0 0 0
 
 
@@ -528,5 +525,8 @@ sw_swy_Planet_RaxusPrime 1 swy_Planet_RaxusPrime 0.8 0 0 0 0 0
 
 
 sw_swy_NarShadda 1 swy_Planet_Coruscant 0.5 0 0 0 0 0
+
+
+sw_swy_rePlanet_Saleucami 1 swy_rePlanet_Saleucami 0.8 0 0 0 0 0
 
 
