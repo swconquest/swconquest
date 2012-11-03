@@ -11,13 +11,13 @@ qstr_Nothing_to_delete! Nothing_to_delete!
 qstr_Next_Page Next_Page
 qstr_Candidate_#1:_{s1} Candidate_#1:_{s1}
 qstr_Candidate_#2:_{s1} Candidate_#2:_{s1}
-qstr_{s3}_of_{s4}_wishes_ {s3}_of_{s4}_wishes_to_select_a_new_marshall_and_invites_his_vassals_for_a_counsel._{s1}_and_{s2}_are_the_likely_candidates.
+qstr_{s3}_of_{s4}_wishes_ {s3}_of_{s4}_wishes_to_select_a_new_marshall_and_invites_his_commanders_for_a_counsel._{s1}_and_{s2}_are_the_likely_candidates.
 qstr_Continue... Continue...
 qstr_Who_do_you_wish_to_s Who_do_you_wish_to_support?
 qstr_{s1} {s1}
 qstr_{s1}_gives_his_suppo {s1}_gives_his_support_to_{s2}.
 qstr_Number_of_Supporters Number_of_Supporters:_{reg0}
-qstr_{s2}_has_heard_his_v {s2}_has_heard_his_vassals'_counsel._He_selects_{s1}_as_the_marshall_of_{s3}.
+qstr_{s2}_has_heard_his_c {s2}_has_heard_his_commanders'_counsel._He_selects_{s1}_as_the_marshall_of_{s3}.
 qstr_Action Action
 qstr_Mount Mount
 qstr_Attack_Type Attack_Type
@@ -327,7 +327,7 @@ qstr_{s9}_and_{s10} {s9}_and_{s10}
 qstr_{s9}_{s10} {s9},_{s10}
 qstr_{s11}_and_{s12} {s11}_and_{s12}
 qstr_{s11}_{s12} {s11},_{s12}
-qstr_{s5}_is_ruled_by_{s6 {s5}_is_ruled_by_{s6}.^It_occupies_{s8}.^Its_vassals_are_{s10}.^{s5}_is_at_war_with_{s12}.
+qstr_{s5}_is_ruled_by_{s6 {s5}_is_ruled_by_{s6}.^It_occupies_{s8}.^Its_commanders_are_{s10}.^{s5}_is_at_war_with_{s12}.
 qstr_{s5}_has_been_defeat {s5}_has_been_defeated!
 qstr_{s5}_has_a_strength_ {s5}_has_a_strength_of_{reg1}_men_in_total.
 qstr_{s54}_is_a_claimant_ {s54}_is_a_claimant_to_the_throne_of_{s56}.
@@ -335,7 +335,7 @@ qstr_{s57}_and_{s58} {s57}_and_{s58}
 qstr_{s57}_{s58} {s57},_{s58}
 qstr_{reg3?She:He} {reg3?She:He}
 qstr_^{s59} ^{s59}
-qstr_{reg6?:{reg4?{s54}_i {reg6?:{reg4?{s54}_is_the_ruler_of_{s56}.^:{s54}_is_a_vassal_of_{s55}_of_{s56}.^}}Renown:_{reg5}.^{reg9?{reg3?She:He}_is_the_{reg3?lady:lord}_of_{s58}.:{reg3?She:He}_has_no_territories.}{s59}
+qstr_{reg6?:{reg4?{s54}_i {reg6?:{reg4?{s54}_is_the_ruler_of_{s56}.^:{s54}_is_a_commander_of_{s55}_of_{s56}.^}}Renown:_{reg5}.^{reg9?{reg3?She:He}_is_the_{reg3?lady:lord}_of_{s58}.:{reg3?She:He}_has_no_territories.}{s59}
 qstr_The_last_time_you_sa The_last_time_you_saw_{reg1?her:him},_{s1}
 qstr_The_last_time_you_he The_last_time_you_heard_about_{reg1?her:him},_{s1}
 qstr_The_planet_of_{s50} The_planet_of_{s50}
