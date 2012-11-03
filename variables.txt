@@ -124,7 +124,6 @@ ransom_broker_prices_told
 ransom_broker_ransom_me_told
 traveler_land_asked
 last_lost_companion
-traveller_claimants_mentioned
 num_opponents_to_beat_in_a_row
 waiting_for_training_fight_result
 novicemaster_opponent_troop
