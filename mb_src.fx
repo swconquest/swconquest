@@ -1,3 +1,5 @@
+#pragma warning(disable: 3571)
+
 #define NUM_LIGHTS                    10
 #define NUM_SIMUL_LIGHTS               4
 #define NUM_WORLD_MATRICES            32
@@ -714,8 +716,12 @@ VS_OUTPUT_FONT vs_font(float4 vPosition : POSITION, float4 vColor : COLOR, float
 	  Yellow: #fddd0b
 	  DGreen: #218221
 	  BBrown: #d4c5b5
-	  BGreen: #7cfd78   
+	  BGreen: #7cfd78   /255.f
 	 */
+
+   #define rgbcol(rr,gg,bb) float4(Out.Color.r == rr/255.f, \
+                                   Out.Color.g == gg/255.f, \
+                                   Out.Color.b == bb/255.f)
 
   /* yellow */
   if( Out.Color.r == 1.0f
@@ -727,21 +733,21 @@ VS_OUTPUT_FONT vs_font(float4 vPosition : POSITION, float4 vColor : COLOR, float
     Out.Color.rgb = float3(0.3f,0.4f,1.0f);  //--> soft blue
   }
   
-  /* pure blue */
+  /* pure blue (#0000ff) */
   if( Out.Color.r == 0.0f
    && Out.Color.g == 0.0f //-->pure blue used all over the quests menu
    && Out.Color.b == 1.0f){
     Out.Color.rgb = float3(0.25f,0.35f,0.55f);  //--> darker soft blue
   }
   
-  /* pure black */
+  /* pure black (#000000) */
   if( Out.Color.r == 0.0f
    && Out.Color.g == 0.0f
    && Out.Color.b == 0.0f){
       Out.Color.rgb = float3(0.2f,0.2f,0.3f);  //--> bluish dark gray
   }
   
-  /* dark green */
+  /* dark green (#007700) */
   if((Out.Color.r == 0.0f
    
    && Out.Color.g >= 0.46f
@@ -749,7 +755,7 @@ VS_OUTPUT_FONT vs_font(float4 vPosition : POSITION, float4 vColor : COLOR, float
    
    && Out.Color.b == 0.0f)
  || ( Out.Color.r == 1.0f
-   && Out.Color.g == 0.0f  //--> pure red used in the quests menu
+   && Out.Color.g == 0.0f  //--> pure red used in the quests menu (#ff0000)
    && Out.Color.b == 0.0f)){
       Out.Color.rgb = float3(0.6f,0.2f,0.0f);  //-->  maroon
   }
