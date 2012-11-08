@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1567
+ 1568
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4743,6 +4743,9 @@ spr_moncal_center 0 0 moncal_center bo_moncal_center 0
 
 
 spr_coruscant_ground 0 0 coruscant_ground bo_coruscant_ground 0
+
+
+spr_swy_outer_sea 0 0 swy_outer_sea 0 0
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0

@@ -559,9 +559,9 @@ sampler ReflectionTextureSampler =
 sampler_state
 {
 	Texture = <env_texture>;
-	MipFilter = LINEAR;
-	MinFilter = LINEAR;
-	MagFilter = LINEAR;
+	MipFilter = Anisotropic;
+	MinFilter = Anisotropic;
+	MagFilter = Anisotropic;
 	AddressU  = CLAMP;
 	AddressV  = CLAMP;
 };
@@ -1695,53 +1695,26 @@ for(int j = 0; j < iLightPointCount; j++)
 
 PS_OUTPUT ps_main_water( PS_INPUT_WATER In )
 {
-	PS_OUTPUT Output;
-
+  PS_OUTPUT Output;
+  
 	// Load normal and expand range
-	float4 vNormalSample = tex2D( NormalTextureSampler, In.Tex0 );
-	float3 vNormal = vNormalSample * 2.0 - 1.0;
+	float4 vNormalSample = normalize(tex2D( NormalTextureSampler, In.Tex0 )/9);
+	float3 vNormal = (vNormalSample * 2.0 - 1.0)*0.06f;
 
-	// float3 normal = (2.0f * tex2D(NormalTextureSampler, In.Tex0 * 1.0f).agb - 1.0f);
-	// normal.y = -normal.y;
-	// normal.z = sqrt(1.0f - (normal.x * normal.x + normal.y * normal.y));
-
-	//float3 scaledNormal = normalize(normal * float3(0.2f, 0.2f, 1.0f));
-
-	//SWY -- fix the scaled normal, added a minimum error to add depth to the reflection
-	float3 scaledNormal = normalize(((1.9f * vNormal) - 1.0f) * float3(0.2f, 0.2f, 1.0f));
-	float NdotL = saturate(dot(vNormal, In.LightDir))*8;
-	// Output.RGBColor = max(0, NdotL) * In.LightDif;
-
-	float light_amount = (0.1f + NdotL) * 0.6f;
-
-	float3 H = normalize(In.LightDir + In.CameraDir); //half vector
-	float4 ColorSpec = /*vSpecularColor*/ 1.0f * pow(saturate(dot(H, vNormal)), 100.0f/*fMaterialPower*/) * In.LightDif;
-
-	// Output.RGBColor *= float4(1.5f, 1.5f, 3.0f, 1.0f);
-	// ColorSpec *= float4(1.5f, 1.5f, 3.0f, 1.0f);
-
-	//  float distScaledDistortion = In.PosWater.z;
-	//  distScaledDistortion = clamp(5 / (distScaledDistortion), 0.1f, 0.5f);
-
-	//TODO: Remove scaledNormal. Apply it on the image.
-
-	float4 tex = tex2D(ReflectionTextureSampler, float2(0.5f + 0.5f * (In.PosWater.x / In.PosWater.z) + scaledNormal.x, 0.5f - 0.5f * (In.PosWater.y / In.PosWater.z) - scaledNormal.y));
-	tex.rgb = pow(tex.rgb, output_gamma);
-
-	Output.RGBColor = 0.01f * NdotL * In.LightDif;// 1.0f * tex2D(MeshTextureSampler, In.Tex0) * light_amount * In.LightDif * In.CameraDir.z;
-
-	//SWY-- Tint
-	tex.b *= 0.5;
-	tex.r *= 0.6;
-	tex.g *= 0.7;
-	Output.RGBColor += ((tex)/* + ColorSpec*/) * (1.0f - 0.8f * In.CameraDir.z) * light_amount;// + ColorSpec;
-
-
-	//Output.RGBColor *= max(0, NdotL) * In.LightDif;
-	Output.RGBColor.w = 1.0f - 0.3f * In.CameraDir.z;
-	Output.RGBColor.rgb = saturate(pow(Output.RGBColor.rgb, output_gamma_inv));
-
-	return Output;
+  Output.RGBColor   = tex2D(ReflectionTextureSampler,
+  float2(0.5f + 0.5f * ((In.PosWater.x / In.PosWater.z) +vNormal.x)+.016f,
+         0.5f - 0.5f * ((In.PosWater.y / In.PosWater.z) -vNormal.y))
+  );
+  
+  Output.RGBColor.rgb *= In.CameraDir.y;
+  
+	//fresnel
+	float3 vHalf = normalize(vCameraPos - In.PosWater);
+	Output.RGBColor.rgb += (1.0f - saturate( dot( vHalf, vNormal ) *2 ))/2;
+  
+  
+  Output.RGBColor.a = Output.RGBColor.r/vNormalSample.z;
+  return Output;
 }
 
 

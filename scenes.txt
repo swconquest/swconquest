@@ -199,7 +199,7 @@ scn_mainplanet_tatooine_center mainplanet_tatooine_center 256 none none 0 0 100 
 scn_mainplanet_manaan_center mainplanet_manaan_center 256 none none 0 0 220 220 30 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  894 
- swy_outer_sea 
+ 0 
 scn_mainplanet_coruscant_center mainplanet_coruscant_center 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  895 
@@ -223,7 +223,7 @@ scn_mainplanet_mustafar_center mainplanet_mustafar_center 256 none none 0 0 120 
 scn_mainplanet_kamino_center mainplanet_kamino_center 256 none none 0 0 220 220 -100 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  900 
- swy_outer_sea 
+ 0 
 scn_mainplanet_taris_center mainplanet_taris_center 256 none none 0 0 220 220 -100 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  900 
@@ -631,7 +631,7 @@ scn_mainplanet_tatooine_arena mainplanet_tatooine_arena 256 none none 0 0 100 10
 scn_mainplanet_manaan_arena mainplanet_manaan_arena 256 none none 0 0 220 220 30 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
- swy_outer_sea 
+ 0 
 scn_mainplanet_coruscant_arena mainplanet_coruscant_arena 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
@@ -655,7 +655,7 @@ scn_mainplanet_mustafar_arena mainplanet_mustafar_arena 256 none none 0 0 120 12
 scn_mainplanet_kamino_arena mainplanet_kamino_arena 256 none none 0 0 100 100 -100 0x00000002500005004005f57b00005885000046bd00006d9c 
   0 
   0 
- swy_outer_sea 
+ 0 
 scn_mainplanet_taris_arena mainplanet_taris_arena 256 none none 0 0 220 220 30 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
@@ -851,7 +851,7 @@ scn_mainplanet_tatooine_alley mainplanet_tatooine_alley 256 none none 0 0 100 10
 scn_mainplanet_manaan_alley mainplanet_manaan_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
- swy_outer_sea 
+ 0 
 scn_mainplanet_coruscant_alley mainplanet_coruscant_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
   0 
   0 
@@ -1811,7 +1811,7 @@ scn_mainplanet_tatooine_land_battle mainplanet_tatooine_land_battle 256 none non
 scn_mainplanet_manaan_land_battle mainplanet_manaan_land_battle 256 none none 0 0 120 120 30 0x00000000300005000006d9b9000052560000620000004c92 
   0 
   0 
- swy_outer_sea 
+ 0 
 scn_mainplanet_coruscant_land_battle mainplanet_coruscant_land_battle 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
@@ -1835,7 +1835,7 @@ scn_mainplanet_mustafar_land_battle mainplanet_mustafar_land_battle 256 none non
 scn_mainplanet_kamino_land_battle mainplanet_kamino_land_battle 256 none none 0 0 120 120 30 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
- swy_outer_sea 
+ 0 
 scn_mainplanet_taris_land_battle mainplanet_taris_land_battle 256 none none 0 0 240 240 -100 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
