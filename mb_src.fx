@@ -1697,20 +1697,20 @@ PS_OUTPUT ps_main_water( PS_INPUT_WATER In )
 {
   PS_OUTPUT Output;
   
-	// Load normal and expand range
-	float4 vNormalSample = normalize(tex2D( NormalTextureSampler, In.Tex0 )/9);
-	float3 vNormal = (vNormalSample * 2.0 - 1.0)*0.06f;
+  // Load normal and expand range
+  float4 vNormalSample = normalize(tex2D( NormalTextureSampler, In.Tex0 )/9);
+  float3 vNormal = (vNormalSample * 2.0 - 1.0)*0.06f;
 
   Output.RGBColor   = tex2D(ReflectionTextureSampler,
   float2(0.5f + 0.5f * ((In.PosWater.x / In.PosWater.z) +vNormal.x)+.016f,
          0.5f - 0.5f * ((In.PosWater.y / In.PosWater.z) -vNormal.y))
   );
   
-  Output.RGBColor.rgb *= In.CameraDir.y;
+  Output.RGBColor.rgb = abs(In.Pos.y);
   
-	//fresnel
-	float3 vHalf = normalize(vCameraPos - In.PosWater);
-	Output.RGBColor.rgb += (1.0f - saturate( dot( vHalf, vNormal ) *2 ))/2;
+  //fresnel
+  //float3 vHalf = normalize(vCameraPos - In.PosWater);
+  //Output.RGBColor.rgb += (1.0f - saturate( dot( vHalf, vNormal ) *2 ))/2;
   
   
   Output.RGBColor.a = Output.RGBColor.r/vNormalSample.z;
