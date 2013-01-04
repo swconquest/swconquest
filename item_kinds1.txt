@@ -1,123 +1,12 @@
 itemsfile version 2
-911
+849
  itm_no_item <dummy> <dummy> 1  _ 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_horse_meat Horse_Meat Horse_Meat 1  raw_meat 0  34078731 0 12 0 40 100 30 0 0 0 0 0 0 0 40 0 0
 0
 
- itm_practice_sword Practice_Sword Practice_Sword 1  practice_sword 0  12582914 9223388529554358287 3 0 1.5 100 0 0 0 0 16384 103 0 90 0 522 528
-0
-
- itm_heavy_practice_sword Heavy_Practice_Sword Heavy_Practice_Sword 1  heavy_practicesword 0  6291459 9223635919737716976 21 0 6.25 100 0 0 0 0 26624 94 0 128 0 530 538
-0
-
- itm_practice_axe Practice_Axe Practice_Axe 1  hatchet 0  79691778 9223388530091229198 24 270356 2 100 0 0 0 0 20480 95 0 75 0 256 532
-0
-
- itm_arena_axe Axe Axe 1  arena_axe 0  79691778 9223388530091229198 130 270356 1.5 100 0 0 0 0 23552 100 0 69 0 256 535
-0
-
- itm_arena_sword Sword Sword 2  arena_sword_one_handed 0  sword_medieval_b_scabbard 3458764513820540928  4194306 9223388564182532111 240 155668 1.5 100 0 0 0 0 21504 99 0 95 0 532 533
-0
-
- itm_arena_sword_two_handed Two_Handed_Sword Two_Handed_Sword 1  arena_sword_two_handed 0  6291459 9223635924301119728 670 155668 2.75 100 0 0 0 0 29696 93 0 110 0 536 541
-0
-
- itm_practice_staff Practice_Staff Practice_Staff 1  wooden_staff 0  138444804 4222129415393024 9 0 2.5 100 0 0 0 0 16384 103 0 118 0 528 528
-0
-
- itm_practice_lance Practice_Lance Practice_Lance 1  joust_of_peace 0  138444804 201326848 18 0 4.25 100 0 0 0 0 0 58 0 218 0 527 512
-0
-
- itm_practice_shield Practice_Shield Practice_Shield 1  shield_round_a 0  7 0 20 0 3.5 100 0 1 0 0 200 100 0 50 0 0 0
-0
-
- itm_practice_bow Practice_Bow Practice_Bow 2  hunting_bow 0  hunting_bow_carry 3458764513820540928  6291464 5905584128 0 655370 1.5 100 0 0 0 0 0 90 40 0 0 531 0
-0
-
- itm_practice_crossbow Practice_Crossbow Practice_Crossbow 1  crossbow 0  6291465 4563419136 0 131082 3 100 0 0 0 0 0 42 68 0 1 544 0
-0
-
- itm_practice_javelin Practice_Javelin Practice_Javelin 2  javelin 0  javelins_quiver 3458764513820540928  71303178 36507484160 0 4398046781448 5 100 0 0 0 0 0 91 28 75 50 539 0
-0
-
- itm_practice_throwing_daggers Throwing_Daggers Throwing_Daggers 1  throwing_dagger 0  4194314 131072 0 4398046781448 3.5 100 0 0 0 0 0 102 25 0 10 528 0
-0
-
- itm_practice_throwing_daggers_100_amount Throwing_Daggers Throwing_Daggers 1  throwing_dagger 0  4194314 131072 0 4398046781448 3.5 100 0 0 0 0 0 102 25 0 100 528 0
-0
-
- itm_practice_horse Practice_Horse Practice_Horse 1  kaadu_b 0  1 0 37 41876193280 0 100 0 10 0 0 0 37 40 0 0 14 0
-0
-
- itm_practice_arrows Practice_Arrows Practice_Arrows 3  arena_arrow 0  flying_missile 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511112 1.5 100 0 0 0 0 0 0 0 95 80 0 0
-0
-
- itm_practice_bolts Practice_Bolts Practice_Bolts 4  bolt 0  flying_missile 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  6 1879048192 0 4398046511112 2.25 100 0 0 0 0 0 0 0 55 49 0 0
-0
-
- itm_practice_arrows_10_amount Practice_Arrows Practice_Arrows 3  arrow 0  flying_missile 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511112 1.5 100 0 0 0 0 0 0 0 95 10 0 0
-0
-
- itm_practice_arrows_100_amount Practice_Arrows Practice_Arrows 3  arrow 0  flying_missile 2305843009213693952  quiver 3458764513820540928  5 2147483648 0 4398046511112 1.5 100 0 0 0 0 0 0 0 95 100 0 0
-0
-
- itm_practice_bolts_9_amount Practice_Bolts Practice_Bolts 4  bolt 0  flying_missile 2305843009213693952  bolt_bag 3458764513820540928  bolt_bag_b 3458768911867052032  6 1879048192 0 4398046511112 2.25 100 0 0 0 0 0 0 0 55 9 0 0
-0
-
  itm_practice_boots Practice_Boots Practice_Boots 2  boot_slim_black_reinforced_L 0  boot_slim_black_reinforced_inventory 1152921504606846976  536874766 0 11 123731968 1 100 0 0 10 0 0 0 0 0 0 0 0
-0
-
- itm_red_tourney_armor Red_Tourney_Armor Red_Tourney_Armor 1  tourn_armor_a 0  16777229 0 150 0 15 100 0 20 6 0 0 0 0 0 0 0 0
-0
-
- itm_blue_tourney_armor Blue_Tourney_Armor Blue_Tourney_Armor 1  mail_shirt 0  16777229 0 150 0 15 100 0 20 6 0 0 0 0 0 0 0 0
-0
-
- itm_green_tourney_armor Green_Tourney_Armor Green_Tourney_Armor 1  leather_vest 0  16777229 0 150 0 15 100 0 20 6 0 0 0 0 0 0 0 0
-0
-
- itm_gold_tourney_armor Gold_Tourney_Armor Gold_Tourney_Armor 1  padded_armor 0  16777229 0 150 0 15 100 0 20 6 0 0 0 0 0 0 0 0
-0
-
- itm_red_tourney_helmet Red_Tourney_Helmet Red_Tourney_Helmet 1  flattop_helmet 0  12 0 120 0 2 100 16 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_blue_tourney_helmet Blue_Tourney_Helmet Blue_Tourney_Helmet 1  segmented_helm 0  12 0 120 0 2 100 16 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_green_tourney_helmet Green_Tourney_Helmet Green_Tourney_Helmet 1  hood_c 0  12 0 120 0 2 100 16 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_gold_tourney_helmet Gold_Tourney_Helmet Gold_Tourney_Helmet 1  hood_a 0  12 0 120 0 2 100 16 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_arena_shield_red Shield Shield 1  arena_shield_red 0  7 4831838208 42 167772194 2 100 0 1 0 0 360 100 0 60 0 0 0
-0
-
- itm_arena_shield_blue Shield Shield 1  arena_shield_blue 0  7 4831838208 42 167772194 2 100 0 1 0 0 360 100 0 60 0 0 0
-0
-
- itm_arena_shield_green Shield Shield 1  arena_shield_green 0  7 4831838208 42 167772194 2 100 0 1 0 0 360 100 0 60 0 0 0
-0
-
- itm_arena_shield_yellow Shield Shield 1  arena_shield_yellow 0  7 4831838208 42 167772194 2 100 0 1 0 0 360 100 0 60 0 0 0
-0
-
- itm_arena_armor_white Arena_Armor_White Arena_Armor_White 1  arena_armorW 0  16777229 0 650 704643236 16 100 0 29 13 0 0 0 0 0 0 0 0
-0
-
- itm_arena_armor_red Arena_Armor_Red Arena_Armor_Red 1  arena_armorR 0  16777229 0 650 704643236 16 100 0 29 13 0 0 0 0 0 0 0 0
-0
-
- itm_arena_armor_blue Arena_Armor_Blue Arena_Armor_Blue 1  arena_armorB 0  16777229 0 650 704643236 16 100 0 29 13 0 0 0 0 0 0 0 0
-0
-
- itm_arena_armor_green Arena_Armor_Green Arena_Armor_Green 1  arena_armorG 0  16777229 0 650 704643236 16 100 0 29 13 0 0 0 0 0 0 0 0
-0
-
- itm_arena_armor_yellow Arena_Armor_Yellow Arena_Armor_Yellow 1  arena_armorY 0  16777229 0 650 704643236 16 100 0 29 13 0 0 0 0 0 0 0 0
 0
 
  itm_arena_tunic_white Arena_Tunic_White_ Arena_Tunic_White_ 1  arena_tunicW_padded 0  16777229 0 50 123731968 2 100 12 35 12 0 0 0 0 0 0 0 0
@@ -133,48 +22,6 @@ itemsfile version 2
 0
 
  itm_arena_tunic_yellow Arena_Tunic_Yellow Arena_Tunic_Yellow 1  arena_tunicY_padded 0  16777229 0 50 123731968 2 100 12 35 12 0 0 0 0 0 0 0 0
-0
-
- itm_arena_helmet_red Arena_Helmet_Red Arena_Helmet_Red 1  arena_helmetR 0  1073741836 0 180 704643238 1.25 100 26 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_arena_helmet_blue Arena_Helmet_Blue Arena_Helmet_Blue 1  arena_helmetB 0  1073741836 0 180 704643238 1.25 100 26 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_arena_helmet_green Arena_Helmet_Green Arena_Helmet_Green 1  arena_helmetG 0  1073741836 0 180 704643238 1.25 100 26 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_arena_helmet_yellow Arena_Helmet_Yellow Arena_Helmet_Yellow 1  arena_helmetY 0  1073741836 0 180 704643238 1.25 100 26 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_steppe_helmet_white Steppe_Helmet_White Steppe_Helmet_White 1  steppe_helmetW 0  1073741836 0 180 704643238 1.25 100 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_steppe_helmet_red Steppe_Helmet_Red Steppe_Helmet_Red 1  steppe_helmetR 0  1073741836 0 180 704643238 1.25 100 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_steppe_helmet_blue Steppe_Helmet_Blue Steppe_Helmet_Blue 1  steppe_helmetB 0  1073741836 0 180 704643238 1.25 100 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_steppe_helmet_green Steppe_Helmet_Green Steppe_Helmet_Green 1  steppe_helmetG 0  1073741836 0 180 704643238 1.25 100 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_steppe_helmet_yellow Steppe_Helmet_Yellow Steppe_Helmet_Yellow 1  steppe_helmetY 0  1073741836 0 180 704643238 1.25 100 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_tourney_helm_white Tourney_Helm_White Tourney_Helm_White 1  tourney_helmR 0  2147483660 0 760 704643238 2.75 100 30 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_tourney_helm_red Tourney_Helm_Red Tourney_Helm_Red 1  tourney_helmR 0  2147483660 0 760 704643238 2.75 100 30 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_tourney_helm_blue Tourney_Helm_Blue Tourney_Helm_Blue 1  tourney_helmB 0  2147483660 0 760 704643238 2.75 100 30 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_tourney_helm_green Tourney_Helm_Green Tourney_Helm_Green 1  tourney_helmG 0  2147483660 0 760 704643238 2.75 100 30 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_tourney_helm_yellow Tourney_Helm_Yellow Tourney_Helm_Yellow 1  tourney_helmY 0  2147483660 0 760 704643238 2.75 100 30 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_book_tactics Tactics_Holocron Tactics_Holocron 1  holocron_new_a 0  20 0 4000 0 2 100 0 0 0 0 0 0 0 0 0 0 0
@@ -423,15 +270,6 @@ itemsfile version 2
  itm_nomad_boots Nomad_Boots Nomad_Boots 1  black_boots 0  536940302 0 120 123731968 1.25 100 0 0 14 0 0 0 0 0 0 0 0
 0
 
- itm_lady_dress_ruby Lady_Dress Lady_Dress 1  lady_dress_r 0  553648141 0 170 123731968 3 100 0 10 10 0 0 0 0 0 0 0 0
-0
-
- itm_lady_dress_green Lady_Dress Lady_Dress 1  lady_dress_g 0  553648141 0 170 123731968 3 100 0 10 10 0 0 0 0 0 0 0 0
-0
-
- itm_lady_dress_blue Lady_Dress Lady_Dress 1  lady_dress_b 0  553648141 0 170 123731968 3 100 0 10 10 0 0 0 0 0 0 0 0
-0
-
  itm_dress Dress Dress 1  dress 0  553713677 0 70 123731968 1 100 0 6 2 0 0 0 0 0 0 0 0
 0
 
@@ -448,12 +286,6 @@ itemsfile version 2
 0
 
  itm_nobleman_outfit Nobleman_Outfit Nobleman_Outfit 1  nobleman_outfit_b 0  553648141 0 270 123731968 4 100 0 15 12 0 0 0 0 0 0 0 0
-0
-
- itm_nomad_armor Nomad_Armor Nomad_Armor 1  armor_nomad 0  13 0 220 123731968 2 100 0 24 0 0 0 0 0 0 0 0 0
-0
-
- itm_rawhide_coat Rawhide_Coat Rawhide_Coat 1  tunic_fur 0  553648141 0 50 123731968 5 100 0 10 0 0 0 0 0 0 0 0 0
 0
 
  itm_leather_armor Leather_Armor Leather_Armor 1  lthr_armor_a 0  16842765 0 110 123731968 7 100 0 18 0 0 0 0 0 0 0 0 0
@@ -501,9 +333,6 @@ itemsfile version 2
  itm_padded_leather Padded_Leather Padded_Leather 1  padded_leather 0  553648141 0 250 123731968 12 100 0 27 10 0 0 0 0 0 0 0 0
 0
 
- itm_court_hat Turret_Hat Turret_Hat 1  court_hat 0  1610612748 0 80 123731968 0.5 100 8 0 0 0 0 0 0 0 0 0 0
-0
-
  itm_straw_hat Straw_Hat Straw_Hat 1  straw_hat 0  536936460 0 9 123731968 1 100 2 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -537,16 +366,10 @@ itemsfile version 2
  itm_female_hood Lady's_Hood Lady's_Hood 1  woolen_hood 0  536936460 0 9 123731968 1 100 10 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_black_helmet Black_Helmet Black_Helmet 1  black_helm 0  12 0 944 704643238 2.75 100 50 0 0 9 0 0 0 0 0 0 0
-0
-
  itm_wooden_stick Wooden_Stick Wooden_Stick 1  wooden_stick 0  4194306 9223388529554358286 4 0 2.5 100 0 0 0 0 13312 99 0 90 0 256 525
 0
 
  itm_club Club Club 1  club 0  4194306 9223388529554358286 11 0 2.5 100 0 0 0 0 15360 95 0 95 0 256 527
-0
-
- itm_sickle Sickle Sickle 1  sickle 0  12599298 9223372036879941646 1 0 1.5 100 0 0 0 0 20480 99 0 40 0 256 20
 0
 
  itm_cleaver Cleaver Cleaver 1  cleaver 0  12599298 9223372036879941646 3 0 1.5 100 0 0 0 0 24576 103 0 30 0 256 24
@@ -558,27 +381,14 @@ itemsfile version 2
  itm_butchering_knife Butchering_Knife Butchering_Knife 1  khyber_knife 0  12599298 9223372036879941647 13 24596 0.75 100 0 0 0 0 24576 108 0 60 0 273 24
 0
 
- itm_dagger Dagger Dagger 2  dagger 0  dagger_b 251658240  12599298 9223372036879941647 17 155668 0.75 100 0 0 0 0 22528 112 0 47 0 275 22
-0
-
  itm_hatchet Hatchet Hatchet 1  hatchet 0  79691778 9223388530091229198 3 270356 2 100 0 0 0 0 23552 97 0 60 0 256 23
-0
-
- itm_pitch_fork Pitch_Fork Pitch_Fork 1  pitch_fork 0  138444804 4222124851986688 19 8202 3.5 100 0 0 0 0 0 83 0 154 0 274 512
 0
 
  itm_quarter_staff Quarter_Staff Quarter_Staff 1  quarter_staff 0  138444804 4222129415393024 60 8202 2 100 0 0 0 0 20480 104 0 140 0 532 532
 0
 
- itm_stones Stones Stones 1  throwing_stone 0  4194314 65536 1 4398046511104 4 100 0 0 0 0 0 97 30 8 18 523 0
-0
-
  itm_throwing_axes Gamorrean_Throwing_Axes Gamorrean_Throwing_Axes 1  francisca 0  71368714 196608 250 4398046781448 5 100 0 0 0 0 0 99 20 53 18 38 0
 0
-
- itm_torch Torch Torch 1  club 0  4194306 9223388529554358286 11 0 2.5 100 0 0 0 0 11264 95 0 95 0 256 523
-1
--50  5 1955 3 0 60 0 1965 1 12 1965 1 15 1950 3 150 130 70 1960 2 10 30 
 
  itm_rich_outfit Rich_Outfit Rich_Outfit 1  merchant_outf 0  553713677 0 160 123731968 4 100 0 16 4 0 0 0 0 0 0 0 0
 0
@@ -1689,9 +1499,6 @@ itemsfile version 2
  itm_mandalorian_crusader_boots Mandalorian_Crusader_Boots Mandalorian_Crusader_Boots 1  mandalorian_crusader_boots 0  536940302 0 210 704643236 2 80 0 0 16 0 0 0 0 0 0 0 0
 0
 
- itm_mandalorian_crusader_set_end Mandalorian_Crusader_Boots Mandalorian_Crusader_Boots 1  mandalorian_crusader_boots 0  536874766 0 210 704643236 2 80 0 0 16 0 0 0 0 0 0 0 0
-0
-
  itm_mandalorian_deadeye_helmet Mandalorian_Deadeye_Helmet Mandalorian_Deadeye_Helmet 1  mandalorian_deadeye_helmet 0  2684420108 0 340 704643236 2 80 25 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -1705,9 +1512,6 @@ itemsfile version 2
 0
 
  itm_mandalorian_deadeye_boots Mandalorian_Deadeye_Boots Mandalorian_Deadeye_Boots 1  mandalorian_deadeye_boots 0  536940302 0 240 704643236 2 80 0 0 18 0 0 0 0 0 0 0 0
-0
-
- itm_mandalorian_deadeye_set_end Mandalorian_Deadeye_Boots Mandalorian_Deadeye_Boots 1  mandalorian_deadeye_boots 0  536874766 0 210 704643236 2 80 0 0 16 0 0 0 0 0 0 0 0
 0
 
  itm_mandalorian_beskar_helmet Mandalorian_Beskar_Helmet Mandalorian_Beskar_Helmet 1  mandalorian_beskar_helmet 0  2684420108 0 800 704643236 1.5 40 30 0 0 0 0 0 0 0 0 0 0
@@ -1731,13 +1535,28 @@ itemsfile version 2
  itm_black_sun_helmet Black_Sun_Helmet Black_Sun_Helmet 1  black_sun_helmet 0  2684420108 0 270 704643236 2 60 20 0 0 0 0 0 0 0 0 0 0
 0
 
+ itm_black_sun_helmet_tan Black_Sun_Helmet Black_Sun_Helmet 1  black_sun_helmet_tan 0  2684420108 0 270 704643236 2 60 20 0 0 0 0 0 0 0 0 0 0
+0
+
+ itm_black_sun_helmet_teal Black_Sun_Helmet Black_Sun_Helmet 1  black_sun_helmet_teal 0  2684420108 0 270 704643236 2 60 20 0 0 0 0 0 0 0 0 0 0
+0
+
+ itm_black_sun_helmet_red Black_Sun_Helmet Black_Sun_Helmet 1  black_sun_helmet_red 0  2684420108 0 270 704643236 2 60 20 0 0 0 0 0 0 0 0 0 0
+0
+
  itm_black_sun_armor Black_Sun_Armor Black_Sun_Armor 1  black_sun_armor 0  553713677 0 780 704643236 6 60 0 46 14 0 0 0 0 0 0 0 0
 0
 
- itm_gamorrean_armor Gamorrean_Armor Gamorrean_Armor 1  gamorrean_armor 0  553652237 0 530 123731968 3 40 0 40 16 0 0 0 0 0 0 0 0
+ itm_black_sun_armor_tan Black_Sun_Armor Black_Sun_Armor 1  black_sun_armor_tan 0  553713677 0 780 704643236 6 60 0 46 14 0 0 0 0 0 0 0 0
 0
 
- itm_gamorrean_armor_merch Gamorrean_Armor Gamorrean_Armor 1  gamorrean_armor 0  553713677 0 530 123731968 3 40 0 40 16 0 0 0 0 0 0 0 0
+ itm_black_sun_armor_teal Black_Sun_Armor Black_Sun_Armor 1  black_sun_armor_teal 0  553713677 0 780 704643236 6 60 0 46 14 0 0 0 0 0 0 0 0
+0
+
+ itm_black_sun_armor_red Black_Sun_Armor Black_Sun_Armor 1  black_sun_armor_red 0  553713677 0 780 704643236 6 60 0 46 14 0 0 0 0 0 0 0 0
+0
+
+ itm_gamorrean_armor Gamorrean_Armor Gamorrean_Armor 1  gamorrean_armor 0  553652237 0 530 123731968 3 40 0 40 16 0 0 0 0 0 0 0 0
 0
 
  itm_moncal_armor Mon_Calamari_Armor Mon_Calamari_Armor 1  moncal_armor 0  553713677 0 410 123731968 6 60 0 35 12 0 0 0 0 0 0 0 0
@@ -1750,9 +1569,6 @@ itemsfile version 2
 0
 
  itm_moncal_helmet Mon_Calamri_Helmet Mon_Calamri_Helmet 1  moncal_helmet 0  536936460 0 180 123731968 1.5 60 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_rodian_head Rodian_Head Rodian_Head 1  rodian_male 0  2684358668 0 60 123731968 4 100 10 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_twilek_armor Twi'lek_Armor Twi'lek_Armor 1  padded_leather 0  553652237 0 480 123731968 6 70 0 42 12 0 0 0 0 0 0 0 0
@@ -1777,9 +1593,6 @@ itemsfile version 2
 0
 
  itm_geonosian_armor Geonosian_Armor Geonosian_Armor 1  geonosian_armor 0  553652237 0 510 123731968 5 50 0 40 16 0 0 0 0 0 0 0 0
-0
-
- itm_geonosian_armor_merch Geonosian_Armor Geonosian_Armor 1  geonosian_armor 0  553713677 0 510 123731968 5 50 0 40 16 0 0 0 0 0 0 0 0
 0
 
  itm_armors_end <dummy> <dummy> 1  _ 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
