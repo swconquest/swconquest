@@ -438,7 +438,7 @@ itemsfile version 2
  itm_blue_dress Blue_Dress Blue_Dress 1  blue_dress 0  553713677 0 70 123731968 1 100 0 6 2 0 0 0 0 0 0 0 0
 0
 
- itm_peasant_dress Peasant_Dress Peasant_Dress 1  peasant_dress_b 0  553713677 0 70 123731968 1 100 0 6 2 0 0 0 0 0 0 0 0
+ itm_peasant_dress Colonist_Dress Colonist_Dress 1  peasant_dress_b 0  553713677 0 70 123731968 1 100 0 6 2 0 0 0 0 0 0 0 0
 0
 
  itm_woolen_dress Woolen_Dress Woolen_Dress 1  woolen_dress 0  553713677 0 80 123731968 1.75 100 0 8 2 0 0 0 0 0 0 0 0
