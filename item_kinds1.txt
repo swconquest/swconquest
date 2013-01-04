@@ -1,5 +1,5 @@
 itemsfile version 2
-917
+911
  itm_no_item <dummy> <dummy> 1  _ 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -1731,25 +1731,7 @@ itemsfile version 2
  itm_black_sun_helmet Black_Sun_Helmet Black_Sun_Helmet 1  black_sun_helmet 0  2684420108 0 270 704643236 2 60 20 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_black_sun_helmet_tan Black_Sun_Helmet Black_Sun_Helmet 1  black_sun_helmet_tan 0  2684420108 0 270 704643236 2 60 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_black_sun_helmet_teal Black_Sun_Helmet Black_Sun_Helmet 1  black_sun_helmet_teal 0  2684420108 0 270 704643236 2 60 20 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_black_sun_helmet_red Black_Sun_Helmet Black_Sun_Helmet 1  black_sun_helmet_red 0  2684420108 0 270 704643236 2 60 20 0 0 0 0 0 0 0 0 0 0
-0
-
  itm_black_sun_armor Black_Sun_Armor Black_Sun_Armor 1  black_sun_armor 0  553713677 0 780 704643236 6 60 0 46 14 0 0 0 0 0 0 0 0
-0
-
- itm_black_sun_armor_tan Black_Sun_Armor Black_Sun_Armor 1  black_sun_armor_tan 0  553713677 0 780 704643236 6 60 0 46 14 0 0 0 0 0 0 0 0
-0
-
- itm_black_sun_armor_teal Black_Sun_Armor Black_Sun_Armor 1  black_sun_armor_teal 0  553713677 0 780 704643236 6 60 0 46 14 0 0 0 0 0 0 0 0
-0
-
- itm_black_sun_armor_red Black_Sun_Armor Black_Sun_Armor 1  black_sun_armor_red 0  553713677 0 780 704643236 6 60 0 46 14 0 0 0 0 0 0 0 0
 0
 
  itm_gamorrean_armor Gamorrean_Armor Gamorrean_Armor 1  gamorrean_armor 0  553652237 0 530 123731968 3 40 0 40 16 0 0 0 0 0 0 0 0
