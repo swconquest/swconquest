@@ -1,0 +1,1998 @@
+trp_temp_troop|Temp Troop
+trp_temp_troop_pl|Temp Troop
+trp_game|Game
+trp_game_pl|Game
+trp_unarmed_troop|Unarmed Troop
+trp_unarmed_troop_pl|Unarmed Troops
+trp_random_town_sequence|Random Town Sequence
+trp_random_town_sequence_pl|Random Town Sequence
+trp_tournament_participants|Tournament Participants
+trp_tournament_participants_pl|Tournament Participants
+trp_tutorial_maceman|Maceman
+trp_tutorial_maceman_pl|Maceman
+trp_tutorial_archer|Marksman
+trp_tutorial_archer_pl|Marksman
+trp_tutorial_swordsman|Swordsman
+trp_tutorial_swordsman_pl|Swordsman
+trp_novice_fighter|Novice Fighter
+trp_novice_fighter_pl|Novice Fighters
+trp_regular_fighter|Regular Fighter
+trp_regular_fighter_pl|Regular Fighters
+trp_veteran_fighter|Veteran Fighter
+trp_veteran_fighter_pl|Veteran Fighters
+trp_champion_fighter|Champion Fighter
+trp_champion_fighter_pl|Champion Fighters
+trp_arena_training_fighter_1|Novice Fighter
+trp_arena_training_fighter_1_pl|Novice Fighters
+trp_arena_training_fighter_2|Novice Fighter
+trp_arena_training_fighter_2_pl|Novice Fighters
+trp_arena_training_fighter_3|Regular Fighter
+trp_arena_training_fighter_3_pl|Regular Fighters
+trp_arena_training_fighter_4|Regular Fighter
+trp_arena_training_fighter_4_pl|Regular Fighters
+trp_arena_training_fighter_5|Regular Fighter
+trp_arena_training_fighter_5_pl|Regular Fighters
+trp_arena_training_fighter_6|Veteran Fighter
+trp_arena_training_fighter_6_pl|Veteran Fighters
+trp_arena_training_fighter_7|Veteran Fighter
+trp_arena_training_fighter_7_pl|Veteran Fighters
+trp_arena_training_fighter_8|Veteran Fighter
+trp_arena_training_fighter_8_pl|Veteran Fighters
+trp_arena_training_fighter_9|Champion Fighter
+trp_arena_training_fighter_9_pl|Champion Fighters
+trp_arena_training_fighter_10|Champion Fighter
+trp_arena_training_fighter_10_pl|Champion Fighters
+trp_cattle|Nerf
+trp_cattle_pl|Nerf Herd
+trp_wookiee|Wookiee
+trp_wookiee_pl|Wookiees
+trp_wookiee_warrior|Wookiee Warrior
+trp_wookiee_warrior_pl|Wookiee Warriors
+trp_wookiee_marksman|Wookiee Marksman
+trp_wookiee_marksman_pl|Wookiee Marksmen
+trp_wookiee_berserker|Wookiee Berserker
+trp_wookiee_berserker_pl|Wookiee Berserkers
+trp_wookiee_sharpshooter|Wookiee Sharpshooter
+trp_wookiee_sharpshooter_pl|Wookiee Sharpshooters
+trp_bacca_warrior|Warrior of Bacca
+trp_bacca_warrior_pl|Warriors of Bacca
+trp_mandalorian|Mandalorian
+trp_mandalorian_pl|Mandalorians
+trp_mandalorian_soldier|Mandalorian Soldier
+trp_mandalorian_soldier_pl|Mandalorian Soldiers
+trp_mandalorian_commando|Mandalorian Commando
+trp_mandalorian_commando_pl|Mandalorian Commandos
+trp_mandalorian_sniper|Mandalorian Sniper
+trp_mandalorian_sniper_pl|Mandalorian Snipers
+trp_mandalorian_crusader|Mandalorian Crusader
+trp_mandalorian_crusader_pl|Mandalorian Crusaders
+trp_mandalorian_deadeye|Mandalorian Deadeye
+trp_mandalorian_deadeye_pl|Mandalorian Deadeyes
+trp_gamorrean|Gamorrean
+trp_gamorrean_pl|Gamorreans
+trp_gamorrean_warrior|Gamorrean Warrior
+trp_gamorrean_warrior_pl|Gamorrean Warriors
+trp_gamorrean_guard|Gamorrean Guard
+trp_gamorrean_guard_pl|Gamorrean Guards
+trp_gamorrean_palace_guard|Gamorrean Palace Guard
+trp_gamorrean_palace_guard_pl|Gamorrean Palace Guards
+trp_twilek_female1|Twi'lek Female
+trp_twilek_female1_pl|Twilek Females
+trp_twilek_female2|Twi'lek Dancer
+trp_twilek_female2_pl|Twilek Dancers
+trp_twilek_female3|Twi'lek Entertainer
+trp_twilek_female3_pl|Twilek Entertainers
+trp_twilek|Twi'lek
+trp_twilek_pl|Twi'leks
+trp_twilek_warrior|Twi'lek Warrior
+trp_twilek_warrior_pl|Twi'lek Warriors
+trp_twilek_soldier|Twi'lek Soldier
+trp_twilek_soldier_pl|Twi'lek Soldiers
+trp_twilek_commando|Twi'lek Commando
+trp_twilek_commando_pl|Twi'lek Commandos
+trp_rodian|Rodian
+trp_rodian_pl|Rodians
+trp_rodian_warrior|Rodian Warrior
+trp_rodian_warrior_pl|Rodian Warriors
+trp_rodian_hunter|Rodian Hunter
+trp_rodian_hunter_pl|Rodian Hunters
+trp_rodian_bounty_hunter|Rodian Bounty Hunter
+trp_rodian_bounty_hunter_pl|Rodian Bounty Hunters
+trp_trandoshan|Trandoshan
+trp_trandoshan_pl|Trandoshans
+trp_trandoshan_warrior|Trandoshan Warrior
+trp_trandoshan_warrior_pl|Trandoshan Warriors
+trp_trandoshan_hunter|Trandoshan Hunter
+trp_trandoshan_hunter_pl|Trandoshan Hunters
+trp_trandoshan_bounty_hunter|Trandoshan Bounty Hunter
+trp_trandoshan_bounty_hunter_pl|Trandoshan Bounty Hunters
+trp_moncal_1|Mon Calamarian
+trp_moncal_1_pl|Mon Calamarians
+trp_moncal_2|Mon Calamari Warrior
+trp_moncal_2_pl|Mon Calamari Warriors
+trp_moncal_3|Mon Calamari Soldier
+trp_moncal_3_pl|Mon Calamari Soldiers
+trp_moncal_4|Mon Calamari Knight
+trp_moncal_4_pl|Mon Calamari Knights
+trp_chiss_1|Chiss
+trp_chiss_1_pl|Chiss
+trp_chiss_2|Chiss Soldier
+trp_chiss_2_pl|Chiss Soldiers
+trp_chiss_3|Chiss Officer
+trp_chiss_3_pl|Chiss Officer
+trp_chiss_4|Chiss Commander
+trp_chiss_4_pl|Chiss Commanders
+trp_geonosian_1|Geonosian
+trp_geonosian_1_pl|Geonosians
+trp_geonosian_2|Geonosian Drone
+trp_geonosian_2_pl|Geonosian Drones
+trp_geonosian_3|Geonosian Warrior
+trp_geonosian_3_pl|Geonosian Warrior
+trp_geonosian_4|Veteran Geonosian Warrior
+trp_geonosian_4_pl|Veteran Geonosian Warrior
+trp_sullustan_1|Sullustan
+trp_sullustan_1_pl|Sullustans
+trp_sullustan_2|Sullustan Navigator
+trp_sullustan_2_pl|Sullustan Navigators
+trp_sullustan_3|Sullustan Pilot
+trp_sullustan_3_pl|Sullustan Pilots
+trp_sullustan_4|Sullustan Captain
+trp_sullustan_4_pl|Sullustan Captains
+trp_bothan|Bothan
+trp_bothan_pl|Bothans
+trp_bothan_militia|Bothan Militia
+trp_bothan_militia_pl|Bothan Militia
+trp_bothan_agent|Bothan Agent
+trp_bothan_agent_pl|Bothan Agents
+trp_bothan_infantry|Bothan Infantry
+trp_bothan_infantry_pl|Bothan Infantry
+trp_bothan_spy|Bothan Spy
+trp_bothan_spy_pl|Bothan Spies
+trp_bothan_infiltrator|Bothan Infiltrator
+trp_bothan_infiltrator_pl|Bothan Infiltrators
+trp_kaminoan|Kaminoan
+trp_kaminoan_pl|Kaminoans
+trp_ig88|IG-Series Assassin Droid
+trp_ig88_pl|IG-Series Assassin Droids
+trp_hkseries|HK-Series Droid
+trp_hkseries_pl|HK-Series Droids
+trp_defiler|Defiler
+trp_defiler_pl|Defilers
+trp_farmer|Farmer
+trp_farmer_pl|Farmers
+trp_townsman|Colonist
+trp_townsman_pl|Colonists
+trp_civilian|Civilian
+trp_civilian_pl|Civilians
+trp_militia|Militia
+trp_militia_pl|Militia
+trp_security_guard|Security Guard
+trp_security_guard_pl|Security Guards
+trp_soldier|Soldier
+trp_soldier_pl|Soldiers
+trp_bodyguard|Bodyguard
+trp_bodyguard_pl|Bodyguards
+trp_commando|Commando
+trp_commando_pl|Commandos
+trp_pilot|Pilot
+trp_pilot_pl|Pilots
+trp_thug|Thug
+trp_thug_pl|Thugs
+trp_goon|Goon
+trp_goon_pl|Goons
+trp_biker|Biker
+trp_biker_pl|Bikers
+trp_assassin|Assassin
+trp_assassin_pl|Assassins
+trp_biker_scout|Biker Scout
+trp_biker_scout_pl|Biker Scouts
+trp_mercenaries_end|mercenaries end
+trp_mercenaries_end_pl|mercenaries end
+trp_oom_series_security|OOM Security Battle Droid
+trp_oom_series_security_pl|OOM Security Battle Droids
+trp_oom_series_marine|OOM Marine Battle Droid
+trp_oom_series_marine_pl|OOM Marine Battle Droids
+trp_oom_series_pilot|OOM Pilot Battle Droid
+trp_oom_series_pilot_pl|OOM Pilot Battle Droids
+trp_oom_series_command|OOM Command Battle Droid
+trp_oom_series_command_pl|OOM Command Battle Droid
+trp_b1series|B1-Series Battle Droid
+trp_b1series_pl|B1-Series Battle Droids
+trp_b1series_assassin|B1-Series Droid Assassin
+trp_b1series_assassin_pl|B1-Series Droid Assassins
+trp_bxseries_commando|BX-Series Droid Commando
+trp_bxseries_commando_pl|BX-Series Droid Commandos
+trp_b2series|B2-Series Battle Droid
+trp_b2series_pl|B2-Series Battle Droids
+trp_b2series_enhanced|C-B3 Cortosis Battle Droid
+trp_b2series_enhanced_pl|C-B3 Cortosis Battle Droids
+trp_clone_trooper_1|Clone Trooper
+trp_clone_trooper_1_pl|Clone Troopers
+trp_clone_trooper_2|Clone Trooper Sergeant
+trp_clone_trooper_2_pl|Clone Trooper Sergeants
+trp_arc_trooper_2|Arc Trooper Sergeant
+trp_arc_trooper_2_pl|Arc Trooper Sergeants
+trp_clone_trooper_3|Clone Trooper Lieutenant
+trp_clone_trooper_3_pl|Clone Trooper Lieutenants
+trp_arc_trooper_3|Arc Trooper Lieutenant
+trp_arc_trooper_3_pl|Arc Trooper Lieutenants
+trp_clone_trooper_4|Clone Trooper Captain
+trp_clone_trooper_4_pl|Clone Trooper Captains
+trp_arc_trooper_4|Arc Trooper Captain
+trp_arc_trooper_4_pl|Arc Trooper Captains
+trp_clone_trooper_5|Clone Trooper Commander
+trp_clone_trooper_5_pl|Clone Trooper Commanders
+trp_arc_trooper_5|Arc Trooper Commander
+trp_arc_trooper_5_pl|Arc Trooper Commanders
+trp_rancor|Baby Rancor
+trp_rancor_pl|Baby Rancors
+trp_rancor_mutant|Mutant Baby Rancor
+trp_rancor_mutant_pl|Mutant Baby Rancors
+trp_asteroid_miner|Asteroid Miner
+trp_asteroid_miner_pl|Asteroid Miners
+trp_3poseries|3PO-Series Droid
+trp_3poseries_pl|3PO-Series Droids
+trp_r2series|R2-Series Droid
+trp_r2series_pl|R2-Series Droids
+trp_power_droid|EG-Series Power Droid
+trp_power_droid_pl|EG-Series Power Droids
+trp_fxseries_droid|FX-Series Medical Droid
+trp_fxseries_droid_pl|FX-Series Medical Droids
+trp_lin_droid|LIN Droid
+trp_lin_droid_pl|LIN Droids
+trp_mse6|MSE-Series Droid
+trp_mse6_pl|MSE-Series Droids
+trp_human_messenger|Messenger
+trp_human_messenger_pl|Messengers
+trp_human_deserter|Deserter
+trp_human_deserter_pl|Deserters
+trp_wookiee_messenger|Wookiee Messenger
+trp_wookiee_messenger_pl|Wookiee Messengers
+trp_wookiee_deserter|Wookiee Deserter
+trp_wookiee_deserter_pl|Wookiee Deserters
+trp_mandalorian_messenger|Mandalorian Messenger
+trp_mandalorian_messenger_pl|Mandalorian Messengers
+trp_mandalorian_deserter|Mandalorian Deserter
+trp_mandalorian_deserter_pl|Mandalorian Deserters
+trp_clone_messenger|Clone Messenger
+trp_clone_messenger_pl|Clone Messengers
+trp_clone_deserter|Clone Deserter
+trp_clone_deserter_pl|Clone Deserters
+trp_trandoshan_messenger|Trandoshan Messenger
+trp_trandoshan_messenger_pl|Trandoshan Messengers
+trp_trandoshan_deserter|Trandoshan Deserter
+trp_trandoshan_deserter_pl|Trandoshan Deserters
+trp_force_sensitive_recruit|Force-Sensitive
+trp_force_sensitive_recruit_pl|Force-Sensitives
+trp_imperial_recruit|Imperial Recruit
+trp_imperial_recruit_pl|Imperial Recruits
+trp_sith_hopeful|Sith Hopeful
+trp_sith_hopeful_pl|Sith Hopefuls
+trp_sith_acolyte|Sith Acolyte
+trp_sith_acolyte_pl|Sith Acolytes
+trp_sith_apprentice|Sith Apprentice
+trp_sith_apprentice_pl|Sith Apprentices
+trp_sith_knight|Sith Knight
+trp_sith_knight_pl|Sith Knights
+trp_sith_marauder|Sith Marauder
+trp_sith_marauder_pl|Sith Marauders
+trp_sith_master|Sith Master
+trp_sith_master_pl|Sith Masters
+trp_sith_lord|Sith Lord
+trp_sith_lord_pl|Sith Lords
+trp_imperial_navy_trooper|Imperial Navy Trooper
+trp_imperial_navy_trooper_pl|Imperial Navy Troopers
+trp_imperial_army_trooper|Imperial Army Trooper
+trp_imperial_army_trooper_pl|Imperial Army Troopers
+trp_imperial_gunner|Imperial Gunner
+trp_imperial_gunner_pl|Imperial Gunners
+trp_imperial_stormtrooper|Imperial Stormtrooper
+trp_imperial_stormtrooper_pl|Imperial Stormtroopers
+trp_imperial_pilot|Imperial Pilot
+trp_imperial_pilot_pl|Imperial Pilots
+trp_imperial_scout_trooper|Imperial Scout Trooper
+trp_imperial_scout_trooper_pl|Imperial Scout Troopers
+trp_imperial_gunner_veteran|Veteran Imperial Gunner
+trp_imperial_gunner_veteran_pl|Veteran Imperial Gunners
+trp_imperial_stormtrooper_veteran|Veteran Imperial Stormtrooper
+trp_imperial_stormtrooper_veteran_pl|Veteran Imperial Stormtroopers
+trp_incinerator_trooper|Incinerator Trooper
+trp_incinerator_trooper_pl|Incinerator Troopers
+trp_novatrooper|NovaTrooper
+trp_novatrooper_pl|NovaTroopers
+trp_imperial_pilot_veteran|Imperial Ace Pilot
+trp_imperial_pilot_veteran_pl|Imperial Ace Pilots
+trp_imperial_scout_trooper_veteran|Veteran Imperial Scout Trooper
+trp_imperial_scout_trooper_veteran_pl|Veteran Imperial Scout Troopers
+trp_imperial_scout_trooper_marksman|Imperial Scout Marksman
+trp_imperial_scout_trooper_marksman_pl|Imperial Scout Marksmen
+trp_imperial_scout_trooper_captain|Imperial Scout Trooper Captain
+trp_imperial_scout_trooper_captain_pl|Imperial Scout Trooper Captains
+trp_imperial_scout_trooper_sniper|Imperial Scout Sniper
+trp_imperial_scout_trooper_sniper_pl|Imperial Scout Snipers
+trp_imperial_stormtrooper_officer|Imperial Stormtrooper Officer
+trp_imperial_stormtrooper_officer_pl|Imperial Stormtrooper Officers
+trp_imperial_royal_guard|Imperial Royal Guard
+trp_imperial_royal_guard_pl|Imperial Royal Guards
+trp_imperial_messenger|Imperial Messenger
+trp_imperial_messenger_pl|Imperial Messengers
+trp_imperial_deserter|Imperial Deserter
+trp_imperial_deserter_pl|Imperial Deserters
+trp_rebel_recruit|Rebel Recruit
+trp_rebel_recruit_pl|Rebel Recruits
+trp_jedi_hopeful|Jedi Hopeful
+trp_jedi_hopeful_pl|Jedi Hopefuls
+trp_jedi_initiate|Jedi Initiate
+trp_jedi_initiate_pl|Jedi Initiates
+trp_jedi_padawan|Jedi Padawan
+trp_jedi_padawan_pl|Jedi Padawans
+trp_jedi_guardian|Jedi Guardian
+trp_jedi_guardian_pl|Jedi Guardians
+trp_jedi_consular|Jedi Consular
+trp_jedi_consular_pl|Jedi Consulars
+trp_jedi_warrior_master|Jedi Warrior Master
+trp_jedi_warrior_master_pl|Jedi Warrior Masters
+trp_jedi_sage_master|Jedi Sage Master
+trp_jedi_sage_master_pl|Jedi Sage Masters
+trp_jedi_councilor|Jedi Councilor
+trp_jedi_councilor_pl|Jedi Councilors
+trp_jedi_grand_master|Jedi Grand Master
+trp_jedi_grand_master_pl|Jedi Grand Masters
+trp_rebel_cadet|Rebel Cadet
+trp_rebel_cadet_pl|Rebel Cadets
+trp_rebel_trooper|Rebel Fleet Trooper
+trp_rebel_trooper_pl|Rebel Fleet Troopers
+trp_rebel_scout|Rebel Scout
+trp_rebel_scout_pl|Rebel Scouts
+trp_rebel_vanguard|Rebel Vanguard
+trp_rebel_vanguard_pl|Rebel Vanguards
+trp_rebel_pilot|Rebel Pilot
+trp_rebel_pilot_pl|Rebel Pilots
+trp_rebel_commando|Rebel Commando
+trp_rebel_commando_pl|Rebel Commandos
+trp_rebel_marksman|Rebel Marksman
+trp_rebel_marksman_pl|Rebel Marksmen
+trp_rebel_honor_guard|Rebel Honor Guard
+trp_rebel_honor_guard_pl|Rebel Honor Guards
+trp_rebel_heavy_trooper|Rebel Heavy Trooper
+trp_rebel_heavy_trooper_pl|Rebel Heavy Troopers
+trp_rebel_pilot_veteran|Rebel Ace Pilot
+trp_rebel_pilot_veteran_pl|Rebel Ace Pilots
+trp_rebel_commando_veteran|Veteran Rebel Commando
+trp_rebel_commando_veteran_pl|Veteran Rebel Commandos
+trp_rebel_sniper|Rebel Sniper
+trp_rebel_sniper_pl|Rebel Snipers
+trp_rebel_messenger|Rebel Messenger
+trp_rebel_messenger_pl|Rebel Messengers
+trp_rebel_deserter|Rebel Deserter
+trp_rebel_deserter_pl|Rebel Deserters
+trp_hutt_militia|Hutt Militia
+trp_hutt_militia_pl|Hutt Militias
+trp_hutt_mercenary|Hutt Mercenary
+trp_hutt_mercenary_pl|Hutt Mercenaries
+trp_hutt_guard|Hutt Guard
+trp_hutt_guard_pl|Hutt Guards
+trp_hutt_marksman|Hutt Marksman
+trp_hutt_marksman_pl|Hutt Marksmen
+trp_hutt_bounty_hunter|Hutt Bounty Hunter
+trp_hutt_bounty_hunter_pl|Hutt Bounty Hunters
+trp_hutt_skiff_guard|Hutt Skiff Guard
+trp_hutt_skiff_guard_pl|Hutt Skiff Guards
+trp_hutt_palace_guard|Hutt Palace Guard
+trp_hutt_palace_guard_pl|Hutt Palace Guards
+trp_hutt_commando|Hutt Commando
+trp_hutt_commando_pl|Hutt Commandos
+trp_hutt_skiff_guard_captain|Hutt Skiff Guard Captain
+trp_hutt_skiff_guard_captain_pl|Hutt Skiff Guard Captains
+trp_hutt_palace_guard_captain|Hutt Palace Guard Captain
+trp_hutt_palace_guard_captain_pl|Hutt Palace Guard Captains
+trp_hutt_messenger|Hutt Messenger
+trp_hutt_messenger_pl|Hutt Messengers
+trp_hutt_deserter|Hutt Deserter
+trp_hutt_deserter_pl|Hutt Deserters
+trp_jawa|Jawa
+trp_jawa_pl|Jawas
+trp_jawa_2|Jawa Scavenger
+trp_jawa_2_pl|Jawa Scavengers
+trp_jawa_3|Jawa Scout
+trp_jawa_3_pl|Jawa Scouts
+trp_bandit|Bandit
+trp_bandit_pl|Bandits
+trp_brigand|Brigand
+trp_brigand_pl|Brigands
+trp_black_sun_pirate_1|Black Sun Thug
+trp_black_sun_pirate_1_pl|Black Sun Thugs
+trp_black_sun_pirate_2|Black Sun Smuggler
+trp_black_sun_pirate_2_pl|Black Sun Smugglers
+trp_black_sun_pirate_3|Black Sun Pirate
+trp_black_sun_pirate_3_pl|Black Sun Pirates
+trp_black_sun_pirate_4|Black Sun Elite
+trp_black_sun_pirate_4_pl|Black Sun Elites
+trp_blazing_claw_pirate|Blazing Claw Pirate
+trp_blazing_claw_pirate_pl|Blazing Claw Pirates
+trp_blazing_claw_pirate_female|Blazing Claw Pirate
+trp_blazing_claw_pirate_female_pl|Blazing Claw Pirates
+trp_steppe_bandit|Night Fangs Pirate
+trp_steppe_bandit_pl|Night Fangs Pirates
+trp_steppe_bandit_female|Night Fangs Pirate
+trp_steppe_bandit_female_pl|Night Fangs Pirates
+trp_tusken_1|Tusken Warrior
+trp_tusken_1_pl|Tusken Warriors
+trp_tusken_2|Tusken Raider
+trp_tusken_2_pl|Tusken Raiders
+trp_bountyhunter|Trandoshan Slaver
+trp_bountyhunter_pl|Trandoshan Slavers
+trp_peasant_woman|Peasant Woman
+trp_peasant_woman_pl|Peasant Women
+trp_caravan_master|Freighter Captain
+trp_caravan_master_pl|Freighter Captains
+trp_kidnapped_girl|Kidnapped Girl
+trp_kidnapped_girl_pl|Kidnapped Girls
+trp_mainplanet_walker_1|Colonist
+trp_mainplanet_walker_1_pl|Colonists
+trp_mainplanet_walker_2|Colonist
+trp_mainplanet_walker_2_pl|Colonists
+trp_mainplanet_walker_twilek|Twilek
+trp_mainplanet_walker_twilek_pl|Twileks
+trp_mainplanet_walker_twilek_female|Twilek Female
+trp_mainplanet_walker_twilek_female_pl|Twilek Females
+trp_mainplanet_walker_twilek_female_slave|Twilek Slave Dancer
+trp_mainplanet_walker_twilek_female_slave_pl|Twilek Slave Dancers
+trp_mainplanet_walker_slave_dancer|Slave Dancer
+trp_mainplanet_walker_slave_dancer_pl|Slave Dancers
+trp_mainplanet_walker_chiss|Chiss
+trp_mainplanet_walker_chiss_pl|Chiss
+trp_mainplanet_walker_chiss_female|Chiss Female
+trp_mainplanet_walker_chiss_female_pl|Chiss Female
+trp_mainplanet_walker_mandalorian|Mandalorian
+trp_mainplanet_walker_mandalorian_pl|Mandalorians
+trp_mainplanet_walker_trandoshan|Trandoshan
+trp_mainplanet_walker_trandoshan_pl|Trandoshans
+trp_mainplanet_walker_rodian|Rodian
+trp_mainplanet_walker_rodian_pl|Rodians
+trp_mainplanet_walker_r2series|R2-Series Droid
+trp_mainplanet_walker_r2series_pl|R2-Series Droids
+trp_mainplanet_walker_lin_droid|LIN Droid
+trp_mainplanet_walker_lin_droid_pl|LIN Droids
+trp_mainplanet_walker_mse6|MSE-6 Droid
+trp_mainplanet_walker_mse6_pl|MSE-6 Droids
+trp_mainplanet_walker_3poseries|3PO-Series Droid
+trp_mainplanet_walker_3poseries_pl|3PO-Series Droids
+trp_mainplanet_walker_3poseries_naked|3PO-Series Droid
+trp_mainplanet_walker_3poseries_naked_pl|3PO-Series Droids
+trp_mainplanet_walker_power_droid|Power Droid
+trp_mainplanet_walker_power_droid_pl|Power Droids
+trp_mainplanet_walker_fxseries_droid|FX-Series Medical Droid
+trp_mainplanet_walker_fxseries_droid_pl|FX-Series Medical Droids
+trp_mainplanet_walker_hkseries|HK-Series Droid
+trp_mainplanet_walker_hkseries_pl|HK-Series Droids
+trp_mainplanet_walker_sullustan|Sullustan
+trp_mainplanet_walker_sullustan_pl|Sullustans
+trp_mainplanet_walker_bothan|Bothan
+trp_mainplanet_walker_bothan_pl|Bothans
+trp_mainplanet_walker_weequay|Weequay
+trp_mainplanet_walker_weequay_pl|Weequays
+trp_mainplanet_walker_klatooinian|Klatooinian
+trp_mainplanet_walker_klatooinian_pl|Klatooinians
+trp_mainplanet_walker_nikto|Nikto
+trp_mainplanet_walker_nikto_pl|Niktos
+trp_mainplanet_walker_jawa|Jawa
+trp_mainplanet_walker_jawa_pl|Jawas
+trp_mainplanet_walker_moncal|Mon Calamarian
+trp_mainplanet_walker_moncal_pl|Mon Calamarians
+trp_mainplanet_walker_geonosian|Geonosian
+trp_mainplanet_walker_geonosian_pl|geonosians
+trp_mainplanet_walker_wookiee|Wookiee
+trp_mainplanet_walker_wookiee_pl|Wookiees
+trp_mainplanet_walker_wookiee_female|Wookiee Female
+trp_mainplanet_walker_wookiee_female_pl|Wookiee Females
+trp_mainplanet_walker_gamorrean|Gamorrean
+trp_mainplanet_walker_gamorrean_pl|Gamorreans
+trp_mainplanet_walker_zabrak|Zabrak
+trp_mainplanet_walker_zabrak_pl|Zabraks
+trp_mainplanet_walker_empire_1|Imperial Navy Trooper
+trp_mainplanet_walker_empire_1_pl|Imperial Navy Trooper
+trp_mainplanet_walker_empire_2|Imperial Army Trooper
+trp_mainplanet_walker_empire_2_pl|Imperial Army Trooper
+trp_mainplanet_walker_empire_3|Imperial Stormtrooper
+trp_mainplanet_walker_empire_3_pl|Imperial Stormtrooper
+trp_mainplanet_walker_empire_4|Imperial Pilot
+trp_mainplanet_walker_empire_4_pl|Imperial Pilot
+trp_mainplanet_walker_empire_5|Imperial Scout Trooper
+trp_mainplanet_walker_empire_5_pl|Imperial Scout Trooper
+trp_mainplanet_walker_empire_6|Imperial Officer
+trp_mainplanet_walker_empire_6_pl|Imperial Officer
+trp_mainplanet_walker_empire_7|Sith Marauder
+trp_mainplanet_walker_empire_7_pl|Sith Marauders
+trp_mainplanet_walker_empire_8|MSE-6 Droid
+trp_mainplanet_walker_empire_8_pl|MSE-6 Droids
+trp_mainplanet_walker_rebel_1|Rebel Technician
+trp_mainplanet_walker_rebel_1_pl|Rebel Technician
+trp_mainplanet_walker_rebel_2|Rebel Trooper
+trp_mainplanet_walker_rebel_2_pl|Rebel Trooper
+trp_mainplanet_walker_rebel_3|Rebel Pilot
+trp_mainplanet_walker_rebel_3_pl|Rebel Pilot
+trp_mainplanet_walker_rebel_4|Rebel Commando
+trp_mainplanet_walker_rebel_4_pl|Rebel Commando
+trp_mainplanet_walker_rebel_5|Rebel Officer
+trp_mainplanet_walker_rebel_5_pl|Rebel Officer
+trp_mainplanet_walker_rebel_6|Jedi Master
+trp_mainplanet_walker_rebel_6_pl|Jedi Masters
+trp_mainplanet_walker_rebel_7|Mon Calamarian
+trp_mainplanet_walker_rebel_7_pl|Mon Calamarians
+trp_mainplanet_walker_rebel_8|Wookiee
+trp_mainplanet_walker_rebel_8_pl|Wookiees
+trp_mainplanet_walker_rebel_9|R2-Series Droid
+trp_mainplanet_walker_rebel_9_pl|R2-Series Droids
+trp_mainplanet_walker_hutt_1|Hutt Mercenary
+trp_mainplanet_walker_hutt_1_pl|Hutt Mercenary
+trp_mainplanet_walker_hutt_2|Hutt Skiff Guard
+trp_mainplanet_walker_hutt_2_pl|Hutt Skiff Guards
+trp_mainplanet_walker_hutt_3|Gamorrean Guard
+trp_mainplanet_walker_hutt_3_pl|Gamorrean Guards
+trp_mainplanet_walker_hutt_4|Slave Dancer
+trp_mainplanet_walker_hutt_4_pl|Slave Dancers
+trp_cantina_walker_1|Colonist
+trp_cantina_walker_1_pl|Colonists
+trp_cantina_walker_2|Colonist
+trp_cantina_walker_2_pl|Colonists
+trp_cantina_walker_rodian|Rodian
+trp_cantina_walker_rodian_pl|Rodians
+trp_cantina_walker_moncal|Mon Calamarian
+trp_cantina_walker_moncal_pl|Mon Calamarians
+trp_cantina_walker_trandoshan|Trandoshan
+trp_cantina_walker_trandoshan_pl|Trandoshans
+trp_cantina_walker_mandalorian|Mandalorian
+trp_cantina_walker_mandalorian_pl|Mandalorians
+trp_cantina_walker_sullustan|Sullustan
+trp_cantina_walker_sullustan_pl|Sullustans
+trp_cantina_walker_bothan|Bothan
+trp_cantina_walker_bothan_pl|Bothans
+trp_cantina_walker_chiss|Chiss
+trp_cantina_walker_chiss_pl|Chiss
+trp_cantina_walker_chiss_female|Chiss Female
+trp_cantina_walker_chiss_female_pl|Chiss Female
+trp_cantina_walker_weequay|Weequay
+trp_cantina_walker_weequay_pl|Weequays
+trp_cantina_walker_klatooinian|Klatooinian
+trp_cantina_walker_klatooinian_pl|Klatooinians
+trp_cantina_walker_nikto|Nikto
+trp_cantina_walker_nikto_pl|Niktos
+trp_cantina_walker_twilek|Twilek
+trp_cantina_walker_twilek_pl|Twileks
+trp_cantina_walker_twilek_female|Twilek Female
+trp_cantina_walker_twilek_female_pl|Twilek Females
+trp_cantina_walker_geonosian|Geonosian
+trp_cantina_walker_geonosian_pl|geonosians
+trp_cantina_walker_wookiee|Wookiee
+trp_cantina_walker_wookiee_pl|Wookiees
+trp_cantina_walker_wookiee_female|Wookiee Female
+trp_cantina_walker_wookiee_female_pl|Wookiee Females
+trp_cantina_walker_gamorrean|Gamorrean
+trp_cantina_walker_gamorrean_pl|Gamorreans
+trp_cantina_drinker_1|Colonist
+trp_cantina_drinker_1_pl|Colonists
+trp_cantina_drinker_rodian|Rodian
+trp_cantina_drinker_rodian_pl|Rodians
+trp_cantina_drinker_moncal|Mon Calamarian
+trp_cantina_drinker_moncal_pl|Mon Calamarians
+trp_cantina_drinker_trandoshan|Trandoshan
+trp_cantina_drinker_trandoshan_pl|Trandoshans
+trp_cantina_drinker_sullustan|Sullustan
+trp_cantina_drinker_sullustan_pl|Sullustans
+trp_cantina_drinker_bothan|Bothan
+trp_cantina_drinker_bothan_pl|Bothans
+trp_cantina_drinker_chiss|Chiss
+trp_cantina_drinker_chiss_pl|Chiss
+trp_cantina_drinker_weequay|Weequay
+trp_cantina_drinker_weequay_pl|Weequays
+trp_cantina_drinker_klatooinian|Klatooinian
+trp_cantina_drinker_klatooinian_pl|Klatooinians
+trp_cantina_drinker_nikto|Nikto
+trp_cantina_drinker_nikto_pl|Niktos
+trp_cantina_drinker_twilek|Twilek
+trp_cantina_drinker_twilek_pl|Twileks
+trp_minorplanet_walker_1|Colonist
+trp_minorplanet_walker_1_pl|Colonists
+trp_minorplanet_walker_2|Colonist
+trp_minorplanet_walker_2_pl|Colonists
+trp_minorplanet_walker_rodian|Rodian
+trp_minorplanet_walker_rodian_pl|Rodians
+trp_minorplanet_walker_moncal|Mon Calamarian
+trp_minorplanet_walker_moncal_pl|Mon Calamarians
+trp_minorplanet_walker_trandoshan|Trandoshan
+trp_minorplanet_walker_trandoshan_pl|Trandoshans
+trp_minorplanet_walker_mandalorian|Mandalorian
+trp_minorplanet_walker_mandalorian_pl|Mandalorians
+trp_minorplanet_walker_sullustan|Sullustan
+trp_minorplanet_walker_sullustan_pl|Sullustans
+trp_minorplanet_walker_bothan|Bothan
+trp_minorplanet_walker_bothan_pl|Bothans
+trp_minorplanet_walker_chiss|Chiss
+trp_minorplanet_walker_chiss_pl|Chiss
+trp_minorplanet_walker_chiss_female|Chiss Female
+trp_minorplanet_walker_chiss_female_pl|Chiss Female
+trp_minorplanet_walker_weequay|Weequay
+trp_minorplanet_walker_weequay_pl|Weequays
+trp_minorplanet_walker_klatooinian|Klatooinian
+trp_minorplanet_walker_klatooinian_pl|Klatooinians
+trp_minorplanet_walker_nikto|Nikto
+trp_minorplanet_walker_nikto_pl|Niktos
+trp_minorplanet_walker_twilek|Twilek
+trp_minorplanet_walker_twilek_pl|Twileks
+trp_minorplanet_walker_twilek_female|Twilek Female
+trp_minorplanet_walker_twilek_female_pl|Twilek Females
+trp_minorplanet_walker_twilek_female_slave|Twilek Slave
+trp_minorplanet_walker_twilek_female_slave_pl|Twilek Slaves
+trp_minorplanet_walker_geonosian|Geonosian
+trp_minorplanet_walker_geonosian_pl|geonosians
+trp_minorplanet_walker_wookiee|Wookiee
+trp_minorplanet_walker_wookiee_pl|Wookiees
+trp_minorplanet_walker_wookiee_female|Wookiee Female
+trp_minorplanet_walker_wookiee_female_pl|Wookiee Females
+trp_minorplanet_walker_gamorrean|Gamorrean
+trp_minorplanet_walker_gamorrean_pl|Gamorreans
+trp_minorplanet_walker_r2series|R2-Series Droid
+trp_minorplanet_walker_r2series_pl|R2-Series Droids
+trp_minorplanet_walker_lin_droid|LIN Droid
+trp_minorplanet_walker_lin_droid_pl|LIN Droids
+trp_minorplanet_walker_mse6|MSE-6 Droid
+trp_minorplanet_walker_mse6_pl|MSE-6 Droids
+trp_minorplanet_walker_3poseries|3PO-Series Droid
+trp_minorplanet_walker_3poseries_pl|3PO-Series Droids
+trp_minorplanet_walker_3poseries_naked|3PO-Series Droid
+trp_minorplanet_walker_3poseries_naked_pl|3PO-Series Droids
+trp_minorplanet_walker_power_droid|Power Droid
+trp_minorplanet_walker_power_droid_pl|Power Droids
+trp_minorplanet_walker_fxseries_droid|FX-Series Medical Droid
+trp_minorplanet_walker_fxseries_droid_pl|FX-Series Medical Droids
+trp_minorplanet_walker_hkseries|HK-Series Droid
+trp_minorplanet_walker_hkseries_pl|HK-Series Droids
+trp_spy_walker_1|Colonist
+trp_spy_walker_1_pl|Colonists
+trp_spy_walker_2|Colonist
+trp_spy_walker_2_pl|Colonists
+trp_assassin_male|Assassin
+trp_assassin_male_pl|Assassins
+trp_assassin_rodian|Rodian Assassin
+trp_assassin_rodian_pl|Rodian Assassins
+trp_assassin_trandoshan|Trandoshan Assassin
+trp_assassin_trandoshan_pl|Trandoshan Assassins
+trp_assassin_twilek|Twilek Assassin
+trp_assassin_twilek_pl|Twilek Assassins
+trp_assassin_mandalorian|Mandalorian Assassin
+trp_assassin_mandalorian_pl|Mandalorian Assassins
+trp_assassin_hkseries|HK-Series Assassin Droid
+trp_assassin_hkseries_pl|HK-Series Assassin Droids
+trp_ramun_the_slave_trader|Slave Trader
+trp_ramun_the_slave_trader_pl|Slave Trader
+trp_guide|Quick Jimmy
+trp_guide_pl|Quick Jimmy
+trp_tutorial_trainer|Training Ground Master
+trp_tutorial_trainer_pl|Training Ground Master
+trp_galeas|Galeas
+trp_galeas_pl|Galeas
+trp_farmer_from_bandit_village|Farmer
+trp_farmer_from_bandit_village_pl|Farmers
+trp_trainer_1|Trainer
+trp_trainer_1_pl|Trainer
+trp_trainer_2|Trainer
+trp_trainer_2_pl|Trainer
+trp_trainer_3|Trainer
+trp_trainer_3_pl|Trainer
+trp_trainer_4|Trainer
+trp_trainer_4_pl|Trainer
+trp_trainer_5|Trainer
+trp_trainer_5_pl|Trainer
+trp_ransom_broker_1|Ransom Broker
+trp_ransom_broker_1_pl|Ransom Broker
+trp_ransom_broker_2|Ransom Broker
+trp_ransom_broker_2_pl|Ransom Broker
+trp_ransom_broker_3|Ransom Broker
+trp_ransom_broker_3_pl|Ransom Broker
+trp_ransom_broker_4|Ransom Broker
+trp_ransom_broker_4_pl|Ransom Broker
+trp_ransom_broker_5|Ransom Broker
+trp_ransom_broker_5_pl|Ransom Broker
+trp_ransom_broker_6|Ransom Broker
+trp_ransom_broker_6_pl|Ransom Broker
+trp_ransom_broker_7|Ransom Broker
+trp_ransom_broker_7_pl|Ransom Broker
+trp_ransom_broker_8|Ransom Broker
+trp_ransom_broker_8_pl|Ransom Broker
+trp_ransom_broker_9|Ransom Broker
+trp_ransom_broker_9_pl|Ransom Broker
+trp_ransom_broker_10|Ransom Broker
+trp_ransom_broker_10_pl|Ransom Broker
+trp_tavern_traveler_1|Traveller
+trp_tavern_traveler_1_pl|Traveller
+trp_tavern_traveler_2|Traveller
+trp_tavern_traveler_2_pl|Traveller
+trp_tavern_traveler_3|Traveller
+trp_tavern_traveler_3_pl|Traveller
+trp_tavern_traveler_4|Traveller
+trp_tavern_traveler_4_pl|Traveller
+trp_tavern_traveler_5|Traveller
+trp_tavern_traveler_5_pl|Traveller
+trp_tavern_traveler_6|Traveller
+trp_tavern_traveler_6_pl|Traveller
+trp_tavern_traveler_7|Traveller
+trp_tavern_traveler_7_pl|Traveller
+trp_tavern_traveler_8|Traveller
+trp_tavern_traveler_8_pl|Traveller
+trp_tavern_traveler_9|Traveller
+trp_tavern_traveler_9_pl|Traveller
+trp_tavern_traveler_10|Traveller
+trp_tavern_traveler_10_pl|Traveller
+trp_tavern_bookseller_1|Holocron Merchant
+trp_tavern_bookseller_1_pl|Holocron Merchant
+trp_tavern_bookseller_2|Holocron Merchant
+trp_tavern_bookseller_2_pl|Holocron Merchant
+trp_tavern_bookseller_3|Item Merchant
+trp_tavern_bookseller_3_pl|Item Merchant
+trp_tavern_bookseller_4|Item Merchant
+trp_tavern_bookseller_4_pl|Item Merchant
+trp_tavern_bookseller_5|Force-Sensitive Trainer
+trp_tavern_bookseller_5_pl|Force-Sensitive Trainers
+trp_tavern_bookseller_6|Force-Sensitive Trainer
+trp_tavern_bookseller_6_pl|Force-Sensitive Trainers
+trp_tavern_bookseller_7|Clone Wars Era Merchant
+trp_tavern_bookseller_7_pl|Clone Era Merchants
+trp_tavern_bookseller_8|Clone Wars Era Merchant
+trp_tavern_bookseller_8_pl|Clone Era Merchants
+trp_tavern_bookseller_9|Illegal Weapons Merchant
+trp_tavern_bookseller_9_pl|Illegal Weapons Merchants
+trp_tavern_bookseller_10|Illegal Weapons Merchant
+trp_tavern_bookseller_10_pl|Illegal Weapons Merchants
+trp_tavern_bookseller_11|Droid Parts Merchant
+trp_tavern_bookseller_11_pl|Droid Parts Merchants
+trp_tavern_bookseller_12|Droid Parts Merchant
+trp_tavern_bookseller_12_pl|Droid Parts Merchants
+trp_tavern_bookseller_13|Plastic Surgeon
+trp_tavern_bookseller_13_pl|Plastic Surgeons
+trp_tavern_bookseller_14|Plastic Surgeon
+trp_tavern_bookseller_14_pl|Plastic Surgeons
+trp_tavern_bookseller_15|Force-Sensitive Merchant
+trp_tavern_bookseller_15_pl|Force-Sensitive Merchants
+trp_tavern_bookseller_16|Force-Sensitive Merchant
+trp_tavern_bookseller_16_pl|Force-Sensitive Merchants
+trp_tavern_minstrel_1|Musician
+trp_tavern_minstrel_1_pl|Musicians
+trp_npc1|Kyle Katarn
+trp_npc1_pl|Kyle Katarn
+trp_npc2|Rahm Kota
+trp_npc2_pl|Rahm Kota
+trp_npc3|Kyra Moryne
+trp_npc3_pl|Kyra Moryne
+trp_npc4|Dav Foss
+trp_npc4_pl|Dav Foss
+trp_npc5|Trec Quizan
+trp_npc5_pl|Trec Quizan
+trp_npc6|Gaven Iscandar
+trp_npc6_pl|Gaven Iscandar
+trp_npc7|Jade Codi
+trp_npc7_pl|Jade Codi
+trp_npc8|Dossok Snorkh
+trp_npc8_pl|Dossok Snorkh
+trp_npc9|Arvis Sunwright
+trp_npc9_pl|Arvis Sunwright
+trp_npc10|Nerthak Beviin
+trp_npc10_pl|Nerthak Beviin
+trp_npc11|Luna Novar
+trp_npc11_pl|Luna Novar
+trp_npc12|Vaian Swogg
+trp_npc12_pl|Vaian Swogg
+trp_npc13|Tam Yarrow
+trp_npc13_pl|Tam Yarrow
+trp_npc14|Rath Varik
+trp_npc14_pl|Rath Varik
+trp_npc15|Miriti Shoa
+trp_npc15_pl|Miriti Shoa
+trp_npc16|Anela Kinse
+trp_npc16_pl|Anela Kinse
+trp_npc17|B-2HO
+trp_npc17_pl|B-2HO
+trp_npc18|B-2KI
+trp_npc18_pl|B-2KI
+trp_faction_heroes_including_player_begin|faction heroes including player begin
+trp_faction_heroes_including_player_begin_pl|faction heroes including player begin
+trp_galacticempire_lord|Emperor Palpatine
+trp_galacticempire_lord_pl|Faction 1 Lord
+trp_rebelalliance_lord|Mon Mothma
+trp_rebelalliance_lord_pl|Faction 2 Lord
+trp_huttcartel_lord|Jabba the Hutt
+trp_huttcartel_lord_pl|Faction 3 Lord
+trp_knight_1_1|Darth Vader
+trp_knight_1_1_pl|knight 1 1
+trp_knight_1_2|Grand Moff Tarkin
+trp_knight_1_2_pl|knight 1 2
+trp_knight_1_3|General Maximilian Veers
+trp_knight_1_3_pl|knight 1 3
+trp_knight_1_4|Grand General Malcor Brashin
+trp_knight_1_4_pl|knight 1 4
+trp_knight_1_5|Mara Jade
+trp_knight_1_5_pl|knight 1 5
+trp_knight_1_6|Grand Inquisitor Malorum
+trp_knight_1_6_pl|knight 1 6
+trp_knight_1_7|Major General Cass
+trp_knight_1_7_pl|knight 1 7
+trp_knight_1_8|Grand Admiral Thrawn
+trp_knight_1_8_pl|knight 1 8
+trp_knight_1_9|Inquisitor Ja'ce Yiaso
+trp_knight_1_9_pl|knight 1 8
+trp_knight_1_10|Grand Admiral Gilad Pellaeon
+trp_knight_1_10_pl|knight 1 9
+trp_knight_1_11|General Rom Mohc
+trp_knight_1_11_pl|knight 1 0
+trp_knight_1_12|Colonel Wullf Yularen
+trp_knight_1_12_pl|knight 1 1
+trp_knight_1_13|Inquisitor Hydra
+trp_knight_1_13_pl|knight 1 2
+trp_knight_1_14|Moff Jerjerrod
+trp_knight_1_14_pl|knight 1 3
+trp_knight_1_15|General Moradmin Bast
+trp_knight_1_15_pl|knight 1 4
+trp_knight_1_16|Inquisitor Onel'da
+trp_knight_1_16_pl|knight 1 5
+trp_knight_1_17|Grand Moff Trachta
+trp_knight_1_17_pl|knight 1 6
+trp_knight_1_18|Admiral Conan Antonio Motti
+trp_knight_1_18_pl|knight 1 7
+trp_knight_1_19|High General Cassio Tagge
+trp_knight_1_19_pl|knight 1 8
+trp_knight_1_20|Grand Moff Argon
+trp_knight_1_20_pl|knight 1 9
+trp_knight_1_21|Admiral Firmus Piett
+trp_knight_1_21_pl|knight 1 0
+trp_knight_1_22|Officer Mikin Leedine
+trp_knight_1_22_pl|knight 1 2
+trp_knight_1_23|Officer Ratrian Oray
+trp_knight_1_23_pl|knight 1 3
+trp_knight_1_24|Officer Beos Kutdine
+trp_knight_1_24_pl|knight 1 4
+trp_knight_1_25|Officer Akareen Lighttrayn
+trp_knight_1_25_pl|knight 1 5
+trp_knight_1_26|Officer Joreen Tarkdres
+trp_knight_1_26_pl|knight 1 6
+trp_knight_1_27|Officer Kelnah Leesiri
+trp_knight_1_27_pl|knight 1 7
+trp_knight_1_28|Officer Cedmel Krakin
+trp_knight_1_28_pl|knight 1 8
+trp_knight_1_29|Officer Shiran Kraerre
+trp_knight_1_29_pl|knight 1 9
+trp_knight_1_30|Officer Mobus Heldres
+trp_knight_1_30_pl|knight 1 0
+trp_knight_1_31|Officer Jaron Ardcin
+trp_knight_1_31_pl|knight 1 1
+trp_knight_1_32|Officer Savlif Skyhek
+trp_knight_1_32_pl|knight 1 2
+trp_knight_1_33|Officer Raron Tarms
+trp_knight_1_33_pl|knight 1 3
+trp_knight_1_34|Officer Shaka Selbaoth
+trp_knight_1_34_pl|knight 1 4
+trp_knight_1_35|Officer Ratrian Terrray
+trp_knight_1_35_pl|knight 1 5
+trp_knight_1_36|Officer Jaler Queldres
+trp_knight_1_36_pl|knight 1 6
+trp_knight_1_37|Officer Zarax Nertrin
+trp_knight_1_37_pl|knight 1 7
+trp_knight_1_38|Officer Wedra Leeonel
+trp_knight_1_38_pl|knight 1 8
+trp_knight_1_39|Officer Nabron Faturus
+trp_knight_1_39_pl|knight 1 9
+trp_knight_1_40|Officer Jasati Tarkkin
+trp_knight_1_40_pl|knight 1 0
+trp_knight_1_41|Officer Lenmel Talwol
+trp_knight_1_41_pl|knight 1 1
+trp_knight_1_42|Officer Jain Drykin
+trp_knight_1_42_pl|knight 1 2
+trp_knight_1_43|Officer Kely Tarrak
+trp_knight_1_43_pl|knight 1 3
+trp_knight_1_44|Officer Reric Kutlo
+trp_knight_1_44_pl|knight 1 4
+trp_knight_1_45|Officer Milis Quallo
+trp_knight_1_45_pl|knight 1 5
+trp_knight_taris|Joruus C'baoth
+trp_knight_taris_pl|knight 2 1
+trp_knight_2_1|Obi-Wan Kenobi
+trp_knight_2_1_pl|knight 2 1
+trp_knight_2_2|Luke Skywalker
+trp_knight_2_2_pl|knight 2 2
+trp_knight_2_3|General Jan Dodonna
+trp_knight_2_3_pl|knight 2 3
+trp_knight_2_4|Chewbacca
+trp_knight_2_4_pl|knight 2 4
+trp_knight_2_5|Han Solo
+trp_knight_2_5_pl|knight 2 5
+trp_knight_2_6|Lando Calrissian
+trp_knight_2_6_pl|knight 2 6
+trp_knight_2_7|Leia Organa
+trp_knight_2_7_pl|knight 2 7
+trp_knight_2_8|Yoda
+trp_knight_2_8_pl|knight 2 8
+trp_knight_2_9|Admiral Ackbar
+trp_knight_2_9_pl|knight 2 9
+trp_knight_2_10|General Carlist Rieekan
+trp_knight_2_10_pl|knight 2 0
+trp_knight_2_11|General Crix Madine
+trp_knight_2_11_pl|knight 2 1
+trp_knight_2_12|General Pharl McQuarrie
+trp_knight_2_12_pl|knight 2 2
+trp_knight_2_13|Major Bren Derlin
+trp_knight_2_13_pl|knight 2 3
+trp_knight_2_14|Captain Yutani
+trp_knight_2_14_pl|knight 2 4
+trp_knight_2_15|Lieutenant Greeve
+trp_knight_2_15_pl|knight 2 5
+trp_knight_2_16|Corran Horn
+trp_knight_2_16_pl|knight 2 6
+trp_knight_2_17|Wes Janson
+trp_knight_2_17_pl|knight 2 7
+trp_knight_2_18|Wedge Antilles
+trp_knight_2_18_pl|knight 2 8
+trp_knight_2_19|Echuu Sehn-Jon
+trp_knight_2_19_pl|knight 2 8
+trp_knight_2_20|Arvel Crynyd
+trp_knight_2_20_pl|knight 2 9
+trp_knight_2_21|Nik Sant
+trp_knight_2_21_pl|knight 2 0
+trp_knight_2_22|Derek Klivian
+trp_knight_2_22_pl|knight 2 1
+trp_knight_2_23|Commander Elte Tuntrin
+trp_knight_2_23_pl|knight 2 2
+trp_knight_2_24|Commander Shiy Facken
+trp_knight_2_24_pl|knight 2 3
+trp_knight_2_25|Commander Jomi Torwalker
+trp_knight_2_25_pl|knight 2 4
+trp_knight_2_26|Commander Shay Kracin
+trp_knight_2_26_pl|knight 2 5
+trp_knight_2_27|Commander Dakan Talik
+trp_knight_2_27_pl|knight 2 6
+trp_knight_2_28|Commander Celnia Terrles
+trp_knight_2_28_pl|knight 2 7
+trp_knight_2_29|Commander Jeran Ardtrin
+trp_knight_2_29_pl|knight 2 8
+trp_knight_2_30|Commander Corsati Berles
+trp_knight_2_30_pl|knight 2 9
+trp_knight_2_31|Commander Shin Lightrus
+trp_knight_2_31_pl|knight 2 0
+trp_knight_2_32|Commander Janah Talik
+trp_knight_2_32_pl|knight 2 1
+trp_knight_2_33|Commander Lerek Terrtrayn
+trp_knight_2_33_pl|knight 2 2
+trp_knight_2_34|Commander Rhyin Quellan
+trp_knight_2_34_pl|knight 2 3
+trp_knight_2_35|Commander Ardlena Sanhek
+trp_knight_2_35_pl|knight 2 4
+trp_knight_2_36|Commander Pakric Cynekin
+trp_knight_2_36_pl|knight 2 5
+trp_knight_3_1|Boba Fett
+trp_knight_3_1_pl|knight 3 1
+trp_knight_3_2|Bib Fortuna
+trp_knight_3_2_pl|knight 3 2
+trp_knight_3_3|Queequeg
+trp_knight_3_3_pl|knight 3 3
+trp_knight_3_4|Weequay
+trp_knight_3_4_pl|knight 3 4
+trp_knight_3_5|Bossk
+trp_knight_3_5_pl|knight 3 5
+trp_knight_3_6|Dengar
+trp_knight_3_6_pl|knight 3 6
+trp_knight_3_7|Zuckuss
+trp_knight_3_7_pl|knight 3 7
+trp_knight_3_8|Barada
+trp_knight_3_8_pl|knight 3 8
+trp_knight_3_9|Greedo
+trp_knight_3_9_pl|knight 3 9
+trp_knight_3_10|Xob
+trp_knight_3_10_pl|knight 3 0
+trp_knight_3_11|Ortugg
+trp_knight_3_11_pl|knight 3 1
+trp_knight_3_12|Gartogg
+trp_knight_3_12_pl|knight 3 2
+trp_knight_3_13|Jubnuk
+trp_knight_3_13_pl|knight 3 3
+trp_knight_3_14|Rogua
+trp_knight_3_14_pl|knight 3 4
+trp_knight_3_15|Thok
+trp_knight_3_15_pl|knight 3 5
+trp_knight_3_16|Thug
+trp_knight_3_16_pl|knight 3 6
+trp_knight_3_17|Warlug
+trp_knight_3_17_pl|knight 3 7
+trp_knight_3_18|Tront
+trp_knight_3_18_pl|knight 3 8
+trp_knight_3_19|Malakili
+trp_knight_3_19_pl|knight 3 9
+trp_knight_3_20|Nizuc Bek
+trp_knight_3_20_pl|knight 3 0
+trp_reserved_knight_1|Commander Pechnak
+trp_reserved_knight_1_pl|knight 6 1
+trp_reserved_knight_2|Commander Daynad
+trp_reserved_knight_2_pl|knight 6 2
+trp_reserved_knight_3|Commander Joayah
+trp_reserved_knight_3_pl|knight 6 3
+trp_reserved_knight_4|Commander Marlund
+trp_reserved_knight_4_pl|knight 6 4
+trp_reserved_knight_5|Commander Taarl
+trp_reserved_knight_5_pl|knight 6 5
+trp_reserved_knight_6|Commander Euscarl
+trp_reserved_knight_6_pl|knight 6 6
+trp_reserved_knight_7|Commander Sigmar
+trp_reserved_knight_7_pl|knight 6 7
+trp_reserved_knight_8|Commander Talesqe
+trp_reserved_knight_8_pl|knight 6 8
+trp_reserved_knight_9|Commander Aels
+trp_reserved_knight_9_pl|knight 6 9
+trp_reserved_knight_10|Commander Raurqe
+trp_reserved_knight_10_pl|knight 6 0
+trp_reserved_knight_11|Commander Bragamus
+trp_reserved_knight_11_pl|knight 6 1
+trp_reserved_knight_12|Commander Ramin
+trp_reserved_knight_12_pl|knight 6 2
+trp_reserved_knight_13|Commander Shulk
+trp_reserved_knight_13_pl|knight 6 3
+trp_reserved_knight_14|Commander Putar
+trp_reserved_knight_14_pl|knight 6 4
+trp_reserved_knight_15|Commander Reichad
+trp_reserved_knight_15_pl|knight 6 5
+trp_reserved_knight_16|Commander Walcheas
+trp_reserved_knight_16_pl|knight 6 6
+trp_reserved_knight_17|Commander Rulkh
+trp_reserved_knight_17_pl|knight 6 7
+trp_reserved_knight_18|Commander Ramar
+trp_reserved_knight_18_pl|knight 6 8
+trp_reserved_knight_19|Commander Caldaran
+trp_reserved_knight_19_pl|knight 6 9
+trp_reserved_knight_20|Commander Brabas
+trp_reserved_knight_20_pl|knight 6 0
+trp_heroes_end|heroes end
+trp_heroes_end_pl|heroes end
+trp_mainplanet_mandalore_seneschal|Planet Administrator
+trp_mainplanet_mandalore_seneschal_pl|Town 1 Administrator
+trp_mainplanet_christophsis_seneschal|Planet Administrator
+trp_mainplanet_christophsis_seneschal_pl|Town 2 Administrator
+trp_mainplanet_endor_seneschal|Planet Administrator
+trp_mainplanet_endor_seneschal_pl|Town 3 Administrator
+trp_mainplanet_corellia_seneschal|Planet Administrator
+trp_mainplanet_corellia_seneschal_pl|Town 4 Administrator
+trp_mainplanet_naboo_seneschal|Planet Administrator
+trp_mainplanet_naboo_seneschal_pl|Town 5 Administrator
+trp_mainplanet_kessel_seneschal|Planet Administrator
+trp_mainplanet_kessel_seneschal_pl|Town 6 Administrator
+trp_mainplanet_dantooine_seneschal|Planet Administrator
+trp_mainplanet_dantooine_seneschal_pl|Town 7 Administrator
+trp_mainplanet_geonosis_seneschal|Planet Administrator
+trp_mainplanet_geonosis_seneschal_pl|Town 8 Administrator
+trp_mainplanet_mon_cal_seneschal|Planet Administrator
+trp_mainplanet_mon_cal_seneschal_pl|Town 9 Administrator
+trp_mainplanet_kashyyyk_seneschal|Planet Administrator
+trp_mainplanet_kashyyyk_seneschal_pl|Town 10 Administrator
+trp_mainplanet_hoth_seneschal|Planet Administrator
+trp_mainplanet_hoth_seneschal_pl|Town 11 Administrator
+trp_mainplanet_gamorr_seneschal|Planet Administrator
+trp_mainplanet_gamorr_seneschal_pl|Town 12 Administrator
+trp_mainplanet_yavin_iv_seneschal|Planet Administrator
+trp_mainplanet_yavin_iv_seneschal_pl|Town 13 Administrator
+trp_mainplanet_tatooine_seneschal|Planet Administrator
+trp_mainplanet_tatooine_seneschal_pl|Town 14 Administrator
+trp_mainplanet_manaan_seneschal|Planet Administrator
+trp_mainplanet_manaan_seneschal_pl|Town 14 Administrator
+trp_mainplanet_coruscant_seneschal|Planet Administrator
+trp_mainplanet_coruscant_seneschal_pl|Town 14 Administrator
+trp_mainplanet_ryloth_seneschal|Planet Administrator
+trp_mainplanet_ryloth_seneschal_pl|Town 14 Administrator
+trp_mainplanet_nalhutta_seneschal|Planet Administrator
+trp_mainplanet_nalhutta_seneschal_pl|Town 14 Administrator
+trp_mainplanet_bothawui_seneschal|Planet Administrator
+trp_mainplanet_bothawui_seneschal_pl|Town 19 Administrator
+trp_mainplanet_mustafar_seneschal|Planet Administrator
+trp_mainplanet_mustafar_seneschal_pl|Town 20 Administrator
+trp_mainplanet_kamino_seneschal|Planet Administrator
+trp_mainplanet_kamino_seneschal_pl|Town 21 Administrator
+trp_mainplanet_taris_seneschal|Planet Administrator
+trp_mainplanet_taris_seneschal_pl|Town 21 Administrator
+trp_mainplanet_raxusprime_seneschal|Planet Administrator
+trp_mainplanet_raxusprime_seneschal_pl|Town 21 Administrator
+trp_mainplanet_sarapin_seneschal|Planet Administrator
+trp_mainplanet_sarapin_seneschal_pl|Town 21 Administrator
+trp_mainplanet_hypori_seneschal|Planet Administrator
+trp_mainplanet_hypori_seneschal_pl|Town 21 Administrator
+trp_mainplanet_felucia_seneschal|Planet Administrator
+trp_mainplanet_felucia_seneschal_pl|Town 21 Administrator
+trp_mainplanet_bespin_seneschal|Planet Administrator
+trp_mainplanet_bespin_seneschal_pl|Town 21 Administrator
+trp_spacestation_1_seneschal|Spacestation Commander
+trp_spacestation_1_seneschal_pl|Castle 1 Administrator
+trp_spacestation_2_seneschal|Spacestation Commander
+trp_spacestation_2_seneschal_pl|Castle 2 Administrator
+trp_spacestation_3_seneschal|Spacestation Commander
+trp_spacestation_3_seneschal_pl|Castle 3 Administrator
+trp_spacestation_4_seneschal|Spacestation Commander
+trp_spacestation_4_seneschal_pl|Castle 4 Administrator
+trp_spacestation_5_seneschal|Spacestation Commander
+trp_spacestation_5_seneschal_pl|Castle 5 Administrator
+trp_spacestation_6_seneschal|Spacestation Commander
+trp_spacestation_6_seneschal_pl|Castle 6 Administrator
+trp_spacestation_7_seneschal|Spacestation Commander
+trp_spacestation_7_seneschal_pl|Castle 7 Administrator
+trp_spacestation_8_seneschal|Spacestation Commander
+trp_spacestation_8_seneschal_pl|Castle 8 Administrator
+trp_spacestation_9_seneschal|Spacestation Commander
+trp_spacestation_9_seneschal_pl|Castle 9 Administrator
+trp_spacestation_10_seneschal|Spacestation Commander
+trp_spacestation_10_seneschal_pl|Castle 10 Administrator
+trp_spacestation_11_seneschal|Spacestation Commander
+trp_spacestation_11_seneschal_pl|Castle 11 Administrator
+trp_spacestation_12_seneschal|Spacestation Commander
+trp_spacestation_12_seneschal_pl|Castle 2 Administrator
+trp_spacestation_13_seneschal|Spacestation Commander
+trp_spacestation_13_seneschal_pl|Castle 3 Administrator
+trp_spacestation_14_seneschal|Spacestation Commander
+trp_spacestation_14_seneschal_pl|Castle 4 Administrator
+trp_spacestation_15_seneschal|Spacestation Commander
+trp_spacestation_15_seneschal_pl|Castle 5 Administrator
+trp_spacestation_16_seneschal|Spacestation Commander
+trp_spacestation_16_seneschal_pl|Castle 6 Administrator
+trp_spacestation_17_seneschal|Spacestation Commander
+trp_spacestation_17_seneschal_pl|Castle 7 Administrator
+trp_spacestation_18_seneschal|Spacestation Commander
+trp_spacestation_18_seneschal_pl|Castle 8 Administrator
+trp_spacestation_19_seneschal|Spacestation Commander
+trp_spacestation_19_seneschal_pl|Castle 9 Administrator
+trp_spacestation_20_seneschal|Spacestation Commander
+trp_spacestation_20_seneschal_pl|Castle 20 Administrator
+trp_spacestation_21_seneschal|Spacestation Commander
+trp_spacestation_21_seneschal_pl|Castle 11 Administrator
+trp_spacestation_22_seneschal|Spacestation Commander
+trp_spacestation_22_seneschal_pl|Castle 2 Administrator
+trp_spacestation_23_seneschal|Spacestation Commander
+trp_spacestation_23_seneschal_pl|Castle 3 Administrator
+trp_spacestation_24_seneschal|Spacestation Commander
+trp_spacestation_24_seneschal_pl|Castle 4 Administrator
+trp_spacestation_25_seneschal|Spacestation Commander
+trp_spacestation_25_seneschal_pl|Castle 5 Administrator
+trp_spacestation_26_seneschal|Spacestation Commander
+trp_spacestation_26_seneschal_pl|Castle 6 Administrator
+trp_spacestation_27_seneschal|Spacestation Commander
+trp_spacestation_27_seneschal_pl|Castle 7 Administrator
+trp_spacestation_28_seneschal|Spacestation Commander
+trp_spacestation_28_seneschal_pl|Castle 8 Administrator
+trp_spacestation_29_seneschal|Spacestation Commander
+trp_spacestation_29_seneschal_pl|Castle 9 Administrator
+trp_spacestation_30_seneschal|Spacestation Commander
+trp_spacestation_30_seneschal_pl|Castle 20 Administrator
+trp_spacestation_31_seneschal|Spacestation Commander
+trp_spacestation_31_seneschal_pl|Castle 11 Administrator
+trp_spacestation_32_seneschal|Spacestation Commander
+trp_spacestation_32_seneschal_pl|Castle 2 Administrator
+trp_spacestation_33_seneschal|Spacestation Commander
+trp_spacestation_33_seneschal_pl|Castle 3 Administrator
+trp_spacestation_34_seneschal|Spacestation Commander
+trp_spacestation_34_seneschal_pl|Castle 4 Administrator
+trp_spacestation_35_seneschal|Spacestation Commander
+trp_spacestation_35_seneschal_pl|Castle 5 Administrator
+trp_spacestation_36_seneschal|Spacestation Commander
+trp_spacestation_36_seneschal_pl|Castle 6 Administrator
+trp_spacestation_37_seneschal|Spacestation Commander
+trp_spacestation_37_seneschal_pl|Castle 7 Administrator
+trp_spacestation_38_seneschal|Spacestation Commander
+trp_spacestation_38_seneschal_pl|Castle 8 Administrator
+trp_spacestation_39_seneschal|Spacestation Commander
+trp_spacestation_39_seneschal_pl|Castle 9 Administrator
+trp_spacestation_40_seneschal|Spacestation Commander
+trp_spacestation_40_seneschal_pl|Castle 20 Administrator
+trp_spacestation_41_seneschal|Spacestation Commander
+trp_spacestation_41_seneschal_pl|Castle 20 Administrator
+trp_spacestation_42_seneschal|Spacestation Commander
+trp_spacestation_42_seneschal_pl|Castle 20 Administrator
+trp_mainplanet_mandalore_arena_master|Arena Master
+trp_mainplanet_mandalore_arena_master_pl|Tournament Master
+trp_mainplanet_christophsis_arena_master|Arena Master
+trp_mainplanet_christophsis_arena_master_pl|Tournament Master
+trp_mainplanet_endor_arena_master|Arena Master
+trp_mainplanet_endor_arena_master_pl|Tournament Master
+trp_mainplanet_corellia_arena_master|Arena Master
+trp_mainplanet_corellia_arena_master_pl|Tournament Master
+trp_mainplanet_naboo_arena_master|Arena Master
+trp_mainplanet_naboo_arena_master_pl|Tournament Master
+trp_mainplanet_kessel_arena_master|Arena Master
+trp_mainplanet_kessel_arena_master_pl|Tournament Master
+trp_mainplanet_dantooine_arena_master|Arena Master
+trp_mainplanet_dantooine_arena_master_pl|Tournament Master
+trp_mainplanet_geonosis_arena_master|Arena Master
+trp_mainplanet_geonosis_arena_master_pl|Tournament Master
+trp_mainplanet_mon_cal_arena_master|Arena Master
+trp_mainplanet_mon_cal_arena_master_pl|Tournament Master
+trp_mainplanet_kashyyyk_arena_master|Arena Master
+trp_mainplanet_kashyyyk_arena_master_pl|Tournament Master
+trp_mainplanet_hoth_arena_master|Arena Master
+trp_mainplanet_hoth_arena_master_pl|Tournament Master
+trp_mainplanet_gamorr_arena_master|Arena Master
+trp_mainplanet_gamorr_arena_master_pl|Tournament Master
+trp_mainplanet_yavin_iv_arena_master|Arena Master
+trp_mainplanet_yavin_iv_arena_master_pl|Tournament Master
+trp_mainplanet_tatooine_arena_master|Arena Master
+trp_mainplanet_tatooine_arena_master_pl|Tournament Master
+trp_mainplanet_manaan_arena_master|Arena Master
+trp_mainplanet_manaan_arena_master_pl|Tournament Master
+trp_mainplanet_coruscant_arena_master|Arena Master
+trp_mainplanet_coruscant_arena_master_pl|Tournament Master
+trp_mainplanet_ryloth_arena_master|Arena Master
+trp_mainplanet_ryloth_arena_master_pl|Tournament Master
+trp_mainplanet_nalhutta_arena_master|Arena Master
+trp_mainplanet_nalhutta_arena_master_pl|Tournament Master
+trp_mainplanet_bothawui_arena_master|Arena Master
+trp_mainplanet_bothawui_arena_master_pl|Tournament Master
+trp_mainplanet_mustafar_arena_master|Arena Master
+trp_mainplanet_mustafar_arena_master_pl|Tournament Master
+trp_mainplanet_kamino_arena_master|Arena Master
+trp_mainplanet_kamino_arena_master_pl|Tournament Master
+trp_mainplanet_taris_arena_master|Arena Master
+trp_mainplanet_taris_arena_master_pl|Tournament Master
+trp_mainplanet_raxusprime_arena_master|Arena Master
+trp_mainplanet_raxusprime_arena_master_pl|Tournament Master
+trp_mainplanet_sarapin_arena_master|Arena Master
+trp_mainplanet_sarapin_arena_master_pl|Tournament Master
+trp_mainplanet_hypori_arena_master|Arena Master
+trp_mainplanet_hypori_arena_master_pl|Tournament Master
+trp_mainplanet_felucia_arena_master|Arena Master
+trp_mainplanet_felucia_arena_master_pl|Tournament Master
+trp_mainplanet_bespin_arena_master|Arena Master
+trp_mainplanet_bespin_arena_master_pl|Tournament Master
+trp_mainplanet_mandalore_armorer|Armorer
+trp_mainplanet_mandalore_armorer_pl|Armorer
+trp_mainplanet_christophsis_armorer|Armorer
+trp_mainplanet_christophsis_armorer_pl|Armorer
+trp_mainplanet_endor_armorer|Armorer
+trp_mainplanet_endor_armorer_pl|Armorer
+trp_mainplanet_corellia_armorer|Armorer
+trp_mainplanet_corellia_armorer_pl|Armorer
+trp_mainplanet_naboo_armorer|Armorer
+trp_mainplanet_naboo_armorer_pl|Armorer
+trp_mainplanet_kessel_armorer|Armorer
+trp_mainplanet_kessel_armorer_pl|Armorer
+trp_mainplanet_dantooine_armorer|Armorer
+trp_mainplanet_dantooine_armorer_pl|Armorer
+trp_mainplanet_geonosis_armorer|Armorer
+trp_mainplanet_geonosis_armorer_pl|Armorer
+trp_mainplanet_mon_cal_armorer|Armorer
+trp_mainplanet_mon_cal_armorer_pl|Armorer
+trp_mainplanet_kashyyyk_armorer|Armorer
+trp_mainplanet_kashyyyk_armorer_pl|Armorer
+trp_mainplanet_hoth_armorer|Armorer
+trp_mainplanet_hoth_armorer_pl|Armorer
+trp_mainplanet_gamorr_armorer|Armorer
+trp_mainplanet_gamorr_armorer_pl|Armorer
+trp_mainplanet_yavin_iv_armorer|Armorer
+trp_mainplanet_yavin_iv_armorer_pl|Armorer
+trp_mainplanet_tatooine_armorer|Armorer
+trp_mainplanet_tatooine_armorer_pl|Armorer
+trp_mainplanet_manaan_armorer|Armorer
+trp_mainplanet_manaan_armorer_pl|Armorer
+trp_mainplanet_coruscant_armorer|Armorer
+trp_mainplanet_coruscant_armorer_pl|Armorer
+trp_mainplanet_ryloth_armorer|Armorer
+trp_mainplanet_ryloth_armorer_pl|Armorer
+trp_mainplanet_nalhutta_armorer|Armorer
+trp_mainplanet_nalhutta_armorer_pl|Armorer
+trp_mainplanet_bothawui_armorer|Armorer
+trp_mainplanet_bothawui_armorer_pl|Armorer
+trp_mainplanet_mustafar_armorer|Armorer
+trp_mainplanet_mustafar_armorer_pl|Armorer
+trp_mainplanet_kamino_armorer|Armorer
+trp_mainplanet_kamino_armorer_pl|Armorer
+trp_mainplanet_taris_armorer|Armorer
+trp_mainplanet_taris_armorer_pl|Armorer
+trp_mainplanet_raxusprime_armorer|Armorer
+trp_mainplanet_raxusprime_armorer_pl|Armorer
+trp_mainplanet_sarapin_armorer|Armorer
+trp_mainplanet_sarapin_armorer_pl|Armorer
+trp_mainplanet_hypori_armorer|Armorer
+trp_mainplanet_hypori_armorer_pl|Armorer
+trp_mainplanet_felucia_armorer|Armorer
+trp_mainplanet_felucia_armorer_pl|Armorer
+trp_mainplanet_bespin_armorer|Armorer
+trp_mainplanet_bespin_armorer_pl|Armorer
+trp_mainplanet_mandalore_weaponsmith|Weaponsmith
+trp_mainplanet_mandalore_weaponsmith_pl|Weaponsmith
+trp_mainplanet_christophsis_weaponsmith|Weaponsmith
+trp_mainplanet_christophsis_weaponsmith_pl|Weaponsmith
+trp_mainplanet_endor_weaponsmith|Weaponsmith
+trp_mainplanet_endor_weaponsmith_pl|Weaponsmith
+trp_mainplanet_corellia_weaponsmith|Weaponsmith
+trp_mainplanet_corellia_weaponsmith_pl|Weaponsmith
+trp_mainplanet_naboo_weaponsmith|Weaponsmith
+trp_mainplanet_naboo_weaponsmith_pl|Weaponsmith
+trp_mainplanet_kessel_weaponsmith|Weaponsmith
+trp_mainplanet_kessel_weaponsmith_pl|Weaponsmith
+trp_mainplanet_dantooine_weaponsmith|Weaponsmith
+trp_mainplanet_dantooine_weaponsmith_pl|Weaponsmith
+trp_mainplanet_geonosis_weaponsmith|Weaponsmith
+trp_mainplanet_geonosis_weaponsmith_pl|Weaponsmith
+trp_mainplanet_mon_cal_weaponsmith|Weaponsmith
+trp_mainplanet_mon_cal_weaponsmith_pl|Weaponsmith
+trp_mainplanet_kashyyyk_weaponsmith|Weaponsmith
+trp_mainplanet_kashyyyk_weaponsmith_pl|Weaponsmith
+trp_mainplanet_hoth_weaponsmith|Weaponsmith
+trp_mainplanet_hoth_weaponsmith_pl|Weaponsmith
+trp_mainplanet_gamorr_weaponsmith|Weaponsmith
+trp_mainplanet_gamorr_weaponsmith_pl|Weaponsmith
+trp_mainplanet_yavin_iv_weaponsmith|Weaponsmith
+trp_mainplanet_yavin_iv_weaponsmith_pl|Weaponsmith
+trp_mainplanet_tatooine_weaponsmith|Weaponsmith
+trp_mainplanet_tatooine_weaponsmith_pl|Weaponsmith
+trp_mainplanet_manaan_weaponsmith|Weaponsmith
+trp_mainplanet_manaan_weaponsmith_pl|Weaponsmith
+trp_mainplanet_coruscant_weaponsmith|Weaponsmith
+trp_mainplanet_coruscant_weaponsmith_pl|Weaponsmith
+trp_mainplanet_ryloth_weaponsmith|Weaponsmith
+trp_mainplanet_ryloth_weaponsmith_pl|Weaponsmith
+trp_mainplanet_nalhutta_weaponsmith|Weaponsmith
+trp_mainplanet_nalhutta_weaponsmith_pl|Weaponsmith
+trp_mainplanet_bothawui_weaponsmith|Weaponsmith
+trp_mainplanet_bothawui_weaponsmith_pl|Weaponsmith
+trp_mainplanet_mustafar_weaponsmith|Weaponsmith
+trp_mainplanet_mustafar_weaponsmith_pl|Weaponsmith
+trp_mainplanet_kamino_weaponsmith|Weaponsmith
+trp_mainplanet_kamino_weaponsmith_pl|Weaponsmith
+trp_mainplanet_taris_weaponsmith|Weaponsmith
+trp_mainplanet_taris_weaponsmith_pl|Weaponsmith
+trp_mainplanet_raxusprime_weaponsmith|Weaponsmith
+trp_mainplanet_raxusprime_weaponsmith_pl|Weaponsmith
+trp_mainplanet_sarapin_weaponsmith|Weaponsmith
+trp_mainplanet_sarapin_weaponsmith_pl|Weaponsmith
+trp_mainplanet_hypori_weaponsmith|Weaponsmith
+trp_mainplanet_hypori_weaponsmith_pl|Weaponsmith
+trp_mainplanet_felucia_weaponsmith|Weaponsmith
+trp_mainplanet_felucia_weaponsmith_pl|Weaponsmith
+trp_mainplanet_bespin_weaponsmith|Weaponsmith
+trp_mainplanet_bespin_weaponsmith_pl|Weaponsmith
+trp_mainplanet_mandalore_bartender|Bartender
+trp_mainplanet_mandalore_bartender_pl|Bartender
+trp_mainplanet_christophsis_bartender|Bartender
+trp_mainplanet_christophsis_bartender_pl|Bartender
+trp_mainplanet_endor_bartender|Bartender
+trp_mainplanet_endor_bartender_pl|Bartender
+trp_mainplanet_corellia_bartender|Bartender
+trp_mainplanet_corellia_bartender_pl|Bartender
+trp_mainplanet_naboo_bartender|Bartender
+trp_mainplanet_naboo_bartender_pl|Bartender
+trp_mainplanet_kessel_bartender|Bartender
+trp_mainplanet_kessel_bartender_pl|Bartender
+trp_mainplanet_dantooine_bartender|Bartender
+trp_mainplanet_dantooine_bartender_pl|Bartender
+trp_mainplanet_geonosis_bartender|Bartender
+trp_mainplanet_geonosis_bartender_pl|Bartender
+trp_mainplanet_mon_cal_bartender|Bartender
+trp_mainplanet_mon_cal_bartender_pl|Bartender
+trp_mainplanet_kashyyyk_bartender|Bartender
+trp_mainplanet_kashyyyk_bartender_pl|Bartender
+trp_mainplanet_hoth_bartender|Bartender
+trp_mainplanet_hoth_bartender_pl|Bartender
+trp_mainplanet_gamorr_bartender|Bartender
+trp_mainplanet_gamorr_bartender_pl|Bartender
+trp_mainplanet_yavin_iv_bartender|Bartender
+trp_mainplanet_yavin_iv_bartender_pl|Bartender
+trp_mainplanet_tatooine_bartender|Bartender
+trp_mainplanet_tatooine_bartender_pl|Bartender
+trp_mainplanet_manaan_bartender|Bartender
+trp_mainplanet_manaan_bartender_pl|Bartender
+trp_mainplanet_coruscant_bartender|Bartender
+trp_mainplanet_coruscant_bartender_pl|Bartender
+trp_mainplanet_ryloth_bartender|Bartender
+trp_mainplanet_ryloth_bartender_pl|Bartender
+trp_mainplanet_nalhutta_bartender|Bartender
+trp_mainplanet_nalhutta_bartender_pl|Bartender
+trp_mainplanet_bothawui_bartender|Bartender
+trp_mainplanet_bothawui_bartender_pl|Bartender
+trp_mainplanet_mustafar_bartender|Bartender
+trp_mainplanet_mustafar_bartender_pl|Bartender
+trp_mainplanet_kamino_bartender|Bartender
+trp_mainplanet_kamino_bartender_pl|Bartender
+trp_mainplanet_taris_bartender|Bartender
+trp_mainplanet_taris_bartender_pl|Bartender
+trp_mainplanet_raxusprime_bartender|Bartender
+trp_mainplanet_raxusprime_bartender_pl|Bartender
+trp_mainplanet_sarapin_bartender|Bartender
+trp_mainplanet_sarapin_bartender_pl|Bartender
+trp_mainplanet_hypori_bartender|Bartender
+trp_mainplanet_hypori_bartender_pl|Bartender
+trp_mainplanet_felucia_bartender|Bartender
+trp_mainplanet_felucia_bartender_pl|Bartender
+trp_mainplanet_felucia_bartender|Bartender
+trp_mainplanet_felucia_bartender_pl|Bartender
+trp_mainplanet_mandalore_merchant|Merchant
+trp_mainplanet_mandalore_merchant_pl|Merchant
+trp_mainplanet_christophsis_merchant|Merchant
+trp_mainplanet_christophsis_merchant_pl|Merchant
+trp_mainplanet_endor_merchant|Merchant
+trp_mainplanet_endor_merchant_pl|Merchant
+trp_mainplanet_corellia_merchant|Merchant
+trp_mainplanet_corellia_merchant_pl|Merchant
+trp_mainplanet_naboo_merchant|Merchant
+trp_mainplanet_naboo_merchant_pl|Merchant
+trp_mainplanet_kessel_merchant|Merchant
+trp_mainplanet_kessel_merchant_pl|Merchant
+trp_mainplanet_dantooine_merchant|Merchant
+trp_mainplanet_dantooine_merchant_pl|Merchant
+trp_mainplanet_geonosis_merchant|Merchant
+trp_mainplanet_geonosis_merchant_pl|Merchant
+trp_mainplanet_mon_cal_merchant|Merchant
+trp_mainplanet_mon_cal_merchant_pl|Merchant
+trp_mainplanet_kashyyyk_merchant|Merchant
+trp_mainplanet_kashyyyk_merchant_pl|Merchant
+trp_mainplanet_hoth_merchant|Merchant
+trp_mainplanet_hoth_merchant_pl|Merchant
+trp_mainplanet_gamorr_merchant|Merchant
+trp_mainplanet_gamorr_merchant_pl|Merchant
+trp_mainplanet_yavin_iv_merchant|Merchant
+trp_mainplanet_yavin_iv_merchant_pl|Merchant
+trp_mainplanet_tatooine_merchant|Merchant
+trp_mainplanet_tatooine_merchant_pl|Merchant
+trp_mainplanet_manaan_merchant|Merchant
+trp_mainplanet_manaan_merchant_pl|Merchant
+trp_mainplanet_coruscant_merchant|Merchant
+trp_mainplanet_coruscant_merchant_pl|Merchant
+trp_mainplanet_ryloth_merchant|Merchant
+trp_mainplanet_ryloth_merchant_pl|Merchant
+trp_mainplanet_nalhutta_merchant|Merchant
+trp_mainplanet_nalhutta_merchant_pl|Merchant
+trp_mainplanet_bothawui_merchant|Merchant
+trp_mainplanet_bothawui_merchant_pl|Merchant
+trp_mainplanet_mustafar_merchant|Merchant
+trp_mainplanet_mustafar_merchant_pl|Merchant
+trp_mainplanet_kamino_merchant|Merchant
+trp_mainplanet_kamino_merchant_pl|Merchant
+trp_mainplanet_taris_merchant|Merchant
+trp_mainplanet_taris_merchant_pl|Merchant
+trp_mainplanet_raxusprime_merchant|Merchant
+trp_mainplanet_raxusprime_merchant_pl|Merchant
+trp_mainplanet_sarapin_merchant|Merchant
+trp_mainplanet_sarapin_merchant_pl|Merchant
+trp_mainplanet_hypori_merchant|Merchant
+trp_mainplanet_hypori_merchant_pl|Merchant
+trp_mainplanet_felucia_merchant|Merchant
+trp_mainplanet_felucia_merchant_pl|Merchant
+trp_mainplanet_bespin_merchant|Merchant
+trp_mainplanet_bespin_merchant_pl|Merchant
+trp_mainplanet_mandalore_horse_merchant|Transportation Merchant
+trp_mainplanet_mandalore_horse_merchant_pl|Town 1 Transportation Merchant
+trp_mainplanet_christophsis_horse_merchant|Transportation Merchant
+trp_mainplanet_christophsis_horse_merchant_pl|Town 2 Transportation Merchant
+trp_mainplanet_endor_horse_merchant|Transportation Merchant
+trp_mainplanet_endor_horse_merchant_pl|Town 3 Transportation Merchant
+trp_mainplanet_corellia_horse_merchant|Transportation Merchant
+trp_mainplanet_corellia_horse_merchant_pl|Town 4 Transportation Merchant
+trp_mainplanet_naboo_horse_merchant|Transportation Merchant
+trp_mainplanet_naboo_horse_merchant_pl|Town 5 Transportation Merchant
+trp_mainplanet_kessel_horse_merchant|Transportation Merchant
+trp_mainplanet_kessel_horse_merchant_pl|Town 6 Transportation Merchant
+trp_mainplanet_dantooine_horse_merchant|Transportation Merchant
+trp_mainplanet_dantooine_horse_merchant_pl|Town 7 Transportation Merchant
+trp_mainplanet_geonosis_horse_merchant|Transportation Merchant
+trp_mainplanet_geonosis_horse_merchant_pl|Town 8 Transportation Merchant
+trp_mainplanet_mon_cal_horse_merchant|Transportation Merchant
+trp_mainplanet_mon_cal_horse_merchant_pl|Town 9 Transportation Merchant
+trp_mainplanet_kashyyyk_horse_merchant|Transportation Merchant
+trp_mainplanet_kashyyyk_horse_merchant_pl|Town 10 Transportation Merchant
+trp_mainplanet_hoth_horse_merchant|Transportation Merchant
+trp_mainplanet_hoth_horse_merchant_pl|Town 11 Transportation Merchant
+trp_mainplanet_gamorr_horse_merchant|Transportation Merchant
+trp_mainplanet_gamorr_horse_merchant_pl|Town 12 Transportation Merchant
+trp_mainplanet_yavin_iv_horse_merchant|Transportation Merchant
+trp_mainplanet_yavin_iv_horse_merchant_pl|Town 13 Transportation Merchant
+trp_mainplanet_tatooine_horse_merchant|Transportation Merchant
+trp_mainplanet_tatooine_horse_merchant_pl|Town 14 Transportation Merchant
+trp_mainplanet_manaan_horse_merchant|Transportation Merchant
+trp_mainplanet_manaan_horse_merchant_pl|Town 15 Transportation Merchant
+trp_mainplanet_coruscant_horse_merchant|Transportation Merchant
+trp_mainplanet_coruscant_horse_merchant_pl|Town 16 Transportation Merchant
+trp_mainplanet_ryloth_horse_merchant|Transportation Merchant
+trp_mainplanet_ryloth_horse_merchant_pl|Town 17 Transportation Merchant
+trp_mainplanet_nalhutta_horse_merchant|Transportation Merchant
+trp_mainplanet_nalhutta_horse_merchant_pl|Town 18 Transportation Merchant
+trp_mainplanet_bothawui_horse_merchant|Transportation Merchant
+trp_mainplanet_bothawui_horse_merchant_pl|Town 19 Transportation Merchant
+trp_mainplanet_mustafar_horse_merchant|Transportation Merchant
+trp_mainplanet_mustafar_horse_merchant_pl|Town 20 Transportation Merchant
+trp_mainplanet_kamino_horse_merchant|Transportation Merchant
+trp_mainplanet_kamino_horse_merchant_pl|Town 21 Transportation Merchant
+trp_mainplanet_taris_horse_merchant|Transportation Merchant
+trp_mainplanet_taris_horse_merchant_pl|Town 22 Transportation Merchant
+trp_mainplanet_raxusprime_horse_merchant|Transportation Merchant
+trp_mainplanet_raxusprime_horse_merchant_pl|Town 23 Transportation Merchant
+trp_mainplanet_sarapin_horse_merchant|Transportation Merchant
+trp_mainplanet_sarapin_horse_merchant_pl|Town 24 Transportation Merchant
+trp_mainplanet_hypori_horse_merchant|Transportation Merchant
+trp_mainplanet_hypori_horse_merchant_pl|Town 23 Transportation Merchant
+trp_mainplanet_felucia_horse_merchant|Transportation Merchant
+trp_mainplanet_felucia_horse_merchant_pl|Town 24 Transportation Merchant
+trp_mainplanet_bespin_horse_merchant|Transportation Merchant
+trp_mainplanet_bespin_horse_merchant_pl|Town 24 Transportation Merchant
+trp_mainplanet_mandalore_mayor|Planet Administrator
+trp_mainplanet_mandalore_mayor_pl|Planet Administrator
+trp_mainplanet_christophsis_mayor|Planet Administrator
+trp_mainplanet_christophsis_mayor_pl|Planet Administrator
+trp_mainplanet_endor_mayor|Planet Administrator
+trp_mainplanet_endor_mayor_pl|Planet Administrator
+trp_mainplanet_corellia_mayor|Planet Administrator
+trp_mainplanet_corellia_mayor_pl|Planet Administrator
+trp_mainplanet_naboo_mayor|Planet Administrator
+trp_mainplanet_naboo_mayor_pl|Planet Administrator
+trp_mainplanet_kessel_mayor|Planet Administrator
+trp_mainplanet_kessel_mayor_pl|Planet Administrator
+trp_mainplanet_dantooine_mayor|Planet Administrator
+trp_mainplanet_dantooine_mayor_pl|Planet Administrator
+trp_mainplanet_geonosis_mayor|Planet Administrator
+trp_mainplanet_geonosis_mayor_pl|Planet Administrator
+trp_mainplanet_mon_cal_mayor|Planet Administrator
+trp_mainplanet_mon_cal_mayor_pl|Planet Administrator
+trp_mainplanet_kashyyyk_mayor|Planet Administrator
+trp_mainplanet_kashyyyk_mayor_pl|Planet Administrator
+trp_mainplanet_hoth_mayor|Planet Administrator
+trp_mainplanet_hoth_mayor_pl|Planet Administrator
+trp_mainplanet_gamorr_mayor|Planet Administrator
+trp_mainplanet_gamorr_mayor_pl|Planet Administrator
+trp_mainplanet_yavin_iv_mayor|Planet Administrator
+trp_mainplanet_yavin_iv_mayor_pl|Planet Administrator
+trp_mainplanet_tatooine_mayor|Planet Administrator
+trp_mainplanet_tatooine_mayor_pl|Planet Administrator
+trp_mainplanet_manaan_mayor|Planet Administrator
+trp_mainplanet_manaan_mayor_pl|Planet Administrator
+trp_mainplanet_coruscant_mayor|Planet Administrator
+trp_mainplanet_coruscant_mayor_pl|Planet Administrator
+trp_mainplanet_ryloth_mayor|Planet Administrator
+trp_mainplanet_ryloth_mayor_pl|Planet Administrator
+trp_mainplanet_nalhutta_mayor|Planet Administrator
+trp_mainplanet_nalhutta_mayor_pl|Planet Administrator
+trp_mainplanet_bothawui_mayor|Planet Administrator
+trp_mainplanet_bothawui_mayor_pl|Planet Administrator
+trp_mainplanet_mustafar_mayor|Planet Administrator
+trp_mainplanet_mustafar_mayor_pl|Planet Administrator
+trp_mainplanet_kamino_mayor|Planet Administrator
+trp_mainplanet_kamino_mayor_pl|Planet Administrator
+trp_mainplanet_taris_mayor|Planet Administrator
+trp_mainplanet_taris_mayor_pl|Planet Administrator
+trp_mainplanet_raxusprime_mayor|Planet Administrator
+trp_mainplanet_raxusprime_mayor_pl|Planet Administrator
+trp_mainplanet_sarapin_mayor|Planet Administrator
+trp_mainplanet_sarapin_mayor_pl|Planet Administrator
+trp_mainplanet_hypori_mayor|Planet Administrator
+trp_mainplanet_hypori_mayor_pl|Planet Administrator
+trp_mainplanet_felucia_mayor|Planet Administrator
+trp_mainplanet_felucia_mayor_pl|Planet Administrator
+trp_mainplanet_bespin_mayor|Planet Administrator
+trp_mainplanet_bespin_mayor_pl|Planet Administrator
+trp_minorplanet_admin_1|Planet Administrator
+trp_minorplanet_admin_1_pl|Planet Administrator
+trp_minorplanet_admin_2|Planet Administrator
+trp_minorplanet_admin_2_pl|Planet Administrator
+trp_minorplanet_admin_3|Planet Administrator
+trp_minorplanet_admin_3_pl|Planet Administrator
+trp_minorplanet_admin_4|Planet Administrator
+trp_minorplanet_admin_4_pl|Planet Administrator
+trp_minorplanet_admin_5|Planet Administrator
+trp_minorplanet_admin_5_pl|Planet Administrator
+trp_minorplanet_admin_6|Planet Administrator
+trp_minorplanet_admin_6_pl|Planet Administrator
+trp_minorplanet_admin_7|Planet Administrator
+trp_minorplanet_admin_7_pl|Planet Administrator
+trp_minorplanet_admin_8|Planet Administrator
+trp_minorplanet_admin_8_pl|Planet Administrator
+trp_minorplanet_admin_9|Planet Administrator
+trp_minorplanet_admin_9_pl|Planet Administrator
+trp_minorplanet_admin_10|Planet Administrator
+trp_minorplanet_admin_10_pl|Planet Administrator
+trp_minorplanet_admin_11|Planet Administrator
+trp_minorplanet_admin_11_pl|Planet Administrator
+trp_minorplanet_admin_12|Planet Administrator
+trp_minorplanet_admin_12_pl|Planet Administrator
+trp_minorplanet_admin_13|Planet Administrator
+trp_minorplanet_admin_13_pl|Planet Administrator
+trp_minorplanet_admin_14|Planet Administrator
+trp_minorplanet_admin_14_pl|Planet Administrator
+trp_minorplanet_admin_15|Planet Administrator
+trp_minorplanet_admin_15_pl|Planet Administrator
+trp_minorplanet_admin_16|Planet Administrator
+trp_minorplanet_admin_16_pl|Planet Administrator
+trp_minorplanet_admin_17|Planet Administrator
+trp_minorplanet_admin_17_pl|Planet Administrator
+trp_minorplanet_admin_18|Planet Administrator
+trp_minorplanet_admin_18_pl|Planet Administrator
+trp_minorplanet_admin_19|Planet Administrator
+trp_minorplanet_admin_19_pl|Planet Administrator
+trp_minorplanet_admin_20|Planet Administrator
+trp_minorplanet_admin_20_pl|Planet Administrator
+trp_minorplanet_admin_21|Planet Administrator
+trp_minorplanet_admin_21_pl|Planet Administrator
+trp_minorplanet_admin_22|Planet Administrator
+trp_minorplanet_admin_22_pl|Planet Administrator
+trp_minorplanet_admin_23|Planet Administrator
+trp_minorplanet_admin_23_pl|Planet Administrator
+trp_minorplanet_admin_24|Planet Administrator
+trp_minorplanet_admin_24_pl|Planet Administrator
+trp_minorplanet_admin_25|Planet Administrator
+trp_minorplanet_admin_25_pl|Planet Administrator
+trp_minorplanet_admin_26|Planet Administrator
+trp_minorplanet_admin_26_pl|Planet Administrator
+trp_minorplanet_admin_27|Planet Administrator
+trp_minorplanet_admin_27_pl|Planet Administrator
+trp_minorplanet_admin_28|Planet Administrator
+trp_minorplanet_admin_28_pl|Planet Administrator
+trp_minorplanet_admin_29|Planet Administrator
+trp_minorplanet_admin_29_pl|Planet Administrator
+trp_minorplanet_admin_30|Planet Administrator
+trp_minorplanet_admin_30_pl|Planet Administrator
+trp_minorplanet_admin_31|Planet Administrator
+trp_minorplanet_admin_31_pl|Planet Administrator
+trp_minorplanet_admin_32|Planet Administrator
+trp_minorplanet_admin_32_pl|Planet Administrator
+trp_minorplanet_admin_33|Planet Administrator
+trp_minorplanet_admin_33_pl|Planet Administrator
+trp_minorplanet_admin_34|Planet Administrator
+trp_minorplanet_admin_34_pl|Planet Administrator
+trp_minorplanet_admin_35|Planet Administrator
+trp_minorplanet_admin_35_pl|Planet Administrator
+trp_minorplanet_admin_36|Planet Administrator
+trp_minorplanet_admin_36_pl|Planet Administrator
+trp_minorplanet_admin_37|Planet Administrator
+trp_minorplanet_admin_37_pl|Planet Administrator
+trp_minorplanet_admin_38|Planet Administrator
+trp_minorplanet_admin_38_pl|Planet Administrator
+trp_minorplanet_admin_39|Planet Administrator
+trp_minorplanet_admin_39_pl|Planet Administrator
+trp_minorplanet_admin_40|Planet Administrator
+trp_minorplanet_admin_40_pl|Planet Administrator
+trp_minorplanet_admin_41|Planet Administrator
+trp_minorplanet_admin_41_pl|Planet Administrator
+trp_minorplanet_admin_42|Planet Administrator
+trp_minorplanet_admin_42_pl|Planet Administrator
+trp_minorplanet_admin_43|Planet Administrator
+trp_minorplanet_admin_43_pl|Planet Administrator
+trp_minorplanet_admin_44|Planet Administrator
+trp_minorplanet_admin_44_pl|Planet Administrator
+trp_minorplanet_admin_45|Planet Administrator
+trp_minorplanet_admin_45_pl|Planet Administrator
+trp_minorplanet_admin_46|Planet Administrator
+trp_minorplanet_admin_46_pl|Planet Administrator
+trp_minorplanet_admin_47|Planet Administrator
+trp_minorplanet_admin_47_pl|Planet Administrator
+trp_minorplanet_admin_48|Planet Administrator
+trp_minorplanet_admin_48_pl|Planet Administrator
+trp_minorplanet_admin_49|Planet Administrator
+trp_minorplanet_admin_49_pl|Planet Administrator
+trp_minorplanet_admin_50|Planet Administrator
+trp_minorplanet_admin_50_pl|Planet Administrator
+trp_minorplanet_admin_51|Planet Administrator
+trp_minorplanet_admin_51_pl|Planet Administrator
+trp_minorplanet_admin_52|Planet Administrator
+trp_minorplanet_admin_52_pl|Planet Administrator
+trp_minorplanet_admin_53|Planet Administrator
+trp_minorplanet_admin_53_pl|Planet Administrator
+trp_minorplanet_admin_54|Planet Administrator
+trp_minorplanet_admin_54_pl|Planet Administrator
+trp_minorplanet_admin_55|Planet Administrator
+trp_minorplanet_admin_55_pl|Planet Administrator
+trp_minorplanet_admin_56|Planet Administrator
+trp_minorplanet_admin_56_pl|Planet Administrator
+trp_minorplanet_admin_57|Planet Administrator
+trp_minorplanet_admin_57_pl|Planet Administrator
+trp_minorplanet_admin_58|Planet Administrator
+trp_minorplanet_admin_58_pl|Planet Administrator
+trp_minorplanet_admin_59|Planet Administrator
+trp_minorplanet_admin_59_pl|Planet Administrator
+trp_minorplanet_admin_60|Planet Administrator
+trp_minorplanet_admin_60_pl|Planet Administrator
+trp_minorplanet_admin_61|Planet Administrator
+trp_minorplanet_admin_61_pl|Planet Administrator
+trp_minorplanet_admin_62|Planet Administrator
+trp_minorplanet_admin_62_pl|Planet Administrator
+trp_minorplanet_admin_63|Planet Administrator
+trp_minorplanet_admin_63_pl|Planet Administrator
+trp_minorplanet_admin_64|Planet Administrator
+trp_minorplanet_admin_64_pl|Planet Administrator
+trp_minorplanet_admin_65|Planet Administrator
+trp_minorplanet_admin_65_pl|Planet Administrator
+trp_minorplanet_admin_66|Planet Administrator
+trp_minorplanet_admin_66_pl|Planet Administrator
+trp_minorplanet_admin_67|Planet Administrator
+trp_minorplanet_admin_67_pl|Planet Administrator
+trp_minorplanet_admin_68|Planet Administrator
+trp_minorplanet_admin_68_pl|Planet Administrator
+trp_minorplanet_admin_69|Planet Administrator
+trp_minorplanet_admin_69_pl|Planet Administrator
+trp_minorplanet_admin_70|Planet Administrator
+trp_minorplanet_admin_70_pl|Planet Administrator
+trp_minorplanet_admin_71|Planet Administrator
+trp_minorplanet_admin_71_pl|Planet Administrator
+trp_minorplanet_admin_72|Planet Administrator
+trp_minorplanet_admin_72_pl|Planet Administrator
+trp_minorplanet_admin_73|Planet Administrator
+trp_minorplanet_admin_73_pl|Planet Administrator
+trp_minorplanet_admin_74|Planet Administrator
+trp_minorplanet_admin_74_pl|Planet Administrator
+trp_minorplanet_admin_75|Planet Administrator
+trp_minorplanet_admin_75_pl|Planet Administrator
+trp_minorplanet_admin_76|Planet Administrator
+trp_minorplanet_admin_76_pl|Planet Administrator
+trp_minorplanet_admin_77|Planet Administrator
+trp_minorplanet_admin_77_pl|Planet Administrator
+trp_minorplanet_admin_78|Planet Administrator
+trp_minorplanet_admin_78_pl|Planet Administrator
+trp_minorplanet_admin_79|Planet Administrator
+trp_minorplanet_admin_79_pl|Planet Administrator
+trp_minorplanet_admin_80|Planet Administrator
+trp_minorplanet_admin_80_pl|Planet Administrator
+trp_minorplanet_admin_81|Planet Administrator
+trp_minorplanet_admin_81_pl|Planet Administrator
+trp_minorplanet_admin_82|Planet Administrator
+trp_minorplanet_admin_82_pl|Planet Administrator
+trp_minorplanet_admin_83|Planet Administrator
+trp_minorplanet_admin_83_pl|Planet Administrator
+trp_minorplanet_admin_84|Planet Administrator
+trp_minorplanet_admin_84_pl|Planet Administrator
+trp_minorplanet_admin_85|Planet Administrator
+trp_minorplanet_admin_85_pl|Planet Administrator
+trp_minorplanet_admin_86|Planet Administrator
+trp_minorplanet_admin_86_pl|Planet Administrator
+trp_minorplanet_admin_87|Planet Administrator
+trp_minorplanet_admin_87_pl|Planet Administrator
+trp_minorplanet_admin_88|Planet Administrator
+trp_minorplanet_admin_88_pl|Planet Administrator
+trp_minorplanet_admin_89|Planet Administrator
+trp_minorplanet_admin_89_pl|Planet Administrator
+trp_minorplanet_admin_90|Planet Administrator
+trp_minorplanet_admin_90_pl|Planet Administrator
+trp_merchants_end|merchants end
+trp_merchants_end_pl|merchants end
+trp_tutorial_chest_1|Melee Weapons Chest
+trp_tutorial_chest_1_pl|Melee Weapons Chest
+trp_tutorial_chest_2|Ranged Weapons Chest
+trp_tutorial_chest_2_pl|Ranged Weapons Chest
+trp_bonus_chest_1|Bonus Chest
+trp_bonus_chest_1_pl|Bonus Chest
+trp_bonus_chest_2|Bonus Chest
+trp_bonus_chest_2_pl|Bonus Chest
+trp_bonus_chest_3|Bonus Chest
+trp_bonus_chest_3_pl|Bonus Chest
+trp_bonus_box_mainplanet_1|Bonus Chest
+trp_bonus_box_mainplanet_1_pl|Bonus Chest
+trp_bonus_box_mainplanet_2|Bonus Chest
+trp_bonus_box_mainplanet_2_pl|Bonus Chest
+trp_bonus_box_mainplanet_3|Bonus Chest
+trp_bonus_box_mainplanet_3_pl|Bonus Chest
+trp_bonus_box_mainplanet_4|Bonus Chest
+trp_bonus_box_mainplanet_4_pl|Bonus Chest
+trp_bonus_box_mainplanet_5|Bonus Chest
+trp_bonus_box_mainplanet_5_pl|Bonus Chest
+trp_bonus_box_mainplanet_6|Bonus Chest
+trp_bonus_box_mainplanet_6_pl|Bonus Chest
+trp_bonus_box_mainplanet_7|Bonus Chest
+trp_bonus_box_mainplanet_7_pl|Bonus Chest
+trp_bonus_box_mainplanet_8|Bonus Chest
+trp_bonus_box_mainplanet_8_pl|Bonus Chest
+trp_bonus_box_mainplanet_9|Bonus Chest
+trp_bonus_box_mainplanet_9_pl|Bonus Chest
+trp_bonus_box_mainplanet_10|Bonus Chest
+trp_bonus_box_mainplanet_10_pl|Bonus Chest
+trp_bonus_box_mainplanet_11|Bonus Chest
+trp_bonus_box_mainplanet_11_pl|Bonus Chest
+trp_bonus_box_mainplanet_12|Bonus Chest
+trp_bonus_box_mainplanet_12_pl|Bonus Chest
+trp_bonus_box_mainplanet_13|Bonus Chest
+trp_bonus_box_mainplanet_13_pl|Bonus Chest
+trp_bonus_box_mainplanet_14|Bonus Chest
+trp_bonus_box_mainplanet_14_pl|Bonus Chest
+trp_bonus_box_mainplanet_15|Bonus Chest
+trp_bonus_box_mainplanet_15_pl|Bonus Chest
+trp_bonus_box_mainplanet_16|Bonus Chest
+trp_bonus_box_mainplanet_16_pl|Bonus Chest
+trp_bonus_box_mainplanet_17|Bonus Chest
+trp_bonus_box_mainplanet_17_pl|Bonus Chest
+trp_bonus_box_mainplanet_18|Bonus Chest
+trp_bonus_box_mainplanet_18_pl|Bonus Chest
+trp_bonus_box_mainplanet_19|Bonus Chest
+trp_bonus_box_mainplanet_19_pl|Bonus Chest
+trp_bonus_box_mainplanet_20|Bonus Chest
+trp_bonus_box_mainplanet_20_pl|Bonus Chest
+trp_bonus_box_mainplanet_21|Bonus Chest
+trp_bonus_box_mainplanet_21_pl|Bonus Chest
+trp_bonus_box_mainplanet_22|Bonus Chest
+trp_bonus_box_mainplanet_22_pl|Bonus Chest
+trp_bonus_box_mainplanet_23|Bonus Chest
+trp_bonus_box_mainplanet_23_pl|Bonus Chest
+trp_bonus_box_mainplanet_24|Bonus Chest
+trp_bonus_box_mainplanet_24_pl|Bonus Chest
+trp_bonus_box_mainplanet_25|Bonus Chest
+trp_bonus_box_mainplanet_25_pl|Bonus Chest
+trp_bonus_box_mainplanet_26|Bonus Chest
+trp_bonus_box_mainplanet_26_pl|Bonus Chest
+trp_bonus_box_mainplanet_27|Bonus Chest
+trp_bonus_box_mainplanet_27_pl|Bonus Chest
+trp_temp_array_a|temp array a
+trp_temp_array_a_pl|temp array a
+trp_temp_array_b|temp array b
+trp_temp_array_b_pl|temp array b
+trp_temp_array_c|temp array c
+trp_temp_array_c_pl|temp array c
+trp_stack_selection_amounts|stack selection amounts
+trp_stack_selection_amounts_pl|stack selection amounts
+trp_stack_selection_ids|stack selection ids
+trp_stack_selection_ids_pl|stack selection ids
+trp_notification_menu_types|notification menu types
+trp_notification_menu_types_pl|notification menu types
+trp_notification_menu_var1|notification menu var1
+trp_notification_menu_var1_pl|notification menu var1
+trp_notification_menu_var2|notification menu var2
+trp_notification_menu_var2_pl|notification menu var2
+trp_banner_background_color_array|banner background color array
+trp_banner_background_color_array_pl|banner background color array
+trp_viper_a|viper a
+trp_viper_a_pl|viper a
+trp_viper_b|viper c
+trp_viper_b_pl|viper c
+trp_viper_c|viper b
+trp_viper_c_pl|viper b
+trp_viper_d|viper d
+trp_viper_d_pl|viper d
+trp_viper_e|viper e
+trp_viper_e_pl|viper e
+trp_viper_f|viper f
+trp_viper_f_pl|viper f
+trp_viper_g|viper g
+trp_viper_g_pl|viper g
+trp_viper_h|viper h
+trp_viper_h_pl|viper h
+trp_viper_end|viper end
+trp_viper_end_pl|viper end
+trp_cylon_a|cylon a
+trp_cylon_a_pl|cylon a
+trp_cylon_b|cylon c
+trp_cylon_b_pl|cylon c
+trp_cylon_c|cylon b
+trp_cylon_c_pl|cylon b
+trp_cylon_d|cylon d
+trp_cylon_d_pl|cylon d
+trp_cylon_e|cylon e
+trp_cylon_e_pl|cylon e
+trp_cylon_f|cylon f
+trp_cylon_f_pl|cylon f
+trp_cylon_g|cylon g
+trp_cylon_g_pl|cylon g
+trp_cylon_h|cylon h
+trp_cylon_h_pl|cylon h
+trp_cylon_end|cylon end
+trp_cylon_end_pl|cylon end
+trp_local_merchant|Local Merchant
+trp_local_merchant_pl|Local Merchants
+trp_tax_rebel|Rebel Colonist
+trp_tax_rebel_pl|Rebel Colonist
+trp_trainee_peasant|Colonist
+trp_trainee_peasant_pl|Colonists
+trp_fugitive|Nervous Man
+trp_fugitive_pl|Nervous Men
+trp_spy|Ordinary Colonist
+trp_spy_pl|Ordinary Colonists
+trp_spy_partner|Unremarkable Colonist
+trp_spy_partner_pl|Unremarkable Colonists
+trp_bounty_target_1a|CIS Officer
+trp_bounty_target_1a_pl|CIS Officers
+trp_bounty_target_1b|CIS Officer
+trp_bounty_target_1b_pl|CIS Officers
+trp_bounty_target_2a|Farmer
+trp_bounty_target_2a_pl|Farmers
+trp_bounty_target_2b|Farmer
+trp_bounty_target_2b_pl|Farmers
+trp_bounty_target_3a|Target
+trp_bounty_target_3a_pl|Targets
+trp_bounty_target_3b|Target
+trp_bounty_target_3b_pl|Targets
+trp_bounty_target_3c|Target
+trp_bounty_target_3c_pl|Targets
+trp_bounty_target_3d|Target
+trp_bounty_target_3d_pl|Targets
+trp_bounty_target_4a|Pirate
+trp_bounty_target_4a_pl|Pirates
+trp_bounty_target_4b|Pirate
+trp_bounty_target_4b_pl|Pirates
+trp_bounty_target_5a|Bountyhunter
+trp_bounty_target_5a_pl|Bountyhunters
+trp_bounty_target_5b|Bountyhunter
+trp_bounty_target_5b_pl|Bountyhunters
+trp_bounty_target_5c|Bountyhunter
+trp_bounty_target_5c_pl|Bountyhunters
+trp_bounty_target_6a|Smuggler
+trp_bounty_target_6a_pl|Smugglers
+trp_bounty_target_6b|Smuggler
+trp_bounty_target_6b_pl|Smugglers
+trp_quick_battle_player|Player
+trp_quick_battle_player_pl|Player
+trp_quick_battle_player_mounted|Player
+trp_quick_battle_player_mounted_pl|Player
+trp_quick_battle_farmer|Farmer
+trp_quick_battle_farmer_pl|Farmers
+trp_custom_battle_fac_store|Bleh
+trp_custom_battle_fac_store_pl|Bleh
+trp_custom_battle_fac_1_troops|Bleh
+trp_custom_battle_fac_1_troops_pl|Bleh
+trp_custom_battle_fac_2_troops|Bleh
+trp_custom_battle_fac_2_troops_pl|Bleh
+trp_custom_battle_fac_3_troops|Bleh
+trp_custom_battle_fac_3_troops_pl|Bleh
+trp_custom_battle_fac_4_troops|Bleh
+trp_custom_battle_fac_4_troops_pl|Bleh
+trp_custom_battle_fac_5_troops|Bleh
+trp_custom_battle_fac_5_troops_pl|Bleh
+trp_custom_battle_fac_6_troops|Bleh
+trp_custom_battle_fac_6_troops_pl|Bleh
+trp_custom_battle_spawn_store|Bleh
+trp_custom_battle_spawn_store_pl|Bleh
+trp_log_array_entry_type|Local Merchant
+trp_log_array_entry_type_pl|Local Merchant
+trp_log_array_entry_time|Local Merchant
+trp_log_array_entry_time_pl|Local Merchant
+trp_log_array_actor|Local Merchant
+trp_log_array_actor_pl|Local Merchant
+trp_log_array_center_object|Local Merchant
+trp_log_array_center_object_pl|Local Merchant
+trp_log_array_center_object_lord|Local Merchant
+trp_log_array_center_object_lord_pl|Local Merchant
+trp_log_array_center_object_faction|Local Merchant
+trp_log_array_center_object_faction_pl|Local Merchant
+trp_log_array_troop_object|Local Merchant
+trp_log_array_troop_object_pl|Local Merchant
+trp_log_array_troop_object_faction|Local Merchant
+trp_log_array_troop_object_faction_pl|Local Merchant
+trp_log_array_faction_object|Local Merchant
+trp_log_array_faction_object_pl|Local Merchant
+trp_pjct_active| 
+trp_pjct_active_pl| 
+trp_pjct_x| 
+trp_pjct_x_pl| 
+trp_pjct_y| 
+trp_pjct_y_pl| 
+trp_pjct_z| 
+trp_pjct_z_pl| 
+trp_pjct_x_velocity| 
+trp_pjct_x_velocity_pl| 
+trp_pjct_y_velocity| 
+trp_pjct_y_velocity_pl| 
+trp_pjct_z_velocity| 
+trp_pjct_z_velocity_pl| 
+trp_pjct_emit_time| 
+trp_pjct_emit_time_pl| 
+trp_pjct_source_agent| 
+trp_pjct_source_agent_pl| 
+trp_pjct_damage| 
+trp_pjct_damage_pl| 
+trp_pjct_bounce_effect| 
+trp_pjct_bounce_effect_pl| 
+trp_pjct_explosive| 
+trp_pjct_explosive_pl| 
+trp_pjct_explosion_countdown| 
+trp_pjct_explosion_countdown_pl| 
+trp_pjct_explosion_area| 
+trp_pjct_explosion_area_pl| 
+trp_pjct_explosion_damage| 
+trp_pjct_explosion_damage_pl| 
+trp_pjct_explode_on_ground_hit| 
+trp_pjct_explode_on_ground_hit_pl| 
+trp_pjct_particle_system| 
+trp_pjct_particle_system_pl| 
+trp_pjct_particle_system_magnitude| 
+trp_pjct_particle_system_magnitude_pl| 
+trp_pjct_attach_scene_prop| 
+trp_pjct_attach_scene_prop_pl| 
+trp_pjct_check_collision| 
+trp_pjct_check_collision_pl| 
+trp_instance_attached_to| 
+trp_instance_attached_to_pl| 
+trp_gate_sys_array|Mr Gate Array[Internal]
+trp_gate_sys_array_pl|Mr Gate Array[Internal]
+trp_gate_sys_counter|Mr Gate Array[Internal]
+trp_gate_sys_counter_pl|Mr Gate Array[Internal]
+trp_gate_sys_array2|Mr Gate Array[Internal]
+trp_gate_sys_array2_pl|Mr Gate Array[Internal]
+trp_gate_sys_counter2|Mr Gate Array[Internal]
+trp_gate_sys_counter2_pl|Mr Gate Array[Internal]

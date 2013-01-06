@@ -1,0 +1,1028 @@
+qstr_2006_2010_THE_STAR_W|2006-2010 THE STAR WARS CONQUEST DEV TEAM
+qstr_This_Module_it_s_ded|This Module it's dedicated to every person who believed in us.^^Their valuable Work and Support have inspired Us to Make this bigger.^^The Force It's Strong with you! :-)
+qstr_Type_your_Faction_s_|Type your Faction's name:
+qstr_Accept|Accept
+qstr_Reset|Reset
+qstr_Cancel|Cancel
+qstr_{s10}|{s10}
+qstr_Player_Faction_name_|Player Faction name changed.
+qstr_Nothing_to_delete!|Nothing to delete!
+qstr_Next_Page|Next Page
+qstr_Candidate_#1:_{s1}|Candidate #1: {s1}
+qstr_Candidate_#2:_{s1}|Candidate #2: {s1}
+qstr_{s3}_of_{s4}_wishes_|{s3} of {s4} wishes to select a new marshall and invites his commanders for a counsel. {s1} and {s2} are the likely candidates.
+qstr_Continue...|Continue...
+qstr_Who_do_you_wish_to_s|Who do you wish to support?
+qstr_{s1}|{s1}
+qstr_{s1}_gives_his_suppo|{s1} gives his support to {s2}.
+qstr_Number_of_Supporters|Number of Supporters: {reg0}
+qstr_{s2}_has_heard_his_c|{s2} has heard his commanders' counsel. He selects {s1} as the marshall of {s3}.
+qstr_Action|Action
+qstr_Mount|Mount
+qstr_Attack_Type|Attack Type
+qstr_Hold_This_Position|Hold This Position
+qstr_Follow_Me|Follow Me
+qstr_Charge|Charge
+qstr_Advance|Advance
+qstr_Fall_Back|Fall Back
+qstr_Stand_Closer|Stand Closer
+qstr_Spread_Out|Spread Out
+qstr_Stand_Ground|Stand Ground
+qstr_Dismount|Dismount
+qstr_Use_Any_Weapon|Use Any Weapon
+qstr_Use_Blunt_Weapons|Use Blunt Weapons
+qstr_Hold_Your_Fire|Hold Your Fire
+qstr_Fire_At_Will|Fire At Will
+qstr_Us|Us
+qstr_Enemies|Enemies
+qstr_Ready|Ready
+qstr_Wounded|Wounded
+qstr_Dead|Dead
+qstr_Allies|Allies
+qstr_Number_of_men_knocke|Number of men knocked down: {reg1}
+qstr_Number_of_men_left:_|Number of men left: {reg1}
+qstr_Opponents_Beaten:_{r|Opponents Beaten: {reg1}
+qstr_Opponents_Remaining:|Opponents Remaining: {reg1}
+qstr_Remain_in_retirement|Remain in retirement.
+qstr_Go_back_to_the_adven|Go back to the adventuring.
+qstr_You_have_retired_at_|You have retired at level {reg4} after {reg5} days of adventuring.
+qstr_Effect_on_Score|Effect on Score
+qstr_Settlements_owned_by|Settlements owned by you: {reg0}
+qstr_{reg0?+:}{reg0}|{reg0?+:}{reg0}
+qstr_Friendly_Settlements|Friendly Settlements: {reg0}
+qstr_Hostile_Settlements:|Hostile Settlements: {reg0}
+qstr_{reg0}|{reg0}
+qstr_Friendly_Lords:_{reg|Friendly Lords: {reg0}
+qstr_Enemy_Lords:_{reg0}|Enemy Lords: {reg0}
+qstr_Victories:_{reg0}|Victories: {reg0}
+qstr_Defeats:_{reg0}|Defeats: {reg0}
+qstr_Quests_Completed:_{r|Quests Completed: {reg0}
+qstr_Companions_Found:_{r|Companions Found: {reg0}
+qstr_Companions_Lost/Depa|Companions Lost/Departed: {reg0}
+qstr_Wealth:_{reg0}_credi|Wealth: {reg0} credits
+qstr_Inventory:_{reg0}_cr|Inventory: {reg0} credits
+qstr_Renown:_{reg0}|Renown: {reg0}
+qstr_Experience:_{reg0}|Experience: {reg0}
+qstr_Days_Passed:_{reg0}|Days Passed: {reg0}
+qstr_Difficulty:_{reg0}%|Difficulty: {reg0}%
+qstr_{reg3?+:}{reg0}|{reg3?+:}{reg0}
+qstr_TOTAL_SCORE:_{reg0}|TOTAL SCORE: {reg0}
+qstr_Hit|Hit
+qstr_Stay|Stay
+qstr_Double|Double
+qstr_Bet:_{reg51}_credits|Bet: {reg51} credits
+qstr_Money:_{reg1}_credit|Money: {reg1} credits
+qstr_Done|Done
+qstr_Draw_all_bets_are_re|Draw, all bets are returned.
+qstr_The_dealer_has_a_per|The dealer has a perfect hand! You lose 50% more of your bets!
+qstr_You_have_a_perfect_h|You have a perfect hand! You win 50% more of your bets!
+qstr_Bet:_0_credits|Bet: 0 credits
+qstr_The_dealers_hand_val|The dealers hand value is over 21. You win!
+qstr_Your_hand_value_is_o|Your hand value is over 21. You lose!
+qstr_The_dealer_has_a_hig|The dealer has a higher hand value. You lose!
+qstr_You_have_a_higher_ha|You have a higher hand value. You win!
+qstr_You_lose._Try_again?|You lose. Try again?
+qstr_You_win!_Try_again?|You win! Try again?
+qstr_Draw._Try_again?|Draw. Try again?
+qstr_Yes_|Yes 
+qstr__No| No
+qstr_Dealer_stays.|Dealer stays.
+qstr_You_don_t_have_enoug|You don't have enough money.
+qstr_You_stay.|You stay.
+qstr_Double_bets!_You_can|Double bets! You can only get one card again.
+qstr_Not_right_now.|Not right now.
+qstr__Return_to_menu_| Return to menu 
+qstr_Strength|Strength
+qstr_Riding|Riding
+qstr_Pdraw|Pdraw
+qstr_Pthrow|Pthrow
+qstr_1_hand|1-hand
+qstr_2_hand|2-hand
+qstr_Polearm|Polearm
+qstr_Archery|Archery
+qstr__X_bow_| X-bow 
+qstr_Throwing_|Throwing 
+qstr___Firearms|  Firearms
+qstr__Mode| Mode
+qstr__to_next_lvl_|(to next lvl)
+qstr__1.0_| 1.0 
+qstr_If_you_can_see_this_|If you can see this, buy a new cpu.
+qstr__Weapons____________|-Weapons-                                                              -Equipment-
+qstr_________________n/a_|                n/a                
+qstr_{s9}|{s9}
+qstr_{reg1}|{reg1}
+qstr_Rides|Rides
+qstr_Walks|Walks
+qstr_{reg1}_credits|{reg1} credits
+qstr_^^_The_price_is_{reg|^^ The price is {reg1} credits
+qstr_{s10}^^Upgrade_Detai|{s10}^^Upgrade Details:^^    Base Speed: {reg2}^    Drive: {reg3} of {reg4}^    Scanner: {reg5} of {reg6}^    Combat Computer: {reg7} of {reg8}^    Troop Capacity: {reg9} of {reg10}^    Medical Bay: {reg11} of {reg12}^    Prisoner Capacity: {reg13} of {reg14}^    Trade Computer: {reg15} of {reg16}^    Cargo Capacity: {reg17} of {reg18}
+qstr_Shipyard_Stock_List_|Shipyard Stock List - select the ship you want to view or purchase
+qstr_{s3}|{s3}
+qstr_{s5}|{s5}
+qstr_Buy_the_ship|Buy the ship
+qstr_Go_back...|Go back...
+qstr_>{s1}|>{s1}
+qstr_You_have_{reg45}_cre|You have {reg45} credits
+qstr_view|view
+qstr_The_{s3}_is_waiting_|The {s3} is waiting for you on the docking bay.
+qstr_Ship_Details|Ship Details
+qstr_Ship_system|Ship system
+qstr_Current|Current
+qstr_Max|Max
+qstr_Upgrade_price__credi|Upgrade price (credits)
+qstr_Drive|Drive
+qstr_Scanners|Scanners
+qstr_Troop_Capacity|Troop Capacity
+qstr_Prisoner_Capacity|Prisoner Capacity
+qstr_Cargo_Capacity|Cargo Capacity
+qstr_Combat_Computer|Combat Computer
+qstr_Trade_Computer|Trade Computer
+qstr_Medical_Bay|Medical Bay
+qstr_{reg2}|{reg2}
+qstr_{reg3}|{reg3}
+qstr_{reg4}|{reg4}
+qstr_{reg5}|{reg5}
+qstr_{reg6}|{reg6}
+qstr_{reg7}|{reg7}
+qstr_{reg8}|{reg8}
+qstr_{reg9}|{reg9}
+qstr_{reg10}|{reg10}
+qstr_{reg11}|{reg11}
+qstr_{reg12}|{reg12}
+qstr_{reg13}|{reg13}
+qstr_{reg14}|{reg14}
+qstr_{reg15}|{reg15}
+qstr_{reg16}|{reg16}
+qstr_{reg17}|{reg17}
+qstr_{reg18}|{reg18}
+qstr_{reg19}|{reg19}
+qstr_{reg20}|{reg20}
+qstr_{reg21}|{reg21}
+qstr_{reg22}|{reg22}
+qstr_{reg23}|{reg23}
+qstr_{reg24}|{reg24}
+qstr_{reg25}|{reg25}
+qstr_Buy|Buy
+qstr_Sale_price_{reg0}_cr|Sale price {reg0} credits
+qstr_Sell_the_ship|Sell the ship
+qstr_Your_upgrade_has_bee|Your upgrade has been installed.
+qstr_Your_ship_has_been_s|Your ship has been sold
+qstr_X:_00Y:_00|X: 00,Y: 00
+qstr_Over:|Over:
+qstr_Selected:|Selected:
+qstr_As_you_grew_older_yo|As you grew older you decided to join...
+qstr_Go_Back...|Go Back...
+qstr_Remain_Independent.|Remain Independent.
+qstr_Galactic_Empire|Galactic Empire
+qstr_Rebel_Alliance|Rebel Alliance
+qstr_Hutt_Cartel|Hutt Cartel
+qstr_Selected:_{reg5}|Selected: {reg5}
+qstr_You_decide_it_is_now|You decide it is now time to leave your family and seek you own fortune.
+qstr_After_visiting_the_r|After visiting the recruiting center you were accepted into the army and spent several months training at the Imperial Academy. As your last task before graduation you were given a small ship and sent to Coruscant to pledge your loyalty before Emperor Palpatine himself.
+qstr_Using_some_of_your_l|Using some of your local contacts you eventually arranged a meeting with a rebel commander. After working with his unit for several months you have been given a small ship and sent to Yavin IV to pledge your loyalty before Mon Mothma herself.
+qstr_You_spent_several_mo|You spent several months doing random jobs for the local crime lord. Thievery and murder became a common part of your life and you developed enough of a reputation that you were given a small ship and sent to Tatooine to pledge your loyalty before Jabba the Hutt.
+qstr_X:_{reg1}Y:_{reg2}|X: {reg1},Y: {reg2}
+qstr_Over:_{reg3}{reg4}|Over: {reg3},{reg4}
+qstr_You_spent_your_early|You spent your early years traveling around the galaxy with your parents. Your father was...
+qstr_Ambassador|Ambassador
+qstr_Merchant|Merchant
+qstr_Soldier|Soldier
+qstr_{reg3}_{s0}_can_upgr|{reg3} {s0} can upgrade.
+qstr_{reg1}^^Upgrade_to_{|{reg1}^^Upgrade to {s1}
+qstr_{reg2}^^Upgrade_to_{|{reg2}^^Upgrade to {s2}
+qstr_Upgrade_to_{s1}_{reg|Upgrade to {s1}({reg3})
+qstr__| 
+qstr_Previous|Previous
+qstr_Next|Next
+qstr_{s0}|{s0}
+qstr_{s1}_of_{s3}_was_def|{s1} of {s3} was defeated in battle but managed to escape.
+qstr_DEBUG:_{s1}_no_longe|DEBUG: {s1} no longer leads a party.
+qstr_DEBUG:_{s1}_is_no_lo|DEBUG: {s1} is no longer a prisoner.
+qstr_DEBUG:_{s1}_is_now_a|DEBUG: {s1} is now a prisoner of player.
+qstr_DEBUG:_{s1}_is_now_a_|DEBUG: {s1} is now a prisoner of {s2}.
+qstr_+{reg1}_to_party_mor|+{reg1} to party morale
+qstr_Requires_{reg1}_inte|Requires {reg1} intelligence to view
+qstr_Viewing_Progress:_{r|Viewing Progress: {reg1}%
+qstr_wound_treament|wound treament
+qstr_tactics|tactics
+qstr_first_aid|first aid
+qstr_ironflesh|ironflesh
+qstr_mounted_accuracy|mounted accuracy
+qstr_trainer|trainer
+qstr_surgery|surgery
+qstr_trade|trade
+qstr_+1_to_{s1}_while_in_|+1 to {s1} while in inventory
+qstr_+1_to_Ironflesh_when|+1 to Ironflesh when worn
+qstr_+1_to_Mounted_Accura|+1 to Mounted Accuracy when worn^Press '{s1}' to enable Helmet View
+qstr_+2_to_Engineer_when_|+2 to Engineer when worn
+qstr_+1_to_Tactics_when_w|+1 to Tactics when worn
+qstr_+1_to_Leadership_whe|+1 to Leadership when worn
+qstr_+1_to_Power_Strike_w|+1 to Power Strike when worn
+qstr_Press__{s1}__to_heal|Press '{s1}' to heal player^(Bacta Capsule required)
+qstr_Heals_20hp^_Bacta_In|Heals 20hp^(Bacta Injector required)
+qstr_Press__{s1}__to_enab|Press '{s1}' to enable Helmet View
+qstr_Press__{s1}__to_togg|Press '{s1}' to toggle weapon capabilities
+qstr_Press__{s1}__to_use|Press '{s1}' to use
+qstr_Refills_ammo_of_near|Refills ammo of nearby team when equipped
+qstr_Refills_health_of_ne|Refills health of nearby team when equipped
+qstr_Ammo_for_Force_Power|Ammo for Force Powers
+qstr_Hurts_player_when_us|Hurts player when used
+qstr_Ammo_clip_size:_{reg|Ammo clip size: {reg1}
+qstr_Press__{s1}__to_toggl|Press '{s1}' to toggle weapon firing position
+qstr_Usable_in_a_Pistol|Usable in a Pistol
+qstr_Usable_in_a_Rifle|Usable in a Rifle
+qstr_Allows_Shield_Bash|Allows Shield Bash
+qstr_Requires_Force_Push_|Requires Force Push or Force Lightning
+qstr_Move_here|Move here
+qstr_View_notes|View notes
+qstr__{s61}| {s61}
+qstr_ERROR:_More_than_15_|ERROR: More than 15 trade routes are given for {s1}.
+qstr_{reg4}_killed_{reg5}|{reg4} killed, {reg5} wounded
+qstr_killed|killed
+qstr_wounded|wounded
+qstr_{reg3?{reg3}:}_{s1}_|{reg3?{reg3}:} {s1} ({s2})
+qstr_{s0}_{reg3?{reg3}:}_|{s0}, {reg3?{reg3}:} {s1} ({s2})
+qstr_{s0}^{reg3?{reg3}:}_|{s0}^{reg3?{reg3}:} {s1} ({s2})
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^TOTAL: {reg3} ({s2})
+qstr_None|None
+qstr_^None|^None
+qstr_nothing|nothing
+qstr_{reg0}_village{reg1?|{reg0} village{reg1?s:}
+qstr_{reg0}_castle{reg1?s|{reg0} castle{reg1?s:}
+qstr_{reg0}_castle{reg1?s:|{reg0} castle{reg1?s:} and {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0} town{reg1?s:}
+qstr_{reg0}_town{reg1?s:}_|{reg0} town{reg1?s:} and {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0} town{reg1?s:}, {s0}
+qstr_Your_opponents_are_r|Your opponents are ready for the fight.
+qstr_Try_to_destroy_as_ma|Try to destroy as many targets as you can. You have two and a half minutes to clear the track.
+qstr_Stay_behind_the_line|Stay behind the line on the ground and shoot the targets. Try not to waste any shots.
+qstr_Battle_Advantage_|_{|Battle Advantage | {reg0}.
+qstr_{s9}_wants_you_to_re|{s9} wants you to resume following his army until further notice.
+qstr__Being_Raided_|(Being Raided)
+qstr__Looted_|(Looted)
+qstr__Under_Siege_|(Under Siege)
+qstr_The_planet_of_{s1}_h|The planet of {s1} has been looted by {s2}.
+qstr_{s3}_is_no_longer_un|{s3} is no longer under siege.
+qstr_Enemies_spotted_near|Enemies spotted near {s1}.
+qstr_{s1}_has_been_besieg|{s1} has been besieged by {s2} of {s3}.
+qstr_{s1}_is_chosen_as_th|{s1} is chosen as the marshall of {s2}.
+qstr_{s1}_is_the_new_mars|{s1} is the new marshall of {s2}.
+qstr_{s1}_decided_to_do_n|{s1} decided to do nothing.
+qstr_{s1}_decided_to_gath|{s1} decided to gather army.
+qstr_{s1}_decided_to_besi|{s1} decided to besiege {s2}.
+qstr_{s1}_decided_to_raid|{s1} decided to raid {s2}.
+qstr_{s1}_decided_to_atta|{s1} decided to attack {s2}.
+qstr_{s1}_decided_to_attac|{s1} decided to attack enemies around {s2}.
+qstr_You_gained_{reg12}_r|You gained {reg12} renown.
+qstr_You_lose_{reg12}_ren|You lose {reg12} renown.
+qstr_Your_relation_with_{|Your relation with {s1} has improved.
+qstr_Your_relation_with_{s|Your relation with {s1} has deteriorated.
+qstr_You_gain_honour.|You gain honour.
+qstr_You_lose_honour.|You lose honour.
+qstr_{s1}_has_declared_wa|{s1} has declared war against {s2}.
+qstr_{s1}_and_{s2}_are_en|{s1} and {s2} are engaged in war for the galactic supremacy.
+qstr_{s1}_and_{s2}_have_m|{s1} and {s2} have made peace with each other.
+qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?was:is currently} at {s3}.
+qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?was:is} travelling to {s3} and {reg4?she:he} {reg3?was:should be} close to {s4}{reg3?: at the moment}.
+qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?was:is} in wilderness and {reg4?she:he} {reg3?was:should be} close to {s3}{reg3?: at the moment}.
+qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?was:is} being held captive at {s3}.
+qstr_{s2}_{reg3?was:has_b|{s2} {reg3?was:has been} taken captive by {reg4?her:his} enemies.
+qstr_{reg3?{s2}_s_locatio|{reg3?{s2}'s location was unknown:I don't know where {s2} is}.
+qstr_{s6}_has_joined_your|{s6} has joined your party
+qstr_You_now_owe_{reg2}_d|You now owe {reg2} denars to {s1}.
+qstr_Renown_value_for_thi|Renown value for this battle is {reg8}.
+qstr_You_have_run_into_a_|You have run into a trap!
+qstr_You_are_attacked_by_|You are attacked by a group of bandits!
+qstr_Holding|Holding
+qstr_Following|Following
+qstr_Charging|Charging
+qstr_Advancing|Advancing
+qstr_Falling_Back|Falling Back
+qstr_Standing_Closer|Standing Closer
+qstr_Spreading_Out|Spreading Out
+qstr_Standing|Standing
+qstr_N/A|N/A
+qstr_Free|Free
+qstr_Any_Weapon|Any Weapon
+qstr_Blunt_Weapons|Blunt Weapons
+qstr_Infantry__{reg1}_|Infantry ({reg1})
+qstr_Archers__{reg2}_|Archers ({reg2})
+qstr_Cavalry__{reg3}_|Cavalry ({reg3})
+qstr_{s1}_Rebels|{s1} Rebels
+qstr_Given_by:_{s62}|Given by: {s62}
+qstr_Given_on:_{s60}|Given on: {s60}
+qstr_You_have_{reg0}_days|You have {reg0} days to finish this quest.
+qstr_This_quest_has_been_|This quest has been concluded. Talk to {s59} to finish it.
+qstr_This_quest_has_been_s|This quest has been successfully completed. Talk to {s59} to claim your reward.
+qstr_This_quest_has_faile|This quest has failed. Talk to {s59} to explain the situation.
+qstr_At_the_time_quest_wa|At the time quest was given:^{s1}
+qstr_{s4}_is_in_{s5}|{s4} is in {s5}
+qstr_{s1}_is_infested_by_|{s1} is infested by bandits.
+qstr_nowhere|nowhere
+qstr_{s7}_and_{s8}|{s7} and {s8}
+qstr_{s7}_{s8}|{s7}, {s8}
+qstr_noone|noone
+qstr_{s9}_and_{s10}|{s9} and {s10}
+qstr_{s9}_{s10}|{s9}, {s10}
+qstr_{s11}_and_{s12}|{s11} and {s12}
+qstr_{s11}_{s12}|{s11}, {s12}
+qstr_{s5}_is_ruled_by_{s6|{s5} is ruled by {s6}.^It occupies {s8}.^Its commanders are {s10}.^{s5} is at war with {s12}.
+qstr_{s5}_has_been_defeat|{s5} has been defeated!
+qstr_{s5}_has_a_strength_|{s5} has a strength of {reg1} men in total.
+qstr_{s54}_is_a_claimant_|{s54} is a claimant to the throne of {s56}.
+qstr_{s57}_and_{s58}|{s57} and {s58}
+qstr_{s57}_{s58}|{s57}, {s58}
+qstr_{reg3?She:He}|{reg3?She:He}
+qstr_^{s59}|^{s59}
+qstr_{reg6?:{reg4?{s54}_i|{reg6?:{reg4?{s54} is the ruler of {s56}.^:{s54} is a commander of {s55} of {s56}.^}}Renown: {reg5}.^{reg9?{reg3?She:He} is the {reg3?lady:lord} of {s58}.:{reg3?She:He} has no territories.}{s59}
+qstr_The_last_time_you_sa|The last time you saw {reg1?her:him}, {s1}
+qstr_The_last_time_you_he|The last time you heard about {reg1?her:him}, {s1}
+qstr_The_planet_of_{s50}|The planet of {s50}
+qstr_The_planet_of_{s50}_|The planet of {s50} near {s52}
+qstr_{s50}|{s50}
+qstr_{s51}_belongs_to_{s1|{s51} belongs to {s1} of {s2}.^
+qstr_{s2}It_has_no_villag|{s2}It has no villages.^
+qstr_{s2}{reg0?Its_planet|{s2}{reg0?Its planets are:Its planet is} {s8}.^
+qstr_{s2}Its_prosperity_i|{s2}Its prosperity is: {s50}
+qstr_Current_garrison_con|Current garrison consists of {reg5} men.^Has food stock for {reg6} days.
+qstr_Very_Poor|Very Poor
+qstr_Poor|Poor
+qstr_Average|Average
+qstr_Rich|Rich
+qstr_Very_Rich|Very Rich
+qstr_Palace|Palace
+qstr_A_palace_lets_you_re|A palace lets you rest on the planet and pay your troops half wages while you rest.
+qstr_Industrial_Factory|Industrial Factory
+qstr_A_industrial_factory|A industrial factory increases planet prosperity by 5%.
+qstr_Radar_Station|Radar Station
+qstr_A_radar_station_lets|A radar station lets the citizens raise alarm earlier. The time it takes for enemies to loot the planet increases by 25%.
+qstr_Educational_Facility|Educational Facility
+qstr_A_educational_facili|A educational facility increases the loyality of the citizens to you by +1 every month.
+qstr_Communications_Cente|Communications Center
+qstr_A_communications_cen|A communications center lets the inhabitants send you a message whenever enemies are nearby, even if you are far away from here.
+qstr_Prison_Tower|Prison Tower
+qstr_A_prison_tower_reduc|A prison tower reduces the chance of captives held here running away successfully.
+qstr_Cloning_Chambers|Cloning Chambers
+qstr_A_cloning_chamber_gi|A cloning chamber gives you the chance to recruit clone troopers.
+qstr_Droid_Foundry|Droid Foundry
+qstr_A_droid_foundry_give|A droid foundry gives you the chance to build battle droids.
+qstr_Force_Sensitive_Temp|Force-Sensitive Temple
+qstr_A_force_sensitive_te|A force-sensitive temple gives you the chance to recruit force sensitives.
+qstr_Rancor_Pit|Rancor Pit
+qstr_A_rancor_pit_gives_y|A rancor pit gives you the chance to breed baby rancors.
+qstr_Prosperity_of_{s2}_h|Prosperity of {s2} has changed from {s3} to {s4}.
+qstr_{s4}_looks_upset.|{s4} looks upset.
+qstr_your_party|your party
+qstr_{reg0?One_of_your_pr|{reg0?One of your prisoners, :}{s1} of {s3} has escaped from captivity!
+qstr_You_brought_a_herd_o|You brought a herd of {reg3} nerfs to {s1}.
+qstr_I_heard_that_there_w|I heard that there will be a tournament in {s62} soon.
+qstr_I_heard_that_one_can|I heard that one can buy {s62} very cheap at {s63}.
+qstr_I_heard_that_they_pa|I heard that they pay a very high price for {s62} at {s63}.
+qstr_Log_entry_{reg3}:_ty|Log entry {reg3}: type {reg4}
+qstr_Center:_{s4}|Center: {s4}
+qstr_Troop:_{s4}|Troop: {s4}
+qstr_Lord:_{s4}|Lord: {s4}
+qstr_Ally_party_is_presen|Ally party is present
+qstr_{s4}_is_present_at_e|{s4} is present at event
+qstr_Event_#{reg5}_type_{|Event #{reg5}, type {reg6}, time {reg8}: player's faction relation to troop object | {reg7}
+qstr_Event_#{reg5}_type_{r|Event #{reg5}, type {reg6}, time {reg8}: player's faction relation to center object faction | {reg7}
+qstr_Event_#{reg5}_type_{re|Event #{reg5}, type {reg6}, time {reg8}: player's faction relation to faction object | {reg7}
+qstr_Event_#{reg5}_type_{reg|Event #{reg5}, type {reg6}, time {reg8}. No relevant faction relation
+qstr_Event_#{reg5}_type_{reg6|Event #{reg5}, type {reg6}, time {reg8}. Player unaffiliated
+qstr_Elapsed_hours:_{reg7|Elapsed hours: {reg7}
+qstr_Reputation_type:_{s1|Reputation type: {s15}
+qstr_Entries_up_to_#{reg5|Entries up to #{reg5} skipped
+qstr_Delivered_{reg12}_da|Delivered {reg12} damage.
+qstr_Received_{reg12}_dam|Received {reg12} damage.
+qstr_{s0}^{s1}|{s0}^{s1}
+qstr_Delivered_{reg1}_dam|Delivered {reg1} damage.
+qstr_Received_%d_damage.|Received %d damage.
+qstr_{s9}^^^Level:_{reg3}|{s9}^^^Level: {reg3}^Health: {reg2}%^Morale: {reg1}
+qstr_No_Troops_Left.|No Troops Left.
+qstr_Selected_Troop:_{s1}|Selected Troop: {s1}
+qstr_MAXIMUM_25_character|MAXIMUM 25 characters.  The last character was not recorded
+qstr_{s10}_|{s10} 
+qstr_{s10}1|{s10}1
+qstr_{s10}2|{s10}2
+qstr_{s10}3|{s10}3
+qstr_{s10}4|{s10}4
+qstr_{s10}5|{s10}5
+qstr_{s10}6|{s10}6
+qstr_{s10}7|{s10}7
+qstr_{s10}8|{s10}8
+qstr_{s10}9|{s10}9
+qstr_{s10}0|{s10}0
+qstr_{s10}A_polish|{s10}A-polish
+qstr_{s10}A|{s10}A
+qstr_{s10}a_polish|{s10}a-polish
+qstr_{s10}a|{s10}a
+qstr_{s10}B|{s10}B
+qstr_{s10}b|{s10}b
+qstr_{s10}C_polish|{s10}C-polish
+qstr_{s10}C|{s10}C
+qstr_{s10}c_polish|{s10}c-polish
+qstr_{s10}c|{s10}c
+qstr_{s10}D|{s10}D
+qstr_{s10}d|{s10}d
+qstr_{s10}E_polish|{s10}E-polish
+qstr_{s10}E|{s10}E
+qstr_{s10}e_polish|{s10}e-polish
+qstr_{s10}e|{s10}e
+qstr_{s10}F|{s10}F
+qstr_{s10}G|{s10}G
+qstr_{s10}g|{s10}g
+qstr_{s10}H|{s10}H
+qstr_{s10}h|{s10}h
+qstr_{s10}I|{s10}I
+qstr_{s10}i|{s10}i
+qstr_{s10}J|{s10}J
+qstr_{s10}j|{s10}j
+qstr_{s10}K|{s10}K
+qstr_{s10}k|{s10}k
+qstr_{s10}L_polish|{s10}L-polish
+qstr_{s10}L|{s10}L
+qstr_{s10}l_polish|{s10}l-polish
+qstr_{s10}l|{s10}l
+qstr_{s10}M|{s10}M
+qstr_{s10}m|{s10}m
+qstr_{s10}N_polish|{s10}N-polish
+qstr_{s10}N|{s10}N
+qstr_{s10}n_polish|{s10}n-polish
+qstr_{s10}n|{s10}n
+qstr_{s10}O_polish|{s10}O-polish
+qstr_{s10}O|{s10}O
+qstr_{s10}o_polish|{s10}o-polish
+qstr_{s10}o|{s10}o
+qstr_{s10}P|{s10}P
+qstr_{s10}p|{s10}p
+qstr_{s10}Q|{s10}Q
+qstr_{s10}q|{s10}q
+qstr_{s10}R|{s10}R
+qstr_{s10}r|{s10}r
+qstr_{s10}S_polish|{s10}S-polish
+qstr_{s10}S|{s10}S
+qstr_{s10}s_polish|{s10}s-polish
+qstr_{s10}s|{s10}s
+qstr_{s10}T|{s10}T
+qstr_{s10}t|{s10}t
+qstr_{s10}U|{s10}U
+qstr_{s10}u|{s10}u
+qstr_{s10}V|{s10}V
+qstr_{s10}v|{s10}v
+qstr_{s10}W|{s10}W
+qstr_{s10}w|{s10}w
+qstr_{s10}X_polish|{s10}X-polish
+qstr_{s10}X|{s10}X
+qstr_{s10}x_polish|{s10}x-polish
+qstr_{s10}x|{s10}x
+qstr_{s10}Y|{s10}Y
+qstr_{s10}y|{s10}y
+qstr_{s10}Z_polish|{s10}Z-polish
+qstr_{s10}Z|{s10}Z
+qstr_{s10}z_polish|{s10}z-polish
+qstr_{s10}z|{s10}z
+qstr_1|1
+qstr_2|2
+qstr_3|3
+qstr_4|4
+qstr_5|5
+qstr_6|6
+qstr_7|7
+qstr_8|8
+qstr_9|9
+qstr_0|0
+qstr_a|a
+qstr_b|b
+qstr_c|c
+qstr_d|d
+qstr_e|e
+qstr_f|f
+qstr_g|g
+qstr_h|h
+qstr_i|i
+qstr_j|j
+qstr_k|k
+qstr_l|l
+qstr_m|m
+qstr_n|n
+qstr_o|o
+qstr_p|p
+qstr_q|q
+qstr_r|r
+qstr_s|s
+qstr_t|t
+qstr_u|u
+qstr_v|v
+qstr_w|w
+qstr_x|x
+qstr_y|y
+qstr_z|z
+qstr_numpad_0|numpad 0
+qstr_numpad_1|numpad 1
+qstr_numpad_2|numpad 2
+qstr_numpad_3|numpad 3
+qstr_numpad_4|numpad 4
+qstr_numpad_5|numpad 5
+qstr_numpad_6|numpad 6
+qstr_numpad_7|numpad 7
+qstr_numpad_8|numpad 8
+qstr_numpad_9|numpad 9
+qstr_num_lock|num lock
+qstr_numpad_slash|numpad slash
+qstr_numpad_multiply|numpad multiply
+qstr_numpad_minus|numpad minus
+qstr_numpad_plus|numpad plus
+qstr_numpad_enter|numpad enter
+qstr_numpad_period|numpad period
+qstr_insert|insert
+qstr_delete|delete
+qstr_home|home
+qstr_end|end
+qstr_page_up|page up
+qstr_page_down|page down
+qstr_up|up
+qstr_down|down
+qstr_left|left
+qstr_right|right
+qstr_f1|f1
+qstr_f2|f2
+qstr_f3|f3
+qstr_f4|f4
+qstr_f5|f5
+qstr_f6|f6
+qstr_f7|f7
+qstr_f8|f8
+qstr_f9|f9
+qstr_f10|f10
+qstr_f11|f11
+qstr_f12|f12
+qstr_space|space
+qstr_escape|escape
+qstr_enter|enter
+qstr_tab|tab
+qstr_back_space|back space
+qstr_open_braces|open braces
+qstr_close_braces|close braces
+qstr_comma|comma
+qstr_period|period
+qstr_slash|slash
+qstr_back_slash|back slash
+qstr_equals|equals
+qstr_minus|minus
+qstr_semicolon|semicolon
+qstr_apostrophe|apostrophe
+qstr_tilde|tilde
+qstr_caps_lock|caps lock
+qstr_left_shift|left shift
+qstr_right_shift|right shift
+qstr_left_control|left control
+qstr_right_control|right control
+qstr_left_alt|left alt
+qstr_right_alt|right alt
+qstr_left_mouse_button|left mouse button
+qstr_right_mouse_button|right mouse button
+qstr_middle_mouse_button|middle mouse button
+qstr_mouse_button_4|mouse button 4
+qstr_mouse_button_5|mouse button 5
+qstr_mouse_button_6|mouse button 6
+qstr_mouse_button_7|mouse button 7
+qstr_mouse_button_8|mouse button 8
+qstr_mouse_scroll_up|mouse scroll up
+qstr_mouse_scroll_down|mouse scroll down
+qstr_too_many_teams_for_A|too many teams for AI
+qstr_You_don_t_have_a_Bac|You don't have a Bacta Injector in inventory!
+qstr_You_don_t_have_any_B|You don't have any Bacta Capsules in inventory!
+qstr_You_were_healed_for_|You were healed for 20 hp and have {reg1} bacta capsules left.
+qstr_You_are_not_hurt.|You are not hurt.
+qstr_Can_t_use_while_moun|Can't use while mounted!
+qstr_You_don_t_have_a_Jet|You don't have a Jetpack or Force Jump in inventory!
+qstr_{s1}_switched_to_{s2|{s1} switched to {s2}
+qstr_You_have_attacked_a_|You have attacked a citizen and are now wanted by the local authorities!
+qstr_Alert|Alert
+qstr_All_enemies_at_this_|All enemies at this location have been defeated!
+qstr_Success|Success
+qstr_Cannot_leave_now.|Cannot leave now.
+qstr_As_you_land_your_shi|As you land your ship you notice that this area is under attack!
+qstr_You_have_been_knocke|You have been knocked out by the enemy. Watch your men continue the fight without you or press Tab to retreat.
+qstr_If_you_choose_to_wat|If you choose to watch the fight you can use the '{s1}' and '{s2}' keys to change your camera view.
+qstr_A_Power_Droid_refill|A Power Droid refilled your ammo!
+qstr_A_Medical_Droid_refi|A Medical Droid refilled some of your health!
+qstr_{reg3?{s1}_s_profici|{reg3?{s1}'s proficiency in one handed weapon has improved by {reg2} to {reg1}.:{s1}'s one handed weapon proficiency have reach to {reg1}.}
+qstr_{reg3?{s1}_s_proficie|{reg3?{s1}'s proficiency in two handed weapon has improved by {reg2} to {reg1}.:{s1}'s two handed weapon proficiency have reach to {reg1}.}
+qstr_{reg3?{s1}_s_proficien|{reg3?{s1}'s proficiency in polearm has improved by {reg2} to {reg1}.:{s1}'s polearm proficiency have reach to {reg1}.}
+qstr_{reg3?{s1}_s_proficienc|{reg3?{s1}'s proficiency in archery has improved by {reg2} to {reg1}.:{s1}'s archery proficiency have reach to {reg1}.}
+qstr_{reg3?{s1}_s_proficiency|{reg3?{s1}'s proficiency in crossbow has improved by {reg2} to {reg1}.:{s1}'s crossbow proficiency have reach to {reg1}.}
+qstr_{reg3?{s1}_s_proficiency_|{reg3?{s1}'s proficiency in throwing has improved by {reg2} to {reg1}.:{s1}'s throwing proficiency have reach to {reg1}.}
+qstr_{reg3?{s1}_s_proficiency_i|{reg3?{s1}'s proficiency in firearms has improved by {reg2} to {reg1}.:{s1}'s firearm proficiency have reach to {reg1}.}
+qstr_You_have_fallen_in_b|You have fallen in battle. You can watch the rest of the fight or press tab to exit
+qstr_You_have_fallen_in_ba|You have fallen in battle. Watch the rest of the fight or press tab to exit
+qstr_Tutorial|Tutorial
+qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is not counted.
+qstr_End_the_sparring_mat|End the sparring match?
+qstr_You_are_not_injured_|You are not injured and do not need the Bacta Tank at this time.
+qstr_You_are_being_healed|You are being healed by the Bacta Tank...
+qstr_Walk_into_the_Bacta_|Walk into the Bacta Tank to heal yourself.
+qstr_Space_Combat_practic|Space Combat practice
+qstr_Do_you_wish_to_give_|Do you wish to give up the fight?
+qstr_You_ve_lost_a_total_|You've lost a total number of {reg2} duels.
+qstr_You_ve_won_a_total_n|You've won a total number of {reg2} duels
+qstr_{s4}:_M{reg3}_2M{reg|{s4}: M{reg3}, 2M{reg4}, PC{reg5}, 2PC{reg6}, PM{reg7}
+qstr_No_companions_in_par|No companions in party!
+qstr_Back_to_the_beginnin|Back to the beginning...
+qstr_View_next_segment...|View next segment...
+qstr___| -
+qstr__+| +
+qstr_^No_food:___{reg7}|^No food:  -{reg7}
+qstr_^Wage_debt:___{reg6}|^Wage debt:  -{reg6}
+qstr_Current_party_morale|Current party morale is {reg5}.^Current party morale modifiers are:^^Base morale:  +50^Party size: {s2}{reg1}^Leadership: {s3}{reg2}^Food variety: {s4}{reg3}{s5}{s6}^Recent events: {s7}{reg4}^TOTAL:  {reg5}
+qstr_Defending|Defending
+qstr_Gathering_army|Gathering army
+qstr_Besieging_{s11}|Besieging {s11}
+qstr_Raiding_{s11}|Raiding {s11}
+qstr_Attacking_enemies_ar|Attacking enemies around {s11}
+qstr_No_one|No one
+qstr_{s9}{s10}^Current_st|{s9}{s10}^Current state: {s11}^Marshall: {s12}^Since the last offensive: {reg1} hours^Offensive maximum followers: {reg2}^^
+qstr_Selected_faction_is:|Selected faction is: {s10}^^{s9}
+qstr_You_are_currently_vi|You are currently viewing {s8}.
+qstr_You_are_not_viewing_|You are not viewing any holocron's.
+qstr_none|none
+qstr_{s5}_and_{s6}|{s5} and {s6}
+qstr_{s5}_{s6}|{s5}, {s6}
+qstr_Renown:_{reg2}.^Hono|Renown: {reg2}.^Honour rating: {reg3}.^Friends: {s8}.^Enemies: {s6}.^{s9}
+qstr_Your_estates_are:_{s|Your estates are: {s8}.^{s9}
+qstr_You_are_a_lord_of_{s|You are a lord of {s8}.^{s9}
+qstr_Current_party_size_l|Current party size limit is {reg5}.^Current party size modifiers are:^^Base size:  +10^Leadership: {s2}{reg1}^Charisma: {s3}{reg2}^Renown: {s4}{reg3}^TOTAL:  {reg5}
+qstr_Loyal|Loyal
+qstr_Devoted|Devoted
+qstr_Fond|Fond
+qstr_Gracious|Gracious
+qstr_Friendly|Friendly
+qstr_Supportive|Supportive
+qstr_Favorable|Favorable
+qstr_Cooperative|Cooperative
+qstr_Accepting|Accepting
+qstr_Indifferent|Indifferent
+qstr_Suspicious|Suspicious
+qstr_Grumbling|Grumbling
+qstr_Hostile|Hostile
+qstr_Resentful|Resentful
+qstr_Angry|Angry
+qstr_Hateful|Hateful
+qstr_Revengeful|Revengeful
+qstr_Vengeful|Vengeful
+qstr_{s2}^{s4}:_{reg1}__{|{s2}^{s4}: {reg1} ({s3})
+qstr_Your_relation_with_t|Your relation with the factions are:^{s2}
+qstr_late_night|late night
+qstr_dawn|dawn
+qstr_early_morning|early morning
+qstr_morning|morning
+qstr_noon|noon
+qstr_afternoon|afternoon
+qstr_late_afternoon|late afternoon
+qstr_dusk|dusk
+qstr_evening|evening
+qstr_midnight|midnight
+qstr_You_are_currently_vie|You are currently viewing {s8} ({reg2}%).
+qstr_You_are_not_viewing_a|You are not viewing any holocrons.
+qstr_You_don_t_have_enough|You don't have enough territory for a new commander!
+qstr_Player_Faction_cultu|Player Faction culture is now Galactic Empire.
+qstr_Player_Faction_cultur|Player Faction culture is now Rebel Alliance.
+qstr_Player_Faction_culture|Player Faction culture is now Hutt Cartel.
+qstr_Player_Faction_culture_|Player Faction culture is now Human.
+qstr_Player_Faction_culture_i|Player Faction culture is now Wookiee.
+qstr_Player_Faction_culture_is|Player Faction culture is now Mandalorian.
+qstr_Player_Faction_culture_is_|Player Faction culture is now Clone.
+qstr_Player_Faction_culture_is_n|Player Faction culture is now Trandoshan.
+qstr_{s2}_belongs_to_{s3}|{s2}, belongs to {s3}
+qstr_Currently_enabled|Currently enabled
+qstr_Currently_disabled|Currently disabled
+qstr_Shield_Bash_integrat|Shield Bash integration has been disabled.
+qstr_Shield_Bash_integrati|Shield Bash integration has been enabled.
+qstr_Frequency_of_random_|Frequency of random scene battles was modified.
+qstr_Frequency_of_random_a|Frequency of random assassination attempts was modified.
+qstr_Currently_Empire_is_|Currently Empire is Blue & Rebel is Red
+qstr_Currently_Empire_is_R|Currently Empire is Red & Rebel is Green
+qstr_Currently_Empire_is_B|Currently Empire is Blue & Rebel is Green
+qstr_Currently_Empire_is_W|Currently Empire is White & Rebel is Red
+qstr_Currently_Empire_is_Wh|Currently Empire is White & Rebel is Green
+qstr_Empire_is_now_Red_&_|Empire is now Red & Rebel is Green.
+qstr_Empire_is_now_Blue_&|Empire is now Blue & Rebel is Green.
+qstr_Empire_is_now_White_|Empire is now White & Rebel is Red.
+qstr_Empire_is_now_White_&|Empire is now White & Rebel is Green.
+qstr_Empire_is_now_Blue_&_|Empire is now Blue & Rebel is Red.
+qstr_This_key_cannot_be_m|This key cannot be modified.
+qstr_Enable_the_M&B_Devel|Enable the M&B Developers CHEAT menu's & DEBUG messages.
+qstr_Disable_the_M&B_Deve|Disable the M&B Developers CHEAT menu's & DEBUG messages.
+qstr_CHEAT_and_DEBUG_mess|CHEAT and DEBUG messages are now enabled.
+qstr_WARNING:__this_mode_|WARNING:  this mode was created by the M&B developers.
+qstr_WARNING:__Functional|WARNING:  Functionality is unknown and has not been tested by the SWC team.
+qstr_CHEAT_and_DEBUG_messa|CHEAT and DEBUG messages are now disabled.
+qstr_Player_was_moved_to_|Player was moved to {s1}.
+qstr_Player_renown_is_inc|Player renown is increased by 500.
+qstr_Player_ship_speed_is|Player ship speed is now 2x faster.
+qstr_Player_ship_speed_is_|Player ship speed is now 3x faster.
+qstr_Player_ship_speed_is_n|Player ship speed is now 4x faster.
+qstr_Player_ship_speed_is_no|Player ship speed is now 5x faster.
+qstr_Player_ship_speed_is_r|Player ship speed is reset to the default.
+qstr_Experience_added_to_|Experience added to player.
+qstr_Party_members_added.|Party members added.
+qstr_Increased_relations_|Increased relations with all factions.
+qstr_Decreased_relations_|Decreased relations with all factions.
+qstr_Attributes_skills_an|Attributes, skills and proficiencies raised.
+qstr_Credits_&_equipment_|Credits & equipment added to player.
+qstr_Party_spawned_nearby|Party spawned nearby.
+qstr_Clone_Chambers_Templ|Clone Chambers, Temples, Droid Foundries, and Rancor Pits were added to all planets.
+qstr_All_planets_are_now_|All planets are now infested by bandits.
+qstr_All_village_relation|All village relationships were increased to 100.
+qstr_All_village_relations|All village relationships were decreased to -100.
+qstr_A_Force_Sensitive_Tr|A Force-Sensitive Trainer was moved to {s1}.
+qstr_A_Clone_Wars_Era_mer|A Clone Wars Era merchant was moved to {s1}.
+qstr_A_Droid_Parts_mercha|A Droid Parts merchant was moved to {s1}.
+qstr_A_Plastic_Surgeon_wa|A Plastic Surgeon was moved to {s1}.
+qstr_{s2}_was_moved_to_{s|{s2} was moved to {s1}.
+qstr_{s2}_is_already_in_y|{s2} is already in your party, please try again.
+qstr_Inventory_sorted.|Inventory sorted.
+qstr_{reg1}_{s1}_{reg2?ac|{reg1} {s1} {reg2?accept:accepts} the offer.
+qstr_No_one_accepts_the_o|No one accepts the offer.
+qstr_You_start_viewing_{s|You start viewing {s2}. After a few minutes, you feel you could learn a lot from this holocron. You decide to keep it close by and view it whenever you have the time.
+qstr_You_view_a_few_minut|You view a few minutes of {s2}, but you find the concepts confusing and difficult to follow. Try as you might, it soon gives you a headache, and you're forced to give up the attempt.
+qstr_This_week_s_wages:_{|This week's wages: {reg6} credits.^Earlier debts: {reg2}^Total due: {reg3}^^Current cash: {reg4} credits.^Bank account: {reg7} credits.^Total wealth: {reg8} credits
+qstr_Pay_everything_in_ca|Pay everything in cash
+qstr_Pay_only_as_much_as_|Pay only as much as you can in cash. Your party will lose morale.
+qstr_Pay_everything_from_|Pay everything from your bank account
+qstr_Pay_only_as_much_as_y|Pay only as much as you can from your account. Your party will lose morale.
+qstr_{reg3}_credits_have_|{reg3} credits have been removed from your bank account and paid to your troops
+qstr_{reg7}_credits_have_|{reg7} credits have been removed from your bank account and paid to your troops
+qstr_You_lost_your_duel_a|You lost your duel against ^^{s3}
+qstr_You_won_your_duel_ag|You won your duel against ^^{s3}
+qstr_You_prepare_to_duel_|You prepare to duel ^^{s3}
+qstr_^^^^You_have_fought_|^^^^You have fought {s3} {reg5} times. ^^You've won {reg6} times. ^^You've lost {reg7} times
+qstr_^^^^Dueling_with_you|^^^^Dueling with your own troops will not count towards your dueling statistics.
+qstr_Villagers|Villagers
+qstr_You_have_encountered|You have encountered {s1}.
+qstr_You_have_engaged_{s1|You have engaged {s1} while they were raiding {s3}.
+qstr_You_were_caught_by_{|You were caught by {s1} while your forces were raiding {s3}.
+qstr_You_were_victorious!|You were victorious!
+qstr_Battle_was_lost._You|Battle was lost. Your forces were utterly crushed.
+qstr_Your_companions_carr|Your companions carry you away from the fighting.
+qstr_You_have_defeated_th|You have defeated the enemy.
+qstr_You_have_retreated_f|You have retreated from the fight.
+qstr_^^Ally_Casualties:{s|^^Ally Casualties:{s0}
+qstr_{s1}_of_{s3}_managed|{s1} of {s3} managed to escape.
+qstr_{s17}|{s17}
+qstr_Victory_comment._Pla|Victory comment. Player was alone
+qstr_Ordinary_victory_com|Ordinary victory comment. The player provided at least 40 percent forces.
+qstr_Player_participation|Player participation comment. The enemy had at least 1k starting strength.
+qstr_No_victory_comment._|No victory comment. The battle was small, and the player provided less than 40 percent of allied strength
+qstr_Some_of_your_tendons|Some of your tendons have been damaged in the battle. You lose 1 strength.
+qstr_You_took_a_nasty_wou|You took a nasty wound which will cause you to limp slightly even after it heals. Your lose 1 agility.
+qstr_You_have_trouble_thi|You have trouble thinking straight after the battle, perhaps from a particularly hard hit to your head, and frequent headaches now plague your existence. Your intelligence is reduced by 1.
+qstr_Perhaps_I_m_getting_|Perhaps I'm getting unlucky...
+qstr_Retirement_is_starti|Retirement is starting to sound better and better.
+qstr_No_matter!_I_will_pe|No matter! I will persevere!
+qstr_What_did_I_do_to_des|What did I do to deserve this?
+qstr_I_suppose_it_ll_make|I suppose it'll make for a good story, at least...
+qstr_Player_retreats_from|Player retreats from battle
+qstr_{s9}_wants_you_to_fo|{s9} wants you to follow his army until further notice.
+qstr_{s8}_of_{s9}|{s8} of {s9}
+qstr__Your_own_banner_fli| Your own banner flies over the entrance.
+qstr__You_see_the_banner_| You see the banner of {s7} over the entrance.
+qstr__This_castle_seems_t| This castle seems to belong to no one.
+qstr__The_citizens_here_h| The citizens here have declared their independence.
+qstr_The_{reg6?planet_s:s|The {reg6?planet's:station's} food stores should last for {reg3} more days.
+qstr_The_{reg6?planet_s:st|The {reg6?planet's:station's} food stores have run out and the defenders are starving.
+qstr_You_re_preparing_to_|You're preparing to attack, the work should finish in {reg9} hours.
+qstr_Your_forces_are_buil|Your forces are building a siege tower. They estimate another {reg9} hours to complete the build.
+qstr_The_shields_have_bee|The shields have been destroyed and you are ready to begin the attack at any time.
+qstr_The_siege_tower_is_b|The siege tower is built and ready to make an assault.
+qstr_As_a_last_defensive_|As a last defensive effort, you retreat to the main hall of the keep. You and your remaining soldiers will put up a desperate fight here. If you are defeated, there's no other place to fall back to.
+qstr_You_ve_been_driven_a|You've been driven away from the walls. Now the attackers are pouring into the streets. IF you can defeat them, you can perhaps turn the tide and save the day.
+qstr_You_ve_breached_the_|You've breached the planet shields, but the stubborn defenders continue to resist you on the ground! You'll have to deal with them before you can attack the main hall at the heart of the planet.
+qstr_The_planet_is_yours_|The planet is yours, but the remaining defenders have retreated to the main hall. It must fall before you can complete your victory.
+qstr_The_remaining_defend|The remaining defenders have retreated to the main hall as a last defense. You must go in and crush any remaining resistance.
+qstr_However_since_you_ar|However, since you are not a sworn follower of {s9}, there is no chance he would recognize you as the {lord/lady} of this {reg8?planet:station}.
+qstr_The_enemy_has_been_f|The enemy has been forced to retreat. The assault is over, but the siege continues.
+qstr__This_planet_and_the| This planet and the surrounding moons belong to you.
+qstr__You_remember_that_t| You remember that this planet and the surrounding moons belong to {s7}.
+qstr__These_lands_belong_| These lands belong to no one.
+qstr__{s3}__{reg9}_.| {s3} ({reg9}).
+qstr__The_planet_is_infes| The planet is infested by {reg8} {s35}.
+qstr__The_planet_has_been| The planet has been looted. A handful of souls scatter as you pass through the burnt out houses.
+qstr__The_planet_is_being| The planet is being raided.
+qstr_There_are_currently_|There are currently {reg7} {s3} available.^^You have {reg8} available spots free in your party.^^You have enough credits to hire {reg9} of them.^^^^^Currently you cannot hire any troops.
+qstr_There_are_currently_{|There are currently {reg7} {s3} available.^^You have {reg8} available spots free in your party.^^You have enough credits to hire {reg9} of them.
+qstr_The_Droid_Foundry_ca|The Droid Foundry can not currently build any troops, please come back later.
+qstr_The_Droid_Foundry_can|The Droid Foundry can build {reg5} droids.^What type of droids do you want to build?
+qstr_Try_as_you_might_you|Try as you might, you could not defeat the bandits. Infuriated, they raze part of the planet to the ground to punish the colonists, and then leave the burning wasteland behind to find more space to plunder.
+qstr_planet|planet
+qstr_{s18}^{s0}|{s18}^{s0}
+qstr_The_{s17}_has_no_imp|The {s17} has no improvements.
+qstr_The_{s17}_has_the_fo|The {s17} has the following improvements:^^{s18}
+qstr_The_assasins_beat_yo|The assasins beat you down and leave you for dead. .
+qstr_You_have_fallen._The|You have fallen. The bandits quickly search your body for every coin they can find, then vanish into the night. They have left you alive, if only barely.
+qstr_Luckily_some_of_your|Luckily some of your companions come to search for you when you do not return, and find you lying by the side of the road. They hurry you to safety and dress your wounds.
+qstr_Luckily_some_passing|Luckily some passing people find you lying by the side of the road, and recognise you as something other than a simple beggar. They carry you to the nearest inn and dress your wounds.
+qstr_You_fail_to_steal_an|You fail to steal any nerfs.
+qstr_You_drive_away_{reg1|You drive away {reg17} nerfs from the village's herd.
+qstr_You_are_at_{s2}.|You are at {s2}.
+qstr__This_planet_seems_t| This planet seems to belong to no one.
+qstr__You_have_successful| You have successfully sneaked in.
+qstr_{s13}_A_tournament_w|{s13} A tournament will be held here soon.
+qstr___{reg1}_credits_per| ({reg1} credits per night)
+qstr_Moreover_you_earn_{r|Moreover, you earn {reg8} credits from the clever bets you placed on yourself...
+qstr_Victory_is_yours!_Yo|Victory is yours! You have won this melee, but now you must prepare yourself for the next round. 
+qstr_You_have_been_bested|You have been bested in this melee, but the master of ceremonies declares a recognition of your skill and bravery, allowing you to take part in the next round. 
+qstr_{s11}^{s12}|{s11}^{s12}
+qstr_You_were_beaten._The|You were beaten. The colonists are heartened by their success, but the lesson you wanted to teach them probably didn't get through...
+qstr_After_beating_your_l|After beating your last opponent, you explain to the colonists how to better defend themselves against such an attack. Hopefully they'll take the experience on board and will be prepared next time.
+qstr_The_bandits_are_brok|The bandits are broken! Those few who remain alive and conscious run off with their tails between their legs, terrified of the colonists and their new champion.
+qstr_Try_as_you_might_you_|Try as you might, you could not defeat the bandits. Infuriated, they raze part of the planet to the ground to punish the colonists, and then leave the burning wasteland behind to find greener pastures to plunder.
+qstr_{s1}_s_Ship|{s1}'s Ship
+qstr_^{s3}_|_{reg1}{s1}|^{s3} | {reg1}{s1}
+qstr_^{s3}_|_{reg1}{s2}|^{s3} | {reg1}{s2}
+qstr_However_{reg3?You_ar|However, {reg3?You are:{s1} is} unable to find any trade goods that would bring a profit.
+qstr_^Buying_{s4}_here_an|^Buying {s4} here and selling it at {s5} would bring a profit of {reg6} credits per item.{s3}
+qstr_{reg3?You_find:{s1}_|{reg3?You find:{s1} finds} out the following:^{s3}
+qstr_{s2}^{reg1}_{s1}_ear|{s2}^{reg1} {s1} earned {reg0} experience.
+qstr_{s2}^{s1}_earned_an_|{s2}^{s1} earned an additional {reg0} experience.
+qstr_^You_earned_{reg0}_e|^You earned {reg0} experience.{s2}
+qstr_The_training_didn_t_|The training didn't go well at all.
+qstr_The_training_didn_t_g|The training didn't go very well.
+qstr_The_training_went_qu|The training went quite well.
+qstr_The_training_went_ve|The training went very well.
+qstr_The_training_went_pe|The training went perfectly.
+qstr_{s13}_asked_you_to_r|{s13} asked you to report to him with at least {reg13} troops.
+qstr_{s13}_ordered_you_to|{s13} ordered you to join the assault against {s14}.
+qstr_Find_and_speak_with_|Find and speak with {s3} of {s4} to give him your oath of homage.
+qstr_you|you
+qstr_Felucia|Felucia
+qstr_Coruscant|Coruscant
+qstr_Tatooine|Tatooine
+qstr_Mustafar|Mustafar
+qstr_Dantooine|Dantooine
+qstr_Kashyyyk|Kashyyyk
+qstr_Raxus_Prime|Raxus Prime
+qstr_^^^You_currently_don|^^^You currently don't own a spaceship
+qstr_^^To_buy_a_new_ship_|^^To buy a new ship, you will have to sell your current one first.
+qstr_^^^Your_current_ship|^^^Your current ship is a {s3}
+qstr_^^Your_outstanding_l|^^Your outstanding loan amount is {reg7}.
+qstr__The_loan_is_due_in_| The loan is due in {reg8} days.
+qstr__The_loan_is_overdue| The loan is overdue.
+qstr__No_one_can_upgrade.| No one can upgrade.
+qstr_{reg1}_{s1}_can_upgr|{reg1} {s1} can upgrade.
+qstr_{reg1}_{s1}_and_{s0}|{reg1} {s1} and {s0}
+qstr_{reg1}_{s1}_{s0}|{reg1} {s1}, {s0}
+qstr_Breaking_camp...|Breaking camp...
+qstr_Current_wealth:_{reg|Current wealth: {reg1}
+qstr_Your_party_is_spotte|Your party is spotted by {s1}.
+qstr_Party_has_nothing_to|Party has nothing to eat!
+qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1} {reg2?have:has} escaped from your party during the night.
+qstr_{s1}_of_{s3}_has_bee|{s1} of {s3} has been released from captivity.
+qstr_Building_of_{s0}_in_|Building of {s0} in {s4} has been completed.
+qstr_{s1}_has_won_the_tou|{s1} has won the tournament at {s2}.
+qstr_{s1}_is_infested_by_b|{s1} is infested by bandits (at night).
+qstr_{s1}_is_no_longer_in|{s1} is no longer infested by bandits (at night).
+qstr_{s1}_is_holding_a_to|{s1} is holding a tournament.
+qstr_You_pay_for_accommod|You pay for accommodation.
+qstr__Your_tactics_skill_| Your tactics skill has increased by 1.
+qstr__Your_persuasion_ski| Your persuasion skill has increased by 1.
+qstr__Your_leadership_ski| Your leadership skill has increased by 1.
+qstr__Your_intelligence_h| Your intelligence has increased by 1.
+qstr__Your_trade_skill_ha| Your trade skill has increased by 1.
+qstr__Your_weapon_master_| Your weapon master skill has increased by 1.
+qstr__Your_engineer_skill| Your engineer skill has increased by 1.
+qstr_You_have_finished_vi|You have finished viewing {s1}.{s2}
+qstr_Book_Read|Book Read
+qstr_You_must_follow_{s1}|You must follow {s1}!
+qstr_You_must_follow_{s1}!|You must follow {s1}! This is your last warning!
+qstr_{s1}_is_scouted.|{s1} is scouted.
+qstr_{s1}_has_switched_fr|{s1} has switched from {s2} to {s3}.
+qstr_running_party_clear|running party clear
+qstr_A_total_of_{reg1}_cr|A total of {reg1} credits in tariffs and rents from your planets was added to your bank account
+qstr_Weekly_Income|Weekly Income
+qstr_Your_bank_added_{reg|Your bank added {reg10} credits interest to your account, making your balance {reg11}
+qstr_Mining_asteroids_for|Mining asteroids for ore...
+qstr_{reg65?my_Lady:my_Lo|{reg65?my Lady:my Lord}
+qstr_{reg65?My_Lady:My_Lo|{reg65?My Lady:My Lord}
+qstr_{reg65?madame:sir}|{reg65?madame:sir}
+qstr_{reg65?Madame:Sir}|{reg65?Madame:Sir}
+qstr_Utinni!|Utinni!
+qstr_Guak_wa_Neenee_Cha_B|Guak wa Neenee Cha Ba?
+qstr_Bo_Shuda!|Bo Shuda!
+qstr_A_duel_that_sounds_l|A duel, that sounds like an interesting idea. We could keep score and see who is the better fighter!
+qstr_Ah_so_you_wish_to_be|Ah, so you wish to be beaten by me again, eh? I shall teach you another lesson in the art of dueling
+qstr_You_may_have_won_mor|You may have won more of our duels than I, but that will change today!
+qstr_We_seem_to_be_evenly|We seem to be evenly matched so another duel should prove to be interesting.
+qstr_You_should_not_be_se|You should not be seeing this text.
+qstr_I_accept_your_challe|I accept your challenge.^Do you wish to fight on speeder bikes or on foot?
+qstr_I_accept_your_challen|I accept your challenge. ^Let us choose our weapons.
+qstr_speeder_bikes|speeder bikes
+qstr_foot|foot
+qstr_our_own_weapons|our own weapons
+qstr_a_vibrosword_and_ene|a vibrosword and energy shield
+qstr_two_handed_weapons|two-handed weapons
+qstr_mandalorian_armor_an|mandalorian armor and ranged weapons
+qstr_we_have_made_very_li|we have made very little progress so far
+qstr_we_have_suceeded_in_|we have suceeded in gaining some ground, but we still have a long way to go
+qstr_we_have_become_a_sig|we have become a significant force, and we have an even chance of victory
+qstr_we_are_winning_the_w|we are winning the war, but our enemies are still holding on.
+qstr_we_are_on_the_verge_|we are on the verge of victory. The remaining enemies pose no threat, but we still need to hunt them down.
+qstr_My_weapon_slot_upgra|My weapon slot upgrades are as follows: {s0}
+qstr_Is_this_satisfactory|Is this satisfactory?
+qstr_Select_the_type_of_i|Select the type of item for slot {reg1}.
+qstr__no_territories_|(no territories)
+qstr__territories:_{s0}_|(territories: {s0})
+qstr_{playername}_when_we|{playername}, when we started our long walk, few people had the courage to support me. And fewer still would be willing to put their lives at risk for my cause. But you didn't hesitate for a moment in throwing yourself at my enemies. We have gone through a lot together, and there were times I came close to losing all hope. However, thanks to you, we have prevailed. It is now time for me to leave your company and take what's rightfully mine. From now on, I will carry out the great responsibility of ruling {s3}. There still lie many challanges ahead and I count on your help in overcoming those. And of course, you will always remain as my foremost commander.
+qstr_{s6}_has_joined_your_|{s6} has joined your party.
+qstr_I_am_{s4}_the_ruler_|I am {s4}, the ruler of {s6}
+qstr_I_am_{s4}_a_commande|I am {s4}, a commander of {s6}
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? and the lord of {s8}.:.
+qstr_Your_mission_is_comp|Your mission is complete, {s9} wants you to resume following his army until further notice.
+qstr_Your_mission_is_compl|Your mission is complete, {s9} wants you to resume following his fleet until further notice.
+qstr_{s13}_asked_you_to_g|{s13} asked you to gather a herd of {reg3} nerfs and deliver them back to them.
+qstr_{s9}_asked_you_to_sc|{s9} asked you to scout {s13}, {s14} and {s15}, then report back.
+qstr_{s16}_and_{s17}|{s16} and {s17}
+qstr_{s16}_{s17}|{s16}, {s17}
+qstr_Very_well_I_will_acc|Very well, I will accept you back into my ranks, if you're ready to swear your solemn oath once more.
+qstr_A_pardon_will_only_b|A pardon will only be possible if you are willing to cede {s17} to me. Do you agree my terms?
+qstr_No._There_is_no_chan|No. There is no chance of peace between us, I am not interested.
+qstr_We_are_not_at_war_wi|We are not at war with anyone.
+qstr_We_are_at_war_with_{|We are at war with {s12}.
+qstr_Prior_argument_effec|Prior argument effect: {reg6}, rebellion chance: {reg7}
+qstr_Rebellion_chance__30|Rebellion chance -30 from rival | {reg7}
+qstr_Consistency_check:_{|Consistency check: {reg10}/{reg11}
+qstr_Current_argument_eff|Current argument effect: {reg6}, rebellion chance: {reg7}
+qstr_Persuasion_effect:_{|Persuasion effect: {reg6}, rebellion chance: {reg7}
+qstr_Personal_relation_ef|Personal relation effect: {reg6}, rebellion chance: {reg7}
+qstr_Rebellion_check:_{re|Rebellion check: {reg6}
+qstr_You_promised_to_help|You promised to help {s13} claim the throne of {s14}.
+qstr_{s9}_asked_you_to_ta|{s9} asked you to take a message to {s13}. {s13} was believed to be at {s4} when you were given this quest.
+qstr_{s9}_asked_you_to_tak|{s9} asked you to take a message to {s13} of {s15}. {s13} was believed to be at {s4} when you were given this quest.
+qstr_{s11}_asked_you_to_e|{s11} asked you to escort his {s17} {s13} to {s14}.
+qstr_{s13}_asked_you_to_d|{s13} asked you to deal with the bandits who are occupying the planet of {s15} and then report back to them.
+qstr_{s9}_asked_you_to_ra|{s9} asked you to raise {reg1} {s14} and bring them back.
+qstr_{s9}_asked_you_to_co|{s9} asked you to collect taxes from {s3}. They offered to leave you one-fifth of all the money you collect there.
+qstr_{s9}_asked_you_to_hu|{s9} asked you to hunt down a fugitive named {s4}. He is currently believed to be at {s3}.
+qstr_{s9}_asked_you_to_as|{s9} asked you to assassinate a local merchant at {s3}.
+qstr_{s9}_has_asked_you_t|{s9} has asked you to meet with a spy in {s13}.
+qstr_{s9}_asked_you_to_ca|{s9} asked you to capture and loot {reg13} convoys so as to provoke a war with {s13}.
+qstr_{s9}_asked_you_to_cat|{s9} asked you to catch the three groups of runaway serfs and bring them back to {s4}, alive and breathing. They said that all three groups are heading towards {s3}.
+qstr_{s11}_asked_you_to_f|{s11} asked you to follow the spy that will leave {s12}. Be careful not to let the spy see you on the way, or he may get suspicious and turn back. Once the spy meets with his accomplice, you are to capture them and bring them back to {s11}.
+qstr_{s11}_asked_you_to_c|{s11} asked you to capture a commander from {s13}, any commander, and then drag your victim back to {s11} for safekeeping.
+qstr_{s9}_asked_you_to_le|{s9} asked you to lend your companion {s3} to them for a week.
+qstr_{s9}_asked_you_to_col|{s9} asked you to collect the debt of {reg4} credits {s3} owed to them. {s3} was at {s4} when you were given this quest.
+qstr_{s11}_gave_you_a_fak|{s11} gave you a fake datacard to fool {s13} into banishing his commander {s16}. You are to go near {s14}, give the datacard to one of your {s15} and send them to the planet as a messenger, believing his orders to be genuine.
+qstr_{s9}_has_requested_y|{s9} has requested you to bring them {reg1} {s3} as prisoners.
+qstr_Lend_your_experience|Lend your experienced surgeon {s3} to {s1}.
+qstr_Then_take_it_with_my|Then take it, with my eternal thanks. You are a noble {man/woman}. I will never forget that you helped me in my time of need.
+qstr_Forgive_me_{playerna|Forgive me, {playername}, but I must insist you accept it. The money means little to me, and I owe you so much. Here, take it, and let us speak no more of this.
+qstr_{playername}_what_a_|{playername}, what a dear {man/woman} you are, but I will not allow you to refuse this. I owe you far more than I can say, and I am sure you can put this money to far better use than I.
+qstr_{s11}_asked_you_to_r|{s11} asked you to rescue her {s17}, {s13}, from {s14} by switching clothes and taking their place in prison.
+qstr_{s11}_asked_you_to_d|{s11} asked you to deliver a message to {s13}, who is imprisoned at {s14}.
+qstr_You_agreed_to_challe|You agreed to challenge {s13} to defend {s11}'s honour.
+qstr_{s5}__Persuasion_str|{s5} (Persuasion strength: {reg5})
+qstr_Persuasion_Attempt|Persuasion Attempt
+qstr_The_{s9}_at_{s5}_ask|The {s9} at {s5} asked you to eliminate a CIS officer named {s4}. They are currently believed to be at {s3}.
+qstr_The_{s9}_at_{s5}_aske|The {s9} at {s5} asked you to hunt down a farmer named {s4}. They are currently believed to be at {s3}.
+qstr_The_{s9}_at_{s5}_asked|The {s9} at {s5} asked you to hunt down a target named {s4}. They are currently believed to be at {s3}.
+qstr_The_{s9}_at_{s5}_asked_|The {s9} at {s5} asked you to hunt down a pirate named {s4}. They are currently believed to be at {s3}.
+qstr_The_{s9}_at_{s5}_asked_y|The {s9} at {s5} asked you to hunt down a bountyhunter named {s4}. They are currently believed to be at {s3}.
+qstr_The_{s9}_at_{s5}_asked_yo|The {s9} at {s5} asked you to hunt down a smuggler named {s4}. They are currently believed to be at {s3}.
+qstr_A_citizen_from_{s7}_|A citizen from {s7} begged you to save their planet from the pirates that took refuge there.
+qstr_You_chose_well_{sir/|You chose well, {sir/madam}. My lads know how to keep their word and earn their pay.
+qstr_Well_done_{sir/madam|Well done, {sir/madam}. Keep the credits and wine coming our way, and there's no foe in the Galaxy you need fear.
+qstr_We_are_at_your_servi|We are at your service, {sir/madam}. Point us in the direction of those who need hurting, and we'll do the rest.
+qstr_You_will_not_be_diss|You will not be dissapointed {sir/madam}. You will not find better warriors in all of the Galaxy.
+qstr_town|town
+qstr_village|village
+qstr_The_administrator_of|The administrator of {s13} has asked you to deal with jawas in the surrounding system.
+qstr_{s9}_of_{s3}_asked_y|{s9} of {s3} asked you to deliver {reg5} units of {s6} to the cantina in {s4} in 7 days.
+qstr_Escort_the_merchant_|Escort the merchant convoy to the planet of {s8}.
+qstr_Merchant_{s9}_of_{s4|Merchant {s9} of {s4} asked you to hunt down the troublesome bandits in the vicinity of their planet.
+qstr_Administrator_of_{s4|Administrator of {s4} gave you {reg12} credits to pay the ransom of a girl kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that you are to bring the girl back to {s4}.
+qstr_Administrator_of_{s4}|Administrator of {s4} promised you {reg12} credits if you can make sure that {s12} and {s13} no longer pose a threat to peace between {s15} and {s14}. In order to do that, you must either convince them or make sure they fall captive and remain so until a peace agreement is made.
+qstr_The_Administrator_of|The Administrator of {s14} has asked you to deal with a group of bandits terrorising the streets of {s14}. They only come out at night, and only attack lone travellers on the streets.
+qstr_Administrator_of_{s1|Administrator of {s10} asked you to move a nerf herd to {s13}. You will earn {reg8} credits in return.
+qstr_He_is_not_commanding|He is not commanding any troops at the moment.
+qstr_He_currently_command|He currently commands {reg0} troops{reg1?, of which around {reg1} are wounded:}.
+qstr_The_administrator_of_|The administrator of the planet of {s3} asked you to bring them {reg5} packs of wheat.
+qstr_The_administrator_of_t|The administrator of the planet of {s13} asked you to train {reg5} peasants to fight against local bandits.
+qstr_The_administrator_of_th|The administrator of the planet of {s3} asked you to bring them {reg5} nerfs.
+qstr_{s16}_and_{s15}|{s16} and {s15}
+qstr_{s16}_{s15}|{s16}, {s15}
+qstr_I_can_smell_a_rich_t|I can smell a rich traveller a mile away. Methinks yours could do with some lightening, eh?
+qstr_Why_it_be_another_tr|Why, it be another traveller, chance met upon the way! I should warn you, the Galaxy's a mite dangerous for a good {fellow/woman} like you. But for a small donation my boys and I'll make sure you get rightways to your destination, eh?
+qstr_Well_well_look_at_th|Well well, look at this! You'd best start coughing up some credits, friend, or me and my boys'll have to break you.
+qstr_There_s_a_toll_for_p|There's a toll for passin' through this sector, payable to us, so if you don't mind we'll just be collectin' our due from your account...
+qstr_Another_fool_come_to|Another fool come to throw {him/her}self on my weapon, eh? Fine, let's fight!
+qstr_We_re_not_afraid_of_|We're not afraid of you. Time to bust some heads!
+qstr_That_was_a_mistake._|That was a mistake. Now I'm gonna have to make your death long and painful.
+qstr_That_s_fighting_talk|That's fighting talk. Let's see you back it up with your blaster!
+qstr_A_{s5}?_Well..._Yes_|A {s5}? Well... Yes, I suppose it is. What a strange thing to ask.
+qstr_Eh?_No_it_most_certa|Eh? No, it most certainly is not a {s5}. I'd start questioning my eyesight if I were you.
+qstr_Welcome_to_{s5}_{sir|Welcome to {s5}, {sir/madam}.
+qstr_{s6}_Our_planet_and_|{s6} Our planet and the surrounding zone belong to you of course.
+qstr_{s6}_Our_planet_and_t|{s6} Our planet and the surrounding zones belong to {s7} of {s8}.
+qstr_{s3}_and_{s5}|{s3} and {s5}
+qstr_{s3}_{s5}|{s3}, {s5}
+qstr_{reg20?We_mostly_pro|{reg20?We mostly produce {s5} here:We don't produce much here these days}. If you would like to learn more, you can speak with our planet {reg4?administrator:administrator}. He is nearby, right over there.

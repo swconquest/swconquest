@@ -6,7 +6,13 @@ ___________________________________________/
  Contact: 	/
  Links: 	/
  Versions: 	0901 0902 0903 0904
- 
+
+-ITALIAN [it]
+ Author: 	Valerio "AsgharD" Moro
+ Contact: 	http://www.moddb.com/members/AsgharD
+ Links: 	/
+ Versions: 	0904
+
 -POLISH [pl]
  Author: 	Cadmer
  Contact: 	cadelbert@gmail.com
