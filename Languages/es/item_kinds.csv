@@ -83,7 +83,7 @@ itm_pilgrim_disguise|Disfraz de Indigente
 itm_pilgrim_hood|Capucha de Indigente
 itm_leather_gloves|Guantes de Cuero
 itm_wrapping_boots|Botas Toscas
-itm_blue_hose|Blue Medias
+itm_blue_hose|Medias azules
 itm_hide_boots|Botas de cuero
 itm_ankle_boots|Botas Tobilleras
 itm_nomad_boots|Botas de Nómada
@@ -102,12 +102,12 @@ itm_coarse_tunic|Coarse Túnica
 itm_leather_apron|Delantal de Cuero
 itm_tabard|Tabardo
 itm_leather_vest|Vestido de Cuero
-itm_gambeson|Gambeson
-itm_blue_gambeson|Blue Gambeson
-itm_red_gambeson|Red Gambeson
-itm_padded_cloth|Armadura de tela
+itm_gambeson|Gambesón
+itm_blue_gambeson|Gambesón azul
+itm_red_gambeson|Gambesón rojo
+itm_padded_cloth|Tela acolchada
 itm_leather_jerkin|Ropajes de cuero
-itm_padded_leather|Armadura de cuero
+itm_padded_leather|Cuero acolchado
 itm_straw_hat|Gorro de Paja
 itm_common_hood|Capucha
 itm_headcloth|Turbante
@@ -397,17 +397,17 @@ itm_sith_master_robe|Túnica de Maestro Sith
 itm_sith_master_robe_unique|Túnica de Maestro Sith
 itm_guard_armor|Armadura de Guardia
 itm_guard_armor_red|Armadura de Guardia
-itm_blast_armor_black|Armadura de Onda de Choque
-itm_blast_armor_red|Armadura de Onda de Choque
-itm_blast_armor_grey|Armadura de Onda de Choque
-itm_blast_armor_bluegrey|Armadura de Onda de Choque
+itm_blast_armor_black|Armadura Fulminante
+itm_blast_armor_red|Armadura Fulminante
+itm_blast_armor_grey|Armadura Fulminante
+itm_blast_armor_bluegrey|Armadura Fulminante
 itm_ubese_armor|Armadura Ubese
 itm_ubese_armor_alt|Armadura Ubese
-itm_wookiee_armor1|Armadura Wookie
-itm_wookiee_armor1_merch|Armadura Wookie
-itm_wookiee_armor2|Armadura Wookie
-itm_wookiee_armor2_merch|Armadura Wookie
-itm_wookiee_hunter_armor|Armadura de Cazador Wookie
+itm_wookiee_armor1|Armadura Wookiee
+itm_wookiee_armor1_merch|Armadura Wookiee
+itm_wookiee_armor2|Armadura Wookiee
+itm_wookiee_armor2_merch|Armadura Wookiee
+itm_wookiee_hunter_armor|Armadura de Cazador Wookiee
 itm_wookiee_hunter_helmet|Casco de Cazador Wookie
 itm_wookiee_female_head|Cabeza de Hembra Wookiee
 itm_wookiee_female_body|Cuerpo de Hembra Wookiee
@@ -483,8 +483,8 @@ itm_mandalorian_soldier_armor|Armadura de Soldado Mandaloriano
 itm_mandalorian_soldier_armor2|Armadura de Soldado Mandaloriano
 itm_mandalorian_soldier_boots|Botas de Soldado Mandaloriano
 itm_mandalorian_commando_helmet|Casco de Comando Manaloriano
-itm_mandalorian_commando_armor|Armadura de Comando Manaloriano
-itm_mandalorian_commando_armor2|Armadura de Comando Manaloriano
+itm_mandalorian_commando_armor|Armadura de Comando Mandaloriano
+itm_mandalorian_commando_armor2|Armadura de Comando Mandaloriano
 itm_mandalorian_commando_boots|Botas de Comando Manaloriano
 itm_mandalorian_sniper_helmet|Casco de Francotirador Mandaloriano
 itm_mandalorian_sniper_armor|Armadura de Francotirador Mandaloriano
@@ -666,22 +666,22 @@ itm_dengar_gloves|Guantes de Dengar
 itm_weequay_vibro_axe|Vibro-Hacha Weequay
 itm_force_throw_lightsaber_green|Sable de Luz Arrojadizo
 itm_force_throw_lightsaber_blue|Sable de Luz Arrojadizo
-itm_force_throw_lightsaber_orange|Sable Láser Arrojadizo
-itm_force_throw_lightsaber_purple|Sable Láser Arrojadizo
-itm_force_throw_lightsaber_yellow|Sable Láser Arrojadizo
-itm_force_throw_lightsaber_red|Sable Láser Arrojadizo
-itm_force_throw_lightsaber_green_merch|Sable Láser Arrojadizo
-itm_force_throw_lightsaber_blue_merch|Sable Láser Arrojadizo
-itm_force_throw_lightsaber_orange_merch|Sable Láser Arrojadizo
-itm_force_throw_lightsaber_purple_merch|Sable Láser Arrojadizo
-itm_force_throw_lightsaber_yellow_merch|Sable Láser Arrojadizo
-itm_force_throw_lightsaber_red_merch|Sable Láser Arrojadizo
-itm_force_throw_lightsaber_green_pike|Pica Láser Arrojadiza
-itm_force_throw_lightsaber_blue_pike|Pica Láser Arrojadiza
-itm_force_throw_lightsaber_orange_pike|Pica Láser Arrojadiza
-itm_force_throw_lightsaber_purple_pike|Pica Láser Arrojadiza
-itm_force_throw_lightsaber_yellow_pike|Pica Láser Arrojadiza
-itm_force_throw_lightsaber_red_pike|Pica Láser Arrojadiza
+itm_force_throw_lightsaber_orange|Sable de Luz Arrojadizo
+itm_force_throw_lightsaber_purple|Sable de Luz Arrojadizo
+itm_force_throw_lightsaber_yellow|Sable de Luz Arrojadizo
+itm_force_throw_lightsaber_red|Sable de Luz Arrojadizo
+itm_force_throw_lightsaber_green_merch|Sable de Luz Arrojadizo
+itm_force_throw_lightsaber_blue_merch|Sable de Luz Arrojadizo
+itm_force_throw_lightsaber_orange_merch|Sable de Luz Arrojadizo
+itm_force_throw_lightsaber_purple_merch|Sable de Luz Arrojadizo
+itm_force_throw_lightsaber_yellow_merch|Sable de Luz Arrojadizo
+itm_force_throw_lightsaber_red_merch|Sable de Luz Arrojadizo
+itm_force_throw_lightsaber_green_pike|Pica Jedi Arrojadiza
+itm_force_throw_lightsaber_blue_pike|Pica Jedi Arrojadiza
+itm_force_throw_lightsaber_orange_pike|Pica Jedi Arrojadiza
+itm_force_throw_lightsaber_purple_pike|Pica Jedi Arrojadiza
+itm_force_throw_lightsaber_yellow_pike|Pica Jedi Arrojadiza
+itm_force_throw_lightsaber_red_pike|Pica Jedi Arrojadiza
 itm_force_throw_lightsaber_red_double|Sable Doble Arrojadizo
 itm_twilek_dagger_throwing|Dagas Arrojadizas Twilek
 itm_discblade|Filodisco
@@ -710,12 +710,12 @@ itm_wookiee_shield_large|Escudo Wookie Grande
 itm_westar_shield|Westar-34 (Escudo)
 itm_ryyk_kerarthorr_shield|Kerarthorr de Ryyk (Escudo)
 itm_ryyk_blade_shield|Hoja de Ryyk de Escudo
-itm_lightsaber_block_blue|Sáble Láser de Escudo
-itm_lightsaber_block_green|Sáble Láser de Escudo
-itm_lightsaber_block_orange|Sáble Láser de Escudo
-itm_lightsaber_block_purple|Sáble Láser de Escudo
-itm_lightsaber_block_red|Sáble Láser de Escudo
-itm_lightsaber_block_yellow|Sáble Láser de Escudo
+itm_lightsaber_block_blue|Sable de Luz de Escudo
+itm_lightsaber_block_green|Sable de Luz de Escudo
+itm_lightsaber_block_orange|Sable de Luz de Escudo
+itm_lightsaber_block_purple|Sable de Luz de Escudo
+itm_lightsaber_block_red|Sable de Luz de Escudo
+itm_lightsaber_block_yellow|Sable de Luz de Escudo
 itm_force_block|Bloquear con la Fuerza
 itm_force_shield|Escudar con la Fuerza
 itm_force_protect|Proteger con la fuerza

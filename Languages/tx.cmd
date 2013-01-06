@@ -1,5 +1,5 @@
 MODE CON: COLS=110
-@echo off && title Updating translations from Transifex...
+@echo off && title Updating translations from Transifex... && set path=%cd%/../Extras
 :up
 ::convert everything to Joomla INI format
 luajit tx.lua convert
