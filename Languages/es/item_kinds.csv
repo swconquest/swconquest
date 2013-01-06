@@ -1,64 +1,13 @@
 itm_horse_meat|Carne de Caballo
-itm_practice_sword|Espada de Práctica
-itm_heavy_practice_sword|Espada de Práctica Pesada
-itm_practice_axe|Hacha de Práctica
-itm_arena_axe|Hacha
-itm_arena_sword|Espada
-itm_arena_sword_two_handed|Espada a dos Manos
-itm_practice_staff|Vara de Práctica
-itm_practice_lance|Lanza de Práctica
-itm_practice_shield|Escudo de Práctica
-itm_practice_bow|Arco de Práctica
-itm_practice_crossbow|Practice Crossbow
-itm_practice_javelin|Jabalina de Práctica
-itm_practice_throwing_daggers|Dagas arrojadizas
-itm_practice_throwing_daggers_100_amount|Dagas arrojadizas
-itm_practice_horse|Practice Horse
-itm_practice_arrows|Practice Arrows
-itm_practice_bolts|Practice Bolts
-itm_practice_arrows_10_amount|Practice Arrows
-itm_practice_arrows_100_amount|Practice Arrows
-itm_practice_bolts_9_amount|Practice Bolts
-itm_practice_boots|Practice Boots
-itm_red_tourney_armor|Red Tourney Armor
-itm_blue_tourney_armor|Blue Tourney Armor
-itm_green_tourney_armor|Green Tourney Armor
-itm_gold_tourney_armor|Gold Tourney Armor
-itm_red_tourney_helmet|Red Tourney Helmet
-itm_blue_tourney_helmet|Blue Tourney Helmet
-itm_green_tourney_helmet|Green Tourney Helmet
-itm_gold_tourney_helmet|Gold Tourney Helmet
-itm_arena_shield_red|Escudo
-itm_arena_shield_blue|Escudo
-itm_arena_shield_green|Escudo
-itm_arena_shield_yellow|Escudo
-itm_arena_armor_white|Arena Armor White
-itm_arena_armor_red|Arena Armor Red
-itm_arena_armor_blue|Arena Armor Blue
-itm_arena_armor_green|Arena Armor Green
-itm_arena_armor_yellow|Arena Armor Yellow
-itm_arena_tunic_white|Arena Túnica White
-itm_arena_tunic_red|Arena Túnica Red
-itm_arena_tunic_blue|Arena Túnica Blue
-itm_arena_tunic_green|Arena Túnica Green
-itm_arena_tunic_yellow|Arena Túnica Yellow
-itm_arena_helmet_red|Arena Helmet Red
-itm_arena_helmet_blue|Arena Helmet Blue
-itm_arena_helmet_green|Arena Helmet Green
-itm_arena_helmet_yellow|Arena Helmet Yellow
-itm_steppe_helmet_white|Steppe Helmet White
-itm_steppe_helmet_red|Steppe Helmet Red
-itm_steppe_helmet_blue|Steppe Helmet Blue
-itm_steppe_helmet_green|Steppe Helmet Green
-itm_steppe_helmet_yellow|Steppe Helmet Yellow
-itm_tourney_helm_white|Tourney Helm White
-itm_tourney_helm_red|Tourney Helm Red
-itm_tourney_helm_blue|Tourney Helm Blue
-itm_tourney_helm_green|Tourney Helm Green
-itm_tourney_helm_yellow|Tourney Helm Yellow
-itm_book_tactics|Holocrón sobre Tácticas
-itm_book_persuasion|Holocrón sobre Persuasión
-itm_book_leadership|Holocrón sobre Liderazgo
+itm_practice_boots|Botas de práctica
+itm_arena_tunic_white|Túnica blanca de la Arena 
+itm_arena_tunic_red|Túnica roja de la Arena
+itm_arena_tunic_blue|Túnica azul de la Arena
+itm_arena_tunic_green|Túnica verde de la Arena
+itm_arena_tunic_yellow|Túnica amarilla de la Arena
+itm_book_tactics|Holocrón sobre tácticas
+itm_book_persuasion|Holocrón sobre persuasión
+itm_book_leadership|Holocrón sobre liderazgo
 itm_book_intelligence|Holocrón sobre Inteligencia
 itm_book_trade|Holocrón sobre Comercio
 itm_book_weapon_mastery|Holocrón sobre Armas
@@ -104,6 +53,8 @@ itm_container_drink_1|Cargamento de Agua
 itm_container_drink_2|Cargamento de Cerveza Negra
 itm_container_drink_3|Cargamento de zumo de Juri
 itm_carbonite_tibanna|Cargamento de Gas Tibanna en Carbonita
+itm_container_ore|Contenedor de mineral
+itm_butter|Mantequlla de Bantha
 itm_wine|Vino Mandaloriano
 itm_ale|Cerveza Corelliana
 itm_spice|Especias
@@ -132,22 +83,16 @@ itm_pilgrim_disguise|Disfraz de Indigente
 itm_pilgrim_hood|Capucha de Indigente
 itm_leather_gloves|Guantes de Cuero
 itm_wrapping_boots|Botas Toscas
-itm_woolen_hose|Medias de Lana
 itm_blue_hose|Blue Medias
 itm_hide_boots|Botas de cuero
 itm_ankle_boots|Botas Tobilleras
 itm_nomad_boots|Botas de Nómada
-itm_lady_dress_ruby|Vestido de Mujer
-itm_lady_dress_green|Vestido de Mujer
-itm_lady_dress_blue|Vestido de Mujer
 itm_dress|Vestido
 itm_blue_dress|Vestido Azul
-itm_peasant_dress|Peasant Dress
-itm_woolen_dress|Woolen Dress
-itm_courtly_outfit|Courtly Outfit
-itm_nobleman_outfit|Nobleman Outfit
-itm_nomad_armor|Nomad Armor
-itm_rawhide_coat|Rawhide Coat
+itm_peasant_dress|Vestido de colono
+itm_woolen_dress|Vestido de lana
+itm_courtly_outfit|Traje cortesano
+itm_nobleman_outfit|Atuendo de Noble
 itm_leather_armor|Armadura de Cuero
 itm_shirt|Camisa
 itm_linen_tunic|Túnica de Lino
@@ -160,35 +105,28 @@ itm_leather_vest|Vestido de Cuero
 itm_gambeson|Gambeson
 itm_blue_gambeson|Blue Gambeson
 itm_red_gambeson|Red Gambeson
-itm_padded_cloth|Padded Cloth
-itm_leather_jerkin|Leather Jerkin
-itm_padded_leather|Padded Leather
-itm_court_hat|Turret Hat
+itm_padded_cloth|Armadura de tela
+itm_leather_jerkin|Ropajes de cuero
+itm_padded_leather|Armadura de cuero
 itm_straw_hat|Gorro de Paja
 itm_common_hood|Capucha
-itm_headcloth|Headcloth
-itm_woolen_hood|Woolen Hood
-itm_fur_hat|Fur Hat
-itm_padded_coif|Padded Coif
-itm_woolen_cap|Woolen Cap
+itm_headcloth|Turbante
+itm_woolen_hood|Capucha de algodón
+itm_fur_hat|Sombrero de piel
+itm_padded_coif|Cofia acolchada
+itm_woolen_cap|Capucha de lana
 itm_felt_hat|Gorro de Fieltro
-itm_leather_cap|Leather Cap
-itm_arming_cap|Arming Cap
-itm_female_hood|Lady's Hood
-itm_black_helmet|Casco Negro
+itm_leather_cap|Capucha de cuero
+itm_arming_cap|Sombrero de Armiño
+itm_female_hood|Capucha de señora
 itm_wooden_stick|Palo de Madera
 itm_club|Porra
-itm_sickle|Sickle
 itm_cleaver|Clava
 itm_knife|Cuchillo
 itm_butchering_knife|Cuchillo de carnicero
-itm_dagger|Daga
-itm_hatchet|Hatchet
-itm_pitch_fork|Pitch Fork
-itm_quarter_staff|Quarter Staff
-itm_stones|Piedras
-itm_throwing_axes|Hachas Gamorreanas de Lanzar
-itm_torch|Antorcha
+itm_hatchet|Hachuela
+itm_quarter_staff|Bastón
+itm_throwing_axes|Hachas Arrojadizas Gamorreanas
 itm_rich_outfit|Vestimenta de Adinerado
 itm_black_hood|Capucha negra
 itm_light_leather|Cuero Ligero
@@ -202,7 +140,8 @@ itm_lady_gloves|Guantes de Mujer
 itm_mandalorian_crushgaunts|Guantes Mandalorianos
 itm_imperial_royal_guard_gloves|Guantes del Imperio
 itm_imperial_stormtrooper_gloves|Guantes del Imperio
-itm_shadow_stormtrooper_gloves|Guantes del Imperio
+itm_novatrooper_gloves|Guantes de NovaSoldado
+itm_incinerator_trooper_gloves|Guantes de soldado Incinerador
 itm_clone_trooper_gloves_white|Guantes de Soldado Clon
 itm_clone_trooper_gloves_green|Guantes de Soldado Clon
 itm_clone_trooper_gloves_blue|Guantes de Soldado Clon
@@ -220,9 +159,9 @@ itm_white_boots_reinforced|Botas Imperiales
 itm_imperial_royal_guard_boots|Botas Imperiales
 itm_imperial_stormtrooper_boots|Botas de soldado Imperial
 itm_imperial_stormtrooper_boots_incinerator|Botas de soldado Incinerador
+itm_imperial_stormtrooper_boots_novatrooper|Botas de NovaSoldado
 itm_imperial_scout_trooper_boots|Botas de soldado Imperial
 itm_shadow_scout_trooper_boots|Botas Imperiales
-itm_shadow_stormtrooper_boots|Botas Imperiales
 itm_clone_trooper_boots|Botas de Soldado Clon
 itm_lobot_headgear|Borg Constructo Aj^6
 itm_glasses_black|Gafas de Precisión
@@ -264,7 +203,6 @@ itm_imperial_stormtrooper_helmet|Casco de Soldado Imperial
 itm_imperial_stormtrooper_helmet_incinerator|Casco de Incinerador Imperial
 itm_imperial_stormtrooper_helmet_novatrooper|Casco de NovaSoldado
 itm_imperial_pilot_helmet|Casco de Piloto Imperial
-itm_shadow_stormtrooper_helmet|Casco de Soldado Sombra
 itm_clone_trooper_head|Cabeza de Soldado Clon
 itm_clone_trooper_head_scar|Cabeza de Soldado Clon
 itm_clone_trooper_helmet_white|Casco de Soldado Clon
@@ -321,6 +259,7 @@ itm_padded_tunic_blue|Túnica Acolchada
 itm_padded_tunic_red|Túnica Acolchada
 itm_padded_tunic_yellow|Túnica
 itm_officer_uniform_white|Uniforme de Oficial
+itm_imperial_uniform_black_plain|Uniforme Imperial
 itm_female_outfit_femconblack|Vestimenta de Mujer
 itm_female_outfit_femconbrowngreen|Vestimenta de Mujer
 itm_female_outfit_femcongrey|Vestimenta de Mujer
@@ -378,6 +317,7 @@ itm_rebel_uniform_tanblue|Uniforme de Comandante Rebelde
 itm_rebel_uniform_green|Uniforme de Oficial Rebelde
 itm_imperial_trooper_armor|Armadura de Soldado Imperial
 itm_imperial_navy_trooper_armor|Armadura de Soldado de la Armada
+itm_imperial_trooper_armor|Armadura de Soldado Imperial
 itm_rebel_technician_armor|Armadura de Cadete Rebelde
 itm_republic_trooper_armor|Armadura de Soldado Rebelde
 itm_rebel_heavy_trooper_armor|Armadura Pesada de Rebelde
@@ -395,7 +335,7 @@ itm_rebel_sniper_armor|Armadura de Francotirador Rebelde
 itm_imperial_stormtrooper_armor|Armadura de Soldado Imperial
 itm_imperial_stormtrooper_armor_incinerator|Armadura de Incinerador Imperial
 itm_imperial_stormtrooper_armor_novatrooper|Armadura de NovaSoldado
-itm_shadow_stormtrooper_armor|Armadura de Soldado de las Sombras
+itm_imperial_stormtrooper_armor|Armadura de Soldado Imperial
 itm_rebel_honor_guard_armor|Armadura de Guardia Rebelde
 itm_clone_trooper_armor_white|Armadura de Soldado Clon
 itm_clone_trooper_armor_green|Armadura de Soldado Clon
@@ -462,6 +402,7 @@ itm_blast_armor_red|Armadura de Onda de Choque
 itm_blast_armor_grey|Armadura de Onda de Choque
 itm_blast_armor_bluegrey|Armadura de Onda de Choque
 itm_ubese_armor|Armadura Ubese
+itm_ubese_armor_alt|Armadura Ubese
 itm_wookiee_armor1|Armadura Wookie
 itm_wookiee_armor1_merch|Armadura Wookie
 itm_wookiee_armor2|Armadura Wookie
@@ -525,6 +466,7 @@ itm_ig88_head|Cabeza de IG-Series
 itm_ig88_hands|Manos de IG-Series
 itm_ig88_body|Cuerpo de IG-Series
 itm_ig88_feet|Pies de IG-Series
+itm_ig88_attack| 
 itm_ig88_e11_shield|Escudo de IG-88
 itm_ig88_dlt20a|DLT-20A de IG-88
 itm_4lom_head|Cabeza de LOM-Series
@@ -532,6 +474,7 @@ itm_hk_head|Cabeza de HK-Series
 itm_hk_hands|Manos de HK-Series
 itm_hk_body|Cuerpo de HK-Series
 itm_hk_feet|Pies de HK-Series
+itm_hk_attack| 
 itm_mandalorian_tunic|Túnica Mandaloriana
 itm_mandalorian_soldier_helmet|Casco de Soldado Mandaloriano
 itm_mandalorian_soldier_helmet2|Casco de Soldado Mandaloriano
@@ -552,13 +495,11 @@ itm_mandalorian_crusader_helmet|Casco de Cruzado Mandaloriano
 itm_mandalorian_neocrusader_helmet|Casco de Neo-Cruzado Mandaloriano
 itm_mandalorian_crusader_armor|Armadura de Cruzado Mandaloriano
 itm_mandalorian_crusader_boots|Botas de Cruzado Mandaloriano
-itm_mandalorian_crusader_set_end|Botas de Cruzado Mandaloriano
 itm_mandalorian_deadeye_helmet|Casco Mandaloriano
 itm_mandalorian_deadeye_armor|Armadura Mandaloriana
 itm_mandalorian_deadeye_armor2|Armadura Mandaloriana
 itm_mandalorian_deadeye_armor3|Armadura Mandaloriana
 itm_mandalorian_deadeye_boots|Botas Mandalorianas
-itm_mandalorian_deadeye_set_end|Botas Mandalorianas
 itm_mandalorian_beskar_helmet|Casco Mandaloriano
 itm_mandalorian_beskar_armor|Armadura Mandaloriana
 itm_mandalorian_beskar_boots|Botas Mandalorianas
@@ -566,14 +507,18 @@ itm_defiler_helmet|Casco de Profanador
 itm_defiler_armor|Armadura de Profanador
 itm_defiler_boots|Botas de Profanador
 itm_black_sun_helmet|Casco del Sol Negro
+itm_black_sun_helmet_tan|Casco del Sol Negro
+itm_black_sun_helmet_teal|Casco del Sol Negro
+itm_black_sun_helmet_red|Casco del Sol Negro
 itm_black_sun_armor|Armadura del Sol Negro
+itm_black_sun_armor_tan|Armadura del Sol Negro
+itm_black_sun_armor_teal|Armadura del Sol Negro
+itm_black_sun_armor_red|Armadura del Sol Negro
 itm_gamorrean_armor|Armadura Gamorreana
-itm_gamorrean_armor_merch|Armadura Gamorreana
 itm_moncal_armor|Armadura Mon Calamari
 itm_moncal_armor_2|Armadura Mon Calamari
 itm_moncal_boots|Botas Mon Calamari
 itm_moncal_helmet|Casco Mon Calamari
-itm_rodian_head|Cabeza de Rodiano
 itm_twilek_armor|Armadura Twi'lek
 itm_jawa_hood|Cabeza de Jawa
 itm_jawa_robe|Túnica de Jawa
@@ -582,7 +527,6 @@ itm_tusken_helmet|Cobertura Facial Tusken
 itm_tusken_armor|Armadura Tusken
 itm_trandoshan_armor|Armadura Trandoshana
 itm_geonosian_armor|Armadura Geonosiana
-itm_geonosian_armor_merch|Armadura Geonosiana
 itm_lightsaber_green_arena|Sable de Luz
 itm_lightsaber_blue_arena|Sable de Luz
 itm_lightsaber_yellow_arena|Sable de Luz
@@ -626,8 +570,9 @@ itm_lightsaber_red_pike|Pica Jedi
 itm_darth_vader_lightsaber|Sable de Luz de Darth Vader
 itm_obi_wan_lightsaber|Sable de Luz de Obi-Wan Kenobi
 itm_luke_skywalker_lightsaber|Sable de Luz de Luke Skywalker
-itm_anakin_skywalker_lightsaber|Sable láser de Anakin Skywalker
-itm_lightsaber_red_multikill|Sable laser Multi-Golpe [en Desarrollo]
+itm_anakin_skywalker_lightsaber|Sable de Luz de Anakin Skywalker
+itm_lightsaber_red_multikill|Sable de Luz Multi-Golpe [en Desarrollo]
+itm_melee_punch| 
 itm_durasteel_staff|Bastón de Duracero
 itm_electro_staff_medium|Bastón Eléctrico
 itm_electro_staff_long|Bastón Eléctrico
@@ -687,13 +632,14 @@ itm_leia_head|Cabeza de Leia Organa
 itm_rancor_body_a|Cuerpo de Ráncor
 itm_rancor_body_b|Cuerpo de Ráncor
 itm_rancor_body_c|Cuerpo de Ráncor
+itm_rancor_attack| 
 itm_rancor_keeper_armor|Armadura de Vigilante de Ráncor
 itm_yoda_armor|Cuerpo y Silla de Yoda
-itm_yoda_lightsaber|Sable de Yoda
+itm_yoda_lightsaber|Sable de Luz de Yoda
 itm_yoda_speeder|Speeder transparente de Yoda
 itm_jabba_armor|Cuerpo y Silla de Jabba
 itm_jabba_attack|No ataque de Jabba
-itm_jabba_speeder|Speeder Transparente de Jabba
+itm_jabba_speeder|Speeder transparente de Jabba
 itm_transparent_head|Cabeza Transparente
 itm_transparent_body|Cuerpo Transparente
 itm_transparent_hands|Manos Transparentes
@@ -718,8 +664,8 @@ itm_dengar_helmet|Cobertura Facial de Dengar
 itm_dengar_boots|Botas de Dengar
 itm_dengar_gloves|Guantes de Dengar
 itm_weequay_vibro_axe|Vibro-Hacha Weequay
-itm_force_throw_lightsaber_green|Sable Láser Arrojadizo
-itm_force_throw_lightsaber_blue|Sable Láser Arrojadizo
+itm_force_throw_lightsaber_green|Sable de Luz Arrojadizo
+itm_force_throw_lightsaber_blue|Sable de Luz Arrojadizo
 itm_force_throw_lightsaber_orange|Sable Láser Arrojadizo
 itm_force_throw_lightsaber_purple|Sable Láser Arrojadizo
 itm_force_throw_lightsaber_yellow|Sable Láser Arrojadizo
@@ -811,38 +757,63 @@ itm_force_power_ds_2|Poderes de Aprendiz de la Fuerza
 itm_force_power_ds_3|Poderes de Caballero Jedi
 itm_force_power_ds_4|Poderes de Maestro de la Fuerza
 itm_force_jump|Saltar con la Fuerza
+itm_a280|A-280
+itm_a280_crouch|A-280
 itm_a280_stun|Aturdidor A-280
+itm_a295|A-295
+itm_a295_crouch|A-295
 itm_a295_stun|Aturdidor A-295
 itm_mandalorian_heavy_blaster|Bláster Pesado Mandaloriano
 itm_corellian_destroyer_blaster|Bláster Destructor Corelliano
+itm_dlt19|DLT-19
 itm_dlt19_scope|DLT-19 con mira Telescópica
+itm_dlt20a|DLT-20A
+itm_e17d|E-17d
+itm_dc15a|DC-15A
+itm_dc15a_hip|DC-15A
+itm_dc15s|DC-15S
 itm_trandoshan_acp_array_gun|Pistola de Matriz ACP Trandoshana
 itm_trandoshan_stun_gun|Pistola Aturdidora Trandoshana
 itm_quicksnap_36t|36T TiroRapid
 itm_bothan_bola_carabine|Carabina 'Bola' Bothan
+itm_ee3|EE-3
 itm_ee3_stun|Aturdidor EE-3
+itm_mg15|RT-97C
+itm_e5|E-5
+itm_e11|E-11
+itm_e11_hip|E-11
 itm_e11_stun|Aturdidor E-11
 itm_wookiee_bowcaster|Ballesta Wookie
 itm_kashyyyk_long_gun|Pistola Larga de Kashyyyk
 itm_tusken_rifle|Termociclador Tusken
 itm_geonosian_sonic_rifle|Rifle Sónico Geonosiano
+itm_t21|T-21
 itm_senate_rifle|Rifle de Guardia de Seguridad
 itm_kisteer_1284|KiSteer 1284
 itm_ion_blaster|Bláster de Iones
+itm_heavy_repeater|Repetidor Imperial Pesado
+itm_storm_rifle|Rifle de Soldado Imperial
+itm_dh17|DH-17
 itm_dh17_stun|Aturdidor DH-17
+itm_se14r|SE-14R
+itm_dl44a|DL-44
 itm_dl44a_stun|Aturdidor DL-44
-itm_dl44b|DL-44 Modificada
+itm_dl44b|DL-44 Modificado
+itm_q2|Q2
 itm_q2_stun|Aturdidor Q2
+itm_elg3a|ELG-3A
 itm_elg3a_stun|Aturdidor ELG-3A
 itm_scout_trooper_pistol|Pistola de Soldado de Reconocimiento
 itm_ddc_defender|Defensor DDC
 itm_geonosian_sonic_pistol|Pistola Sónica Geonosiana
+itm_dl18|DL-18
+itm_westar|Westar-34
 itm_westar_stun|Aturdidor Westar-34
 itm_ion_pistol|Pistola de Iones
 itm_trandoshan_supressor|Supresor Trandoshano
 itm_wrist_blaster|Bláster de Muñeca
-itm_heavy_repeater|Repetidor Imperial Pesado
-itm_storm_rifle|Rifle de Soldado Imperial
+itm_practice_dl44|DL-44
+itm_dl44a_training|DL-44
 itm_dlt19_training|DLT-19
 itm_heavy_weapons_ammo|Munición de Armas Pesadas
 itm_rocket_launcher|Lanzamisiles RDP-12 [en Desarrollo]
@@ -856,13 +827,9 @@ itm_speeder|Motodeslizador Civil Z4-Z
 itm_speeder_rebel|Motodeslizador Militar Z4-Z
 itm_speeder_imperial|Motodeslizador Militar Z4-Z
 itm_speeder_hutt|Motodeslizador Militar Z4-Z
-itm_speeder_shadow|Deslizador 74-Z <Sombra>
+itm_speeder_shadow|Motodeslizador 74-Z <Sombra>
 itm_speeder_fc20|Motodeslizador FC-20
 itm_horus_winged_cruiser|Crucero Alado Horus
-itm_speeder_sparrow|MotoDelizador Gorrión
-itm_pod_racer|Vaina de Carreras
-itm_swoop_bike|Motodeslizador de Carga
 itm_speeder_dagger|Dagadeslizador
-itm_power_chair|Silla Flotante
 itm_practice_speeder|Motodeslizador Civil 74-Z
 itm_arena_speeder|Motodeslizador Civil 74-Z

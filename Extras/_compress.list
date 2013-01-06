@@ -13,7 +13,9 @@ Languages\de\*.csv
 Languages\en\*.csv
 Languages\es\*.csv
 Languages\fr\*.csv
+Languages\it\*.csv
 Languages\pl\*.csv
+Languages\sv\*.csv
 
 Font\FONT_DATA.XML
 Font\FONT_SWC.dds
