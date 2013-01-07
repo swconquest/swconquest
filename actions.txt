@@ -342,7 +342,7 @@
  ready_overswing_twohanded 0  3
   0.35 anim_human 26200 26210 7 0 0.0 0.0 0.0 0.0 
   0.35 draw_greatsword 20 10 7 0 0.0 0.0 0.0 0.0 
-  1 brfedit-01 20024 20004 7 0 0 0 0  0.95 
+  0.35 brfedit-01 20024 20004 7 0 0 0 0  0.95 
  release_overswing_twohanded 524288  1
   0.63 anim_human 26210 26241 6 0 0.0 0.0 0.0 0.0 
  parry_overswing_twohanded 0  1
