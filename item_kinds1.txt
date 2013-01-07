@@ -432,10 +432,10 @@ itemsfile version 2
  itm_imperial_stormtrooper_gloves Imperial_Stormtrooper_Gloves Imperial_Stormtrooper_Gloves 1  stormie_glov_L 0  536936463 0 28 123731968 0.25 80 0 3 0 0 0 0 0 0 0 0 0
 0
 
- itm_novatrooper_gloves Novatrooper_Gloves Novatrooper_Gloves 1  stnova_glov_L 0  536936463 0 38 123731968 0.25 40 0 4 0 0 0 0 0 0 0 0 0
+ itm_novatrooper_gloves Novatrooper_Gloves Novatrooper_Gloves 1  stnova_glov_L 0  536936463 0 38 123731968 0.25 40 0 4 0 4 0 0 0 0 0 0 0
 0
 
- itm_incinerator_trooper_gloves Incinerator_Trooper_Gloves Incinerator_Trooper_Gloves 1  stincn_glov_L 0  536936463 0 43 123731968 0.25 40 0 5 0 0 0 0 0 0 0 0 0
+ itm_incinerator_trooper_gloves Incinerator_Trooper_Gloves Incinerator_Trooper_Gloves 1  stincn_glov_L 0  536936463 0 43 123731968 0.25 40 0 4 0 6 0 0 0 0 0 0 0
 0
 
  itm_clone_trooper_gloves_white Clone_Trooper_Gloves Clone_Trooper_Gloves 1  ArcTrooperWhite_glove_L 0  536870927 0 28 123731968 0.25 80 0 3 0 0 0 0 0 0 0 0 0
@@ -480,16 +480,16 @@ itemsfile version 2
  itm_white_boots_reinforced Reinforced_White_Boots Reinforced_White_Boots 2  boot_slim_white_reinforced_L 0  boot_slim_white_reinforced_inventory 1152921504606846976  536936462 0 200 123731968 1.75 60 0 0 18 0 0 0 0 0 0 0 0
 0
 
- itm_imperial_royal_guard_boots Imperial_Royal_Guard_Boots Imperial_Royal_Guard_Boots 1  imperial_royal_guard_boots 0  536936462 0 140 123731968 2 50 0 0 16 0 0 0 0 0 0 0 0
+ itm_imperial_royal_guard_boots Imperial_Royal_Guard_Boots Imperial_Royal_Guard_Boots 1  imperial_royal_guard_boots 0  536936462 0 141 123731968 2 50 0 0 16 1 0 0 0 0 0 0 0
 0
 
  itm_imperial_stormtrooper_boots Imperial_Stormtrooper_Boots Imperial_Stormtrooper_Boots 1  Stormtrooper_legs_L 0  536936462 0 210 704643236 2 50 0 0 16 0 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_boots_incinerator Incinerator_Trooper_Boots Incinerator_Trooper_Boots 1  Incinerator_legs_L 0  536936462 0 250 704643236 2 30 0 0 27 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_boots_incinerator Incinerator_Trooper_Boots Incinerator_Trooper_Boots 1  Incinerator_legs_L 0  536936462 0 251 704643236 2.5 30 0 0 19 6 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_boots_novatrooper Novatrooper_Boots Novatrooper_Boots 1  Novatrooper_legs_L 0  536936462 0 250 704643236 2 40 0 0 26 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_boots_novatrooper Novatrooper_Boots Novatrooper_Boots 1  Novatrooper_legs_L 0  536936462 0 254 704643236 2.25 40 0 0 18 4 0 0 0 0 0 0 0
 0
 
  itm_imperial_scout_trooper_boots Imperial_Scout_Trooper_Boots Imperial_Scout_Trooper_Boots 1  scoutboots 0  536936462 0 210 704643236 2 50 0 0 16 0 0 0 0 0 0 0 0
@@ -609,16 +609,16 @@ itemsfile version 2
  itm_skiff_guard_helmet Skiff_Guard_Helmet Skiff_Guard_Helmet 1  skiffhelm 0  536936460 0 150 704643236 2 60 12 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_helmet Imperial_Stormtrooper_Helmet Imperial_Stormtrooper_Helmet 1  Stormtrooper_helm 0  2684420108 0 190 704643236 1 100 14 0 0 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_helmet Imperial_Stormtrooper_Helmet Imperial_Stormtrooper_Helmet 1  Stormtrooper_helm 0  2684420108 0 192 704643236 1 100 14 0 0 2 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_helmet_incinerator Incinerator_Trooper_Helmet Incinerator_Trooper_Helmet 1  Incinerator_Trooper_helm 0  2684420108 0 240 704643236 1 40 20 0 0 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_helmet_incinerator Incinerator_Trooper_Helmet Incinerator_Trooper_Helmet 1  Incinerator_Trooper_helm 0  2684420108 0 275 704643236 2 40 20 0 0 5 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_helmet_novatrooper Novatrooper_Helmet Novatrooper_Helmet 1  Novatrooper_helm 0  2684420108 0 210 704643236 1 50 18 0 0 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_helmet_novatrooper Novatrooper_Helmet Novatrooper_Helmet 1  Novatrooper_helm 0  2684420108 0 223 704643236 2 50 15 0 0 3 0 0 0 0 0 0 0
 0
 
- itm_imperial_pilot_helmet Imperial_Pilot_Helmet Imperial_Pilot_Helmet 1  tiepilot 0  2684420108 0 170 704643236 1 60 12 0 0 0 0 0 0 0 0 0 0
+ itm_imperial_pilot_helmet Imperial_Pilot_Helmet Imperial_Pilot_Helmet 1  tiepilot 0  2684420108 0 171 704643236 1 60 12 0 0 1 0 0 0 0 0 0 0
 0
 
  itm_clone_trooper_head Clone_Trooper_Head Clone_Trooper_Head 1  cloneface_helmet 0  2684358668 0 150 0 1 100 10 0 0 0 0 0 0 0 0 0 0
@@ -972,7 +972,7 @@ itemsfile version 2
  itm_republic_trooper_armor Rebel_Trooper_Armor Rebel_Trooper_Armor 1  republic_trooper_armor 0  553713677 0 340 123731968 6 100 0 35 12 0 0 0 0 0 0 0 0
 0
 
- itm_rebel_heavy_trooper_armor Rebel_Heavy_Trooper_Armor Rebel_Heavy_Trooper_Armor 1  rebel_heavy_trooper_armor 0  553713677 0 500 123731968 8 60 0 50 20 0 0 0 0 0 0 0 0
+ itm_rebel_heavy_trooper_armor Rebel_Heavy_Trooper_Armor Rebel_Heavy_Trooper_Armor 1  rebel_heavy_trooper_armor 0  553713677 0 550 123731968 10 60 0 50 20 0 0 0 0 0 0 0 0
 0
 
  itm_jedi_initiate_robe Jedi_Initiate_Robe Jedi_Initiate_Robe 1  jedi_padawan_robe1 0  553713677 0 400 123731968 1.25 80 0 25 8 0 0 0 0 0 0 0 0
@@ -1011,10 +1011,10 @@ itemsfile version 2
  itm_imperial_stormtrooper_armor Imperial_Stormtrooper_Armor Imperial_Stormtrooper_Armor 1  Stormtrooper_body 0  553713677 0 720 704643236 10 100 0 42 18 0 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_armor_incinerator Incinerator_Trooper_Armor Incinerator_Trooper_Armor 1  Incinerator_Trooper_body 0  553713677 0 960 704643236 10 40 0 51 24 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_armor_incinerator Incinerator_Trooper_Armor Incinerator_Trooper_Armor 1  Incinerator_Trooper_body 0  553713677 0 1264 704643236 10 30 0 45 21 9 0 0 0 0 0 0 0
 0
 
- itm_imperial_stormtrooper_armor_novatrooper Novatrooper_Armor Novatrooper_Armor 1  Novatrooper_body 0  553713677 0 840 704643236 10 50 0 45 21 0 0 0 0 0 0 0 0
+ itm_imperial_stormtrooper_armor_novatrooper Novatrooper_Armor Novatrooper_Armor 1  Novatrooper_body 0  553713677 0 841 704643236 10 40 0 43 19 6 0 0 0 0 0 0 0
 0
 
  itm_imperial_stormtrooper_armor Imperial_Stormtrooper_Armor Imperial_Stormtrooper_Armor 1  Stormtrooper_body 0  553713677 0 720 704643236 10 100 0 42 18 0 0 0 0 0 0 0 0
