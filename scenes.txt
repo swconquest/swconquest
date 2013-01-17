@@ -960,7 +960,7 @@ scn_spacestation_6_prison spacestation_6_prison 1 interior_prison_j bo_interior_
   0 
   0 
  0 
-scn_spacestation_7_exterior spacestation_7_exterior 256 none none 0 0 100 100 -800 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_7_exterior spacestation_7_exterior 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
   0 
   0 
  0 
@@ -1044,7 +1044,7 @@ scn_spacestation_13_prison spacestation_13_prison 1 interior_prison_j bo_interio
   0 
   0 
  0 
-scn_spacestation_14_exterior spacestation_14_exterior 256 none none 0 0 100 100 -800 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_14_exterior spacestation_14_exterior 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
   0 
   0 
  0 
@@ -1092,7 +1092,7 @@ scn_spacestation_17_prison spacestation_17_prison 1 interior_prison_a bo_interio
   0 
   0 
  0 
-scn_spacestation_18_exterior spacestation_18_exterior 256 none none 0 0 100 100 -800 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_18_exterior spacestation_18_exterior 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
   0 
   0 
  0 
@@ -1128,7 +1128,7 @@ scn_spacestation_20_prison spacestation_20_prison 1 interior_prison_d bo_interio
   0 
   0 
  0 
-scn_spacestation_21_exterior spacestation_21_exterior 256 none none 0 0 100 100 -100 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_21_exterior spacestation_21_exterior 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9
   0 
   0 
  0 
@@ -1236,7 +1236,7 @@ scn_spacestation_29_prison spacestation_29_prison 1 interior_prison_a bo_interio
   0 
   0 
  0 
-scn_spacestation_30_exterior spacestation_30_exterior 256 none none 0 0 100 100 -100 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_30_exterior spacestation_30_exterior 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
   0 
   0 
  0 
@@ -1296,7 +1296,7 @@ scn_spacestation_34_prison spacestation_34_prison 1 interior_prison_f bo_interio
   0 
   0 
  0 
-scn_spacestation_35_exterior spacestation_35_exterior 256 none none 0 0 100 100 -900 0x0000000650000500400709c2000000000000000000000000 
+scn_spacestation_35_exterior spacestation_35_exterior 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
   0 
   0 
  0 
