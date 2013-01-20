@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1590
+ 1591
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4812,6 +4812,9 @@ spr_Rhen_VarYavin_Tower_2 0 0 Rhen_VarYavin_Tower_2 bo_Yavin_Tower_2 0
 
 
 spr_skybox_space_prop_dome 0 0 skybox_space_prop_dome 0 0
+
+
+spr_prop_sentinel_droid 0 0 prop_sentinel_droid bo_prop_sentinel_droid 0
 
 
 spr_scene_props_end 16405 0 psys_helper 0 0
