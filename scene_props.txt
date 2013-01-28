@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1591
+ 1592
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4815,6 +4815,9 @@ spr_skybox_space_prop_dome 0 0 skybox_space_prop_dome 0 0
 
 
 spr_prop_sentinel_droid 0 0 prop_sentinel_droid bo_prop_sentinel_droid 0
+
+
+spr_Rebel_Floor 0 0 Rebel_Floor bo_Rebel_Floor 0
 
 
 spr_scene_props_end 16405 0 psys_helper 0 0
