@@ -4820,6 +4820,6 @@ spr_prop_sentinel_droid 0 0 prop_sentinel_droid bo_prop_sentinel_droid 0
 spr_Rebel_Floor 0 0 Rebel_Floor bo_Rebel_Floor 0
 
 
-spr_scene_props_end 16405 0 psys_helper 0 0
+spr_scene_props_end 16384 0 psys_helper 0 0
 
 
