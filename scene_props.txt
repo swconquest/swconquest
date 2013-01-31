@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1592
+ 1601
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4820,6 +4820,33 @@ spr_prop_sentinel_droid 0 0 prop_sentinel_droid bo_prop_sentinel_droid 0
 spr_Rebel_Floor 0 0 Rebel_Floor bo_Rebel_Floor 0
 
 
-spr_scene_props_end 16384 0 psys_helper 0 0
+spr_tatooine_house_1 0 0 tatooine_house_1 bo_tatooine_house_1 0
+
+
+spr_tatooine_arch 0 0 tatooine_arch bo_tatooine_arch 0
+
+
+spr_tatooine_corner 0 0 tatooine_corner bo_tatooine_corner 0
+
+
+spr_tatooine_wall_big 0 0 tatooine_wall_big bo_tatooine_wall_big 0
+
+
+spr_tatooine_wall_end 0 0 tatooine_wall_end bo_tatooine_wall_end 0
+
+
+spr_tatooine_wall_mid 0 0 tatooine_wall_mid bo_tatooine_wall_mid 0
+
+
+spr_tatooine_house_2 0 0 tatooine_house_2 bo_tatooine_house_2 0
+
+
+spr_tatooine_house_3 0 0 tatooine_house_3 bo_tatooine_house_3 0
+
+
+spr_tatooine_circle 0 0 tatooine_circle bo_tatooine_circle 0
+
+
+spr_scene_props_end 16405 0 psys_helper 0 0
 
 
