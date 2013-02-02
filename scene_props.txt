@@ -3593,7 +3593,7 @@ spr_moseisley_bank 0 0 moseisley_bank bo_moseisley_bank 0
 spr_moseisleybottles 0 0 moseisleybottles bo_moseisleybottles 0
 
 
-spr_moseisley_building_1 0 0 moseisley_building_1 0 0
+spr_moseisley_building_1 0 0 moseisley_building_1 bo_moseisley_building_1 0
 
 
 spr_moseisley_building_2 0 0 moseisley_building_2 0 0
