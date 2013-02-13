@@ -52,7 +52,7 @@ scn_trade_federation trade_federation 1 trade_federation_interior bo_trade_feder
   0 
   0 
  0 
-scn_quick_battle_4 quick_battle_4 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
+scn_quick_battle_4 quick_battle_4 256 none none 0 0 100 100 -100 0x00000000200016da000364d9000060f500007591000064e7 
   0 
   0 
  outer_terrain_steppe 
