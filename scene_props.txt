@@ -4847,6 +4847,6 @@ spr_tatooine_house_3 0 0 tatooine_house_3 bo_tatooine_house_3 0
 spr_tatooine_circle 0 0 tatooine_circle bo_tatooine_circle 0
 
 
-spr_scene_props_end 16405 0 psys_helper 0 0
+spr_scene_props_end 16384 0 psys_helper 0 0
 
 
