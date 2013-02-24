@@ -219,7 +219,7 @@ scn_mainplanet_bothawui_center mainplanet_bothawui_center 256 none none 0 0 120 
 scn_mainplanet_mustafar_center mainplanet_mustafar_center 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  899 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_kamino_center mainplanet_kamino_center 256 none none 0 0 220 220 -100 0x000000043000050000029caa00000001000048c000001029 
   0 
   1  900 
@@ -651,7 +651,7 @@ scn_mainplanet_bothawui_arena mainplanet_bothawui_arena 256 none none 0 0 120 12
 scn_mainplanet_mustafar_arena mainplanet_mustafar_arena 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_kamino_arena mainplanet_kamino_arena 256 none none 0 0 100 100 -100 0x00000002500005004005f57b00005885000046bd00006d9c 
   0 
   0 
@@ -1831,7 +1831,7 @@ scn_mainplanet_bothawui_land_battle mainplanet_bothawui_land_battle 256 none non
 scn_mainplanet_mustafar_land_battle mainplanet_mustafar_land_battle 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
- outer_terrain_plain 
+ 0 
 scn_mainplanet_kamino_land_battle mainplanet_kamino_land_battle 256 none none 0 0 120 120 30 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 

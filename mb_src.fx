@@ -151,6 +151,8 @@ struct PS_INPUT_WATER
 	float4 LightDif                       : TEXCOORD2; //light diffuse for bump
 	float3 CameraDir                      : TEXCOORD3; //camera direction for bump
 	float4 PosWater                       : TEXCOORD4; //position according to the water camera
+	float3 worldPos                       : TEXCOORD5; //global position for fresnel
+	float3 worldNrm                       : TEXCOORD6; //global normal for fresnel
 };
 
 
@@ -333,6 +335,8 @@ struct VS_OUTPUT_WATER
 	float4 LightDif                       : TEXCOORD2; //light diffuse for bump
 	float3 CameraDir                      : TEXCOORD3; //camera direction for bump
 	float4 PosWater                       : TEXCOORD4; //position according to the water camera
+	float3 worldPos                       : TEXCOORD5; //global position for fresnel
+	float3 worldNrm                       : TEXCOORD6; //global normal for fresnel
 	float  Fog                            : FOG;
 };
 
@@ -1278,33 +1282,31 @@ PS_OUTPUT ps_main(PS_INPUT In, uniform const int PcfMode, uniform const bool isG
 	}else{
 	
 		tex_col = tex2D(MeshTextureSampler, In.Tex0);
-		tex_col.rgb = pow(abs(tex_col.rgb), input_gamma);
+		tex_col.rgb = pow(tex_col.rgb, input_gamma);
 	}
 	
 	
 	if(isGlowEnabled)
 	{
-		In.SunLight -= tex_col.a;
-	}
+		In.SunLight = max(tex_col.a,In.SunLight);
+    Output.RGBColor = tex_col * In.Color * (In.SunLight);
+	}else{
 
-	if ((PcfMode != PCF_NONE))
-	{
-		float sun_amount = GetSunAmount(PcfMode, In.ShadowTexCoord, In.TexelPos);
-		// sun_amount *= sun_amount;
-		Output.RGBColor = tex_col * (In.Color + In.SunLight * sun_amount);
+    if ((PcfMode != PCF_NONE))
+    {
+      float sun_amount = GetSunAmount(PcfMode, In.ShadowTexCoord, In.TexelPos);
+      // sun_amount *= sun_amount;
+      Output.RGBColor = tex_col * (In.Color + In.SunLight * sun_amount);
 
-	}
-	else
-	{
-		if(isGlowEnabled){
-			Output.RGBColor = tex_col * In.Color * In.SunLight; //vertx color multiplication fix
-		}else{
-			Output.RGBColor = tex_col * (In.Color + In.SunLight);
-		}
-	}
+    }
+    else
+    {
+      Output.RGBColor = tex_col * (In.Color + In.SunLight);
+    }
+  }
 	
 	// gamma correct
-	Output.RGBColor.rgb = pow(abs(Output.RGBColor.rgb), output_gamma_inv);
+	Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
 	return Output;
 }
 
@@ -1629,6 +1631,9 @@ VS_OUTPUT_WATER vs_main_water(float4 vPosition : POSITION, float3 vNormal : NORM
 	//SWY-- Wavy Water
 	vPosition.z += (cos( time_var + (vPosition.y/vPosition.x) * 5 ) /50 );
 
+  //water surfaces massively bigger
+  //vPosition.xy *= 6;
+  //vPosition.xy -= 600;
 
 	Out.Pos = mul(matWorldViewProj, vPosition);
 	Out.PosWater = mul(matWaterWorldViewProj, vPosition);
@@ -1649,7 +1654,7 @@ VS_OUTPUT_WATER vs_main_water(float4 vPosition : POSITION, float3 vNormal : NORM
 	Out.Tex0 = tc + texture_offset.xy;
 
 	//SWY-- water displacement
-	Out.Tex0.xy += (time_var/100);
+	Out.Tex0.xy += (time_var/300);
 
 	Out.LightDir = 0;
 	Out.LightDif = vAmbientColor;
@@ -1689,7 +1694,11 @@ for(int j = 0; j < iLightPointCount; j++)
 	
 	//SWY-- no fog for water
 	Out.Fog = get_fog_amount(d,u);///600);
-
+  
+  //Fresnel vectors
+  Out.worldPos=vWorldPos;
+  Out.worldNrm=vWorldN;
+  
 	return Out;
 }
 
@@ -1698,7 +1707,7 @@ PS_OUTPUT ps_main_water( PS_INPUT_WATER In )
   PS_OUTPUT Output;
   
   // Load normal and expand range
-  float4 vNormalSample = normalize(tex2D( NormalTextureSampler, In.Tex0 )/9);
+  float4 vNormalSample = normalize(tex2D( NormalTextureSampler, In.Tex0 )/18);
   float3 vNormal = (vNormalSample * 2.0 - 1.0)*0.06f;
 
   Output.RGBColor   = tex2D(ReflectionTextureSampler,
@@ -1706,14 +1715,16 @@ PS_OUTPUT ps_main_water( PS_INPUT_WATER In )
          0.5f - 0.5f * ((In.PosWater.y / In.PosWater.z) -vNormal.y))
   );
   
-  Output.RGBColor.rgb = abs(In.Pos.y);
+  //Output.RGBColor.rgb = vNormalSample.rgb;
+  
   
   //fresnel
-  //float3 vHalf = normalize(vCameraPos - In.PosWater);
-  //Output.RGBColor.rgb += (1.0f - saturate( dot( vHalf, vNormal ) *2 ))/2;
+  float3 vHalf = normalize(normalize(vCameraPos - In.worldPos) );
+  float4 fVec  = saturate( dot( vHalf, normalize( In.worldNrm+vNormal) ));
+  Output.RGBColor.rgb += (1-fVec)*(fVec);
   
   
-  Output.RGBColor.a = Output.RGBColor.r/vNormalSample.z;
+  Output.RGBColor.a = max(Output.RGBColor.r/vNormalSample.z,.5f);
   return Output;
 }
 
@@ -2553,7 +2564,7 @@ VS_OUTPUT_SPECULAR_ALPHA vs_specular_alpha (uniform const int PcfMode, float4 vP
 
 
 
-PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMode, uniform const bool isGlowEnabled, uniform const bool isLightsaber)
+PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMode, uniform const bool isGlowEnabled = false, uniform const bool isLightsaber = false)
 {
 	PS_OUTPUT Output;
 
@@ -2561,15 +2572,16 @@ PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMod
 	// float3 vHalf = normalize(normalize(-ViewPos) + normalize(g_vLight - ViewPos));
 
 	float4 outColor = tex2D(MeshTextureSampler, In.Tex0);
-	outColor.rgb = pow(abs(outColor.rgb), input_gamma);
+	outColor.rgb = pow(outColor.rgb, input_gamma);
 
 	float3 vHalf = normalize(normalize(vCameraPos - In.worldPos) - vSunDir);
 	// Compute normal dot half for specular light
-	float4 fSpecular = vSpecularColor * pow( saturate( dot( vHalf, normalize( In.worldNormal) ) ), fMaterialPower) * outColor.a;
+  float4 fVec = saturate( dot( vHalf, normalize( In.worldNormal) ));
+	float4 fSpecular = vSpecularColor * pow( fVec, fMaterialPower) * outColor.a;
 	
-	if(isGlowEnabled)
+	if(isGlowEnabled && outColor.a>.01f)
 	{
-		In.SunLight -= outColor.a;
+		In.SunLight = In.SunLight = max(outColor.a,In.SunLight)*fVec; /* polarized-like effect at side angles */
 	}
 	
 	if(isLightsaber)
@@ -2590,7 +2602,7 @@ PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMod
 	{
 		Output.RGBColor = (outColor * ((In.Color + (In.SunLight + fSpecular * 0.5f))));
 	}
-	Output.RGBColor.rgb = pow(abs(Output.RGBColor.rgb), output_gamma_inv);
+	Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
 
 	Output.RGBColor.a = 1.0f;
 	return Output;
@@ -3550,7 +3562,7 @@ technique specular_alpha
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE);
-		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_NONE, false, false);
+		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_NONE);
 	}
 }
 technique specular_alpha_SHDW
@@ -3558,7 +3570,7 @@ technique specular_alpha_SHDW
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_DEFAULT);
-		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_DEFAULT, false, false);
+		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_DEFAULT);
 	}
 }
 technique specular_alpha_SHDWNVIDIA
@@ -3566,7 +3578,7 @@ technique specular_alpha_SHDWNVIDIA
 	pass P0
 	{
 		VertexShader = compile vs_2_a vs_specular_alpha(PCF_NVIDIA);
-		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA, false, false);
+		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA);
 	}
 }
 
@@ -3575,7 +3587,7 @@ technique specular_alpha_skin
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha_skin(PCF_NONE);
-		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_NONE, false, false);
+		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_NONE);
 	}
 }
 technique specular_alpha_skin_SHDW
@@ -3583,7 +3595,7 @@ technique specular_alpha_skin_SHDW
 	pass P0
 	{
 		VertexShader = compile vs_2_0 vs_specular_alpha_skin(PCF_DEFAULT);
-		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_DEFAULT, false, false);
+		PixelShader = compile ps_2_0 ps_specular_alpha(PCF_DEFAULT);
 	}
 }
 technique specular_alpha_skin_SHDWNVIDIA
@@ -3591,6 +3603,6 @@ technique specular_alpha_skin_SHDWNVIDIA
 	pass P0
 	{
 		VertexShader = compile vs_2_a vs_specular_alpha_skin(PCF_NVIDIA);
-		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA, false, false);
+		PixelShader = compile ps_2_a ps_specular_alpha(PCF_NVIDIA);
 	}
 }

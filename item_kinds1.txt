@@ -2156,7 +2156,7 @@ itemsfile version 2
  itm_energy_shield_oval Oval_Energy_Shield Oval_Energy_Shield 1  energy_shield_large_v2 0  327687 0 800 0 0 60 0 35 0 0 700 90 0 85 0 0 0
 0
 
- itm_energy_shield_circle Circular_Energy_Shield Circular_Energy_Shield 1  shield_circle 0  327687 0 1200 0 0 60 0 40 0 0 800 85 0 90 0 0 0
+ itm_energy_shield_circle Circular_Energy_Shield Circular_Energy_Shield 1  _ 0  327687 0 1200 0 0 60 0 40 0 0 800 85 0 90 0 0 0
 0
 
  itm_durasteel_shield_small Small_Durasteel_Shield Small_Durasteel_Shield 1  shield_dragon 0  65543 5100273664 250 167772194 4 60 0 10 0 0 300 75 0 40 0 0 0
