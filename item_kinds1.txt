@@ -1430,7 +1430,7 @@ itemsfile version 2
  itm_hk_hands HK-Series_Hands HK-Series_Hands 1  hk_hand_L 0  536870927 0 300 0 3 100 0 3 0 0 0 0 0 0 0 0 0
 0
 
- itm_hk_body HK-Series_Body HK-Series_Body 1  hk_body 0  553648141 0 7000 0 30 100 0 45 0 0 0 0 0 0 0 0 0
+ itm_hk_body HK-Series_Body HK-Series_Body 1  HK_series_body 0  553648141 0 7000 0 30 100 0 45 0 0 0 0 0 0 0 0 0
 0
 
  itm_hk_feet HK-Series_Feet HK-Series_Feet 1  hk_feet 0  536874766 0 300 0 5 100 0 0 14 0 0 0 0 0 0 0 0
