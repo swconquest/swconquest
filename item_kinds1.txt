@@ -1424,7 +1424,7 @@ itemsfile version 2
  itm_4lom_head LOM-Series_Head LOM-Series_Head 1  4lom_head 0  2684354572 0 400 0 5 100 15 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_hk_head HK-Series_Head HK-Series_Head 1  hk_head 0  2684354572 0 300 0 5 100 14 0 0 0 0 0 0 0 0 0 0
+ itm_hk_head HK-Series_Head HK-Series_Head 1  HK_series_head 0  2684358412 0 300 0 5 100 14 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_hk_hands HK-Series_Hands HK-Series_Hands 1  hk_hand_L 0  536870927 0 300 0 3 100 0 3 0 0 0 0 0 0 0 0 0
