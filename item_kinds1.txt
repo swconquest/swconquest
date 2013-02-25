@@ -126,43 +126,43 @@ itemsfile version 2
  itm_butter Bantha_butter Bantha_butter 1  butter_pot 0  34144267 0 150 0 12 110 40 0 0 0 0 0 0 0 60 0 0
 0
 
- itm_container_spice_1 Shipment_of_Ryll_Spice Shipment_of_Ryll_Spice 1  Container_spice_1 0  34144267 0 150 0 32 110 0 0 0 0 0 0 0 0 0 0 0
+ itm_container_spice_1 Shipment_of_Ryll_Spice Shipment_of_Ryll_Spice 1  Container_spice_1 0  65547 0 150 0 32 110 0 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_container_spice_2 Shipment_of_Gree_Spice Shipment_of_Gree_Spice 1  Container_spice_2 0  34144267 0 150 0 32 70 0 0 0 0 0 0 0 0 0 0 0
+ itm_container_spice_2 Shipment_of_Gree_Spice Shipment_of_Gree_Spice 1  Container_spice_2 0  65547 0 150 0 32 70 0 0 0 0 0 0 0 0 0 0 0
 0
 
  itm_container_spice_3 Shipment_of_Glitterstim_Spice Shipment_of_Glitterstim_Spice 1  Container_spice_3 0  65547 0 150 0 32 40 0 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_container_food_1 Shipment_of_Vegetables Shipment_of_Vegetables 1  Container_food_1 0  34144267 0 150 0 12 110 40 0 0 0 0 0 0 0 200 0 0
+ itm_container_food_1 Shipment_of_Vegetables Shipment_of_Vegetables 1  Container_food_1 0  34144267 0 190 0 18 111 40 0 0 0 0 0 0 0 4 0 0
 0
 
  itm_container_food_2 Shipment_of_Carbohydrates Shipment_of_Carbohydrates 1  Container_food_2 0  34144267 0 150 0 12 110 60 0 0 0 0 0 0 0 200 0 0
 0
 
- itm_container_food_3 Shipment_of_Protein Shipment_of_Protein 1  Container_food_3 0  34144267 0 150 0 12 110 80 0 0 0 0 0 0 0 200 0 0
+ itm_container_food_3 Shipment_of_Protein Shipment_of_Protein 1  Container_food_3 0  34144267 0 140 0 10 110 80 0 0 0 0 0 0 0 170 0 0
 0
 
- itm_container_metal_1 Shipment_of_Beskar_bars Shipment_of_Beskar_bars 1  Container_metal_1 0  65547 0 150 0 12 50 0 0 0 0 0 0 0 0 0 0 0
+ itm_container_metal_1 Shipment_of_Beskar_bars Shipment_of_Beskar_bars 1  Container_metal_1 0  65547 0 150 0 40 50 0 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_container_metal_2 Shipment_of_Durasteel_bars Shipment_of_Durasteel_bars 1  Container_metal_2 0  65547 0 180 0 12 70 0 0 0 0 0 0 0 0 0 0 0
+ itm_container_metal_2 Shipment_of_Durasteel_bars Shipment_of_Durasteel_bars 1  Container_metal_2 0  65547 0 180 0 60 110 0 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_container_metal_3 Shipment_of_Bronzium_bars Shipment_of_Bronzium_bars 1  Container_metal_3 0  65547 0 210 0 12 110 0 0 0 0 0 0 0 0 0 0 0
+ itm_container_metal_3 Shipment_of_Bronzium_bars Shipment_of_Bronzium_bars 1  Container_metal_3 0  65547 0 210 0 6 70 0 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_container_death_sticks Carton_of_Death_Sticks Carton_of_Death_Sticks 1  Container_death_sticks 0  65547 0 150 0 12 110 0 0 0 0 0 0 0 0 0 0 0
+ itm_container_death_sticks Carton_of_Death_Sticks Carton_of_Death_Sticks 1  Container_death_sticks 0  65547 0 90 0 6 110 0 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_container_drink_1 Shipment_of_Water Shipment_of_Water 1  Container_drink_1 0  34144267 0 150 0 12 110 40 0 0 0 0 0 0 0 100 0 0
+ itm_container_drink_1 Shipment_of_Water Shipment_of_Water 1  Container_drink_1 0  34144267 0 60 0 12 110 30 0 0 0 0 0 0 0 220 0 0
 0
 
- itm_container_drink_2 Shipment_of_Black_Ale Shipment_of_Black_Ale 1  Container_drink_2 0  34144267 0 150 0 12 110 60 0 0 0 0 0 0 0 150 0 0
+ itm_container_drink_2 Shipment_of_Black_Ale Shipment_of_Black_Ale 1  Container_drink_2 0  34144267 0 90 0 14 110 60 0 0 0 0 0 0 0 150 0 0
 0
 
- itm_container_drink_3 Shipment_of_Juri_juice Shipment_of_Juri_juice 1  Container_drink_3 0  34144267 0 150 0 12 60 80 0 0 0 0 0 0 0 150 0 0
+ itm_container_drink_3 Shipment_of_Juri_juice Shipment_of_Juri_juice 1  Container_drink_3 0  34144267 0 240 0 20 60 80 0 0 0 0 0 0 0 60 0 0
 0
 
  itm_carbonite_tibanna Carbonite_Shipment_of_Tibanna_Gas Carbonite_Shipment_of_Tibanna_Gas 1  Carbonite_Tibanna 0  65547 0 150 0 12 110 0 0 0 0 0 0 0 0 0 0 0
