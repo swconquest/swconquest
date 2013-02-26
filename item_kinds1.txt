@@ -1427,16 +1427,16 @@ itemsfile version 2
  itm_hk_head HK-Series_Head HK-Series_Head 1  HK_series_head 0  2684358412 0 300 0 5 100 14 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_hk_hands HK-Series_Hands HK-Series_Hands 1  hk_hand_L 0  536870927 0 300 0 3 100 0 3 0 0 0 0 0 0 0 0 0
+ itm_hk_hands HK-Series_Hands HK-Series_Hands 2  HK_series_hands 0  HK_series_hands_inv 1152921504606846976  536874767 0 300 0 3 100 0 3 0 0 0 0 0 0 0 0 0
 0
 
  itm_hk_body HK-Series_Body HK-Series_Body 1  HK_series_body 0  553648141 0 7000 0 30 100 0 45 0 0 0 0 0 0 0 0 0
 0
 
- itm_hk_feet HK-Series_Feet HK-Series_Feet 1  hk_feet 0  536874766 0 300 0 5 100 0 0 14 0 0 0 0 0 0 0 0
+ itm_hk_feet HK-Series_Feet HK-Series_Feet 1  HK_series_feet 0  536874766 0 300 0 5 100 0 0 14 0 0 0 0 0 0 0 0
 0
 
- itm_hk_attack _ _ 2  _ 0  hk_hand_L 1152921504606846976  79695874 9223372036879941647 250 0 1 100 0 0 0 0 24576 70 0 25 0 274 24
+ itm_hk_attack _ _ 2  _ 0  HK_series_hands_inv 1152921504606846976  79695874 9223372036879941647 250 0 1 100 0 0 0 0 24576 70 0 25 0 274 24
 0
 
  itm_mandalorian_tunic Mandalorian_Tunic Mandalorian_Tunic 1  mandalorian_tunic 0  553713677 0 270 123731968 2 80 0 25 4 0 0 0 0 0 0 0 0
