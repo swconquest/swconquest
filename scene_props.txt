@@ -27,7 +27,7 @@ spr_player_chest 5 0 player_chest_sw bo_player_chest_sw 0
 spr_locked_player_chest 0 0 player_chest_sw bo_player_chest_sw 0
 
 
-spr_sw_ATST 0 0 ATST_scene_prop bo_ATST_scene_prop 0
+spr_sw_ATST 0 0 ATST bo_ATST 0
 
 
 spr_sw_ATAT 0 0 ATAT bo_ATAT 0
@@ -1508,7 +1508,7 @@ spr_ewer_a 0 0 ewer_a bo_ewer_a 0
 spr_end_table_a 0 0 end_table_a bo_end_table_a 0
 
 
-spr_Catapult 0 0 ATST_scene_prop bo_ATST_scene_prop 0
+spr_Catapult 0 0 ATST bo_ATST 0
 
 
 spr_broom 0 0 0 0 0
@@ -2557,13 +2557,13 @@ spr_belfry_wheel 65536 0 belfry_wheel 0 0
 spr_belfry_wheel_old 0 0 belfry_wheel 0 0
 
 
-spr_mangonel 0 0 ATST_scene_prop bo_ATST_scene_prop 0
+spr_mangonel 0 0 ATST bo_ATST 0
 
 
-spr_trebuchet_old 0 0 ATST_trebuchet bo_ATST_trebuchet 0
+spr_trebuchet_old 0 0 ATST bo_ATST 0
 
 
-spr_trebuchet_new 0 0 ATST_trebuchet bo_ATST_trebuchet 0
+spr_trebuchet_new 0 0 ATST bo_ATST 0
 
 
 spr_stone_ball 0 0 stone_ball 0 0
