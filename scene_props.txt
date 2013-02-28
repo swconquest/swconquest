@@ -36,10 +36,10 @@ spr_sw_ATAT 0 0 ATAT bo_ATAT 0
 spr_sw_dewback 0 0 dewback bo_dewback 0
 
 
-spr_sw_kaadu_a 0 0 kaadu_a bo_kaadu_a 0
+spr_sw_kaadu_a 0 0 kaadu_a bo_kaadu 0
 
 
-spr_sw_kaadu_b 0 0 kaadu_b bo_kaadu_b 0
+spr_sw_kaadu_b 0 0 kaadu_b bo_kaadu 0
 
 
 spr_sw_a_wing 0 0 a_wing bo_a_wing 0
