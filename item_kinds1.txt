@@ -1764,7 +1764,7 @@ itemsfile version 2
  itm_vibro_axe_long_1h One_Handed_Vibro-Axe One_Handed_Vibro-Axe 1  vibro_axe2_1h 0  79757314 9223388530091229198 250 270356 2 40 0 0 0 0 32768 97 0 75 0 256 288
 0
 
- itm_vibro_axe_long_2h BD-1_Cutter_Vibro-Axe BD-1_Cutter_Vibro-Axe 1  vibro_axe2_2h 0  81854467 9223635923965575392 420 270356 4.5 80 0 0 0 0 40960 90 0 120 0 256 296
+ itm_vibro_axe_long_2h BD-1_Cutter_Vibro-Axe BD-1_Cutter_Vibro-Axe 1  vibro_axe2 0  81854467 9223635923965575392 420 270356 4.5 80 0 0 0 0 40960 90 0 120 0 256 296
 0
 
  itm_tusken_gaffi_staff Gaffi_Staff Gaffi_Staff 1  gaffi_stick_1 0  138510340 4222129415393024 120 270356 2.5 80 0 0 0 0 30720 90 0 100 0 537 542
