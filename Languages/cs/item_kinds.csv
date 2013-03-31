@@ -1,0 +1,835 @@
+itm_horse_meat|Koňské maso
+itm_practice_boots|Boty na cvičení
+itm_arena_tunic_white|Aréní bílá tunika 
+itm_arena_tunic_red|Aréní červená tunika
+itm_arena_tunic_blue|Aréní modrá tunika
+itm_arena_tunic_green|Aréní zelená tunika
+itm_arena_tunic_yellow|Aréní žlutá tunika
+itm_book_tactics|Taktický holocron
+itm_book_persuasion|Přesvědčovací holocron
+itm_book_leadership|Vůdcovský Holocron
+itm_book_intelligence|Holocron inteligence
+itm_book_trade|Obchodní holocron
+itm_book_weapon_mastery|Holokron zbraňového mistrovstvý
+itm_book_engineering|Inženirský holocron
+itm_book_wound_treatment_reference|2-1B Zdravotnický droid
+itm_book_first_aid_reference|Zdravotnická databáze
+itm_book_tactics_reference|Stůl s dejarikem
+itm_book_trade_reference|Karty Sabaccu
+itm_book_ironflesh_reference|Osobní štít
+itm_book_horse_archery_reference|Laserová optika
+itm_book_training_reference|Trénink dálky
+itm_book_surgery_reference|Bacta nádržka
+itm_smoked_fish|Uzená ryba
+itm_dried_meat|Nerfí řízek
+itm_cattle_meat|Nerfí maso
+itm_bantha_steak|Banthý steak
+itm_pork|Vepřové
+itm_bread|Chleba
+itm_vagnerian_canape|Vagnerianská pohovka
+itm_carbohydrate_pack|Carbohydrate
+itm_apples|Jablka
+itm_blue_milk|Modré mléko
+itm_mujo_fruit|Mujo ovoce
+itm_cheese|Christophsiský sýr
+itm_chicken|Kuře
+itm_protein_pack|Balíček proteinů
+itm_honey|Med
+itm_sausages|Nerfí párky
+itm_cabbages|Zelí
+itm_bristle_melon|Bristleský meloun
+itm_butter|Bathý máslo
+itm_container_spice_1|Náklad Ryllského koření
+itm_container_spice_2|Náklad Greeského koření
+itm_container_spice_3|Náklad Glitterstimského koření
+itm_container_food_1|Náklad zeleniny
+itm_container_food_2|Náklad carbohydratů
+itm_container_food_3|Náklad proteinů
+itm_container_metal_1|Náklad Beskarských tyčí
+itm_container_metal_2|Náklad Durasteelských tyčí
+itm_container_metal_3|Náklad tyčí z bronzia
+itm_container_death_sticks|Karton mrtvých tyčí
+itm_container_drink_1|Náklad vody
+itm_container_drink_2|Náklad černého piva
+itm_container_drink_3|Náklad Juri ovoce
+itm_carbonite_tibanna|Carbonitový náklad Tibannského plynu
+itm_container_ore|Nádoba na rudu
+itm_butter|Bathý máslo
+itm_wine|Mandalorianské víno
+itm_ale|Corellianské pivo
+itm_spice|Koření
+itm_salt|Basselská mořská sůl
+itm_grain|Pšenice
+itm_flour|Mouka
+itm_iron|Durasteel
+itm_bacta_injector|Bacta Injekce
+itm_bacta_capsule|Bacta kapsule
+itm_binocular|Macrodalekohled
+itm_jetpack|Jetpack
+itm_oil|Ropa
+itm_pottery|Geonosianská keramika
+itm_linen|Lashaaské hedvábí
+itm_furs|Ewokské kůže
+itm_wookiee_fur|Wookieeská kožešina
+itm_trandoshan_skin|Trandoshanská kůže
+itm_droid_parts|Droidí části
+itm_wool|Nerfí vlna
+itm_velvet|Nabooský samet
+itm_tools|Hydroklíče
+itm_siege_supply|Zásoby
+itm_quest_wine|Víno
+itm_quest_ale|Pivo
+itm_pilgrim_disguise|Poutníkovo maskování
+itm_pilgrim_hood|Poutníkova kápě
+itm_leather_gloves|Kožené rukavice
+itm_wrapping_boots|Obalovací boty
+itm_blue_hose|Modrá hadice
+itm_hide_boots|Skryté boty
+itm_ankle_boots|Kotníkové boty
+itm_nomad_boots|Nomádské boty
+itm_dress|Šaty
+itm_blue_dress|Modré šaty
+itm_peasant_dress|Koloniální šaty
+itm_woolen_dress|Vlněné šaty
+itm_courtly_outfit|Elegantí oblek
+itm_nobleman_outfit|Šlechtický oblek
+itm_leather_armor|Kožené brnění
+itm_shirt|Košile
+itm_linen_tunic|Lněná tunika
+itm_short_tunic|Drahá tunika
+itm_robe|Róba
+itm_coarse_tunic|Hrubá tunika
+itm_leather_apron|Kožená zástěra
+itm_tabard|Vesta
+itm_leather_vest|Kožená vesta
+itm_gambeson|Kabát
+itm_blue_gambeson|Modrý kabát
+itm_red_gambeson|Červený kabát
+itm_padded_cloth|Vycpané oblečení
+itm_leather_jerkin|Kožený kabát
+itm_padded_leather|Vycpaná kůže
+itm_straw_hat|Slaměný klobouk
+itm_common_hood|Kapuce
+itm_headcloth|Čepice
+itm_woolen_hood|Vlněná kapuce
+itm_fur_hat|Kožešinový klobouk
+itm_padded_coif|Vycpaná čepice
+itm_woolen_cap|Vlněná čepice
+itm_felt_hat|Plstěný klobouk
+itm_leather_cap|Kožená čepice
+itm_arming_cap|Zapnutá čepice
+itm_female_hood|Dámská kapuce
+itm_wooden_stick|Dřevěná tička
+itm_club|Kyj
+itm_cleaver|Sekáček
+itm_knife|Nůž
+itm_butchering_knife|Řeznický nůž
+itm_hatchet|Sekera
+itm_quarter_staff|Obušek
+itm_throwing_axes|Gamorreanské házecí sekery
+itm_rich_outfit|Drahý oblek
+itm_black_hood|Černá kapuce
+itm_light_leather|Světlá kůže
+itm_light_leather_boots|Světlé kožené boty
+itm_black_gloves|Černé rukavice
+itm_black_gloves_long|Dlouhé černé rukavice
+itm_right_hand_glove|Rukavice na pravou ruku
+itm_grey_gloves|Šedé rukavice
+itm_darkgrey_gloves|Tmavě šedé rukavice
+itm_lady_gloves|Dámské rukavice
+itm_mandalorian_crushgaunts|Mandalorianské zesílené rukavice
+itm_imperial_royal_guard_gloves|Rukavice imperiálních královských stráží
+itm_imperial_stormtrooper_gloves|Rukavice Imperiálních stormtrooperů
+itm_novatrooper_gloves|Rukavice Novatrooperů
+itm_incinerator_trooper_gloves|Rukavice Incinerator trooperů
+itm_clone_trooper_gloves_white|Rukavice Klonového vojáka
+itm_clone_trooper_gloves_green|Rukavice Klonového vojáka
+itm_clone_trooper_gloves_blue|Rukavice Klonového vojáka
+itm_clone_trooper_gloves_red|Rukavice Klonového vojáka
+itm_clone_trooper_gloves_yellow|Rukavice Klonového vojáka
+itm_clone_trooper_gloves_orange|Rukavice Klonového vojáka
+itm_grey_gloves_with_bottle|Šedé rukavice s lemováním
+itm_leather_boots|Kožené boty
+itm_leather_boots_reinforced|Zesílené kožené boty
+itm_black_boots|Černé boty
+itm_black_boots_reinforced|Zesílené černé boty
+itm_grey_boots|Šedé boty
+itm_white_boots|Bílé boty
+itm_white_boots_reinforced|Zesílené bílé boty
+itm_imperial_royal_guard_boots|Boty imperiálního královského strážce
+itm_imperial_stormtrooper_boots|Boty imperiálního stormtroopera
+itm_imperial_stormtrooper_boots_incinerator|Boty incinerator troopera
+itm_imperial_stormtrooper_boots_novatrooper|Boty novatroopera
+itm_imperial_scout_trooper_boots|Boty imperiálního skauta
+itm_shadow_scout_trooper_boots|Boty shadow troopera
+itm_clone_trooper_boots|Boty klonového vojáka
+itm_lobot_headgear|Borg konstrukce Aj^6
+itm_glasses_black|Střelecké brýle
+itm_glasses_yellow|Střelecké brýle
+itm_eyepiece_tactics|Taktický okulár
+itm_eyepiece_leadership|Velitelský okulár
+itm_slave_neck_chain|Otrocký řetěz
+itm_officer_hat_white|Důstojnická čepice
+itm_civilian_cloak_hood|Civilní plášť s kapucí
+itm_imperial_hat_green|Imperiální čepice
+itm_imperial_hat_black|Imperiální čepice
+itm_imperial_hat_grey|Imperiální čepice
+itm_rebel_technician_helmet|Helma rebelského kadeta
+itm_rebel_trooper_helmet|Helma rebelského vojáka
+itm_rebel_heavy_trooper_helmet|Helma těžkého rebelského vojáka
+itm_rebel_honor_guard_helmet|Helma rebelského čestného strážce
+itm_transparent_helmet|Průhledná helma
+itm_imperial_trooper_helmet|Helma imperiálního vojáka
+itm_imperial_gunner_helmet|Helma imperiálního střelce
+itm_imperial_navy_trooper_helmet|Helma imperiálního navy vojáka
+itm_mercenary_helmet|Helma žoldáka
+itm_trandoshan_mask|Trandoshanská maska
+itm_trandoshan_helmet|Trandoshanská helma
+itm_cap_military|Čepice
+itm_cap_civilian_a|Čepice
+itm_ewok_hat|Ewokská čepka
+itm_rancor_keeper_hat|Čepice hlídače rancora
+itm_rodian_ventilator|Rodianská maska
+itm_rodian_ventilator_black|Rodianská maska
+itm_rodian_ventilator_red|Rodianská maska
+itm_gamorrean_helmet|Gamorreanská helma
+itm_fang_helmet|Drápova helma
+itm_beak_helmet|Zobákova helma
+itm_gas_mask|Plynová maska
+itm_mining_helmet|Těžařská helma
+itm_pipe_helmet|Potrubní helma
+itm_skiff_guard_helmet|Helma strážce člunu
+itm_imperial_stormtrooper_helmet|Helma imperiálního stormtroopera
+itm_imperial_stormtrooper_helmet_incinerator|Helma incinerator troopera
+itm_imperial_stormtrooper_helmet_novatrooper|Helma novatroopera
+itm_imperial_pilot_helmet|Helma pilota impéria
+itm_clone_trooper_head|Helma klonového vojáka
+itm_clone_trooper_head_scar|Helma klonového vojáka
+itm_clone_trooper_helmet_white|Helma klonového vojáka
+itm_clone_trooper_helmet_green|Helma klonového vojáka
+itm_clone_trooper_helmet_blue|Helma klonového vojáka
+itm_clone_trooper_helmet_red|Helma klonového vojáka
+itm_clone_trooper_helmet_yellow|Helma klonového vojáka
+itm_clone_trooper_helmet_orange|Helma klonového vojáka
+itm_clone_trooper_helmet_mand|Helma klonového vojáka
+itm_clone_trooper_helmet_lux|Helma klonového vojáka
+itm_imperial_scout_trooper_helmet|Helma imperiálního skauta
+itm_shadow_scout_trooper_helmet|Helma stínového skauta
+itm_republic_pilot_helmet|Helma pilota rebelů
+itm_republic_commando_helmet|Helma rebelského komanda
+itm_republic_commando_desert_helmet|Pouštní helma rebelského komanda 
+itm_republic_commando_urban_helmet|Městská helma rebelského komanda
+itm_rebel_sniper_helmet|Helma rebelského snipera
+itm_jedi_knight_hood|Kapuce rytíře jedi
+itm_jedi_knight_hood_unique|Kapuce rytíře jedi
+itm_sith_hood|Sithská kapuce
+itm_sith_hood_unique|Sithská kapuce
+itm_jedi_master_hood|Kapuce mistra jedi
+itm_jedi_master_hood_unique|Kapuce mistra jedi
+itm_jedi_knight_cloak|Plášť rytíře jedi
+itm_jedi_knight_cloak_hood|Plášť s kapucí rytíře jedi
+itm_jedi_master_cloak|Plášť mistra jedi
+itm_jedi_master_cloak_hood|Plášť s kapucí mistra jedi
+itm_sith_cloak|Sithský plášť
+itm_sith_cloak_hood|Sithský plášť s kapucí
+itm_sith_cloak_mask|Sithský plášť s maskou
+itm_imperial_royal_guard_helmet|Helma imperiálního královského strážce
+itm_shadow_guard_helmet|Helma shadow guarda
+itm_desert_hat1|Pouštní čepice
+itm_desert_hat2|Pouštní čepice
+itm_desert_hat3|Pouštní čepice
+itm_urban_hat1|Městská čepice
+itm_urban_hat2|Městská čepice
+itm_urban_hat3|Městská čepice
+itm_camouflage_hat1|Maskovací čepice
+itm_camouflage_hat2|Maskovací čepice
+itm_camouflage_hat3|Maskovací čepice
+itm_dress_yellow|Dámské šaty
+itm_dress_red|Dámské šaty
+itm_dress_green|Dámské šaty
+itm_dress_blue|Dámské šaty
+itm_tunic_green|Tunika
+itm_tunic_white|Tunika
+itm_tunic_blue|Tunika
+itm_tunic_red|Tunika
+itm_tunic_yellow|Tunika
+itm_padded_tunic_green|Vycpaná tunika
+itm_padded_tunic_white|Vycpaná tunika
+itm_padded_tunic_blue|Vycpaná tunika
+itm_padded_tunic_red|Vycpaná tunika
+itm_padded_tunic_yellow|Tunika
+itm_officer_uniform_white|Důstojnická uniforma
+itm_imperial_uniform_black_plain|Imperiální uniforma
+itm_female_outfit_femconblack|Ženský oblek
+itm_female_outfit_femconbrowngreen|Ženský oblek
+itm_female_outfit_femcongrey|Ženský oblek
+itm_female_outfit_femconorange|Ženský oblek
+itm_female_outfit_femconwhite|Ženský oblek
+itm_female_outfit_femconwhitebrown|Ženský oblek
+itm_outfit_tan|Kombinéza
+itm_outfit_grey|Kombinéza
+itm_outfit_black|Kombinéza
+itm_outfit_green|Kombinéza
+itm_vest_open_a|Rozepnutá vesta
+itm_vest_open_b|Rozepnutá vesta
+itm_vest_closed_a|Zapnutá vesta
+itm_vest_closed_b|Zapnutá vesta
+itm_vest_closed_c|Zapnutá vesta
+itm_shirt_blue|Košile
+itm_shirt_green|Košile
+itm_vest_closed_f|Sněhový oblek
+itm_jacket_open_a|Rozepnutý oblek
+itm_jacket_open_b|Rozepnutý oblek
+itm_jacket_open_c|Rozepnutý oblek
+itm_female_jacket_a|Dámský oblek
+itm_female_jacket_b|Dámský oblek
+itm_female_jacket_c|Dámský oblek
+itm_female_dress_a|Dámské šaty
+itm_female_dress_b|Dámské šaty
+itm_female_dancer_outfit_a|Šaty tanečnice
+itm_female_dancer_outfit_a_cloak|Šaty tanečnice
+itm_female_dancer_boots|Boty tanečnice
+itm_female_leather_a|Dámský kožený oblek
+itm_female_leather_b|Dámský kožený oblek
+itm_female_leather_c|Dámský kožený oblek
+itm_female_leather_d|Dámský kožený oblek
+itm_jacket_closed_a|Zapnutý oblek
+itm_jacket_closed_b|Zapnutý oblek
+itm_jacket_closed_c|Zapnutý oblek
+itm_klatooinian_armor|Klatooinianské brnění
+itm_scavenger_armor|Brnění scavengerů
+itm_mercenary_armor|Brnění žoldáků
+itm_crime_lord_armor|Brnění kmotra
+itm_trandoshan_flight_suit|Trandoshanská letecká kombinéza
+itm_civilian_cloak|Civilní plášť
+itm_white_cloak|Bílí plášť
+itm_padded_armor_white|Vycpané brnění
+itm_padded_armor_red|Vycpané brnění
+itm_padded_armor_blue|Vycpané brnění
+itm_armor_blue|Brnění
+itm_armor_brown|Brnění
+itm_armor_red|Brnění
+itm_armor_white|Brnění
+itm_pirate_armor|Brnění
+itm_imperial_uniform_black|Uniforma důstojníka impéria
+itm_imperial_uniform_green|Uniforma důstojníka impéria
+itm_rebel_uniform_tanblue|Uniforma rebelského velitele
+itm_rebel_uniform_green|Uniforma důstojníka rebelů
+itm_imperial_trooper_armor|Brnění imperiálního vojáka
+itm_imperial_navy_trooper_armor|Brnění imperiálního navy vojáka
+itm_imperial_trooper_armor|Brnění imperiálního vojáka
+itm_rebel_technician_armor|Brnění kadeta rebelů
+itm_republic_trooper_armor|Brnění rebelského vojáka
+itm_rebel_heavy_trooper_armor|Brnění těžkého rebelského vojáka
+itm_jedi_initiate_robe|Róba jediho začátečníka
+itm_jedi_padawan_robe|Róba padawana
+itm_sith_acolyte_outfit|Oblek sithského ministranta
+itm_sith_apprentice_outfit|Oblek sithského učedníka
+itm_imperial_scout_trooper_armor|Brnění imperiálního skauta
+itm_shadow_scout_trooper_armor|Brnění stínového skauta
+itm_republic_pilot_armor|Brnění rebelského pilota
+itm_republic_commando_armor|Brnění rebelského komanda
+itm_republic_commando_desert_armor|Pouštní brnění rebelského komanda
+itm_republic_commando_urban_armor|Městské brnění rebelského komanda
+itm_rebel_sniper_armor|Brnění rebelského snipera
+itm_imperial_stormtrooper_armor|Brnění imperiálního stormtroopera
+itm_imperial_stormtrooper_armor_incinerator|Brnění incinerator troopera
+itm_imperial_stormtrooper_armor_novatrooper|Brnění novatroopera
+itm_imperial_stormtrooper_armor|Brnění imperiálního stormtroopera
+itm_rebel_honor_guard_armor|Brnění rebelského čestného strážce
+itm_clone_trooper_armor_white|Brnění klonového vojáka
+itm_clone_trooper_armor_green|Brnění klonového vojáka
+itm_clone_trooper_armor_blue|Brnění klonového vojáka
+itm_clone_trooper_armor_red|Brnění klonového vojáka
+itm_clone_trooper_armor_yellow|Brnění klonového vojáka
+itm_clone_trooper_armor_orange|Brnění klonového vojáka
+itm_clone_trooper_armor_mand|Brnění klonového vojáka
+itm_clone_trooper_armor_lux|Brnění klonového vojáka
+itm_arc_trooper_armor_green|Brnění klonového ARC vojáka
+itm_arc_trooper_armor_blue|Brnění klonového ARC vojáka
+itm_arc_trooper_armor_red|Brnění klonového ARC vojáka
+itm_arc_trooper_armor_yellow|Brnění klonového ARC vojáka
+itm_arc_trooper_armor_orange|Brnění klonového ARC vojáka
+itm_arc_trooper_armor_mand|Brnění klonového ARC vojáka
+itm_arc_trooper_armor_lux|Brnění klonového ARC vojáka
+itm_skiff_guard_armor_brown|Brnění strážce člunu
+itm_skiff_guard_armor_grey|Brnění strážce člunu
+itm_skiff_guard_armor_white|Brnění strážce člunu
+itm_hutt_palace_guard_armor|Brnění huttského strážce palácu
+itm_jedi_knight_robe|Róba rytíře jedi
+itm_jedi_knight_robe_unique|Róba rytíře jedi
+itm_jedi_guardian_robe_a|Róba ochránce jedi
+itm_jedi_guardian_robe_b|Róba ochránce jedi
+itm_jedi_guardian_robe_c|Róba ochránce jedi
+itm_jedi_guardian_robe_d|Róba ochránce jedi
+itm_sith_knight_robe|Róba sithského rytíře
+itm_sith_knight_robe_unique|Róba sithského rytíře
+itm_sith_knight_robe_a|Róba sithského rytíře
+itm_sith_knight_robe_b|Róba sithského rytíře
+itm_sith_knight_robe_c|Róba sithského rytíře
+itm_imperial_royal_guard_robe|Róba Imperiálního královského strážce
+itm_shadow_guard_robe|Róba imperiálního stínového strážce
+itm_imperial_stormtrooper_armor_officer|Brnění stormtrooperského důstojníka
+itm_sw_desert_armor|Těžké pouštní brnění
+itm_sw_urban_armor|Těžké městské brnění
+itm_sw_sniper_armor|Sniperova zbroj
+itm_jedi_robe_a|Róba jediho
+itm_jedi_robe_a_unique|Róba jediho
+itm_jedi_robe_b|Sithská róba
+itm_jedi_robe_b_long|Dlouhá sithská róba
+itm_jedi_robe_c|Róba jediho
+itm_jedi_robe_c_long|Dlouhá sithská róba
+itm_jedi_robe_d|Róba jediho
+itm_jedi_robe_d_unique|Róba jediho
+itm_jedi_robe_e|Róba jediho
+itm_jedi_robe_e_unique|Róba jediho
+itm_jedi_robe_f|Róba jediho
+itm_jedi_robe_f_unique|Róba jediho
+itm_jedi_master_robe|Róba jediho
+itm_jedi_master_robe_unique|Róba jediho
+itm_sith_marauder_robe|Róba sithského záškodníka
+itm_sith_marauder_robe_unique|Róba sithského záškodníka
+itm_sith_marauder_robe_a|Róba sithského záškodníka
+itm_sith_marauder_robe_b|Róba sithského záškodníka
+itm_sith_marauder_robe_c|Róba sithského záškodníka
+itm_sith_marauder_robe_d|Róba sithského záškodníka
+itm_sith_master_robe|Róba sithského mistra
+itm_sith_master_robe_unique|Róba sithského mistra
+itm_guard_armor|Strážcova zbroj
+itm_guard_armor_red|Brnění ochránce
+itm_blast_armor_black|Zbroj proti výbuchům
+itm_blast_armor_red|Zbroj proti výbuchům
+itm_blast_armor_grey|Zbroj proti výbuchům
+itm_blast_armor_bluegrey|Zbroj proti výbuchům
+itm_ubese_armor|Ubesské brnění
+itm_ubese_armor_alt|Ubesské brnění
+itm_wookiee_armor1|Brnění Wookieeů
+itm_wookiee_armor1_merch|Brnění Wookieeů
+itm_wookiee_armor2|Brnění Wookieeů
+itm_wookiee_armor2_merch|Brnění Wookieeů
+itm_wookiee_hunter_armor|Brnění lovců Wookieeů
+itm_wookiee_hunter_helmet|Helma lovců Wookieeů
+itm_wookiee_female_head|Hlava Wookieeské ženy
+itm_wookiee_female_body|Tělo Wookieeské ženy
+itm_wookiee_female_hands|Ruce Wookieeské ženy
+itm_wookiee_female_feet|Chodidla Wookieeské ženy
+itm_kaminoan_female_head|Hlava Kaminoánské ženy
+itm_kaminoan_female_body|Tělo Kaminoánské ženy
+itm_droid_weapon_no_attack|Droid Melee Weapon (No Attack)
+itm_r2series_blue|R2-Series Modrý
+itm_r2series_green|R2-Series Zelený
+itm_r2series_orange|R2-Series Oranžový
+itm_r2series_purple|R2-Series Fialový
+itm_mse6_armor|Tělo Droida MSE-Série
+itm_lin_droid_armor|Tělo LIN Droida
+itm_lin_droid_armor_w_arm|Tělo LIN Droida
+itm_power_droid_grey|Power Droid
+itm_power_droid_snow|Power Droid
+itm_power_droid_tan|Power Droid
+itm_fxseries_droid_armor|Tělo Zdravotnického Droida FX-Série
+itm_c3po_blue_head|3PO-Série Hlava
+itm_c3po_blue_hands|3PO-Série Ruce
+itm_c3po_blue_body|3PO-Série Tělo
+itm_c3po_blue_feet|3PO-Série Chodidla
+itm_c3po_gold_head|3PO-Série Hlava
+itm_c3po_gold_hands|3PO-Série Ruce
+itm_c3po_gold_body|3PO-Série Tělo
+itm_c3po_gold_feet|3PO-Série Chodidla
+itm_c3po_grey_head|3PO-Série Hlava
+itm_c3po_grey_hands|3PO-Série Ruce
+itm_c3po_grey_body|3PO-Série Tělo
+itm_c3po_grey_feet|3PO-Série Chodidla
+itm_c3po_red_head|3PO-Série Hlava
+itm_c3po_red_hands|3PO-Série Ruce
+itm_c3po_red_body|3PO-Série Tělo
+itm_c3po_red_feet|3PO-Série Chodidla
+itm_3poseries_gold|3PO-Série Zlatá
+itm_3poseries_blue|3PO-Série Modrá
+itm_3poseries_red|3PO-série červená
+itm_3poseries_grey|3PO-série šedá
+itm_3poseries_attack|3PO-série útok na blízko
+itm_b1series_body|B1-série Battle droidovo tělo
+itm_bxseries_body|BX-série commando droidovo tělo
+itm_oomseries_body|OOM Security Droid tělo
+itm_oomseries_pilot_body|OOM Pilot Droid tělo
+itm_oomseries_marine_body|OOM Marine Droid tělo
+itm_oomseries_command_body|OOM Command Droid tělo
+itm_battle_droid_attack|Battle Droid útok na blízko
+itm_b2series_body|B2-série Battle droidovo tělo
+itm_b2series_body_enhanced|C-B3 Battle droidovo tělo
+itm_b2series_attack|B2-série Battle droidův útok
+itm_b2series_blaster|B2-série Battlr droidí blaster
+itm_transparent_droid_head|Neviditelná hlava(droidí)
+itm_transparent_droid_hands|Neviditelné ruce(droidí)
+itm_transparent_droid_feet|Neviditelné nohy(droidí)
+itm_ig88_head|IG-série hlava
+itm_ig88_hands|IG-série ruce
+itm_ig88_body|IG-série tělo
+itm_ig88_feet|IG-série nohy
+itm_ig88_attack| 
+itm_ig88_e11_shield|IG-88's E-11 štít
+itm_ig88_dlt20a|IG-88's DLT-20A
+itm_4lom_head|LOM-série hlava
+itm_hk_head|LOM-série hlava
+itm_hk_hands|HK-série ruce
+itm_hk_body|HK-série tělo
+itm_hk_feet|HK-série nohy
+itm_hk_attack| 
+itm_mandalorian_tunic|Mandalorianská tunika
+itm_mandalorian_soldier_helmet|Helma mandalorianského vojáka
+itm_mandalorian_soldier_helmet2|Helma mandalorianského vojáka
+itm_mandalorian_soldier_helmet3|Helma mandalorianského vojáka
+itm_mandalorian_soldier_armor|Zbroj mandalorianského vojáka
+itm_mandalorian_soldier_armor2|Zbroj mandalorianského vojáka
+itm_mandalorian_soldier_boots|Boty mandalorianského vojáka
+itm_mandalorian_commando_helmet|Helma mandalorianského komanda
+itm_mandalorian_commando_armor|Brnění mandalorianského komanda
+itm_mandalorian_commando_armor2|Brnění mandalorianského komanda
+itm_mandalorian_commando_boots|Boty mandalorianského komanda
+itm_mandalorian_sniper_helmet|Helma mandalorianského snipera
+itm_mandalorian_sniper_armor|Brnění mandalorianského snipera
+itm_mandalorian_sniper_armor2|Brnění mandalorianského snipera
+itm_mandalorian_sniper_armor3|Brnění mandalorianského snipera
+itm_mandalorian_sniper_boots|Boty mandalorianského snipera
+itm_mandalorian_crusader_helmet|Helma mandalorianského dobyvatele
+itm_mandalorian_neocrusader_helmet|Helma mandalorianského neo-dobyvatele
+itm_mandalorian_crusader_armor|Zbroj mandalorianského dobyvatele
+itm_mandalorian_crusader_boots|Boty mandalorianského dobyvatele
+itm_mandalorian_deadeye_helmet|Helma mandalorianského smrtonoše
+itm_mandalorian_deadeye_armor|Brnění mandalorianského smrtonoše
+itm_mandalorian_deadeye_armor2|Brnění mandalorianského smrtonoše
+itm_mandalorian_deadeye_armor3|Brnění mandalorianského smrtonoše
+itm_mandalorian_deadeye_boots|Boty Mandaloriánského smrtonoše
+itm_mandalorian_beskar_helmet|Helma Mandaloriánského beskara
+itm_mandalorian_beskar_armor|Brnění Mandaloriánského beskara
+itm_mandalorian_beskar_boots|Boty Mandaloriánského beskara
+itm_defiler_helmet|Helma defilera
+itm_defiler_armor|Brnění defilera
+itm_defiler_boots|Boty defilera
+itm_black_sun_helmet|Helma černého slunce
+itm_black_sun_helmet_tan|Helma černého slunce
+itm_black_sun_helmet_teal|Helma černého slunce
+itm_black_sun_helmet_red|Helma černého slunce
+itm_black_sun_armor|Brnění černého slunce
+itm_black_sun_armor_tan|Brnění černého slunce
+itm_black_sun_armor_teal|Brnění černého slunce
+itm_black_sun_armor_red|Brnění černého slunce
+itm_gamorrean_armor|Gamorreanské brnění
+itm_moncal_armor|Brnění Mon Calamarianů
+itm_moncal_armor_2|Brnění Mon Calamarianů
+itm_moncal_boots|Boty Mon Calamarianů
+itm_moncal_helmet|Helma Mon Calamarianů
+itm_twilek_armor|Twi'lecké brnění
+itm_jawa_hood|Jawoská hlava
+itm_jawa_robe|Jawoská róba
+itm_jawa_boots|Jawoské boty
+itm_tusken_helmet|Tuskenská helma
+itm_tusken_armor|Tuskenské brnění
+itm_trandoshan_armor|Trandoshanské brnění
+itm_geonosian_armor|Geonosianské brnění
+itm_lightsaber_green_arena|Světelný meč
+itm_lightsaber_blue_arena|Světelný meč
+itm_lightsaber_yellow_arena|Světelný meč
+itm_lightsaber_red_arena|Světelný meč
+itm_lightsaber_green|Světelný meč
+itm_lightsaber_blue|Světelný meč
+itm_lightsaber_orange|Světelný meč
+itm_lightsaber_purple|Světelný meč
+itm_lightsaber_yellow|Světelný meč
+itm_lightsaber_red|Světelný meč
+itm_lightsaber_green_reverse|Světelný meč s obráceným uchopením
+itm_lightsaber_blue_reverse|Světelný meč s obráceným uchopením
+itm_lightsaber_orange_reverse|Světelný meč s obráceným uchopením
+itm_lightsaber_purple_reverse|Světelný meč s obráceným uchopením
+itm_lightsaber_yellow_reverse|Světelný meč s obráceným uchopením
+itm_lightsaber_red_reverse|Světelný meč s obráceným uchopením
+itm_lightsaber_blue_double|Obouruční světelný meč
+itm_lightsaber_green_double|Obouruční světelný meč
+itm_lightsaber_orange_double|Obouruční světelný meč
+itm_lightsaber_purple_double|Obouruční světelný meč
+itm_lightsaber_red_double|Obouruční světelný meč
+itm_lightsaber_yellow_double|Obouruční světelný meč
+itm_lightsaber_green_2h|Obouruční světelný meč
+itm_lightsaber_blue_2h|Obouruční světelný meč
+itm_lightsaber_orange_2h|Obouruční světelný meč
+itm_lightsaber_purple_2h|Obouruční světelný meč
+itm_lightsaber_yellow_2h|Obouruční světelný meč
+itm_lightsaber_red_2h|Obouruční světelný meč
+itm_lightsaber_green_1h|Jednoruční světelný meč
+itm_lightsaber_blue_1h|Jednoruční světelný meč
+itm_lightsaber_orange_1h|Jednoruční světelný meč
+itm_lightsaber_purple_1h|Jednoruční světelný meč
+itm_lightsaber_yellow_1h|Jednoruční světelný meč
+itm_lightsaber_red_1h|Jednoruční světelný meč
+itm_lightsaber_green_pike|Světelné kopí
+itm_lightsaber_blue_pike|Světelné kopí
+itm_lightsaber_orange_pike|Světelné kopí
+itm_lightsaber_purple_pike|Světelné kopí
+itm_lightsaber_yellow_pike|Světelné kopí
+itm_lightsaber_red_pike|Světelné kopí
+itm_darth_vader_lightsaber|Světelný meč Darth Vadera
+itm_obi_wan_lightsaber|Světelný meč Obi-Wana Kenobi
+itm_luke_skywalker_lightsaber|Světelný meč Luka Skywalkera
+itm_anakin_skywalker_lightsaber|Světelný meč Anakina Skywalkera
+itm_lightsaber_red_multikill|Světelný meč s více zásahy (ve vývoji)
+itm_melee_punch| 
+itm_durasteel_staff|Hůl z durasteelu
+itm_electro_staff_medium|Elektrická tyč
+itm_electro_staff_long|Elektrická tyč
+itm_gamorrean_axe_1h|Jednoručná Gamoreanská sekera
+itm_gamorrean_axe_2h|Obouruční Gamoreanská sekera
+itm_vibro_axe_medium_1h|Jednoruční vibro sekera
+itm_vibro_axe_medium_2h|Obouruční vibro sekera
+itm_vibro_axe_long_1h|Jednoruční vibro sekera
+itm_vibro_axe_long_2h|BD-1 řezací vibro sekera
+itm_tusken_gaffi_staff|Gaffi hůl
+itm_tusken_gaffi_stick|Gaffi tyč
+itm_durasteel_mace|Palcát z durasteelu
+itm_baton|Obušek
+itm_trandoshan_blade|Trandoshanská čepel
+itm_durasteel_bat|Pálka z durasteelu
+itm_force_pike|Silné kopí
+itm_geonosian_static_pike|Geonosianské statické kopí
+itm_pipe1|Trubka
+itm_pipe2|Trubka
+itm_ryyk_blade|Ryykská čepel
+itm_ryyk_kerarthorr|Ryykská Kerathorrovo ostří
+itm_ryyk_blade_chieftain|Čepel Ryykského náčelníka
+itm_sith_sword|Sithský meč
+itm_combat_knife|Bojový nůž
+itm_twilek_dagger|Twilekská dýka
+itm_vibro_knuckler|Vibro drtič
+itm_vibro_blade1|Vibro čepel
+itm_vibro_blade2|Vibro čepel
+itm_vibro_blade3|Vibro čepel
+itm_vibro_blade4|Vibro čepel
+itm_vibro_sword1b|Vibro meč
+itm_vibro_sword2b|Obouruční vibro meč
+itm_vibro_sword3_gold|Vibro meč
+itm_vibro_sword3_blue|Vibro meč
+itm_vibro_sword3_red|Vibro meč
+itm_tutorial_lightsaber|Světelný meč
+itm_practice_vibro_axe_medium|Gamorreanská vibro sekera
+itm_practice_vibro_axe_long|BD-1 řezací vibro sekera
+itm_practice_vibro_axe_long_no_attack|BD-1 řezací vibro sekera
+itm_practice_vibro_blade|Vibro čepel
+itm_practice_vibro_sword3a|Vibro meč
+itm_practice_vibro_sword2b|Obouruční vibro meč
+itm_practice_vibro_sword1b|vibro meč
+itm_quick_battle_armor|Brnění
+itm_transparent_helmet_armor|Průhledná helma s brněním
+itm_twilek_female_helmet_armor|Twilekská dámská helma s brněním
+itm_twilek_male_head_bib|Hlava Biba Fortuny
+itm_weequay_head_helmet_a|Hlava Weequaya
+itm_weequay_head_helmet_b|Hlava Weequaya
+itm_klatooinian_head_helmet_a|Klatooinianská hlava
+itm_nikto_head_helmet_a|Niktova hlava
+itm_nikto_head_helmet_b|Niktova hlava
+itm_nikto_head_helmet_c|Niktova hlava
+itm_tarkin_head|Hlava Grand Moff Tarkina
+itm_ben_head|Hlava Bena Kenobiho
+itm_leia_head|Hlava Leiy Organy
+itm_rancor_body_a|Rancorovo tělo
+itm_rancor_body_b|Rancorovo tělo
+itm_rancor_body_c|Rancorovo tělo
+itm_rancor_attack| 
+itm_rancor_keeper_armor|Brnění hlídače rancorů
+itm_yoda_armor|Yodovo brnění s židlý
+itm_yoda_lightsaber|Yodův světelný meč
+itm_yoda_speeder|Yodův neviditelný kluzák
+itm_jabba_armor|Jabbovo brnění s židlý
+itm_jabba_attack|Jabbův žádný útok
+itm_jabba_speeder|Jabbův neviditelný kluzák
+itm_transparent_head|Neviditelná hlava
+itm_transparent_body|Neviditelné tělo
+itm_transparent_hands|Neviditelné ruce
+itm_transparent_feet|Neviditelné chodidla
+itm_darth_vader_helmet|Helma Darth Vadera
+itm_darth_vader_armor|Brnění Darth Vadera
+itm_darth_vader_feet|Nohy Darth Vadera
+itm_princess_leia_outfit|Oblek Princezny Lei
+itm_princess_leia_blaster|DDC obránce princezny Lei
+itm_han_solo_outfit|Oblek Hana Sola
+itm_han_solo_blaster|DL-44 Hana Sola
+itm_luke_skywalker_outfit|Oblek Luka Skywalkera
+itm_chewbacca_bowcaster|Chewbaccova kuše
+itm_chewbacca_ryyk_blade|Chewbaccova Ryykská čepel
+itm_boba_fett_armor|Brnění Boba Fetta
+itm_boba_fett_helmet|Helma Boba Fetta
+itm_boba_fett_boots|Boty Boba Fetty
+itm_boba_fett_blaster|EE-3 Boba Fetty
+itm_joruus_lightsaber|Cbaothův světelný meč
+itm_dengar_armor|Dengarovo brnění
+itm_dengar_helmet|Dengarův obal na hlavu
+itm_dengar_boots|Dengarovy boty
+itm_dengar_gloves|Dengarovy rukavice
+itm_weequay_vibro_axe|Weequayova vibro sekera
+itm_force_throw_lightsaber_green|Světelný meč -házecí
+itm_force_throw_lightsaber_blue|Světelný meč -házecí
+itm_force_throw_lightsaber_orange|Světelný meč -házecí
+itm_force_throw_lightsaber_purple|Světelný meč -házecí
+itm_force_throw_lightsaber_yellow|Světelný meč -házecí
+itm_force_throw_lightsaber_red|Světelný meč -házecí
+itm_force_throw_lightsaber_green_merch|Světelný meč -házecí
+itm_force_throw_lightsaber_blue_merch|Světelný meč -házecí
+itm_force_throw_lightsaber_orange_merch|Světelný meč -házecí
+itm_force_throw_lightsaber_purple_merch|Světelný meč -házecí
+itm_force_throw_lightsaber_yellow_merch|Světelný meč -házecí
+itm_force_throw_lightsaber_red_merch|Světelný meč -házecí
+itm_force_throw_lightsaber_green_pike|Světelné kopí -házecí
+itm_force_throw_lightsaber_blue_pike|Světelné kopí -házecí
+itm_force_throw_lightsaber_orange_pike|Světelné kopí -házecí
+itm_force_throw_lightsaber_purple_pike|Světelné kopí -házecí
+itm_force_throw_lightsaber_yellow_pike|Světelné kopí -házecí
+itm_force_throw_lightsaber_red_pike|Světelné kopí -házecí
+itm_force_throw_lightsaber_red_double|Obouruční světelný meč - házecí
+itm_twilek_dagger_throwing|Twilekské házecí dýky
+itm_discblade|Disková čepel 
+itm_thermal_detonator1|Tepelný detonátor
+itm_thermal_detonator2|Tepelný detonátor
+itm_thermal_detonator3|Tepelný detonátor
+itm_energy_shield_red_small|Malý energetický štít
+itm_energy_shield_blue_small|Malý energetický štít
+itm_energy_shield_green_small|Malý energetický štít
+itm_energy_shield_yellow_small|Malý energetický štít
+itm_energy_shield_red_medium|Střední energetický štít
+itm_energy_shield_blue_medium|Střední energetický štít
+itm_energy_shield_green_medium|Střední energetický štít
+itm_energy_shield_yellow_medium|Střední energetický štít
+itm_energy_shield_red_large|Velký enrgetický štít
+itm_energy_shield_blue_large|Velký enrgetický štít
+itm_energy_shield_green_large|Velký enrgetický štít
+itm_energy_shield_yellow_large|Velký enrgetický štít
+itm_energy_shield_oval|Kulatý energetický štít
+itm_energy_shield_circle|Kruhový energetický štít
+itm_durasteel_shield_small|Malý Durasteelový štít
+itm_durasteel_shield_small_2|Malý Durasteelový štít
+itm_durasteel_shield_large|Velký Durasteelový štít
+itm_wookiee_shield_small|Malý Wookieeský štít
+itm_wookiee_shield_large|Velký Wookieeský štít
+itm_westar_shield|Štít Westar-34
+itm_ryyk_kerarthorr_shield|Ryykský štít z kerarthoru
+itm_ryyk_blade_shield|Ryykský čepelní štít
+itm_lightsaber_block_blue|Světelný štít
+itm_lightsaber_block_green|Světelný štít
+itm_lightsaber_block_orange|Světelný štít
+itm_lightsaber_block_purple|Světelný štít
+itm_lightsaber_block_red|Světelný štít
+itm_lightsaber_block_yellow|Světelný štít
+itm_force_block|Síla - blok
+itm_force_shield|Síla - štít
+itm_force_protect|Síla - ochrana
+itm_hero_shield|Neviditelný štít
+itm_practice_energy_shield|Cvičný energetický štít
+itm_tutorial_energy_shield|Energetický štít - tutoriál
+itm_force_throw_lightsaber_t|Světelný meč -házecí
+itm_force_throw_lightsaber_tl|Světelný meč -házecí
+itm_force_lightning_ammo|Síla -blesky
+itm_force_push_ammo|Síla - zatlačení
+itm_laser_bolts_green_pistol|Plasmový zásobník
+itm_laser_bolts_red_pistol|Plasmový zásobník
+itm_laser_bolts_orange_pistol|Plasmový zásobník
+itm_laser_bolts_yellow_pistol|Plasmový zásobník
+itm_laser_bolts_blue_pistol|Plasmový zásobník
+itm_stun_beam_pistol|Omračující zásobník
+itm_ion_beam_pistol|Iontový zásobník
+itm_sonic_beam_pistol|Sonický zásobník
+itm_ammo_belt_pistol|Pás s náboji
+itm_disruptor_ammo|Disruptorové náboje do pistole
+itm_laser_bolts_green_rifle|Plasmový zásobník
+itm_laser_bolts_red_rifle|Plasmový zásobník
+itm_laser_bolts_orange_rifle|Plasmový zásobník
+itm_laser_bolts_yellow_rifle|Plasmový zásobník
+itm_laser_bolts_blue_rifle|Plasmový zásobník
+itm_stun_beam_rifle|Omračující zásobník
+itm_ion_beam_rifle|Iontový zásobník
+itm_sonic_beam_rifle|Sonický zásobník
+itm_ammo_belt_rifle|Pásek s náboji
+itm_disruptor_ammo_rifle|Disruptorové náboje pro pušku
+itm_laser_bolts_training_pistol|Laserové střely
+itm_laser_bolts_training_rifle|Laserové střely
+itm_force_power_ls_1|Začátečníkovy síly
+itm_force_power_ls_2|Učebníkovy síly
+itm_force_power_ls_3|Rytířovy síly
+itm_force_power_ls_4|Mistrovy síly
+itm_force_power_ds_1|Začátečníkovy síly
+itm_force_power_ds_2|Učebníkovy síly
+itm_force_power_ds_3|Rytířovy síly
+itm_force_power_ds_4|Mistrovy síly
+itm_force_jump|Síla - skok
+itm_a280|A-280
+itm_a280_crouch|A-280
+itm_a280_stun|Omračující A-280
+itm_a295|A-295
+itm_a295_crouch|A-295
+itm_a295_stun|Omračující A-295
+itm_mandalorian_heavy_blaster|Mandaloriánský těžký blaster
+itm_corellian_destroyer_blaster|Corellianský blaster ničitel
+itm_dlt19|DLT-19
+itm_dlt19_scope|DLT-19 s optikou
+itm_dlt20a|DLT-20A
+itm_e17d|E-17d
+itm_dc15a|DC-15A
+itm_dc15a_hip|DC-15A
+itm_dc15s|DC-15S
+itm_trandoshan_acp_array_gun|Trandoshanská řadová ACP zbraň
+itm_trandoshan_stun_gun|Trandoshanská omračující zbraň
+itm_quicksnap_36t|Rychlý blesk 36T
+itm_bothan_bola_carabine|Bothanská karabina
+itm_ee3|EE-3
+itm_ee3_stun|Omračující EE-3
+itm_mg15|RT-97C
+itm_e5|E-5
+itm_e11|E-11
+itm_e11_hip|E-11
+itm_e11_stun|Omračující E-11
+itm_wookiee_bowcaster|Kuše
+itm_kashyyyk_long_gun|Kashyyykská dlouhá zbraň
+itm_tusken_rifle|Tuskenská puška
+itm_geonosian_sonic_rifle|Geonosianská sonická puška
+itm_t21|T-21
+itm_senate_rifle|Puška ochranky
+itm_kisteer_1284|KiSteer 1284
+itm_ion_blaster|Iontový blaster
+itm_heavy_repeater|Imperialní těžký opakovač
+itm_storm_rifle|Stormtrooperova puška
+itm_dh17|DH-17
+itm_dh17_stun|Omračující DH-17
+itm_se14r|SE-14R
+itm_dl44a|DL-44
+itm_dl44a_stun|Omračující DL-44
+itm_dl44b|Modifikovaný DL-44
+itm_q2|Q2
+itm_q2_stun|Omračující Q2
+itm_elg3a|ELG-3A
+itm_elg3a_stun|Omračující ELG-3A
+itm_scout_trooper_pistol|Pistole Skaut troopera
+itm_ddc_defender|DDC obránce
+itm_geonosian_sonic_pistol|Geonosianská sonická pistole
+itm_dl18|DL-18
+itm_westar|Westar-34
+itm_westar_stun|Westar-34
+itm_ion_pistol|Iontová pistole
+itm_trandoshan_supressor|Trandoshanský potlačitel
+itm_wrist_blaster|Wrist jezdecký blaster
+itm_practice_dl44|DL-44
+itm_dl44a_training|DL-44
+itm_dlt19_training|DLT-19 s optikou
+itm_heavy_weapons_ammo|Náboje do těžkých zbraní
+itm_rocket_launcher|RDP-12 raketomet (ve vývoji)
+itm_flame_rifle|CR-24 plamenomet (ve vývoji)
+itm_concussion_rifle|W-90 otřesitel (ve vývoji)
+itm_force_kill|Síla - smrt
+itm_force_choke|Síla - škrcení
+itm_force_knockdown|Síla - svalení
+itm_force_stun|Síla - omráčení
+itm_speeder|Civilní 74-Z kluzák
+itm_speeder_rebel|Vojenský 74-Z kluzák
+itm_speeder_imperial|Vojenský Z4-Z kluzák
+itm_speeder_hutt|Vojenský Z4-Z kluzák
+itm_speeder_shadow|Stínový 74-Z kluzák
+itm_speeder_fc20|FC-20 kluzák
+itm_horus_winged_cruiser|Okřídlený křížník
+itm_speeder_dagger|Čepelovitý 74-Z kluzák
+itm_practice_speeder|Civilní 74-Z kluzák
+itm_arena_speeder|Civilní 74-Z kluzák
