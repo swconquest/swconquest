@@ -20,7 +20,7 @@ itm_book_ironflesh_reference|Escudo Personal
 itm_book_horse_archery_reference|Mirilla Láser
 itm_book_training_reference|Robot de Entrenamiento
 itm_book_surgery_reference|Tanque de Bacta
-itm_smoked_fish|Pescado
+itm_smoked_fish|Pescado Ahumado
 itm_dried_meat|Carne de Nerf
 itm_cattle_meat|Carne de Nerf
 itm_bantha_steak|Filete de Bantha
@@ -31,14 +31,14 @@ itm_carbohydrate_pack|Pack de Carbohidratos
 itm_apples|Manzanas
 itm_blue_milk|Leche Azul
 itm_mujo_fruit|Fruta de Mujo
-itm_cheese|Queso de Byss
+itm_cheese|Queso de Christophsis
 itm_chicken|Pollo
 itm_protein_pack|Pack Proteínico
 itm_honey|Miel
 itm_sausages|Salchichas de Nerf
 itm_cabbages|Coles
 itm_bristle_melon|Melón de Bristle
-itm_butter|Mantequlla de Bantha
+itm_butter|Mantequilla de Bantha
 itm_container_spice_1|Cargamento de Especias de Ryll
 itm_container_spice_2|Cargamento de Especias de Gree
 itm_container_spice_3|Cargamento de Especias de Brillestim
@@ -54,7 +54,7 @@ itm_container_drink_2|Cargamento de Cerveza Negra
 itm_container_drink_3|Cargamento de zumo de Juri
 itm_carbonite_tibanna|Cargamento de Gas Tibanna en Carbonita
 itm_container_ore|Contenedor de mineral
-itm_butter|Mantequlla de Bantha
+itm_butter|Mantequilla de Bantha
 itm_wine|Vino Mandaloriano
 itm_ale|Cerveza Corelliana
 itm_spice|Especias
@@ -71,7 +71,7 @@ itm_pottery|Cerámica Geonosiana
 itm_linen|Seda de Lashaa
 itm_furs|Pelo de Ewok
 itm_wookiee_fur|Piel de Wookie
-itm_trandoshan_skin|Piel de Trandoshane
+itm_trandoshan_skin|Piel Trandoshana
 itm_droid_parts|Partes de Droide
 itm_wool|Lana de Nerf
 itm_velvet|Terciopelo de Naboo
@@ -98,7 +98,7 @@ itm_shirt|Camisa
 itm_linen_tunic|Túnica de Lino
 itm_short_tunic|Túnica de Rico
 itm_robe|Túnica
-itm_coarse_tunic|Coarse Túnica
+itm_coarse_tunic|Túnica gruesa
 itm_leather_apron|Delantal de Cuero
 itm_tabard|Tabardo
 itm_leather_vest|Vestido de Cuero
@@ -131,15 +131,15 @@ itm_rich_outfit|Vestimenta de Adinerado
 itm_black_hood|Capucha negra
 itm_light_leather|Cuero Ligero
 itm_light_leather_boots|Botas de Cuero Ligero
-itm_black_gloves|Guantes
-itm_black_gloves_long|Guantes
-itm_right_hand_glove|Guantes
+itm_black_gloves|Guantes Negros
+itm_black_gloves_long|Guantes largos negros
+itm_right_hand_glove|Guante de la mano derecha
 itm_grey_gloves|Guantes Grises
-itm_darkgrey_gloves|Guantes Grises
+itm_darkgrey_gloves|Guantes gris oscuros
 itm_lady_gloves|Guantes de Mujer
 itm_mandalorian_crushgaunts|Guantes Mandalorianos
-itm_imperial_royal_guard_gloves|Guantes del Imperio
-itm_imperial_stormtrooper_gloves|Guantes del Imperio
+itm_imperial_royal_guard_gloves|Guantes de la Guardia Real Imperial
+itm_imperial_stormtrooper_gloves|Guantes de soldado de asalto imperial
 itm_novatrooper_gloves|Guantes de NovaSoldado
 itm_incinerator_trooper_gloves|Guantes de soldado Incinerador
 itm_clone_trooper_gloves_white|Guantes de Soldado Clon
@@ -155,13 +155,13 @@ itm_black_boots|Botas Negras
 itm_black_boots_reinforced|Botas Negras Reforzadas
 itm_grey_boots|Botas Grises
 itm_white_boots|Botas Blancas
-itm_white_boots_reinforced|Botas Imperiales
-itm_imperial_royal_guard_boots|Botas Imperiales
+itm_white_boots_reinforced|Botas blancas reforzadas
+itm_imperial_royal_guard_boots|Botas de guardia real Imperial
 itm_imperial_stormtrooper_boots|Botas de soldado Imperial
 itm_imperial_stormtrooper_boots_incinerator|Botas de soldado Incinerador
 itm_imperial_stormtrooper_boots_novatrooper|Botas de NovaSoldado
-itm_imperial_scout_trooper_boots|Botas de soldado Imperial
-itm_shadow_scout_trooper_boots|Botas Imperiales
+itm_imperial_scout_trooper_boots|Botas de Soldado de Reconocimiento Imperial
+itm_shadow_scout_trooper_boots|Botas de Soldado de Reconocimiento Sombrío
 itm_clone_trooper_boots|Botas de Soldado Clon
 itm_lobot_headgear|Borg Constructo Aj^6
 itm_glasses_black|Gafas de Precisión
@@ -169,8 +169,8 @@ itm_glasses_yellow|Gafas de Precisión
 itm_eyepiece_tactics|Soporte Táctico
 itm_eyepiece_leadership|Soporte de Liderazgo
 itm_slave_neck_chain|Collar de Esclavo
-itm_officer_hat_white|Gorro de Oficial
-itm_civilian_cloak_hood|Capa de ciudadano
+itm_officer_hat_white|Gorra de Oficial
+itm_civilian_cloak_hood|Capa de ciudadano con capucha
 itm_imperial_hat_green|Gorra Imperial
 itm_imperial_hat_black|Gorra Imperial
 itm_imperial_hat_grey|Gorra Imperial
@@ -182,13 +182,13 @@ itm_transparent_helmet|Casco Transparente
 itm_imperial_trooper_helmet|Casco de Soldado Imperial
 itm_imperial_gunner_helmet|Casco de Pistolero Imperial
 itm_imperial_navy_trooper_helmet|Casco de la Armada Imperial
-itm_mercenary_helmet|Casco Mercenario
-itm_trandoshan_mask|Máscara Trandoshane
-itm_trandoshan_helmet|Casco Trandoshana
+itm_mercenary_helmet|Casco de Mercenario
+itm_trandoshan_mask|Máscara Trandoshana
+itm_trandoshan_helmet|Casco Trandoshano
 itm_cap_military|Gorra
 itm_cap_civilian_a|Gorra
 itm_ewok_hat|Sombrero de Ewok
-itm_rancor_keeper_hat|Sombrero de Guardia Ráncor
+itm_rancor_keeper_hat|Sombrero de Guardian de Ráncor
 itm_rodian_ventilator|Ventilador Rodiano
 itm_rodian_ventilator_black|Ventilador Rodiano
 itm_rodian_ventilator_red|Ventilador Rodiano
@@ -213,8 +213,8 @@ itm_clone_trooper_helmet_yellow|Casco de Soldado Clon
 itm_clone_trooper_helmet_orange|Casco de Soldado Clon
 itm_clone_trooper_helmet_mand|Casco de Soldado Clon
 itm_clone_trooper_helmet_lux|Casco de Soldado Clon
-itm_imperial_scout_trooper_helmet|Casco de Reconocimiento Imperial
-itm_shadow_scout_trooper_helmet|Casco de Reconocimiento Sombra
+itm_imperial_scout_trooper_helmet|Casco de Soldado de Reconocimiento Imperial
+itm_shadow_scout_trooper_helmet|Casco de Soldado de Reconocimiento Sombrío
 itm_republic_pilot_helmet|Casco de Piloto Rebelde
 itm_republic_commando_helmet|Casco de Comando Rebelde
 itm_republic_commando_desert_helmet|Casco de Rebelde Pesado del Desierto
@@ -325,8 +325,8 @@ itm_jedi_initiate_robe|Vestimenta de Iniciado
 itm_jedi_padawan_robe|Vestimenta de Padawan
 itm_sith_acolyte_outfit|Vestimenta de Acólito Sith
 itm_sith_apprentice_outfit|Vestimenta de Aprendiz Sith
-itm_imperial_scout_trooper_armor|Armadura de Reconocimiento Imperial
-itm_shadow_scout_trooper_armor|Armadura de Reconocimiento de las Sombras
+itm_imperial_scout_trooper_armor|Armadura de Soldado de Reconocimiento Imperial
+itm_shadow_scout_trooper_armor|Armadura de Soldado de Reconocimiento Sombrío
 itm_republic_pilot_armor|Armadura de Piloto Rebelde
 itm_republic_commando_armor|Armadura de Comando Rebelde
 itm_republic_commando_desert_armor|Armadura de Comando Rebelde del Desierto
@@ -447,13 +447,13 @@ itm_3poseries_gold|Serie 3PO Dorada
 itm_3poseries_blue|Serie 3PO Azul
 itm_3poseries_red|Serie 3PO Roja
 itm_3poseries_grey|Serie 3PO Gris
-itm_3poseries_attack|Serie 3PO de Ataque
+itm_3poseries_attack|Ataque cuerpo a cuerpo de serie 3PO
 itm_b1series_body|Cuerpo de Droide de Batalla Serie B1
-itm_bxseries_body|BX-Series Commando Droid Body
-itm_oomseries_body|OOM Security Droid Body
-itm_oomseries_pilot_body|OOM Pilot Droid Body
-itm_oomseries_marine_body|OOM Marine Droid Body
-itm_oomseries_command_body|OOM Command Droid Body
+itm_bxseries_body|Cuerpo de droide comando serie BX
+itm_oomseries_body|Cuerpo de droide de seguridad OOM
+itm_oomseries_pilot_body|Cuerpo de droide Piloto OOM
+itm_oomseries_marine_body|Cuerpo de droide Marine OOM
+itm_oomseries_command_body|Cuerpo de Droide Comandante OOM
 itm_battle_droid_attack|Ataque cuerpo a Cuerpo de Droide
 itm_b2series_body|Cuerpo de Droide de Batalla Serie B2
 itm_b2series_body_enhanced|Cuerpo de Droide de Batalla Serie C-B3
@@ -555,12 +555,12 @@ itm_lightsaber_orange_2h|Sable de Luz a dos Manos
 itm_lightsaber_purple_2h|Sable de Luz a dos Manos
 itm_lightsaber_yellow_2h|Sable de Luz a dos Manos
 itm_lightsaber_red_2h|Sable de Luz a dos Manos
-itm_lightsaber_green_1h|Sable de Luz
-itm_lightsaber_blue_1h|Sable de Luz
-itm_lightsaber_orange_1h|Sable de Luz
-itm_lightsaber_purple_1h|Sable de Luz
-itm_lightsaber_yellow_1h|Sable de Luz
-itm_lightsaber_red_1h|Sable de Luz
+itm_lightsaber_green_1h|Sable de Luz a una mano
+itm_lightsaber_blue_1h|Sable de Luz a una mano
+itm_lightsaber_orange_1h|Sable de Luz a una mano
+itm_lightsaber_purple_1h|Sable de Luz a una mano
+itm_lightsaber_yellow_1h|Sable de Luz a una mano
+itm_lightsaber_red_1h|Sable de Luz a una mano
 itm_lightsaber_green_pike|Pica Jedi
 itm_lightsaber_blue_pike|Pica Jedi
 itm_lightsaber_orange_pike|Pica Jedi
@@ -586,7 +586,7 @@ itm_tusken_gaffi_staff|Bastón Gaffi
 itm_tusken_gaffi_stick|Palo Gaffi
 itm_durasteel_mace|Maza de Duracero
 itm_baton|Porra
-itm_trandoshan_blade|Filo Trandoshane
+itm_trandoshan_blade|Filo Trandoshano
 itm_durasteel_bat|Bate de Duracero
 itm_force_pike|Pica de Fuerza
 itm_geonosian_static_pike|Pica Geonosiana
