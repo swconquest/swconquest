@@ -137,10 +137,10 @@ itm_right_hand_glove|Guante de la mano derecha
 itm_grey_gloves|Guantes Grises
 itm_darkgrey_gloves|Guantes gris oscuros
 itm_lady_gloves|Guantes de Mujer
-itm_mandalorian_crushgaunts|Guantes Mandalorianos
+itm_mandalorian_crushgaunts|Guantes Trituradores Mandalorianos
 itm_imperial_royal_guard_gloves|Guantes de la Guardia Real Imperial
 itm_imperial_stormtrooper_gloves|Guantes de soldado de asalto imperial
-itm_novatrooper_gloves|Guantes de NovaSoldado
+itm_novatrooper_gloves|Guantes de Novasoldado
 itm_incinerator_trooper_gloves|Guantes de soldado Incinerador
 itm_clone_trooper_gloves_white|Guantes de Soldado Clon
 itm_clone_trooper_gloves_green|Guantes de Soldado Clon
@@ -148,7 +148,7 @@ itm_clone_trooper_gloves_blue|Guantes de Soldado Clon
 itm_clone_trooper_gloves_red|Guantes de Soldado Clon
 itm_clone_trooper_gloves_yellow|Guantes de Soldado Clon
 itm_clone_trooper_gloves_orange|Guantes de Soldado Clon
-itm_grey_gloves_with_bottle|Guantes
+itm_grey_gloves_with_bottle|Guantes grises con botella
 itm_leather_boots|Botas de Cuero
 itm_leather_boots_reinforced|Botas de Cuero Reforzado
 itm_black_boots|Botas Negras
@@ -159,15 +159,15 @@ itm_white_boots_reinforced|Botas blancas reforzadas
 itm_imperial_royal_guard_boots|Botas de guardia real Imperial
 itm_imperial_stormtrooper_boots|Botas de soldado Imperial
 itm_imperial_stormtrooper_boots_incinerator|Botas de soldado Incinerador
-itm_imperial_stormtrooper_boots_novatrooper|Botas de NovaSoldado
+itm_imperial_stormtrooper_boots_novatrooper|Botas de Novasoldado
 itm_imperial_scout_trooper_boots|Botas de Soldado de Reconocimiento Imperial
 itm_shadow_scout_trooper_boots|Botas de Soldado de Reconocimiento Sombrío
 itm_clone_trooper_boots|Botas de Soldado Clon
-itm_lobot_headgear|Borg Constructo Aj^6
+itm_lobot_headgear|Constructo Borg Aj^6
 itm_glasses_black|Gafas de Precisión
 itm_glasses_yellow|Gafas de Precisión
 itm_eyepiece_tactics|Soporte Táctico
-itm_eyepiece_leadership|Soporte de Liderazgo
+itm_eyepiece_leadership|Soporte ocular de Liderazgo
 itm_slave_neck_chain|Collar de Esclavo
 itm_officer_hat_white|Gorra de Oficial
 itm_civilian_cloak_hood|Capa de ciudadano con capucha
@@ -193,15 +193,15 @@ itm_rodian_ventilator|Ventilador Rodiano
 itm_rodian_ventilator_black|Ventilador Rodiano
 itm_rodian_ventilator_red|Ventilador Rodiano
 itm_gamorrean_helmet|Casco Gamorreano
-itm_fang_helmet|Casco de Colmillo
-itm_beak_helmet|Casco de Pico
+itm_fang_helmet|Casco del Colmillo
+itm_beak_helmet|Casco Ganchudo
 itm_gas_mask|Máscara anti-Gas
 itm_mining_helmet|Casco de Minero
-itm_pipe_helmet|Casco de Tubería
+itm_pipe_helmet|Casco de cañería
 itm_skiff_guard_helmet|Casco de Guardia del Esquife
 itm_imperial_stormtrooper_helmet|Casco de Soldado Imperial
 itm_imperial_stormtrooper_helmet_incinerator|Casco de Incinerador Imperial
-itm_imperial_stormtrooper_helmet_novatrooper|Casco de NovaSoldado
+itm_imperial_stormtrooper_helmet_novatrooper|Casco de Novasoldado
 itm_imperial_pilot_helmet|Casco de Piloto Imperial
 itm_clone_trooper_head|Cabeza de Soldado Clon
 itm_clone_trooper_head_scar|Cabeza de Soldado Clon
@@ -217,8 +217,8 @@ itm_imperial_scout_trooper_helmet|Casco de Soldado de Reconocimiento Imperial
 itm_shadow_scout_trooper_helmet|Casco de Soldado de Reconocimiento Sombrío
 itm_republic_pilot_helmet|Casco de Piloto Rebelde
 itm_republic_commando_helmet|Casco de Comando Rebelde
-itm_republic_commando_desert_helmet|Casco de Rebelde Pesado del Desierto
-itm_republic_commando_urban_helmet|Casco de Rebelde Pesado Urbano
+itm_republic_commando_desert_helmet|Casco del Desierto de Rebelde Pesado
+itm_republic_commando_urban_helmet|Casco Urbano de Rebelde Pesado
 itm_rebel_sniper_helmet|Casco de Francotirador Rebelde
 itm_jedi_knight_hood|Capucha Caballero Jedi
 itm_jedi_knight_hood_unique|Capucha Caballero Jedi
@@ -266,10 +266,10 @@ itm_female_outfit_femcongrey|Vestimenta de Mujer
 itm_female_outfit_femconorange|Vestimenta de Mujer
 itm_female_outfit_femconwhite|Vestimenta de Mujer
 itm_female_outfit_femconwhitebrown|Vestimenta de Mujer
-itm_outfit_tan|Mono
-itm_outfit_grey|Mono
-itm_outfit_black|Mono
-itm_outfit_green|Mono
+itm_outfit_tan|Mono de trabajo
+itm_outfit_grey|Mono de trabajo
+itm_outfit_black|Mono de trabajo
+itm_outfit_green|Mono de trabajo
 itm_vest_open_a|Chaleco Abierto
 itm_vest_open_b|Chaleco Abierto
 itm_vest_closed_a|Chaleco Cerrado
@@ -329,12 +329,12 @@ itm_imperial_scout_trooper_armor|Armadura de Soldado de Reconocimiento Imperial
 itm_shadow_scout_trooper_armor|Armadura de Soldado de Reconocimiento Sombrío
 itm_republic_pilot_armor|Armadura de Piloto Rebelde
 itm_republic_commando_armor|Armadura de Comando Rebelde
-itm_republic_commando_desert_armor|Armadura de Comando Rebelde del Desierto
+itm_republic_commando_desert_armor|Armadura del Desierto de Comando Rebelde
 itm_republic_commando_urban_armor|Armadura Urbana de Comando Rebelde
 itm_rebel_sniper_armor|Armadura de Francotirador Rebelde
 itm_imperial_stormtrooper_armor|Armadura de Soldado Imperial
 itm_imperial_stormtrooper_armor_incinerator|Armadura de Incinerador Imperial
-itm_imperial_stormtrooper_armor_novatrooper|Armadura de NovaSoldado
+itm_imperial_stormtrooper_armor_novatrooper|Armadura de Novasoldado
 itm_imperial_stormtrooper_armor|Armadura de Soldado Imperial
 itm_rebel_honor_guard_armor|Armadura de Guardia Rebelde
 itm_clone_trooper_armor_white|Armadura de Soldado Clon
@@ -355,7 +355,7 @@ itm_arc_trooper_armor_lux|Armadura de Soldado Clon ARC
 itm_skiff_guard_armor_brown|Armadura de Guardia del Esquife
 itm_skiff_guard_armor_grey|Armadura de Guardia del Esquife
 itm_skiff_guard_armor_white|Armadura de Guardia del Esquife
-itm_hutt_palace_guard_armor|Armadura de Guardia del Palacio
+itm_hutt_palace_guard_armor|Armadura Hutt de Guardia del Palacio
 itm_jedi_knight_robe|Túnica de Caballero Jedi
 itm_jedi_knight_robe_unique|Túnica de Caballero Jedi
 itm_jedi_guardian_robe_a|Túnica de Guardián Jedi
@@ -396,7 +396,7 @@ itm_sith_marauder_robe_d|Túnica de Merodeador Sith
 itm_sith_master_robe|Túnica de Maestro Sith
 itm_sith_master_robe_unique|Túnica de Maestro Sith
 itm_guard_armor|Armadura de Guardia
-itm_guard_armor_red|Armadura de Guardia
+itm_guard_armor_red|Armadura de Guardian
 itm_blast_armor_black|Armadura Fulminante
 itm_blast_armor_red|Armadura Fulminante
 itm_blast_armor_grey|Armadura Fulminante
@@ -408,18 +408,18 @@ itm_wookiee_armor1_merch|Armadura Wookiee
 itm_wookiee_armor2|Armadura Wookiee
 itm_wookiee_armor2_merch|Armadura Wookiee
 itm_wookiee_hunter_armor|Armadura de Cazador Wookiee
-itm_wookiee_hunter_helmet|Casco de Cazador Wookie
+itm_wookiee_hunter_helmet|Casco de Cazador Wookiee
 itm_wookiee_female_head|Cabeza de Hembra Wookiee
 itm_wookiee_female_body|Cuerpo de Hembra Wookiee
 itm_wookiee_female_hands|Manos de Hembra Wookiee
 itm_wookiee_female_feet|Pies de Hembra Wookiee
 itm_kaminoan_female_head|Cabeza de Kaminoana
 itm_kaminoan_female_body|Cuerpo de Kaminoana
-itm_droid_weapon_no_attack|Droid Melee Weapon (No Attack)
-itm_r2series_blue|Serie-R2 Azul
-itm_r2series_green|Serie-R2 Verde
-itm_r2series_orange|Serie-R2 Naranja
-itm_r2series_purple|Serie-R2 Morado
+itm_droid_weapon_no_attack|Arma cuerpo a cuerpo de Droide (Sin ataque)
+itm_r2series_blue|Droide R2 Azul
+itm_r2series_green|Droide R2 Verde
+itm_r2series_orange|Droide R2 Naranja
+itm_r2series_purple|Droide R2 Morado
 itm_mse6_armor|Cuerpo de Droide MSE
 itm_lin_droid_armor|Cuerpo de Droide LIN
 itm_lin_droid_armor_w_arm|Cuerpo de Droide LIN
@@ -427,33 +427,33 @@ itm_power_droid_grey|Droide Energético
 itm_power_droid_snow|Droide Energético
 itm_power_droid_tan|Droide Energético
 itm_fxseries_droid_armor|Cuerpo de Droide Médico Serie FX
-itm_c3po_blue_head|Cabeza de Serie 3PO
-itm_c3po_blue_hands|Manos de Serie 3PO
-itm_c3po_blue_body|Cuerpo de Serie 3PO
-itm_c3po_blue_feet|Pies de Serie 3PO
-itm_c3po_gold_head|Cabeza de Serie 3PO
-itm_c3po_gold_hands|Manos de Serie 3PO
-itm_c3po_gold_body|Cuerpo de Serie 3PO
-itm_c3po_gold_feet|Pies de Serie 3PO
-itm_c3po_grey_head|Cabeza de Serie 3PO
-itm_c3po_grey_hands|Manos de Serie 3PO
-itm_c3po_grey_body|Cuerpo de Serie 3PO
-itm_c3po_grey_feet|Pies de Serie 3PO
-itm_c3po_red_head|Cabeza de Serie 3PO
-itm_c3po_red_hands|Manos de Serie 3PO
-itm_c3po_red_body|Cuerpo de Serie 3PO
-itm_c3po_red_feet|Pies de Serie 3PO
-itm_3poseries_gold|Serie 3PO Dorada
-itm_3poseries_blue|Serie 3PO Azul
-itm_3poseries_red|Serie 3PO Roja
-itm_3poseries_grey|Serie 3PO Gris
-itm_3poseries_attack|Ataque cuerpo a cuerpo de serie 3PO
+itm_c3po_blue_head|Cabeza de Droide 3PO
+itm_c3po_blue_hands|Manos de Droide 3PO
+itm_c3po_blue_body|Cuerpo de Droide 3PO
+itm_c3po_blue_feet|Pies de Droide 3PO
+itm_c3po_gold_head|Cabeza de Droide 3PO
+itm_c3po_gold_hands|Manos de Droide 3PO
+itm_c3po_gold_body|Cuerpo de Droide 3PO
+itm_c3po_gold_feet|Pies de Droide 3PO
+itm_c3po_grey_head|Cabeza de Droide 3PO
+itm_c3po_grey_hands|Manos de Droide 3PO
+itm_c3po_grey_body|Cuerpo de Droide 3PO
+itm_c3po_grey_feet|Pies de Droide 3PO
+itm_c3po_red_head|Cabeza de Droide 3PO
+itm_c3po_red_hands|Manos de Droide 3PO
+itm_c3po_red_body|Cuerpo de Droide 3PO
+itm_c3po_red_feet|Pies de Droide 3PO
+itm_3poseries_gold|Droide 3PO Dorado
+itm_3poseries_blue|Droide 3PO Azul
+itm_3poseries_red|Droide 3PO Rojo
+itm_3poseries_grey|Droide 3PO Gris
+itm_3poseries_attack|Ataque cuerpo a cuerpo de Droide 3PO
 itm_b1series_body|Cuerpo de Droide de Batalla Serie B1
 itm_bxseries_body|Cuerpo de droide comando serie BX
 itm_oomseries_body|Cuerpo de droide de seguridad OOM
 itm_oomseries_pilot_body|Cuerpo de droide Piloto OOM
 itm_oomseries_marine_body|Cuerpo de droide Marine OOM
-itm_oomseries_command_body|Cuerpo de Droide Comandante OOM
+itm_oomseries_command_body|Cuerpo de Droide de comando OOM
 itm_battle_droid_attack|Ataque cuerpo a Cuerpo de Droide
 itm_b2series_body|Cuerpo de Droide de Batalla Serie B2
 itm_b2series_body_enhanced|Cuerpo de Droide de Batalla Serie C-B3
@@ -482,10 +482,10 @@ itm_mandalorian_soldier_helmet3|Casco de Soldado Mandaloriano
 itm_mandalorian_soldier_armor|Armadura de Soldado Mandaloriano
 itm_mandalorian_soldier_armor2|Armadura de Soldado Mandaloriano
 itm_mandalorian_soldier_boots|Botas de Soldado Mandaloriano
-itm_mandalorian_commando_helmet|Casco de Comando Manaloriano
+itm_mandalorian_commando_helmet|Casco de Comando Mandaloriano
 itm_mandalorian_commando_armor|Armadura de Comando Mandaloriano
 itm_mandalorian_commando_armor2|Armadura de Comando Mandaloriano
-itm_mandalorian_commando_boots|Botas de Comando Manaloriano
+itm_mandalorian_commando_boots|Botas de Comando Mandaloriano
 itm_mandalorian_sniper_helmet|Casco de Francotirador Mandaloriano
 itm_mandalorian_sniper_armor|Armadura de Francotirador Mandaloriano
 itm_mandalorian_sniper_armor2|Armadura de Francotirador Mandaloriano
@@ -495,14 +495,14 @@ itm_mandalorian_crusader_helmet|Casco de Cruzado Mandaloriano
 itm_mandalorian_neocrusader_helmet|Casco de Neo-Cruzado Mandaloriano
 itm_mandalorian_crusader_armor|Armadura de Cruzado Mandaloriano
 itm_mandalorian_crusader_boots|Botas de Cruzado Mandaloriano
-itm_mandalorian_deadeye_helmet|Casco Mandaloriano
-itm_mandalorian_deadeye_armor|Armadura Mandaloriana
-itm_mandalorian_deadeye_armor2|Armadura Mandaloriana
-itm_mandalorian_deadeye_armor3|Armadura Mandaloriana
-itm_mandalorian_deadeye_boots|Botas Mandalorianas
-itm_mandalorian_beskar_helmet|Casco Mandaloriano
-itm_mandalorian_beskar_armor|Armadura Mandaloriana
-itm_mandalorian_beskar_boots|Botas Mandalorianas
+itm_mandalorian_deadeye_helmet|Casco de Élite Mandaloriano
+itm_mandalorian_deadeye_armor|Armadura de Élite Mandaloriana
+itm_mandalorian_deadeye_armor2|Armadura de Élite Mandaloriana
+itm_mandalorian_deadeye_armor3|Armadura de Élite Mandaloriana
+itm_mandalorian_deadeye_boots|Botas de Élite Mandalorianas
+itm_mandalorian_beskar_helmet|Casco de Beskar Mandaloriano
+itm_mandalorian_beskar_armor|Armadura de Beskar Mandaloriana
+itm_mandalorian_beskar_boots|Botas de Beskar Mandalorianas
 itm_defiler_helmet|Casco de Profanador
 itm_defiler_armor|Armadura de Profanador
 itm_defiler_boots|Botas de Profanador
