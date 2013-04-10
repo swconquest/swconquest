@@ -1,5 +1,5 @@
 scenesfile version 1
- 466
+ 465
 scn_random_scene random_scene 1280 none none 0 0 240 240 -0.5 0x300028000003e8fa0000034e00004b34000059be 
   0 
   0 
@@ -773,10 +773,6 @@ scn_mainplanet_raxusprime_prison mainplanet_raxusprime_prison 1 interior_prison_
   0 
  0 
 scn_mainplanet_sarapin_prison mainplanet_sarapin_prison 1 interior_prison_f bo_interior_prison_f -100 -100 100 100 -100 0 
-  1  100000 
-  0 
- 0 
-scn_mainplanet_hypori_prison mainplanet_hypori_prison 1 interior_prison_f bo_interior_prison_f -100 -100 100 100 -100 0 
   1  100000 
   0 
  0 
