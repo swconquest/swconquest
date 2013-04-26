@@ -1,5 +1,5 @@
 itemsfile version 2
-849
+836
  itm_no_item <dummy> <dummy> 1  _ 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -717,33 +717,6 @@ itemsfile version 2
  itm_shadow_guard_helmet Imperial_Shadow_Guard_Helmet Imperial_Shadow_Guard_Helmet 1  shadow_guard_helmet 0  2684420108 0 300 704643236 1 40 20 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_desert_hat1 Desert_Hat Desert_Hat 1  desert_hat1 0  536936460 0 90 123731968 1 50 10 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_desert_hat2 Desert_Hat Desert_Hat 1  desert_hat2 0  536936460 0 90 123731968 1 40 10 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_desert_hat3 Desert_Hat Desert_Hat 1  desert_hat3 0  536936460 0 90 123731968 1 40 10 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_urban_hat1 Urban_Hat Urban_Hat 1  urban_hat1 0  536936460 0 90 123731968 1 50 10 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_urban_hat2 Urban_Hat Urban_Hat 1  urban_hat2 0  536936460 0 90 123731968 1 40 10 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_urban_hat3 Urban_Hat Urban_Hat 1  urban_hat3 0  536936460 0 90 123731968 1 40 10 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_camouflage_hat1 Camouflage_Hat Camouflage_Hat 1  camouflage_hat1 0  536936460 0 90 123731968 1 50 10 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_camouflage_hat2 Camouflage_Hat Camouflage_Hat 1  camouflage_hat2 0  536936460 0 90 123731968 1 40 10 0 0 0 0 0 0 0 0 0 0
-0
-
- itm_camouflage_hat3 Camouflage_Hat Camouflage_Hat 1  camouflage_hat3 0  536936460 0 90 123731968 1 40 10 0 0 0 0 0 0 0 0 0 0
-0
-
  itm_dress_yellow Lady_Dress Lady_Dress 1  court_dress 0  553713677 0 280 123731968 2 60 0 20 10 0 0 0 0 0 0 0 0
 0
 
@@ -1120,15 +1093,6 @@ itemsfile version 2
 0
 
  itm_imperial_stormtrooper_armor_officer Imperial_Stormtrooper_Officer_Armor Imperial_Stormtrooper_Officer_Armor 1  Sandtrooper_body_orangepauldron 0  553713677 0 820 704643236 12 80 0 45 22 0 0 0 0 0 0 0 0
-0
-
- itm_sw_desert_armor Heavy_Desert_Armor Heavy_Desert_Armor 1  desert_armor_heavy 0  553713677 0 790 704643236 14 60 0 45 22 0 0 0 0 0 0 0 0
-0
-
- itm_sw_urban_armor Heavy_Urban_Armor Heavy_Urban_Armor 1  urban_armor_heavy 0  553713677 0 790 704643236 14 60 0 45 22 0 0 0 0 0 0 0 0
-0
-
- itm_sw_sniper_armor Sniper_Armor Sniper_Armor 1  kevlarvest_woodland 0  536936461 0 880 704643236 8 80 0 45 22 0 0 0 0 0 0 0 0
 0
 
  itm_jedi_robe_a Jedi_Robe Jedi_Robe 1  jedi_robe_a 0  553713677 0 760 123731968 0.25 40 0 40 14 0 0 0 0 0 0 0 0
@@ -2583,10 +2547,6 @@ itemsfile version 2
 
  itm_heavy_weapons_ammo Heavy_Weapons_Ammo Heavy_Weapons_Ammo 3  _ 0  _ 2305843009213693952  player_chest_sw 1152921504606846976  4102 0 100 4398046511104 2.25 90 0 0 0 0 0 0 0 10 12 257 0
 0
-
- itm_rocket_launcher RDP-12_Rocket_Launcher_(in_development) RDP-12_Rocket_Launcher_(in_development) 2  rpg 0  rpg_inventory 1152921504606846976  74453001 1036966690816 4000 0 10 90 0 0 95 0 0 60 160 0 1 406 0
-1
--51  12 600 1 190 720 2 1 27 721 2 1 100 1969 3 47 1 15 1969 3 48 1 15 2211 1 1224979098644774912 4 0 2147483681 3 1224979098644774912 2 10 1 14 387 1 100 0 0 1 500 1000 900 58 4 1 -1 1 5 0 1 14 387 1 100 0 0 1 500 1000 900 58 4 1 -1 0 3 0 
 
  itm_flame_rifle CR-24_Flame_Rifle_(in_development) CR-24_Flame_Rifle_(in_development) 2  cr24_flame_rifle 0  cr24_flame_rifle_inventory 1152921504606846976  73404425 1036966182912 3200 0 4 60 0 0 95 0 0 89 160 10 6 376 0
 1
