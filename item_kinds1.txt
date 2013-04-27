@@ -1,5 +1,5 @@
 itemsfile version 2
-836
+839
  itm_no_item <dummy> <dummy> 1  _ 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -651,6 +651,9 @@ itemsfile version 2
  itm_clone_trooper_helmet_lux Clone_Trooper_Helmet Clone_Trooper_Helmet 1  ArcTrooperHelmLux 0  2684354572 0 400 704643236 1 10 18 0 0 0 0 0 0 0 0 0 0
 0
 
+ itm_clone_commando_helmet Clone_Commando_Helmet Clone_Commando_Helmet 1  clonecommando_helm 0  2684354572 0 530 704643236 2 8 20 0 0 0 0 0 0 0 0 0 0
+0
+
  itm_imperial_scout_trooper_helmet Imperial_Scout_Trooper_Helmet Imperial_Scout_Trooper_Helmet 1  scouthelm 0  2684420108 0 130 704643236 1 100 10 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -1039,6 +1042,9 @@ itemsfile version 2
 0
 
  itm_arc_trooper_armor_lux Arc_Trooper_Armor Arc_Trooper_Armor 1  ArcTrooperLux 0  553648141 0 780 704643236 10 100 0 44 20 0 0 0 0 0 0 0 0
+0
+
+ itm_clone_commando_armor Clone_Commando_Armor Clone_Commando_Armor 1  clonecommando_armor 0  553648141 0 1280 704643236 20 80 0 52 22 0 0 0 0 0 0 0 0
 0
 
  itm_skiff_guard_armor_brown Skiff_Guard_Armor Skiff_Guard_Armor 1  sw_armor1_brown 0  553713677 0 400 123731968 4 50 0 32 12 0 0 0 0 0 0 0 0
@@ -2355,6 +2361,10 @@ itemsfile version 2
 -51  3 600 1 177 720 2 1 4 721 2 1 5 
 
  itm_e17d E-17d E-17d 2  uio0000_E-17d 0  uio0000_E-17d_inv 1152921504606846976  73465865 555930353664 730 270342 3.5 90 0 0 110 0 0 70 170 0 5 344 0
+1
+-51  3 600 1 177 720 2 1 4 721 2 1 5 
+
+ itm_dc17m DC-17M DC-17M 2  dc17m 0  dc17m_inv 1152921504606846976  73400329 555929845760 980 270342 4.75 80 0 0 94 0 0 90 200 0 231 292 0
 1
 -51  3 600 1 177 720 2 1 4 721 2 1 5 
 
