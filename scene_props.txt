@@ -1081,103 +1081,103 @@ spr_sw_kamino_platform_roof_c 0 0 kamino_platform_roof_c bo_kamino_platform_roof
 spr_appartment_grey_wall 0 0 appartment_grey_wall bo_appartment 0
 
 
-spr_appartment 0 0 appartment bo_appartment 0
+spr_appartment 0 0 appartment_dark_iron bo_appartment 0
 
 
 spr_appartment0 0 0 appartment_grey_wall bo_appartment 0
 
 
-spr_appartment1 0 0 appartment1 bo_appartment 0
+spr_appartment1 0 0 appartment_tubes bo_appartment 0
 
 
-spr_appartment2 0 0 appartment2 bo_appartment 0
+spr_appartment2 0 0 appartment_metal_grid_b bo_appartment 0
 
 
-spr_appartment3 0 0 appartment3 bo_appartment 0
+spr_appartment3 0 0 appartment_tubes bo_appartment 0
 
 
-spr_appartment4 0 0 appartment4 bo_appartment 0
+spr_appartment4 0 0 appartment_dark_iron bo_appartment 0
 
 
-spr_appartment5 0 0 appartment5 bo_appartment 0
+spr_appartment5 0 0 appartment_industrial_b bo_appartment 0
 
 
-spr_appartment6 0 0 appartment6 bo_appartment 0
+spr_appartment6 0 0 appartment_iron_boxes_b bo_appartment 0
 
 
-spr_appartment7 0 0 appartment7 bo_appartment 0
+spr_appartment7 0 0 appartment_concrete_various bo_appartment 0
 
 
-spr_appartment8 0 0 appartment8 bo_appartment 0
+spr_appartment8 0 0 appartment_engine_b bo_appartment 0
 
 
-spr_appartment9 0 0 appartment9 bo_appartment 0
+spr_appartment9 0 0 appartment_steel_planks bo_appartment 0
 
 
-spr_appartment10 0 0 appartment10 bo_appartment 0
+spr_appartment10 0 0 appartment_steel_planks bo_appartment 0
 
 
-spr_appartment11 0 0 appartment11 bo_appartment 0
+spr_appartment11 0 0 appartment_steel_planks bo_appartment 0
 
 
-spr_appartment12 0 0 appartment12 bo_appartment 0
+spr_appartment12 0 0 appartment_metal_grid bo_appartment 0
 
 
-spr_appartment13 0 0 appartment13 bo_appartment 0
+spr_appartment13 0 0 appartment_dark_iron bo_appartment 0
 
 
-spr_appartment14 0 0 appartment14 bo_appartment 0
+spr_appartment14 0 0 appartment_tubes bo_appartment 0
 
 
-spr_appartment15 0 0 appartment15 bo_appartment 0
+spr_appartment15 0 0 appartment_tubes bo_appartment 0
 
 
-spr_appartment16 0 0 appartment16 bo_appartment 0
+spr_appartment16 0 0 appartment_dark_iron_b bo_appartment 0
 
 
-spr_appartment17 0 0 appartment17 bo_appartment 0
+spr_appartment17 0 0 appartment_industrial bo_appartment 0
 
 
-spr_appartment18 0 0 appartment18 bo_appartment 0
+spr_appartment18 0 0 appartment_iron_boxes bo_appartment 0
 
 
-spr_appartment19 0 0 appartment19 bo_appartment 0
+spr_appartment19 0 0 appartment_concrete_various bo_appartment 0
 
 
-spr_appartment20 0 0 appartment20 bo_appartment 0
+spr_appartment20 0 0 appartment_engine bo_appartment 0
 
 
-spr_appartment21 0 0 appartment21 bo_appartment 0
+spr_appartment21 0 0 appartment_steel_planks_b bo_appartment 0
 
 
-spr_appartment22 0 0 appartment22 bo_appartment 0
+spr_appartment22 0 0 appartment_metal_grid_b bo_appartment 0
 
 
-spr_appartment23 0 0 appartment23 bo_appartment 0
+spr_appartment23 0 0 appartment_dark_iron_b bo_appartment 0
 
 
-spr_appartment24 0 0 appartment24 bo_appartment 0
+spr_appartment24 0 0 appartment_tubes_b bo_appartment 0
 
 
-spr_appartment25 0 0 appartment25 bo_appartment 0
+spr_appartment25 0 0 appartment_tubes_b bo_appartment 0
 
 
-spr_appartment26 0 0 appartment26 bo_appartment 0
+spr_appartment26 0 0 appartment_dark_iron_b bo_appartment 0
 
 
-spr_appartment27 0 0 appartment27 bo_appartment 0
+spr_appartment27 0 0 appartment_industrial bo_appartment 0
 
 
-spr_appartment28 0 0 appartment28 bo_appartment 0
+spr_appartment28 0 0 appartment_iron_boxes bo_appartment 0
 
 
-spr_appartment29 0 0 appartment29 bo_appartment 0
+spr_appartment29 0 0 appartment_concrete_various bo_appartment 0
 
 
-spr_appartment30 0 0 appartment30 bo_appartment 0
+spr_appartment30 0 0 appartment_engine bo_appartment 0
 
 
-spr_appartment31 0 0 appartment31 bo_appartment 0
+spr_appartment31 0 0 appartment_steel_planks_b bo_appartment 0
 
 
 spr_apptbridge 0 0 apptbridge bo_castle_drawbridges_open 0
