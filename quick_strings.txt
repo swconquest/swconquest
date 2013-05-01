@@ -1,4 +1,4 @@
-1028
+1027
 qstr_2006_2010_THE_STAR_W 2006-2010_THE_STAR_WARS_CONQUEST_DEV_TEAM
 qstr_This_Module_it_s_ded This_Module_it's_dedicated_to_every_person_who_believed_in_us.^^Their_valuable_Work_and_Support_have_inspired_Us_to_Make_this_bigger.^^The_Force_It's_Strong_with_you!_:-)
 qstr_Type_your_Faction_s_ Type_your_Faction's_name:
@@ -645,7 +645,7 @@ qstr_No_one No_one
 qstr_{s9}{s10}^Current_st {s9}{s10}^Current_state:_{s11}^Marshall:_{s12}^Since_the_last_offensive:_{reg1}_hours^Offensive_maximum_followers:_{reg2}^^
 qstr_Selected_faction_is: Selected_faction_is:_{s10}^^{s9}
 qstr_You_are_currently_vi You_are_currently_viewing_{s8}.
-qstr_You_are_not_viewing_ You_are_not_viewing_any_holocron's.
+qstr_You_are_not_viewing_ You_are_not_viewing_any_holocrons.
 qstr_none none
 qstr_{s5}_and_{s6} {s5}_and_{s6}
 qstr_{s5}_{s6} {s5},_{s6}
@@ -684,7 +684,6 @@ qstr_dusk dusk
 qstr_evening evening
 qstr_midnight midnight
 qstr_You_are_currently_vie You_are_currently_viewing_{s8}_({reg2}%).
-qstr_You_are_not_viewing_a You_are_not_viewing_any_holocrons.
 qstr_You_don_t_have_enough You_don't_have_enough_territory_for_a_new_commander!
 qstr_Player_Faction_cultu Player_Faction_culture_is_now_Galactic_Empire.
 qstr_Player_Faction_cultur Player_Faction_culture_is_now_Rebel_Alliance.
