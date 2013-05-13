@@ -1,25 +1,25 @@
 itm_horse_meat|Viande de cheval
 itm_practice_boots|Bottes d'entraînement
-itm_arena_tunic_white|Tunique blanche de l'arène 
-itm_arena_tunic_red|Tunique Rouge de l'arène
-itm_arena_tunic_blue|Tunique Bleue de l'arène
-itm_arena_tunic_green|Tunique Verte de l'arène
-itm_arena_tunic_yellow|Tunique Jaune de l'arène
-itm_book_tactics|Tactique Militaire
-itm_book_persuasion|La persuasion par les armes
-itm_book_leadership|Traité de commandement
-itm_book_intelligence|La stratégie militaire
-itm_book_trade|Négocier un traité
-itm_book_weapon_mastery|Devenir un Maître d'arme
-itm_book_engineering|Technique de l'ingénieur
-itm_book_wound_treatment_reference|2-1B droïde médical
+itm_arena_tunic_white|Tunique blanche d'arène 
+itm_arena_tunic_red|Tunique Rouge d'arène
+itm_arena_tunic_blue|Tunique Bleue d'arène
+itm_arena_tunic_green|Tunique Verte d'arène
+itm_arena_tunic_yellow|Tunique Jaune d'arène
+itm_book_tactics|Holocron de Tactiques Militaire
+itm_book_persuasion|Holocron de persuasion
+itm_book_leadership|Holocron de commandement
+itm_book_intelligence|Holocron d'intelligence
+itm_book_trade|Holocron de commerce
+itm_book_weapon_mastery|Holocron de Maître d'arme
+itm_book_engineering|Holocron d'ingénierie
+itm_book_wound_treatment_reference|Droïde médical 2-1B
 itm_book_first_aid_reference|Base de données médicale
 itm_book_tactics_reference|Tables Dejarik
 itm_book_trade_reference|Cartes Sabacc
-itm_book_ironflesh_reference|Le Bouclier personnel
-itm_book_horse_archery_reference|La Portée laser
-itm_book_training_reference|Formation à distance
-itm_book_surgery_reference|Réservoir Bacta
+itm_book_ironflesh_reference|Bouclier personnel
+itm_book_horse_archery_reference|Visée laser
+itm_book_training_reference|Sphère d'entraînement
+itm_book_surgery_reference|Réservoir de Bacta
 itm_smoked_fish|Poisson fumé
 itm_dried_meat|Rôti de Nerf
 itm_cattle_meat|Ragoût de Nerf
@@ -30,8 +30,8 @@ itm_vagnerian_canape|Amuse-gueule Vagnerien
 itm_carbohydrate_pack|Sachet d'hydrate de carbone
 itm_apples|Pommes
 itm_blue_milk|Lait bleu
-itm_mujo_fruit|Fruit du Mujo
-itm_cheese|Fromage Byss
+itm_mujo_fruit|Fruit Muja
+itm_cheese|Fromage de Christophsis
 itm_chicken|Poulet
 itm_protein_pack|Sachet de protéine
 itm_honey|Miel
@@ -48,7 +48,7 @@ itm_container_food_3|Cargaison de protéines
 itm_container_metal_1|Cargaison de lingot de Beskar
 itm_container_metal_2|Cargaison de lingot de Durasteel
 itm_container_metal_3|Cargaison de lingot de Bronzium
-itm_container_death_sticks|Carton de bâtons mortels
+itm_container_death_sticks|Carton de bâtons de la mort
 itm_container_drink_1|Cargaison d'eau
 itm_container_drink_2|Cargaison de bière noire
 itm_container_drink_3|Cargaison de jus Juri
@@ -61,16 +61,16 @@ itm_spice|Épice
 itm_salt|Sel de la mer de Bassel
 itm_grain|Blé
 itm_flour|Farine
-itm_iron|Acier Durasteel
+itm_iron|Duracier
 itm_bacta_injector|Injecteur Bacta
 itm_bacta_capsule|Capsule Bacta
 itm_binocular|Macrobinoculaires
 itm_jetpack|Jetpack
 itm_oil|Huile
-itm_pottery|Poterie Geonosienne
+itm_pottery|Poterie Géonosienne
 itm_linen|Soie de Lashaa
 itm_furs|Fourures d'Ewok
-itm_wookiee_fur|Cuir de Wookiee
+itm_wookiee_fur|Peau de Wookiee
 itm_trandoshan_skin|Peau de Trandoshan
 itm_droid_parts|Pièces de droïde
 itm_wool|Laine de Nerf
@@ -126,7 +126,7 @@ itm_knife|Couteau
 itm_butchering_knife|Couteau de boucher
 itm_hatchet|Hachette
 itm_quarter_staff|Crosse
-itm_throwing_axes|Haches de lancé Gamorreane
+itm_throwing_axes|Haches de lancer Gamorréenne
 itm_rich_outfit|Tenue Riche
 itm_black_hood|Capuchon noir
 itm_light_leather|Cuir léger
@@ -164,7 +164,7 @@ itm_imperial_scout_trooper_boots|Bottes de Scout impérial
 itm_shadow_scout_trooper_boots|Bottes de Scout Ombre
 itm_clone_trooper_boots|Bottes de Clone
 itm_lobot_headgear|Borg Construct Aj^6
-itm_glasses_black|Lunettes de visé
+itm_glasses_black|Lunettes de tir
 itm_glasses_yellow|Lunettes de visé
 itm_eyepiece_tactics|Monocle tactique
 itm_eyepiece_leadership|Monocle de Commandement
@@ -609,7 +609,7 @@ itm_vibro_sword3_gold|Épée Vibro
 itm_vibro_sword3_blue|Épée Vibro
 itm_vibro_sword3_red|Épée Vibro
 itm_tutorial_lightsaber|Sabre laser
-itm_practice_vibro_axe_medium|Vibro-hache Gamorreane
+itm_practice_vibro_axe_medium|Vibro-hache Gamorréenne
 itm_practice_vibro_axe_long|BD-1 Vibro-hache
 itm_practice_vibro_axe_long_no_attack|BD-1 Vibro-hache
 itm_practice_vibro_blade|Lame Vibro
@@ -748,10 +748,10 @@ itm_ammo_belt_rifle|Ceinture de munitions
 itm_disruptor_ammo_rifle|Balles Disruptrices pour Fusils
 itm_laser_bolts_training_pistol|Faisceaux lasers (pistolet)
 itm_laser_bolts_training_rifle|Faisceaux lasers (fusils)
-itm_force_power_ls_1|Initié aux Pouvoirs de la Force
-itm_force_power_ls_2|Apprenti des Pouvoirs de la Force
-itm_force_power_ls_3|Chevalier des Pouvoirs de la Force
-itm_force_power_ls_4|Maître des Pouvoirs de la Force
+itm_force_power_ls_1|Pouvoirs d'Initié (Force)
+itm_force_power_ls_2|Pouvoirs d'Apprenti (Force)
+itm_force_power_ls_3|Pouvoirs de Chevalier (Force)
+itm_force_power_ls_4|Pouvoirs de Maître (Force)
 itm_force_power_ds_1|Débutant aux Pouvoirs de la Force
 itm_force_power_ds_2|Apprenti des Pouvoirs de la Force
 itm_force_power_ds_3|Chevalier des Pouvoirs de la Force

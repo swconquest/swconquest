@@ -1,0 +1,171 @@
+p_shipyard_trade_federation|Trade Federation
+p_shipyard_kuat|Kuat Havens
+p_shipyard_raxus|Raxus Prime Havens
+p_shipyard_corellia|Corellia Havens
+p_shipyard_moncal|Mon Calamari Havens
+p_shipyard_mandalore|Mandalore Havens
+p_shipyard_fondor|Fondor Havens
+p_mandalore|Mandalore
+p_christophsis|Christophsis
+p_endor|Endor
+p_corellia|Corellia
+p_naboo|Naboo
+p_kessel|Kessel
+p_dantooine|Dantooine
+p_geonosis|Geonosis
+p_mon_cal|Mon Calamari
+p_kashyyyk|Kashyyyk
+p_hoth|Hoth
+p_gamorr|Gamorr
+p_yavin_iv|Yavin IV
+p_tatooine|Tatooine
+p_manaan|Manaan
+p_coruscant|Coruscant
+p_ryloth|Ryloth
+p_nalhutta|Nal hutta
+p_bothawui|Bothawui
+p_mustafar|Mustafar
+p_kamino|Kamino
+p_taris|Taris
+p_raxusprime|Raxus Prime
+p_sarapin|Sarapin
+p_hypori|Hypori
+p_felucia|Felucia
+p_bespin|Bespin
+p_spacestation_2|Corellia Buitenpost
+p_spacestation_3|Yavin IV Gevechtstation
+p_spacestation_4|Dagobah
+p_spacestation_5|Death Star
+p_spacestation_6|Endor Buitenpost
+p_spacestation_7|Mon Calamari Gevechtstation
+p_spacestation_8|Ryloth Gevechtstation
+p_spacestation_9|Christophsis Gevechtstation
+p_spacestation_10|Kessel Gevechtstation
+p_spacestation_11|Avatar Platform
+p_spacestation_12|Manaan Buitenpost
+p_spacestation_13|Christophsis Buitenpost
+p_spacestation_14|Nal Hutta Gevechtstation
+p_spacestation_15|Dantooine Gevechtstation
+p_spacestation_16|Kashyyyk Buitenpost
+p_spacestation_17|Coruscant Buitenpost
+p_spacestation_18|Hoth Gevechtstation
+p_spacestation_19|Bakura
+p_spacestation_20|Gamorr Buitenpost
+p_spacestation_21|Mandalore Gevechtstation
+p_spacestation_22|Manaan Gevechtstation
+p_spacestation_23|Corellia Gevechtstation
+p_spacestation_24|Geonosis Gevechtstation
+p_spacestation_25|Mandalore Buitenpost
+p_spacestation_26|Geonosis Buitenpost
+p_spacestation_27|Kessel Buitenpost
+p_spacestation_28|Dathomir
+p_spacestation_29|Hoth Buitenpost
+p_spacestation_30|Tatooine Gevechtstation
+p_spacestation_31|Gamorr Gevechtstation
+p_spacestation_32|Ryloth Buitenpost
+p_spacestation_33|Naboo Buitenpost
+p_spacestation_34|Dantooine Buitenpost
+p_spacestation_35|Naboo Gevechtstation
+p_spacestation_36|Coruscant Gevechtstation
+p_spacestation_37|Yavin IV Buitenpost
+p_spacestation_38|Nal Hutta Buitenpost
+p_spacestation_39|Mon Calamari Buitenpost
+p_spacestation_40|Tatooine Buitenpost
+p_spacestation_41|Rhen Var
+p_spacestation_42|Saleucami
+p_minorplanet_1|Honoghr
+p_minorplanet_2|Chandrila
+p_minorplanet_3|Tholatin
+p_minorplanet_4|Ilum
+p_minorplanet_5|Sernpidal
+p_minorplanet_6|Velmor
+p_minorplanet_7|Hoth Maan
+p_minorplanet_8|Bespin Maan
+p_minorplanet_9|Dubrillion
+p_minorplanet_10|Riflor
+p_minorplanet_11|Siskeen
+p_minorplanet_12|Rakata Prime
+p_minorplanet_13|Myrkr
+p_minorplanet_14|Ziost
+p_minorplanet_15|Corellia Maan
+p_minorplanet_16|Vargnat
+p_minorplanet_17|Lannik
+p_minorplanet_18|Fondor
+p_minorplanet_19|Bakura Maan
+p_minorplanet_20|Mon Calamari Maan
+p_minorplanet_21|Isde Naha
+p_minorplanet_22|Duro
+p_minorplanet_23|Coruscant Maan
+p_minorplanet_24|Anoth
+p_minorplanet_25|Tatooine Maan
+p_minorplanet_26|Rori
+p_minorplanet_27|Bilbringi
+p_minorplanet_28|Tynna
+p_minorplanet_29|Dantooine Maan
+p_minorplanet_30|Corulag
+p_minorplanet_31|Togoria
+p_minorplanet_32|Gall
+p_minorplanet_33|Muunulist
+p_minorplanet_34|Ruuria
+p_minorplanet_35|Iridonia
+p_minorplanet_36|Kessel Maan
+p_minorplanet_37|Bimmsari
+p_minorplanet_38|Belkadan
+p_minorplanet_39|Helska
+p_minorplanet_40|Saki
+p_minorplanet_41|Nar Shaddaa
+p_minorplanet_42|Bothawui Maan
+p_minorplanet_43|Alzoc III
+p_minorplanet_44|Ruusan
+p_minorplanet_45|Dathomir Maan
+p_minorplanet_46|Yag'Dhul
+p_minorplanet_47|Selvaris
+p_minorplanet_48|Sump
+p_minorplanet_49|Mustafar Maan
+p_minorplanet_50|Dosuun
+p_minorplanet_51|Yaga Minor
+p_minorplanet_52|Nar Kreeta
+p_minorplanet_53|Pzob
+p_minorplanet_54|Barab I
+p_minorplanet_55|Lamaredd
+p_minorplanet_56|Ithor
+p_minorplanet_57|Kuat
+p_minorplanet_58|Rodia
+p_minorplanet_59|Bastion
+p_minorplanet_60|Anobis
+p_minorplanet_61|Thisspias
+p_minorplanet_62|Vjun
+p_minorplanet_63|Drongar
+p_minorplanet_64|Kamino Maan
+p_minorplanet_65|Mimban
+p_minorplanet_66|Alaris Prime
+p_minorplanet_67|wayland
+p_minorplanet_68|Vulpter
+p_minorplanet_69|Bimmiel
+p_minorplanet_70|Gammor Maan
+p_minorplanet_71|Concordia
+p_minorplanet_72|Bogden
+p_minorplanet_73|Dagobah Maan
+p_minorplanet_74|Roon
+p_minorplanet_75|Almania
+p_minorplanet_76|Obroa Skai
+p_minorplanet_77|Ord Mantell
+p_minorplanet_78|Charros IV
+p_minorplanet_79|Manaan Maan
+p_minorplanet_80|N'Zoth
+p_minorplanet_81|Brentaal
+p_minorplanet_82|Garqi
+p_minorplanet_83|Xal 3
+p_minorplanet_84|Christophsis Maan
+p_minorplanet_85|Phindar
+p_minorplanet_86|Vaal
+p_minorplanet_87|Serenno
+p_minorplanet_88|Derra IV
+p_minorplanet_89|Ryloth Maan
+p_minorplanet_90|Khomm
+p_training_ground|Training Grond
+p_training_ground_1|Training Academie
+p_training_ground_2|Training Academie
+p_training_ground_3|Training Academie
+p_training_ground_4|Training Academie
+p_training_ground_5|Training Academie

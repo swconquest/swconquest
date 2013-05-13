@@ -1,0 +1,835 @@
+itm_horse_meat|Paarden Vlees
+itm_practice_boots|Training Schoenen
+itm_arena_tunic_white|Arena Tuniek Wit 
+itm_arena_tunic_red|Arena Tuniek Rood
+itm_arena_tunic_blue|Arena Tuniek Blauw
+itm_arena_tunic_green|Arena Tuniek Groen
+itm_arena_tunic_yellow|Arena Tuniek Geel
+itm_book_tactics|Taktieken Holocron
+itm_book_persuasion|Overtuigen Holocron
+itm_book_leadership|Leiderschap Holocron
+itm_book_intelligence|Intiligentie Holocron
+itm_book_trade|Verhandeling Holocron
+itm_book_weapon_mastery|Wapen Meesterij Holocron
+itm_book_engineering|Bouwkunde Holocron
+itm_book_wound_treatment_reference|2-1B Medische Droid
+itm_book_first_aid_reference|Medische Database
+itm_book_tactics_reference|Dejarik Tafel
+itm_book_trade_reference|Sabacc Kaarten
+itm_book_ironflesh_reference|Personeel Schild
+itm_book_horse_archery_reference|Laser Omvang
+itm_book_training_reference|Training Robot
+itm_book_surgery_reference|Bacta Tank
+itm_smoked_fish|Gerookte Vis
+itm_dried_meat|Nerf Biefstuk
+itm_cattle_meat|Nerf Vlees
+itm_bantha_steak|Bantha Steek
+itm_pork|Varkensvlees
+itm_bread|Brood
+itm_vagnerian_canape|Vagnerian Canape
+itm_carbohydrate_pack|Koolhydraat Pak
+itm_apples|Appels
+itm_blue_milk|Blauwe Melk
+itm_mujo_fruit|Mujo Fruit
+itm_cheese|Christophsis Kaas
+itm_chicken|Kip
+itm_protein_pack|Proteine Pak
+itm_honey|Honing
+itm_sausages|Nerf Sauzen
+itm_cabbages|Bloemkolen
+itm_bristle_melon|Borstel Meloen
+itm_butter|Bantha Boter
+itm_container_spice_1|Doos van Ryll Specerijen
+itm_container_spice_2|Doos van Gree Specerijen
+itm_container_spice_3|Doos van Glitterstim Specerijen
+itm_container_food_1|Doos van Groenten
+itm_container_food_2|Doos van Koolhydraten
+itm_container_food_3|Doos van Proteines
+itm_container_metal_1|Doos van Beskar Tralies
+itm_container_metal_2|Doos van Durasteel Tralies
+itm_container_metal_3|Doos van Bronzium Tralies
+itm_container_death_sticks|Karton van Dode Stiks
+itm_container_drink_1|Doos van Water
+itm_container_drink_2|Doos van Zwart Bier
+itm_container_drink_3|Doos van Juri Sap
+itm_carbonite_tibanna|Carbonite Doos van Tibanna Gas
+itm_container_ore|Erts Container
+itm_butter|Bantha Boter
+itm_wine|Mandalorian Wijn
+itm_ale|Corellian Bier
+itm_spice|Specerijen
+itm_salt|Bassel Zee Zout
+itm_grain|Tarwe
+itm_flour|Meel
+itm_iron|Durasteel
+itm_bacta_injector|Bacta Injector
+itm_bacta_capsule|Bacta Kapsule
+itm_binocular|Verrekijkers
+itm_jetpack|Jetpack
+itm_oil|Olie
+itm_pottery|Geonosian Potterij
+itm_linen|Lashaa Melk
+itm_furs|Ewok Bont
+itm_wookiee_fur|Wookiee Vacht
+itm_trandoshan_skin|Trandoshan Huid
+itm_droid_parts|Droid Onderdelen
+itm_wool|Nerf Wol
+itm_velvet|Fluweel
+itm_tools|Hydrospanners
+itm_siege_supply|Benodigdheden
+itm_quest_wine|Wijn
+itm_quest_ale|Bier
+itm_pilgrim_disguise|Pelgrim Vermoming
+itm_pilgrim_hood|Pelgrim Kap
+itm_leather_gloves|Leren Handschoenen
+itm_wrapping_boots|Omhulsde Schoen
+itm_blue_hose|Blauwe Slang
+itm_hide_boots|Huid Schoenen
+itm_ankle_boots|Enkel Schoenen
+itm_nomad_boots|Nomad Schoenen
+itm_dress|Jurk
+itm_blue_dress|Blauwe Jurk
+itm_peasant_dress|Colonisten Jurk
+itm_woolen_dress|Wollen Jurk
+itm_courtly_outfit|Hoofs Outfit
+itm_nobleman_outfit|Edelman Outfit
+itm_leather_armor|Leren Pantser
+itm_shirt|Shirt
+itm_linen_tunic|Linnen Tuniek
+itm_short_tunic|Rijke Tuniek
+itm_robe|Gewaad
+itm_coarse_tunic|Groffe Tuniek
+itm_leather_apron|Leren Schort
+itm_tabard|Tabbaard
+itm_leather_vest|Leren Vest
+itm_gambeson|Gambeson
+itm_blue_gambeson|Blauwe Gambeson
+itm_red_gambeson|Rode Gambeson
+itm_padded_cloth|Gewatteerde Doek
+itm_leather_jerkin|Leren Wambuis
+itm_padded_leather|Gewatteerd Leer
+itm_straw_hat|Stro Hoed
+itm_common_hood|Kap
+itm_headcloth|Hoofdstof
+itm_woolen_hood|Wollen Kap
+itm_fur_hat|Bont Hoed
+itm_padded_coif|Gewatteerde Huif
+itm_woolen_cap|Wollen Kap
+itm_felt_hat|Vilthoed
+itm_leather_cap|Leren Kap
+itm_arming_cap|Bewapening Kap
+itm_female_hood|Vrouwse Kap
+itm_wooden_stick|Houten Stok
+itm_club|Knots
+itm_cleaver|Hakmes
+itm_knife|Mes
+itm_butchering_knife|Slacht Mes
+itm_hatchet|Bijl
+itm_quarter_staff|Kwartaal Personeel
+itm_throwing_axes|Gamorrean Gooi Bijltjes
+itm_rich_outfit|Rijke Outfit
+itm_black_hood|Zwarte Kap
+itm_light_leather|Licht Leer
+itm_light_leather_boots|Licht Leren Schoenen
+itm_black_gloves|Zwarte Handschoenen
+itm_black_gloves_long|Lange Zwarten Handschoenen
+itm_right_hand_glove|Rechter Handschoen
+itm_grey_gloves|Grijze Handschoenen
+itm_darkgrey_gloves|Donker Grijze Handschoenen
+itm_lady_gloves|Vrouwelijke Handschoenen
+itm_mandalorian_crushgaunts|Mandalorian Crushgaunts
+itm_imperial_royal_guard_gloves|Imperiale Royale Wachter Handschoenen
+itm_imperial_stormtrooper_gloves|Imperiale Stormtrooper
+itm_novatrooper_gloves|Novatrooper Handschoenen
+itm_incinerator_trooper_gloves|Incinterator Trooper Gloves
+itm_clone_trooper_gloves_white|Clone Trooper Handschoenen
+itm_clone_trooper_gloves_green|Clone Trooper Handschoenen
+itm_clone_trooper_gloves_blue|Clone Trooper Handschoenen
+itm_clone_trooper_gloves_red|Clone Trooper Handschoenen
+itm_clone_trooper_gloves_yellow|Clone Trooper Handschoenen
+itm_clone_trooper_gloves_orange|Clone Trooper Handschoenen
+itm_grey_gloves_with_bottle|Grijze Handschoenen met Fles
+itm_leather_boots|Leren Schoenen
+itm_leather_boots_reinforced|Versterkte Leren Schoenen
+itm_black_boots|Zwarte Schoenen
+itm_black_boots_reinforced|Versterkte Zwarte Schoenen
+itm_grey_boots|Grijze Schoenen
+itm_white_boots|Witte Schoenen
+itm_white_boots_reinforced|Versterkte Witte Schoenen
+itm_imperial_royal_guard_boots|Imperiale Royale Wachter Schoenen
+itm_imperial_stormtrooper_boots|Imperiale Stormtrooper Schoenen
+itm_imperial_stormtrooper_boots_incinerator|Incinterator Trooper Schoenen
+itm_imperial_stormtrooper_boots_novatrooper|Novatrooper Schoenen
+itm_imperial_scout_trooper_boots|Imperiale Verkennings Trooper Schoenen
+itm_shadow_scout_trooper_boots|Schaduw Verkennings Trooper Schoenen
+itm_clone_trooper_boots|Clone Trooper Schoenen
+itm_lobot_headgear|Borg Construct Aj^6
+itm_glasses_black|Schiet Glazen
+itm_glasses_yellow|Schiet Glazen
+itm_eyepiece_tactics|Taktiek Oogonderdeel
+itm_eyepiece_leadership|Leiderschap Oogonderdeel
+itm_slave_neck_chain|Slaven Neck Ketting
+itm_officer_hat_white|Officier Pet
+itm_civilian_cloak_hood|Burger Mantel en Kap
+itm_imperial_hat_green|Imperiale Pet
+itm_imperial_hat_black|Imperiale Pet
+itm_imperial_hat_grey|Imperiale Pet
+itm_rebel_technician_helmet|Rebel Cadet Helm
+itm_rebel_trooper_helmet|Rebel Trooper Helm
+itm_rebel_heavy_trooper_helmet|Rebel Elite Trooper Helm
+itm_rebel_honor_guard_helmet|Rebel Ere Wachter Helm
+itm_transparent_helmet|Doorzichtige Helm
+itm_imperial_trooper_helmet|Imperiale Trooper Helm
+itm_imperial_gunner_helmet|Imperiale Schieter Hel
+itm_imperial_navy_trooper_helmet|Imperiale Vloot Trooper Helm
+itm_mercenary_helmet|Huurling Helm
+itm_trandoshan_mask|Trandoshan Masker
+itm_trandoshan_helmet|Trandoshan Helm
+itm_cap_military|Kap
+itm_cap_civilian_a|Kap
+itm_ewok_hat|Ewok Hoed
+itm_rancor_keeper_hat|Rancor Keeper Hat
+itm_rodian_ventilator|Rodian Ventilator
+itm_rodian_ventilator_black|Rodian Ventilator
+itm_rodian_ventilator_red|Rodian Ventilator
+itm_gamorrean_helmet|Gamorrean Helm
+itm_fang_helmet|Fang Helm
+itm_beak_helmet|Beak Helm
+itm_gas_mask|Gas Masker
+itm_mining_helmet|Mining Helm
+itm_pipe_helmet|Pijp Helm
+itm_skiff_guard_helmet|Skiff Wachter Helm
+itm_imperial_stormtrooper_helmet|Imperiale Stormtrooper Helm
+itm_imperial_stormtrooper_helmet_incinerator|Incinterator Trooper Helm
+itm_imperial_stormtrooper_helmet_novatrooper|Novatrooper Helm
+itm_imperial_pilot_helmet|Imperiale Piloot Helm
+itm_clone_trooper_head|Gewond Clone Trooper Hoofd
+itm_clone_trooper_head_scar|Clone Trooper Hoofd
+itm_clone_trooper_helmet_white|Clone Trooper Helm
+itm_clone_trooper_helmet_green|Clone Trooper Helm
+itm_clone_trooper_helmet_blue|Clone Trooper Helm
+itm_clone_trooper_helmet_red|Clone Trooper Helm
+itm_clone_trooper_helmet_yellow|Clone Trooper Helm
+itm_clone_trooper_helmet_orange|Clone Trooper Helm
+itm_clone_trooper_helmet_mand|Clone Trooper Helm
+itm_clone_trooper_helmet_lux|Clone Trooper Helm
+itm_imperial_scout_trooper_helmet|Imperiale Verkennings Trooper Helm
+itm_shadow_scout_trooper_helmet|Schaduw Verkennings Trooper Helm
+itm_republic_pilot_helmet|Rebel Piloot Helm
+itm_republic_commando_helmet|Rebel Commando Helm
+itm_republic_commando_desert_helmet|Rebel Woestijn Commando Helm
+itm_republic_commando_urban_helmet|Rebel Stedelijke Commando Helm
+itm_rebel_sniper_helmet|Reble Sniper Helm
+itm_jedi_knight_hood|Jedi Ridder Kap
+itm_jedi_knight_hood_unique|Jedi Ridder Kap
+itm_sith_hood|Sith Kap
+itm_sith_hood_unique|Sith Kap
+itm_jedi_master_hood|Jedi Meester Kap
+itm_jedi_master_hood_unique|Jedi Meester Kap
+itm_jedi_knight_cloak|Jedi Ridder Mantel
+itm_jedi_knight_cloak_hood|Jedi Ridder Mantel met Kap
+itm_jedi_master_cloak|Jedi Ridder Mantel
+itm_jedi_master_cloak_hood|Jedi Ridder Mantel met Kap
+itm_sith_cloak|Sith Mantel
+itm_sith_cloak_hood|Sith Mantel met Kap
+itm_sith_cloak_mask|Sith Mantel met Masker
+itm_imperial_royal_guard_helmet|Imperiale Royale Wachter Helm
+itm_shadow_guard_helmet|Imperiale Schaduw Wachter Helm
+itm_desert_hat1|Woestijn Hoed
+itm_desert_hat2|Woestijn Hoed
+itm_desert_hat3|Woestijn Hoed
+itm_urban_hat1|Stedelijke Hoed
+itm_urban_hat2|Stedelijke Hoed
+itm_urban_hat3|Stedelijke Hoed
+itm_camouflage_hat1|Camouflage Hoed
+itm_camouflage_hat2|Camouflage Hoed
+itm_camouflage_hat3|Camouflage Hoed
+itm_dress_yellow|Vrouw Jurk
+itm_dress_red|Vrouw Jurk
+itm_dress_green|Vrouw Jurk
+itm_dress_blue|Vrouw Jurk
+itm_tunic_green|Tuniek
+itm_tunic_white|Tuniek
+itm_tunic_blue|Tuniek
+itm_tunic_red|Tuniek
+itm_tunic_yellow|Tuniek
+itm_padded_tunic_green|Gewatteerde Tuniek
+itm_padded_tunic_white|Gewatteerde Tuniek
+itm_padded_tunic_blue|Gewatteerde Tuniek
+itm_padded_tunic_red|Gewatteerde Tuniek
+itm_padded_tunic_yellow|Tuniek
+itm_officer_uniform_white|Officier Uniform
+itm_imperial_uniform_black_plain|Imperiale Uniform
+itm_female_outfit_femconblack|Vrouwelijke Outfit
+itm_female_outfit_femconbrowngreen|Vrouwelijke Outfit
+itm_female_outfit_femcongrey|Vrouwelijke Outfit
+itm_female_outfit_femconorange|Vrouwelijke Outfit
+itm_female_outfit_femconwhite|Vrouwelijke Outfit
+itm_female_outfit_femconwhitebrown|Vrouwelijke Outfit
+itm_outfit_tan|Spring Uniform
+itm_outfit_grey|Spring Uniform
+itm_outfit_black|Spring Uniform
+itm_outfit_green|Spring Uniform
+itm_vest_open_a|Open Vest
+itm_vest_open_b|Open Vest
+itm_vest_closed_a|Gesloten Vest
+itm_vest_closed_b|Gesloten Vest
+itm_vest_closed_c|Gesloten Vest
+itm_shirt_blue|Shirt
+itm_shirt_green|Shirt
+itm_vest_closed_f|Sneeuw Jas
+itm_jacket_open_a|Open Jas
+itm_jacket_open_b|Open Jas
+itm_jacket_open_c|Open Jas
+itm_female_jacket_a|Vrouwelijke Jas
+itm_female_jacket_b|Vrouwelijke Jas
+itm_female_jacket_c|Vrouwelijke Jas
+itm_female_dress_a|Vrouwelijke Jurk
+itm_female_dress_b|Vrouwelijke Jurk
+itm_female_dancer_outfit_a|Vrouwelijke Danser Outfit
+itm_female_dancer_outfit_a_cloak|Vrouwelijke Danser Outfit
+itm_female_dancer_boots|Vrouwelijke Danser Outfit
+itm_female_leather_a|Vrouwelijke Leren Outfit
+itm_female_leather_b|Vrouwelijke Leren Outfit
+itm_female_leather_c|Vrouwelijke Leren Outfit
+itm_female_leather_d|Vrouwelijke Leren Outfit
+itm_jacket_closed_a|Gesloten Jas
+itm_jacket_closed_b|Gesloten Jas
+itm_jacket_closed_c|Gesloten Jas
+itm_klatooinian_armor|Klatooinian Pantser
+itm_scavenger_armor|Verzamelaar Pantser
+itm_mercenary_armor|Huurling Panster
+itm_crime_lord_armor|Criminelen Heer Panster
+itm_trandoshan_flight_suit|Trandoshan Vlieg Uniform
+itm_civilian_cloak|Burger Mantel
+itm_white_cloak|Witte Mantel
+itm_padded_armor_white|Gewatteerd Panster
+itm_padded_armor_red|Gewatteerd Panster
+itm_padded_armor_blue|Gewatteerd Panster
+itm_armor_blue|Pantser
+itm_armor_brown|Pantser
+itm_armor_red|Pantser
+itm_armor_white|Pantser
+itm_pirate_armor|Panser
+itm_imperial_uniform_black|Imperiale Officier Uniform
+itm_imperial_uniform_green|Imperiale Officier Uniform
+itm_rebel_uniform_tanblue|Rebel Commandant Uniform
+itm_rebel_uniform_green|Rebel Officier Uniform
+itm_imperial_trooper_armor|Imperiale Trooper Pantser
+itm_imperial_navy_trooper_armor|Imperiale Floot Trooper Pantser
+itm_imperial_trooper_armor|Imperiale Trooper Pantser
+itm_rebel_technician_armor|Rebel Cadet Pantser
+itm_republic_trooper_armor|Rebel Trooper Pantser
+itm_rebel_heavy_trooper_armor|Rebel Elite Trooper Panster
+itm_jedi_initiate_robe|Jedi Ingewijd Gewaad
+itm_jedi_padawan_robe|Jedi Padawan Gewaad
+itm_sith_acolyte_outfit|Sith Acoliet Outfit
+itm_sith_apprentice_outfit|Sith Leerling Outfit
+itm_imperial_scout_trooper_armor|Imperiale Verkennings Trooper Pantser
+itm_shadow_scout_trooper_armor|Schaduw Verkennings Trooper Pantser
+itm_republic_pilot_armor|Rebel Piloot Pantser
+itm_republic_commando_armor|Rebel Commando Pantser
+itm_republic_commando_desert_armor|Rebel Woestijn Commando Pantser
+itm_republic_commando_urban_armor|Rebel Stedelijke Commando Pantser
+itm_rebel_sniper_armor|Rebel Sniper Pantser
+itm_imperial_stormtrooper_armor|Imperiale Stormtrooper Pantser
+itm_imperial_stormtrooper_armor_incinerator|Incinterator Trooper Pantser
+itm_imperial_stormtrooper_armor_novatrooper|Novatrooper Pantser
+itm_imperial_stormtrooper_armor|Imperiale Stormtrooper Pantser
+itm_rebel_honor_guard_armor|Rebel Ere Wachter Pantser
+itm_clone_trooper_armor_white|Clone Trooper Pantser
+itm_clone_trooper_armor_green|Clone Trooper Pantser
+itm_clone_trooper_armor_blue|Clone Trooper Pantser
+itm_clone_trooper_armor_red|Clone Trooper Pantser
+itm_clone_trooper_armor_yellow|Clone Trooper Pantser
+itm_clone_trooper_armor_orange|Clone Trooper Pantser
+itm_clone_trooper_armor_mand|Clone Trooper Pantser
+itm_clone_trooper_armor_lux|Clone Trooper Pantser
+itm_arc_trooper_armor_green|Advanced Recon Commando Pantser
+itm_arc_trooper_armor_blue|Advanced Recon Commando Pantser
+itm_arc_trooper_armor_red|Advanced Recon Commando Pantser
+itm_arc_trooper_armor_yellow|Advanced Recon Trooper Panster
+itm_arc_trooper_armor_orange|Advanced Recon Trooper Pantser
+itm_arc_trooper_armor_mand|Advanced Recon Trooper Pantser
+itm_arc_trooper_armor_lux|Advanced Recon Trooper Pantser
+itm_skiff_guard_armor_brown|Skiff Wachter Pantser
+itm_skiff_guard_armor_grey|Skiff Guard Pantser
+itm_skiff_guard_armor_white|Skiff Wachter Pantser
+itm_hutt_palace_guard_armor|Hutt Paleis Wachter Pantser
+itm_jedi_knight_robe|Jedi Ridder Gewaad
+itm_jedi_knight_robe_unique|Jedi Ridden Gewaad
+itm_jedi_guardian_robe_a|Jedi Verdediger Gewaad
+itm_jedi_guardian_robe_b|Jedi Verdediger Gewaad
+itm_jedi_guardian_robe_c|Jedi Verdiger Gewaad
+itm_jedi_guardian_robe_d|Jedi Verdediger Gewaad
+itm_sith_knight_robe|Sith Ridder Gewaad
+itm_sith_knight_robe_unique|Sith Ridder Gewaad
+itm_sith_knight_robe_a|Sith Ridder Gewaad
+itm_sith_knight_robe_b|Sith Ridder Gewaad
+itm_sith_knight_robe_c|Sith Ridder Gewaad
+itm_imperial_royal_guard_robe|Imperiale Royale Wachter Gewaad
+itm_shadow_guard_robe|Imperial Schaduw Wachter Gewaad
+itm_imperial_stormtrooper_armor_officer|Imperiale Stormtrooper Officier Pantser
+itm_sw_desert_armor|Zwaar Woestijn Pantser
+itm_sw_urban_armor|Zwaar Stedelijk Pantser
+itm_sw_sniper_armor|Sniper Pantser
+itm_jedi_robe_a|Jedi Gewaad
+itm_jedi_robe_a_unique|Jedi Gewaad
+itm_jedi_robe_b|Sith Gewaad
+itm_jedi_robe_b_long|Lange Sith Gewaad
+itm_jedi_robe_c|Jedi Gewaad
+itm_jedi_robe_c_long|Lange Sith Gewaad
+itm_jedi_robe_d|Jedi Gewaad
+itm_jedi_robe_d_unique|Jedi Gewaad
+itm_jedi_robe_e|Jedi Gewaad
+itm_jedi_robe_e_unique|Jedi Gewaad
+itm_jedi_robe_f|Jedi Gewaad
+itm_jedi_robe_f_unique|Jedi Gewaad
+itm_jedi_master_robe|Jedi Gewaad
+itm_jedi_master_robe_unique|Jedi Gewaad
+itm_sith_marauder_robe|Sith Stroper Gewaad
+itm_sith_marauder_robe_unique|Sith Stroper Gewaad
+itm_sith_marauder_robe_a|Sith Stroper Gewaad
+itm_sith_marauder_robe_b|Sith Stroper Gewaad
+itm_sith_marauder_robe_c|Sith Stroper Gewaad
+itm_sith_marauder_robe_d|Sith Stroper Gewaad
+itm_sith_master_robe|Sith Meester Gewaad
+itm_sith_master_robe_unique|Sith Meester Gewaad
+itm_guard_armor|Wachter Pantser
+itm_guard_armor_red|Verdediger Pantser
+itm_blast_armor_black|Ontploffing Pantser
+itm_blast_armor_red|Ontploffing Pantser
+itm_blast_armor_grey|Ontploffing Pantser
+itm_blast_armor_bluegrey|Ontploffing Pantser
+itm_ubese_armor|Ubese Pantser
+itm_ubese_armor_alt|Ubese Panter
+itm_wookiee_armor1|Wookiee Pantser
+itm_wookiee_armor1_merch|Wookiee Pantser
+itm_wookiee_armor2|Wookiee Pantser
+itm_wookiee_armor2_merch|Wookiee Pantser
+itm_wookiee_hunter_armor|Wookiee Jager Pantser
+itm_wookiee_hunter_helmet|Wookiee Jager Helm
+itm_wookiee_female_head|Vrouwelijke Wookiee Hoofd
+itm_wookiee_female_body|Vrouwelijke Wookiee Lichaam
+itm_wookiee_female_hands|Vrouwelijke Wookiee Handen
+itm_wookiee_female_feet|Vrouwelijke Wookiee Voeten
+itm_kaminoan_female_head|Vrouwelijke Kaminoan Hoofd
+itm_kaminoan_female_body|Vrouwelijke Kaminoan Lichaam
+itm_droid_weapon_no_attack|Droid Melee Wapen (Geen Aanval)
+itm_r2series_blue|R2-Series Blauw
+itm_r2series_green|R2-Series Groen
+itm_r2series_orange|R2-Series Oranje
+itm_r2series_purple|R2-Series Paars
+itm_mse6_armor|MSE-Series Droid Lichaam
+itm_lin_droid_armor|LIN Droid Lichaam
+itm_lin_droid_armor_w_arm|LIN Droid Lichaam
+itm_power_droid_grey|Kracht Droid
+itm_power_droid_snow|Kracht Droid
+itm_power_droid_tan|Kracht Droid
+itm_fxseries_droid_armor|FX-Series Medische Robot Lichaam
+itm_c3po_blue_head|3PO-Series Hoofd
+itm_c3po_blue_hands|3PO-Series Handen
+itm_c3po_blue_body|3PO-Series Lichaam
+itm_c3po_blue_feet|3PO-Series Voeten
+itm_c3po_gold_head|3PO-Series Hoofd
+itm_c3po_gold_hands|3PO-Series Handen
+itm_c3po_gold_body|3PO-Series Lichaam
+itm_c3po_gold_feet|3PO-Series Voeten
+itm_c3po_grey_head|3PO-Series Hoofd
+itm_c3po_grey_hands|3PO-Series Handen
+itm_c3po_grey_body|3PO-Series Lichaam
+itm_c3po_grey_feet|3PO-Series Voeten
+itm_c3po_red_head|3PO-Series Hoofd
+itm_c3po_red_hands|3PO-Series Handen
+itm_c3po_red_body|3PO-Series Lichaam
+itm_c3po_red_feet|3PO-Series Voeten
+itm_3poseries_gold|3PO-Series Goud
+itm_3poseries_blue|3PO-Series Blauw
+itm_3poseries_red|3PO-Series Rood
+itm_3poseries_grey|3PO-Series Grijs
+itm_3poseries_attack|3PO-Series Melee Aanval
+itm_b1series_body|B1-Series Battle Droid Lichaam
+itm_bxseries_body|BX-Series Commando Droid Lichaam
+itm_oomseries_body|OOM Security Droid Lichaam
+itm_oomseries_pilot_body|OOM Pilot Droid Lichaam
+itm_oomseries_marine_body|OOM Marine Droid Lichaam
+itm_oomseries_command_body|OOM Command Droid Lichaam
+itm_battle_droid_attack|Battle Droid Melee Aanval
+itm_b2series_body|B2-Series Battle Droid Lichaam
+itm_b2series_body_enhanced|C-B3 Battle Droid Lichaam
+itm_b2series_attack|B2-Series Battle Droid Aanval
+itm_b2series_blaster|B2-Series Battle Droid Wapen
+itm_transparent_droid_head|Doorzichtig Hoofd (Voor Droids)
+itm_transparent_droid_hands|Doorzichtige Handen (Voor Robots)
+itm_transparent_droid_feet|Doorzichtbare Voeten (Voor Droids)
+itm_ig88_head|IG-Series Hoofd
+itm_ig88_hands|IG-Series Handen
+itm_ig88_body|IG-Series Lichaam
+itm_ig88_feet|IG-Series Voeten
+itm_ig88_attack| 
+itm_ig88_e11_shield|IG-88's E-11 Schild
+itm_ig88_dlt20a|IG-88 DLT-20A
+itm_4lom_head|LON-Series Hoofdf
+itm_hk_head|HK-Series Hoofd
+itm_hk_hands|HK-Series Handen
+itm_hk_body|HK-Series Lichaam
+itm_hk_feet|HK-Series Feet
+itm_hk_attack| 
+itm_mandalorian_tunic|Mandalorian Tuniek
+itm_mandalorian_soldier_helmet|Mandalorian Soldier Helm
+itm_mandalorian_soldier_helmet2|Mandalorian Soldier Helm
+itm_mandalorian_soldier_helmet3|Mandalorian Soldier Helm
+itm_mandalorian_soldier_armor|Mandalorian Soldier Pantser
+itm_mandalorian_soldier_armor2|Mandalorian Soldier Pantser
+itm_mandalorian_soldier_boots|Mandalorian Soldier Schoenen
+itm_mandalorian_commando_helmet|Mandalorian Commando Helm
+itm_mandalorian_commando_armor|Mandalorian Commando Pantser
+itm_mandalorian_commando_armor2|Mandalorian Commando Pantser
+itm_mandalorian_commando_boots|Mandalorian Commando Schoenen
+itm_mandalorian_sniper_helmet|Mandalorian Sniper Helm
+itm_mandalorian_sniper_armor|Mandalorian Sniper Pantser
+itm_mandalorian_sniper_armor2|Mandalorian Sniper Pantser
+itm_mandalorian_sniper_armor3|Mandalorian Sniper Pantser
+itm_mandalorian_sniper_boots|Mandalorian sniper Schoenen
+itm_mandalorian_crusader_helmet|Mandalorian Kruisvaarder Helm
+itm_mandalorian_neocrusader_helmet|Mandalorian Neo-Kruisvaarder Helm
+itm_mandalorian_crusader_armor|Mandalorian Kruisvaarder Pantser
+itm_mandalorian_crusader_boots|Mandalorian Kruisvaarder Schoenen
+itm_mandalorian_deadeye_helmet|Mandalorian Deadeye Helm
+itm_mandalorian_deadeye_armor|Mandalorian Deadeye Pantser
+itm_mandalorian_deadeye_armor2|Mandalorian Deadeye Pantser
+itm_mandalorian_deadeye_armor3|Mandalorian Deadeye Pantser
+itm_mandalorian_deadeye_boots|Mandalorian Deadeye Schoenen
+itm_mandalorian_beskar_helmet|Mandaloran Beskar Pantser
+itm_mandalorian_beskar_armor|Mandalorian Beskar Pantser
+itm_mandalorian_beskar_boots|Mandalorian Beskar Schoenen
+itm_defiler_helmet|Bezoedelaar Helm
+itm_defiler_armor|Bezoedelaar Pantser
+itm_defiler_boots|Bezoedelaar Schoenen
+itm_black_sun_helmet|Zwarte Zon Helm
+itm_black_sun_helmet_tan|Zwarte Zon Helm
+itm_black_sun_helmet_teal|Zwarte Zon Helm
+itm_black_sun_helmet_red|Zwarte Zon Helm
+itm_black_sun_armor|Zwarte Zon Pantser
+itm_black_sun_armor_tan|Zwarte Zon Pantser
+itm_black_sun_armor_teal|Zwarte Zon Pantser
+itm_black_sun_armor_red|Zwarte Zon Pantser
+itm_gamorrean_armor|Gamorrean Pantser
+itm_moncal_armor|Mon Calamari Pantser
+itm_moncal_armor_2|Mon Calamari Pantser
+itm_moncal_boots|Mon Calamari Schoenen
+itm_moncal_helmet|Mon Calamari Helm
+itm_twilek_armor|Twi'lek Pantser
+itm_jawa_hood|Jawa Hoofd
+itm_jawa_robe|Jawa Gewaad
+itm_jawa_boots|Jawa Schoenen
+itm_tusken_helmet|Tusken Helm
+itm_tusken_armor|Tusken Pantser
+itm_trandoshan_armor|Trandoshan Pantser
+itm_geonosian_armor|Geonosian Pantser
+itm_lightsaber_green_arena|Lichtzwaard
+itm_lightsaber_blue_arena|Lichtzwaard
+itm_lightsaber_yellow_arena|Lichtzwaard
+itm_lightsaber_red_arena|Lichtzwaard
+itm_lightsaber_green|Lichtzwaard
+itm_lightsaber_blue|Lichtzwaard
+itm_lightsaber_orange|Lichtzwaard
+itm_lightsaber_purple|Lichtzwaard
+itm_lightsaber_yellow|Lichtzwaard
+itm_lightsaber_red|Lichtzwaard
+itm_lightsaber_green_reverse|Omgekeerd Greep Lichtzwaard
+itm_lightsaber_blue_reverse|Omgekeerd Greep Lichtzwaard
+itm_lightsaber_orange_reverse|Omgekeerd Greep Lichtzwaard
+itm_lightsaber_purple_reverse|Omgekeerd Greep Lichtzwaard
+itm_lightsaber_yellow_reverse|Omgekeerd Greep Lichtzwaard
+itm_lightsaber_red_reverse|Omgekeerd Greep Lichtzwaard
+itm_lightsaber_blue_double|Verdubbeld Lightzwaard
+itm_lightsaber_green_double|Verdubbeld Lichtzwaard
+itm_lightsaber_orange_double|Verdubbeld Lichtzwaard
+itm_lightsaber_purple_double|Verdubbeld Lichtzwaard
+itm_lightsaber_red_double|Verdubbeld Lichtzwaard
+itm_lightsaber_yellow_double|Verdubbeld Lichtzwaard
+itm_lightsaber_green_2h|Twee Handig Lichtzwaard
+itm_lightsaber_blue_2h|Twee Handig Zwaard
+itm_lightsaber_orange_2h|Twee Handig Zwaard
+itm_lightsaber_purple_2h|Twee Handig Lichtzwaard
+itm_lightsaber_yellow_2h|Twee Handig Lichtzwaard
+itm_lightsaber_red_2h|Twee Handig Lichtzwaard
+itm_lightsaber_green_1h|Een Handig Lichtzwaard
+itm_lightsaber_blue_1h|Een Handig Lichtzwaard
+itm_lightsaber_orange_1h|Een Handig Lichtzwaard
+itm_lightsaber_purple_1h|Een Handig Lichtzwaard
+itm_lightsaber_yellow_1h|Een Handig Lichtzwaard
+itm_lightsaber_red_1h|Een Handig Lichtzwaard
+itm_lightsaber_green_pike|Lichtzwaard Spies
+itm_lightsaber_blue_pike|Lichtzwaard Spies
+itm_lightsaber_orange_pike|Lichtzwaard Spies
+itm_lightsaber_purple_pike|Lichtzwaard Spies
+itm_lightsaber_yellow_pike|Lichtzwaard Spies
+itm_lightsaber_red_pike|Lichtzwaard Spies
+itm_darth_vader_lightsaber|Darth Vader's Lichtzwaard
+itm_obi_wan_lightsaber|Obi-Wan Kenobi's Lichtzwaard
+itm_luke_skywalker_lightsaber|Luke Skywalker's Lichtzwaard
+itm_anakin_skywalker_lightsaber|Anakin Skywalker's Lichtzwaard
+itm_lightsaber_red_multikill|Multipe Tik Lichtzwaard (Word Aan Gewerkt)
+itm_melee_punch| 
+itm_durasteel_staff|Durasteel Staf
+itm_electro_staff_medium|Electrostaf
+itm_electro_staff_long|Electrostaf
+itm_gamorrean_axe_1h|Een Handige Gamorrean Bijl
+itm_gamorrean_axe_2h|Twee Handige Gamorrean Bijl
+itm_vibro_axe_medium_1h|Een Handige Vibro-Bijl
+itm_vibro_axe_medium_2h|Twee Handige Vibro-Bijl
+itm_vibro_axe_long_1h|Een Handige Vibro-Bijl
+itm_vibro_axe_long_2h|BD-1 Cutter Vibro-Axe
+itm_tusken_gaffi_staff|Graffi Staf
+itm_tusken_gaffi_stick|Gaffi Stok
+itm_durasteel_mace|Durasteel Scepter
+itm_baton|Wapenknuppel
+itm_trandoshan_blade|Trandoshan Mes
+itm_durasteel_bat|Durasteel Knuppel
+itm_force_pike|Force Spies
+itm_geonosian_static_pike|Geonosian Statische Spies
+itm_pipe1|Pijp
+itm_pipe2|Pijp
+itm_ryyk_blade|Ryyk Mes
+itm_ryyk_kerarthorr|Ryyk Kerarthorr Mes
+itm_ryyk_blade_chieftain|Chieftain Ryyk Mes
+itm_sith_sword|Sith Zwaard
+itm_combat_knife|Gevechts Mes
+itm_twilek_dagger|Twi'lek Mes
+itm_vibro_knuckler|Vibro Knuckler
+itm_vibro_blade1|Vibro Mes
+itm_vibro_blade2|Vibro Mes
+itm_vibro_blade3|Vibro Mes
+itm_vibro_blade4|Vibro Mes
+itm_vibro_sword1b|Vibro Zwaard
+itm_vibro_sword2b|Twee Handig Vibro Zwaard
+itm_vibro_sword3_gold|Vibro Zwaard
+itm_vibro_sword3_blue|Vibro Zwaard
+itm_vibro_sword3_red|Vibro Zwaard
+itm_tutorial_lightsaber|Lichtzwaard
+itm_practice_vibro_axe_medium|Gamorrean Vibro-Bijl
+itm_practice_vibro_axe_long|BD-1 Cutter Vibro-Bijl
+itm_practice_vibro_axe_long_no_attack|BD-1 Cutter Vibro-Bijl
+itm_practice_vibro_blade|Vibro Mes
+itm_practice_vibro_sword3a|Vibro Zwaard
+itm_practice_vibro_sword2b|Twee Handig Vibro Zwaard
+itm_practice_vibro_sword1b|Vibro Zwaard
+itm_quick_battle_armor|Pantser
+itm_transparent_helmet_armor|Doorzichtige Helm met Lichaam Pantser
+itm_twilek_female_helmet_armor|Vrouwelijke Twi'lek Helm met Lichaams Pantser
+itm_twilek_male_head_bib|Bib Fortuna Hoofd
+itm_weequay_head_helmet_a|Weequay Hoofd
+itm_weequay_head_helmet_b|Weequay Hoofd
+itm_klatooinian_head_helmet_a|Klatooinian Hoofd
+itm_nikto_head_helmet_a|Nikto Hoofd
+itm_nikto_head_helmet_b|Nikto Hoofd
+itm_nikto_head_helmet_c|Nikto Hoofd
+itm_tarkin_head|Grand Moff Tarkin Hoofd
+itm_ben_head|Ben Kenobi Hoofd
+itm_leia_head|Leia Organa Hoofd
+itm_rancor_body_a|Rancor Lichaam
+itm_rancor_body_b|Rancor Lichaam
+itm_rancor_body_c|Rancor Lichaam
+itm_rancor_attack| 
+itm_rancor_keeper_armor|Rancor Houder Pantser
+itm_yoda_armor|Yoda Pantser en Stoel
+itm_yoda_lightsaber|Yoda's Lichtzwaard
+itm_yoda_speeder|Yoda's Onzichtbare Speeder
+itm_jabba_armor|Jabba Pantser en Stoel
+itm_jabba_attack|Jabba Geen Aanval
+itm_jabba_speeder|Jabba's Onzichtbare Speeder
+itm_transparent_head|Onzichtbaar Hoofd
+itm_transparent_body|Onzichtbaar Lichaam
+itm_transparent_hands|Onzichtbare Handen
+itm_transparent_feet|Onzichtbare Voeten
+itm_darth_vader_helmet|Darth Vader's Helm
+itm_darth_vader_armor|Darth Vader's Pantser
+itm_darth_vader_feet|Darth Vader's Voeten
+itm_princess_leia_outfit|Leia Organa's Outfit
+itm_princess_leia_blaster|Leia Organa's DDC Verdediger
+itm_han_solo_outfit|Han Solo's Outfit
+itm_han_solo_blaster|Han Solo's DL-44
+itm_luke_skywalker_outfit|Luke Skywalker's Outfit
+itm_chewbacca_bowcaster|Chewbacca's Kruisboog
+itm_chewbacca_ryyk_blade|Chewbacca's Ryyk Zwaard
+itm_boba_fett_armor|Boba Fett's Pantser
+itm_boba_fett_helmet|Boba Fett's Helm
+itm_boba_fett_boots|Boba Fett's Schoenen
+itm_boba_fett_blaster|Boba Fett's EE-3
+itm_joruus_lightsaber|Cboath's Lichtzwaard
+itm_dengar_armor|Dengar's Pantser
+itm_dengar_helmet|Dengar's Hoofd Vermoming
+itm_dengar_boots|Dengar's Schoenen
+itm_dengar_gloves|Dengar's Handschoenen
+itm_weequay_vibro_axe|Weequay Vibro-Bijl
+itm_force_throw_lightsaber_green|Werp Lichtzwaard
+itm_force_throw_lightsaber_blue|Werp Lichtzwaard
+itm_force_throw_lightsaber_orange|Werp Lichtzwaard
+itm_force_throw_lightsaber_purple|Werp Lichtzwaard
+itm_force_throw_lightsaber_yellow|Werp Lichtzwaard
+itm_force_throw_lightsaber_red|Werp Lichtzwaard
+itm_force_throw_lightsaber_green_merch|Werp Lichtzwaard
+itm_force_throw_lightsaber_blue_merch|Werp Lichtzwaard
+itm_force_throw_lightsaber_orange_merch|Werp Lichtzwaard
+itm_force_throw_lightsaber_purple_merch|Werp Lichtzwaard
+itm_force_throw_lightsaber_yellow_merch|Werp Lichtzwaard
+itm_force_throw_lightsaber_red_merch|Werp Lichtzwaard
+itm_force_throw_lightsaber_green_pike|Werp Lichtzwaard Spies
+itm_force_throw_lightsaber_blue_pike|Werp Lichtzwaard Spies
+itm_force_throw_lightsaber_orange_pike|Werp Lichtzwaard Spies
+itm_force_throw_lightsaber_purple_pike|Werp Lichtzwaard Spies
+itm_force_throw_lightsaber_yellow_pike|Werp Lichtzwaard Spies
+itm_force_throw_lightsaber_red_pike|Werp Lichtzwaard Spies
+itm_force_throw_lightsaber_red_double|Werp Verdubbeld Lichtzwaard
+itm_twilek_dagger_throwing|Twi'lek Werp Messen
+itm_discblade|Disc Mes
+itm_thermal_detonator1|Warmte Ontploffer
+itm_thermal_detonator2|Warmte Ontploffer
+itm_thermal_detonator3|Warmte Ontploffer
+itm_energy_shield_red_small|Klein Energie Schild
+itm_energy_shield_blue_small|Klein Energie Schild
+itm_energy_shield_green_small|Klein Energie Schild
+itm_energy_shield_yellow_small|Klein Energie Schild
+itm_energy_shield_red_medium|Normaal Energy Schild
+itm_energy_shield_blue_medium|Normaal Energie Schild
+itm_energy_shield_green_medium|Normal Energy Schild
+itm_energy_shield_yellow_medium|Normal Energie Schild
+itm_energy_shield_red_large|Groot Energie Schild
+itm_energy_shield_blue_large|Groot Energie Schild
+itm_energy_shield_green_large|Groot Energie Schild
+itm_energy_shield_yellow_large|Groot Energie Schild
+itm_energy_shield_oval|Ovaal Energie Schild
+itm_energy_shield_circle|Rond Energy Schild
+itm_durasteel_shield_small|Klein Durasteel Schild
+itm_durasteel_shield_small_2|Klein Durasteel Schild
+itm_durasteel_shield_large|Groot Durasteel Schild
+itm_wookiee_shield_small|Klein Wookiee Schild
+itm_wookiee_shield_large|Groot Wookiee Schild
+itm_westar_shield|Westar-34 Schild
+itm_ryyk_kerarthorr_shield|Ryyk Kerarthorr Schild
+itm_ryyk_blade_shield|Ryyk Zwaard Schild
+itm_lightsaber_block_blue|Lichtzwaard Schild
+itm_lightsaber_block_green|Lichtzwaard Schild
+itm_lightsaber_block_orange|Lichtzwaard Schild
+itm_lightsaber_block_purple|Lichtzwaard Schild
+itm_lightsaber_block_red|Lichtzwaard Schild
+itm_lightsaber_block_yellow|Lichtzwaard Schild
+itm_force_block|Force Blokering
+itm_force_shield|Force Schild
+itm_force_protect|Force Verdediging
+itm_hero_shield|Doorzichting Held Schild
+itm_practice_energy_shield|Training Energy Schild
+itm_tutorial_energy_shield|Training Energie Schild
+itm_force_throw_lightsaber_t|Force Werp Lichtzwaard
+itm_force_throw_lightsaber_tl|Force Werp Lichtzwaard
+itm_force_lightning_ammo|Force Electriciteit
+itm_force_push_ammo|Force Duw
+itm_laser_bolts_green_pistol|Plasma Gas Patronen
+itm_laser_bolts_red_pistol|Plasma Gas Patronen
+itm_laser_bolts_orange_pistol|Plasma Gas Patronen
+itm_laser_bolts_yellow_pistol|Plasma Gas Patronen
+itm_laser_bolts_blue_pistol|Plasma Gas Patronen
+itm_stun_beam_pistol|Stun Straal Patronen
+itm_ion_beam_pistol|Ion Straal Patronen
+itm_sonic_beam_pistol|Sonische Straal Patronen
+itm_ammo_belt_pistol|Kogel Riem
+itm_disruptor_ammo|Disruptor Kogels voor Pistolen
+itm_laser_bolts_green_rifle|Plasma Gas Patronen
+itm_laser_bolts_red_rifle|Plasma Gas Patronen
+itm_laser_bolts_orange_rifle|Plasma Gas Patronen
+itm_laser_bolts_yellow_rifle|Plasma Gas Patronen
+itm_laser_bolts_blue_rifle|Plasma Gas Patronen
+itm_stun_beam_rifle|Stun Straal Patronen
+itm_ion_beam_rifle|Ion Straal Patronen
+itm_sonic_beam_rifle|Sonische Straal Patronen
+itm_ammo_belt_rifle|Kogel Riem
+itm_disruptor_ammo_rifle|Disruptor Kogels for Geweeren
+itm_laser_bolts_training_pistol|Laser Kogels
+itm_laser_bolts_training_rifle|Laser Kogels
+itm_force_power_ls_1|Ingewijde Force Krachten
+itm_force_power_ls_2|Leerling Force Krachten
+itm_force_power_ls_3|Ridder Force Krachten
+itm_force_power_ls_4|Meester Force Krachten
+itm_force_power_ds_1|Ingewijde Force Krachten
+itm_force_power_ds_2|Leerling Force Krachten
+itm_force_power_ds_3|Ridder Force Kachten
+itm_force_power_ds_4|Meester Force Krachten
+itm_force_jump|Force Spring
+itm_a280|A-280
+itm_a280_crouch|A-280
+itm_a280_stun|Stun A-280
+itm_a295|A-295
+itm_a295_crouch|A-295
+itm_a295_stun|Stun A-295
+itm_mandalorian_heavy_blaster|Mandalorian Zware Blaster
+itm_corellian_destroyer_blaster|Corellian Vernietiger Blaster
+itm_dlt19|DLT-19
+itm_dlt19_scope|DLT-19 Met Omvang
+itm_dlt20a|DLT-20A
+itm_e17d|E-17D
+itm_dc15a|DC-15A
+itm_dc15a_hip|DC-15A
+itm_dc15s|DC-15S
+itm_trandoshan_acp_array_gun|Trandoshan ACP Reeks Wapen
+itm_trandoshan_stun_gun|Trandoshan Stun Wapen
+itm_quicksnap_36t|QuickSnap 36T
+itm_bothan_bola_carabine|Bothan Bola Karbijn
+itm_ee3|EE-3
+itm_ee3_stun|Stun EE-3
+itm_mg15|RT-97C
+itm_e5|E-5
+itm_e11|E-11
+itm_e11_hip|E-11
+itm_e11_stun|Stun E-11
+itm_wookiee_bowcaster|Kruisboog
+itm_kashyyyk_long_gun|Kashyyyk Lang Wapen
+itm_tusken_rifle|Tusken Renner Geweer
+itm_geonosian_sonic_rifle|Geonisian Sonisch Geweer
+itm_t21|T-21
+itm_senate_rifle|Beveiliging Wachter Geweer
+itm_kisteer_1284|KiSteer 1284
+itm_ion_blaster|Ion Blaster
+itm_heavy_repeater|Imperiale Zwaare Herhaler
+itm_storm_rifle|StormTrooper Geweer
+itm_dh17|DH-17
+itm_dh17_stun|Stun DH-17
+itm_se14r|SE-14R
+itm_dl44a|DL-44
+itm_dl44a_stun|Stun DL-44
+itm_dl44b|Modified DL-44
+itm_q2|Q2
+itm_q2_stun|Stun Q2
+itm_elg3a|ELG-3A
+itm_elg3a_stun|Stun ELG-3A
+itm_scout_trooper_pistol|Verkennings Trooper Pistool
+itm_ddc_defender|DDC Verdediger
+itm_geonosian_sonic_pistol|Geonosian Sonisch Pistool
+itm_dl18|Dl-18
+itm_westar|Westar-34
+itm_westar_stun|Stun Westar-34
+itm_ion_pistol|Ion Pistool
+itm_trandoshan_supressor|Trandoshan Onderdrukker
+itm_wrist_blaster|Pols Gemonteerde Blaster
+itm_practice_dl44|DL-44
+itm_dl44a_training|DL-44
+itm_dlt19_training|DLT-19 Met Omvang
+itm_heavy_weapons_ammo|Zwaare Wapens Kogels
+itm_rocket_launcher|RDP-12 Raket Werper (Word Aan Gewerkt)
+itm_flame_rifle|CR-24 Vlam Geweer (Word Aan Gewerkt)
+itm_concussion_rifle|W-90 Schok Geweer (Word Aan Gewerkt)
+itm_force_kill|Force Sterf
+itm_force_choke|Force Stik
+itm_force_knockdown|Force Slag
+itm_force_stun|Force Stun
+itm_speeder|Burger 74-Z Speeder Bike
+itm_speeder_rebel|Militare 74-Z Speeder Bike
+itm_speeder_imperial|Militare Z4-Z Speeder Bike
+itm_speeder_hutt|Militare Z4-Z Speeder Bike
+itm_speeder_shadow|Schaduw 74-Z Speeder Bike
+itm_speeder_fc20|FC-20 Speeder Bike
+itm_horus_winged_cruiser|Horus Vleugel Kruiser
+itm_speeder_dagger|Bladen 74-Z Speeder Bike
+itm_practice_speeder|Burger 74-Z Speeder Bike
+itm_arena_speeder|Burger 74-Z Speeder Bike
