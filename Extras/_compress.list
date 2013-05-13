@@ -9,13 +9,15 @@ swconquest.exe
 Change Star Wars Conquest Font.cmd
 
 
+Languages\cs\*.csv
 Languages\de\*.csv
 Languages\en\*.csv
 Languages\es\*.csv
 Languages\fr\*.csv
 Languages\it\*.csv
+Languages\nl\*.csv
 Languages\pl\*.csv
-Languages\sv\*.csv
+Languages\ru\*.csv
 
 Font\FONT_DATA.XML
 Font\FONT_SWC.dds
