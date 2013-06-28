@@ -1,6 +1,6 @@
 p_shipyard_trade_federation|Торговая федерация
 p_shipyard_kuat|Верфь Куата
-p_shipyard_raxus|Верфь Раксус прайм
+p_shipyard_raxus|Верфь Раксус-Прайма
 p_shipyard_corellia|Верфь Кореллии
 p_shipyard_moncal|Верфь Мон-Каламари
 p_shipyard_mandalore|Верфь Мандалора
@@ -20,57 +20,57 @@ p_gamorr|Гаморр
 p_yavin_iv|Явин IV
 p_tatooine|Татуин
 p_manaan|Манаан
-p_coruscant|Корусант
+p_coruscant|Корускант
 p_ryloth|Рилот
 p_nalhutta|Нал-Хатта
 p_bothawui|Ботавуи
 p_mustafar|Мустафар
 p_kamino|Камино
 p_taris|Тарис
-p_raxusprime|Раксус Прайм
+p_raxusprime|Раксус-Прайм
 p_sarapin|Сарапин
 p_hypori|Хайпори
 p_felucia|Фелуция
 p_bespin|Беспин
-p_spacestation_2|Кореллийская защитная станция
+p_spacestation_2|Аванпост Кореллии
 p_spacestation_3|Боевая станция Явина IV
-p_spacestation_4|Дагоба
+p_spacestation_4|Дагобах
 p_spacestation_5|Звезда Смерти
-p_spacestation_6|Защитная станция Эндора
+p_spacestation_6|Аванпост Эндора
 p_spacestation_7|Боевая станция Мон-Каламари
-p_spacestation_8|Боевая станция Релота
+p_spacestation_8|Боевая станция Рилота
 p_spacestation_9|Боевая станция Кристофсиса
 p_spacestation_10|Боевая станция Кесселя
 p_spacestation_11|Платформа &quot;Аватар&quot;
-p_spacestation_12|Защитная станция Манаана
-p_spacestation_13|Защитная станция Кристофсиса
+p_spacestation_12|Аванпост Манаана
+p_spacestation_13|Аванпост Кристофсиса
 p_spacestation_14|Боевая станция Нал-Хатта
 p_spacestation_15|Боевая станция Дантуина
-p_spacestation_16|Защитная станция Кашиика
-p_spacestation_17|Защитная станция Корусанта
+p_spacestation_16|Аванпост Кашиика
+p_spacestation_17|Аванпост Корусанта
 p_spacestation_18|Боевая станция Хота
 p_spacestation_19|Бакура
-p_spacestation_20|Защитная станция Гаморра
+p_spacestation_20|Аванпост Гаморра
 p_spacestation_21|Боевая станция Мандалора
 p_spacestation_22|Боевая станция Манаана
 p_spacestation_23|Боевая станция Кореллии
 p_spacestation_24|Боевая станция Геонозиса
-p_spacestation_25|Защитная станция Мандалора
-p_spacestation_26|Защитная станция Геонозиса
-p_spacestation_27|Защитная станция Кесселя
+p_spacestation_25|Аванпост Мандалора
+p_spacestation_26|Аванпост Геонозиса
+p_spacestation_27|Аванпост Кесселя
 p_spacestation_28|Датомир
-p_spacestation_29|Защитная станция Хота
+p_spacestation_29|Аванпост Хота
 p_spacestation_30|Боевая станция Татуина
 p_spacestation_31|Боевая станция Гаморра
-p_spacestation_32|Защитная станция Рилота
-p_spacestation_33|Защитная станция Набу
-p_spacestation_34|Защитная станция Дантуина
+p_spacestation_32|Аванпост Рилота
+p_spacestation_33|Аванпост Набу
+p_spacestation_34|Аванпост Дантуина
 p_spacestation_35|Боевая станция Набу
 p_spacestation_36|Боевая станция Корусанта
-p_spacestation_37|Защитная станция Явина IV
-p_spacestation_38|Защитная станция Нал-Хатта
-p_spacestation_39|Защитная станция Мон-Каламари
-p_spacestation_40|Защитная станция Татуина
+p_spacestation_37|Аванпост Явина IV
+p_spacestation_38|Аванпост Нал-Хатта
+p_spacestation_39|Аванпост Мон-Каламари
+p_spacestation_40|Аванпост Татуина
 p_spacestation_41|Рен-Вар
 p_spacestation_42|Салукемай
 p_minorplanet_1|Хоногр
@@ -84,7 +84,7 @@ p_minorplanet_8|Луна Беспина
 p_minorplanet_9|Дубрайллион
 p_minorplanet_10|Рифлор
 p_minorplanet_11|Сискиин
-p_minorplanet_12|Раката Прайм
+p_minorplanet_12|Раката-Прайм
 p_minorplanet_13|Муркр
 p_minorplanet_14|Зиост
 p_minorplanet_15|Луна Кореллии
@@ -139,7 +139,7 @@ p_minorplanet_63|Дронгар
 p_minorplanet_64|Луна Камино
 p_minorplanet_65|Мимбан
 p_minorplanet_66|Аларис Прайм
-p_minorplanet_67|Вейлэнд
+p_minorplanet_67|Вэйланд
 p_minorplanet_68|Вулптер
 p_minorplanet_69|Биммиэль
 p_minorplanet_70|Луна Гаморра

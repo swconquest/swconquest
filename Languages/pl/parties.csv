@@ -1,9 +1,9 @@
 p_shipyard_trade_federation|Federacja Handlowa
 p_shipyard_kuat|Stocznia Kuatu
 p_shipyard_raxus|Stocznia Raxus Prima
-p_shipyard_corellia|Stocznia Korelii
-p_shipyard_moncal|Stocznia Kalamaru
-p_shipyard_mandalore|Stocznia Mandalora
+p_shipyard_corellia|Stocznia Corellii
+p_shipyard_moncal|Stocznia Dac
+p_shipyard_mandalore|Stocznia Mandalory
 p_shipyard_fondor|Stocznia Fondoru
 p_mandalore|Mandalore
 p_christophsis|Christophsis
@@ -47,10 +47,10 @@ p_spacestation_13|Przyczułek Christophsis
 p_spacestation_14|Stacja bojowa Nal Hutta
 p_spacestation_15|Stacja Bojowa Dantooine
 p_spacestation_16|Przyczułek Kashyyk
-p_spacestation_17|Przyczułek Curuscant
+p_spacestation_17|Przyczułek Coruscant
 p_spacestation_18|Stacja bojowa Hoth
 p_spacestation_19|Bakura
-p_spacestation_20|przyczułek Gamorr
+p_spacestation_20|Przyczułek Gamorr
 p_spacestation_21|Stacja bojowa Mandalor
 p_spacestation_22|Stacja bojowa Manaan
 p_spacestation_23|Stacja bojowa Corellia
@@ -91,7 +91,7 @@ p_minorplanet_15|Księżyc Corellia
 p_minorplanet_16|Vargnat
 p_minorplanet_17|Lannik
 p_minorplanet_18|Fondor
-p_minorplanet_19|Księżyc bakura
+p_minorplanet_19|Księżyc Bakura
 p_minorplanet_20|Księżyc Dac
 p_minorplanet_21|Isde Naha
 p_minorplanet_22|Duro
