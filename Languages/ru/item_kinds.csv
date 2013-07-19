@@ -1,0 +1,835 @@
+itm_horse_meat|Лошадиное мясо
+itm_practice_boots|Тренировочные ботинки
+itm_arena_tunic_white|Белая туника для арены 
+itm_arena_tunic_red|Красная туника для арены
+itm_arena_tunic_blue|Синяя туника для арены
+itm_arena_tunic_green|Зеленая туника для арены
+itm_arena_tunic_yellow|Желтая туника для арены
+itm_book_tactics|Голокрон - Тактика
+itm_book_persuasion|Голокрон - Убеждение
+itm_book_leadership|Голокрон - Лидерство
+itm_book_intelligence|Голокрон - Разведка
+itm_book_trade|Голокрон - Торговля
+itm_book_weapon_mastery|Голокрон - Владение оружием
+itm_book_engineering|Голокрон - Инженер
+itm_book_wound_treatment_reference|Медицинский дроид 2-1B
+itm_book_first_aid_reference|Медицинская база данных
+itm_book_tactics_reference|Столик для дежарика
+itm_book_trade_reference|Карты для сабакка
+itm_book_ironflesh_reference|Средство индивидуальной защиты
+itm_book_horse_archery_reference|Лазерный прицел
+itm_book_training_reference|Удаленная тренировка
+itm_book_surgery_reference|Капсула Бакты
+itm_smoked_fish|Копченая рыба
+itm_dried_meat|Бифштекс из нерфа
+itm_cattle_meat|Мясо нерфа
+itm_bantha_steak|Стейк из банты
+itm_pork|Свинина
+itm_bread|Хлеб
+itm_vagnerian_canape|Вагнерианское канапе
+itm_carbohydrate_pack|Пакет углеводов
+itm_apples|Яблоки
+itm_blue_milk|Синее молоко
+itm_mujo_fruit|Плод муджо
+itm_cheese|Кристофсианский сыр
+itm_chicken|Цыпленок
+itm_protein_pack|Пакет белков
+itm_honey|Мед
+itm_sausages|Сосиски из нерфов
+itm_cabbages|Капуста
+itm_bristle_melon|Дыня
+itm_butter|Масло из молока банты
+itm_container_spice_1|Партия специй Рилла
+itm_container_spice_2|Партия специй Грее
+itm_container_spice_3|Партия специй Глиттерстима
+itm_container_food_1|Партия овощей
+itm_container_food_2|Партия углеводов
+itm_container_food_3|Партия белков
+itm_container_metal_1|Партия слитков Бескара
+itm_container_metal_2|Партия слитков Дюрастали
+itm_container_metal_3|Партия слитков Бронция
+itm_container_death_sticks|Упаковка палочек Смерти
+itm_container_drink_1|Партия воды
+itm_container_drink_2|Партия черного эля
+itm_container_drink_3|Партия сока жьюри
+itm_carbonite_tibanna|Партия газа Тибанна в карбоните
+itm_container_ore|Контейнер руды
+itm_butter|Масло из молока банты
+itm_wine|Мандалорианское вино
+itm_ale|Кореллианское пиво
+itm_spice|Специи
+itm_salt|Морская соль Басселя
+itm_grain|Пшеница
+itm_flour|Мука
+itm_iron|Дюрасталь
+itm_bacta_injector|Инъектор Бакты
+itm_bacta_capsule|Капсула Бакты
+itm_binocular|Макробинокль
+itm_jetpack|Реактивный ранец
+itm_oil|Масло
+itm_pottery|Геонозианская керамика
+itm_linen|Шелк Лашаа
+itm_furs|Шкурки Эвоков
+itm_wookiee_fur|Шкура Вуки
+itm_trandoshan_skin|Кожа Трандашана
+itm_droid_parts|Части дроидов
+itm_wool|Шерсть Нерфа
+itm_velvet|Бархат Набу
+itm_tools|Гидроключ
+itm_siege_supply|Запасы
+itm_quest_wine|Вино
+itm_quest_ale|Пиво
+itm_pilgrim_disguise|Маскировка Пилигрима
+itm_pilgrim_hood|Капюшон Пилигрима
+itm_leather_gloves|Кожаные перчатки
+itm_wrapping_boots|Оберточные постолы
+itm_blue_hose|Синий рукав
+itm_hide_boots|Бесшумные ботинки
+itm_ankle_boots|Полусапоги
+itm_nomad_boots|Ботинки кочевника
+itm_dress|Платье
+itm_blue_dress|Синее платье
+itm_peasant_dress|Колониальное платье
+itm_woolen_dress|Шерстяное платье
+itm_courtly_outfit|Изысканная одежда
+itm_nobleman_outfit|Аристократическая одежда
+itm_leather_armor|Кожаная броня
+itm_shirt|Рубаха
+itm_linen_tunic|Льняная туника
+itm_short_tunic|Богатая туника
+itm_robe|Роба
+itm_coarse_tunic|Грубая туника
+itm_leather_apron|Кожаный фартук
+itm_tabard|Плащ
+itm_leather_vest|Кожаный жилет
+itm_gambeson|Камзол
+itm_blue_gambeson|Синий камзол
+itm_red_gambeson|Красный камзол
+itm_padded_cloth|Обитая одежда
+itm_leather_jerkin|Кожаная безрукавка
+itm_padded_leather|Обитая кожа
+itm_straw_hat|Соломенная шляпа
+itm_common_hood|Капюшон
+itm_headcloth|Платок
+itm_woolen_hood|Шерстяной капюшон
+itm_fur_hat|Меховая шапка
+itm_padded_coif|Обитая шапочка
+itm_woolen_cap|Шерстяная шапка
+itm_felt_hat|Фетровая шляпа
+itm_leather_cap|Кожаный головной убор
+itm_arming_cap|Боевой головной убор
+itm_female_hood|Капюшон леди
+itm_wooden_stick|Деревянная палка
+itm_club|Дубина
+itm_cleaver|Большой нож
+itm_knife|Нож
+itm_butchering_knife|Разделочный нож
+itm_hatchet|Топорик
+itm_quarter_staff|Жезл с наконечником
+itm_throwing_axes|Гаморреанские метательные топоры
+itm_rich_outfit|Богатый наряд
+itm_black_hood|Черный плащ
+itm_light_leather|Тонкая кожа
+itm_light_leather_boots|Легкая кожаная обувь
+itm_black_gloves|Черные перчатки
+itm_black_gloves_long|Длинные черные перчатки
+itm_right_hand_glove|Правая перчатка
+itm_grey_gloves|Серые перчатки
+itm_darkgrey_gloves|Темные серые перчатки
+itm_lady_gloves|Перчатки леди
+itm_mandalorian_crushgaunts|Мандалорианские бронеперчатки
+itm_imperial_royal_guard_gloves|Перчатки элитного имперского стражника
+itm_imperial_stormtrooper_gloves|Перчатки имперского штурмовика
+itm_novatrooper_gloves|Перчатки элитного штурмовика
+itm_incinerator_trooper_gloves|Перчатки солдата-сжигателя
+itm_clone_trooper_gloves_white|Перчатки клон-солдата
+itm_clone_trooper_gloves_green|Перчатки клон-солдата
+itm_clone_trooper_gloves_blue|Перчатки клон-солдата
+itm_clone_trooper_gloves_red|Перчатки клон-солдата
+itm_clone_trooper_gloves_yellow|Перчатки клон-солдата
+itm_clone_trooper_gloves_orange|Перчатки клон-солдата
+itm_grey_gloves_with_bottle|Серые перчатки с бутылкой
+itm_leather_boots|Кожаная обувь
+itm_leather_boots_reinforced|Уплотненные кожаные сапоги
+itm_black_boots|Черные ботинки
+itm_black_boots_reinforced|Уплотненные черные ботинки
+itm_grey_boots|Серые ботинки
+itm_white_boots|Белые ботинки
+itm_white_boots_reinforced|Уплотненные белые ботинки
+itm_imperial_royal_guard_boots|Обувь элитного имперского стражника
+itm_imperial_stormtrooper_boots|Обувь имперского штурмовика
+itm_imperial_stormtrooper_boots_incinerator|Обувь солдата-сжигателя
+itm_imperial_stormtrooper_boots_novatrooper|Обувь элитного штурмовика
+itm_imperial_scout_trooper_boots|Обувь имперского разведчика
+itm_shadow_scout_trooper_boots|Обувь темного разведчика
+itm_clone_trooper_boots|Обувь клон-солдата
+itm_lobot_headgear|Имплант Borg Aj^6
+itm_glasses_black|Очки для стрельбы
+itm_glasses_yellow|Очки для стрельбы
+itm_eyepiece_tactics|Тактический окуляр
+itm_eyepiece_leadership|Линза Лидера
+itm_slave_neck_chain|Цепь раба
+itm_officer_hat_white|Офицерская шляпа
+itm_civilian_cloak_hood|Городской плащ
+itm_imperial_hat_green|Имперский головной убор
+itm_imperial_hat_black|Имперский головной убор
+itm_imperial_hat_grey|Имперский головной убор
+itm_rebel_technician_helmet|Шлем кадета Повстанцев
+itm_rebel_trooper_helmet|Шлем солдата Постанцев
+itm_rebel_heavy_trooper_helmet|Шлем тяжелого солдата Повстанцев
+itm_rebel_honor_guard_helmet|Шлем почетного часового Повстанцев
+itm_transparent_helmet|Прозрачный шлем
+itm_imperial_trooper_helmet|Шлем имперского солдата
+itm_imperial_gunner_helmet|Шлем имперского командора
+itm_imperial_navy_trooper_helmet|Шлем имперского морпеха
+itm_mercenary_helmet|Шлем наемника
+itm_trandoshan_mask|Маска трандошана
+itm_trandoshan_helmet|Шлем трандошана
+itm_cap_military|Головной убор
+itm_cap_civilian_a|Головной убор
+itm_ewok_hat|Шапка Эвока
+itm_rancor_keeper_hat|Головной убор смотрителя Ранкора
+itm_rodian_ventilator|Вентилятор Родиана
+itm_rodian_ventilator_black|Вентилятор Родиан
+itm_rodian_ventilator_red|Вентилятор Родиана
+itm_gamorrean_helmet|Гаморреанский шлем
+itm_fang_helmet|Шлем с клыками
+itm_beak_helmet|Шлем-клюв
+itm_gas_mask|Противогаз
+itm_mining_helmet|Шахтерский шлем
+itm_pipe_helmet|Трубчатый респиратор
+itm_skiff_guard_helmet|Шлем стражника Скиффов
+itm_imperial_stormtrooper_helmet|Шлем имперского штурмовика
+itm_imperial_stormtrooper_helmet_incinerator|Шлем солдата-сжигателя
+itm_imperial_stormtrooper_helmet_novatrooper|Шлем элитного штурмовика
+itm_imperial_pilot_helmet|Шлем имперского пилота
+itm_clone_trooper_head|Голова клон-солдата
+itm_clone_trooper_head_scar|Голова клон-солдата
+itm_clone_trooper_helmet_white|Шлем клон-солдата
+itm_clone_trooper_helmet_green|Шлем клон-солдата
+itm_clone_trooper_helmet_blue|Шлем клон-солдата
+itm_clone_trooper_helmet_red|Шлем клон-солдата
+itm_clone_trooper_helmet_yellow|Шлем клон-солдата
+itm_clone_trooper_helmet_orange|Шлем клон-солдата
+itm_clone_trooper_helmet_mand|Шлем клон-солдата
+itm_clone_trooper_helmet_lux|Шлем клон-солдата
+itm_imperial_scout_trooper_helmet|Шлем имперского разведчика
+itm_shadow_scout_trooper_helmet|Шлем темного разведчика
+itm_republic_pilot_helmet|Шлем пилота Повстанцев
+itm_republic_commando_helmet|Шлем коммандо Повстанцев
+itm_republic_commando_desert_helmet|Шлем пустынного коммандо Повстанцев
+itm_republic_commando_urban_helmet|Шлем городского коммандо Повстанцев
+itm_rebel_sniper_helmet|Шлем снайпера Повстанцев
+itm_jedi_knight_hood|Капюшон рыцаря-джедая
+itm_jedi_knight_hood_unique|Капюшон рыцаря-джедая
+itm_sith_hood|Капюшон ситха
+itm_sith_hood_unique|Капюшон ситха
+itm_jedi_master_hood|Капюшон мастера-джедая
+itm_jedi_master_hood_unique|Капюшон мастера-джедая
+itm_jedi_knight_cloak|Плащ рыцаря-джедая
+itm_jedi_knight_cloak_hood|Плащ рыцаря-джедая
+itm_jedi_master_cloak|Плащ мастера-джедая
+itm_jedi_master_cloak_hood|Плащ мастера-джедая
+itm_sith_cloak|Плащ ситха
+itm_sith_cloak_hood|Плащ ситха
+itm_sith_cloak_mask|Плащ ситха
+itm_imperial_royal_guard_helmet|Шлем имперского элитного стражника
+itm_shadow_guard_helmet|Шлем темного стражника
+itm_desert_hat1|Пустынная шляпа
+itm_desert_hat2|Пустынная шляпа
+itm_desert_hat3|Пустынная шляпа
+itm_urban_hat1|Городская шляпа
+itm_urban_hat2|Городская шляпа
+itm_urban_hat3|Городская шляпа
+itm_camouflage_hat1|Камуфляжная шапка
+itm_camouflage_hat2|Камуфляжная шапка
+itm_camouflage_hat3|Камуфляжная шапка
+itm_dress_yellow|Платье леди
+itm_dress_red|Платье леди
+itm_dress_green|Платье леди
+itm_dress_blue|Платье леди
+itm_tunic_green|Туника
+itm_tunic_white|Туника
+itm_tunic_blue|Туника
+itm_tunic_red|Туника
+itm_tunic_yellow|Туника
+itm_padded_tunic_green|Обитая туника
+itm_padded_tunic_white|Обитая туника
+itm_padded_tunic_blue|Обитая туника
+itm_padded_tunic_red|Обитая туника
+itm_padded_tunic_yellow|Туника
+itm_officer_uniform_white|Офицерская униформа
+itm_imperial_uniform_black_plain|Имперская униформа
+itm_female_outfit_femconblack|Женский наряд
+itm_female_outfit_femconbrowngreen|Женская одежда
+itm_female_outfit_femcongrey|Женский наряд
+itm_female_outfit_femconorange|Женская одежда
+itm_female_outfit_femconwhite|Женский наряд
+itm_female_outfit_femconwhitebrown|Женский наряд
+itm_outfit_tan|Комбинезон
+itm_outfit_grey|Комбинезон
+itm_outfit_black|Комбинезон
+itm_outfit_green|Комбинезон
+itm_vest_open_a|Открытый жилет
+itm_vest_open_b|Открытый жилет
+itm_vest_closed_a|Закрытый жилет
+itm_vest_closed_b|Закрытый жилет
+itm_vest_closed_c|Закрытый жилет
+itm_shirt_blue|Рубаха
+itm_shirt_green|Рубаха
+itm_vest_closed_f|Теплая куртка
+itm_jacket_open_a|Открытая куртка
+itm_jacket_open_b|Открытая куртка
+itm_jacket_open_c|Открытая куртка
+itm_female_jacket_a|Женский жакет
+itm_female_jacket_b|Женская рубашка
+itm_female_jacket_c|Женский жакет
+itm_female_dress_a|Женское платье
+itm_female_dress_b|Женское платье
+itm_female_dancer_outfit_a|Наряд танцовщицы
+itm_female_dancer_outfit_a_cloak|Наряд танцовщицы
+itm_female_dancer_boots|Обувь танцовщицы
+itm_female_leather_a|Женская кожаная экипировка
+itm_female_leather_b|Женский кожаный наряд
+itm_female_leather_c|Женский кожаный наряд
+itm_female_leather_d|Женская кожаный наряд
+itm_jacket_closed_a|Закрытая куртка
+itm_jacket_closed_b|Закрытый жакет
+itm_jacket_closed_c|Закрытая куртка
+itm_klatooinian_armor|Клатуинианский доспех
+itm_scavenger_armor|Броня мародера
+itm_mercenary_armor|Броня наемника
+itm_crime_lord_armor|Доспех криминального лорда
+itm_trandoshan_flight_suit|Трандошанский лётный костюм
+itm_civilian_cloak|Гражданский плащ
+itm_white_cloak|Белый плащ
+itm_padded_armor_white|Уплотненная броня
+itm_padded_armor_red|Уплотненная броня
+itm_padded_armor_blue|Обитая броня
+itm_armor_blue|Синяя броня
+itm_armor_brown|Коричневая броня
+itm_armor_red|Красная броня
+itm_armor_white|Белая броня
+itm_pirate_armor|Пиратский доспех
+itm_imperial_uniform_black|Униформа имперского офицера
+itm_imperial_uniform_green|Униформа имперского офицера
+itm_rebel_uniform_tanblue|Униформа командира Повстанцев
+itm_rebel_uniform_green|Униформа офицера Повстанцев
+itm_imperial_trooper_armor|Доспех имперского солдата
+itm_imperial_navy_trooper_armor|Доспех имперского морпеха
+itm_imperial_trooper_armor|Доспех имперского солдата
+itm_rebel_technician_armor|Броня кадета Повстанцев
+itm_republic_trooper_armor|Броня солдата Повстанцев
+itm_rebel_heavy_trooper_armor|Доспех тяжелого солдата Повстанцев
+itm_jedi_initiate_robe|Роба ученика джедая
+itm_jedi_padawan_robe|Роба джедая-падавана
+itm_sith_acolyte_outfit|Одежда прислужника Ситхов
+itm_sith_apprentice_outfit|Одежда ученика Ситхов
+itm_imperial_scout_trooper_armor|Костюм имперского разведчика
+itm_shadow_scout_trooper_armor|Костюм темного разведчика
+itm_republic_pilot_armor|Костюм пилота Повстанцев
+itm_republic_commando_armor|Броня коммандо Повстанцев
+itm_republic_commando_desert_armor|Броня пустынного коммандо Повстанцев
+itm_republic_commando_urban_armor|Броня городского коммандо Повстанцев
+itm_rebel_sniper_armor|Костюм снайпера Повстанцев
+itm_imperial_stormtrooper_armor|Доспех имперского штурмовика
+itm_imperial_stormtrooper_armor_incinerator|Броня солдата-сжигателя
+itm_imperial_stormtrooper_armor_novatrooper|Доспех элитного штурмовика
+itm_imperial_stormtrooper_armor|Доспех имперского штурмовика
+itm_rebel_honor_guard_armor|Броня почетного часового Повстанцев
+itm_clone_trooper_armor_white|Доспех клон-солдата
+itm_clone_trooper_armor_green|Доспех клон-солдата
+itm_clone_trooper_armor_blue|Доспех клон-солдата
+itm_clone_trooper_armor_red|Доспех клон-солдата
+itm_clone_trooper_armor_yellow|Доспех клон-солдата
+itm_clone_trooper_armor_orange|Доспех клон-солдата
+itm_clone_trooper_armor_mand|Доспех клон-солдата
+itm_clone_trooper_armor_lux|Доспех клон-солдата
+itm_arc_trooper_armor_green|Доспех элитного разведчика
+itm_arc_trooper_armor_blue|Доспех элитного разведчика
+itm_arc_trooper_armor_red|Доспех элитного разведчика
+itm_arc_trooper_armor_yellow|Доспех элитного разведчика
+itm_arc_trooper_armor_orange|Доспех элитного разведчика
+itm_arc_trooper_armor_mand|Доспех элитного разведчика
+itm_arc_trooper_armor_lux|Доспех элитного разведчика
+itm_skiff_guard_armor_brown|Доспех стражника Скиффа
+itm_skiff_guard_armor_grey|Доспех стражника Скиффа
+itm_skiff_guard_armor_white|Доспех стражника Скиффа
+itm_hutt_palace_guard_armor|Броня стражника дворца Хатта
+itm_jedi_knight_robe|Роба рыцаря-джедая
+itm_jedi_knight_robe_unique|Роба рыцаря-джедая
+itm_jedi_guardian_robe_a|Роба джедая-хранителя
+itm_jedi_guardian_robe_b|Роба джедая-хранителя
+itm_jedi_guardian_robe_c|Роба джедая-хранителя
+itm_jedi_guardian_robe_d|Роба джедая-хранителя
+itm_sith_knight_robe|Роба рыцаря-ситха
+itm_sith_knight_robe_unique|Роба рыцаря-ситха
+itm_sith_knight_robe_a|Роба рыцаря-ситха
+itm_sith_knight_robe_b|Роба рыцаря-ситха
+itm_sith_knight_robe_c|Роба рыцаря-ситха
+itm_imperial_royal_guard_robe|Роба элитного имперского стражника
+itm_shadow_guard_robe|Роба темного стражника
+itm_imperial_stormtrooper_armor_officer|Доспех имперского штурмовика-офицера
+itm_sw_desert_armor|Тяжелая пустынная броня
+itm_sw_urban_armor|Тяжелая городская броня
+itm_sw_sniper_armor|Броня снайпера
+itm_jedi_robe_a|Роба джедая
+itm_jedi_robe_a_unique|Роба джедая
+itm_jedi_robe_b|Роба ситха
+itm_jedi_robe_b_long|Длинная роба ситха
+itm_jedi_robe_c|Роба джедая
+itm_jedi_robe_c_long|Длинная роба ситха
+itm_jedi_robe_d|Роба джедая
+itm_jedi_robe_d_unique|Роба джедая
+itm_jedi_robe_e|Роба джедая
+itm_jedi_robe_e_unique|Роба джедая
+itm_jedi_robe_f|Роба джедая
+itm_jedi_robe_f_unique|Роба джедая
+itm_jedi_master_robe|Роба джедая
+itm_jedi_master_robe_unique|Роба джедая
+itm_sith_marauder_robe|Роба ситха-мародера
+itm_sith_marauder_robe_unique|Роба ситха-мародера
+itm_sith_marauder_robe_a|Роба ситха-мародера
+itm_sith_marauder_robe_b|Роба ситха-мародера
+itm_sith_marauder_robe_c|Роба ситха-мародера
+itm_sith_marauder_robe_d|Роба ситха-мародера
+itm_sith_master_robe|Роба ситха-мастера
+itm_sith_master_robe_unique|Роба ситха-мастера
+itm_guard_armor|Доспехи стражи
+itm_guard_armor_red|Доспех Хранителя
+itm_blast_armor_black|Силовая броня
+itm_blast_armor_red|Активная броня
+itm_blast_armor_grey|Броня сапера
+itm_blast_armor_bluegrey|Армированный доспех
+itm_ubese_armor|Убезианская броня
+itm_ubese_armor_alt|Убезианская броня
+itm_wookiee_armor1|Броня вуки
+itm_wookiee_armor1_merch|Броня вуки
+itm_wookiee_armor2|Броня вуки
+itm_wookiee_armor2_merch|Броня вуки
+itm_wookiee_hunter_armor|Броня охотника вуки
+itm_wookiee_hunter_helmet|Шлем охотника вуки
+itm_wookiee_female_head|Голова женщины вуки
+itm_wookiee_female_body|Тело женщины вуки
+itm_wookiee_female_hands|Руки женщины вуки
+itm_wookiee_female_feet|Ноги женщины вуки
+itm_kaminoan_female_head|Голова каминоанской женщины
+itm_kaminoan_female_body|Тело каминоанской женщины
+itm_droid_weapon_no_attack|Оружие рукопашного боя для дроидов
+itm_r2series_blue|Синий R-2
+itm_r2series_green|Зеленый R-2
+itm_r2series_orange|Оранжевый R-2
+itm_r2series_purple|Фиолетовый R-2
+itm_mse6_armor|Корпус дроида серии MSE
+itm_lin_droid_armor|Корпус дроида серии LIN
+itm_lin_droid_armor_w_arm|Корпус дроида серии LIN
+itm_power_droid_grey|Энергетический дроид
+itm_power_droid_snow|Энергетический дроид
+itm_power_droid_tan|Энергетический дроид
+itm_fxseries_droid_armor|Корпус мед-дроида серии FX
+itm_c3po_blue_head|Голова дроида серии 3PO
+itm_c3po_blue_hands|Руки дроида серии 3PO
+itm_c3po_blue_body|Корпус дроида серии 3PO
+itm_c3po_blue_feet|Ноги дроида серии 3PO
+itm_c3po_gold_head|Голова дроида серии 3PO
+itm_c3po_gold_hands|Руки дроида серии 3PO
+itm_c3po_gold_body|Корпус дроида серии 3PO
+itm_c3po_gold_feet|Ноги дроида серии 3PO
+itm_c3po_grey_head|Голова дроида серии 3PO
+itm_c3po_grey_hands|Руки дроида серии 3PO
+itm_c3po_grey_body|Корпус дроида серии 3PO
+itm_c3po_grey_feet|Ноги дроида серии 3PO
+itm_c3po_red_head|Голова дроида серии 3PO
+itm_c3po_red_hands|Ноги дроида серии 3PO
+itm_c3po_red_body|Корпус дроида серии 3PO
+itm_c3po_red_feet|Ноги дроида серии 3PO
+itm_3poseries_gold|Золотой дроид серии 3PO
+itm_3poseries_blue|Синий дроид серии 3PO
+itm_3poseries_red|Красный дроид серии 3PO
+itm_3poseries_grey|Серый дроид серии 3PO
+itm_3poseries_attack|Модуль рукопашного боя серии 3PO
+itm_b1series_body|Корпус боевого дроида B-1
+itm_bxseries_body|Корпус дроида-коммандос BX
+itm_oomseries_body|Корпус охранного дроида OOM
+itm_oomseries_pilot_body|Корпус дроида пилота OOM
+itm_oomseries_marine_body|Корпус дроида морпеха OOM
+itm_oomseries_command_body|Корпус дроида командира OOM
+itm_battle_droid_attack|Модуль рукопашного боя B-1
+itm_b2series_body|Корпус дроида серии B2
+itm_b2series_body_enhanced|Корпус боевого дроида C-B3
+itm_b2series_attack|Модуль рукопашного боя B2
+itm_b2series_blaster|Бластер дроида B2
+itm_transparent_droid_head|Прозрачная голова для дроидов
+itm_transparent_droid_hands|Прозрачные руки для дроидов
+itm_transparent_droid_feet|Прозрачные ноги для дроидов
+itm_ig88_head|Голова дроида серии IG
+itm_ig88_hands|Руки дроида серии IG
+itm_ig88_body|Корпус дроида серии IG
+itm_ig88_feet|Ноги дроида серии IG
+itm_ig88_attack| 
+itm_ig88_e11_shield|E-11 - Щит дроида IG
+itm_ig88_dlt20a|DLT-20A дроида IG
+itm_4lom_head|Голова дроида серии LOM
+itm_hk_head|Голова дроида серии HK
+itm_hk_hands|Руки дроида серии HK
+itm_hk_body|Корпус дроида серии HK
+itm_hk_feet|Ноги дроида серии HK
+itm_hk_attack| 
+itm_mandalorian_tunic|Мандалорианская туника
+itm_mandalorian_soldier_helmet|Шлем солдата-Мандалориана
+itm_mandalorian_soldier_helmet2|Шлем солдата-Мандалориана
+itm_mandalorian_soldier_helmet3|Шлем солдата-Мандалориана
+itm_mandalorian_soldier_armor|Доспех солдата-Мандалориана
+itm_mandalorian_soldier_armor2|Доспех солдата-Мандалориана
+itm_mandalorian_soldier_boots|Обувь солдата-Мандалориана
+itm_mandalorian_commando_helmet|Шлем коммандо-Мандалориана
+itm_mandalorian_commando_armor|Доспех коммандо-Мандалориана
+itm_mandalorian_commando_armor2|Доспех коммандо-Мандалориана
+itm_mandalorian_commando_boots|Обувь коммандо-Мандалориана
+itm_mandalorian_sniper_helmet|Шлем снайпера-Мандалориана
+itm_mandalorian_sniper_armor|Броня снайпера-Мандалориана
+itm_mandalorian_sniper_armor2|Броня снайпера-Мандалориана
+itm_mandalorian_sniper_armor3|Броня снайпера-Мандалориана
+itm_mandalorian_sniper_boots|Обувь снайпера-Мандалориана
+itm_mandalorian_crusader_helmet|Шлем крестоносца-Мандалориана
+itm_mandalorian_neocrusader_helmet|Шлем нео-крестоносца Мандалориана
+itm_mandalorian_crusader_armor|Доспех крестоносца-Мандалориана
+itm_mandalorian_crusader_boots|Обувь крестоносца-Мандалориана
+itm_mandalorian_deadeye_helmet|Шлем стрелка-Мандалориана
+itm_mandalorian_deadeye_armor|Доспех стрелка-Мандалориана
+itm_mandalorian_deadeye_armor2|Доспех стрелка-Мандалориана
+itm_mandalorian_deadeye_armor3|Доспех стрелка-Мандалориана
+itm_mandalorian_deadeye_boots|Обувь стрелка-Мандалориана
+itm_mandalorian_beskar_helmet|Мандалорианский бескаровый шлем
+itm_mandalorian_beskar_armor|Мандалорианский бескаровый доспех
+itm_mandalorian_beskar_boots|Мандалорианская бескаровая обувь
+itm_defiler_helmet|Шлем Опустошителя
+itm_defiler_armor|Броня Опустошителя
+itm_defiler_boots|Обувь Опустошителя
+itm_black_sun_helmet|Шлем &quot;Черного Солнца&quot;
+itm_black_sun_helmet_tan|Шлем &quot;Черного Солнца&quot;
+itm_black_sun_helmet_teal|Шлем &quot;Черного Солнца&quot;
+itm_black_sun_helmet_red|Шлем &quot;Черного Солнца&quot;
+itm_black_sun_armor|Броня  &quot;Черного Солнца&quot;
+itm_black_sun_armor_tan|Броня  &quot;Черного Солнца&quot;
+itm_black_sun_armor_teal|Броня  &quot;Черного Солнца&quot;
+itm_black_sun_armor_red|Броня  &quot;Черного Солнца&quot;
+itm_gamorrean_armor|Гаморреанский доспех
+itm_moncal_armor|Броня Мон-Каламари
+itm_moncal_armor_2|Броня Мон-Каламари
+itm_moncal_boots|Обувь Мон-Каламари
+itm_moncal_helmet|Шлем Мон-Каламари
+itm_twilek_armor|Броня Тви'лека
+itm_jawa_hood|Голова джавы
+itm_jawa_robe|Роба джавы
+itm_jawa_boots|Сапоги джавы
+itm_tusken_helmet|Тускенский шлем
+itm_tusken_armor|Тускенский костюм
+itm_trandoshan_armor|Костюм трандошана
+itm_geonosian_armor|Костюм геонозиана
+itm_lightsaber_green_arena|Световой меч
+itm_lightsaber_blue_arena|Световой меч
+itm_lightsaber_yellow_arena|Световой меч
+itm_lightsaber_red_arena|Световой меч
+itm_lightsaber_green|Световой меч
+itm_lightsaber_blue|Световой меч
+itm_lightsaber_orange|Световой меч
+itm_lightsaber_purple|Световой меч
+itm_lightsaber_yellow|Световой меч
+itm_lightsaber_red|Световой меч
+itm_lightsaber_green_reverse|Световой меч с обратной рукоятью
+itm_lightsaber_blue_reverse|Световой меч с обратной рукоятью
+itm_lightsaber_orange_reverse|Световой меч с обратной рукоятью
+itm_lightsaber_purple_reverse|Световой меч с обратной рукоятью
+itm_lightsaber_yellow_reverse|Световой меч с обратной рукоятью
+itm_lightsaber_red_reverse|Световой меч с обратной рукоятью
+itm_lightsaber_blue_double|Двойной световой меч
+itm_lightsaber_green_double|Двойной световой меч
+itm_lightsaber_orange_double|Двойной световой меч
+itm_lightsaber_purple_double|Двойной световой меч
+itm_lightsaber_red_double|Двойной световой меч
+itm_lightsaber_yellow_double|Двойной световой меч
+itm_lightsaber_green_2h|Двуручный световой меч
+itm_lightsaber_blue_2h|Двуручный световой меч
+itm_lightsaber_orange_2h|Двуручный световой меч
+itm_lightsaber_purple_2h|Двуручный световой меч
+itm_lightsaber_yellow_2h|Двуручный световой меч
+itm_lightsaber_red_2h|Двуручный световой меч
+itm_lightsaber_green_1h|Одноручный световой меч
+itm_lightsaber_blue_1h|Одноручный световой меч
+itm_lightsaber_orange_1h|Одноручный световой меч
+itm_lightsaber_purple_1h|Одноручный световой меч
+itm_lightsaber_yellow_1h|Одноручный световой меч
+itm_lightsaber_red_1h|Одноручный световой меч
+itm_lightsaber_green_pike|Световая пика
+itm_lightsaber_blue_pike|Световая пика
+itm_lightsaber_orange_pike|Световая пика
+itm_lightsaber_purple_pike|Световая пика
+itm_lightsaber_yellow_pike|Световая пика
+itm_lightsaber_red_pike|Световая пика
+itm_darth_vader_lightsaber|Световой меч Дарта Вейдера
+itm_obi_wan_lightsaber|Световой меч Оби-Вана
+itm_luke_skywalker_lightsaber|Световой меч Люка
+itm_anakin_skywalker_lightsaber|Световой меч Энакина
+itm_lightsaber_red_multikill|Мульти-ударный световой меч (в разработке)
+itm_melee_punch| 
+itm_durasteel_staff|Дюрасталевый жезл
+itm_electro_staff_medium|Энергетический посох
+itm_electro_staff_long|Силовой жезл
+itm_gamorrean_axe_1h|Одноручный гаморреанский топор
+itm_gamorrean_axe_2h|Двуручный гаморреанский топор
+itm_vibro_axe_medium_1h|Одноручный вибро-топор
+itm_vibro_axe_medium_2h|Двуручный вибро-топор
+itm_vibro_axe_long_1h|Одноручный вибро-топор
+itm_vibro_axe_long_2h|Вибро-резак BD-1
+itm_tusken_gaffi_staff|Жезл Гаффи
+itm_tusken_gaffi_stick|Посох Гаффи
+itm_durasteel_mace|Дюрасталевая булава
+itm_baton|Дубинка
+itm_trandoshan_blade|Трандошанский меч
+itm_durasteel_bat|Дюрасталевая бита
+itm_force_pike|Силовая пика
+itm_geonosian_static_pike|Геонозианская статическая пика
+itm_pipe1|Труба
+itm_pipe2|Труба
+itm_ryyk_blade|Клинок Руук
+itm_ryyk_kerarthorr|Клинок Руук-Керарторр
+itm_ryyk_blade_chieftain|Клинок главаря Руук
+itm_sith_sword|Меч Ситха
+itm_combat_knife|Боевой нож
+itm_twilek_dagger|Кинжал Твилеков
+itm_vibro_knuckler|Вибро-кастет
+itm_vibro_blade1|Вибро-меч
+itm_vibro_blade2|Вибро-меч
+itm_vibro_blade3|Вибро-меч
+itm_vibro_blade4|Вибро-меч
+itm_vibro_sword1b|Вибро-меч
+itm_vibro_sword2b|Двуручный вибромеч
+itm_vibro_sword3_gold|Вибро-меч
+itm_vibro_sword3_blue|Вибро-меч
+itm_vibro_sword3_red|Вибро-меч
+itm_tutorial_lightsaber|Световой меч
+itm_practice_vibro_axe_medium|Гаморреанский вибро-топор
+itm_practice_vibro_axe_long|Вибро-резак BD-1
+itm_practice_vibro_axe_long_no_attack|Вибро-резак BD-1
+itm_practice_vibro_blade|Вибро-меч
+itm_practice_vibro_sword3a|Вибромеч
+itm_practice_vibro_sword2b|Двуручный вибромеч
+itm_practice_vibro_sword1b|Вибромеч
+itm_quick_battle_armor|Доспехи
+itm_transparent_helmet_armor|Прозрачный шлем с броней
+itm_twilek_female_helmet_armor|Шлем Твилеки с броней
+itm_twilek_male_head_bib|Голова Биба Фортуны
+itm_weequay_head_helmet_a|Голова виквая
+itm_weequay_head_helmet_b|Голова виквая
+itm_klatooinian_head_helmet_a|Голова клатуниана
+itm_nikto_head_helmet_a|Голова никто
+itm_nikto_head_helmet_b|Голова никто
+itm_nikto_head_helmet_c|Голова никто
+itm_tarkin_head|Голова гран-моффа Таркина
+itm_ben_head|Голова Бена Кеноби
+itm_leia_head|Голова Леи Органы
+itm_rancor_body_a|Тело ранкора
+itm_rancor_body_b|Тело ранкора
+itm_rancor_body_c|Тело ранкора
+itm_rancor_attack| 
+itm_rancor_keeper_armor|Одежда смотрителя ранкора
+itm_yoda_armor|Одежда и кресло Йоды
+itm_yoda_lightsaber|Световой меч Йоды
+itm_yoda_speeder|Прозрачный спидер Йоды
+itm_jabba_armor|Одежда и кресло Джаббы
+itm_jabba_attack|Jabba No Attack
+itm_jabba_speeder|Прозрачный спидер Джабы
+itm_transparent_head|Прозрачная голова
+itm_transparent_body|Прозрачное тело
+itm_transparent_hands|Прозрачные руки
+itm_transparent_feet|Прозрачные ноги
+itm_darth_vader_helmet|Шлем Дарта Вейдера
+itm_darth_vader_armor|Броня Дарта Вейдера
+itm_darth_vader_feet|Сапоги Дарта Вейдера
+itm_princess_leia_outfit|Одежда Принцессы Лейи
+itm_princess_leia_blaster|Бластер Лейи DDC &quot;Защитник&quot; \n
+itm_han_solo_outfit|Одежда Хана Соло
+itm_han_solo_blaster|DL-44 Хана Соло
+itm_luke_skywalker_outfit|Одежда Люка
+itm_chewbacca_bowcaster|Арбалет Чубакки
+itm_chewbacca_ryyk_blade|Клинок Рукк Чубакки
+itm_boba_fett_armor|Доспехи Бобы Фета
+itm_boba_fett_helmet|Шлем Бобы Фета
+itm_boba_fett_boots|Обувь Бобы Фетта
+itm_boba_fett_blaster|EE-3 Бобы Фета
+itm_joruus_lightsaber|Световой меч Кбаоч
+itm_dengar_armor|Доспехи Денгара
+itm_dengar_helmet|Обмотка головы Денгара
+itm_dengar_boots|Сапоги Денгара
+itm_dengar_gloves|Перчатки Денгара
+itm_weequay_vibro_axe|Вибро-топор Виквая
+itm_force_throw_lightsaber_green|Метательный световой меч
+itm_force_throw_lightsaber_blue|Метательный световой меч
+itm_force_throw_lightsaber_orange|Метательный световой меч
+itm_force_throw_lightsaber_purple|Метательный световой меч
+itm_force_throw_lightsaber_yellow|Метательный световой меч
+itm_force_throw_lightsaber_red|Метательный световой меч
+itm_force_throw_lightsaber_green_merch|Метательный световой меч
+itm_force_throw_lightsaber_blue_merch|Метательный световой меч
+itm_force_throw_lightsaber_orange_merch|Метательный световой меч
+itm_force_throw_lightsaber_purple_merch|Метательный световой меч
+itm_force_throw_lightsaber_yellow_merch|Метательный световой меч
+itm_force_throw_lightsaber_red_merch|Метательный световой меч
+itm_force_throw_lightsaber_green_pike|Метательная световая пика
+itm_force_throw_lightsaber_blue_pike|Метательная световая пика
+itm_force_throw_lightsaber_orange_pike|Метательная световая пика
+itm_force_throw_lightsaber_purple_pike|Метательная световая пика
+itm_force_throw_lightsaber_yellow_pike|Метательная световая пика
+itm_force_throw_lightsaber_red_pike|Метательная световая пика
+itm_force_throw_lightsaber_red_double|Метательный двойной световой меч
+itm_twilek_dagger_throwing|Метательные кинжалы Твилеков
+itm_discblade|Диск-Лезвие
+itm_thermal_detonator1|Термальный детонатор
+itm_thermal_detonator2|Термальный детонатор
+itm_thermal_detonator3|Термальный детонатор
+itm_energy_shield_red_small|Малый энергетический щит
+itm_energy_shield_blue_small|Малый энергетический щит
+itm_energy_shield_green_small|Малый энергетический щит
+itm_energy_shield_yellow_small|Малый энергетический щит
+itm_energy_shield_red_medium|Средний энергетический щит
+itm_energy_shield_blue_medium|Средний энергетический щит
+itm_energy_shield_green_medium|Средний энергетический щит
+itm_energy_shield_yellow_medium|Средний энергетический щит
+itm_energy_shield_red_large|Большой энергетический щит
+itm_energy_shield_blue_large|Большой энергетический щит
+itm_energy_shield_green_large|Большой энергетический щит
+itm_energy_shield_yellow_large|Большой энергетический щит
+itm_energy_shield_oval|Овальный энергетический щит
+itm_energy_shield_circle|Круглый энергетический щит
+itm_durasteel_shield_small|Малый дюрасталевый щит
+itm_durasteel_shield_small_2|Малый дюрасталевый щит
+itm_durasteel_shield_large|Большой дюрасталевый щит
+itm_wookiee_shield_small|Малый щит Вуки
+itm_wookiee_shield_large|Большой щит Вуки
+itm_westar_shield|Westar-34 - Щит
+itm_ryyk_kerarthorr_shield|Щит Руук-Керарторр
+itm_ryyk_blade_shield|Клинок Руук - Щит
+itm_lightsaber_block_blue|Световой меч - Щит
+itm_lightsaber_block_green|Световой меч - Щит
+itm_lightsaber_block_orange|Световой меч - Щит
+itm_lightsaber_block_purple|Световой меч - Щит
+itm_lightsaber_block_red|Световой меч - Щит
+itm_lightsaber_block_yellow|Световой меч - Щит
+itm_force_block|Блок Силы
+itm_force_shield|Щит
+itm_force_protect|Оберег Силы
+itm_hero_shield|Прозрачный щит Героя
+itm_practice_energy_shield|Тренировочный энергетический щит
+itm_tutorial_energy_shield|Энергетический щит - Обучение
+itm_force_throw_lightsaber_t|Метание светового меча
+itm_force_throw_lightsaber_tl|Метание светового меча
+itm_force_lightning_ammo|Молния
+itm_force_push_ammo|Толчок
+itm_laser_bolts_green_pistol|Газ. картриджи - Плазма
+itm_laser_bolts_red_pistol|Газ. картриджи - Плазма
+itm_laser_bolts_orange_pistol|Газ. картриджи - Плазма
+itm_laser_bolts_yellow_pistol|Газ. картриджи - Плазма
+itm_laser_bolts_blue_pistol|Газ. картриджи - Плазма
+itm_stun_beam_pistol|Луч. картриджи - Оглушение
+itm_ion_beam_pistol|Ионные луч. картриджи
+itm_sonic_beam_pistol|Акустич. картриджи
+itm_ammo_belt_pistol|Пояс боеприпасов
+itm_disruptor_ammo|Импульсные пистол. патроны
+itm_laser_bolts_green_rifle|Газ. картриджи - Плазма
+itm_laser_bolts_red_rifle|Газ. картриджи - Плазма
+itm_laser_bolts_orange_rifle|Газ. картриджи - Плазма
+itm_laser_bolts_yellow_rifle|Газ. картриджи - Плазма
+itm_laser_bolts_blue_rifle|Газ. картриджи - Плазма
+itm_stun_beam_rifle|Луч. картриджи - Оглушение
+itm_ion_beam_rifle|Луч. картриджи - Оглушение
+itm_sonic_beam_rifle|Луч. картриджи - Акустические
+itm_ammo_belt_rifle|Пояс боеприпасов
+itm_disruptor_ammo_rifle|Импульсные винтов. заряды
+itm_laser_bolts_training_pistol|Лазерные заряды
+itm_laser_bolts_training_rifle|Лазерные заряды
+itm_force_power_ls_1|Сила - Ученик
+itm_force_power_ls_2|Сила - Падаван
+itm_force_power_ls_3|Сила - Рыцарь
+itm_force_power_ls_4|Сила - Мастер
+itm_force_power_ds_1|Сила - Ученик
+itm_force_power_ds_2|Сила - Падаван
+itm_force_power_ds_3|Сила - Рыцарь
+itm_force_power_ds_4|Сила - Мастер
+itm_force_jump|Прыжок
+itm_a280|A-280
+itm_a280_crouch|A-280
+itm_a280_stun|Оглуш. A-280s
+itm_a295|A-295
+itm_a295_crouch|A-295
+itm_a295_stun|Оглуш. A-295s
+itm_mandalorian_heavy_blaster|Мандалорский тяжелый бластер
+itm_corellian_destroyer_blaster|Кореллианский бластер Разрушителя
+itm_dlt19|DLT-19
+itm_dlt19_scope|DLT-19 - Прицел
+itm_dlt20a|DLT-20A
+itm_e17d|E-17d
+itm_dc15a|DC-15A
+itm_dc15a_hip|DC-15A
+itm_dc15s|DC-15S
+itm_trandoshan_acp_array_gun|Трандошанский излучатель ACP
+itm_trandoshan_stun_gun|Трандошанский шок. бластер
+itm_quicksnap_36t|QuickSnap 36T
+itm_bothan_bola_carabine|Ботанский Карабин Бола
+itm_ee3|EE-3
+itm_ee3_stun|Шок. EE-3s
+itm_mg15|RT-97C
+itm_e5|E-5
+itm_e11|E-11
+itm_e11_hip|E-11
+itm_e11_stun|Шок. E-11s
+itm_wookiee_bowcaster|Арбалет
+itm_kashyyyk_long_gun|Винтовка с Кашиика
+itm_tusken_rifle|Цикл. Винтовка Тускен
+itm_geonosian_sonic_rifle|Геонозианское звуковое орудие
+itm_t21|T-21
+itm_senate_rifle|Ружье стражи
+itm_kisteer_1284|KiSteer 1284
+itm_ion_blaster|Ионный бластер
+itm_heavy_repeater|Имперский тяжелый повторитель
+itm_storm_rifle|Винтовка штурмовика
+itm_dh17|DH-17
+itm_dh17_stun|Оглуш. DH-17
+itm_se14r|SE-14R
+itm_dl44a|DL-44
+itm_dl44a_stun|Оглуш. DL-44
+itm_dl44b|Мод. DL-44
+itm_q2|Q2
+itm_q2_stun|Шок. Q2
+itm_elg3a|ELG-3A
+itm_elg3a_stun|Шок. ELG-3As
+itm_scout_trooper_pistol|Пистолет имперского разведчика
+itm_ddc_defender|DDC Defender
+itm_geonosian_sonic_pistol|Геонозианский звуковой пистолет
+itm_dl18|DL-18
+itm_westar|Westar-34
+itm_westar_stun|Оглуш. Westar-34
+itm_ion_pistol|Ионный пистолет
+itm_trandoshan_supressor|Трандошанский подавитель
+itm_wrist_blaster|Наручный бластер
+itm_practice_dl44|DL-44
+itm_dl44a_training|DL-44
+itm_dlt19_training|DLT-19 - Прицел
+itm_heavy_weapons_ammo|Боеприпасы для тяж. оружия
+itm_rocket_launcher|RDP-12 Гранатомет (в разработке)
+itm_flame_rifle|CR-24 Огнемет (в разработке)
+itm_concussion_rifle|W-90 (в разработке)
+itm_force_kill|Убийство
+itm_force_choke|Удушение
+itm_force_knockdown|Удар
+itm_force_stun|Оглушение
+itm_speeder|Граждан. спидер 74-Z
+itm_speeder_rebel|Воен. спидер 74-Z
+itm_speeder_imperial|Воен. спидер Z4-Z
+itm_speeder_hutt|Воен. спидер Z4-Z
+itm_speeder_shadow|Темн. спидер 74-Z
+itm_speeder_fc20|Спидер FC-20
+itm_horus_winged_cruiser|Крылатый крейсер - Хорус
+itm_speeder_dagger|Спидер 74-Z с лезвиями
+itm_practice_speeder|Граждан. спидер 74-Z
+itm_arena_speeder|Граждан. спидер 74-Z
