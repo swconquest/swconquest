@@ -1,0 +1,171 @@
+p_shipyard_trade_federation|Ticaret Federasyonu
+p_shipyard_kuat|Kuat Tersanesi
+p_shipyard_raxus|Asal Raxus Tersanesi
+p_shipyard_corellia|Korelya Tersanesi
+p_shipyard_moncal|Dak Tersanesi
+p_shipyard_mandalore|Mandalor Tersanesi
+p_shipyard_fondor|Fondor Tersanesi
+p_mandalore|Mandalor
+p_christophsis|Kristosis
+p_endor|Endor
+p_corellia|Korelya
+p_naboo|Naboo
+p_kessel|Kessel
+p_dantooine|Dantoni
+p_geonosis|Geonosis
+p_mon_cal|Dak
+p_kashyyyk|Kaski
+p_hoth|Hoth
+p_gamorr|Gamor
+p_yavin_iv|Yavin 4
+p_tatooine|Tatuni
+p_manaan|Manan
+p_coruscant|Korusant
+p_ryloth|Rylot
+p_nalhutta|Nal Huta
+p_bothawui|Botawu
+p_mustafar|Mustafar
+p_kamino|Kamino
+p_taris|Taris
+p_raxusprime|Asil Raxus
+p_sarapin|Sarapin
+p_hypori|Hypori
+p_felucia|Felusya
+p_bespin|Bespin
+p_spacestation_2|Korelya Kışlası
+p_spacestation_3|Yavin 4 Savaş İstasyonu
+p_spacestation_4|Dagobah
+p_spacestation_5|Death Star
+p_spacestation_6|Endor Kışlası
+p_spacestation_7|Dak Savaş İstasyonu
+p_spacestation_8|Rylot Savaş İstasyonu
+p_spacestation_9|Kristosis Savaş İstasyonu
+p_spacestation_10|Kessel Savaş İstasyonu
+p_spacestation_11|Avatar Platformu
+p_spacestation_12|Manan Kışlası
+p_spacestation_13|Kristosis Kışlası
+p_spacestation_14|Nal Hutta Savaş İstasyonu
+p_spacestation_15|Dantoni Savaş İstasyonu
+p_spacestation_16|Kaski Kışlası
+p_spacestation_17|Korusant Kışlası
+p_spacestation_18|Hoth Savaş İstasyonu 
+p_spacestation_19|Bakura
+p_spacestation_20|Gamor Kışlası
+p_spacestation_21|Mandalor Savaş İstasyonu
+p_spacestation_22|Manan Savaş İstasyonu
+p_spacestation_23|Korelya Savaş İstasyonu
+p_spacestation_24|Geonosis Savaş İstasyonu
+p_spacestation_25|Mandalor Kışlası
+p_spacestation_26|Genosis Kışlası
+p_spacestation_27|Kessel Kışlası
+p_spacestation_28|Datomir
+p_spacestation_29|Hoth Kışlası
+p_spacestation_30|Tatuni Savaş İstasyonu
+p_spacestation_31|Gamor Savaş İstasyonu
+p_spacestation_32|Rylot Kışlası
+p_spacestation_33|Naboo Kışlası
+p_spacestation_34|Dantoin Kışlası
+p_spacestation_35|Naboo Savaş İstasyonu
+p_spacestation_36|Corusant Savaş İstasyonu
+p_spacestation_37|Yavin 4 Kışlası
+p_spacestation_38|Nal Hutta Kışlası
+p_spacestation_39|Dak Kışlası
+p_spacestation_40|Tatoni Kışlası
+p_spacestation_41|Ren Var
+p_spacestation_42|Saleukami
+p_minorplanet_1|Honoghr
+p_minorplanet_2|Çandrilya
+p_minorplanet_3|Tolatin
+p_minorplanet_4|Ilum
+p_minorplanet_5|Sernpidal
+p_minorplanet_6|Velmor
+p_minorplanet_7|Hoth Ayı
+p_minorplanet_8|Bespin Ayı
+p_minorplanet_9|Dubrilyon
+p_minorplanet_10|Riflor
+p_minorplanet_11|Sisken
+p_minorplanet_12|Asil Rakata
+p_minorplanet_13|Myrkr
+p_minorplanet_14|Ziost
+p_minorplanet_15|Korelya Ayı
+p_minorplanet_16|Vargnat 
+p_minorplanet_17|Lannik
+p_minorplanet_18|Fondor
+p_minorplanet_19|Bakura Ayı
+p_minorplanet_20|Dak Ayı
+p_minorplanet_21|Isde Naha
+p_minorplanet_22|Duro
+p_minorplanet_23|Korusant Ayı
+p_minorplanet_24|Anot
+p_minorplanet_25|Tatuni Ayı
+p_minorplanet_26|Rori
+p_minorplanet_27|Bilbiringi
+p_minorplanet_28|Tyna
+p_minorplanet_29|Dantoni Ayı
+p_minorplanet_30|Corulag
+p_minorplanet_31|Togorya
+p_minorplanet_32|Gall
+p_minorplanet_33|Munulist
+p_minorplanet_34|Ruria
+p_minorplanet_35|Iridonya
+p_minorplanet_36|Kessel Ayı
+p_minorplanet_37|Bimsari
+p_minorplanet_38|Belkadan
+p_minorplanet_39|Helska
+p_minorplanet_40|Saki
+p_minorplanet_41|Nar Sadda
+p_minorplanet_42|Botawu Ayı
+p_minorplanet_43|Alzok 3
+p_minorplanet_44|Rusan
+p_minorplanet_45|Datomir Ayı
+p_minorplanet_46|Yag'Dul
+p_minorplanet_47|Selvaris
+p_minorplanet_48|Sump
+p_minorplanet_49|Mustafar Ayı
+p_minorplanet_50|Dosun
+p_minorplanet_51|Yaga Minor
+p_minorplanet_52|Nar Kreta
+p_minorplanet_53|Pzob
+p_minorplanet_54|Barab 1
+p_minorplanet_55|Lamared
+p_minorplanet_56|Ithor
+p_minorplanet_57|Kuat
+p_minorplanet_58|Rodia
+p_minorplanet_59|Bastion
+p_minorplanet_60|Anobis
+p_minorplanet_61|Thispias
+p_minorplanet_62|Vyun
+p_minorplanet_63|Drongar
+p_minorplanet_64|Kamino Ayı
+p_minorplanet_65|Mimban
+p_minorplanet_66|Asil Alaris
+p_minorplanet_67|Wayland
+p_minorplanet_68|Vulpter
+p_minorplanet_69|Bimmiel
+p_minorplanet_70|Gamor Ayı
+p_minorplanet_71|Konkordiya
+p_minorplanet_72|Bogden
+p_minorplanet_73|Dagobah Ayı
+p_minorplanet_74|Ron
+p_minorplanet_75|Almanya
+p_minorplanet_76|Obroa Skay
+p_minorplanet_77|Ord Mantel
+p_minorplanet_78|Carros 4
+p_minorplanet_79|Manan Ayı
+p_minorplanet_80|N'Zot
+p_minorplanet_81|Brental
+p_minorplanet_82|Garqi
+p_minorplanet_83|Xal 3
+p_minorplanet_84|Kristopsis Ayı
+p_minorplanet_85|Pindar
+p_minorplanet_86|Val
+p_minorplanet_87|Serenno
+p_minorplanet_88|Derra 4 
+p_minorplanet_89|Rylot Ayı
+p_minorplanet_90|Kom
+p_training_ground|Antrenman Alanı
+p_training_ground_1|Antrenman Akademisi
+p_training_ground_2|Antrenman Akademisi
+p_training_ground_3|Antrenman Akademisi
+p_training_ground_4|Antrenman Akademisi
+p_training_ground_5|Antrenman Akademisi

@@ -13,19 +13,19 @@ itm_book_trade|Holokorn Handlu
 itm_book_weapon_mastery|Holokorn Mistrzostwa w Broniach
 itm_book_engineering|Holokorn Inżynierii
 itm_book_wound_treatment_reference|Droid Medyczy 2-1B
-itm_book_first_aid_reference|Medyczna Baza Danych\n
+itm_book_first_aid_reference|Medyczna Baza Danych
 itm_book_tactics_reference|Plansza do Dejariku
 itm_book_trade_reference|Talia do Sabaka
 itm_book_ironflesh_reference|Osobista tarcza energetyczna
-itm_book_horse_archery_reference|Stabilizator Laseru
+itm_book_horse_archery_reference|Luneta Laserowa
 itm_book_training_reference|Zdalniak Treningowy
 itm_book_surgery_reference|Zbiornik Bacty
 itm_smoked_fish|Wędzone Ryby
 itm_dried_meat|Pieczeń z Nerfa
-itm_cattle_meat|Mięso Nerfów
+itm_cattle_meat|Mięso z Nerfów
 itm_bantha_steak|Stek z Banthy
-itm_pork|Prosiaki
-itm_bread|Chleby
+itm_pork|Wieprzowina
+itm_bread|Chleb
 itm_vagnerian_canape|Vagneriański Przysmak
 itm_carbohydrate_pack|Porcje Węglowodanów
 itm_apples|Jabłka
@@ -36,18 +36,18 @@ itm_chicken|Kurczaki
 itm_protein_pack|Porcje Protein
 itm_honey|Miód
 itm_sausages|Kiełbasa z Nerfów
-itm_cabbages|Kapusty
+itm_cabbages|Kapusta
 itm_bristle_melon|Włochate Melony
 itm_butter|Masło z Banthy
-itm_container_spice_1|Transport przyprawy Ryll
-itm_container_spice_2|Transport przyprawy Gree
-itm_container_spice_3|Transport Błyszczostymu
+itm_container_spice_1|Przesyłka przyprawy Ryll
+itm_container_spice_2|Przesyłka przyprawy Gree
+itm_container_spice_3|Przesyłka Błyszczostymu
 itm_container_food_1|Przesyłka z warzywami
-itm_container_food_2|Transport węglowodanów
+itm_container_food_2|Przesyłka węglowodanów
 itm_container_food_3|Pakunek Protein
-itm_container_metal_1|Transport sztabek Beskaru
-itm_container_metal_2|Pakunek sztab Durastali
-itm_container_metal_3|Transport sztabek Bronzium
+itm_container_metal_1|Przesyłka sztabek Beskaru
+itm_container_metal_2|Przesyłka sztab Durastali
+itm_container_metal_3|Przesyłka sztabek Bronzium
 itm_container_death_sticks|Karton Strzałek Śmierci
 itm_container_drink_1|Przesyłka Wody
 itm_container_drink_2|Paczka Czarnego piwa
@@ -56,16 +56,16 @@ itm_carbonite_tibanna|Paczka Karbonitu dla Gazu Tibanna
 itm_container_ore|Pojemnik Rudy
 itm_butter|Masło z Banthy
 itm_wine|Wino Mandaloriańskie
-itm_ale|Koreliańskie Piwo
+itm_ale|Piwo Koreliańskie
 itm_spice|Przyprawy
 itm_salt|Sól z morza Bassel
-itm_grain|Pszenica
+itm_grain|Zboże
 itm_flour|Mąka
 itm_iron|Durastal
 itm_bacta_injector|Dozownik Bacty
 itm_bacta_capsule|Kapsuła Bacty
-itm_binocular|Makrobinokularna Lornetka
-itm_jetpack|Plecak Odrzutowy
+itm_binocular|Makrolornetka
+itm_jetpack|Jetpack
 itm_oil|Olej
 itm_pottery|Geonosjańska Ceramika
 itm_linen|Jedwab Lashaa
@@ -84,12 +84,12 @@ itm_pilgrim_hood|Kaptur Pielgrzyma
 itm_leather_gloves|Skórzane Rękawice
 itm_wrapping_boots|Onuce
 itm_blue_hose|Niebieskie Pończochy
-itm_hide_boots|Buty z Niewyprawionej Skóry
+itm_hide_boots|Buty ze Skóry
 itm_ankle_boots|Buty do Kostek
-itm_nomad_boots|Buty Koczowników
+itm_nomad_boots|Buty Nomadów
 itm_dress|Suknia
 itm_blue_dress|Niebieska Suknia
-itm_peasant_dress|Plebska Suknia
+itm_peasant_dress|Suknia Kolonialna
 itm_woolen_dress|Wełniana Suknia
 itm_courtly_outfit|Strój Dworski
 itm_nobleman_outfit|Strój Szlachecki
@@ -105,7 +105,7 @@ itm_leather_vest|Skórzany Kaftan
 itm_gambeson|Przeszywanica
 itm_blue_gambeson|Niebieska Przeszywanica
 itm_red_gambeson|Czerwona Przeszywanica
-itm_padded_cloth|Watowane Ubranie
+itm_padded_cloth|Podbite Ubranie
 itm_leather_jerkin|Skórzany Kabat
 itm_padded_leather|Garbowana Skóra
 itm_straw_hat|Słomiany Kapelusz
@@ -117,7 +117,7 @@ itm_padded_coif|Watowany Czepiec
 itm_woolen_cap|Wełniana Czapka
 itm_felt_hat|Filcowa Czapka
 itm_leather_cap|Skórzana Czapka
-itm_arming_cap|Skórzany Czepiec
+itm_arming_cap|Czapka Wojskowa
 itm_female_hood|Kaptur Damy
 itm_wooden_stick|Drewniany Kij
 itm_club|Maczuga
@@ -125,7 +125,7 @@ itm_cleaver|Tasak
 itm_knife|Nóż
 itm_butchering_knife|Rzeźnicki Nóż
 itm_hatchet|Toporek
-itm_quarter_staff|Quarterstaff
+itm_quarter_staff|Długi Kij
 itm_throwing_axes|Gamorreańskie Toporki do Rzucania
 itm_rich_outfit|Bogaty Strój
 itm_black_hood|Czarny Kaptur
@@ -133,22 +133,22 @@ itm_light_leather|Lekka Skóra
 itm_light_leather_boots|Lekkie Skórzane Buty
 itm_black_gloves|Czarne Rękawice
 itm_black_gloves_long|Długie Czarne Rękawice
-itm_right_hand_glove|Rękawica Praworęczna
+itm_right_hand_glove|Prawa rękawica
 itm_grey_gloves|Szare Rękawice
 itm_darkgrey_gloves|Ciemnoszare Rękawice
 itm_lady_gloves|Damskie Rękawice
 itm_mandalorian_crushgaunts|Mandaloriańskie Rękawice
 itm_imperial_royal_guard_gloves|Rękawice Imperialnego Gwardzisty
 itm_imperial_stormtrooper_gloves|Rękawice Szturmowca
-itm_novatrooper_gloves|Rękawice Novatoopera
+itm_novatrooper_gloves|Rękawice Novatroopera
 itm_incinerator_trooper_gloves|Rękawiczki Szturmowca 
-itm_clone_trooper_gloves_white|Rękawice Żołnierza-klona
-itm_clone_trooper_gloves_green|Rękawice Żołnierza-klona
-itm_clone_trooper_gloves_blue|Rękawice Żołnierza-klona
-itm_clone_trooper_gloves_red|Rękawice Żołnierza-klona
-itm_clone_trooper_gloves_yellow|Rękawice Żołnierza-klona
-itm_clone_trooper_gloves_orange|Rękawice Żołnierza-klona
-itm_grey_gloves_with_bottle|Szare Rękawice z butlą
+itm_clone_trooper_gloves_white|Rękawice Klona
+itm_clone_trooper_gloves_green|Rękawice Klona
+itm_clone_trooper_gloves_blue|Rękawice Klona
+itm_clone_trooper_gloves_red|Rękawice Klona
+itm_clone_trooper_gloves_yellow|Rękawice Klona
+itm_clone_trooper_gloves_orange|Rękawice Klona
+itm_grey_gloves_with_bottle|Szare Rękawice z Butelką
 itm_leather_boots|Skórzane Buty
 itm_leather_boots_reinforced|Wzmocnione Skórzane Buty
 itm_black_boots|Czarne Buty
@@ -158,15 +158,15 @@ itm_white_boots|Białe Buty
 itm_white_boots_reinforced|Wzmocnione Białe Buty
 itm_imperial_royal_guard_boots|Buty Imperialnego Gwardzisty
 itm_imperial_stormtrooper_boots|Buty Szturmowca
-itm_imperial_stormtrooper_boots_incinerator|Buty Szturmowca Incinerator
-itm_imperial_stormtrooper_boots_novatrooper|Buty novatroopera
+itm_imperial_stormtrooper_boots_incinerator|Buty Szturmowca-Spopielacza
+itm_imperial_stormtrooper_boots_novatrooper|Buty Novatroopera
 itm_imperial_scout_trooper_boots|Buty Imperialnego Zwiadowcy
-itm_shadow_scout_trooper_boots|Buty Czarnego Zwiadowcy
-itm_clone_trooper_boots|Buty Żołnierza-klona
-itm_lobot_headgear|Borg Construct Aj^6
+itm_shadow_scout_trooper_boots|Czarne Buty Imperialnego Zwiadowcy
+itm_clone_trooper_boots|Buty Klona
+itm_lobot_headgear|Okulary Konstrukcyjne Borg Aj^6
 itm_glasses_black|Okulary Strzeleckie
 itm_glasses_yellow|Okulary Strzeleckie
-itm_eyepiece_tactics|Taktyczny Okular
+itm_eyepiece_tactics|Okular Taktyczny
 itm_eyepiece_leadership|Okular Dowódcy
 itm_slave_neck_chain|Obroża Niewolnika
 itm_officer_hat_white|Czapka Oficerska
@@ -182,13 +182,13 @@ itm_transparent_helmet|Przezroczysty Hełm
 itm_imperial_trooper_helmet|Hełm Imperialnego Piechura
 itm_imperial_gunner_helmet|Hełm Imperialnego Artylerzysty
 itm_imperial_navy_trooper_helmet|Hełm Imperialnego Szeregowca
-itm_mercenary_helmet|Hełm Najemników
+itm_mercenary_helmet|Hełm Najemnika
 itm_trandoshan_mask|Trandoshańska Maska
 itm_trandoshan_helmet|Trandoshański Hełm
 itm_cap_military|Czapka
 itm_cap_civilian_a|Czapka
 itm_ewok_hat|Czapka z Ewoka
-itm_rancor_keeper_hat|Czpka Opiekuna Rankorów
+itm_rancor_keeper_hat|Czapka Opiekuna Rankorów
 itm_rodian_ventilator|Rodiańska Maska
 itm_rodian_ventilator_black|Rodiańska Maska
 itm_rodian_ventilator_red|Rodiańska Maska
@@ -200,30 +200,30 @@ itm_mining_helmet|Hełm Górniczy
 itm_pipe_helmet|Hełm Rurkowy
 itm_skiff_guard_helmet|Hełm Strażnika Skiffów
 itm_imperial_stormtrooper_helmet|Hełm Imperialnego Szturmowca
-itm_imperial_stormtrooper_helmet_incinerator|Hełm Szturmowca Incinerator
+itm_imperial_stormtrooper_helmet_incinerator|Hełm Szturmowca-Spopielacza
 itm_imperial_stormtrooper_helmet_novatrooper|Hełm Novatroopera\n
 itm_imperial_pilot_helmet|Hełm Imperialnego Pilota
-itm_clone_trooper_head|Głowa Żołnierza-klona
-itm_clone_trooper_head_scar|Głowa Żołnierza-klona
-itm_clone_trooper_helmet_white|Hełm Żołnierza-klona
-itm_clone_trooper_helmet_green|Hełm Żołnierza-klona
-itm_clone_trooper_helmet_blue|Hełm Żołnierza-klona
-itm_clone_trooper_helmet_red|Hełm Żołnierza-klona
-itm_clone_trooper_helmet_yellow|Hełm Żołnierza-klona
-itm_clone_trooper_helmet_orange|Hełm Żołnierza-klona
-itm_clone_trooper_helmet_mand|Hełm Żołnierza-klona
-itm_clone_trooper_helmet_lux|Hełm Żołnierza-klona
+itm_clone_trooper_head|Głowa Klona
+itm_clone_trooper_head_scar|Głowa Klona
+itm_clone_trooper_helmet_white|Hełm Klona
+itm_clone_trooper_helmet_green|Hełm Klona
+itm_clone_trooper_helmet_blue|Hełm Klona
+itm_clone_trooper_helmet_red|Hełm Klona
+itm_clone_trooper_helmet_yellow|Hełm Klona
+itm_clone_trooper_helmet_orange|Hełm Klona
+itm_clone_trooper_helmet_mand|Hełm Klona
+itm_clone_trooper_helmet_lux|Hełm Klona
 itm_imperial_scout_trooper_helmet|Hełm Imperialnego Zwiadowcy
-itm_shadow_scout_trooper_helmet|Hełm Czarnego Zwiadowcy
+itm_shadow_scout_trooper_helmet|Czarny Hełm Imperialnego Zwiadowcy
 itm_republic_pilot_helmet|Hełm Rebelianckiego Pilota
 itm_republic_commando_helmet|Hełm Rebelianckiego Komandosa
-itm_republic_commando_desert_helmet|Hełm Rebelianckiego Pustynnego Komandosa
-itm_republic_commando_urban_helmet|Hełm Rebelianckiego Miejskiego Komandosa
+itm_republic_commando_desert_helmet|Pustynny Hełm Rebelianckiego Komandosa
+itm_republic_commando_urban_helmet|Miejski Hełm Rebelianckiego Komandosa
 itm_rebel_sniper_helmet|Hełm Rebelianckiego Snajpera
 itm_jedi_knight_hood|Kaptur Rycerza Jedi
 itm_jedi_knight_hood_unique|Kaptur Rycerza Jedi
-itm_sith_hood|Kaptur Shitha
-itm_sith_hood_unique|Kaptur Shitha
+itm_sith_hood|Kaptur Sitha
+itm_sith_hood_unique|Kaptur Sitha
 itm_jedi_master_hood|Kaptur Mistrza Jedi
 itm_jedi_master_hood_unique|Kaptur Mistrza Jedi
 itm_jedi_knight_cloak|Peleryna Rycerza Jedi
@@ -234,16 +234,16 @@ itm_sith_cloak|Peleryna Sitha
 itm_sith_cloak_hood|Peleryna Sitha z Kapturem
 itm_sith_cloak_mask|Peleryna Sitha z Maską
 itm_imperial_royal_guard_helmet|Hełm Imperialnego Gwardzisty
-itm_shadow_guard_helmet|Hełm Imperialnego Czarnego Gwardzisty
+itm_shadow_guard_helmet|Czarny Hełm Imperialnego Zwiadowcy
 itm_desert_hat1|Pustynna Czapka
 itm_desert_hat2|Pustynna Czapka
 itm_desert_hat3|Pustynna Czapka
 itm_urban_hat1|Miejska Czapka
 itm_urban_hat2|Miejska Czapka
 itm_urban_hat3|Miejska Czapka
-itm_camouflage_hat1|Czapka Kamuflująca
-itm_camouflage_hat2|Czapka Kamuflująca
-itm_camouflage_hat3|Czapka Kamuflująca
+itm_camouflage_hat1|Czapka Moro
+itm_camouflage_hat2|Czapka Moro
+itm_camouflage_hat3|Czapka Moro
 itm_dress_yellow|Suknia
 itm_dress_red|Suknia
 itm_dress_green|Suknia
@@ -253,13 +253,13 @@ itm_tunic_white|Tunika
 itm_tunic_blue|Tunika
 itm_tunic_red|Tunika
 itm_tunic_yellow|Tunika
-itm_padded_tunic_green|Watowana Tunika
-itm_padded_tunic_white|Watowana Tunika
-itm_padded_tunic_blue|Watowana Tunika
-itm_padded_tunic_red|Watowana Tunika
+itm_padded_tunic_green|Podbijana Tunika
+itm_padded_tunic_white|Podbijana Tunika
+itm_padded_tunic_blue|Podbijana Tunika
+itm_padded_tunic_red|Podbijana Tunika
 itm_padded_tunic_yellow|Tunika
 itm_officer_uniform_white|Mundur Oficerski
-itm_imperial_uniform_black_plain|Imperialny Uniform
+itm_imperial_uniform_black_plain|Mundur Imperialny
 itm_female_outfit_femconblack|Kobiecy Strój
 itm_female_outfit_femconbrowngreen|Kobiecy Strój
 itm_female_outfit_femcongrey|Kobiecy Strój
@@ -272,40 +272,40 @@ itm_outfit_black|Kombinezon
 itm_outfit_green|Kombinezon
 itm_vest_open_a|Rozpięta Kamizelka
 itm_vest_open_b|Rozpięta Kamizelka
-itm_vest_closed_a|Zpięta Kamizelka
-itm_vest_closed_b|Zpięta Kamizelka
-itm_vest_closed_c|Zpięta Kamizelka
+itm_vest_closed_a|Zapięta Kamizelka
+itm_vest_closed_b|Zapięta Kamizelka
+itm_vest_closed_c|Zapięta Kamizelka
 itm_shirt_blue|Koszula
 itm_shirt_green|Koszula
 itm_vest_closed_f|Kurtka
 itm_jacket_open_a|Rozpięta Kurtka
 itm_jacket_open_b|Rozpięta Kurtka
 itm_jacket_open_c|Rozpięta Kurtka
-itm_female_jacket_a|Żakiet
-itm_female_jacket_b|Żakiet
-itm_female_jacket_c|Żakiet
+itm_female_jacket_a|Kobieca Kurtka
+itm_female_jacket_b|Kobieca Kurtka
+itm_female_jacket_c|Kobieca Kurtka
 itm_female_dress_a|Sukienka
 itm_female_dress_b|Sukienka
 itm_female_dancer_outfit_a|Strój Tancerki
 itm_female_dancer_outfit_a_cloak|Strój Tancerki
 itm_female_dancer_boots|Buty Tancerki
-itm_female_leather_a|Kobiecy Skurzany Strój
-itm_female_leather_b|Kobiecy Skurzany Strój
-itm_female_leather_c|Kobiecy Skurzany Strój
-itm_female_leather_d|Kobiecy Skurzany Strój
-itm_jacket_closed_a|Zpięta Kurtka
-itm_jacket_closed_b|Zpięta Kurtka
-itm_jacket_closed_c|Zpięta Kurtka
+itm_female_leather_a|Kobiecy Skórzany Strój
+itm_female_leather_b|Kobiecy Skórzany Strój
+itm_female_leather_c|Kobiecy Skórzany Strój
+itm_female_leather_d|Kobiecy Skórzany Strój
+itm_jacket_closed_a|Zapięta Kurtka
+itm_jacket_closed_b|Zapięta Kurtka
+itm_jacket_closed_c|Zapięta Kurtka
 itm_klatooinian_armor|Klatooiniańska Zbroja
-itm_scavenger_armor|Zbroja Śmieciarza
+itm_scavenger_armor|Zbroja Złomiarza
 itm_mercenary_armor|Zbroja Najemnika
 itm_crime_lord_armor|Zbroja Szefa Kartelu
 itm_trandoshan_flight_suit|Trandoshański Kostium Lotniczy
 itm_civilian_cloak|Cywilna Peleryna
 itm_white_cloak|Biała Peleryna
-itm_padded_armor_white|Watowana Zbroja
-itm_padded_armor_red|Watowana Zbroja
-itm_padded_armor_blue|Watowana Zbroja
+itm_padded_armor_white|Podbity Pancerz
+itm_padded_armor_red|Podbity Pancerz
+itm_padded_armor_blue|Podbity Pancerz
 itm_armor_blue|Zbroja
 itm_armor_brown|Zbroja
 itm_armor_red|Zbroja
@@ -314,7 +314,7 @@ itm_pirate_armor|Zbroja
 itm_imperial_uniform_black|Mundur Imperialnego Oficera
 itm_imperial_uniform_green|Mundur Imperialnego Oficera
 itm_rebel_uniform_tanblue|Mundur Rebelianckiego Komandora
-itm_rebel_uniform_green|Mundur Rebelianckiego Komandora
+itm_rebel_uniform_green|Mundur Rebelianckiego Oficera
 itm_imperial_trooper_armor|Zbroja Imperialnego Piechura
 itm_imperial_navy_trooper_armor|Zbroja Imperialnego Szeregowca
 itm_imperial_trooper_armor|Zbroja Imperialnego Piechura
@@ -326,25 +326,25 @@ itm_jedi_padawan_robe|Szata Padawana
 itm_sith_acolyte_outfit|Strój Akolity Sithów
 itm_sith_apprentice_outfit|Strój Adepta Sithów
 itm_imperial_scout_trooper_armor|Zbroja Imperialnego Zwiadowcy
-itm_shadow_scout_trooper_armor|Zbroja Czarnego Zwiadowcy
-itm_republic_pilot_armor|Zbroja Rebelianckiego Pilota
-itm_republic_commando_armor|Zbroja Rebelianckiego Komandosa
-itm_republic_commando_desert_armor|Zbroja Rebelianckiego Pustynnego Komandosa
-itm_republic_commando_urban_armor|Zbroja Rebelianckiego Miejskiego Komandosa
+itm_shadow_scout_trooper_armor|Czarna zbroja Imperialnego Zwiadowcy
+itm_republic_pilot_armor|Pancerz Rebelianckiego Pilota
+itm_republic_commando_armor|Pancerz Rebelianckiego Komandosa
+itm_republic_commando_desert_armor|Pustynna Zbroja Rebelianckiego Komandosa
+itm_republic_commando_urban_armor|Miejski Pancerz Rebelianckiego Komandosa
 itm_rebel_sniper_armor|Zbroja Rebelianckiego Snajpera
 itm_imperial_stormtrooper_armor|Zbroja Imperialnego Szturmowca
-itm_imperial_stormtrooper_armor_incinerator|Panceż Szturmowca Incinerator
-itm_imperial_stormtrooper_armor_novatrooper|Panceż Novatrooper
+itm_imperial_stormtrooper_armor_incinerator|Pancerz Szturmowca-Spopielacza
+itm_imperial_stormtrooper_armor_novatrooper|Pancerz Novatroopera
 itm_imperial_stormtrooper_armor|Zbroja Imperialnego Szturmowca
 itm_rebel_honor_guard_armor|Zbroja Rebelianckiego Honorowego Gwardzisty
-itm_clone_trooper_armor_white|Zbroja Żołnierza-klona
-itm_clone_trooper_armor_green|Zbroja Żołnierza-klona
-itm_clone_trooper_armor_blue|Zbroja Żołnierza-klona
-itm_clone_trooper_armor_red|Zbroja Żołnierza-klona
-itm_clone_trooper_armor_yellow|Zbroja Żołnierza-klona
-itm_clone_trooper_armor_orange|Zbroja Żołnierza-klona
-itm_clone_trooper_armor_mand|Zbroja Żołnierza-klona
-itm_clone_trooper_armor_lux|Zbroja Żołnierza-klona
+itm_clone_trooper_armor_white|Zbroja Klona
+itm_clone_trooper_armor_green|Zbroja Klona
+itm_clone_trooper_armor_blue|Zbroja Klona
+itm_clone_trooper_armor_red|Zbroja Klona
+itm_clone_trooper_armor_yellow|Zbroja Klona
+itm_clone_trooper_armor_orange|Zbroja Klona
+itm_clone_trooper_armor_mand|Zbroja Klona
+itm_clone_trooper_armor_lux|Zbroja Klona
 itm_arc_trooper_armor_green|Zbroja Klona ARC
 itm_arc_trooper_armor_blue|Zbroja Klona ARC
 itm_arc_trooper_armor_red|Zbroja Klona ARC
@@ -358,17 +358,17 @@ itm_skiff_guard_armor_white|Zbroja Strażnika Skiffów
 itm_hutt_palace_guard_armor|Zbroja Huttańskiego Strażnika Pałacowego
 itm_jedi_knight_robe|Szata Rycerza Jedi
 itm_jedi_knight_robe_unique|Szata Rycerza Jedi
-itm_jedi_guardian_robe_a|Szata strażnika jedi
-itm_jedi_guardian_robe_b|Szata strażnika jedi
-itm_jedi_guardian_robe_c|Szata strażnika jedi
-itm_jedi_guardian_robe_d|Szata strażnika jedi
+itm_jedi_guardian_robe_a|Szata Strażnika Jedi
+itm_jedi_guardian_robe_b|Szata Strażnika Jedi
+itm_jedi_guardian_robe_c|Szata Strażnika Jedi
+itm_jedi_guardian_robe_d|Szata Strażnika Jedi
 itm_sith_knight_robe|Szata Rycerza Sithów
 itm_sith_knight_robe_unique|Szata Rycerza Sithów
-itm_sith_knight_robe_a|Szata mistrza Sithów
-itm_sith_knight_robe_b|Szata mistrza Sithów
-itm_sith_knight_robe_c|Szata mistrza Sithów
+itm_sith_knight_robe_a|Szata Rycerza Sithów
+itm_sith_knight_robe_b|Szata Rycerza Sithów
+itm_sith_knight_robe_c|Szata Rycerza Sithów
 itm_imperial_royal_guard_robe|Szata Imperialnego Gwardzisty
-itm_shadow_guard_robe|Szata Imperialnego Czarnego Gwardzisty
+itm_shadow_guard_robe|Czarna Szara Imperialnego Gwardzisty
 itm_imperial_stormtrooper_armor_officer|Zbroja Imperialnego Szturmowca Oficera
 itm_sw_desert_armor|Ciężka Pustynna Zbroja
 itm_sw_urban_armor|Ciężka Miejska Zbroja

@@ -1,0 +1,835 @@
+itm_horse_meat|At eti
+itm_practice_boots|Antreman botu
+itm_arena_tunic_white|Beyaz arena tuniği 
+itm_arena_tunic_red|Kırmızı arena tuniği
+itm_arena_tunic_blue|Mavi arena tuniği
+itm_arena_tunic_green|Yeşil arena tuniği
+itm_arena_tunic_yellow|Sarı arena tuniği
+itm_book_tactics|Taktik holokronu
+itm_book_persuasion|İkna holokronu
+itm_book_leadership|Liderlik holokronu
+itm_book_intelligence|Zeka holokronu
+itm_book_trade|Ticaret holokronu
+itm_book_weapon_mastery|Kılıç ustalığı holokronu
+itm_book_engineering|Mühendis holokronu
+itm_book_wound_treatment_reference|2-1B Sağlık Droidi
+itm_book_first_aid_reference|Tıbbi Veritabanı
+itm_book_tactics_reference|Dejarik Masası
+itm_book_trade_reference|Sabacc Kartları
+itm_book_ironflesh_reference|Kişisel Kalkan
+itm_book_horse_archery_reference|Lazer Nişanı
+itm_book_training_reference|Alıştırma robotu
+itm_book_surgery_reference|Bacta Tankı
+itm_smoked_fish|Pişmiş Blık
+itm_dried_meat|Sinir Bifteği
+itm_cattle_meat|Sinir Eti
+itm_bantha_steak|Bantha Bifteği
+itm_pork|Domuz
+itm_bread|Ekmek
+itm_vagnerian_canape|Vagnerli Kanapesi
+itm_carbohydrate_pack|Karbonhidrat Paketi
+itm_apples|Elmalar
+itm_blue_milk|Mavi Süt
+itm_mujo_fruit|Mujo Meyvesi
+itm_cheese|Kristophisis Peyniri
+itm_chicken|Tavuk
+itm_protein_pack|Protein Paketi
+itm_honey|Bal
+itm_sausages|Sinir Sosisi
+itm_cabbages|Lahana
+itm_bristle_melon|Bristle Kavunu
+itm_butter|Bantha Yağı
+itm_container_spice_1|Ryll Sosu
+itm_container_spice_2|Gree Sosu
+itm_container_spice_3|Glitterstim Sosu
+itm_container_food_1|Sebze Kargosu
+itm_container_food_2|Karbonhidrat Kargosu
+itm_container_food_3|Protein Kargosu
+itm_container_metal_1|Beskar çikolataları
+itm_container_metal_2|Durasteel çikolataları
+itm_container_metal_3|Bronzium çikolataları
+itm_container_death_sticks|Ölüm Sopaları Kartonu
+itm_container_drink_1|Su kargosu
+itm_container_drink_2|Siyah Bira Kargosu
+itm_container_drink_3|Juri Meyve suyu kargosu
+itm_carbonite_tibanna|Tibanna Gazının Karbonit Kargosu Yüklemesi\n
+itm_container_ore|Maden konteynırı
+itm_butter|Bantha Yağı
+itm_wine|Mandolar İçkisi
+itm_ale|Correllian Birası
+itm_spice|Sos
+itm_salt|Basses deniz tuzu
+itm_grain|Buğdat
+itm_flour|Un
+itm_iron|Durasteel
+itm_bacta_injector|Bakta Püskürtücü
+itm_bacta_capsule|Bakta Kapsülü
+itm_binocular|Makro Dürbünler
+itm_jetpack|Jet Paketi
+itm_oil|Yağ
+itm_pottery|Geonosian Çömleği
+itm_linen|Lasha İpeği
+itm_furs|Ewok Tüyü
+itm_wookiee_fur|Wookiee Derisi
+itm_trandoshan_skin|Trandoshan Derisi
+itm_droid_parts|Droid Parçaları
+itm_wool|Sinir Yün
+itm_velvet|Naboo Kadifesi
+itm_tools|Hidroserası
+itm_siege_supply|Levazım
+itm_quest_wine|Şarap
+itm_quest_ale|Bira
+itm_pilgrim_disguise|Seyyah Maskesi
+itm_pilgrim_hood|Seyyah Kapşonu
+itm_leather_gloves|Deri Eldivenler
+itm_wrapping_boots|Sarma Botlar
+itm_blue_hose|Mavi Çorap
+itm_hide_boots|Deri Botlar
+itm_ankle_boots|Ayak Bileği Botları
+itm_nomad_boots|Göçebe Bot
+itm_dress|Elbise
+itm_blue_dress|Mavi Elbise
+itm_peasant_dress|Koloni Elbisesi
+itm_woolen_dress|Yün Elbise
+itm_courtly_outfit|Mahkeme Kıyafeti
+itm_nobleman_outfit|Soylu Kıyafeti
+itm_leather_armor|Deri Zırh
+itm_shirt|Şört
+itm_linen_tunic|Keten Tunik
+itm_short_tunic|Zengin Tuniği
+itm_robe|Cübbe
+itm_coarse_tunic|Kaba Tunik
+itm_leather_apron|Deri Apron
+itm_tabard|Tabard
+itm_leather_vest|Deri Gömlek
+itm_gambeson|Gambeson
+itm_blue_gambeson|Mavi Gambeson
+itm_red_gambeson|Kırmızı Gambeson
+itm_padded_cloth|Pamuklu Kıyafet
+itm_leather_jerkin|Deri Yelek
+itm_padded_leather|Yünlü Deri
+itm_straw_hat|Saman Şapka
+itm_common_hood|Kapşon
+itm_headcloth|Baş Zırhı
+itm_woolen_hood|Yün Kask
+itm_fur_hat|Post Şapka
+itm_padded_coif|Yün Takke
+itm_woolen_cap|Yün Kasket
+itm_felt_hat|Keçe Şapka
+itm_leather_cap|Deri Şapka
+itm_arming_cap|Ordu Kaskı
+itm_female_hood|Bayan Kapşonu
+itm_wooden_stick|Tahta Çubuk
+itm_club|Sopa
+itm_cleaver|Satır
+itm_knife|Bıçak
+itm_butchering_knife|Kasap Bıçağı
+itm_hatchet|Nacak
+itm_quarter_staff|Acemi Sopası
+itm_throwing_axes|Gamorrean Fırlatma Baltası
+itm_rich_outfit|Zengin Kıyafeti
+itm_black_hood|Nigga Kapşonu
+itm_light_leather|Hafif Deri
+itm_light_leather_boots|Hafif Deri Bot
+itm_black_gloves|Siyah Eldivenler
+itm_black_gloves_long|Uzun Siyah Eldivenler
+itm_right_hand_glove|Sağ El Eldiveni
+itm_grey_gloves|Gri Eldivenler
+itm_darkgrey_gloves|Koyu Gri Eldivenler
+itm_lady_gloves|Bayan Eldiven
+itm_mandalorian_crushgaunts|Mandolar Yıkım Eldiveni
+itm_imperial_royal_guard_gloves|Asil İmparatorluk Bekçisi Eldiveni
+itm_imperial_stormtrooper_gloves|İmparatorluk Stormtrooper Eldiveni
+itm_novatrooper_gloves|Nova Askeri Eldiveni
+itm_incinerator_trooper_gloves|Yakma Fırını Askeri Eldiveni
+itm_clone_trooper_gloves_white|Klon Askeri Eldiveni
+itm_clone_trooper_gloves_green|Klon Askeri Eldiveni
+itm_clone_trooper_gloves_blue|Klon Askeri Eldiveni
+itm_clone_trooper_gloves_red|Klon Askeri Eldiveni
+itm_clone_trooper_gloves_yellow|Klon Askeri Eldiveni
+itm_clone_trooper_gloves_orange|Klon Askeri Eldiveni
+itm_grey_gloves_with_bottle|Şişeli Gri Eldiven
+itm_leather_boots|Deri Botlar
+itm_leather_boots_reinforced|Sağlamlaştırılmış Deri Botlar
+itm_black_boots|Siyah Botlar
+itm_black_boots_reinforced|Sağlamlaştırılmış Siyah Botlar
+itm_grey_boots|Gri Botlar
+itm_white_boots|Beyaz Botlar
+itm_white_boots_reinforced|Sağlamlaştırılmış Beyaz Botlar
+itm_imperial_royal_guard_boots|İmparatorluk Asil Bekçileri Botları
+itm_imperial_stormtrooper_boots|İmparatorluk Stormtrooper Botlar
+itm_imperial_stormtrooper_boots_incinerator|Yakma Fırını Askeri Botlar
+itm_imperial_stormtrooper_boots_novatrooper|Novatrooper Botlar
+itm_imperial_scout_trooper_boots|İmparatorluk Gözcü Askeri Botları
+itm_shadow_scout_trooper_boots|Gölge Gözcüsü Askeri Botlar
+itm_clone_trooper_boots|Klon Askeri Botları
+itm_lobot_headgear|Borg İnşaatcısı Aj^6
+itm_glasses_black|Ateş Etme Gözlükleri
+itm_glasses_yellow|Ateş Etme Gözlükleri
+itm_eyepiece_tactics|Taktik Merceği
+itm_eyepiece_leadership|Lider Merceği
+itm_slave_neck_chain|Esir Boyun Zinciri
+itm_officer_hat_white|Memur Şapkası
+itm_civilian_cloak_hood|Sivil Pelerin Ve Kapşonu
+itm_imperial_hat_green|İmparatorluk Şapkası
+itm_imperial_hat_black|İmparatorluk Şapkası
+itm_imperial_hat_grey|İmparatorluk Şapkası
+itm_rebel_technician_helmet|İsyancı Cadet Kaskı
+itm_rebel_trooper_helmet|İsyancı Süvari Kaskı
+itm_rebel_heavy_trooper_helmet|İsyancı Ağır Süvari Kaskı
+itm_rebel_honor_guard_helmet|İsyancı Onurlu Bekçi Kaskı
+itm_transparent_helmet|Şeffaf Kask
+itm_imperial_trooper_helmet|İmparatorluk Süvari Kaskı
+itm_imperial_gunner_helmet|İmparatorluk Nişancı Kaskı
+itm_imperial_navy_trooper_helmet|İmparatorluk Donanma Atlısı Kaskı
+itm_mercenary_helmet|Paralı Asker Kaskı
+itm_trandoshan_mask|Trandoshan Maskesi
+itm_trandoshan_helmet|Trandoshan Kaskı
+itm_cap_military|Kasket
+itm_cap_civilian_a|Kasket
+itm_ewok_hat|Ewok Şapkası
+itm_rancor_keeper_hat|Rancor Koruyucu Kaskı
+itm_rodian_ventilator|Rodian Vantilator
+itm_rodian_ventilator_black|Rodian Vantilator
+itm_rodian_ventilator_red|Rodian Vantilator
+itm_gamorrean_helmet|Gamorrean Kask
+itm_fang_helmet|Pençe Kask
+itm_beak_helmet|Gaga Kask
+itm_gas_mask|Gaz Maskesi
+itm_mining_helmet|Madenci Kaskı
+itm_pipe_helmet|Boru Kaskı
+itm_skiff_guard_helmet|Kayıkçı Bekçi Kaskı
+itm_imperial_stormtrooper_helmet|İmparatorluk Stormtrooper Kaskı
+itm_imperial_stormtrooper_helmet_incinerator|Yakma Fırını Askeri Kaskı
+itm_imperial_stormtrooper_helmet_novatrooper|Novatrooper Kaskı
+itm_imperial_pilot_helmet|İmparatorluk Pilot Kask
+itm_clone_trooper_head|Klon Askeri Kafası
+itm_clone_trooper_head_scar|Klon Askeri Kafası
+itm_clone_trooper_helmet_white|Klon Askeri Kaskı
+itm_clone_trooper_helmet_green|Klon Askeri Kaskı
+itm_clone_trooper_helmet_blue|Klon Askeri Kaskı
+itm_clone_trooper_helmet_red|Klon Askeri Kaskı
+itm_clone_trooper_helmet_yellow|Klon Askeri Kaskı
+itm_clone_trooper_helmet_orange|Klon Askeri Kaskı
+itm_clone_trooper_helmet_mand|Klon Askeri Kaskı
+itm_clone_trooper_helmet_lux|Klon Askeri Kaskı
+itm_imperial_scout_trooper_helmet|İmparatorluk Gözcü Asker Kaskı
+itm_shadow_scout_trooper_helmet|Gölge Gözcü Asker Kaskı
+itm_republic_pilot_helmet|İsyancı Pilot Kaskı
+itm_republic_commando_helmet|İsyancı Komando Kask
+itm_republic_commando_desert_helmet|İsyancı Çöl Komando Kaskı
+itm_republic_commando_urban_helmet|İsyancı Şehir Komandosu Kaskı
+itm_rebel_sniper_helmet|İsyancı Sniper Kaskı
+itm_jedi_knight_hood|Jedi Savaşçısı Kapşonu 
+itm_jedi_knight_hood_unique|Jedi Savaşçısı Kapşonu 
+itm_sith_hood|Sith Kaskı
+itm_sith_hood_unique|Sith Kaskı
+itm_jedi_master_hood|Jedi Ustası Kaskı
+itm_jedi_master_hood_unique|Jedi Ustası Kaskı
+itm_jedi_knight_cloak|Jedi Savaşçısı Pelerini
+itm_jedi_knight_cloak_hood|Jedi Savaşçısı Kapşon Ve Pelerini
+itm_jedi_master_cloak|Jedi Ustası Pelerini
+itm_jedi_master_cloak_hood|Jedi Ustası Pelerin Ve Kapşonu
+itm_sith_cloak|Sith Kapşonu
+itm_sith_cloak_hood|Sith Kapşon Ve Pelerin
+itm_sith_cloak_mask|Sith Pelerin Ve Maskesi
+itm_imperial_royal_guard_helmet|İmparatorluk Asil Bekçi Kaskı
+itm_shadow_guard_helmet|İmparatorluk Gölge Bekçisi Kaskı
+itm_desert_hat1|Çöl Kaskı
+itm_desert_hat2|Çöl Kaskı
+itm_desert_hat3|Çöl Kaskı
+itm_urban_hat1|Şehir Kaskı
+itm_urban_hat2|Şehir Kaskı
+itm_urban_hat3|Şehir Kaskı
+itm_camouflage_hat1|Kamuflaj Kaskı
+itm_camouflage_hat2|Kamuflaj Kaskı
+itm_camouflage_hat3|Kamuflaj Kask
+itm_dress_yellow|Bayan Elbisesi
+itm_dress_red|Bayan Elbisesi
+itm_dress_green|Bayan Elbisesi
+itm_dress_blue|Bayan Elbisesi
+itm_tunic_green|Tunik
+itm_tunic_white|Tunik
+itm_tunic_blue|Tunik
+itm_tunic_red|Tunik
+itm_tunic_yellow|Tunik
+itm_padded_tunic_green|Şağlam Tunik
+itm_padded_tunic_white|Sağlam Tunik
+itm_padded_tunic_blue|Şağlam Tunik
+itm_padded_tunic_red|Şağlam Tunik
+itm_padded_tunic_yellow|Tunik
+itm_officer_uniform_white|Memur Uniforması
+itm_imperial_uniform_black_plain|İmparatorluk Uniforması
+itm_female_outfit_femconblack|Bayan Kıyafeti
+itm_female_outfit_femconbrowngreen|Bayan Kıyafeti
+itm_female_outfit_femcongrey|Bayan Kıyafeti
+itm_female_outfit_femconorange|Bayan Kıyafeti
+itm_female_outfit_femconwhite|Bayan Kıyafeti
+itm_female_outfit_femconwhitebrown|Bayan Kıyafeti
+itm_outfit_tan|Tulum
+itm_outfit_grey|Tulum
+itm_outfit_black|Tulum
+itm_outfit_green|Tulum
+itm_vest_open_a|Açık Gömlek
+itm_vest_open_b|Açık Gömlek
+itm_vest_closed_a|Kapalı Gömlek
+itm_vest_closed_b|Kapalı Gömlek
+itm_vest_closed_c|Kapalı Gömlek
+itm_shirt_blue|Şört
+itm_shirt_green|Şört
+itm_vest_closed_f|Kar Ceketi
+itm_jacket_open_a|Açık Ceket
+itm_jacket_open_b|Açık Ceket
+itm_jacket_open_c|Açık Ceket
+itm_female_jacket_a|Bayan Ceketi
+itm_female_jacket_b|Bayan Ceketi
+itm_female_jacket_c|Bayan Ceketi
+itm_female_dress_a|Bayan Elbisesi
+itm_female_dress_b|Bayan Elbisesi
+itm_female_dancer_outfit_a|Bayan Dansçı Kıyafeti 
+itm_female_dancer_outfit_a_cloak|Bayan Dansçı Kıyafeti
+itm_female_dancer_boots|Bayan Dansçı Botu
+itm_female_leather_a|Bayan Deri Kıyafeti
+itm_female_leather_b|Bayan Deri Kıyafeti
+itm_female_leather_c|Bayan Deri Kıyafeti
+itm_female_leather_d|Bayan Deri Kıyafeti
+itm_jacket_closed_a|Kapalı Ceket
+itm_jacket_closed_b|Kapalı Ceket
+itm_jacket_closed_c|Kapalı Ceket
+itm_klatooinian_armor|Klatoonian Zırhı
+itm_scavenger_armor|Çöpçü Zırhı
+itm_mercenary_armor|Paralı Asker Zırhı
+itm_crime_lord_armor|Suçluların Lordu Zırhı
+itm_trandoshan_flight_suit|Trandoshan Uçuş Kıyafeti
+itm_civilian_cloak|Sivil Pelerini
+itm_white_cloak|Beyaz Pelerin
+itm_padded_armor_white|Şağlam Zırh
+itm_padded_armor_red|Şağlam Zırh
+itm_padded_armor_blue|Şağlam Zırh
+itm_armor_blue|Zırh
+itm_armor_brown|Zırh
+itm_armor_red|Zırh
+itm_armor_white|Zırh
+itm_pirate_armor|Zırh
+itm_imperial_uniform_black|İmparatorluk Memur Uniformas
+itm_imperial_uniform_green|İmparatorluk Memur Uniforması
+itm_rebel_uniform_tanblue|İsyancı Komutan Uniforması
+itm_rebel_uniform_green|İsyancı Memur Uniforması
+itm_imperial_trooper_armor|İmparatorluk Asker Zırhı
+itm_imperial_navy_trooper_armor|İmparatorluk Donanma Askeri Zırhı
+itm_imperial_trooper_armor|İmparatorluk Asker Zırhı
+itm_rebel_technician_armor|İsyancı Askeri Öğrenci Zırhı
+itm_republic_trooper_armor|İsyancı Zırhı
+itm_rebel_heavy_trooper_armor|İsyancı Ağır Asker Zırh
+itm_jedi_initiate_robe|Jedi Üye Cübbesi
+itm_jedi_padawan_robe|Jedi Padawan Cübbesi
+itm_sith_acolyte_outfit|Sith Yardımcı Kıyafeti
+itm_sith_apprentice_outfit|Sith Acemi Kıyafeti
+itm_imperial_scout_trooper_armor|İmparatorluk Gözcü Asker Zırhı
+itm_shadow_scout_trooper_armor|Gölge Gözcü Askeri Zırhı
+itm_republic_pilot_armor|İsyancı Pilot Zırhı
+itm_republic_commando_armor|İsyancı Komando Zırhı
+itm_republic_commando_desert_armor|İsyancı Çöl Komando Zırhı
+itm_republic_commando_urban_armor|İsyancı Şehir Komando Zırhı
+itm_rebel_sniper_armor|İsyancı Sniper Zırhı
+itm_imperial_stormtrooper_armor|İmparatorluk Stormtrooper Zırhı
+itm_imperial_stormtrooper_armor_incinerator|Yakma Fırını Asker Zırhı
+itm_imperial_stormtrooper_armor_novatrooper|Novatrooper Zırhı
+itm_imperial_stormtrooper_armor|İmparatorluk Stormtrooper Zırhı
+itm_rebel_honor_guard_armor|İsyancı Onurlu Gardiyan Zırh
+itm_clone_trooper_armor_white|Klon Askeri Zırh
+itm_clone_trooper_armor_green|Klon Askeri Zırh
+itm_clone_trooper_armor_blue|Klon Askeri Zırh
+itm_clone_trooper_armor_red|Klon Askeri Zırh
+itm_clone_trooper_armor_yellow|Klon Askeri Zırh
+itm_clone_trooper_armor_orange|Klon Askeri Zırh
+itm_clone_trooper_armor_mand|Klon Askeri Zırh
+itm_clone_trooper_armor_lux|Klon Askeri Zırh
+itm_arc_trooper_armor_green|Ark Askeri Zırhı
+itm_arc_trooper_armor_blue|Ark Askeri Zırhı
+itm_arc_trooper_armor_red|Ark Askeri Zırhı
+itm_arc_trooper_armor_yellow|Ark Askeri Zırhı
+itm_arc_trooper_armor_orange|Ark Askeri Zırhı
+itm_arc_trooper_armor_mand|Ark Askeri Zırhı
+itm_arc_trooper_armor_lux|Ark Askeri Zırhı
+itm_skiff_guard_armor_brown|Botcu Gardiyan Zırhı
+itm_skiff_guard_armor_grey|Botcu Gardiyan Zırhı
+itm_skiff_guard_armor_white|Botcu Gardiyan Zırhı
+itm_hutt_palace_guard_armor|Hutt Sarayı Gardiyanı Zırhı
+itm_jedi_knight_robe|Jedi Şövalyesi Cübbesi
+itm_jedi_knight_robe_unique|Jedi Şövalyesi Cübbesi
+itm_jedi_guardian_robe_a|Jedi Gardiyan Cübbesi
+itm_jedi_guardian_robe_b|Jedi Gardiyan Cübbesi
+itm_jedi_guardian_robe_c|Jedi Gardiyan Cübbesi
+itm_jedi_guardian_robe_d|Jedi Gardiyan Cübbesi
+itm_sith_knight_robe|Sith Şövalyesi Cübbes
+itm_sith_knight_robe_unique|Sith Şövalyesi Cübbes
+itm_sith_knight_robe_a|Sith Şövalyesi Cübbes
+itm_sith_knight_robe_b|Sith Şövalyesi Cübbes
+itm_sith_knight_robe_c|Sith Şövalyesi Cübbes
+itm_imperial_royal_guard_robe|İmparatorluk Asil Gardiyan Cübbesi
+itm_shadow_guard_robe|İmparatorluk Gölge Gardiyan Cübbesi
+itm_imperial_stormtrooper_armor_officer|İmparatorluk Stormtrooper Memuru Zırh
+itm_sw_desert_armor|Ağır Çöl Zırh
+itm_sw_urban_armor|Ağır Şehir Zırhı
+itm_sw_sniper_armor|Sniper Zırhı
+itm_jedi_robe_a|Jedi Cübbesi
+itm_jedi_robe_a_unique|Jedi Cübbesi
+itm_jedi_robe_b|Sith Cübbesi
+itm_jedi_robe_b_long|Uzun Sith Cübbesi
+itm_jedi_robe_c|Jedi Cübbesi
+itm_jedi_robe_c_long|Uzun Sith Cübbesi
+itm_jedi_robe_d|Jedi Cübbesi
+itm_jedi_robe_d_unique|Jedi Cübbesi
+itm_jedi_robe_e|Jedi Cübbesi
+itm_jedi_robe_e_unique|Jedi Cübbesi
+itm_jedi_robe_f|Jedi Cübbesi
+itm_jedi_robe_f_unique|Jedi Cübbesi
+itm_jedi_master_robe|Jedi Cübbesi
+itm_jedi_master_robe_unique|Jedi Cübbesi
+itm_sith_marauder_robe|Sith Yağmacı Cübbesi
+itm_sith_marauder_robe_unique|Sith Yağmacı Cübbesi
+itm_sith_marauder_robe_a|Sith Yağmacı Cübbesi
+itm_sith_marauder_robe_b|Sith Yağmacı Cübbesi
+itm_sith_marauder_robe_c|Sith Yağmacı Cübbesi
+itm_sith_marauder_robe_d|Sith Yağmacı Cübbesi
+itm_sith_master_robe|Sith Ustası Cübbesi
+itm_sith_master_robe_unique|Sith Ustası Cübbesi
+itm_guard_armor|Gardiyan Zırhı
+itm_guard_armor_red|Gardiyan Zırhı
+itm_blast_armor_black|Lazer Silahlı Asker Zırhı
+itm_blast_armor_red|Lazer Silahlı Asker Zırhı
+itm_blast_armor_grey|Lazer Silahlı Asker Zırhı
+itm_blast_armor_bluegrey|Lazer Silahlı Asker Zırhı
+itm_ubese_armor|Ubes Zırhı
+itm_ubese_armor_alt|Ubes Zırhı
+itm_wookiee_armor1|Wookiee Zırhı
+itm_wookiee_armor1_merch|Wookiee Zırhı
+itm_wookiee_armor2|Wookiee Zırhı
+itm_wookiee_armor2_merch|Wookiee Zırhı
+itm_wookiee_hunter_armor|Wookiee Avcı Zırhı
+itm_wookiee_hunter_helmet|Wookiee Avcı Kaskı
+itm_wookiee_female_head|Kadın Wookiee Kaskı
+itm_wookiee_female_body|Bayan Wookiee Zırhı
+itm_wookiee_female_hands|Bayan Wookiee Eldivenleri
+itm_wookiee_female_feet|Bayan Wookiee Ayakkabıları
+itm_kaminoan_female_head|Kaminoan Bayan Kaskı
+itm_kaminoan_female_body|Kaminoan Bayan Zırhı
+itm_droid_weapon_no_attack|Droid Yakın Dövüş Silahı
+itm_r2series_blue|R2-Mavi Serisi
+itm_r2series_green|R2- Yeşil Seris
+itm_r2series_orange|R2- Turuncu Serisi 
+itm_r2series_purple|R2- Mor Serisi
+itm_mse6_armor|MSE Droid Vücudu Serisi
+itm_lin_droid_armor|LIN Droid Vücudu
+itm_lin_droid_armor_w_arm|LIN Droid Vücudu
+itm_power_droid_grey|Güç Droidi
+itm_power_droid_snow|Güç Droidi
+itm_power_droid_tan|Güç Droidi
+itm_fxseries_droid_armor|FX Serisi Tibbı Droid Vücudu
+itm_c3po_blue_head|3PO- Serisi Kafası
+itm_c3po_blue_hands|3PO- Serisi Elleri 
+itm_c3po_blue_body|3PO- Serisi Vücudu
+itm_c3po_blue_feet|3PO- Serisi Ayakları
+itm_c3po_gold_head|3PO- Serisi Kafası
+itm_c3po_gold_hands|3PO- Serisi Elleri 
+itm_c3po_gold_body|3PO- Serisi Vücudu
+itm_c3po_gold_feet|3PO- Serisi Ayakları
+itm_c3po_grey_head|3PO- Serisi Kafası
+itm_c3po_grey_hands|3PO- Serisi Elleri 
+itm_c3po_grey_body|3PO- Serisi Vücudu
+itm_c3po_grey_feet|3PO- Serisi Ayakları
+itm_c3po_red_head|3PO- Serisi Kafası
+itm_c3po_red_hands|3PO- Serisi Elleri 
+itm_c3po_red_body|3PO- Serisi Vücudu
+itm_c3po_red_feet|3PO- Serisi Ayakları
+itm_3poseries_gold|3PO- Serisi Altın
+itm_3poseries_blue|3PO- Serisi Mavi
+itm_3poseries_red|3PO- Serisi Kırmızı
+itm_3poseries_grey|3PO- Serisi Gri
+itm_3poseries_attack|3PO- Serisi Düz Vuruşcu
+itm_b1series_body|B1 - Serisi Savaş Droidi Vücudu
+itm_bxseries_body|BX- Serisi Komando Droidi Vücudu
+itm_oomseries_body|OOM Güvenlik Droidi Vücudu
+itm_oomseries_pilot_body|OOM Pilot Droidi Vücudu
+itm_oomseries_marine_body|OOM Denizci Droid Vücudu
+itm_oomseries_command_body|OOM Komutan Droid Vücudu
+itm_battle_droid_attack|Savaş Droidi Yakın Dövüş Vuruşcu
+itm_b2series_body|B2- Serisi Savaş Droidi Vücudu
+itm_b2series_body_enhanced|C-B3 Savaş Droidi Vücudu
+itm_b2series_attack|B2- Serisi Savaş Droidi Atağı
+itm_b2series_blaster|B2- Serisi Savaş Droidi Lazeri
+itm_transparent_droid_head|Şeffaf Kask(Droidler İçin)
+itm_transparent_droid_hands|Şeffaf Eldivenler(Droidler İçin)
+itm_transparent_droid_feet|Şeffaf Ayakkabılar(Droidler İçin)
+itm_ig88_head|IG- Serisi Kaskı
+itm_ig88_hands|IG- Serisi Eldivenleri
+itm_ig88_body|IG- Serisi Vücudu
+itm_ig88_feet|IG- Serisi Ayakkabıları
+itm_ig88_attack| 
+itm_ig88_e11_shield|IG-88's E-11 Kalkanı
+itm_ig88_dlt20a|IG-88'S DLT-20A
+itm_4lom_head|LOM- Serisi Kaskı
+itm_hk_head|HK- Serisi Kaskı
+itm_hk_hands|HK- Serisi Eldivenleri 
+itm_hk_body|HK- Serisi Vücudu
+itm_hk_feet|HK- Serisi Ayakkabıları
+itm_hk_attack| 
+itm_mandalorian_tunic|Mandolar Tuniği
+itm_mandalorian_soldier_helmet|Mandolar Askeri Kaskı
+itm_mandalorian_soldier_helmet2|Mandolar Askeri Kaskı
+itm_mandalorian_soldier_helmet3|Mandolar Askeri Kaskı
+itm_mandalorian_soldier_armor|Mandolar Askeri Zırhı
+itm_mandalorian_soldier_armor2|Mandolar Askeri Zırhı
+itm_mandalorian_soldier_boots|Mandolar Askeri Botları
+itm_mandalorian_commando_helmet|Mandolar Komando Kaskı
+itm_mandalorian_commando_armor|Mandolar Komando Zırhı 
+itm_mandalorian_commando_armor2|Mandolar Komando Zırhı 
+itm_mandalorian_commando_boots|Mandolar Komando Botları
+itm_mandalorian_sniper_helmet|Mandolar Sniper Kaskı
+itm_mandalorian_sniper_armor|Mandolar Sniper Zırhı
+itm_mandalorian_sniper_armor2|Mandolar Sniper Zırhı
+itm_mandalorian_sniper_armor3|Mandolar Sniper Zırhı
+itm_mandalorian_sniper_boots|Mandolar Sniper Botları
+itm_mandalorian_crusader_helmet|Mandolar Fetihçi Kaskı
+itm_mandalorian_neocrusader_helmet|Mandolar Neo-Fetihçi Kaskı
+itm_mandalorian_crusader_armor|Mandolar Fetihçi Zırhı
+itm_mandalorian_crusader_boots|Mandolar Fetihçi Botları
+itm_mandalorian_deadeye_helmet|Mandolar Ölügöz Kaskı
+itm_mandalorian_deadeye_armor|Mandolar Ölügöz Kaskı
+itm_mandalorian_deadeye_armor2|Mandolar Ölügöz Zırhı
+itm_mandalorian_deadeye_armor3|Mandolar Ölügöz Kaskı
+itm_mandalorian_deadeye_boots|Mandolar Ölügöz Botları
+itm_mandalorian_beskar_helmet|Mandolar Beskar Kaskı
+itm_mandalorian_beskar_armor|Mandolar Beskar Zırhı
+itm_mandalorian_beskar_boots|Mandolar Beskar Botları
+itm_defiler_helmet|Bozguncu Kaskı 
+itm_defiler_armor|Bozguncu Zırhı
+itm_defiler_boots|Bozguncu Botları
+itm_black_sun_helmet|Siyah Güneş Kaskı
+itm_black_sun_helmet_tan|Siyah Güneş Kaskı
+itm_black_sun_helmet_teal|Siyah Güneş Kaskı
+itm_black_sun_helmet_red|Siyah Güneş Kaskı
+itm_black_sun_armor|Siyah Güneş Zırhı
+itm_black_sun_armor_tan|Siyah Güneş Zırhı
+itm_black_sun_armor_teal|Siyah Güneş Zırhı
+itm_black_sun_armor_red|Siyah Güneş Zırhı
+itm_gamorrean_armor|Gamorrean Zırhı
+itm_moncal_armor|Mon Calamarı Zırhı
+itm_moncal_armor_2|Mon Calamarı Zırhı
+itm_moncal_boots|Mon Calamari Botları
+itm_moncal_helmet|Mon Calamari Kaskı
+itm_twilek_armor|Twi'lek Zırhı
+itm_jawa_hood|Jawa Kaskı
+itm_jawa_robe|Jawa Pelerini 
+itm_jawa_boots|Jawa Botları
+itm_tusken_helmet|Tusken Kaskı
+itm_tusken_armor|Tusken Zırhı
+itm_trandoshan_armor|Trandoshan Zırhı
+itm_geonosian_armor|Geonosian Zırhı
+itm_lightsaber_green_arena|Lazer Kılıcı
+itm_lightsaber_blue_arena|Lazer Kılıcı
+itm_lightsaber_yellow_arena|Lazer Kılıcı
+itm_lightsaber_red_arena|Lazer Kılıcı
+itm_lightsaber_green|Lazer Kılıcı
+itm_lightsaber_blue|Lazer Kılıcı
+itm_lightsaber_orange|Lazer Kılıcı
+itm_lightsaber_purple|Lazer Kılıcı
+itm_lightsaber_yellow|Lazer Kılıcı
+itm_lightsaber_red|Lazer Kılıcı
+itm_lightsaber_green_reverse|Ters Saplı Lazer Kılıcı
+itm_lightsaber_blue_reverse|Ters Saplı Lazer Kılıcı
+itm_lightsaber_orange_reverse|Ters Saplı Lazer Kılıcı
+itm_lightsaber_purple_reverse|Ters Saplı Lazer Kılıcı
+itm_lightsaber_yellow_reverse|Ters Saplı Lazer Kılıcı
+itm_lightsaber_red_reverse|Ters Saplı Lazer Kılıcı
+itm_lightsaber_blue_double|Çift-Başlı Lazer Kılıcı
+itm_lightsaber_green_double|Çift-Başlı Lazer Kılıcı
+itm_lightsaber_orange_double|Çift-Başlı Lazer Kılıcı
+itm_lightsaber_purple_double|Çift-Başlı Lazer Kılıcı
+itm_lightsaber_red_double|Çift-Başlı Lazer Kılıcı
+itm_lightsaber_yellow_double|Çift-Başlı Lazer Kılıcı
+itm_lightsaber_green_2h|Çift El Lazer Kılıcı
+itm_lightsaber_blue_2h|Çift El Lazer Kılıcı
+itm_lightsaber_orange_2h|Çift El Lazer Kılıcı
+itm_lightsaber_purple_2h|Çift El Lazer Kılıcı
+itm_lightsaber_yellow_2h|Çift El Lazer Kılıcı
+itm_lightsaber_red_2h|Çift El Lazer Kılıcı
+itm_lightsaber_green_1h|Tek El Lazer Kılıcı
+itm_lightsaber_blue_1h|Tek El Lazer Kılıcı
+itm_lightsaber_orange_1h|Tek El Lazer Kılıcı
+itm_lightsaber_purple_1h|Tek El Lazer Kılıcı
+itm_lightsaber_yellow_1h|Tek El Lazer Kılıcı
+itm_lightsaber_red_1h|Tek El Lazer Kılıcı
+itm_lightsaber_green_pike|Lazer Kılıcı Mızrağı
+itm_lightsaber_blue_pike|Lazer Kılıcı Mızrağı
+itm_lightsaber_orange_pike|Lazer Kılıcı Mızrağı
+itm_lightsaber_purple_pike|Lazer Kılıcı Mızrağı
+itm_lightsaber_yellow_pike|Lazer Kılıcı Mızrağı
+itm_lightsaber_red_pike|Lazer Kılıcı Mızrağı
+itm_darth_vader_lightsaber|Darth Vader'ın Lazer Kılıcı
+itm_obi_wan_lightsaber|Obi-Wan Kenobi'nin Lazer Kılıcı
+itm_luke_skywalker_lightsaber|Luke Skywalker'ın Lazer Kılıcı
+itm_anakin_skywalker_lightsaber|Anakin Skywalker's Lazer Kılıcı
+itm_lightsaber_red_multikill|Çoklu Vuruş Lazer Kılıcı(Sitede)
+itm_melee_punch| 
+itm_durasteel_staff|Durasteel Sopası
+itm_electro_staff_medium|Elektrosopa
+itm_electro_staff_long|Elektro Sopa
+itm_gamorrean_axe_1h|Gamorrean Tek El Baltası
+itm_gamorrean_axe_2h|Gamorrean Çift El Baltası
+itm_vibro_axe_medium_1h|Tek El Vibro Baltası
+itm_vibro_axe_medium_2h|Çift El Vibro Baltası
+itm_vibro_axe_long_1h|Tek El Vibro Baltası
+itm_vibro_axe_long_2h|BD-1 Kesici Vibro-Baltası
+itm_tusken_gaffi_staff|Gaffi Sopası
+itm_tusken_gaffi_stick|Gaffi Çubuğu
+itm_durasteel_mace|Durasteel Topuz
+itm_baton|Baton
+itm_trandoshan_blade|Trandoshan Kılıcı
+itm_durasteel_bat|Durasteel Sopası
+itm_force_pike|Mızrak Büyüsü
+itm_geonosian_static_pike|Geonosian Statik Mızrağı
+itm_pipe1|Boru
+itm_pipe2|Boru
+itm_ryyk_blade|Ryyk Kılıcı
+itm_ryyk_kerarthorr|Ryyk Kerarthorr Kılıcı
+itm_ryyk_blade_chieftain|Chieftain Ryyk Kılıcı
+itm_sith_sword|Sith Kılıcı
+itm_combat_knife|Savaş Bıçağı
+itm_twilek_dagger|Twilek Bıçağı
+itm_vibro_knuckler|Vibro Yüksüğü
+itm_vibro_blade1|Vibro Bıçağı
+itm_vibro_blade2|Vibro Bıçağı
+itm_vibro_blade3|Vibro Bıçağı
+itm_vibro_blade4|Vibro Bıçağı
+itm_vibro_sword1b|Vibro Kılıcı
+itm_vibro_sword2b|Çift El Vibro Kılıcı
+itm_vibro_sword3_gold|Vibro Kılıcı
+itm_vibro_sword3_blue|Vibro Kılıcı
+itm_vibro_sword3_red|Vibro Kılıcı
+itm_tutorial_lightsaber|Işın Kılıcı
+itm_practice_vibro_axe_medium|Gamorrean Vibro Baltası
+itm_practice_vibro_axe_long|BD-1 Kesici Vibro-Baltası
+itm_practice_vibro_axe_long_no_attack|BD-1 Kesici Vibro Baltası
+itm_practice_vibro_blade|Vibro Bıçağı
+itm_practice_vibro_sword3a|Vibro Kılıcı
+itm_practice_vibro_sword2b|Çift El Vibro Kılıcı
+itm_practice_vibro_sword1b|Vibro Kılıcı
+itm_quick_battle_armor|Zırh
+itm_transparent_helmet_armor|Şeffaf Kask ve Vücut Zırhı
+itm_twilek_female_helmet_armor|Twilek Kadın Kaskı ve Vücut Zırhı
+itm_twilek_male_head_bib|Bib Fortuna Kafası
+itm_weequay_head_helmet_a|Weequay Kafası
+itm_weequay_head_helmet_b|Weequay Kafası
+itm_klatooinian_head_helmet_a|Klatoonian Kafası
+itm_nikto_head_helmet_a|Nikto Kafası
+itm_nikto_head_helmet_b|Nikto Kafası
+itm_nikto_head_helmet_c|Nikto Kafası
+itm_tarkin_head|Grand Moff Tarkin Kafası
+itm_ben_head|Ben Kenobi Kafası
+itm_leia_head|Leia Organa Kafası
+itm_rancor_body_a|Rancor Vücut
+itm_rancor_body_b|Rancor Vücut
+itm_rancor_body_c|Rancor Vücudu
+itm_rancor_attack| 
+itm_rancor_keeper_armor|Rancor Koruyucu Zırhı
+itm_yoda_armor|Yoda Zırh ve Sandalyesi
+itm_yoda_lightsaber|Yoda Işın Kılıcı
+itm_yoda_speeder|Yoda Şeffaf Hız Motoru
+itm_jabba_armor|Jabba Zırh ve Sandalyesi
+itm_jabba_attack|Jabba No Attack
+itm_jabba_speeder|Jabba Şeffat Hız Motoru
+itm_transparent_head|Şeffat Kafa
+itm_transparent_body|Şeffat Vücut
+itm_transparent_hands|Şeffat Eller
+itm_transparent_feet|Şeffatt Ayaklar
+itm_darth_vader_helmet|Darth Vader Kaskı
+itm_darth_vader_armor|Darth Vader Zırhı
+itm_darth_vader_feet|Darth Vader Ayağı
+itm_princess_leia_outfit|Princess Leia Kıyafeti
+itm_princess_leia_blaster|Princess Leia DDC Koruyucusu
+itm_han_solo_outfit|Han Solo Kıyafeti
+itm_han_solo_blaster|Han Solo DL-44
+itm_luke_skywalker_outfit|Luke'nin Kıyafeti
+itm_chewbacca_bowcaster|Chewbacca'nın Bowcasterı
+itm_chewbacca_ryyk_blade|Chewbacca'nın Ryyk Kılıcı
+itm_boba_fett_armor|Boba Fett'in Zırhı
+itm_boba_fett_helmet|Boba Fett'in Kaskı
+itm_boba_fett_boots|Boba Fett'in Botları
+itm_boba_fett_blaster|Boba Fett EE-3 
+itm_joruus_lightsaber|Cboathın Işın Kılıcı
+itm_dengar_armor|Dengarın Zırhı
+itm_dengar_helmet|Dengarın Baş Sarması
+itm_dengar_boots|Dengarın Botları
+itm_dengar_gloves|Dengarın Eldivenleri
+itm_weequay_vibro_axe|Weequayın Vibro Baltası
+itm_force_throw_lightsaber_green|Fırlatılan Işın Kılıcı
+itm_force_throw_lightsaber_blue|Fırlatılan Işın Kılıcı
+itm_force_throw_lightsaber_orange|Fırlatılan Işın Kılıcı
+itm_force_throw_lightsaber_purple|Fırlatılan Işın Kılıcı
+itm_force_throw_lightsaber_yellow|Fırlatılan Işın Kılıcı
+itm_force_throw_lightsaber_red|Fırlatılan Işın Kılıcı
+itm_force_throw_lightsaber_green_merch|Fırlatılan Işın Kılıcı
+itm_force_throw_lightsaber_blue_merch|Fırlatılan Işın Kılıcı
+itm_force_throw_lightsaber_orange_merch|Fırlatılan Işın Kılıcı
+itm_force_throw_lightsaber_purple_merch|Fırlatılan Işın Kılıcı
+itm_force_throw_lightsaber_yellow_merch|Fırlatılan Işın Kılıcı
+itm_force_throw_lightsaber_red_merch|Fırlatılan Işın Kılıcı
+itm_force_throw_lightsaber_green_pike|Fırlatılan Işın Kılıcı Mızrağı
+itm_force_throw_lightsaber_blue_pike|Fırlatılan Işın Kılıcı Mızrağı
+itm_force_throw_lightsaber_orange_pike|Fırlatılan Işın Kılıcı Mızrağı
+itm_force_throw_lightsaber_purple_pike|Fırlatılan Işın Kılıcı Mızrağı
+itm_force_throw_lightsaber_yellow_pike|Fırlatılan Işın Kılıcı Mızrağı
+itm_force_throw_lightsaber_red_pike|Fırlatılan Işın Kılıcı Mızrağı
+itm_force_throw_lightsaber_red_double|Fırlatılan Çift-Taraflı Işın Kılıcı
+itm_twilek_dagger_throwing|Twilek Fırlatma Bıçakları
+itm_discblade|Disk Kılıcı
+itm_thermal_detonator1|Termal Patlayıcı
+itm_thermal_detonator2|Termal Patlayıcı
+itm_thermal_detonator3|Termal Patlayıcı
+itm_energy_shield_red_small|Küçük Enerji Kalkanı
+itm_energy_shield_blue_small|Küçük Enerji Kalkanı
+itm_energy_shield_green_small|Küçük Enerji Kalkanı
+itm_energy_shield_yellow_small|Küçük Enerji Kalkanı
+itm_energy_shield_red_medium|Orta Enerji Kalkanı
+itm_energy_shield_blue_medium|Orta Enerji Kalkanı
+itm_energy_shield_green_medium|Orta Enerji Kalkanı
+itm_energy_shield_yellow_medium|Orta Enerji Kalkanı
+itm_energy_shield_red_large|Büyük Enerji Kalkanı
+itm_energy_shield_blue_large|Büyük Enerji Kalkanı
+itm_energy_shield_green_large|Büyük Enerji Kalkanı
+itm_energy_shield_yellow_large|Büyük Enerji Kalkanı
+itm_energy_shield_oval|Oval Enerji Kalkanı
+itm_energy_shield_circle|Dairesel Enerji Kalkanı
+itm_durasteel_shield_small|Küçük Durasteel Kalkanı
+itm_durasteel_shield_small_2|Küçük Durasteel Kalkanı
+itm_durasteel_shield_large|Büyük Durasteel Kalkanı
+itm_wookiee_shield_small|Küçük Wookiee Kalkanı
+itm_wookiee_shield_large|Büyük Wookiee Kalkanı
+itm_westar_shield|Westar-34 Kalkanı
+itm_ryyk_kerarthorr_shield|Ryyk Kerarthorr Kalkanı
+itm_ryyk_blade_shield|Ryyk Kılıç Kalkanı
+itm_lightsaber_block_blue|Işın Kılıcı Kalkan
+itm_lightsaber_block_green|Işın Kılıcı Kalkan
+itm_lightsaber_block_orange|Işın Kılıcı Kalkan
+itm_lightsaber_block_purple|Işın Kılıcı Kalkan
+itm_lightsaber_block_red|Işın Kılıcı Kalkan
+itm_lightsaber_block_yellow|Işın Kılıcı Kalkan
+itm_force_block|Bloklama Büyüsü
+itm_force_shield|Kalkan Büyüsü
+itm_force_protect|Koruma Büyüsü
+itm_hero_shield|Şeffaf Kahraman Kalkanı
+itm_practice_energy_shield|Pratik Enerji Kalkanı
+itm_tutorial_energy_shield|Eğitim Enerji Kalkanı
+itm_force_throw_lightsaber_t|Işın Kılıcı Atma Büyüsü
+itm_force_throw_lightsaber_tl|Işın Kılıcı Atma Büyüsü
+itm_force_lightning_ammo|Elektrik Büyüsü
+itm_force_push_ammo|İtme Büyüsü
+itm_laser_bolts_green_pistol|Plazma Gaz Kartuşu
+itm_laser_bolts_red_pistol|Plazma Gaz Kartuşu
+itm_laser_bolts_orange_pistol|Plazma Gaz Kartuşu
+itm_laser_bolts_yellow_pistol|Plazma Gaz Kartuşu
+itm_laser_bolts_blue_pistol|Plazma Gaz Kartuşu
+itm_stun_beam_pistol|Bayıltıcı Işın Kartuşu
+itm_ion_beam_pistol|İyon Işın Kartuşu
+itm_sonic_beam_pistol|Sonik İyon Kartuşu
+itm_ammo_belt_pistol|Cephanelik Kemer
+itm_disruptor_ammo|Bozucu Tabanca Mermisi
+itm_laser_bolts_green_rifle|Plazma Gaz Kartuşu
+itm_laser_bolts_red_rifle|Plazma Gaz Kartuşu
+itm_laser_bolts_orange_rifle|Plazma Gaz Kartuşu
+itm_laser_bolts_yellow_rifle|Plazma Gaz Kartuşu
+itm_laser_bolts_blue_rifle|Plazma Gaz Kartuşu
+itm_stun_beam_rifle|Bayıltıcı Işın Kartuşu
+itm_ion_beam_rifle|İyon Işın Kartuşu
+itm_sonic_beam_rifle|Sonic Işın Kartuşları
+itm_ammo_belt_rifle|Cephanelik Kemer
+itm_disruptor_ammo_rifle|Bozucu Tüfek Mermisi
+itm_laser_bolts_training_pistol|Laser Topları
+itm_laser_bolts_training_rifle|Laser Topları
+itm_force_power_ls_1|Üye Büyü Güçleri
+itm_force_power_ls_2|Çırak Büyü Güçleri
+itm_force_power_ls_3|Şovalye Büyü Güçleri
+itm_force_power_ls_4|Usta Büyü Güçleri
+itm_force_power_ds_1|Üye Büyü Güçleri
+itm_force_power_ds_2|Çırak Büyü Güçleri
+itm_force_power_ds_3|Şovalye Büyü Güçleri
+itm_force_power_ds_4|Usta Büyü Güçleri
+itm_force_jump|Zıplama Büyüsü
+itm_a280|A-280
+itm_a280_crouch|A-280
+itm_a280_stun|Bayıltıcı A-280
+itm_a295|A-295
+itm_a295_crouch|A-295
+itm_a295_stun|Bayıltıcı A-295
+itm_mandalorian_heavy_blaster|Mandalor Ağır Lazer Silahı
+itm_corellian_destroyer_blaster|Corellian Yokedici Lazer Silahı
+itm_dlt19|DLT-19
+itm_dlt19_scope|Nişangahlı DLT-19
+itm_dlt20a|DLT-20A
+itm_e17d|E-17D
+itm_dc15a|DC-15A
+itm_dc15a_hip|DC-15A
+itm_dc15s|DC-15S
+itm_trandoshan_acp_array_gun|Trandoshan ACP Silahı
+itm_trandoshan_stun_gun|Trandoshan Bayıltıcı Silahı
+itm_quicksnap_36t|Çok Hızlı 36T
+itm_bothan_bola_carabine|Botan Bola Karabin
+itm_ee3|EE-3
+itm_ee3_stun|Bayıltıcı EE-3
+itm_mg15|RT-97C
+itm_e5|E-5
+itm_e11|E11
+itm_e11_hip|E11
+itm_e11_stun|Bayıltıcı E-11
+itm_wookiee_bowcaster|Bowcaster
+itm_kashyyyk_long_gun|Kaski Uzun Silah
+itm_tusken_rifle|Tusken Cycler Tüfeği
+itm_geonosian_sonic_rifle|Geonosian Sonik Tüfeği
+itm_t21|T-21
+itm_senate_rifle|Güvenlik Tüfeği
+itm_kisteer_1284|Kister 1284
+itm_ion_blaster|İyon Lazer Silahı
+itm_heavy_repeater|İmparatorluk Ağır Tekrarlayıcısı
+itm_storm_rifle|Stormtrooper Tüfeği
+itm_dh17|DH-17
+itm_dh17_stun|Bayıltıcı DH-17
+itm_se14r|SE-14R
+itm_dl44a|DL-44
+itm_dl44a_stun|Bayıltıcı DL-44
+itm_dl44b|Modifiyeli DL-44
+itm_q2|Q2
+itm_q2_stun|Bayıltıcı Q2
+itm_elg3a|ELG-3A
+itm_elg3a_stun|Bayıltıcı ELG-3A
+itm_scout_trooper_pistol|Gözcü Askeri Tabancası
+itm_ddc_defender|DDC Koruyucusu
+itm_geonosian_sonic_pistol|Geonosian Sonik Tabancası
+itm_dl18|DL-18
+itm_westar|Westar-34
+itm_westar_stun|Bayıltıcı Westar-34
+itm_ion_pistol|İyon Tabancası
+itm_trandoshan_supressor|Trandoshan Susturucu
+itm_wrist_blaster|Bileğe Montelenmiş Lazer Silahı
+itm_practice_dl44|DL-44
+itm_dl44a_training|DL-44
+itm_dlt19_training|Nişangahlı DLT-19
+itm_heavy_weapons_ammo|Ağır Silahların Cephanesi
+itm_rocket_launcher|RDP-12 Roket Atar (Gelişmekte)
+itm_flame_rifle|CR-24 Alev Tüfeği (Gelişmekte)
+itm_concussion_rifle|W-90 Sarsıntı Tüfeği (Gelişmekte)
+itm_force_kill|Öldürme Büyüsü
+itm_force_choke|Boğma Büyüsü
+itm_force_knockdown|Yere Serme Büyüsü
+itm_force_stun|Bayıltma Büyüsü
+itm_speeder|74-Z Hız Motoru
+itm_speeder_rebel|74-Z Hız Motoru
+itm_speeder_imperial|Z4-Z Hız Motoru
+itm_speeder_hutt|Z4-Z Hız Motoru
+itm_speeder_shadow|74-Z Gölge Hız Motoru
+itm_speeder_fc20|FC-20 Hız Motoru
+itm_horus_winged_cruiser|Horus Kanatlı Kruvazörü
+itm_speeder_dagger|74-Z Bıçaklı Hız Motoru
+itm_practice_speeder|74-Z Sivil Hız Motoru
+itm_arena_speeder|74-Z Sivil Hız Motoru

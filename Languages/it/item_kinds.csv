@@ -46,14 +46,14 @@ itm_container_food_1|Spedizione di Vegetali
 itm_container_food_2|Spedizione di Carboidrati
 itm_container_food_3|Container di Proteine
 itm_container_metal_1|Container di Barre Beskar
-itm_container_metal_2|Container di Barre Duracciaio
-itm_container_metal_3|Container di Barre di Bronzo
-itm_container_death_sticks|Scatola di Death-Sticks
+itm_container_metal_2|Container di Barre di Duracciaio
+itm_container_metal_3|Container di Barre di Bronzium
+itm_container_death_sticks|Scatola di Stecche della Morte
 itm_container_drink_1|Container di Acqua
-itm_container_drink_2|Container di Birra Nera
+itm_container_drink_2|Container di Birra Scura
 itm_container_drink_3|Container di Succo di Juri
-itm_carbonite_tibanna|Container di Carbonite d Tibanna-Gas
-itm_container_ore|Ore contenitore
+itm_carbonite_tibanna|Container di Carbonite di Gas Tibanna
+itm_container_ore|contenitore di Minerali
 itm_butter|Burro di Bantha
 itm_wine|Vino Mandaloriano
 itm_ale|Birra Corelliana
@@ -71,7 +71,7 @@ itm_pottery|Ceramica Genosiana
 itm_linen|Seta di Lashaa
 itm_furs|Pellicce di Ewok
 itm_wookiee_fur|Pelle di Wookie
-itm_trandoshan_skin|Pelle di Trandoshan
+itm_trandoshan_skin|Pelle Trandoshana
 itm_droid_parts|Componenti per Droidi
 itm_wool|Lana di Nerf
 itm_velvet|Velluto di Naboo
@@ -84,7 +84,7 @@ itm_pilgrim_hood|Cappuccio da Pellegrino
 itm_leather_gloves|Guanti di Pelle
 itm_wrapping_boots|Stivali a Strappo
 itm_blue_hose|Calze Blu
-itm_hide_boots|Stivali Nascosti
+itm_hide_boots|Stivali di Pelliccia
 itm_ankle_boots|Stivali Alti
 itm_nomad_boots|Stivali da Nomade
 itm_dress|Vestito
@@ -101,13 +101,13 @@ itm_robe|Toga
 itm_coarse_tunic|Toga Grossolana
 itm_leather_apron|Grembiule di Cuoio
 itm_tabard|Cotta
-itm_leather_vest|Camicia in Pelle
+itm_leather_vest|Corpetto in Pelle
 itm_gambeson|Cotta Imbottita
 itm_blue_gambeson|Cotta Imbottita Blu
 itm_red_gambeson|Cotta Imbottita Rossa
 itm_padded_cloth|Panni Imbottiti
 itm_leather_jerkin|Giustacuore di Pelle
-itm_padded_leather|Pelle Imbottita
+itm_padded_leather|Armatura di Pelle a Strati
 itm_straw_hat|Cappello di Paglia
 itm_common_hood|Cappuccio
 itm_headcloth|Fazzoletto
@@ -117,7 +117,7 @@ itm_padded_coif|Coif Imbottito
 itm_woolen_cap|Berretto di Lana
 itm_felt_hat|Cappello di Feltro
 itm_leather_cap|Berretto di Pelle
-itm_arming_cap|Berretto da Esercito
+itm_arming_cap|Berretto Militare
 itm_female_hood|Cappuccio da Donna
 itm_wooden_stick|Bastone di Legno
 itm_club|Mazza
@@ -125,11 +125,11 @@ itm_cleaver|Mannaia
 itm_knife|Coltello
 itm_butchering_knife|Coltello da Macellaio
 itm_hatchet|Accetta
-itm_quarter_staff|Mazza Ferrata
+itm_quarter_staff|Bastone da Combattimento
 itm_throwing_axes|Asce da Lancio Gomorreane
 itm_rich_outfit|Completo Ricco
 itm_black_hood|Cappuccio Nero
-itm_light_leather|Pelle Leggera
+itm_light_leather|Armatura di Pelle Leggera
 itm_light_leather_boots|Stivali Leggeri di Pelle
 itm_black_gloves|Guanti Neri
 itm_black_gloves_long|Guanti Neri Lunghi
@@ -393,14 +393,14 @@ itm_sith_marauder_robe_a|Tunica da Predone Sith
 itm_sith_marauder_robe_b|Tunica da Predone Sith
 itm_sith_marauder_robe_c|Tunica da Predone Sith
 itm_sith_marauder_robe_d|Tunica da Predone Sith
-itm_sith_master_robe|Tunica da Predone Sith
-itm_sith_master_robe_unique|Tunica da Predone Sith
+itm_sith_master_robe|Tunica da Maestro Sith
+itm_sith_master_robe_unique|Tunica da Maestro Sith
 itm_guard_armor|Armatura da Guardia
 itm_guard_armor_red|Armatura da Guardiano
-itm_blast_armor_black|Armatura Blast-Armor
-itm_blast_armor_red|Armatura Blast-Armor
-itm_blast_armor_grey|Armatura Blast-Armor
-itm_blast_armor_bluegrey|Armatura Blast-Armor
+itm_blast_armor_black|Armatura Blast
+itm_blast_armor_red|Armatura Blast
+itm_blast_armor_grey|Armatura Blast
+itm_blast_armor_bluegrey|Armatura Blast
 itm_ubese_armor|Armatura Ubese
 itm_ubese_armor_alt|Armatura Ubese
 itm_wookiee_armor1|Armatura da Wookiee
@@ -571,11 +571,11 @@ itm_darth_vader_lightsaber|Spada Laser (Darth Vader)
 itm_obi_wan_lightsaber|Spada Laser (Obi-Wan Kenobi)
 itm_luke_skywalker_lightsaber|Spada Laser (Luke Skywalker)
 itm_anakin_skywalker_lightsaber|Spada Laser (Anakin Skywalker)
-itm_lightsaber_red_multikill|Multi-hit Lightsaber (DP)
+itm_lightsaber_red_multikill|Spada Laser a Colpo multiplo (in sviluppo) 
 itm_melee_punch| 
 itm_durasteel_staff|Bastone Lungo di Duracciaio
-itm_electro_staff_medium|Bastone Lungo Elettrico
-itm_electro_staff_long|Bastone Lungo Elettrico
+itm_electro_staff_medium|Elettrostaffa
+itm_electro_staff_long|Elettrostaffa
 itm_gamorrean_axe_1h|Ascia Gomorreana ad Una Mano
 itm_gamorrean_axe_2h|Ascia Gomorreana a Due Mani
 itm_vibro_axe_medium_1h|Vibroascia ad Una Mano
@@ -597,7 +597,7 @@ itm_ryyk_kerarthorr|Lama da Kerarthorr Ryyk
 itm_ryyk_blade_chieftain|Lama da Capitano Ryyk
 itm_sith_sword|Lama da Sith
 itm_combat_knife|Coltello da Combattimento
-itm_twilek_dagger|Lancia da Twilek
+itm_twilek_dagger|Daga da Twilek
 itm_vibro_knuckler|Vibrostorditore
 itm_vibro_blade1|Vibrolama
 itm_vibro_blade2|Vibrolama
@@ -619,14 +619,14 @@ itm_practice_vibro_sword1b|Vibrospada
 itm_quick_battle_armor|Armatura
 itm_transparent_helmet_armor|Elmetto Trasparente con Armatura
 itm_twilek_female_helmet_armor|Elmetto da Twilek Femmina con Armatura
-itm_twilek_male_head_bib|Elmetto da Twilek Maschio
+itm_twilek_male_head_bib|Testa di Bib Fortuna
 itm_weequay_head_helmet_a|Testa da Weequay
 itm_weequay_head_helmet_b|Testa da Weequay
 itm_klatooinian_head_helmet_a|Testa Klatooiniana
 itm_nikto_head_helmet_a|Testa da Nikto
 itm_nikto_head_helmet_b|Testa da Nikto
 itm_nikto_head_helmet_c|Testa da Nikto
-itm_tarkin_head|Testa di Grand Moff Tarkin
+itm_tarkin_head|Testa del Grand Moff Tarkin
 itm_ben_head|Testa di Ben Kenobi
 itm_leia_head|Testa di Leia Organa
 itm_rancor_body_a|Corpo da Rancor

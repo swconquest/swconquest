@@ -1,10 +1,10 @@
-itm_horse_meat|Лошадиное мясо
+itm_horse_meat|Конина
 itm_practice_boots|Тренировочные ботинки
-itm_arena_tunic_white|Белая туника для арены 
-itm_arena_tunic_red|Красная туника для арены
-itm_arena_tunic_blue|Синяя туника для арены
-itm_arena_tunic_green|Зеленая туника для арены
-itm_arena_tunic_yellow|Желтая туника для арены
+itm_arena_tunic_white|Туника для арены 
+itm_arena_tunic_red|Туника для арены
+itm_arena_tunic_blue|Туника для арены
+itm_arena_tunic_green|Туника для арены
+itm_arena_tunic_yellow|Туника для арены
 itm_book_tactics|Голокрон - Тактика
 itm_book_persuasion|Голокрон - Убеждение
 itm_book_leadership|Голокрон - Лидерство
@@ -83,29 +83,29 @@ itm_pilgrim_disguise|Маскировка Пилигрима
 itm_pilgrim_hood|Капюшон Пилигрима
 itm_leather_gloves|Кожаные перчатки
 itm_wrapping_boots|Оберточные постолы
-itm_blue_hose|Синий рукав
-itm_hide_boots|Бесшумные ботинки
+itm_blue_hose|Высокие сапоги
+itm_hide_boots|Ботинки из шкуры
 itm_ankle_boots|Полусапоги
 itm_nomad_boots|Ботинки кочевника
 itm_dress|Платье
-itm_blue_dress|Синее платье
+itm_blue_dress|Платье
 itm_peasant_dress|Колониальное платье
 itm_woolen_dress|Шерстяное платье
 itm_courtly_outfit|Изысканная одежда
-itm_nobleman_outfit|Аристократическая одежда
+itm_nobleman_outfit|Одежда аристократа
 itm_leather_armor|Кожаная броня
 itm_shirt|Рубаха
 itm_linen_tunic|Льняная туника
-itm_short_tunic|Богатая туника
+itm_short_tunic|Туника
 itm_robe|Роба
 itm_coarse_tunic|Грубая туника
 itm_leather_apron|Кожаный фартук
 itm_tabard|Плащ
 itm_leather_vest|Кожаный жилет
 itm_gambeson|Камзол
-itm_blue_gambeson|Синий камзол
-itm_red_gambeson|Красный камзол
-itm_padded_cloth|Обитая одежда
+itm_blue_gambeson|Камзол
+itm_red_gambeson|Камзол
+itm_padded_cloth|Обитая ткань
 itm_leather_jerkin|Кожаная безрукавка
 itm_padded_leather|Обитая кожа
 itm_straw_hat|Соломенная шляпа
@@ -128,11 +128,11 @@ itm_hatchet|Топорик
 itm_quarter_staff|Жезл с наконечником
 itm_throwing_axes|Гаморреанские метательные топоры
 itm_rich_outfit|Богатый наряд
-itm_black_hood|Черный плащ
+itm_black_hood|Плащ
 itm_light_leather|Тонкая кожа
 itm_light_leather_boots|Легкая кожаная обувь
-itm_black_gloves|Черные перчатки
-itm_black_gloves_long|Длинные черные перчатки
+itm_black_gloves|Перчатки
+itm_black_gloves_long|Перчатки
 itm_right_hand_glove|Правая перчатка
 itm_grey_gloves|Серые перчатки
 itm_darkgrey_gloves|Темные серые перчатки
@@ -151,11 +151,11 @@ itm_clone_trooper_gloves_orange|Перчатки клон-солдата
 itm_grey_gloves_with_bottle|Серые перчатки с бутылкой
 itm_leather_boots|Кожаная обувь
 itm_leather_boots_reinforced|Уплотненные кожаные сапоги
-itm_black_boots|Черные ботинки
-itm_black_boots_reinforced|Уплотненные черные ботинки
+itm_black_boots|Ботинки
+itm_black_boots_reinforced|Уплотненные ботинки
 itm_grey_boots|Серые ботинки
-itm_white_boots|Белые ботинки
-itm_white_boots_reinforced|Уплотненные белые ботинки
+itm_white_boots|Ботинки
+itm_white_boots_reinforced|Уплотненные ботинки
 itm_imperial_royal_guard_boots|Обувь элитного имперского стражника
 itm_imperial_stormtrooper_boots|Обувь имперского штурмовика
 itm_imperial_stormtrooper_boots_incinerator|Обувь солдата-сжигателя
@@ -302,7 +302,7 @@ itm_mercenary_armor|Броня наемника
 itm_crime_lord_armor|Доспех криминального лорда
 itm_trandoshan_flight_suit|Трандошанский лётный костюм
 itm_civilian_cloak|Гражданский плащ
-itm_white_cloak|Белый плащ
+itm_white_cloak|Плащ
 itm_padded_armor_white|Уплотненная броня
 itm_padded_armor_red|Уплотненная броня
 itm_padded_armor_blue|Обитая броня
@@ -416,10 +416,10 @@ itm_wookiee_female_feet|Ноги женщины вуки
 itm_kaminoan_female_head|Голова каминоанской женщины
 itm_kaminoan_female_body|Тело каминоанской женщины
 itm_droid_weapon_no_attack|Оружие рукопашного боя для дроидов
-itm_r2series_blue|Синий R-2
-itm_r2series_green|Зеленый R-2
-itm_r2series_orange|Оранжевый R-2
-itm_r2series_purple|Фиолетовый R-2
+itm_r2series_blue|Дроид серии R-2
+itm_r2series_green|Дроид серии R-2
+itm_r2series_orange|Дроид серии R-2
+itm_r2series_purple|Дроид серии R-2
 itm_mse6_armor|Корпус дроида серии MSE
 itm_lin_droid_armor|Корпус дроида серии LIN
 itm_lin_droid_armor_w_arm|Корпус дроида серии LIN
@@ -444,9 +444,9 @@ itm_c3po_red_hands|Ноги дроида серии 3PO
 itm_c3po_red_body|Корпус дроида серии 3PO
 itm_c3po_red_feet|Ноги дроида серии 3PO
 itm_3poseries_gold|Золотой дроид серии 3PO
-itm_3poseries_blue|Синий дроид серии 3PO
-itm_3poseries_red|Красный дроид серии 3PO
-itm_3poseries_grey|Серый дроид серии 3PO
+itm_3poseries_blue|Дроид серии 3PO
+itm_3poseries_red|Дроид серии 3PO
+itm_3poseries_grey|Дроид серии 3PO
 itm_3poseries_attack|Модуль рукопашного боя серии 3PO
 itm_b1series_body|Корпус боевого дроида B-1
 itm_bxseries_body|Корпус дроида-коммандос BX
@@ -510,10 +510,10 @@ itm_black_sun_helmet|Шлем &quot;Черного Солнца&quot;
 itm_black_sun_helmet_tan|Шлем &quot;Черного Солнца&quot;
 itm_black_sun_helmet_teal|Шлем &quot;Черного Солнца&quot;
 itm_black_sun_helmet_red|Шлем &quot;Черного Солнца&quot;
-itm_black_sun_armor|Броня  &quot;Черного Солнца&quot;
-itm_black_sun_armor_tan|Броня  &quot;Черного Солнца&quot;
-itm_black_sun_armor_teal|Броня  &quot;Черного Солнца&quot;
-itm_black_sun_armor_red|Броня  &quot;Черного Солнца&quot;
+itm_black_sun_armor|Броня &quot;Черного Солнца&quot;
+itm_black_sun_armor_tan|Броня &quot;Черного Солнца&quot;
+itm_black_sun_armor_teal|Броня &quot;Черного Солнца&quot;
+itm_black_sun_armor_red|Броня &quot;Черного Солнца&quot;
 itm_gamorrean_armor|Гаморреанский доспех
 itm_moncal_armor|Броня Мон-Каламари
 itm_moncal_armor_2|Броня Мон-Каламари

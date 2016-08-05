@@ -1,0 +1,835 @@
+itm_horse_meat|Hästkött
+itm_practice_boots|Träningsstövlar
+itm_arena_tunic_white|Vit Arena Tunika 
+itm_arena_tunic_red|Röd Arena Tunika
+itm_arena_tunic_blue|Blå Arena Tunika
+itm_arena_tunic_green|Grön Arena Tunika
+itm_arena_tunic_yellow|Gul Arena Tunika
+itm_book_tactics|Taktik Holocron
+itm_book_persuasion|Övertygelse Holocron
+itm_book_leadership|Ledarskaps Holocron
+itm_book_intelligence|Förstånds Holocron
+itm_book_trade|Handels Holocron
+itm_book_weapon_mastery|Vapen Mästrings Holocron
+itm_book_engineering|Ingenjörs Holocron
+itm_book_wound_treatment_reference|2-1B Medicinsk Droid
+itm_book_first_aid_reference|Medicinsk Databas
+itm_book_tactics_reference|Dejarik Bord
+itm_book_trade_reference|Sabacc Kort
+itm_book_ironflesh_reference|Personlig Sköld
+itm_book_horse_archery_reference|Lasersikte
+itm_book_training_reference|Träningsdosa
+itm_book_surgery_reference|Bacta Behållare
+itm_smoked_fish|Rökt Fisk
+itm_dried_meat|Nerf Biff
+itm_cattle_meat|Nerfkött
+itm_bantha_steak|Bantha Stek
+itm_pork|Fläsk
+itm_bread|Bröd
+itm_vagnerian_canape|Vagnerian Kanapé
+itm_carbohydrate_pack|Kolhydrats Paket
+itm_apples|Äpplen
+itm_blue_milk|Blå Mjölk
+itm_mujo_fruit|Mujo Frukt
+itm_cheese|Christophsis Ost
+itm_chicken|Kyckling
+itm_protein_pack|Protein Paket
+itm_honey|Honung
+itm_sausages|Nerf Korvar
+itm_cabbages|Kål
+itm_bristle_melon|Bristle Melon
+itm_butter|Bantha Smör
+itm_container_spice_1|Sändning av Ryll kryddor
+itm_container_spice_2|Sändning av Gree kryddor
+itm_container_spice_3|Sändning av Glitterstim kryddor
+itm_container_food_1|Sändning av Grönsaker
+itm_container_food_2|Sändning av Kolhydrater
+itm_container_food_3|Sändning av Protein
+itm_container_metal_1|Sändning av Beskartackor
+itm_container_metal_2|Sändning av Durasteeltackor
+itm_container_metal_3|Sändning av Bronziumtackor
+itm_container_death_sticks|Kartong med Dödspinnar
+itm_container_drink_1|Sändning av Vatten
+itm_container_drink_2|Sändning av Svart öl
+itm_container_drink_3|Sändning av Jurisaft
+itm_carbonite_tibanna|Carbonite Sändning av Tibanna Gas
+itm_container_ore|Mineral container
+itm_butter|Bantha Smör
+itm_wine|Mandaloriskt Vin
+itm_ale|Corellisk Öl
+itm_spice|Krydda
+itm_salt|Bassel havs salt
+itm_grain|Vete
+itm_flour|Mjöl
+itm_iron|Durasteel
+itm_bacta_injector|Bacta Injektor
+itm_bacta_capsule|Bacta Kapsyl
+itm_binocular|Makrokikare
+itm_jetpack|Jetpack
+itm_oil|Olja
+itm_pottery|Geonosisk Keramik
+itm_linen|Lashaa Silke
+itm_furs|Ewok Pälsar
+itm_wookiee_fur|Wookie Päls
+itm_trandoshan_skin|Trandoshan skinn
+itm_droid_parts|Droid Delar
+itm_wool|Nerf Ull
+itm_velvet|Naboo Sammet
+itm_tools|Hydro skruvnyckel
+itm_siege_supply|Förnödenheter
+itm_quest_wine|Vin
+itm_quest_ale|Öl
+itm_pilgrim_disguise|Pilgrims Förklädnad
+itm_pilgrim_hood|Pilgrims Huva
+itm_leather_gloves|Läder Handskar
+itm_wrapping_boots|Omslags stövlar
+itm_blue_hose|Blå Slang
+itm_hide_boots|Skinnstövlar
+itm_ankle_boots|Stövlar
+itm_nomad_boots|Nomad Stövlar
+itm_dress|Klänning
+itm_blue_dress|Blå Klänning
+itm_peasant_dress|Kolonist Klänning
+itm_woolen_dress|Ylle Klänning
+itm_courtly_outfit|Hovs Klänning
+itm_nobleman_outfit|Adelsmans Utstyrsel
+itm_leather_armor|Läder Rustning
+itm_shirt|Skjorta
+itm_linen_tunic|Linne Tunika
+itm_short_tunic|Rik Tunika
+itm_robe|Kappa
+itm_coarse_tunic|Grov Tunika
+itm_leather_apron|Läderförkläde
+itm_tabard|Tabard
+itm_leather_vest|Läderväst
+itm_gambeson|Gambeson
+itm_blue_gambeson|Blå Gambeson
+itm_red_gambeson|Röd Gambeson
+itm_padded_cloth|Vadderad Gambeson
+itm_leather_jerkin|Armlös Lädertröja
+itm_padded_leather|Vadderat Läder
+itm_straw_hat|Halmhatt
+itm_common_hood|Huva
+itm_headcloth|Huvudduk
+itm_woolen_hood|Yllehuva
+itm_fur_hat|Pälshatt
+itm_padded_coif|Vadderad Huva
+itm_woolen_cap|Yllekeps
+itm_felt_hat|Filthatt
+itm_leather_cap|Läderkeps
+itm_arming_cap|Beväpningskeps
+itm_female_hood|Damhuva
+itm_wooden_stick|Träpinne
+itm_club|Klubba
+itm_cleaver|Köttyxa
+itm_knife|Kniv
+itm_butchering_knife|Slaktarkniv
+itm_hatchet|Yxa
+itm_quarter_staff|Quarterstav
+itm_throwing_axes|Gammoreanska Kastyxor
+itm_rich_outfit|Rik Klädsel
+itm_black_hood|Svart Huva
+itm_light_leather|Tunt Läder
+itm_light_leather_boots|Tunna Läderskor
+itm_black_gloves|Svarta Handskar
+itm_black_gloves_long|Långa svarta Handskar
+itm_right_hand_glove|Högerhandske
+itm_grey_gloves|Gråa Handskar
+itm_darkgrey_gloves|Mörkgråa Handskar
+itm_lady_gloves|Damhandskar
+itm_mandalorian_crushgaunts|Mandalorian Crushgaunts
+itm_imperial_royal_guard_gloves|Imperisk Högvaktshandskar
+itm_imperial_stormtrooper_gloves|Imperisk Stormtruppshandskar
+itm_novatrooper_gloves|Novatruppshandskar
+itm_incinerator_trooper_gloves|Förbränningssoldatshandskar
+itm_clone_trooper_gloves_white|Klonsoldatshandskar
+itm_clone_trooper_gloves_green|Klonsoldatshandskar
+itm_clone_trooper_gloves_blue|Klonsoldatshandskar
+itm_clone_trooper_gloves_red|Klonsoldatshandskar
+itm_clone_trooper_gloves_yellow|Klonsoldatshandskar
+itm_clone_trooper_gloves_orange|Klonsoldatshandskar
+itm_grey_gloves_with_bottle|Grå Handskar med Flaska
+itm_leather_boots|Läderstövlar
+itm_leather_boots_reinforced|Förstärkta Läderstövlar
+itm_black_boots|Svarta Stövlar
+itm_black_boots_reinforced|Förstärkta Svarta Stövlar
+itm_grey_boots|Gråa Stövlar
+itm_white_boots|Vita Stövlar
+itm_white_boots_reinforced|Förstärkta Vita Stövlar
+itm_imperial_royal_guard_boots|Imperisk Hovvaktsstövlar
+itm_imperial_stormtrooper_boots|Imperisk Stormtruppsstövlar
+itm_imperial_stormtrooper_boots_incinerator|Förbränningssoldatsstövlar
+itm_imperial_stormtrooper_boots_novatrooper|Novatruppsstövlar
+itm_imperial_scout_trooper_boots|Imperisk Spejarsoldatsstövlar
+itm_shadow_scout_trooper_boots|Shadow Spejarsoldatsstövlar
+itm_clone_trooper_boots|Klonsoldatsstövlar
+itm_lobot_headgear|Borg Konstruktion Aj^6
+itm_glasses_black|Skytteglasögon
+itm_glasses_yellow|Skytteglasögon
+itm_eyepiece_tactics|Taktiskt Okular
+itm_eyepiece_leadership|Ledarskaps Okular
+itm_slave_neck_chain|Slav halskedja
+itm_officer_hat_white|Officers Hatt
+itm_civilian_cloak_hood|Civil Mantel och Huva
+itm_imperial_hat_green|Imperisk Hatt
+itm_imperial_hat_black|Imperisk Hatt
+itm_imperial_hat_grey|Imperisk Hatt
+itm_rebel_technician_helmet|Rebell Kadettshjälm
+itm_rebel_trooper_helmet|Rebell Soldatshjälm
+itm_rebel_heavy_trooper_helmet|Tung Rebelltroopershjälm
+itm_rebel_honor_guard_helmet|Rebell Hedersvaktshjälm
+itm_transparent_helmet|Genomskinlighjälm
+itm_imperial_trooper_helmet|Imperiesoldatshjälm
+itm_imperial_gunner_helmet|Imperieartilleristhjälm
+itm_imperial_navy_trooper_helmet|Imperiemarinsoldatshjälm
+itm_mercenary_helmet|Legosoldatshjälm
+itm_trandoshan_mask|Trandoshan Ansiktsmask
+itm_trandoshan_helmet|Trandoshan Hjälm
+itm_cap_military|Keps
+itm_cap_civilian_a|Keps
+itm_ewok_hat|Ewok Hatt
+itm_rancor_keeper_hat|Rancor Vårdarhatt
+itm_rodian_ventilator|Rodian Ventilator
+itm_rodian_ventilator_black|Rodian Ventilator
+itm_rodian_ventilator_red|Rodian Ventilator
+itm_gamorrean_helmet|Gammoreansk Hjälm
+itm_fang_helmet|Huggtands Hjälm
+itm_beak_helmet|Näbb Hjälm
+itm_gas_mask|Gasmask
+itm_mining_helmet|Exkaveringshjälm
+itm_pipe_helmet|Rörhjälm
+itm_skiff_guard_helmet|Skiffvaktshjälm
+itm_imperial_stormtrooper_helmet|Imperisk Stormtruppshjälm
+itm_imperial_stormtrooper_helmet_incinerator|Förbränningssoldatshjälm
+itm_imperial_stormtrooper_helmet_novatrooper|Novatruppshjälm
+itm_imperial_pilot_helmet|Imperiepilotshjälm
+itm_clone_trooper_head|Klonsoldats Huvud
+itm_clone_trooper_head_scar|Klonsoldats Huvud
+itm_clone_trooper_helmet_white|(Vit) Klonsoldatshjälm 
+itm_clone_trooper_helmet_green|(Grön) Klonsoldatshjälm 
+itm_clone_trooper_helmet_blue|(Blå) Klonsoldatshjälm 
+itm_clone_trooper_helmet_red|(Röd) Klonsoldatshjälm 
+itm_clone_trooper_helmet_yellow|(Gul) Klonsoldatshjälm 
+itm_clone_trooper_helmet_orange|(Orange) Klonsoldatshjälm
+itm_clone_trooper_helmet_mand|Klonsoldatshjälm
+itm_clone_trooper_helmet_lux|Klonsoldatshjälm
+itm_imperial_scout_trooper_helmet|Imperie Spejartrupps Hjälm
+itm_shadow_scout_trooper_helmet|Skugg Spejartrupps Hjälm
+itm_republic_pilot_helmet|Rebel Pilothjälm
+itm_republic_commando_helmet|Rebelkommando Hjälm
+itm_republic_commando_desert_helmet|Rebel Ökenkommando Hjälm
+itm_republic_commando_urban_helmet|Rebel Urbankommando Hjälm
+itm_rebel_sniper_helmet|Rebel Prickskyttshjälm
+itm_jedi_knight_hood|Jediriddar Huva
+itm_jedi_knight_hood_unique|Jediriddar Huva
+itm_sith_hood|Sith Huva
+itm_sith_hood_unique|Sith Huva
+itm_jedi_master_hood|Jedimästar Huva
+itm_jedi_master_hood_unique|Jedimästar Huva
+itm_jedi_knight_cloak|Jediriddar Mantel
+itm_jedi_knight_cloak_hood|Jediriddar Kappa med Huva
+itm_jedi_master_cloak|Jedimästar Kappa
+itm_jedi_master_cloak_hood|Jedimästar Kappa med Huva
+itm_sith_cloak|Sith Kappa
+itm_sith_cloak_hood|Sith Kappa med Huva
+itm_sith_cloak_mask|Sith Kappa med Mask
+itm_imperial_royal_guard_helmet|Kejserlig Högvaktshjälm
+itm_shadow_guard_helmet|Kejserlig Skuggvaktshjälm
+itm_desert_hat1|Ökenhatt
+itm_desert_hat2|Ökenhatt
+itm_desert_hat3|Ökenhatt
+itm_urban_hat1|Stadshatt
+itm_urban_hat2|Stadshatt
+itm_urban_hat3|Stadshatt
+itm_camouflage_hat1|Kamouflagehatt
+itm_camouflage_hat2|Kamouflagehatt
+itm_camouflage_hat3|Kamouflagehatt
+itm_dress_yellow|Damklänning
+itm_dress_red|Damklänning
+itm_dress_green|Damklänning
+itm_dress_blue|Damklänning
+itm_tunic_green|Tunika
+itm_tunic_white|Tunika
+itm_tunic_blue|Tunika
+itm_tunic_red|Tunika
+itm_tunic_yellow|Tunika
+itm_padded_tunic_green|Vadderad Tunika
+itm_padded_tunic_white|Vadderad Tunika
+itm_padded_tunic_blue|Vadderad Tunika
+itm_padded_tunic_red|Vadderad Tunika
+itm_padded_tunic_yellow|Vadderad Tunika
+itm_officer_uniform_white|Officersuniform
+itm_imperial_uniform_black_plain|Imperieuniform
+itm_female_outfit_femconblack|Kvinnlig Utstyrsel
+itm_female_outfit_femconbrowngreen|Kvinnlig Utstyrsel
+itm_female_outfit_femcongrey|Kvinnlig Utstyrsel
+itm_female_outfit_femconorange|Kvinnlig Utstyrsel
+itm_female_outfit_femconwhite|Kvinnlig Utstyrsel
+itm_female_outfit_femconwhitebrown|Kvinnlig Utstyrsel
+itm_outfit_tan|Byxdräkt
+itm_outfit_grey|Byxdräkt
+itm_outfit_black|Byxdräkt
+itm_outfit_green|Byxdräkt
+itm_vest_open_a|Öppen Väst
+itm_vest_open_b|Öppen Väst
+itm_vest_closed_a|Stängd Väst
+itm_vest_closed_b|Stängd Väst
+itm_vest_closed_c|Stängd Väst
+itm_shirt_blue|Skjorta
+itm_shirt_green|Skjorta
+itm_vest_closed_f|Snöjacka
+itm_jacket_open_a|Öppen Jacka
+itm_jacket_open_b|Öppen Jacka
+itm_jacket_open_c|Öppen Jacka
+itm_female_jacket_a|Kvinnlig Jacka
+itm_female_jacket_b|Kvinnlig Jacka
+itm_female_jacket_c|Kvinnlig Jacka
+itm_female_dress_a|Kvinnlig Klänning
+itm_female_dress_b|Kvinnlig Klänning
+itm_female_dancer_outfit_a|Dansös Utstyrsel
+itm_female_dancer_outfit_a_cloak|Dansös Utstyrsel
+itm_female_dancer_boots|Dansös Utstyrsel
+itm_female_leather_a|Kvinnlig Läderutstyrsel
+itm_female_leather_b|Kvinnlig Läderutstyrsel
+itm_female_leather_c|Kvinnlig Läderutstyrsel
+itm_female_leather_d|Kvinnlig Läderutstyrsel
+itm_jacket_closed_a|Stängd Jacka
+itm_jacket_closed_b|Stängd Jacka
+itm_jacket_closed_c|Stängd Jacka
+itm_klatooinian_armor|Klatooinian Rustning
+itm_scavenger_armor|Rotarrustning
+itm_mercenary_armor|Legosoldatsrustning
+itm_crime_lord_armor|Brottsherre Rustning
+itm_trandoshan_flight_suit|Trandoshan Flygdräkt
+itm_civilian_cloak|Civil Kappa
+itm_white_cloak|Vit Kappa
+itm_padded_armor_white|Vadderad Rustning
+itm_padded_armor_red|Vadderad Rustning
+itm_padded_armor_blue|Vadderad Rustning
+itm_armor_blue|Rustning
+itm_armor_brown|Rustning
+itm_armor_red|Rustning
+itm_armor_white|Rustning
+itm_pirate_armor|Rustning
+itm_imperial_uniform_black|Imperie Officersuniform
+itm_imperial_uniform_green|Imperie Officersuniform
+itm_rebel_uniform_tanblue|Rebel Befälhavaruniform
+itm_rebel_uniform_green|Rebel Officersuniform
+itm_imperial_trooper_armor|Imperietrupp Rustning
+itm_imperial_navy_trooper_armor|Imperie Marintrupps Rustning
+itm_imperial_trooper_armor|Imperietrupp Rustning
+itm_rebel_technician_armor|Rebel Kadetsrustning
+itm_republic_trooper_armor|Rebeltrupps Rustning
+itm_rebel_heavy_trooper_armor|Tungt Rebelltrupps Rustning
+itm_jedi_initiate_robe|Jedinovis Rock
+itm_jedi_padawan_robe|Jedilärlings Rock
+itm_sith_acolyte_outfit|Sith Akolyt Utstyrsel
+itm_sith_apprentice_outfit|Sithlärlings Utstyrsel
+itm_imperial_scout_trooper_armor|Imperie Spejartrupps Rustning
+itm_shadow_scout_trooper_armor|Skugg Spejartrupps Rustning
+itm_republic_pilot_armor|Rebelpilots Rustning
+itm_republic_commando_armor|Rebel Kommando Rustning
+itm_republic_commando_desert_armor|Rebel Ökenkommando Rustning
+itm_republic_commando_urban_armor|Rebel Urbankommando Rustning
+itm_rebel_sniper_armor|Rebel Prickskyttsrustning
+itm_imperial_stormtrooper_armor|Imperie Stormtrupps Rustning
+itm_imperial_stormtrooper_armor_incinerator|Förbrännartrupps Rustning
+itm_imperial_stormtrooper_armor_novatrooper|Novatrupps Rustning
+itm_imperial_stormtrooper_armor|Imperie Stormtrupps Rustning
+itm_rebel_honor_guard_armor|Rebel Hedersvakts Rustning
+itm_clone_trooper_armor_white|Klonsoldats Rustning
+itm_clone_trooper_armor_green|Klonsoldats Rustning
+itm_clone_trooper_armor_blue|Klonsoldats Rustning
+itm_clone_trooper_armor_red|Klonsoldats Rustning
+itm_clone_trooper_armor_yellow|Klonsoldats Rustning
+itm_clone_trooper_armor_orange|Klonsoldats Rustning
+itm_clone_trooper_armor_mand|Klonsoldats Rustning
+itm_clone_trooper_armor_lux|Klonsoldats Rustning
+itm_arc_trooper_armor_green|Arc Soldats Rustning
+itm_arc_trooper_armor_blue|Arc Soldats Rustning
+itm_arc_trooper_armor_red|Arc Soldats Rustning
+itm_arc_trooper_armor_yellow|Arc Soldats Rustning
+itm_arc_trooper_armor_orange|Arc Soldats Rustning
+itm_arc_trooper_armor_mand|Arc Soldats Rustning
+itm_arc_trooper_armor_lux|Arc Soldats Rustning
+itm_skiff_guard_armor_brown|Skiffvakts Rustning
+itm_skiff_guard_armor_grey|Skiffvakts Rustning
+itm_skiff_guard_armor_white|Skiffvakts Rustning
+itm_hutt_palace_guard_armor|Hutt Palatsvakts Rustning
+itm_jedi_knight_robe|Jediriddar Mantel
+itm_jedi_knight_robe_unique|Jediriddare Mantel
+itm_jedi_guardian_robe_a|Jediförsvarares Mantel
+itm_jedi_guardian_robe_b|Jediförsvarares Mantel
+itm_jedi_guardian_robe_c|Jediförsvarares Mantel
+itm_jedi_guardian_robe_d|Jediförsvarares Mantel
+itm_sith_knight_robe|Sithriddar Mantel
+itm_sith_knight_robe_unique|Sithriddar Mantel
+itm_sith_knight_robe_a|Sithriddar Mantel
+itm_sith_knight_robe_b|Sithriddar Mantel
+itm_sith_knight_robe_c|Sithriddar Mantel
+itm_imperial_royal_guard_robe|Imperie Högvakts Mantel
+itm_shadow_guard_robe|Imperie Skuggvakts Mantel
+itm_imperial_stormtrooper_armor_officer|Imperia Stormtrupps Officerarrustning
+itm_sw_desert_armor|Tung Ökenrustning
+itm_sw_urban_armor|Tung Urbanrustning
+itm_sw_sniper_armor|Prickskytts Rustning
+itm_jedi_robe_a|Jedi Mantel
+itm_jedi_robe_a_unique|Jedi Mantel
+itm_jedi_robe_b|Sith Mantel
+itm_jedi_robe_b_long|Lång Sith Mantel
+itm_jedi_robe_c|Jedi Mantel
+itm_jedi_robe_c_long|Lång Sith Mantel
+itm_jedi_robe_d|Jedi Mantel
+itm_jedi_robe_d_unique|Jedi Mantel
+itm_jedi_robe_e|Jedi Mantel
+itm_jedi_robe_e_unique|Jedi Mantel
+itm_jedi_robe_f|Jedi Mantel
+itm_jedi_robe_f_unique|Jedi Mantel
+itm_jedi_master_robe|Jedi Mantel
+itm_jedi_master_robe_unique|Jedi Mantel
+itm_sith_marauder_robe|Sith Marodör Mantel
+itm_sith_marauder_robe_unique|Sith Marodör Mantel
+itm_sith_marauder_robe_a|Sith Marodör Mantel
+itm_sith_marauder_robe_b|Sith Marodör Mantel
+itm_sith_marauder_robe_c|Sith Marodör Mantel
+itm_sith_marauder_robe_d|Sith Marodör Mantel
+itm_sith_master_robe|Sith Mästares Mantel
+itm_sith_master_robe_unique|Sith Mästares Mantel
+itm_guard_armor|Vaktrustning
+itm_guard_armor_red|Väktares Rustning
+itm_blast_armor_black|Sprängrustning
+itm_blast_armor_red|Sprängrustning
+itm_blast_armor_grey|Sprängrustning
+itm_blast_armor_bluegrey|Sprängrustning
+itm_ubese_armor|Ubese Rustning
+itm_ubese_armor_alt|Ubese Rustning
+itm_wookiee_armor1|Wookie Rustning
+itm_wookiee_armor1_merch|Wookie Rustning
+itm_wookiee_armor2|Wookie Rustning
+itm_wookiee_armor2_merch|Wookie Rustning
+itm_wookiee_hunter_armor|Wookie Jägares Rustning
+itm_wookiee_hunter_helmet|Wookie Jägares Hjälm
+itm_wookiee_female_head|Wookie Kvinnas Huvud
+itm_wookiee_female_body|Wookie Kvinnas Kropp
+itm_wookiee_female_hands|Wookie Kvinnas Händer
+itm_wookiee_female_feet|Wookie Kvinnas Fötter
+itm_kaminoan_female_head|Kaminoan Kvinnas Huvud
+itm_kaminoan_female_body|Kaminoan Kvinnas Kropp
+itm_droid_weapon_no_attack|Droid Närstridsvapen (Ingen Attack)
+itm_r2series_blue|Blå R2-Serie
+itm_r2series_green|Grön R2-Serie
+itm_r2series_orange|Orange R2-Serie
+itm_r2series_purple|Lila R2-Serie
+itm_mse6_armor|MSE-Serie Droid Kropp
+itm_lin_droid_armor|LIN Droid Kropp
+itm_lin_droid_armor_w_arm|LIN Droid Kropp
+itm_power_droid_grey|Kraft Droid
+itm_power_droid_snow|Kraft Droid
+itm_power_droid_tan|Kraft Droid
+itm_fxseries_droid_armor|FX-Serie Medicinsk Droid Kropp
+itm_c3po_blue_head|3PO-Serie Huvud
+itm_c3po_blue_hands|3PO-Serie Händer
+itm_c3po_blue_body|3PO-Serie Kropp
+itm_c3po_blue_feet|3PO-Serie Fötter
+itm_c3po_gold_head|3PO-Serie Huvud
+itm_c3po_gold_hands|3PO-Serie Händer
+itm_c3po_gold_body|3PO-Serie Kropp
+itm_c3po_gold_feet|3PO-Serie Fötter
+itm_c3po_grey_head|3PO-Serie Huvud
+itm_c3po_grey_hands|3PO-Serie Händer
+itm_c3po_grey_body|3PO-Serie Kropp
+itm_c3po_grey_feet|3PO-Serie Fötter
+itm_c3po_red_head|3PO-Serie Huvud
+itm_c3po_red_hands|3PO-Serie Händer
+itm_c3po_red_body|3PO-Serie Kropp
+itm_c3po_red_feet|3PO-Serie Fötter
+itm_3poseries_gold|3PO-Serie Guld
+itm_3poseries_blue|3PO-Serie Blå
+itm_3poseries_red|3PO-Serie Röd
+itm_3poseries_grey|3PO-Serie Grå
+itm_3poseries_attack|3PO-Serie Närstridsattack
+itm_b1series_body|B1-Serie Stridsdroid Kropp
+itm_bxseries_body|BX-Serie Kommando Droid Kropp
+itm_oomseries_body|OOM Säkerhetsdroid Kropp
+itm_oomseries_pilot_body|OOM Pilotsdroid Kropp
+itm_oomseries_marine_body|OOM Marindroid Kropp
+itm_oomseries_command_body|OOM Kommando Droid Kropp
+itm_battle_droid_attack|Stridsdroid Närstridsattack
+itm_b2series_body|B2-Serie Stridsdroid Kropp
+itm_b2series_body_enhanced|C-B3 Stridsdroid Kropp
+itm_b2series_attack|B2-Serie Stridsdroid Attack
+itm_b2series_blaster|B2-Serie Stridsdroid Blaster
+itm_transparent_droid_head|Transparent Huvud (för Droids)
+itm_transparent_droid_hands|Transparenta Händer (för Droids)
+itm_transparent_droid_feet|Transparenta Fötter (för Droids)
+itm_ig88_head|IG-Serie Huvud
+itm_ig88_hands|IG-Serie Händer
+itm_ig88_body|IG-Serie Kropp
+itm_ig88_feet|IG-Serie Fötter
+itm_ig88_attack| 
+itm_ig88_e11_shield|IG-88's E-11 Sköld
+itm_ig88_dlt20a|IG-88's DLT-20A
+itm_4lom_head|LOM-Serie Huvud
+itm_hk_head|HK-Serie Huvud
+itm_hk_hands|HK-Serie Händer
+itm_hk_body|HK-Serie Kropp
+itm_hk_feet|HK-Serie Fötter
+itm_hk_attack| 
+itm_mandalorian_tunic|Mandalorisk Tunika
+itm_mandalorian_soldier_helmet|Mandalorisk Soldatshjälm
+itm_mandalorian_soldier_helmet2|Mandalorisk Soldatshjälm
+itm_mandalorian_soldier_helmet3|Mandalorisk Soldatshjälm
+itm_mandalorian_soldier_armor|Mandalorisk Soldatsrustning
+itm_mandalorian_soldier_armor2|Mandalorisk Soldatsrustning
+itm_mandalorian_soldier_boots|Mandalorisk Soldatsstövlar
+itm_mandalorian_commando_helmet|Mandalorisk Kommandosoldatshjälm
+itm_mandalorian_commando_armor|Mandalorisk Kommandosoldatsrustning
+itm_mandalorian_commando_armor2|Mandalorisk Kommandosoldatsrustning
+itm_mandalorian_commando_boots|Mandalorisk Kommandosoldatsstövlar
+itm_mandalorian_sniper_helmet|Mandalorisk Prickskyttshjälm
+itm_mandalorian_sniper_armor|Mandalorisk Prickskyttsrustning
+itm_mandalorian_sniper_armor2|Mandalorisk Prickskyttsrustning
+itm_mandalorian_sniper_armor3|Mandalorisk Prickskyttsrustning
+itm_mandalorian_sniper_boots|Mandalorisk Prickskyttsstövlar
+itm_mandalorian_crusader_helmet|Mandalorisk Korsfararhjälm
+itm_mandalorian_neocrusader_helmet|Mandalorisk Neo-Korsfararhjälm
+itm_mandalorian_crusader_armor|Mandalorisk Korsfararrustning
+itm_mandalorian_crusader_boots|Mandalorisk Korsfararstövlar
+itm_mandalorian_deadeye_helmet|Mandalorisk Mitt-i-Prick Hjälm
+itm_mandalorian_deadeye_armor|Mandalorisk Mitt-i-Prick Rustning
+itm_mandalorian_deadeye_armor2|Mandalorisk Mitt-i-Prick Rustning
+itm_mandalorian_deadeye_armor3|Mandalorisk Mitt-i-Prick Rustning
+itm_mandalorian_deadeye_boots|Mandalorisk Mitt-i-Prick Stövlar
+itm_mandalorian_beskar_helmet|Mandalorisk Beskar Hjälm
+itm_mandalorian_beskar_armor|Mandalorisk Beskar Rustning
+itm_mandalorian_beskar_boots|Mandalorisk Beskar Stövlar
+itm_defiler_helmet|Befläckares Hjälm
+itm_defiler_armor|Befläckares Rustning
+itm_defiler_boots|Befläckares Stövlar
+itm_black_sun_helmet|Svarta-Solen Hjälm
+itm_black_sun_helmet_tan|Svarta-Solen Hjälm
+itm_black_sun_helmet_teal|Svarta-Solen Hjälm
+itm_black_sun_helmet_red|Svarta-Solen Hjälm
+itm_black_sun_armor|Svarta-Solen Rustning
+itm_black_sun_armor_tan|Svarta-Solen Rustning
+itm_black_sun_armor_teal|Svarta-Solen Rustning
+itm_black_sun_armor_red|Svarta-Solen Rustning
+itm_gamorrean_armor|Gammorean Rustning
+itm_moncal_armor|Mon Cala Rustning
+itm_moncal_armor_2|Mon Cala Rustning
+itm_moncal_boots|Mon Cala Stövlar
+itm_moncal_helmet|Mon Cala Hjälm
+itm_twilek_armor|Twi'lek Rustning
+itm_jawa_hood|Jawa Huvud
+itm_jawa_robe|Jawa Rock
+itm_jawa_boots|Jawa Stövlar
+itm_tusken_helmet|Tusken Hjälm
+itm_tusken_armor|Tusken Rustning
+itm_trandoshan_armor|Trandoshiansk Rustning
+itm_geonosian_armor|Geonosisk Rustning
+itm_lightsaber_green_arena|Ljussabel
+itm_lightsaber_blue_arena|Ljussabel
+itm_lightsaber_yellow_arena|Ljussabel
+itm_lightsaber_red_arena|Ljussabel
+itm_lightsaber_green|Ljussabel
+itm_lightsaber_blue|Ljussabel
+itm_lightsaber_orange|Ljussabel
+itm_lightsaber_purple|Ljussabel
+itm_lightsaber_yellow|Ljussabel
+itm_lightsaber_red|Ljussabel
+itm_lightsaber_green_reverse|Omvänt Grepp Ljussabel
+itm_lightsaber_blue_reverse|Omvänt Grepp Ljussabel
+itm_lightsaber_orange_reverse|Omvänt Grepp Ljussabel
+itm_lightsaber_purple_reverse|Omvänt Grepp Ljussabel
+itm_lightsaber_yellow_reverse|Omvänt Grepp Ljussabel
+itm_lightsaber_red_reverse|Omvänt Grepp Ljussabel
+itm_lightsaber_blue_double|Dubbelbladad Ljussabel
+itm_lightsaber_green_double|Dubbelbladad Ljussabel
+itm_lightsaber_orange_double|Dubbelbladad Ljussabel
+itm_lightsaber_purple_double|Dubbelbladad Ljussabel
+itm_lightsaber_red_double|Dubbelbladad Ljussabel
+itm_lightsaber_yellow_double|Dubbelbladad Ljussabel
+itm_lightsaber_green_2h|Tvåhands Ljussabel
+itm_lightsaber_blue_2h|Tvåhands Ljussabel
+itm_lightsaber_orange_2h|Tvåhands Ljussabel
+itm_lightsaber_purple_2h|Tvåhands Ljussabel
+itm_lightsaber_yellow_2h|Tvåhands Ljussabel
+itm_lightsaber_red_2h|Tvåhands Ljussabel
+itm_lightsaber_green_1h|Enhands Ljussabel
+itm_lightsaber_blue_1h|Enhands Ljussabel
+itm_lightsaber_orange_1h|Enhands Ljussabel
+itm_lightsaber_purple_1h|Enhands Ljussabel
+itm_lightsaber_yellow_1h|Enhands Ljussabel
+itm_lightsaber_red_1h|Enhands Ljussabel
+itm_lightsaber_green_pike|Ljussabels Pik
+itm_lightsaber_blue_pike|Ljussabels Pik
+itm_lightsaber_orange_pike|Ljussabels Pik
+itm_lightsaber_purple_pike|Ljussabels Pik
+itm_lightsaber_yellow_pike|Ljussabels Pik
+itm_lightsaber_red_pike|Ljussabels Pik
+itm_darth_vader_lightsaber|Darth Vaders Ljussabel
+itm_obi_wan_lightsaber|Obi-Wan Kenobis Ljussabel
+itm_luke_skywalker_lightsaber|Luke Skywalkers Ljussabel
+itm_anakin_skywalker_lightsaber|Anakin Skywalkers Ljussabel
+itm_lightsaber_red_multikill|Fler-träffs Ljussabel (Under utveckling)
+itm_melee_punch| 
+itm_durasteel_staff|Durastål Stav
+itm_electro_staff_medium|Elektrostav
+itm_electro_staff_long|Elektrostav
+itm_gamorrean_axe_1h|Enhands Gammorean Yxa
+itm_gamorrean_axe_2h|Tvåhands Gammorean Yxa
+itm_vibro_axe_medium_1h|Enhands Vibroyxa
+itm_vibro_axe_medium_2h|Tvåhands Vibroyxa
+itm_vibro_axe_long_1h|Enhands Vibroyxa
+itm_vibro_axe_long_2h|BD-1 Skärar Vibroyxa
+itm_tusken_gaffi_staff|Gaffi Stav
+itm_tusken_gaffi_stick|Gaffi Käpp
+itm_durasteel_mace|Durastål Klubba
+itm_baton|Batong
+itm_trandoshan_blade|Trandoshan Blad
+itm_durasteel_bat|Durastål Slagträ
+itm_force_pike|Kraft Pik
+itm_geonosian_static_pike|Geonosian Statisk Pik
+itm_pipe1|Rör
+itm_pipe2|Rör
+itm_ryyk_blade|Ryyk Blad
+itm_ryyk_kerarthorr|Ryyk Kerarthorr Blad
+itm_ryyk_blade_chieftain|Hövdings Ryykblad
+itm_sith_sword|Sith Svärd
+itm_combat_knife|Stridskniv
+itm_twilek_dagger|Twi'lek Dolk
+itm_vibro_knuckler|Vibro Knogjärn
+itm_vibro_blade1|Vibrosvärd
+itm_vibro_blade2|Vibrosvärd
+itm_vibro_blade3|Vibrosvärd
+itm_vibro_blade4|Vibrosvärd
+itm_vibro_sword1b|Vibrosvärd
+itm_vibro_sword2b|Tvåhandat Vibrosvärd
+itm_vibro_sword3_gold|Vibrosvärd
+itm_vibro_sword3_blue|Vibrosvärd
+itm_vibro_sword3_red|Vibrosvärd
+itm_tutorial_lightsaber|Ljussabel
+itm_practice_vibro_axe_medium|Gammorean Vibroyxa
+itm_practice_vibro_axe_long|BD-1 Skärar Vibroyxa
+itm_practice_vibro_axe_long_no_attack|BD-1 Skärar Vibroyxa
+itm_practice_vibro_blade|Vibroblad
+itm_practice_vibro_sword3a|Vibrosvärd
+itm_practice_vibro_sword2b|Tvåhandat Vibrosvärd
+itm_practice_vibro_sword1b|Vibrosvärd
+itm_quick_battle_armor|Rustning
+itm_transparent_helmet_armor|Transparent Hjälm med Kroppsrustning
+itm_twilek_female_helmet_armor|Kvinnlig Twi'lek Hjälm med Kroppsrustning
+itm_twilek_male_head_bib|Bib Fortuna Huvud
+itm_weequay_head_helmet_a|Weequay Huvud
+itm_weequay_head_helmet_b|Weequay Huvud
+itm_klatooinian_head_helmet_a|Klatooinian Huvud
+itm_nikto_head_helmet_a|Nikto Huvud
+itm_nikto_head_helmet_b|Nikto Huvud
+itm_nikto_head_helmet_c|Nikto Huvud
+itm_tarkin_head|Grand Moff Tarkin Huvud
+itm_ben_head|Ben Kenobi Huvud
+itm_leia_head|Leia Organa Huvud
+itm_rancor_body_a|Rancor Kropp
+itm_rancor_body_b|Rancor Kropp
+itm_rancor_body_c|Rancor Kropp
+itm_rancor_attack| 
+itm_rancor_keeper_armor|Rancor Vårdares Rustning
+itm_yoda_armor|Yoda Rustning och Stol
+itm_yoda_lightsaber|Yodas Ljussabel
+itm_yoda_speeder|Yodas Transparenta Speeder
+itm_jabba_armor|Jabba Rustning och Stol
+itm_jabba_attack|Jabba Ingen Attack
+itm_jabba_speeder|Jabbas Transparenta Speeder
+itm_transparent_head|Transparent Huvud
+itm_transparent_body|Transparent Kropp
+itm_transparent_hands|Transparenta Händer
+itm_transparent_feet|Transparenta Fötter
+itm_darth_vader_helmet|Darth Vaders Hjälm
+itm_darth_vader_armor|Darth Vaders Rustning
+itm_darth_vader_feet|Darth Vaders Fötter
+itm_princess_leia_outfit|Prinsessan Leias Utsstyrsel 
+itm_princess_leia_blaster|Prinsessan Leias DDC Försvarare
+itm_han_solo_outfit|Han Solos Utstyrsel
+itm_han_solo_blaster|Han Solos DL-44
+itm_luke_skywalker_outfit|Luke Skywalkers Utstyrsel
+itm_chewbacca_bowcaster|Chewbaccas Bowcaster
+itm_chewbacca_ryyk_blade|Chewbaccas Ryykblad
+itm_boba_fett_armor|Boba Fetts Rustning
+itm_boba_fett_helmet|Boba Fetts Hjälm
+itm_boba_fett_boots|Boba Fetts Stövlar
+itm_boba_fett_blaster|Boba Fetts EE-3
+itm_joruus_lightsaber|Cbaoths Ljussabel
+itm_dengar_armor|Dengars Rustning
+itm_dengar_helmet|Dengars Huvudbonad
+itm_dengar_boots|Dengars stövlar
+itm_dengar_gloves|Dengars Handskar
+itm_weequay_vibro_axe|Weequays Vibroyxa
+itm_force_throw_lightsaber_green|Kastljussabel
+itm_force_throw_lightsaber_blue|Kastljussabel
+itm_force_throw_lightsaber_orange|Kastljussabel
+itm_force_throw_lightsaber_purple|Kastljussabel
+itm_force_throw_lightsaber_yellow|Kastljussabel
+itm_force_throw_lightsaber_red|Kastljussabel
+itm_force_throw_lightsaber_green_merch|Kastljussabel
+itm_force_throw_lightsaber_blue_merch|Kastljussabel
+itm_force_throw_lightsaber_orange_merch|Kastljussabel
+itm_force_throw_lightsaber_purple_merch|Kastljussabel
+itm_force_throw_lightsaber_yellow_merch|Kastljussabel
+itm_force_throw_lightsaber_red_merch|Kastljussabel
+itm_force_throw_lightsaber_green_pike|Kastlaserpik
+itm_force_throw_lightsaber_blue_pike|Kastlaserpik
+itm_force_throw_lightsaber_orange_pike|Kastlaserpik
+itm_force_throw_lightsaber_purple_pike|Kastlaserpik
+itm_force_throw_lightsaber_yellow_pike|Kastlaserpik
+itm_force_throw_lightsaber_red_pike|Kastlaserpik
+itm_force_throw_lightsaber_red_double|Kastdubbelljussabel
+itm_twilek_dagger_throwing|Twi'lek Kastknivar
+itm_discblade|Discblad
+itm_thermal_detonator1|Termiskdetonator
+itm_thermal_detonator2|Termiskdetonator
+itm_thermal_detonator3|Termiskdetonator
+itm_energy_shield_red_small|Liten Energisköld
+itm_energy_shield_blue_small|Liten Energisköld
+itm_energy_shield_green_small|Liten Energisköld
+itm_energy_shield_yellow_small|Liten Energisköld
+itm_energy_shield_red_medium|Mellan-Energisköld
+itm_energy_shield_blue_medium|Mellan-Energisköld
+itm_energy_shield_green_medium|Mellan-Energisköld
+itm_energy_shield_yellow_medium|Mellan-Energisköld
+itm_energy_shield_red_large|Stor Energisköld
+itm_energy_shield_blue_large|Stor Energisköld
+itm_energy_shield_green_large|Stor Energisköld
+itm_energy_shield_yellow_large|Stor Energisköld
+itm_energy_shield_oval|Oval Energisköld
+itm_energy_shield_circle|Cirkulär Energisköld
+itm_durasteel_shield_small|Liten Durasteelsköld
+itm_durasteel_shield_small_2|Liten Durasteelsköld
+itm_durasteel_shield_large|Stor Durasteelsköld
+itm_wookiee_shield_small|Liten Wookieesköld
+itm_wookiee_shield_large|Stor Wookieesköld
+itm_westar_shield|Westar-34 Sköld
+itm_ryyk_kerarthorr_shield|Ryyk Kerarthorr Sköld
+itm_ryyk_blade_shield|Ryykbladssköld
+itm_lightsaber_block_blue|Ljussabelssköld
+itm_lightsaber_block_green|Ljussabelssköld
+itm_lightsaber_block_orange|Ljussabelssköld
+itm_lightsaber_block_purple|Ljussabelssköld
+itm_lightsaber_block_red|Ljussabelssköld
+itm_lightsaber_block_yellow|Ljussabelssköld
+itm_force_block|Kraftblock
+itm_force_shield|Kraftsköld
+itm_force_protect|Kraftskydd
+itm_hero_shield|Transparent Hjältesköld
+itm_practice_energy_shield|Övnings Energisköld
+itm_tutorial_energy_shield|Handlednings Energisköld
+itm_force_throw_lightsaber_t|Kraft Kasta Ljussabel
+itm_force_throw_lightsaber_tl|Kraft Kasta Ljussabel
+itm_force_lightning_ammo|Kraft Blixtar
+itm_force_push_ammo|Kraft Tryck
+itm_laser_bolts_green_pistol|Plasma Gas Patron
+itm_laser_bolts_red_pistol|Plasma Gas Patron
+itm_laser_bolts_orange_pistol|Plasma Gas Patron
+itm_laser_bolts_yellow_pistol|Plasma Gas Patron
+itm_laser_bolts_blue_pistol|Plasma Gas Patron
+itm_stun_beam_pistol|Bedövningsstråls Patron
+itm_ion_beam_pistol|Jonstråls Patron
+itm_sonic_beam_pistol|Soniskstråls Patron
+itm_ammo_belt_pistol|Ammunitionsbälte
+itm_disruptor_ammo|Distruptorammunition för Pistoler
+itm_laser_bolts_green_rifle|Plasma Gas Patron
+itm_laser_bolts_red_rifle|Plasma Gas Patron
+itm_laser_bolts_orange_rifle|Plasma Gas Patron
+itm_laser_bolts_yellow_rifle|Plasma Gas Patron
+itm_laser_bolts_blue_rifle|Plasma Gas Patron
+itm_stun_beam_rifle|Bedövningsstråls Patron
+itm_ion_beam_rifle|Jonstråls Patron
+itm_sonic_beam_rifle|Soniskstråls Patron
+itm_ammo_belt_rifle|Ammunitionsbälte
+itm_disruptor_ammo_rifle|Distruptorammunition för Gevär
+itm_laser_bolts_training_pistol|Laserbult
+itm_laser_bolts_training_rifle|Laserbult
+itm_force_power_ls_1|Novis Kraftkrafter
+itm_force_power_ls_2|Lärlings Kraftkrafter
+itm_force_power_ls_3|Riddar Kraftkrafter
+itm_force_power_ls_4|Mästar Kraftkrafter
+itm_force_power_ds_1|Novis Kraftkrafter
+itm_force_power_ds_2|Lärlings Kraftkrafter
+itm_force_power_ds_3|Riddar Kraftkrafter
+itm_force_power_ds_4|Mästar Kraftkrafter
+itm_force_jump|Krafthoppa
+itm_a280|A-280
+itm_a280_crouch|A-280
+itm_a280_stun|Bedövnings A-280
+itm_a295|A-295
+itm_a295_crouch|A-295
+itm_a295_stun|Bedövnings A-295
+itm_mandalorian_heavy_blaster|Tung Mandalorisk Blaster
+itm_corellian_destroyer_blaster|Correlisk Förstörar Blaster
+itm_dlt19|DLT-19
+itm_dlt19_scope|DLT-19 med sikte
+itm_dlt20a|DLT-20A
+itm_e17d|E-17d
+itm_dc15a|DC-15A
+itm_dc15a_hip|DC-15A
+itm_dc15s|DC-15S
+itm_trandoshan_acp_array_gun|Trandoshan ACP Array Pistol
+itm_trandoshan_stun_gun|Trandoshan Bedövningspistol
+itm_quicksnap_36t|QuickSnap 36T
+itm_bothan_bola_carabine|Bothan Bola Karabin
+itm_ee3|EE-3
+itm_ee3_stun|Bedövnings EE-3
+itm_mg15|ET-97C
+itm_e5|E-5
+itm_e11|E-11
+itm_e11_hip|E-11
+itm_e11_stun|Bedövnings E-11
+itm_wookiee_bowcaster|Bowcaster
+itm_kashyyyk_long_gun|Kashyyyk Långbössa
+itm_tusken_rifle|Tusken Cyclargevär
+itm_geonosian_sonic_rifle|Geonosian Sonisktgevär
+itm_t21|T-21
+itm_senate_rifle|Säkerhetsvakts Gevär
+itm_kisteer_1284|KiSteer 1284
+itm_ion_blaster|Jon Smällare
+itm_heavy_repeater|Tung Imperisk Repeater
+itm_storm_rifle|Stormtrupps Gevär
+itm_dh17|DH-17
+itm_dh17_stun|Bedövnigns DH-17
+itm_se14r|SE-14R
+itm_dl44a|DL-44
+itm_dl44a_stun|Bedövnings DL-44
+itm_dl44b|Modifierad DL-44
+itm_q2|Q2
+itm_q2_stun|Bedövnings Q2
+itm_elg3a|ELG-3A
+itm_elg3a_stun|Bedövnings ELG-3A
+itm_scout_trooper_pistol|Spejartrupps Pistol
+itm_ddc_defender|DDC Försvar
+itm_geonosian_sonic_pistol|Geonosian Soniskpistol
+itm_dl18|DL-18
+itm_westar|Westar-34
+itm_westar_stun|Bedövnings Westar-34
+itm_ion_pistol|Jon Pistol
+itm_trandoshan_supressor|Trandoshan Undertryckare
+itm_wrist_blaster|Handledsmonterad Blaster
+itm_practice_dl44|DL-44
+itm_dl44a_training|DL-44
+itm_dlt19_training|DLT-19 med sikte
+itm_heavy_weapons_ammo|Tung Vapensammunition
+itm_rocket_launcher|RDP-12 Raketgevär (under utveckling)
+itm_flame_rifle|CR-24 Flammgevär (under utveckling)
+itm_concussion_rifle|W-90 Hjärnskakningsgevär (under utveckling)
+itm_force_kill|Kraftdöda
+itm_force_choke|Kraftstrypa
+itm_force_knockdown|Kraftknockout
+itm_force_stun|Kraftbedöva
+itm_speeder|Civil 74-Z Speederbåge
+itm_speeder_rebel|Militär 74-Z Speederbåge
+itm_speeder_imperial|Military Z4-Z Speederbåge
+itm_speeder_hutt|Military Z4-Z Speederbåge
+itm_speeder_shadow|Skugg 74-Z Speederbåge
+itm_speeder_fc20|FC-20 Speederbåge
+itm_horus_winged_cruiser|Horus Bevingadkryssare
+itm_speeder_dagger|Bladad 74-Z speederbåge
+itm_practice_speeder|Civil 74-Z Speederbåge
+itm_arena_speeder|Civil 74-Z Speederbåge
