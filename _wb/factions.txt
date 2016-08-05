@@ -1,0 +1,55 @@
+factionsfile version 1
+26
+fac_no_faction No_Faction 0 11184810 
+ 0.9  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+0 fac_commoners Commoners 0 11184810 
+ 0  0.1  -0.6  0  0  0  0  0  0  0  0  0  0  0  0.1  0  0  0  0  0  0  0  -0.2  -0.2  -0.7  0 
+0 fac_outlaws Outlaws 33280 16777062 
+ 0  -0.6  0.5  0  -0.05  -0.5  -0.5  0  0  0  0  0  0  0  -0.15  -0.05  -0.05  -0.05  -0.05  0  -0.6  0  0  0  0  0 
+0 fac_neutral Neutral 0 16777215 
+ 0  0  0  0.1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+0 fac_innocents Innocents 1 11184810 
+ 0  0  -0.05  0  0.5  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+0 fac_merchants Merchants 1 11184810 
+ 0  0  -0.5  0  0  0.5  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  -0.5  -0.5  -0.5  0  0 
+0 fac_trade_federation Independent 1 14540083 
+ 0  0  -0.5  0  0  0  0.5  0  0  0  0  0  0  0  0  0  0  0  0  0  0.1  -0.2  -0.5  -0.5  0  0.1 
+0 fac_culture_1 <culture_1> 0 11184810 
+ 0  0  0  0  0  0  0  0.9  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+0 fac_culture_2 <culture_2> 0 11184810 
+ 0  0  0  0  0  0  0  0  0.9  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+0 fac_culture_3 <culture_3> 0 11184810 
+ 0  0  0  0  0  0  0  0  0  0.9  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+0 fac_culture_4 <culture_4> 0 11184810 
+ 0  0  0  0  0  0  0  0  0  0  0.9  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+0 fac_culture_5 <culture_5> 0 11184810 
+ 0  0  0  0  0  0  0  0  0  0  0  0.9  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+0 fac_culture_6 <culture_6> 0 11184810 
+ 0  0  0  0  0  0  0  0  0  0  0  0  0.9  0  0  0  0  0  0  0  0  0  0  0  0  0 
+0 fac_culture_7 <culture_7> 0 11184810 
+ 0  0  0  0  0  0  0  0  0  0  0  0  0  0.9  0  0  0  0  0  0  0  0  0  0  0  0 
+0 fac_player_faction Player_Faction 0 12632319 
+ 0  0.1  -0.15  0  0  0  0  0  0  0  0  0  0  0  0.9  1  0  0  0  0  0.1  -0.1  -0.15  -0.15  -0.5  0 
+0 fac_player_supporters_faction Player_Faction 0 11184810 
+ 0  0  -0.05  0  0  0  0  0  0  0  0  0  0  0  1  0.9  0  0  0  0  0  -0.02  -0.05  -0.05  0  0 
+0 fac_galacticempire Galactic_Empire 0 3388381 
+ 0  0  -0.05  0  0  0  0  0  0  0  0  0  0  0  0  0  0.9  -0.4  0  0  0  -0.02  -0.05  -0.05  0  0 
+0 fac_rebelalliance Rebel_Alliance 0 13503243 
+ 0  0  -0.05  0  0  0  0  0  0  0  0  0  0  0  0  0  -0.4  0.9  0  0  0  -0.02  -0.05  -0.05  0  0 
+0 fac_huttcartel Hutt_Cartel 0 14518340 
+ 0  0  -0.05  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0.9  0  0  -0.02  -0.05  -0.05  0  0 
+0 fac_robber_knights <robber_knights> 0 11184810 
+ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0.1  0  0  0  0  0  0 
+0 fac_bountyhunters Bounty_Hunters 0 11184810 
+ 0  0  -0.6  0  0  0  0.1  0  0  0  0  0  0  0  0.1  0  0  0  0  0  0.5  -0.6  -0.6  -0.6  0  0 
+0 fac_deserters Deserters 0 16751052 
+ 0  0  0  0  0  -0.5  -0.2  0  0  0  0  0  0  0  -0.1  -0.02  -0.02  -0.02  -0.02  0  -0.6  0.5  0  0  0  0 
+0 fac_black_sun_pirates Black_Sun_Pirates 0 16777062 
+ 0  -0.2  0  0  0  -0.5  -0.5  0  0  0  0  0  0  0  -0.15  -0.05  -0.05  -0.05  -0.05  0  -0.6  0  0.5  0  0  0 
+0 fac_blazing_claw_pirates Blazing_Claw_Pirates 0 16777062 
+ 0  -0.2  0  0  0  -0.5  -0.5  0  0  0  0  0  0  0  -0.15  -0.05  -0.05  -0.05  -0.05  0  -0.6  0  0  0.5  0  0 
+0 fac_enemy <enemy_placeholder> 33280 11184810 
+ 0  -0.7  0  0  0  0  0  0  0  0  0  0  0  0  -0.5  0  0  0  0  0  0  0  0  0  0.5  0 
+0 fac_slavers Slavers 0 11184810 
+ 0  0  0  0  0  0  0.1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0.1 
+0 

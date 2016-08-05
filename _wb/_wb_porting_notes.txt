@@ -1,2 +1,8 @@
 _ in native.bodies
 0 in file swconquest.legacy.shieldpoweritems.brf
+
+switch _ and 0 to dummy_mesh at compile time.
+
+conflicting crashy txt files: skins scene_props
+
+quick strings missing from msys compilation

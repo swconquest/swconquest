@@ -1,0 +1,1862 @@
+scenesfile version 1
+ 465
+scn_random_scene random_scene 1280 none none 0 0 240 240 -0.5 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ 0 
+scn_conversation_scene conversation_scene 0 dungeon_a bo_dungeon_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_ship_hangar_imp ship_hangar_imp 1 0 bo_Container_closed -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_ship_hangar_reb ship_hangar_reb 1 0 bo_Container_closed -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_ship_hangar_hut ship_hangar_hut 1 0 bo_Container_closed -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_ship_hangar ship_hangar 1 0 bo_Container_closed -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_ship_interior ship_interior 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
+  0 
+  0 
+ 0 
+scn_ship_interior_imp ship_interior_imp 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
+  0 
+  0 
+ 0 
+scn_ship_interior_reb ship_interior_reb 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
+  0 
+  0 
+ 0 
+scn_ship_interior_hut ship_interior_hut 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
+  0 
+  0 
+ 0 
+scn_space_battle space_battle 0 space_cube bo_space_cube -100 -100 100 100 -100000 0 
+  0 
+  0 
+ 0 
+scn_space_battle_entry space_battle_entry 1 space_battle_entry bo_space_battle_entry -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_trade_federation trade_federation 1 trade_federation_interior bo_trade_federation_interior -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_quick_battle_4 quick_battle_4 256 none none 0 0 100 100 -100 0x00000000200016da000364d9000060f500007591000064e7 
+  0 
+  0 
+ outer_terrain_desert 
+scn_quick_battle_7 quick_battle_7 256 none none 0 0 100 100 -100 0x314d060900036cd70000295300002ec9000025f3 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_8 quick_battle_8 256 none none 0 0 120 120 -100 0x0000000050001d63c005114300006228000053bf00004eb9 
+  0 
+  0 
+ 0 
+scn_custom_battle_1 custom_battle_1 256 none none 0 0 120 120 -100 0x00000000300005000006d9b9000052560000620000004c92 
+  0 
+  0 
+ outer_terrain_plain 
+scn_custom_battle_2 custom_battle_2 256 none none 0 0 120 120 -100 0x00000000300005000006d9b9000052560000620000004c92 
+  0 
+  0 
+ outer_terrain_plain 
+scn_custom_battle_3 custom_battle_3 256 none none 0 0 120 120 0 0x00000000516432e10005114400005f8a00002494000046ad 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground training_ground 256 none none 0 0 120 120 -100 0x30000500400360d80000189f00002a8380006d91 
+  0 
+  2  875  876 
+ outer_terrain_plain 
+scn_tutorial_1 tutorial_1 1 tutorial_1_scene bo_tutorial_1_scene -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_tutorial_2 tutorial_2 1 tutorial_2_scene bo_tutorial_2_scene -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_tutorial_3 tutorial_3 1 tutorial_3_scene bo_tutorial_3_scene -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_tutorial_4 tutorial_4 256 none none 0 0 120 120 -100 0x30000500400360d80000189f00002a8380006d91 
+  0 
+  0 
+ outer_terrain_plain 
+scn_tutorial_5 tutorial_5 256 none none 0 0 120 120 -100 0x3a06dca80005715c0000537400001377000011fe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_horse_track_1 training_ground_horse_track_1 256 none none 0 0 120 120 -100 0x00000000337553240004d53700000c0500002a0f80006267 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_horse_track_2 training_ground_horse_track_2 256 none none 0 0 120 120 -100 0x00000000301553240004d5370000466000002a0f800073f1 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_horse_track_3 training_ground_horse_track_3 256 none none 0 0 120 120 -100 0x00000000400c12b2000515470000216b0000485e00006928 
+  0 
+  0 
+ outer_terrain_snow 
+scn_training_ground_horse_track_4 training_ground_horse_track_4 256 none none 0 0 120 120 -100 0x00000000200b60320004a5290000180d0000452f00000e90 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_training_ground_horse_track_5 training_ground_horse_track_5 256 none none 0 0 120 120 -100 0x000000003008208e0006419000000f730000440f00003c86 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_ranged_melee_1 training_ground_ranged_melee_1 256 none none 0 0 120 120 -100 0x00000001350455c20005194a000041cb00005ae800000ff5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_ranged_melee_2 training_ground_ranged_melee_2 256 none none 0 0 120 120 -100 0x0000000532c8dccb0005194a000041cb00005ae800001bdd 
+  0 
+  0 
+ outer_terrain_plain 
+scn_training_ground_ranged_melee_3 training_ground_ranged_melee_3 256 none none 0 0 120 120 -100 0x000000054327dcba0005194a00001b1d00005ae800004d63 
+  0 
+  0 
+ outer_terrain_snow 
+scn_training_ground_ranged_melee_4 training_ground_ranged_melee_4 256 none none 0 0 120 120 -100 0x000000012247dcba0005194a000041ef00005ae8000050af 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_training_ground_ranged_melee_5 training_ground_ranged_melee_5 256 none none 0 0 120 120 -100 0x00000001324a9cba0005194a000041ef00005ae800003c55 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_mandalore_center mainplanet_mandalore_center 1 sundari_peace_park bo_sundari_peace_park -100 -100 100 100 -100 0 
+  0 
+  1  880 
+ 0 
+scn_mainplanet_christophsis_center mainplanet_christophsis_center 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  1  881 
+ 0 
+scn_mainplanet_endor_center mainplanet_endor_center 256 none none 0 0 100 100 -100 0x000000002005591e00040506000059a100002cd500005052 
+  0 
+  1  882 
+ outer_terrain_plain 
+scn_mainplanet_corellia_center mainplanet_corellia_center 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  1  883 
+ outer_terrain_plain 
+scn_mainplanet_naboo_center mainplanet_naboo_center 256 none none 0 0 100 100 -100 0x00000000300798b2000380e3000037960000573900003f48 
+  0 
+  1  884 
+ outer_terrain_plain 
+scn_mainplanet_kessel_center mainplanet_kessel_center 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  1  885 
+ outer_terrain_plain 
+scn_mainplanet_dantooine_center mainplanet_dantooine_center 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  1  886 
+ outer_terrain_plain 
+scn_mainplanet_geonosis_center mainplanet_geonosis_center 256 none none 0 0 100 100 -100 0x3000148000025896000074e600006c260000125a 
+  0 
+  1  887 
+ outer_terrain_plain 
+scn_mainplanet_mon_cal_center mainplanet_mon_cal_center 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  1  888 
+ 0 
+scn_mainplanet_kashyyyk_center mainplanet_kashyyyk_center 256 none none 0 0 240 240 -0.5 0x00000006200005000008f23c0000753d00004f66000033c8 
+  0 
+  1  889 
+ 0 
+scn_mainplanet_hoth_center mainplanet_hoth_center 256 none none 0 0 120 120 -200 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  1  890 
+ outer_snow 
+scn_mainplanet_gamorr_center mainplanet_gamorr_center 256 none none 0 0 100 100 -100 0x0000000020045abc000308c4000029d9000033bd000009b9 
+  0 
+  1  891 
+ outer_terrain_desert 
+scn_mainplanet_yavin_iv_center mainplanet_yavin_iv_center 256 none none 0 0 100 100 -100 0x300416a600035cd600007ee80000012100003fbc 
+  0 
+  1  892 
+ outer_terrain_plain 
+scn_mainplanet_tatooine_center mainplanet_tatooine_center 256 none none 0 0 100 100 -100 0x00000000200016da000364d9000060f500007591000064e7 
+  0 
+  1  893 
+ outer_terrain_desert 
+scn_mainplanet_manaan_center mainplanet_manaan_center 256 none none 0 0 220 220 30 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  1  894 
+ 0 
+scn_mainplanet_coruscant_center mainplanet_coruscant_center 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  1  895 
+ outer_terrain_city 
+scn_mainplanet_ryloth_center mainplanet_ryloth_center 256 none none 0 0 100 100 -100 0x0000000020045abc000308c4000029d9000033bd000009b9 
+  0 
+  1  896 
+ outer_terrain_desert 
+scn_mainplanet_nalhutta_center mainplanet_nalhutta_center 256 none none 0 0 100 100 -100 0x00000000200016da000364d9000060f500007591000064e7 
+  0 
+  1  897 
+ outer_terrain_desert 
+scn_mainplanet_bothawui_center mainplanet_bothawui_center 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  1  898 
+ outer_terrain_plain 
+scn_mainplanet_mustafar_center mainplanet_mustafar_center 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  1  899 
+ 0 
+scn_mainplanet_kamino_center mainplanet_kamino_center 256 none none 0 0 220 220 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  1  900 
+ 0 
+scn_mainplanet_taris_center mainplanet_taris_center 256 none none 0 0 220 220 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  1  900 
+ outer_terrain_city 
+scn_mainplanet_raxusprime_center mainplanet_raxusprime_center 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ 0 
+scn_mainplanet_sarapin_center mainplanet_sarapin_center 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ 0 
+scn_mainplanet_hypori_center mainplanet_hypori_center 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ outer_terrain_desert 
+scn_mainplanet_felucia_center mainplanet_felucia_center 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_bespin_center mainplanet_bespin_center 256 none none 0 0 240 240 -8 0x00000000200005000002308c000077830000228800004aaf 
+  0 
+  0 
+ 0 
+scn_mainplanet_mandalore_castle mainplanet_mandalore_castle 1 imperial_office_green bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  526 
+ 0 
+scn_mainplanet_christophsis_castle mainplanet_christophsis_castle 1 imperial_office_green bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  527 
+ 0 
+scn_mainplanet_endor_castle mainplanet_endor_castle 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  528 
+ 0 
+scn_mainplanet_corellia_castle mainplanet_corellia_castle 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  529 
+ 0 
+scn_mainplanet_naboo_castle mainplanet_naboo_castle 1 imperial_office_red bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  530 
+ 0 
+scn_mainplanet_kessel_castle mainplanet_kessel_castle 1 imperial_office_brown bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  531 
+ 0 
+scn_mainplanet_dantooine_castle mainplanet_dantooine_castle 1 imperial_office_green bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  532 
+ 0 
+scn_mainplanet_geonosis_castle mainplanet_geonosis_castle 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  533 
+ 0 
+scn_mainplanet_mon_cal_castle mainplanet_mon_cal_castle 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  534 
+ 0 
+scn_mainplanet_kashyyyk_castle mainplanet_kashyyyk_castle 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  535 
+ 0 
+scn_mainplanet_hoth_castle mainplanet_hoth_castle 256 none none 0 0 100 100 -10 0x0000000040000521000258960000350400006db600003191 
+  1  100000 
+  1  536 
+ 0 
+scn_mainplanet_gamorr_castle mainplanet_gamorr_castle 1 imperial_office_brown bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  537 
+ 0 
+scn_mainplanet_yavin_iv_castle mainplanet_yavin_iv_castle 1 imperial_office_green bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  538 
+ 0 
+scn_mainplanet_tatooine_castle mainplanet_tatooine_castle 1 imperial_office_brown bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  539 
+ 0 
+scn_mainplanet_manaan_castle mainplanet_manaan_castle 1 imperial_office_green bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  540 
+ 0 
+scn_mainplanet_coruscant_castle mainplanet_coruscant_castle 1 imperial_office_red_furnished bo_imperial_office_furnished -100 -100 100 100 -100 0 
+  1  100000 
+  1  541 
+ 0 
+scn_mainplanet_ryloth_castle mainplanet_ryloth_castle 1 imperial_office_brown bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  542 
+ 0 
+scn_mainplanet_nalhutta_castle mainplanet_nalhutta_castle 1 imperial_office_brown bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  543 
+ 0 
+scn_mainplanet_bothawui_castle mainplanet_bothawui_castle 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  544 
+ 0 
+scn_mainplanet_mustafar_castle mainplanet_mustafar_castle 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  545 
+ 0 
+scn_mainplanet_kamino_castle mainplanet_kamino_castle 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  546 
+ 0 
+scn_mainplanet_taris_castle mainplanet_taris_castle 1 imperial_office_red bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  547 
+ 0 
+scn_mainplanet_raxusprime_castle mainplanet_raxusprime_castle 1 imperial_office_brown bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  548 
+ 0 
+scn_mainplanet_sarapin_castle mainplanet_sarapin_castle 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  549 
+ 0 
+scn_mainplanet_hypori_castle mainplanet_hypori_castle 1 imperial_office_brown bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  550 
+ 0 
+scn_mainplanet_felucia_castle mainplanet_felucia_castle 1 imperial_office_brown bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  551 
+ 0 
+scn_mainplanet_bespin_castle mainplanet_bespin_castle 1 imperial_office_brown bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  552 
+ 0 
+scn_mainplanet_mandalore_cantina mainplanet_mandalore_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_christophsis_cantina mainplanet_christophsis_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_endor_cantina mainplanet_endor_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_corellia_cantina mainplanet_corellia_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_naboo_cantina mainplanet_naboo_cantina 256 none none 0 0 100 100 -100 0x0000000030078000000380e0000037960000573900003f48 
+  0 
+  0 
+ 0 
+scn_mainplanet_kessel_cantina mainplanet_kessel_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_dantooine_cantina mainplanet_dantooine_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_geonosis_cantina mainplanet_geonosis_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_mon_cal_cantina mainplanet_mon_cal_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_kashyyyk_cantina mainplanet_kashyyyk_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_hoth_cantina mainplanet_hoth_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_gamorr_cantina mainplanet_gamorr_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_yavin_iv_cantina mainplanet_yavin_iv_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_tatooine_cantina mainplanet_tatooine_cantina 1 moseisley_cantina bo_moseisley_cantina -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_manaan_cantina mainplanet_manaan_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_coruscant_cantina mainplanet_coruscant_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_ryloth_cantina mainplanet_ryloth_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_nalhutta_cantina mainplanet_nalhutta_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_bothawui_cantina mainplanet_bothawui_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_mustafar_cantina mainplanet_mustafar_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_kamino_cantina mainplanet_kamino_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_taris_cantina mainplanet_taris_cantina 1 taris_cantina bo_taris_cantina -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_raxusprime_cantina mainplanet_raxusprime_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_sarapin_cantina mainplanet_sarapin_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_hypori_cantina mainplanet_hypori_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_felucia_cantina mainplanet_felucia_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_bespin_cantina mainplanet_bespin_cantina 1 cantina_bar bo_cantina_bar -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_mandalore_store mainplanet_mandalore_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_christophsis_store mainplanet_christophsis_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_endor_store mainplanet_endor_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_corellia_store mainplanet_corellia_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_naboo_store mainplanet_naboo_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_kessel_store mainplanet_kessel_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_dantooine_store mainplanet_dantooine_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_geonosis_store mainplanet_geonosis_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_mon_cal_store mainplanet_mon_cal_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_kashyyyk_store mainplanet_kashyyyk_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_hoth_store mainplanet_hoth_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_gamorr_store mainplanet_gamorr_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_yavin_iv_store mainplanet_yavin_iv_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_tatooine_store mainplanet_tatooine_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_manaan_store mainplanet_manaan_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_coruscant_store mainplanet_coruscant_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_ryloth_store mainplanet_ryloth_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_nalhutta_store mainplanet_nalhutta_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_bothawui_store mainplanet_bothawui_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_mustafar_store mainplanet_mustafar_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_kamino_store mainplanet_kamino_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_taris_store mainplanet_taris_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_raxusprime_store mainplanet_raxusprime_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_sarapin_store mainplanet_sarapin_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_hypori_store mainplanet_hypori_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_felucia_store mainplanet_felucia_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_bespin_store mainplanet_bespin_store 1 sw_merchant_shop bo_sw_merchant_shop -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_mandalore_arena mainplanet_mandalore_arena 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_christophsis_arena mainplanet_christophsis_arena 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ 0 
+scn_mainplanet_endor_arena mainplanet_endor_arena 256 none none 0 0 100 100 -100 0xa0001d9300031ccb0000156f000048ba0000361c 
+  0 
+  0 
+ 0 
+scn_mainplanet_corellia_arena mainplanet_corellia_arena 256 none none 0 0 220 220 30 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_naboo_arena mainplanet_naboo_arena 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_kessel_arena mainplanet_kessel_arena 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_dantooine_arena mainplanet_dantooine_arena 256 none none 0 0 100 100 -100 0xa0001d9300031ccb0000156f000048ba0000361c 
+  0 
+  0 
+ 0 
+scn_mainplanet_geonosis_arena mainplanet_geonosis_arena 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_mon_cal_arena mainplanet_mon_cal_arena 256 none none 0 0 220 220 30 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ 0 
+scn_mainplanet_kashyyyk_arena mainplanet_kashyyyk_arena 256 none none 0 0 100 100 -100 0xa0001d9300031ccb0000156f000048ba0000361c 
+  0 
+  0 
+ 0 
+scn_mainplanet_hoth_arena mainplanet_hoth_arena 256 none none 0 0 120 120 -100 0x000000044000050040029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_snow 
+scn_mainplanet_gamorr_arena mainplanet_gamorr_arena 256 none none 0 0 100 100 -100 0x00000002200005000005f57b00005885000046bd00006d9c 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mainplanet_yavin_iv_arena mainplanet_yavin_iv_arena 256 none none 0 0 100 100 -100 0xa0001d9300031ccb0000156f000048ba0000361c 
+  0 
+  0 
+ 0 
+scn_mainplanet_tatooine_arena mainplanet_tatooine_arena 256 none none 0 0 100 100 -100 0x00000002500005004005f57b00005885000046bd00006d9c 
+  0 
+  0 
+ outer_terrain_desert 
+scn_mainplanet_manaan_arena mainplanet_manaan_arena 256 none none 0 0 220 220 30 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ 0 
+scn_mainplanet_coruscant_arena mainplanet_coruscant_arena 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_ryloth_arena mainplanet_ryloth_arena 256 none none 0 0 100 100 -100 0x00000002200005000005f57b00005885000046bd00006d9c 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mainplanet_nalhutta_arena mainplanet_nalhutta_arena 256 none none 0 0 100 100 -100 0x00000002200005000005f57b00005885000046bd00006d9c 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mainplanet_bothawui_arena mainplanet_bothawui_arena 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_mustafar_arena mainplanet_mustafar_arena 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ 0 
+scn_mainplanet_kamino_arena mainplanet_kamino_arena 256 none none 0 0 100 100 -100 0x00000002500005004005f57b00005885000046bd00006d9c 
+  0 
+  0 
+ 0 
+scn_mainplanet_taris_arena mainplanet_taris_arena 256 none none 0 0 220 220 30 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_raxusprime_arena mainplanet_raxusprime_arena 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ 0 
+scn_mainplanet_sarapin_arena mainplanet_sarapin_arena 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ 0 
+scn_mainplanet_hypori_arena mainplanet_hypori_arena 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ outer_terrain_desert 
+scn_mainplanet_felucia_arena mainplanet_felucia_arena 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_bespin_arena mainplanet_bespin_arena 1 box_a_square bo_box_a_square -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_mandalore_prison mainplanet_mandalore_prison 1 interior_prison_a bo_interior_prison_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_christophsis_prison mainplanet_christophsis_prison 1 interior_prison_b bo_interior_prison_b -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_endor_prison mainplanet_endor_prison 1 interior_prison_f bo_interior_prison_f -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_corellia_prison mainplanet_corellia_prison 1 interior_prison_g bo_interior_prison_g -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_mainplanet_naboo_prison mainplanet_naboo_prison 1 interior_prison_h bo_interior_prison_h -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_kessel_prison mainplanet_kessel_prison 1 interior_prison_e bo_interior_prison_e -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_dantooine_prison mainplanet_dantooine_prison 1 interior_prison_i bo_interior_prison_i -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_geonosis_prison mainplanet_geonosis_prison 1 dungeon_cell_b bo_dungeon_cell_b -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_mon_cal_prison mainplanet_mon_cal_prison 1 interior_prison_j bo_interior_prison_j -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_kashyyyk_prison mainplanet_kashyyyk_prison 1 interior_prison_o bo_interior_prison_o -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_hoth_prison mainplanet_hoth_prison 1 dungeon_a bo_dungeon_a -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_gamorr_prison mainplanet_gamorr_prison 1 interior_prison_d bo_interior_prison_d -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_yavin_iv_prison mainplanet_yavin_iv_prison 1 interior_prison_a bo_interior_prison_a -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_tatooine_prison mainplanet_tatooine_prison 1 interior_prison_n bo_interior_prison_n -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_manaan_prison mainplanet_manaan_prison 1 interior_prison_f bo_interior_prison_f -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_coruscant_prison mainplanet_coruscant_prison 1 interior_prison_k bo_interior_prison_k -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_ryloth_prison mainplanet_ryloth_prison 1 interior_prison_n bo_interior_prison_n -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_nalhutta_prison mainplanet_nalhutta_prison 1 interior_prison_o bo_interior_prison_o -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_bothawui_prison mainplanet_bothawui_prison 1 interior_prison_k bo_interior_prison_k -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_mustafar_prison mainplanet_mustafar_prison 1 interior_prison_k bo_interior_prison_k -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_kamino_prison mainplanet_kamino_prison 1 interior_prison_k bo_interior_prison_k -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_taris_prison mainplanet_taris_prison 1 interior_prison_f bo_interior_prison_f -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_raxusprime_prison mainplanet_raxusprime_prison 1 interior_prison_k bo_interior_prison_k -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_sarapin_prison mainplanet_sarapin_prison 1 interior_prison_f bo_interior_prison_f -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_hypori_prison mainplanet_hypori_prison 1 interior_prison_f bo_interior_prison_f -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_felucia_prison mainplanet_felucia_prison 1 interior_prison_f bo_interior_prison_f -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_bespin_prison mainplanet_bespin_prison 1 interior_prison_f bo_interior_prison_f -100 -100 100 100 -100 0 
+  1  100000 
+  0 
+ 0 
+scn_mainplanet_mandalore_alley mainplanet_mandalore_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_christophsis_alley mainplanet_christophsis_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_endor_alley mainplanet_endor_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_corellia_alley mainplanet_corellia_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_naboo_alley mainplanet_naboo_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_kessel_alley mainplanet_kessel_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_dantooine_alley mainplanet_dantooine_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_geonosis_alley mainplanet_geonosis_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_mon_cal_alley mainplanet_mon_cal_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_kashyyyk_alley mainplanet_kashyyyk_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_hoth_alley mainplanet_hoth_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_gamorr_alley mainplanet_gamorr_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_yavin_iv_alley mainplanet_yavin_iv_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_tatooine_alley mainplanet_tatooine_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_manaan_alley mainplanet_manaan_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_coruscant_alley mainplanet_coruscant_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_ryloth_alley mainplanet_ryloth_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_nalhutta_alley mainplanet_nalhutta_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_bothawui_alley mainplanet_bothawui_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_mustafar_alley mainplanet_mustafar_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_kamino_alley mainplanet_kamino_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_taris_alley mainplanet_taris_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_raxusprime_alley mainplanet_raxusprime_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_sarapin_alley mainplanet_sarapin_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_hypori_alley mainplanet_hypori_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_felucia_alley mainplanet_felucia_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_mainplanet_bespin_alley mainplanet_bespin_alley 256 none none 0 0 100 100 -100 0x300bc5430001e0780000448a0000049f00007932 
+  0 
+  0 
+ 0 
+scn_spacestation_2_exterior spacestation_2_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_2_interior spacestation_2_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  554 
+ 0 
+scn_spacestation_2_prison spacestation_2_prison 1 interior_prison_d bo_interior_prison_d -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_3_exterior spacestation_3_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_3_interior spacestation_3_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  555 
+ 0 
+scn_spacestation_3_prison spacestation_3_prison 1 interior_prison_e bo_interior_prison_e -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_4_exterior spacestation_4_exterior 256 none none 0 0 100 100 -100 0x0000000230029cb2000709c200003c9500004b9b00002f4d 
+  0 
+  0 
+ 0 
+scn_spacestation_4_interior spacestation_4_interior 256 none none 0 0 100 100 -10 0x0000000040000521000258960000350400006db600003191 
+  0 
+  0 
+ 0 
+scn_spacestation_4_prison spacestation_4_prison 1 interior_prison_l bo_interior_prison_l -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_5_exterior spacestation_5_exterior 256 none none 0 0 100 100 -800 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_5_interior spacestation_5_interior 1 dshall bo_dshall -100 -100 100 100 -100 0 
+  1  100000 
+  1  557 
+ 0 
+scn_spacestation_5_prison spacestation_5_prison 1 interior_prison_l bo_interior_prison_l -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_6_exterior spacestation_6_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_6_interior spacestation_6_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  558 
+ 0 
+scn_spacestation_6_prison spacestation_6_prison 1 interior_prison_j bo_interior_prison_j -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_7_exterior spacestation_7_exterior 256 none none 0 0 100 100 -800 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_7_interior spacestation_7_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  559 
+ 0 
+scn_spacestation_7_prison spacestation_7_prison 1 interior_prison_i bo_interior_prison_i -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_8_exterior spacestation_8_exterior 256 none none 0 0 100 100 -800 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_8_interior spacestation_8_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  560 
+ 0 
+scn_spacestation_8_prison spacestation_8_prison 1 interior_prison_e bo_interior_prison_e -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_9_exterior spacestation_9_exterior 256 none none 0 0 100 100 -800 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_9_interior spacestation_9_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  561 
+ 0 
+scn_spacestation_9_prison spacestation_9_prison 1 interior_prison_d bo_interior_prison_d -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_10_exterior spacestation_10_exterior 256 none none 0 0 100 100 -800 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_10_interior spacestation_10_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  562 
+ 0 
+scn_spacestation_10_prison spacestation_10_prison 1 interior_prison_k bo_interior_prison_k -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_11_exterior spacestation_11_exterior 256 none none 0 0 100 100 -800 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_11_interior spacestation_11_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  563 
+ 0 
+scn_spacestation_11_prison spacestation_11_prison 1 interior_prison_k bo_interior_prison_k -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_12_exterior spacestation_12_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_12_interior spacestation_12_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  564 
+ 0 
+scn_spacestation_12_prison spacestation_12_prison 1 interior_prison_i bo_interior_prison_i -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_13_exterior spacestation_13_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_13_interior spacestation_13_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  565 
+ 0 
+scn_spacestation_13_prison spacestation_13_prison 1 interior_prison_j bo_interior_prison_j -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_14_exterior spacestation_14_exterior 256 none none 0 0 100 100 -800 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_14_interior spacestation_14_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  566 
+ 0 
+scn_spacestation_14_prison spacestation_14_prison 1 interior_prison_m bo_interior_prison_m -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_15_exterior spacestation_15_exterior 256 none none 0 0 100 100 -800 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_15_interior spacestation_15_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  567 
+ 0 
+scn_spacestation_15_prison spacestation_15_prison 1 interior_prison_a bo_interior_prison_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_16_exterior spacestation_16_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_16_interior spacestation_16_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  568 
+ 0 
+scn_spacestation_16_prison spacestation_16_prison 1 interior_prison_l bo_interior_prison_l -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_17_exterior spacestation_17_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_17_interior spacestation_17_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  569 
+ 0 
+scn_spacestation_17_prison spacestation_17_prison 1 interior_prison_a bo_interior_prison_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_18_exterior spacestation_18_exterior 256 none none 0 0 100 100 -800 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_18_interior spacestation_18_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  570 
+ 0 
+scn_spacestation_18_prison spacestation_18_prison 1 interior_prison_k bo_interior_prison_k -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_19_exterior spacestation_19_exterior 256 none none 0 0 100 100 -100 0x0000000230029cb2000709c200003c9500004b9b00002f4d 
+  0 
+  0 
+ outer_terrain_plain 
+scn_spacestation_19_interior spacestation_19_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  571 
+ 0 
+scn_spacestation_19_prison spacestation_19_prison 1 interior_prison_e bo_interior_prison_e -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_20_exterior spacestation_20_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_20_interior spacestation_20_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  572 
+ 0 
+scn_spacestation_20_prison spacestation_20_prison 1 interior_prison_d bo_interior_prison_d -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_21_exterior spacestation_21_exterior 256 none none 0 0 100 100 -100 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_21_interior spacestation_21_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  573 
+ 0 
+scn_spacestation_21_prison spacestation_21_prison 1 interior_prison_d bo_interior_prison_d -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_22_exterior spacestation_22_exterior 256 none none 0 0 100 100 -100 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_22_interior spacestation_22_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  574 
+ 0 
+scn_spacestation_22_prison spacestation_22_prison 1 interior_prison_i bo_interior_prison_i -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_23_exterior spacestation_23_exterior 256 none none 0 0 100 100 -100 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_23_interior spacestation_23_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  575 
+ 0 
+scn_spacestation_23_prison spacestation_23_prison 1 interior_prison_b bo_interior_prison_b -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_24_exterior spacestation_24_exterior 256 none none 0 0 100 100 -100 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_24_interior spacestation_24_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  576 
+ 0 
+scn_spacestation_24_prison spacestation_24_prison 1 interior_prison_f bo_interior_prison_f -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_25_exterior spacestation_25_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_25_interior spacestation_25_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  577 
+ 0 
+scn_spacestation_25_prison spacestation_25_prison 1 interior_prison_a bo_interior_prison_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_26_exterior spacestation_26_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_26_interior spacestation_26_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  578 
+ 0 
+scn_spacestation_26_prison spacestation_26_prison 1 interior_prison_h bo_interior_prison_h -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_27_exterior spacestation_27_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_27_interior spacestation_27_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  579 
+ 0 
+scn_spacestation_27_prison spacestation_27_prison 1 interior_prison_i bo_interior_prison_i -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_28_exterior spacestation_28_exterior 256 none none 0 0 100 100 -100 0x0000000230029cb2000709c200003c9500004b9b00002f4d 
+  0 
+  0 
+ outer_terrain_plain 
+scn_spacestation_28_interior spacestation_28_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  580 
+ 0 
+scn_spacestation_28_prison spacestation_28_prison 1 interior_prison_j bo_interior_prison_j -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_29_exterior spacestation_29_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_29_interior spacestation_29_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  581 
+ 0 
+scn_spacestation_29_prison spacestation_29_prison 1 interior_prison_a bo_interior_prison_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_30_exterior spacestation_30_exterior 256 none none 0 0 100 100 -100 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_30_interior spacestation_30_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  582 
+ 0 
+scn_spacestation_30_prison spacestation_30_prison 1 interior_prison_n bo_interior_prison_n -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_31_exterior spacestation_31_exterior 256 none none 0 0 100 100 -900 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_31_interior spacestation_31_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  583 
+ 0 
+scn_spacestation_31_prison spacestation_31_prison 1 interior_prison_i bo_interior_prison_i -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_32_exterior spacestation_32_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_32_interior spacestation_32_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  584 
+ 0 
+scn_spacestation_32_prison spacestation_32_prison 1 interior_prison_j bo_interior_prison_j -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_33_exterior spacestation_33_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_33_interior spacestation_33_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  585 
+ 0 
+scn_spacestation_33_prison spacestation_33_prison 1 interior_prison_d bo_interior_prison_d -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_34_exterior spacestation_34_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_34_interior spacestation_34_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  586 
+ 0 
+scn_spacestation_34_prison spacestation_34_prison 1 interior_prison_f bo_interior_prison_f -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_35_exterior spacestation_35_exterior 256 none none 0 0 100 100 -900 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_35_interior spacestation_35_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  587 
+ 0 
+scn_spacestation_35_prison spacestation_35_prison 1 interior_prison_f bo_interior_prison_f -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_36_exterior spacestation_36_exterior 256 none none 0 0 100 100 -900 0x0000000650000500400709c2000000000000000000000000 
+  0 
+  0 
+ 0 
+scn_spacestation_36_interior spacestation_36_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  588 
+ 0 
+scn_spacestation_36_prison spacestation_36_prison 1 interior_prison_h bo_interior_prison_h -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_37_exterior spacestation_37_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_37_interior spacestation_37_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  589 
+ 0 
+scn_spacestation_37_prison spacestation_37_prison 1 interior_prison_l bo_interior_prison_l -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_38_exterior spacestation_38_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_38_interior spacestation_38_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  590 
+ 0 
+scn_spacestation_38_prison spacestation_38_prison 1 interior_prison_o bo_interior_prison_o -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_39_exterior spacestation_39_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_39_interior spacestation_39_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  591 
+ 0 
+scn_spacestation_39_prison spacestation_39_prison 1 interior_prison_k bo_interior_prison_k -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_40_exterior spacestation_40_exterior 1 bunker_a bo_bunker_a -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_40_interior spacestation_40_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  592 
+ 0 
+scn_spacestation_40_prison spacestation_40_prison 1 interior_prison_n bo_interior_prison_n -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_41_exterior spacestation_41_exterior 256 none none 0 0 240 240 -0.5 0x000000024003d08f0008aa2a00003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_snow 
+scn_spacestation_41_interior spacestation_41_interior 1 imperial_office_grey bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  593 
+ 0 
+scn_spacestation_41_prison spacestation_41_prison 1 interior_prison_n bo_interior_prison_n -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_spacestation_42_exterior spacestation_42_exterior 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ outer_terrain_plain 
+scn_spacestation_42_interior spacestation_42_interior 1 imperial_office_brown bo_imperial_office_ramp -100 -100 100 100 -100 0 
+  1  100000 
+  1  594 
+ 0 
+scn_spacestation_42_prison spacestation_42_prison 1 interior_prison_n bo_interior_prison_n -100 -100 100 100 -100 0 
+  0 
+  0 
+ 0 
+scn_minorplanet_1 minorplanet_1 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_2 minorplanet_2 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_3 minorplanet_3 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_4 minorplanet_4 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_5 minorplanet_5 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_6 minorplanet_6 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_7 minorplanet_7 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ 0 
+scn_minorplanet_8 minorplanet_8 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ 0 
+scn_minorplanet_9 minorplanet_9 256 none none 0 0 200 200 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ 0 
+scn_minorplanet_10 minorplanet_10 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_11 minorplanet_11 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_12 minorplanet_12 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_13 minorplanet_13 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_14 minorplanet_14 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_15 minorplanet_15 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ 0 
+scn_minorplanet_16 minorplanet_16 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_17 minorplanet_17 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_18 minorplanet_18 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_19 minorplanet_19 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ 0 
+scn_minorplanet_20 minorplanet_20 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ 0 
+scn_minorplanet_21 minorplanet_21 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_22 minorplanet_22 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_23 minorplanet_23 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ 0 
+scn_minorplanet_24 minorplanet_24 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_25 minorplanet_25 256 none none 0 0 100 100 -100 0x000000065000140040059d6700000fc900001fc6000011a4 
+  0 
+  0 
+ 0 
+scn_minorplanet_26 minorplanet_26 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_27 minorplanet_27 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ 0 
+scn_minorplanet_28 minorplanet_28 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_29 minorplanet_29 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ 0 
+scn_minorplanet_30 minorplanet_30 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_31 minorplanet_31 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_32 minorplanet_32 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_33 minorplanet_33 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_34 minorplanet_34 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_35 minorplanet_35 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_36 minorplanet_36 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ 0 
+scn_minorplanet_37 minorplanet_37 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_38 minorplanet_38 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_39 minorplanet_39 256 none none 0 0 100 100 -100 0x00000004500005000002308c00005bbc0000768d000020a8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_40 minorplanet_40 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_41 minorplanet_41 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_42 minorplanet_42 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ 0 
+scn_minorplanet_43 minorplanet_43 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_44 minorplanet_44 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_45 minorplanet_45 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ 0 
+scn_minorplanet_46 minorplanet_46 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_47 minorplanet_47 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_48 minorplanet_48 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_49 minorplanet_49 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ 0 
+scn_minorplanet_50 minorplanet_50 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_51 minorplanet_51 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_52 minorplanet_52 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_53 minorplanet_53 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_54 minorplanet_54 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_55 minorplanet_55 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_56 minorplanet_56 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_57 minorplanet_57 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_58 minorplanet_58 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_59 minorplanet_59 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_60 minorplanet_60 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_61 minorplanet_61 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_62 minorplanet_62 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_63 minorplanet_63 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_64 minorplanet_64 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ 0 
+scn_minorplanet_65 minorplanet_65 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_66 minorplanet_66 256 none none 0 0 100 100 -100 0x00000000200016da000364d9000060f500007591000064e7 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_67 minorplanet_67 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_68 minorplanet_68 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_69 minorplanet_69 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_70 minorplanet_70 256 none none 0 0 100 100 -100 0x000000065000140040059d6700000fc900001fc6000011a4 
+  0 
+  0 
+ 0 
+scn_minorplanet_71 minorplanet_71 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ 0 
+scn_minorplanet_72 minorplanet_72 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_73 minorplanet_73 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ 0 
+scn_minorplanet_74 minorplanet_74 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_75 minorplanet_75 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_76 minorplanet_76 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_77 minorplanet_77 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_78 minorplanet_78 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_79 minorplanet_79 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ 0 
+scn_minorplanet_80 minorplanet_80 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_81 minorplanet_81 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_82 minorplanet_82 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_83 minorplanet_83 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_84 minorplanet_84 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ 0 
+scn_minorplanet_85 minorplanet_85 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_86 minorplanet_86 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_87 minorplanet_87 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_88 minorplanet_88 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_minorplanet_89 minorplanet_89 256 none none 0 0 100 100 -100 0x000000065000140040059d6700000fc900001fc6000011a4 
+  0 
+  0 
+ 0 
+scn_minorplanet_90 minorplanet_90 256 none none 0 0 100 100 -100 0x0000000220031f6300076dda000056f100004f6d000070b3 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mainplanet_mandalore_land_battle mainplanet_mandalore_land_battle 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_christophsis_land_battle mainplanet_christophsis_land_battle 256 none none 0 0 120 120 -100 0x00000000300005000006d9b9000052560000620000004c92 
+  0 
+  0 
+ 0 
+scn_mainplanet_endor_land_battle mainplanet_endor_land_battle 256 none none 0 0 240 240 -0.5 0x00000006200005000008f23c0000753d00004f66000033c8 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_corellia_land_battle mainplanet_corellia_land_battle 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_naboo_land_battle mainplanet_naboo_land_battle 256 none none 0 0 120 120 -100 0x00000000300005000006d9b9000052560000620000004c92 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_kessel_land_battle mainplanet_kessel_land_battle 256 none none 0 0 120 120 -100 0x00000000300005000006d9b9000052560000620000004c92 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_dantooine_land_battle mainplanet_dantooine_land_battle 256 none none 0 0 120 120 -100 0x00000000300005000006d9b9000052560000620000004c92 
+  0 
+  0 
+ 0 
+scn_mainplanet_geonosis_land_battle mainplanet_geonosis_land_battle 256 none none 0 0 120 240 -100 0x00000000300005000006d9b9000052560000620000004c92 
+  0 
+  0 
+ 0 
+scn_mainplanet_mon_cal_land_battle mainplanet_mon_cal_land_battle 256 none none 0 0 240 240 -0.5 0x00000000400005000006edb9000063dc80003f5a00005285 
+  0 
+  0 
+ 0 
+scn_mainplanet_kashyyyk_land_battle mainplanet_kashyyyk_land_battle 256 none none 0 0 240 240 -0.5 0x00000006200005000008f23c0000753d00004f66000033c8 
+  0 
+  0 
+ 0 
+scn_mainplanet_hoth_land_battle mainplanet_hoth_land_battle 256 none none 0 0 240 240 -0.5 0x000000024003d08f000b92e400003efe00004b34000059be 
+  0 
+  0 
+ outer_snow 
+scn_mainplanet_gamorr_land_battle mainplanet_gamorr_land_battle 256 none none 0 0 240 240 -0.5 0x00000006200005000008f23c0000753d00004f66000033c8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mainplanet_yavin_iv_land_battle mainplanet_yavin_iv_land_battle 256 none none 0 0 120 120 -100 0x00000000300005000006d9b9000052560000620000004c92 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_tatooine_land_battle mainplanet_tatooine_land_battle 256 none none 0 0 240 240 -0.5 0x0000000250c19207400691a400003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_desert 
+scn_mainplanet_manaan_land_battle mainplanet_manaan_land_battle 256 none none 0 0 120 120 30 0x00000000300005000006d9b9000052560000620000004c92 
+  0 
+  0 
+ 0 
+scn_mainplanet_coruscant_land_battle mainplanet_coruscant_land_battle 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_ryloth_land_battle mainplanet_ryloth_land_battle 256 none none 0 0 240 240 -0.5 0x0000000250c19207400691a400003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_desert 
+scn_mainplanet_nalhutta_land_battle mainplanet_nalhutta_land_battle 256 none none 0 0 240 240 -0.5 0x00000006200005000008f23c0000753d00004f66000033c8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mainplanet_bothawui_land_battle mainplanet_bothawui_land_battle 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_mustafar_land_battle mainplanet_mustafar_land_battle 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ 0 
+scn_mainplanet_kamino_land_battle mainplanet_kamino_land_battle 256 none none 0 0 120 120 30 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ 0 
+scn_mainplanet_taris_land_battle mainplanet_taris_land_battle 256 none none 0 0 240 240 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_raxusprime_land_battle mainplanet_raxusprime_land_battle 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ 0 
+scn_mainplanet_sarapin_land_battle mainplanet_sarapin_land_battle 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ 0 
+scn_mainplanet_hypori_land_battle mainplanet_hypori_land_battle 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ outer_terrain_desert 
+scn_mainplanet_felucia_land_battle mainplanet_felucia_land_battle 256 none none 0 0 240 240 -8 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mainplanet_bespin_land_battle mainplanet_bespin_land_battle 256 none none 0 0 1 1 -800 0x00000040400681000a46298a003702000051a10000512f00 
+  0 
+  0 
+ 0 
+scn_swc_dev_island swc_dev_island 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+  0 
+  0 
+ 0 

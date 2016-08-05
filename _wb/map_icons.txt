@@ -1,0 +1,532 @@
+map_icons_file version 1
+175
+player 1 Action_IV 0.3 194 0.15 0.173 0 0
+
+
+imperial_star_destroyer 1 Imp_ISD 0.8 194 0.15 0.173 0 0
+
+
+imperial_star_destroyer_interdictor 1 Imp_ISD_Interdictor 0.8 194 0.15 0.173 0 0
+
+
+imperial_victory_c2_frigate 1 Imp_Victory_Class_II_Frigate 0.8 194 0.15 0.173 0 0
+
+
+imperial_dreadnaught_frigate 1 Imp_Dreadnaught_Frigate 0.5 194 0.15 0.173 0 0
+
+
+imperial_trade_frigate 1 Imp_trade_frigate 0.5 194 0.15 0.173 0 0
+
+
+tie_fighter 1 tie_fighter 0.4 194 0.15 0.173 0 0
+
+
+imperial_shuttle 1 imperial_shuttle 0.5 194 0.15 0.173 0 0
+
+
+a_wing 1 a_wing 0.3 194 0.15 0.173 0 0
+
+
+rebel_transport 1 rebel_transport 0.65 194 0.15 0.173 0 0
+
+
+corellian_gunship 1 Cor_Gunship 0.5 194 0.15 0.173 0 0
+
+
+corellian_corvette 1 swy_corellian_corvette 0.5 194 0.15 0.173 0 0
+
+
+moncal_cruiser 1 Moncal_Cruiser 0.65 194 0.15 0.173 0 0
+
+
+x_wing 1 xwing 0.4 194 0.15 0.173 0 0
+
+
+x_wing2 1 xwing_2 0.4 194 0.15 0.173 0 0
+
+
+x_wing3 1 xwing_3 0.4 194 0.15 0.173 0 0
+
+
+x_wing4 1 xwing_4 0.4 194 0.15 0.173 0 0
+
+
+x_wing5 1 xwing_5 0.4 194 0.15 0.173 0 0
+
+
+y_wing 1 y_wing_gold 0.4 194 0.15 0.173 0 0
+
+
+hutt_cruiser 1 Hutt_Cruiser 0.65 194 0.15 0.173 0 0
+
+
+hutt_frigate_mk2 1 Hutt_Frigate_MK2 0.65 194 0.15 0.173 0 0
+
+
+hutt_frigate_mk1 1 Hutt_Frigate_MK1 0.65 194 0.15 0.173 0 0
+
+
+hutt_trade 1 Hutt_Trade 0.5 194 0.15 0.173 0 0
+
+
+hutt_patrol 1 Hutt_Patrol 0.3 194 0.15 0.173 0 0
+
+
+nebulon 1 swy_nebulon 0.6 0 0 0 0 0
+
+
+starchaser 1 vec_starchaser 0.4 0 0 0 0 0
+
+
+z95 1 indie_ship 0.4 194 0.15 0.173 0 0
+
+
+tran_slaver 1 tran_slaver 0.4 194 0.15 0.173 0 0
+
+
+scyk_fighter 1 hutt_scyk_fighter 0.4 194 0.15 0.173 0 0
+
+
+mercenary_raider 1 Wild_Karrde 0.4 194 0.15 0.173 0 0
+
+
+freighter 1 swy_nebulon 0.5 194 0.15 0.173 0 0
+
+
+bulk_freighter 1 bulk_frigate 0.5 194 0.15 0.173 0 0
+
+
+mercenary_fighter 1 t_wing 0.4 194 0.15 0.173 0 0
+
+
+mercenary_shuttle 1 Interceptor_IV 0.4 194 0.15 0.173 0 0
+
+
+civilian_transport 1 Action_IV 0.4 194 0.15 0.173 0 0
+
+
+civilian_cruiser 1 swy_nebulon 0.5 194 0.15 0.173 0 0
+
+
+cis_star_cruiser 1 CIS_Station 0.6 0 0 0 0 0
+
+
+y8_mining 1 y8_mining 0.4 194 0.15 0.173 0 0
+
+
+shuttle 1 shuttle_civilian 0.3 194 0.15 0.173 0 0
+
+
+mercenary_raider_grey 1 mercenary_raider_grey 0.4 194 0.15 0.173 0 0
+
+
+jawa_ship 1 jawaship 0.5 194 0.15 0.173 0 0
+
+
+mercenary_raider_brown 1 Action_IV_Tusken 0.4 194 0.15 0.173 0 0
+
+
+mercenary_shuttle_grey 1 shuttle_grey 0.4 194 0.15 0.173 0 0
+
+
+mercenary_shuttle_brown 1 Wild_Karrde 0.4 194 0.15 0.173 0 0
+
+
+mercenary_fighter_grey 1 z95_grey 0.4 194 0.15 0.173 0 0
+
+
+mercenary_fighter_brown 1 z95_brown 0.4 194 0.15 0.173 0 0
+
+
+y_wing_debris 1 y_wing_gold_debris 0.5 194 0.15 0.173 0 0
+
+
+z95_debris 1 z95_debris 0.5 194 0.15 0.173 0 0
+
+
+tie_fighter_debris 1 tie_fighter_debris 0.5 194 0.15 0.173 0 0
+
+
+sw_planet_green 1 planet_green 0.5 0 0 0 0 0
+
+
+asteroid_base 1 asteroid_base 0.5 0 0 0 0 0
+
+
+shipyard 1 spacestation1 0.5 0 0 0 0 0
+
+
+battlestation 1 spacestation5 0.5 0 0 0 0 0
+
+
+outpost_imp 1 spacestation8 0.5 0 0 0 0 0
+
+
+outpost_reb 1 spacestation6 0.5 0 0 0 0 0
+
+
+outpost_hut 1 spacestation7 0.5 0 0 0 0 0
+
+
+XQ_04_Station_1 1 XQ_04_Station_1 0.5 0 0 0 0 0
+
+
+XQ_04_Station_2 1 XQ_04_Station_2 0.5 0 0 0 0 0
+
+
+XQ_04_Station_3 1 XQ_04_Station_3 0.5 0 0 0 0 0
+
+
+XQ_04_Station_4 1 XQ_04_Station_4 0.5 0 0 0 0 0
+
+
+XQ_04_Station_5 1 XQ_04_Station_5 0.5 0 0 0 0 0
+
+
+sw_town_green 1 planet_green 0.8 0 0 0 0 0
+
+
+sw_town_green_water 1 planet_green_water 0.8 0 0 0 0 0
+
+
+sw_town_snow 1 planet_snow 0.8 0 0 0 0 0
+
+
+sw_town_snow_water 1 planet_snow 0.8 0 0 0 0 0
+
+
+sw_town_plain 1 planet_plain 0.8 0 0 0 0 0
+
+
+sw_town_craters 1 planet_craters 0.8 0 0 0 0 0
+
+
+sw_town_green_b 1 planet_green_b 0.8 0 0 0 0 0
+
+
+sw_town_green_rock 1 planet_green_rock 0.8 0 0 0 0 0
+
+
+sw_town_ice_rock 1 planet_ice_rock 0.8 0 0 0 0 0
+
+
+sw_town_red_rock 1 planet_red_rock 0.8 0 0 0 0 0
+
+
+sw_town_volcanic 1 planet_volcanic 0.8 0 0 0 0 0
+
+
+sw_town_water 1 planet_water 0.8 0 0 0 0 0
+
+
+sw_town_industrial 1 planet_industrial 0.8 0 0 0 0 0
+
+
+minorplanet_a 1 planet_craters 0.5 0 0 0 0 0
+
+
+minorplanet_burnt_a 1 planet_craters 0.5 0 0 0 0 0
+
+
+minorplanet_deserted_a 1 planet_craters 0.5 0 0 0 0 0
+
+
+minorplanet_snow_a 1 planet_gas 0.5 0 0 0 0 0
+
+
+minorplanet_snow_burnt_a 1 planet_gas 0.5 0 0 0 0 0
+
+
+minorplanet_snow_deserted_a 1 planet_gas 0.5 0 0 0 0 0
+
+
+sw_minorplanet_01 1 Planet_Var_01 0.5 0 0 0 0 0
+
+
+sw_minorplanet_02 1 Planet_Var_02 0.5 0 0 0 0 0
+
+
+sw_minorplanet_03 1 Planet_Var_03 0.5 0 0 0 0 0
+
+
+sw_minorplanet_04 1 Planet_Var_04 0.5 0 0 0 0 0
+
+
+sw_minorplanet_05 1 Planet_Var_05 0.5 0 0 0 0 0
+
+
+sw_minorplanet_06 1 Planet_Var_06 0.5 0 0 0 0 0
+
+
+sw_minorplanet_07 1 Planet_Var_07 0.5 0 0 0 0 0
+
+
+sw_minorplanet_08 1 Planet_Var_08 0.5 0 0 0 0 0
+
+
+sw_minorplanet_09 1 Planet_Var_09 0.5 0 0 0 0 0
+
+
+sw_minorplanet_10 1 Planet_Var_10 0.5 0 0 0 0 0
+
+
+sw_minorplanet_11 1 Planet_Var_11 0.5 0 0 0 0 0
+
+
+sw_minorplanet_12 1 Planet_Var_12 0.5 0 0 0 0 0
+
+
+sw_minorplanet_13 1 Planet_Var_13 0.5 0 0 0 0 0
+
+
+sw_minorplanet_14 1 Planet_Var_14 0.5 0 0 0 0 0
+
+
+sw_minorplanet_15 1 Planet_Var_15 0.5 0 0 0 0 0
+
+
+sw_minorplanet_16 1 Planet_Var_16 0.5 0 0 0 0 0
+
+
+sw_minorplanet_17 1 Planet_Var_17 0.5 0 0 0 0 0
+
+
+sw_minorplanet_18 1 Planet_Var_18 0.5 0 0 0 0 0
+
+
+sw_minorplanet_19 1 Planet_Var_19 0.5 0 0 0 0 0
+
+
+sw_minorplanet_20 1 Planet_Var_20 0.5 0 0 0 0 0
+
+
+sw_minorplanet_21 1 Planet_Var_21 0.5 0 0 0 0 0
+
+
+training_ground 1 planet_industrial 0.55 0 0 0 0 1
+-70  4 2071 1 1224979098644774912 1679 1 1224979098644774912 1679 1 1224979098644774912 1678 2 1224979098644774912 69 
+
+
+strategicmap_sun 1 planet_red 0.0001 0 0 0 0 1
+-70  4 2071 1 1224979098644774912 1679 1 1224979098644774912 1679 1 1224979098644774912 1678 2 1224979098644774912 74 
+
+
+bridge_a 1 planet_red 0.4 0 0 0 0 0
+
+
+bridge_b 1 planet_red 0.4 0 0 0 0 0
+
+
+bridge_snow_a 1 planet_red 0.4 0 0 0 0 0
+
+
+custom_banner_01 0 custom_map_banner_01 0.35 0 0 0 0 1
+-70  6 2071 1 1224979098644774912 521 3 1224979098644774913 1224979098644774912 7 4 0 30 2 1224979098644774913 0 1983 2 21 1224979098644774913 3 0 
+
+
+custom_banner_02 0 custom_map_banner_02 0.35 0 0 0 0 1
+-70  6 2071 1 1224979098644774912 521 3 1224979098644774913 1224979098644774912 7 4 0 30 2 1224979098644774913 0 1983 2 22 1224979098644774913 3 0 
+
+
+custom_banner_03 0 custom_map_banner_03 0.35 0 0 0 0 1
+-70  6 2071 1 1224979098644774912 521 3 1224979098644774913 1224979098644774912 7 4 0 30 2 1224979098644774913 0 1983 2 20 1224979098644774913 3 0 
+
+
+banner_01 0 sw_map_banner_01 0.35 0 0 0 0 0
+
+
+banner_02 0 sw_map_banner_02 0.35 0 0 0 0 0
+
+
+banner_03 0 sw_map_banner_03 0.35 0 0 0 0 0
+
+
+banner_04 0 sw_map_banner_04 0.35 0 0 0 0 0
+
+
+banner_05 0 sw_map_banner_05 0.35 0 0 0 0 0
+
+
+banner_06 0 sw_map_banner_06 0.35 0 0 0 0 0
+
+
+banner_07 0 sw_map_banner_07 0.35 0 0 0 0 0
+
+
+banner_08 0 sw_map_banner_08 0.35 0 0 0 0 0
+
+
+banner_09 0 sw_map_banner_09 0.35 0 0 0 0 0
+
+
+banner_10 0 sw_map_banner_10 0.35 0 0 0 0 0
+
+
+banner_11 0 sw_map_banner_11 0.35 0 0 0 0 0
+
+
+banner_12 0 sw_map_banner_12 0.35 0 0 0 0 0
+
+
+banner_13 0 sw_map_banner_13 0.35 0 0 0 0 0
+
+
+banner_14 0 sw_map_banner_14 0.35 0 0 0 0 0
+
+
+banner_15 0 sw_map_banner_15 0.35 0 0 0 0 0
+
+
+banner_16 0 sw_map_banner_16 0.35 0 0 0 0 0
+
+
+banner_17 0 sw_map_banner_17 0.35 0 0 0 0 0
+
+
+banner_18 0 sw_map_banner_18 0.35 0 0 0 0 0
+
+
+banner_19 0 sw_map_banner_19 0.35 0 0 0 0 0
+
+
+banner_20 0 sw_map_banner_20 0.35 0 0 0 0 0
+
+
+banner_21 0 sw_map_banner_21 0.35 0 0 0 0 0
+
+
+banner_22 0 sw_map_banner_22 0.35 0 0 0 0 0
+
+
+banner_23 0 sw_map_banner_23 0.35 0 0 0 0 0
+
+
+banner_24 0 sw_map_banner_24 0.35 0 0 0 0 0
+
+
+banner_25 0 sw_map_banner_25 0.35 0 0 0 0 0
+
+
+banner_26 0 sw_map_banner_26 0.35 0 0 0 0 0
+
+
+banner_27 0 sw_map_banner_27 0.35 0 0 0 0 0
+
+
+banner_28 0 sw_map_banner_28 0.35 0 0 0 0 0
+
+
+banner_29 0 sw_map_banner_29 0.35 0 0 0 0 0
+
+
+banner_30 0 sw_map_banner_30 0.35 0 0 0 0 0
+
+
+banner_31 0 sw_map_banner_31 0.35 0 0 0 0 0
+
+
+banner_32 0 sw_map_banner_32 0.35 0 0 0 0 0
+
+
+banner_33 0 sw_map_banner_33 0.35 0 0 0 0 0
+
+
+banner_34 0 sw_map_banner_34 0.35 0 0 0 0 0
+
+
+banner_35 0 sw_map_banner_35 0.35 0 0 0 0 0
+
+
+banner_36 0 sw_map_banner_36 0.35 0 0 0 0 0
+
+
+banner_37 0 sw_map_banner_37 0.35 0 0 0 0 0
+
+
+banner_38 0 sw_map_banner_38 0.35 0 0 0 0 0
+
+
+banner_39 0 sw_map_banner_39 0.35 0 0 0 0 0
+
+
+banner_40 0 sw_map_banner_40 0.35 0 0 0 0 0
+
+
+banner_41 0 sw_map_banner_41 0.35 0 0 0 0 0
+
+
+banner_42 0 sw_map_banner_42 0.35 0 0 0 0 0
+
+
+sw_swy_Death_Star 1 swy_Death_Star 0.5 0 0 0 0 0
+
+
+sw_swy_Planet_Coruscant 1 swy_Planet_Coruscant 0.8 0 0 0 0 0
+
+
+sw_swy_Planet_Endor 1 swy_Planet_Endor 0.8 0 0 0 0 0
+
+
+sw_swy_christophsis 1 swy_christophsis 0.8 0 0 0 0 0
+
+
+sw_swy_Planet_forest 1 swy_Planet_forest 0.8 0 0 0 0 0
+
+
+sw_swy_Planet_Taris 1 swy_Planet_Taris 0.8 0 0 0 0 0
+
+
+sw_swy_Planet_Tatooine 1 swy_Planet_Tatooine 0.8 0 0 0 0 0
+
+
+sw_swy_Planet_geonosis 1 swy_Planet_geonosis 0.8 0 0 0 0 0
+
+
+sw_swy_Planet_Kessel 1 swy_Planet_Kessel 0.8 0 0 0 0 0
+
+
+sw_swy_Planet_frozen 1 swy_Planet_frozen 0.8 0 0 0 0 0
+
+
+sw_swy_Planet_lava 1 swy_Planet_lava 0.8 0 0 0 0 0
+
+
+sw_swy_rePlanet_gas 1 swy_rePlanet_gas 0.8 0 0 0 0 0
+
+
+sw_swy_rePlanet_earth 1 swy_rePlanet_earth 0.8 0 0 0 0 0
+
+
+sw_swy_rePlanet_snow 1 swy_rePlanet_snow 0.8 0 0 0 0 0
+
+
+sw_swy_rePlanet_ice 1 swy_rePlanet_ice 0.5 0 0 0 0 0
+
+
+sw_swy_rePlanet_craters 1 swy_rePlanet_craters 0.5 0 0 0 0 0
+
+
+sw_swy_rePlanet_water 1 swy_rePlanet_water 0.8 0 0 0 0 0
+
+
+sw_swy_rePlanet_kashyyyk 1 swy_rePlanet_kashyyyk 0.8 0 0 0 0 0
+
+
+sw_swy_rePlanet_wilderness 1 swy_rePlanet_wilderness 0.8 0 0 0 0 0
+
+
+sw_swy_rePlanet_rock 1 swy_rePlanet_rock 0.5 0 0 0 0 0
+
+
+sw_swy_Planet_Sarapin 1 swy_Planet_Sarapin 0.8 0 0 0 0 0
+
+
+sw_swy_Planet_RaxusPrime 1 swy_Planet_RaxusPrime 0.8 0 0 0 0 0
+
+
+sw_swy_NarShadda 1 swy_Planet_Coruscant 0.5 0 0 0 0 0
+
+
+sw_swy_rePlanet_Saleucami 1 swy_rePlanet_Saleucami 0.8 0 0 0 0 0
+
+
