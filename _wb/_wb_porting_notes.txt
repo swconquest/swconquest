@@ -1,0 +1,2 @@
+_ in native.bodies
+0 in file swconquest.legacy.shieldpoweritems.brf
