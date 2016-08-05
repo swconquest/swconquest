@@ -18,3 +18,6 @@ cd Textures && ln -s ../../Textures/* .
 cd ..
 cd Resource && ln -s ../../Resource/* .
 cd ..
+
+
+ln -s ../map.txt .
