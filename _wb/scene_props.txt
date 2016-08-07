@@ -1,4805 +1,4805 @@
 scene_propsfile version 1
  1601
-spr_0 0 0 0 0 0
+spr_invalid_object 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_inventory 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_empty 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chest_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_container_small_chest 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_container_chest_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_container_chest_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_player_chest 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_locked_player_chest 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ATST 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ATAT 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_dewback 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kaadu_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kaadu_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_a_wing 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_rebel_transport 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_civilian_shuttle 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_freighter 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_hutt_cruiser 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_scyk_fighter 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_imperial_shuttle 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_imperial_star_destroyer 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_imperial_star_destroyer_interdictor 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_imperial_dreadnaught_frigate 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_imperial_victory_c2_frigate 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_imperial_trade_frigate 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_mercenary_raider 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_moncal_cruiser 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_corellian_gunship 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_corellian_corvette 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_nebulon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_shuttle 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_asteroid_base 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_spacestation1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_spacestation2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_spacestation3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_spacestation4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_spacestation5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_tie_fighter 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_tie_fighter_debris 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_CIS_star_cruiser 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_y_wing 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_y_wing_debris 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_z95 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_z95_debris 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_z96 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bulk_frigate 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_hangar_closed 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_hangar_open 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_gun_turret 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_chest1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_box_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_box_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_box_a_square 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_box_a_square_blue 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_box_a_square_brown 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_box_a_square_red 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_box_a_square_yellow 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bacta_tank 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bacta_tank_new 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bacta_tank_new_heal 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_antenna 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_box_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_box_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_box_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_box_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_part_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_part_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_tower_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_tower_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_tower_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_addon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_pillar1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_pillar2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_spire 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_statue1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_statue2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_statue3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_steps 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_table1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_temple 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_wall1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_wall2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_yavin_wall3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Arch 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Block_A 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Bridge_Large 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Bridge_Large_Broken_A 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Bridge_Large_Broken_B 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Bridge_Large_Cracked 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_House_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_House_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_House_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Platform 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Ramp_A 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Ramp_B 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Stairs 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Statue_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Statue_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Statue_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Temple_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Tower_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Tower_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Wall_Big 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Wall_Big_Broken 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Wall_Big_Hole 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Wall_Big_Hole_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Wall_Big_Hub 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Stairs_Large 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_Yavin_Great_Temple 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_hoth_bunker 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_shield 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_hoth_trench1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_hoth_trench2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_hoth_trench3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_hoth_turret1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_hoth_turret2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_building_prefab1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_building_prefab2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_building_prefab_ramp1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_terminal1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_terminal2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_holocron_new_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_holocron_new_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_holocron_new_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_holocron_new_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_holocron_new_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_xwing_landed 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_xwing_landed2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_xwing_landed3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_xwing_landed4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_xwing_landed5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bonus_chest 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_endor_bunker 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_endor_bunker_closed 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_garage_desert 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_garage_metal 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_garage_rusty 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sarlacc 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_building_new_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bunker_concrete 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bunker_metal_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bunker_metal_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bunker_sandstone 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_wall_new_concrete 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_wall_new_glass_cubes 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_wall_new_metal_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_wall_new_metal_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_wall_new_sandstone 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ruin_02 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ruin_03 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_geonosian_addon_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_geonosian_gate 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_geonosian_hive 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_geonosian_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_addon_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_addon_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_altan 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_column 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_fountain 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_house_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_house_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_planter 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_tower_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_tower_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_wall 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_window_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_naboo_window_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ryloth_tower 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_rock_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_rock_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_waterfall 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_cantina_bar 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_cantina_bar_with_items 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_table_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_beer_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_glass_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_glass_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_glass_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_plate_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_plate_a_full 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_arena_sign 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_barrel 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_holochess 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_recruiting_sign 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_torch 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_training_remote 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_addon_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_addon_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_bridge 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_fence_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_fence_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_house_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_platform_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_platform_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_platform_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_stairs 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_tree_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_tree_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kashyyk_tree_top 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_castle_battlement_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_castle_battlement_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_castle_battlement_corner_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_castle_battlement_corner_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_castle_battlement_stairs_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_castle_battlement_stairs_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_castle_gate_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_castle_square_keep_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_castle_square_keep_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_random_all_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_random_all_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_random_all_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_random_all_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_random_galacticempire 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_random_rebelalliance 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_random_huttcartel 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_random_townfaction_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_random_generic_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_random_generic_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_random_generic_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_random_generic_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_h 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_k 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_s 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_t 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_w 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_f 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_g 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_u 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_x 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_i 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_j 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_l 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_n 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_o 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_p 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_q 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_r 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sign_v 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_random_all_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_random_all_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_random_all_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_random_all_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_random_towngalacticempire 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_random_townrebelalliance 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_random_townhuttcartel 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_random_townfaction_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_random_generic_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_random_generic_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_random_generic_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_random_generic_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swc_junk_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swc_junk_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swc_junk_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swc_shop 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_h 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_k 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_s 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_t 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_w 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_f 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_g 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_u 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_x 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_i 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_j 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_l 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_n 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_o 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_p 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_q 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_r 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_poster_v 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_bed 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_box1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_box2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_comp1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_comp2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_door1a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_door1b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_door2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_light 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_part1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_part2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_part3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_part4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_part5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_part6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_part7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_part8 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_part9 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_pillar 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_platform 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_shields 0 0 0 0 0
 
 
-spr_0 0 200 0 0 0
+spr_sw_ship_shields_destructible 0 200 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_wall1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_wall2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_wall3 0 0 0 0 0
 
 
-spr_0 0 200 0 0 0
+spr_sw_ship_wall3_destructible 0 200 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_chest 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_ventilation 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_space 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_keyboard 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_concrete_part1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_concrete_part2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_concrete_part3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_concrete_part4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_concrete_part5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_concrete_part6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_concrete_part7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_concrete_part8 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_concrete_part9 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_concrete_pillar 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_concrete_wall1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bothan_building1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bothan_building2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bothan_building3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bothan_wall1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bothan_wall2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bothan_road1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bothan_road2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_palm_tree1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_bridge_connector 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_bridge_end 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_bridge_end_large_platform 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_bridge_incline 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_building_beam 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_building_dome_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_building_dome_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_large_platform_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_large_platform_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_large_platform_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_large_platform_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_platform_0 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_platform_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_platform_2a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_platform_2b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_platform_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_platform_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_platform_beam 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_platform_roof_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_platform_roof_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_platform_roof_beam 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_kamino_platform_roof_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment_grey_wall 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment0 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment8 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment9 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment10 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment11 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment12 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment13 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment14 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment15 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment16 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment17 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment18 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment19 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment20 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment21 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment22 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment23 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment24 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment25 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment26 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment27 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment28 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment29 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment30 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_appartment31 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_apptbridge 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_moisture_vaporator 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sandstone_building_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sandstone_building_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sandstone_building_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_small_camp 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_tent_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_tent_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_tent_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_microchip 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bench_white 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bench_white_no_collision 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_chair_white 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_chair_white_no_collision 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_shelf_white 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_shelf_white_closed 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_table_white 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_table_circle 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_chair_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_chair_a_no_collision 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bunker_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bench_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_bench_curved_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_chair_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_chair_b_no_collision 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_office_chair_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_office_chair_a_no_collision 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_office_table_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_table_light_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_cantina_building 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_ship_interior 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_imperial_office_brown 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_imperial_office_green 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_imperial_office_grey 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_imperial_office_red 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_imperial_office_red_furnished 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sith_statue_altyr 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sith_statue_black_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sith_statue_black_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sith_statue_grey 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sith_statue_red_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sith_statue_red_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sith_statue_stone 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_sith_statue_white 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_Death_Star 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_Planet_Coruscant 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_Planet_Endor 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_Planet_Kessel 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_Planet_RaxusPrime 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_Planet_Sarapin 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_Planet_Taris 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_Planet_Tatooine 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_Planet_forest 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_Planet_frozen 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_Planet_geonosis 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rePlanet_craters 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rePlanet_earth 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_Planet_lava 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rePlanet_earth 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rePlanet_gas 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rePlanet_ice 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rePlanet_kashyyyk 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rePlanet_rock 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rePlanet_snow 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rePlanet_water 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rePlanet_wilderness 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_skull_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_skull_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_skull_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_skull_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sw_cantina_bar_door 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_light_sun 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_light 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_light_red 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_light_night 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_torch 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_torch_night 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barrier_20m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barrier_16m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barrier_8m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barrier_4m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barrier_2m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_exit_4m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_exit_8m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_exit_16m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ai_limiter_2m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ai_limiter_4m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ai_limiter_8m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ai_limiter_16m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Shield 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_shelves 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_table_tavern 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_table_castle_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chair_castle_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_pillow_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_pillow_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_pillow_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_interior_castle_g_square_keep_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_carpet_with_pillows_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_carpet_with_pillows_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_table_round_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_table_round_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_fireplace_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_fireplace_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sofa_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sofa_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ewer_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_end_table_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Catapult 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_broom 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_garlic 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_garlic_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_destroy_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_destroy_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bridge_wooden 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bridge_wooden_snowy 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_grave_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_house_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_house_f 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_house_g 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_house_h 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_house_i 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_house_j 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_wall_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_wall_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_snowy_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_snowy_house_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_snowy_house_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_snowy_house_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_snowy_house_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_snowy_house_f 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_carpet_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_carpet_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_carpet_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_carpet_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_carpet_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_carpet_f 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_awning_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_awning_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_awning_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_awning_long 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_awning_long_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_awning_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_snowy_barrel_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_snowy_fence 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_snowy_wood_heap 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_snowy_stable_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_shed_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_shed_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_door_cell_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_door_cell_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_door_entry_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_door_entry_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_door_entry_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_door_direction_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_door_direction_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_door_stairs_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_door_stairs_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skeleton_head 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skeleton_bone 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skeleton_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_stairs_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_stairs_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_torture_room_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_entry_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_entry_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_entry_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_cell_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_cell_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_cell_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_corridor_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_corridor_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_corridor_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_corridor_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_direction_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_direction_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_room_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_tower_stairs_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_tower_cell_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tunnel_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tunnel_salt 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_salt_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tutorial_door_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tutorial_door_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tutorial_flag_yellow 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tutorial_flag_red 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tutorial_flag_blue 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_interior_prison_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_interior_prison_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_interior_prison_cell_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_interior_prison_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_archery_target_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_archery_butt_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_archery_target_with_hit_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dummy_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_band_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_sign 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_mosque_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_stone_minaret_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_pole 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_custom_banner_01 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_custom_banner_02 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_f 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_g 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_h 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_i 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_j 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_k 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_l 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_n 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_o 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_p 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_q 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_r 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_s 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_t 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_u 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_ba 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bb 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bc 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bd 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_be 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bf 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bg 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bh 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bi 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bj 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bk 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bl 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bm 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bn 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bo 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bp 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bq 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_br 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bs 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bt 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_bu 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_ca 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cb 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cc 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cd 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_ce 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cf 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cg 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_ch 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_ci 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cj 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_ck 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cl 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cm 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cn 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_co 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cp 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cq 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cr 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cs 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_ct 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_banner_cu 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tavern_chair_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tavern_chair_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tavern_table_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tavern_table_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_fireplace_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barrel 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bench_tavern 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bench_tavern_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bowl_wood 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chest_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chest_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_counter_tavern 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cup 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dish_metal 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_grate 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_jug 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_potlamp 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tavern_barrel 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tavern_barrel_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_merchant_sign 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tavern_sign 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sack 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skull_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skull_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skull_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skull_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skeleton_cow 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cupboard_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_box_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bucket_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_straw_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_straw_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_straw_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cloth_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cloth_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_mat_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_mat_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_mat_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_mat_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_wood_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_wood_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_wood_heap 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_wood_heap_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_water_well_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_net_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_net_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_meat_hook 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cooking_pole 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bowl_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bucket_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_washtub_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_washtub_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_table_trunk_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chair_trunk_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chair_trunk_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chair_trunk_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_table_trestle_long 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_table_trestle_small 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chair_trestle 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_wheel 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ladder 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cart 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_stand 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_wooden_stand 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_table_small 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_table_small_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_small_timber_frame_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_timber_frame_house_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_timber_frame_house_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_timber_frame_extension_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_timber_frame_extension_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_stone_stairs_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_stone_stairs_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_railing_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_side_building_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_battlement_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_battlement_a_destroyed 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_round_tower_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_small_round_tower_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_small_round_tower_roof_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_square_keep_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_square_tower_roof_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_gate_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_gate_house_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_small_wall_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_small_wall_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_small_wall_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_small_wall_c_destroy 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_small_wall_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_small_wall_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_passage_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_passage_house_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_passage_house_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_passage_house_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_passage_house_c_door 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_door_extension_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_stairs_arch_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_windmill 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_windmill_fan_turning 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_windmill_fan 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_wall_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_wall_a2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_wall_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_wall_b2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_stairs_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_stairs_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_tower_small_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_gate_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_gate_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_square_keep_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_house_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_house_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_earth_house_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_steppe_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_steppe_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_steppe_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_steppe_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_steppe_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_steppe_f 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_town_house_aa 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_square_keep_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_square_keep_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_square_keep_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_square_keep_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_square_keep_f 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_square_extension_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_square_stairs_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_courtyard_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_courtyard_house_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_courtyard_house_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_courtyard_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_gatehouse_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_gaillard 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_stand_thatched 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_stand_cloth 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_block_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_block_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_block_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_block_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_block_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_block_f 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_block_g 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_block_h 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_block_i 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_block_j 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_block_j_awning 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_palisade_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_wall_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_wall_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_barrier_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_barrier_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_barrier_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_tower_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_tower_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_tower_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_spectator_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_spectator_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_spectator_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_spectator_sitting_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_spectator_sitting_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_arena_spectator_sitting_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_courtyard_gate_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_courtyard_gate_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_courtyard_gate_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_courtyard_gate_snowy 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_tower_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_battlement_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_battlement_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_battlement_a_destroyed 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_battlement_b_destroyed 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_battlement_corner_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_battlement_corner_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_battlement_stairs_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_battlement_stairs_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_gate_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_square_keep_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_round_tower_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_stairs_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_castle_drawbridge_open 0 0 0 0 0
 
 
-spr_0 0 300 0 0 0
+spr_castle_drawbridge_closed 0 300 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_spike_group_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_spike_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_belfry_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_belfry_old 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_belfry_platform_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_belfry_platform_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_belfry_platform_old 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_belfry_wheel 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_belfry_wheel_old 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_mangonel 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_trebuchet_old 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_trebuchet_new 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_stone_ball 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_house_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_house_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_house_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_farm_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_farm_house_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_farm_house_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_mountain_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_mountain_house_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_hut_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_crude_fence 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_crude_fence_small 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_crude_fence_small_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ramp_12m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ramp_14m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_siege_ladder_12m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_siege_ladder_14m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bed_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bed_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bed_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bed_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bed_e 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bed_f 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_towngate_door_left 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_towngate_door_right 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_towngate_rectangle_door_left 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_towngate_rectangle_door_right 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_door_screen 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_door_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_door_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_door_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_door_d 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tavern_door_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tavern_door_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_door_e_left 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_door_e_right 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_door_f_left 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_door_f_right 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_door_h_left 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_door_h_right 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_draw_bridge_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chain_1m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chain_2m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chain_5m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chain_10m 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bridge_modular_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bridge_modular_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_church_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_church_tower_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_stone_step_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_stone_step_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_stone_step_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_stone_heap 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_stone_heap_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_panel_door_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_panel_door_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_smoke_stain 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_brazier_with_fire 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cooking_fire 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cauldron_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_fry_pan_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tripod_cauldron_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tripod_cauldron_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_open_stable_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_open_stable_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_plate_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_plate_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_plate_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_lettuce 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hanger 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_knife_eating 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_colander 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ladle 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_spoon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skewer 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_grape_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_grape_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_apple_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_apple_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_maize_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_maize_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cabbage 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cabbage_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bean 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_basket_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_feeding_trough_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_marrow_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_marrow_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_squash_plant 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cheese_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cheese_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cheese_slice_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bread_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bread_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bread_slice_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_fish_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_fish_roasted_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_chicken_roasted 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_food_steam 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_city_smoke 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_city_fire_fly_night 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_city_fly_day 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_flue_smoke_tall 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_flue_smoke_short 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moon_beam 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_fire_small 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_fire_big 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_battle_field_smoke 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Village_fire_big 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_candle_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_candle_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_candle_c 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_lamp_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_lamp_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hook_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_window_night 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_fried_pig 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_village_oven 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dungeon_water_drops 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_shadow_circle_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_shadow_circle_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_shadow_square_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_shadow_square_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_wheelbarrow 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_gourd 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_gourd_spike 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_obstacle_fence_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_obstacle_fallen_tree_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_obstacle_fallen_tree_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_explosion 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_p_viper_mk7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_viper_mk2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_viper_mk7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cylon_raider 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_target1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_target2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_target3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_target4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_target5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_target6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_target7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_target8 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_target9 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_target_end 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_missile 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_rocket 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_ground 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_ground2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_ground3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_ground_bespin 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_ground_bespin2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_ground_hypori 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_ground_hypori2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_ground_sarapin 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_bespin 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_bespin2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_bespin3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_bespin4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_hypori 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_hypori2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_sarapin 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_ground_floor_imperial 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_floor_imperial 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_ground_floor_imperial_hangar 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_floor_imperial_hangar 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_ground_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_floor_rebel 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_ground_moncal_light 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_moncal_light 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_deathstar 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_ground_deathstar2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_deathstar2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_ground_deathstar3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_city_wall_deathstar3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_palm 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_saleucami_rock 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_saleucami_rock2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_bespin_tibanna 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_hoth_turret 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_hoth_turret_cannon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_hoth_turret_base 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_turbolaser_battery 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_turbolaser_base 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_moisturevaporator 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rebel_panel 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rebel_panel2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rebel_panel_orange 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_rebel_panel_purple 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_dant_ventilator 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_dant_base_build 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_dant_dish 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_deflector_shield 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_deflector_shield_no_col 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_deflector_shield_red 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_deflector_shield_red_no_col 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_gate.sys 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_sign_arena 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_sign_cantina 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_sign_shop 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_sign_extra1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_sign_extra2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_sign_extra3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_glass 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_glass_curved 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_glass_rectangle 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_tower 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_tower2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_8 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_9 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_10 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_11 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_12 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_13 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_14 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_15 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_16 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_17 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_18 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_19 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_20 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_21 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_22 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_23 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_barf_rock_24 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ahto_walls 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_bridge 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_bridge_add 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_building_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_building_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_building_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_building_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_building_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_building_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_building_7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_building_8 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_building_9 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_platform_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_platform_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_platform_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_platform_pillar_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_bespin_platform_pillar_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cato_neimodia_bridge_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cato_neimodia_bridge_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cato_neimodia_building_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_corellia_building_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_corellia_building_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_corellia_building_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_corellia_building_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_corellia_road_curve 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_corellia_road_straight 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant8 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant9 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant10 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant11 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant12 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_christophsis_buiding_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_christophsis_buiding_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_christophisis_bridge_cross 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_christophisis_bridge_end 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_christophisis_bridge_straight 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_christophisis_bridge_small 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_christophisis_bridge_small_pier 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_christophisis_stairs 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_christophisis_hex 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_flower_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_flower_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_flower_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_flower_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_flower_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_flower_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_flower_7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_fungus_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_fungus_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_fungus_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_fungus_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_fungus_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_felucia_fungus_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_house_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_house_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_house_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_house_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_8 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_9 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_10 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_11 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_12 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_13 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_14 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_15 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_16 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_17 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_18 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_19 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_20 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_21 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_bridge 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_column 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_arch_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_arch_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_cantina 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moseisley_angle 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moseisley_chair 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moseisley_machine 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moseisley_table 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moseisley_bar 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moseisley_bank 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moseisleybottles 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moseisley_building_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moseisley_building_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_saleucami_plant_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_saleucami_plant_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_saleucami_plant_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_saleucami_plant_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_a_1_hw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_a_2_hw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_a_3_hw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_a_1_aw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_a_2_aw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_a_3_aw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_a_1_nw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_a_2_nw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_a_3_nw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_b_1_hw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_b_2_hw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_b_3_hw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_b_1_aw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_b_2_aw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_b_3_aw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_b_1_nw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_b_2_nw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_b_3_nw 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_building_2_bridge 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_platform 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_cantina_door 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_cantina_lift 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_cantina_table 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_jabba_palace_building_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_jabba_palace_building_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_jabba_palace_building_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_jabba_palace_building_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_jabba_palace_building_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_jabba_palace_building_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_trandoshan_building_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_trandoshan_building_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_trandoshan_building_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_trandoshan_building_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_trandoshan_building_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_trandoshan_building_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_house 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_house_platform_bridge 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_house_platform_down 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_eighth_fence_addon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_eighth_fence_houseup_addon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_eighth_platform 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_house_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_house_b 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_house_bridge 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_offtree_a 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_sixteenth_fence 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_sixteenth_fence_bridge 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_sixteenth_platform 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_stringer 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_platform_stringer_bridge 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_stairs 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_tree1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_tree2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyyk_cliff_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyyk_cliff_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_spaceview_coruscant 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_spaceview_dagobah 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_spaceview_endor 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_spaceview_geonosis 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_spaceview_naboo 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_spaceview_taris 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_spaceview_tatoonie 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_spaceview_yavin_iv 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_addon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_pillar1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_pillar2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_spire 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_statue1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_statue2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_statue3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_steps 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_table1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_temple 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_wall1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_wall2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_rhenvar_wall3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_addon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_pillar1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_pillar2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_spire 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_statue1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_statue2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_statue3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_steps 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_table1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_temple 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_wall1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_wall2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_ziost_wall3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_addon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_pillar1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_pillar2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_spire 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_statue1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_statue2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_statue3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_steps 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_table1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_temple 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_wall1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_wall2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_dantooine_wall3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_addon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_pillar1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_pillar2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_spire 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_statue1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_statue2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_statue3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_steps 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_table1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_temple 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_wall1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_wall2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_1_wall3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_addon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_pillar1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_pillar2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_spire 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_statue1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_statue2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_statue3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_steps 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_table1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_temple 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_wall1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_wall2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_korriban_2_wall3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_addon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_pillar1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_pillar2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_spire 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_statue1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_statue2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_statue3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_steps 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_table1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_temple 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_wall1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_wall2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_revnshn_sarapin_wall3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skybox_cloud_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skybox_cloud_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skybox_night_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skybox_sunset_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skybox_space 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skybox_vjun 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skybox_kamino 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skybox_volcanic 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swc_traffic 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cato_neimodia_door 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cato_neimodia_building_arch_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cato_neimodia_building_arch_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cato_neimodia_mountain_arch_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cato_neimodia_building_arch_main 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cato_neimodia_mountain_cliff 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cato_neimodia_platform_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cato_neimodia_bridge_stump 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_cato_neimodia_door 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_1_doorframe 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_1_door 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_2_door 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_2_corridor 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_virtual_twilek_dancer_hologram 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_statue_base_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_statue_base_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_taris_statue_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_8 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_9 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_10 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_house_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_house_7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_house_8 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Naboo_theedpalace_entrance 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_fence 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_statue_guard_female 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_statue_guard_male 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_3_corridor 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_4_wall 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_5_stairs 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_5_corridor_curve_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_5_corridor_curve_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_5_column_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_5_column_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_5_corridor_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_5_corridor_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_saleucami_plant_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_saleucami_plant_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_saleucami_plant_7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_saleucami_plant_8 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_theed_interior_column_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_theed_interior_window 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_theed_interior_room_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_hanging_bridge_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_hanging_bridge_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_hanger_part_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_closed 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_spice_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_spice_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_spice_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_food_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_food_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_food_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_metal_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_metal_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_metal_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_death_sticks 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_drink_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_drink_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_drink_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Carbonite_Tibanna 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_terminal3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_terminal4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_table_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_chair_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_chair_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sundari_peace_park 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sundari_block_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sundari_block_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sundari_block_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sundari_block_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sundari_block_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sundari_block_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sundari_small_block_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sundari_small_block_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sundari_small_block_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_walkway 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_walkway_support 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ahto_city 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Hoth_radio 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Hoth_turret 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Hoth_heater 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Hoth_droid 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Felucia_flower1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Hoth_floor1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Hoth_pillar1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Hoth_pillar2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Hoth_radar 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Hoth_cannon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Hoth_battery_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Hoth_battery_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Hoth_battery_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Container_ore 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_block 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_com 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_container_lava 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_container_emputy 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_small_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_small_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_terminal5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_terminal6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_terminal7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_tower_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_tower_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_rail_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_rail_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_pipe_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_lava_tile 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_lava_tile_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_lava_tile_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_acclamator_ship_crash 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_acclamator_crash_parta 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_acclamator_crash_partb 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_acclamator_crash_partc 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_acclamator_crash_partd 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skybox_orange 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skybox_orange_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_symbol_blacksun 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_symbol_credits 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_symbol_hutt 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_symbol_imp 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_symbol_mando 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_symbol_reb 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_symbol_sep 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_wall_text_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_wall_text_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_wall_text_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_wall_text_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_wall_text_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_wall_text_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_wall_text_big_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_wall_text_big_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_chars_rebpilot 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_chars_rodian 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_chars_storm 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_chars_tiepilot 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_chars_zabrak 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_chars_imp 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_image_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_image_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_image_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_image_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_image_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_image_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_image_7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_image_8 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_!dirtdecal1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_!dirtdecal2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_!dirtdecal3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_!dirtdecal4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_6_wall 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_decal_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_decal_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_decal_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_decal_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_pipe_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_pipe_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_pipe_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_pipe_hutta_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_pipe_hutta_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_pipe_hutta_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_terminal_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_terminal_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hologram_terminal_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_arena_wall_fix 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_naboo_arena_corner 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_wall 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_endor_fac_floor 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_tower_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_floor 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_container_emputy 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_container_lava 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_wall 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_walkway_support 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_walkway 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_rail_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_com 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_terminal1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_terminal2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_terminal3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_terminal4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_terminal5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_terminal6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_terminal7 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sarapin_fac_drill 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_christophisis_arena 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_deathstar_parts_1_door_static 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_echo_base_outer 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_outer_snow 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ahto_wall_small 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ahto_wall_tiny 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_ahto_cube 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dantooine_path_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dantooine_path_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dantooine_path_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dantooine_building_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dantooine_building_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dantooine_stone 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dantooine_building_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dantooine_building_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dantooine_building_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_dantooine_block 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skybox_sundari 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_sundari_battle 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_hutt_arena 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_kashyyyk_floor 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_gamorr_wall_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_gamorr_wall_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moncal_battle 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moncal_flora_bed_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moncal_flora_bed_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_moncal_center 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_coruscant_ground 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_swy_outer_sea 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_Var_Block_A 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Bridge_Large 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Bridge_Large_Broken_A 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Bridge_Large_Broken_B 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Platform 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Ramp_A 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Ramp_B 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Ramp_B 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Stairs 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Stairs_Large 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Statue_4 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Statue_5 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Statue_6 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Wall_Big_Broken 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Wall_Big 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Wall_Big_Hole 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Wall_Big_Hole_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Wall_Big_Hub 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_Varyavinaddon 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Tower_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rhen_VarYavin_Tower_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_skybox_space_prop_dome 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_prop_sentinel_droid 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_Rebel_Floor 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tatooine_house_1 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tatooine_arch 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tatooine_corner 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tatooine_wall_big 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tatooine_wall_end 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tatooine_wall_mid 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tatooine_house_2 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tatooine_house_3 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_tatooine_circle 0 0 0 0 0
 
 
-spr_0 0 0 0 0 0
+spr_scene_props_end 0 0 0 0 0
 
 
