@@ -1,4 +1,4 @@
-682
+670
  stand 0 16777216  3
   3 anim_human 50 52 1342177280 0 0 0 0  0.25 
   3 anim_human 60 62 1342177280 0 0 0 0  0.75 
@@ -938,30 +938,6 @@
  equip_bayonet 0 184549446  1
   1 anim_human 0 1 0 0 0 0 0 0.0 
  unequip_bayonet 0 184549446  1
-  1 anim_human 0 1 0 0 0 0 0 0.0 
- unused_human_anim_01 0 0  1
-  1 anim_human 0 1 0 0 0 0 0 0.0 
- unused_human_anim_02 0 0  1
-  1 anim_human 0 1 0 0 0 0 0 0.0 
- unused_human_anim_03 0 0  1
-  1 anim_human 0 1 0 0 0 0 0 0.0 
- unused_human_anim_04 0 0  1
-  1 anim_human 0 1 0 0 0 0 0 0.0 
- unused_human_anim_05 0 0  1
-  1 anim_human 0 1 0 0 0 0 0 0.0 
- unused_human_anim_06 0 0  1
-  1 anim_human 0 1 0 0 0 0 0 0.0 
- unused_human_anim_07 0 0  1
-  1 anim_human 0 1 0 0 0 0 0 0.0 
- unused_human_anim_08 0 0  1
-  1 anim_human 0 1 0 0 0 0 0 0.0 
- unused_human_anim_09 0 0  1
-  1 anim_human 0 1 0 0 0 0 0 0.0 
- unused_human_anim_10 0 0  1
-  1 anim_human 0 1 0 0 0 0 0 0.0 
- unused_human_anim_11 0 0  1
-  1 anim_human 0 1 0 0 0 0 0 0.0 
- unused_human_anim_12 0 0  1
   1 anim_human 0 1 0 0 0 0 0 0.0 
  unused_human_anim_13 0 0  1
   1 anim_human 0 1 0 0 0 0 0 0.0 
