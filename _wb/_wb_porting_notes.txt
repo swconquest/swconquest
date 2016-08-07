@@ -50,3 +50,6 @@ gdb with with sb-gdb-extensions-1.10.py converted to python3 with 2to3
 
 spr_sw_yavin_statue3
 spr_sw_Yavin_Ramp_B
+spr_sw_imperial_office_red
+spr_revnshn_rhenvar_statue3 -- bo_yavinsteps
+spr_revnshn_ziost_statue3 -- ziost_steps bo_yavinsteps

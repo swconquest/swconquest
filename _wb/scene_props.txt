@@ -1285,7 +1285,7 @@ spr_sw_imperial_office_grey 0 0 imperial_office_grey bo_imperial_office_ramp 0
 spr_sw_imperial_office_red 0 0 imperial_office_red bo_imperial_office_ramp 0
 
 
-spr_sw_imperial_office_red_furnished 0 0 imperial_office_red_furnished bo_imperial_office_furnished 0
+spr_sw_imperial_office_red_furnished 0 0 imperial_office_red_furnished 0 0
 
 
 spr_sw_sith_statue_altyr 0 0 sith_statue_altyr bo_sith_statue 0
@@ -3824,7 +3824,7 @@ spr_revnshn_rhenvar_statue2 0 0 rhenvar_statue2 bo_yavinstatue2 0
 spr_revnshn_rhenvar_statue3 0 0 rhenvar_statue3 bo_yavinstatue3 0
 
 
-spr_revnshn_rhenvar_steps 0 0 rhenvar_steps bo_yavinsteps 0
+spr_revnshn_rhenvar_steps 0 0 rhenvar_steps 0 0
 
 
 spr_revnshn_rhenvar_table1 0 0 rhenvar_table1 bo_yavintable1 0
@@ -3863,7 +3863,7 @@ spr_revnshn_ziost_statue2 0 0 ziost_statue2 bo_yavinstatue2 0
 spr_revnshn_ziost_statue3 0 0 ziost_statue3 bo_yavinstatue3 0
 
 
-spr_revnshn_ziost_steps 0 0 ziost_steps bo_yavinsteps 0
+spr_revnshn_ziost_steps 0 0 ziost_steps 0 0
 
 
 spr_revnshn_ziost_table1 0 0 ziost_table1 bo_yavintable1 0
@@ -3902,7 +3902,7 @@ spr_revnshn_dantooine_statue2 0 0 dantooine_statue2 bo_yavinstatue2 0
 spr_revnshn_dantooine_statue3 0 0 dantooine_statue3 bo_yavinstatue3 0
 
 
-spr_revnshn_dantooine_steps 0 0 dantooine_steps bo_yavinsteps 0
+spr_revnshn_dantooine_steps 0 0 dantooine_steps 0 0
 
 
 spr_revnshn_dantooine_table1 0 0 dantooine_table1 bo_yavintable1 0
@@ -3941,7 +3941,7 @@ spr_revnshn_korriban_1_statue2 0 0 korriban_1_statue2 bo_yavinstatue2 0
 spr_revnshn_korriban_1_statue3 0 0 korriban_1_statue3 bo_yavinstatue3 0
 
 
-spr_revnshn_korriban_1_steps 0 0 korriban_1_steps bo_yavinsteps 0
+spr_revnshn_korriban_1_steps 0 0 korriban_1_steps 0 0
 
 
 spr_revnshn_korriban_1_table1 0 0 korriban_1_table1 bo_yavintable1 0
@@ -3980,7 +3980,7 @@ spr_revnshn_korriban_2_statue2 0 0 korriban_2_statue2 bo_yavinstatue2 0
 spr_revnshn_korriban_2_statue3 0 0 korriban_2_statue3 bo_yavinstatue3 0
 
 
-spr_revnshn_korriban_2_steps 0 0 korriban_2_steps bo_yavinsteps 0
+spr_revnshn_korriban_2_steps 0 0 korriban_2_steps 0 0
 
 
 spr_revnshn_korriban_2_table1 0 0 korriban_2_table1 bo_yavintable1 0
@@ -4019,7 +4019,7 @@ spr_revnshn_sarapin_statue2 0 0 sarapin_statue2 bo_yavinstatue2 0
 spr_revnshn_sarapin_statue3 0 0 sarapin_statue3 bo_yavinstatue3 0
 
 
-spr_revnshn_sarapin_steps 0 0 sarapin_steps bo_yavinsteps 0
+spr_revnshn_sarapin_steps 0 0 sarapin_steps 0 0
 
 
 spr_revnshn_sarapin_table1 0 0 sarapin_table1 bo_yavintable1 0
