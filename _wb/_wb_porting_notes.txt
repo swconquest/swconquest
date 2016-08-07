@@ -11,6 +11,12 @@ quick strings missing from msys compilation
 
 sceneprops crashing the game at startup when hitting an assert due to 'bad' edges in quadrangular hit bodies/colisions meshes.
 
+attach with gdb to the steam-launched process, get pid with:
+
+[swyter@osgiliath ~]$ pgrep mb_
+2470
+
+
 (gdb) bt
 #0  0xf77b5d49 in __kernel_vsyscall ()
 #1  0xf6fc1eb0 in raise () from /usr/lib32/libc.so.6
@@ -43,3 +49,4 @@ gdb with with sb-gdb-extensions-1.10.py converted to python3 with 2to3
 ...
 
 spr_sw_yavin_statue3
+spr_sw_Yavin_Ramp_B
