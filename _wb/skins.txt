@@ -183,7 +183,7 @@ sullustan 0
 0
 
 gamorrean 0
- gamorrean_body _ gamorrean_handL
+ gamorrean_body dummy_mesh gamorrean_handL
  gamorrean_head 0 
 0
 
@@ -258,8 +258,8 @@ geonosian 0
 0
 
 rancor 0
- _ _ _
- _ 0 
+ dummy_mesh dummy_mesh dummy_mesh
+ dummy_mesh 0 
 0
 
  0
