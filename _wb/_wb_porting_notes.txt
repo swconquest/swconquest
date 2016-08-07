@@ -6,3 +6,40 @@ switch _ and 0 to dummy_mesh at compile time.
 conflicting crashy txt files: skins scene_props
 
 quick strings missing from msys compilation
+
+
+
+sceneprops crashing the game at startup when hitting an assert due to 'bad' edges in quadrangular hit bodies/colisions meshes.
+
+(gdb) bt
+#0  0xf77b5d49 in __kernel_vsyscall ()
+#1  0xf6fc1eb0 in raise () from /usr/lib32/libc.so.6
+#2  0xf6fc33d7 in abort () from /usr/lib32/libc.so.6
+#3  0xf6fba997 in __assert_fail_base () from /usr/lib32/libc.so.6
+#4  0xf6fbaa1b in __assert_fail () from /usr/lib32/libc.so.6
+#5  0x08193282 in rglQuad::box_min_() ()
+#6  0x081918ea in rglBody_part::refresh_min_max() ()
+#7  0x081bc74d in rglComposite_body::set_frame(rglMatrix_frame const&) ()
+#8  0x081adee7 in rglManifold_body::create_composite_body() const ()
+#9  0x082fd972 in Mission_object_kind::read(rglIO_Stream&) ()
+#10 0x082ec100 in restore_module_data() ()
+#11 0x083a09e4 in Starting_window::do_load() ()
+#12 0x083a0cfa in Starting_window::check(float) ()
+#13 0x0834e3ad in Application::FrameMove() ()
+#14 0x082ea213 in CMyD3DApplication::FrameMove() ()
+#15 0x0841e7fe in CD3DApplication::Render3DEnvironment() ()
+#16 0x0841ea9a in CD3DApplication::Run() ()
+#17 0x0813e52b in main ()
+
+
+gdb with with sb-gdb-extensions-1.10.py converted to python3 with 2to3
+(http://www.thegreycorner.com/2013/10/my-python-gdb-extensions.html)
+
+(gdb) printstack 300
+0xffc92e90: 08620d6f	ASCII: num_edges > 0
+0xffc92e94: 08621088	ASCII: /home/mustafa/Develop/WarbandSteamRT/MBExp/Program/src/../../rgl/rglBody.h
+0xffc92e98: 000002dd
+0xffc92e9c: 086215a0	ASCII: virtual rglVec3 rglQuad::box_min_()
+...
+
+spr_sw_yavin_statue3
