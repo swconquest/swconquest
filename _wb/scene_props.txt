@@ -324,7 +324,7 @@ spr_sw_Yavin_Wall_Big_Hole_2 0 0 Yavin_Wall_Big_Hole_2 bo_Yavin_Wall_Big_Hole_2 
 spr_sw_Yavin_Wall_Big_Hub 0 0 Yavin_Wall_Big_Hub bo_Yavin_Wall_Big_Hub 0
 
 
-spr_sw_Yavin_Stairs_Large 0 0 Yavin_Stairs_Large bo_Yavin_Stairs_Large 0
+spr_sw_Yavin_Stairs_Large 0 0 Yavin_Stairs_Large 0_Large 0
 
 
 spr_sw_Yavin_Great_Temple 0 0 Yavin_Great_Temple bo_Yavin_Great_Temple 0
@@ -4772,10 +4772,10 @@ spr_Rhen_VarYavin_Ramp_B 0 0 Rhen_VarYavin_Ramp_B bo_Yavin_Ramp_B 0
 spr_Rhen_VarYavin_Ramp_B 0 0 Rhen_VarYavin_Ramp_B bo_Yavin_Ramp_B 0
 
 
-spr_Rhen_VarYavin_Stairs 0 0 Rhen_VarYavin_Stairs bo_Yavin_Stairs 0
+spr_Rhen_VarYavin_Stairs 0 0 Rhen_VarYavin_Stairs 0 0
 
 
-spr_Rhen_VarYavin_Stairs_Large 0 0 Rhen_VarYavin_Stairs_Large bo_Yavin_Stairs_Large 0
+spr_Rhen_VarYavin_Stairs_Large 0 0 Rhen_VarYavin_Stairs_Large 0_Large 0
 
 
 spr_Rhen_VarYavin_Statue_4 0 0 Rhen_VarYavin_Statue_4 bo_Yavin_Statue_4 0

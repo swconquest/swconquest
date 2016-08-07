@@ -48,8 +48,9 @@ gdb with with sb-gdb-extensions-1.10.py converted to python3 with 2to3
 0xffc92e9c: 086215a0	ASCII: virtual rglVec3 rglQuad::box_min_()
 ...
 
-spr_sw_yavin_statue3
-spr_sw_Yavin_Ramp_B
-spr_sw_imperial_office_red
+spr_sw_yavin_statue3 -- bo_yavinsteps
+spr_sw_Yavin_Ramp_B -- bo_Yavin_Stairs
+spr_sw_imperial_office_red -- bo_imperial_office_red_furnished
 spr_revnshn_rhenvar_statue3 -- bo_yavinsteps
 spr_revnshn_ziost_statue3 -- ziost_steps bo_yavinsteps
+spr_Rhen_VarYavin_Ramp_B -- bo_Yavin_Stairs
