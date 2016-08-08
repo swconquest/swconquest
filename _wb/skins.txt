@@ -73,7 +73,7 @@ jawa 0
  0 
  1  tusken_face_a 4294967295 0 0 
  7  0 snd_jawa_die  1 snd_jawa_hit  2 snd_jawa_grunt  3 snd_jawa_grunt_long  4 snd_jawa_yell  5 snd_jawa_victory  6 snd_jawa_victory 
- skel_human 0.56 
+ skel_human 0.76 
 0 0
 0
 
@@ -103,7 +103,7 @@ rodian 0
  0 
  3  rodian_face_a 4294967295 0 0  rodian_face_b 4294967295 0 0  rodian_face_c 4294967295 0 0 
  7  0 snd_rodian_die  1 snd_rodian_hit  2 snd_rodian_grunt  3 snd_rodian_grunt_long  4 snd_rodian_yell  5 snd_rodian_victory  6 snd_rodian_victory 
- skel_human 0.7 
+ skel_human 0.86 
 0 0
 0
 
@@ -118,7 +118,7 @@ moncal 0
  0 
  1  moncal_face_a 4294967295 0 0 
  6  0 snd_man_die  1 snd_man_hit  2 snd_man_grunt  3 snd_man_grunt_long  4 snd_man_yell  6 snd_man_victory 
- skel_human 1.3 
+ skel_human 1.1 
 0 0
 0
 
@@ -148,7 +148,7 @@ droid 0
  0 
  1  droid_head 4294967295 0 0 
  7  0 snd_battledroid_die  1 snd_battledroid_hit  2 snd_battledroid_grunt  3 snd_battledroid_grunt_long  4 snd_battledroid_yell  5 snd_battledroid_victory  6 snd_battledroid_victory 
- skel_human 1.4 
+ skel_human 1.1 
 0 0
 0
 
@@ -163,7 +163,7 @@ wookiee 0
  0 
  2  wookiee_face_a_new 4294967295 0 0  wookiee_face_a_new2 4294967295 0 0 
  7  0 snd_wookiee_die  1 snd_wookiee_hit  2 snd_wookiee_grunt  3 snd_wookiee_grunt_long  4 snd_wookiee_yell  5 snd_wookiee_victory  6 snd_wookiee_victory 
- skel_human 1.5 
+ skel_human 1.3 
 0 0
 0
 
@@ -253,7 +253,7 @@ geonosian 0
  0 
  1  geonosian_face_a 4294967295 0 0 
  7  0 snd_geonosian_die  1 snd_geonosian_hit  2 snd_geonosian_grunt  3 snd_geonosian_grunt_long  4 snd_geonosian_yell  5 snd_geonosian_victory  6 snd_geonosian_victory 
- skel_human 0.5 
+ skel_human 0.8 
 0 0
 0
 
@@ -268,7 +268,7 @@ rancor 0
  0 
  1  default 4294967295 0 0 
  7  0 snd_gamorrean_die  1 snd_gamorrean_hit  2 snd_gamorrean_grunt  3 snd_gamorrean_grunt_long  4 snd_gamorrean_yell  5 snd_gamorrean_victory  6 snd_gamorrean_victory 
- skel_human 0.6 
+ skel_human 1.1 
 0 0
 0
 
