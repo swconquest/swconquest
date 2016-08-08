@@ -138,7 +138,7 @@
  run_right_twohanded 256 17825792  1
   0.8 run_man_right_greatsword 0 24 805306628 58726 0 0 0  0 
  run_right_polearm 256 17825792  1
-  0.8 run_man_right_stuff 0 24 805306628 58726 0 0 0  0 
+  0.8 run_man_right_onehanded 0 24 805306628 58726 0 0 0  0 
  run_right_hips_right 256 17825792  1
   0.8 run_man_right_stuff 0 24 805306628 58726 0 0 0  0 
  run_right_hips_left 256 17825792  1
@@ -150,7 +150,7 @@
  run_left_twohanded 256 17825792  1
   0.8 run_man_left_greatsword 0 24 805306628 58726 0 0 0  0 
  run_left_polearm 256 17825792  1
-  0.8 run_man_left_stuff 0 24 805306628 58726 0 0 0  0 
+  0.8 run_man_left_onehanded 0 24 805306628 58726 0 0 0  0 
  run_left_hips_right 256 17825792  1
   0.8 run_left_hips_right 0 24 805306628 58726 0 0 0  0 
  run_left_hips_left 256 17825792  1
@@ -186,7 +186,7 @@
  walk_right_twohanded 256 17825792  1
   1 walk_right_greatsword_r 0 32 805306628 58726 0 0 0  0 
  walk_right_polearm 256 17825792  1
-  1 walk_right_staff_r 0 32 805306628 58726 0 0 0  0 
+  1 walk_right_onehanded_r 0 32 805306628 58726 0 0 0  0 
  walk_right_hips_right 256 17825792  1
   1 walk_right_staff_r 0 32 805306628 58726 0 0 0  0 
  walk_right_hips_left 256 17825792  1
@@ -210,7 +210,7 @@
  walk_forward_right_twohanded 256 17825792  1
   1 walk_crossright_greatsword 0 32 805306628 58726 0 0 0  0 
  walk_forward_right_polearm 256 17825792  1
-  1 walk_crossright_staff 0 32 805306628 58726 0 0 0  0 
+  1 walk_crossright_onehanded 0 32 805306628 58726 0 0 0  0 
  walk_forward_right_hips_right 256 17825792  1
   1 walk_forward_right_hips_right 0 32 805306628 58726 0 0 0  0 
  walk_forward_right_hips_left 256 17825792  1
@@ -246,7 +246,7 @@
  walk_backward_right_twohanded 256 17825792  1
   1 walk_crossleft_greatsword 32 0 805306628 58726 0 0 0  0 
  walk_backward_right_polearm 256 17825792  1
-  1 walk_crossleft_staff 32 0 805306628 58726 0 0 0  0 
+  1 walk_crossleft_onehanded 32 0 805306628 58726 0 0 0  0 
  walk_backward_right_hips_right 256 17825792  1
   1 walk_backward_right_hips_right 0 32 805306628 58726 0 0 0  0 
  walk_backward_right_hips_left 256 17825792  1
@@ -258,51 +258,52 @@
  crouch_to_stand 256 0  1
   1 crouch_down 154 185 2 0 0 0 0  0.0 
  ride_0 256 16777216  1
-  15 stand_onhorse 0 456 268435456 0 0 0 0 0.0 
+  8 sw_pilot_stand 0 49 268435467 0 0 0 0 0.0 
  ride_1 257 16777216  1
-  1 anim_human_02 0 31 268435456 0 0 0 0 0.0 
+  8 sw_pilot_stand 0 49 268435456 0 0 0 0 0.0 
  lancer_ride_1 257 50331650  1
-  1 lancer_ride1 0 31 268435456 0 0 0 0 0.0 
+  8 sw_pilot_stand 0 49 268435473 0 0 0 0 0.0 
  lancer_charge_parried 256 35651599  1
-  1 anim_human 10210 10220 33 0 0 0 0 0.0 
+  1 anim_human 10210 10210 33 0 0 0 0 0.0 
  ride_2 257 16777216  1
-  0.8 anim_human_02 50 69 268435456 0 0 0 0 0.0 
+  8 sw_pilot_stand 0 49 268435456 0 0 0 0 0.0 
  ride_3 257 16777216  1
-  0.6 anim_human_02 100 116 268435456 0 0 0 0 0.0 
+  8 sw_pilot_stand 0 49 268435456 0 0 0 0 0.0 
  ride_4 257 16777216  1
-  0.5 anim_human_02 150 165 268435489 0 0 0 0 0.0 
+  8 sw_pilot_stand 0 49 268435456 0 0 0 0 0.0 
  lancer_ride_4 505413889 50368514  1
   0.5 lancer_ride4 0 15 268435585 0 0 0 0 0.0 
  lancer_ride_4_no_shield 505413889 50368514  1
   0.5 lancer_ride4_no_shield 0 15 268435585 0 0 0 0 0.0 
  ride_rear 33024 50331712  1
-  1.7 anim_human_02 265 297 9 0 0 0 0 0.0 
+  8 sw_pilot_stand 0 49 9 0 0 0 0 0.0 
  ride_spur 256 33554434  1
-  0.3 anim_human 10860 10865 9 0 0 0 0 0.0 
+  8 sw_pilot_stand 0 49 9 0 0 0 0 0.0 
  ride_jump 256 16777216  1
   1.6 anim_human_02 205 222 5 0 0 0 0 0.0 
  ride_jump_end 1024 16777216  1
   0.1 anim_human_02 222 224 17 0 0 0 0 0.0 
  ride_turn_right 257 16777216  1
-  1 anim_human_02 500 533 268435456 0 0 0 0 0.0 
+  0.5 sw_pilot_stand_turn 2 2 33 0 0 0 0 0.0 
  ride_turn_left 257 16777216  1
-  1 anim_human_02 450 483 268435456 0 0 0 0 0.0 
+  0.5 sw_pilot_stand_turn 0 0 33 0 0 0 0 0.0 
  mount_horse 1024 50331712  1
-  1.3 anim_human 11003 11045 2 0 0 0 0  0.0 
+  2 sw_pilot_mount 0 100 3 0 0 0 0  0.0 
  dismount_horse 16640 58720320  1
-  1.1 anim_human 11103 11145 2 0 -0.5 0 0  0.0 
+  3 sw_pilot_mount 100 0 2 0 -0.6 0 0  0.0 
  lancer_ride_0 256 50331650  1
   43 stand_onhorse_staff 0 1300 301989888 0 0 0 0 0.0 
  equip_default 0 184549446  1
-  0.6 equip_arms 206 221 1 0 0 0 0 0.0 
+  0.6 equip_arms 352 365 1 0 0 0 0 0.0 
  unequip_default 0 184549446  1
   0.3 equip_arms 207 200 1 0 0 0 0 0.0 
  equip_sword 0 184549446  1
   0.8 equip_sword 0 27 1 0 0 0 0 0.0 
  unequip_sword 0 184549446  1
   0.3 equip_sword 6 0 1 0 0 0 0 0.0 
- equip_greatsword 0 184549446  1
-  1.2 draw_greatsword 0 35 1 0 0 0 0 0.0 
+ equip_greatsword 0 184549446  2
+  1.4 draw_greatsword 0 35 1 0 0 0 0 0.0 
+  1.2 brfedit-01 20000 20024 1 0 0 0 0  1.1 
  unequip_greatsword 0 184549446  1
   0.3 draw_greatsword 10 0 1 0 0 0 0 0.0 
  equip_axe_left_hip 0 184549446  1
@@ -317,8 +318,9 @@
   0.8 equip_arms 17 34 1 0 0 0 0 0.0 
  unequip_spear 0 184549446  1
   0.3 equip_arms 15 10 1 0 0 0 0 0.0 
- equip_dagger_front_left 0 184549446  1
-  0.8 equip_arms 253 276 1 0 0 0 0 0.0 
+ equip_dagger_front_left 0 184549446  2
+  0.8 equip_sword 0 27 1 0 0 0 0 0.0 
+  0.8 draw_axe 0 16 1 0 0 0 0 0.0 
  unequip_dagger_front_left 0 184549446  1
   0.2 equip_arms 254 250 1 0 0 0 0 0.0 
  equip_dagger_front_right 0 184549446  1
@@ -362,53 +364,56 @@
  cancel_attack_twohanded 0 1109417996  1
   0.25 greatsword_cstance 10 11 9 0 0 0 0 0.0 
  cancel_attack_polearm 0 1109417996  1
-  0.25 staff_cstance 10 11 9 0 0 0 0 0.0 
+  0.25 anim_human 1500 1500 9 0 0 0 0 0.0 
  ready_bow 1678770176 606081034  1
-  1.5 anim_human 20500 20530 519 28707 0 0 0 0.0 
+  1 sw_force_power_1 0 47 519 28707 0 0 0 0.0 
  release_bow 1678770176 572526602  1
-  0.3 anim_human 20530 20532 3 0 0 0 0 0.0 
+  1 sw_force_power_1 47 99 3 0 0 0 0 0.0 
  ready_bow_mounted 1678770176 606081034  1
   1.5 anim_human 20800 20830 519 26137 0 0 0 0.0 
  release_bow_mounted 1678770176 4096  1
   0.3 anim_human 20830 20832 3 0 0 0 0 0.0 
  ready_crossbow 1678770176 606089226  1
-  1.5 anim_human 21300 21320 7 0 0 0 0 0.0 
+  0.3 new_rifle_old 21275 21300 7 0 0 0 0 0.0 
  release_crossbow 1678770176 572534794  1
-  0.2 anim_human 21330 21331 2 0 0 0 0 0.0 
+  0.1 anim_human 21300 21300 2 0 0 0 0 0.0 
  reload_crossbow 0 35651644  1
-  1 anim_human 21700 21750 521 61286 0 0 0 0.0 
+  2.4 reload 0 39 521 61286 0 0 0 0.0 
  reload_crossbow_horseback 0 35651644  1
   1.6 anim_human 21800 21877 521 61252 0 0 0 0.0 
  ready_javelin 1048576 606085130  1
-  0.6 throw_javelin2 0 30 7 0 0 0 0 0.0 
+  0.3 holding_big_gun 270 285 7 0 0 0 0 0.0 
  release_javelin 1048576 572530703  1
-  0.9 throw_javelin2 55 100 1 0 0 0 0 0.0 
- ready_throwing_knife 1048576 606085130  1
-  0.6 throw_knife 10 30 7 0 0 0 0 0.0 
+  0.1 holding_big_gun 285 285 2 0 0 0 0 0.0 
+ ready_throwing_knife 1048576 606085130  2
+  0.3 throw_knife 10 30 7 0 0 0 0 0.0 
+  0.3 anim_human 22100 22110 7 0 0 0 0  0.2 
  release_throwing_knife 1048576 572530703  1
   0.9 throw_knife 30 70 1 0 0 0 0 0.0 
- ready_throwing_axe 1048576 606085130  1
-  0.6 throwing_axe 7 23 7 0 0 0 0 0.0 
+ ready_throwing_axe 1048576 606085130  2
+  0.3 throw_axe 0 40 7 0 0 0 0 0.0 
+  0.3 anim_human 22100 22110 7 0 0 0 0  0.2 
  release_throwing_axe 1048576 572530703  1
   0.9 throwing_axe 23 60 1 0 0 0 0 0.0 
  ready_stone 1048576 606085130  1
-  0.6 throwing_stone 0 20 7 0 0 0 0 0.0 
+  0.7 throw_stone 0 21 7 0 0 0 0 0.0 
  release_stone 1048576 572530703  1
-  0.9 throwing_stone 20 65 1 0 0 0 0 0.0 
+  1 throw_stone 21 54 1 0 0 0 0 0.0 
  ready_pistol 1679818752 606093322  1
-  1.5 gansta_bow 100 130 519 28707 0 0 0 0.0 
+  0.3 anim_human 22500 22515 9 0 0 0 0 0.0 
  release_pistol 1679818752 572538890  1
-  0.3 gansta_bow 130 132 3 0 0 0 0 0.0 
+  0.3 anim_human 22520 22527 2 0 0 0 0 0.0 
  reload_pistol 0 35651644  1
-  2 anim_human 22650 22860 9 0 0 0 0 0.0 
+  2.4 reloadpistol_fixed_by_swy 0 14 521 61286 0 0 0 0.0 
  ready_musket 1678770176 606089226  1
-  1.5 anim_human 21300 21320 7 0 0 0 0 0.0 
+  0.5 new_rifle_crouch 21300 21330 7 0 0 0 0 0.0 
  release_musket 1678770176 572534794  1
-  0.2 anim_human 21330 21331 2 0 0 0 0 0.0 
+  0.1 new_rifle_crouch 21330 21331 2 0 0 0 0 0.0 
  reload_musket 0 35651644  1
-  2 anim_human 22650 22860 9 0 0 0 0 0.0 
- ready_swingright_fist 0 606105610  1
+  2.4 reload 0 39 521 61286 0 0 0 0.0 
+ ready_swingright_fist 0 606105610  2
   0.35 right_swing 0 15 7 0 0 0 0 0.0 
+  0.35 anim_human 24000 24000 7 0 0 0 0  0.25 
  release_swingright_fist 0 35680266  1
   0.5 right_swing 15 41 6 0 0 0 0 0.0 
  release_swingright_fist_continue 0 35680266  1
@@ -427,8 +432,9 @@
   0.3 anim_human 24313 24308 6 0 0 0 0 0.0 
  parried_swingleft_fist 0 35684367  1
   0.6 anim_human 24313 24308 6 0 0 0 0 0.0 
- ready_direct_fist 0 606101514  1
+ ready_direct_fist 0 606101514  2
   0.35 direct_fist 0 16 7 0 0 0 0 0.0 
+  0.35 anim_human 24600 24600 7 0 0 0 0  0.25 
  release_direct_fist 0 35676170  1
   0.5 direct_fist 17 36 6 0 0 0 0 0.0 
  release_direct_fist_continue 0 35676170  1
@@ -437,8 +443,9 @@
   0.3 anim_human 24613 24608 6 0 0 0 0 0.0 
  parried_direct_fist 0 35676175  1
   0.6 anim_human 24613 24608 6 0 0 0 0 0.0 
- ready_uppercut_fist 0 606101514  1
+ ready_uppercut_fist 0 606101514  2
   0.35 uppercut 0 17 7 0 0 0 0 0.0 
+  0.35 anim_human 24900 24900 7 0 0 0 0  0.25 
  release_uppercut_fist 0 35676170  1
   0.5 uppercut 17 34 6 0 0 0 0 0.0 
  release_uppercut_fist_continue 0 35676170  1
@@ -477,8 +484,10 @@
   0.6 anim_human 26015 26016 6 0 0 0 0 0.0 
  parried_thrust_twohanded 0 35651599  1
   0.7 anim_human 26015 26016 6 0 0 0 0 0.0 
- ready_overswing_twohanded 524288 1679818762  1
-  0.35 attacks_twohanded_overswing 11 26 7 0 0 0 0 0.0 
+ ready_overswing_twohanded 524288 1679818762  3
+  0.35 anim_human 26200 26210 7 0 0 0 0 0.0 
+  0.35 draw_greatsword 20 10 7 0 0 0 0 0.0 
+  0.35 brfedit-01 20024 20004 7 0 0 0 0  0.95 
  release_overswing_twohanded 524288 2183135242  1
   0.61 attacks_twohanded_overswing 26 55 6 0 0 0 0 0.0 
  release_overswing_twohanded_continue 0 572522497  1
@@ -487,8 +496,10 @@
   0.3 anim_human 26215 26212 6 0 0 0 0 0.0 
  parried_overswing_twohanded 0 35651599  1
   0.6 anim_human 26215 26212 6 0 0 0 0 0.0 
- ready_thrust_onehanded 1679884800 1679843338  1
-  0.35 attacks_thrust_onehanded 5 13 7 0 0 0 0 0.0 
+ ready_thrust_onehanded 1679884800 1679843338  3
+  0.61 anim_human 28510 28540 6 0 0 0 0 0.0 
+  0.61 anim_human 29510 29540 6 0 0 0 0 0.0 
+  0.45 brfedit-01 29512 29530 6 0 0 0 0 0.0 
  release_thrust_onehanded 1679884800 2183159818  1
   0.62 attacks_thrust_onehanded 12 32 6 0 0 0 0 0.0 
  release_thrust_onehanded_continue 0 572547073  1
@@ -645,10 +656,14 @@
   0.75 defend_shield_right 5 26 4 0 0 0 0 0.0 
  defend_shield_left 0 1782620174  1
   0.75 defend_shield_left 5 26 4 0 0 0 0 0.0 
- defend_shield 0 1782620174  1
-  0.75 defend_shield_up 1 17 4 0 0 0 0 0.0 
- defend_shield_keep 1677725696 604024846  1
-  2 anim_human 35118 35120 268435461 0 0 0 0 0.0 
+ defend_shield 0 1782620174  3
+  0.75 anim_human 35105 35120 4 0 0 0 0 0.0 
+  0.75 anim_human 35105 35120 4 0 0 0 0 0.0 
+  0.75 draw_greatsword 24 29 4 0 0 0 0 0.0 
+ defend_shield_keep 1677725696 604024846  3
+  6 anim_human 35120 35120 268435458 0 0 0 0  5 
+  6 anim_human 35120 35120 268435458 0 0 0 0  5 
+  6 draw_greatsword 29 29 268435458 0 0 0 0  5 
  defend_shield_parry_1 1677725696 167813135  1
   0.6 anim_human 35121 35130 2 0 0 0 0 0.0 
  defend_shield_parry_2 1677725696 167813135  1
@@ -866,23 +881,39 @@
  fall_face_hold 9218 92274783  1
   2.2 death_face 8 60 529 127 0 0 0  0.6 
  fall_chest_front 9218 92274783  1
-  1 death_chest 4 37 529 229 0 0 0  0.5 
+  1 swy_sw_death_chest 0 50 529 229 0 0 0  0.5 
  fall_abdomen_hold_front 9218 92274783  1
-  2.7 death_abdomen 5 96 529 102 0 0 0  0.5 
- fall_head_front 9218 92274783  1
+  1.7 swy_sw_death_side 0 50 529 102 0 0 0  0.5 
+ fall_head_front 9218 92274783  9
   1.2 anim_human 40100 40138 529 204 0 0 0  0.8 
+  1.5 anim_human 40100 40138 529 204 0 0 0  1 
+  1.9 anim_human 45453 45430 529 204 0 0 0  1.8 
+  1.5 anim_human 45401 45430 529 204 0 0 0  1.4 
+  1 anim_human 45400 45421 529 204 0 0 0  0.9 
+  1.8 death 16 99 529 204 0 0 0  1.7 
+  0.8 anim_human 21700 21713 529 204 0 0 0  0.05 
+  1.5 anim_human 24335 24300 529 204 0 0 0  1 
+  2 anim_human 29515 29535 529 204 0 0 0  1.1 
  fall_right_front 9218 92274783  1
   2 death2 0 53 529 165 0 0 0  1 
- fall_body_back 9218 92274783  1
-  2.7 death 0 83 529 53623 0 0 0  1.8 
- fall_rider_right_forward 9216 92274783  1
-  2.2 anim_human 40200 40275 516 204 0 0 0  0.3 
- fall_rider_right 9216 92274783  1
-  2.2 anim_human 40200 40275 516 204 0 0 0  0.3 
+ fall_body_back 9218 92274783  5
+  2.7 death 0 83 529 53623 0 0 0  1.5 
+  1.8 death 16 99 529 53623 0 0 0  1.7 
+  1.7 anim_human 45400 45438 529 53623 0 0 0  1.6 
+  1.7 anim_human 40100 40138 529 53623 0 0 0  1.5 
+  2.7 death 16 99 529 53623 0 0 0  1.7 
+ fall_rider_right_forward 9216 92274783  3
+  2.2 anim_human 40200 40275 9 0 0 0 0  0.3 
+  1.2 anim_human 41500 41552 9 0 1.1 -0.9 0  0.3 
+  1.4 anim_human_02 350 362 9 0 0.8 -1.8 0  0.25 
+ fall_rider_right 9216 92274783  2
+  1.4 anim_human_02 350 362 9 0 0.8 -1.8 0  0.25 
+  1.2 anim_human 41500 41552 9 0 1.1 -0.9 0  0.3 
  fall_rider_left 9216 92274783  1
   2.2 anim_human 40200 40275 516 204 0 0 0  0.3 
- rider_fall_right 17408 58720337  1
-  2.5 anim_human_02 350 382 9 0 0.8 -1.8 0  0.5 
+ rider_fall_right 17408 58720337  2
+  1.4 anim_human_02 350 362 9 0 0.8 -1.8 0  0.25 
+  1.2 anim_human 41500 41552 9 0 1.1 -0.9 0  0.3 
  rider_fall_roll 17408 58720337  1
   2.5 anim_human 42000 42084 9 0 0 0 0  1 
  strike_chest_front_stop 1024 176160848  1
@@ -891,11 +922,13 @@
   1.7 anim_human 45400 45453 515 102 0 0 0  0.5 
  strike_fall_back_rise_upper 2 176160848  1
   1.44 anim_human 45400 45445 3 0 0 0 0 0.0 
- cheer 0 33554496  4
+ cheer 0 33554496  6
   6 man_cheer 0 185 6 0 0 0 0 0.0 
   3 man_cheer 200 289 6 0 0 0 0 0.0 
   4.5 man_cheer 300 437 6 0 0 0 0 0.0 
   5.5 man_cheer 450 617 6 0 0 0 0 0.0 
+  2.5 anim_human 70000 70045 6 0 0 0 0 0.0 
+  3 anim_human 70100 70150 6 0 0 0 0 0.0 
  cheer_stand 268435456 33554496  1
   31.5 man_cheer 650 1597 6 0 0 0 0 0.0 
  stand_townguard 0 0  1
@@ -916,31 +949,31 @@
   3 poses 6 6 268435456 0 0 0 0 0.0 
  pose_5 0 0  1
   3 poses 8 8 268435456 0 0 0 0 0.0 
- wedding_guest 0 33554527  1
-  30 wedding_guest 0 906 268435456 0 0 0 0 0.0 
- wedding_guest_notr 0 33554527  1
-  32 wedding_guest_notr 0 962 268435456 0 0 0 0 0.0 
- wedding_guest_woman 0 33554527  1
-  27.5 wedding_guest_woman 0 825 268435456 0 0 0 0 0.0 
- wedding_dad_stairs 0 33620063  1
-  10 wedding_dad_stairs 0 300 1 0 0 0 0 0.0 
- wedding_dad_walk 0 33620063  1
-  4.5 wedding_dad_walk 0 134 1 0 0 0 0 0.0 
- wedding_bride_stairs 0 33620063  1
-  10 wedding_bride_stairs 0 300 1 0 0 0 0 0.0 
- wedding_bride_walk 0 33620063  1
-  4.5 wedding_bride_walk 0 134 1 0 0 0 0 0.0 
- wedding_groom_wait 0 100728927  1
-  10 wedding_groom_last 0 2 1 0 0 0 0 0.0 
- wedding_groom_last 0 100728927  1
-  10 wedding_groom_last 0 300 1 0 0 0 0 0.0 
- wedding_dad_last 0 100728927  1
-  10 wedding_dad_last 0 300 1 0 0 0 0 0.0 
- wedding_bride_last 0 100728927  1
-  10 wedding_bride_last 0 300 1 0 0 0 0 0.0 
  equip_bayonet 0 184549446  1
   1 anim_human 0 1 0 0 0 0 0 0.0 
  unequip_bayonet 0 184549446  1
+  1 anim_human 0 1 0 0 0 0 0 0.0 
+ unused_human_anim_02 0 0  1
+  1 anim_human 0 1 0 0 0 0 0 0.0 
+ unused_human_anim_03 0 0  1
+  1 anim_human 0 1 0 0 0 0 0 0.0 
+ unused_human_anim_04 0 0  1
+  1 anim_human 0 1 0 0 0 0 0 0.0 
+ unused_human_anim_05 0 0  1
+  1 anim_human 0 1 0 0 0 0 0 0.0 
+ unused_human_anim_06 0 0  1
+  1 anim_human 0 1 0 0 0 0 0 0.0 
+ unused_human_anim_07 0 0  1
+  1 anim_human 0 1 0 0 0 0 0 0.0 
+ unused_human_anim_08 0 0  1
+  1 anim_human 0 1 0 0 0 0 0 0.0 
+ unused_human_anim_09 0 0  1
+  1 anim_human 0 1 0 0 0 0 0 0.0 
+ unused_human_anim_10 0 0  1
+  1 anim_human 0 1 0 0 0 0 0 0.0 
+ unused_human_anim_11 0 0  1
+  1 anim_human 0 1 0 0 0 0 0 0.0 
+ unused_human_anim_12 0 0  1
   1 anim_human 0 1 0 0 0 0 0 0.0 
  unused_human_anim_13 0 0  1
   1 anim_human 0 1 0 0 0 0 0 0.0 
@@ -1127,31 +1160,20 @@
   30 coehorn_shoot 49 49 1342177280 0 0 0 0  0 
  crouch_stop 0 50331743  1
   0.01 Sit 0 0 4 0 0 0 0 0.0 
- horse_stand 0 16777216  12
-  1.5 anim_horse 600 644 1342177280 0 0 0 0  0 
-  1.5 anim_horse 600 644 1342177280 0 0 0 0  0 
-  1.5 anim_horse 600 644 1342177280 0 0 0 0  0 
-  1.5 anim_horse 644 688 1342177280 0 0 0 0  0 
-  1.5 anim_horse 600 644 1342177280 0 0 0 0  0 
-  1.5 anim_horse 688 732 1342177280 0 0 0 0  0 
-  1.5 anim_horse 600 644 1342177280 0 0 0 0  0 
-  3.5 anim_horse 732 820 1342177280 0 0 0 0  0 
-  1.5 anim_horse 600 644 1342177280 0 0 0 0  0 
-  1.5 anim_horse 600 644 1342177280 0 0 0 0  0 
-  1.5 anim_horse 600 644 1342177280 0 0 0 0  0 
-  2.5 anim_horse 820 908 1342177280 0 0 0 0  0 
+ horse_stand 0 16777216  1
+  6 sw_speeder_stand 0 0 1342177280 0 0 0 0  0 
  horse_pace_1 256 17825792  1
-  1 anim_horse 0 31 805306624 3938413375 0 0 0  0.25 
+  1 sw_speeder_stand 0 0 805306624 3938413375 0 0 0  0.25 
  horse_pace_2 256 17825792  1
-  0.8 anim_horse 50 69 805306624 2829396006 0 0 0  0.9 
+  0.8 sw_speeder_stand 0 0 805306624 2829396006 0 0 0  0.9 
  horse_pace_3 256 17825792  1
-  0.6 anim_horse 100 116 805306624 1801057005 0 0 0  0.6 
+  0.8 sw_speeder_stand 0 0 805306624 2829396006 0 0 0  0.9 
  horse_pace_4 256 17825792  1
-  0.5 anim_horse 150 165 805306624 4022947686 0 0 0  0.2 
+  0.8 sw_speeder_stand 0 0 805306624 2829396006 0 0 0  0.9 
  horse_walk_backward 256 16777216  1
-  1.9 anim_horse 31 0 2415919360 2693669137 0 0 0  0 
+  0.8 sw_speeder_stand 0 0 2415919360 2693669137 0 0 0  0 
  horse_rear 33024 33554506  1
-  1.7 anim_horse 265 297 9 0 0 0 0 0.0 
+  1 sw_speeder_stand 0 0 9 0 0 0 0 0.0 
  horse_jump 256 50331650  1
   1.6 anim_horse 205 222 5 0 0 0 0 0.0 
  horse_jump_end 256 50331681  1
