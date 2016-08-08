@@ -54,3 +54,38 @@ spr_sw_imperial_office_red -- bo_imperial_office_red_furnished
 spr_revnshn_rhenvar_statue3 -- bo_yavinsteps
 spr_revnshn_ziost_statue3 -- ziost_steps bo_yavinsteps
 spr_Rhen_VarYavin_Ramp_B -- bo_Yavin_Stairs
+
+
+CUSTOM SHADERS AND THEIR MATERIALS (NEEDED FOR optimized GLSL techniques) typed manually with the help of openbrf
+
+swconquest-galaxy:
+    map_trees
+    
+swconquest-lava:
+    lava_1
+swconquest-glow-iron:
+    electro_staff, speeder_fc20, healing_station, player_chest_sw, taris_statue, terminal1, corellia_roads, coruscant_metal_1, coruscant_metal_2, coruscant_metal_3 
+
+swconquest-glow:
+    blue_window_2, sw_ceiling_light, sw_light_blue, swy_rebel_panel_base, wall_deathstar2, wall_moncal_light, bespin_lights, cato_neimoidia_walls_lights, wall_deathstar_lights, bespin_lights2, bespin_wall9, bespin_windows
+    
+swconquest-hologram:
+    hologram_text, swy_sign
+    
+swconquest-hologram-static:
+    hologram_char, hologram_imageset_1, hologram_imageset_2, hologram_symbols, swy_deflector_shield, swy_deflector_shield_red, swy_rebel_panel, swy_rebel_panel2, swy_rebel_panel3, swy_rebel_panel4, swy_sign_static
+    
+swconquest-lightsaber:
+    lightsaber_blend, lightsaber_pike
+    
+swconquest-planet: 
+    
+    
+swconquest-sarlacc:
+    sarlacc-tentacles
+    
+swconquest-glass:
+    swy_glass
+    
+swconquest-swytraffic-iron:
+    swc_traffic
