@@ -60,32 +60,33 @@ CUSTOM SHADERS AND THEIR MATERIALS (NEEDED FOR optimized GLSL techniques) typed 
 
 swconquest-galaxy:
     map_trees
-    
+
 swconquest-lava:
     lava_1
+
 swconquest-glow-iron:
     electro_staff, speeder_fc20, healing_station, player_chest_sw, taris_statue, terminal1, corellia_roads, coruscant_metal_1, coruscant_metal_2, coruscant_metal_3 
 
 swconquest-glow:
     blue_window_2, sw_ceiling_light, sw_light_blue, swy_rebel_panel_base, wall_deathstar2, wall_moncal_light, bespin_lights, cato_neimoidia_walls_lights, wall_deathstar_lights, bespin_lights2, bespin_wall9, bespin_windows
-    
+
 swconquest-hologram:
     hologram_text, swy_sign
-    
+
 swconquest-hologram-static:
     hologram_char, hologram_imageset_1, hologram_imageset_2, hologram_symbols, swy_deflector_shield, swy_deflector_shield_red, swy_rebel_panel, swy_rebel_panel2, swy_rebel_panel3, swy_rebel_panel4, swy_sign_static
-    
+
 swconquest-lightsaber:
     lightsaber_blend, lightsaber_pike
-    
+
 swconquest-planet: 
-    
-    
+    swy_Planet_Christophsis, swy_Planet_Coruscant, swy_Planet_Endor, swy_Planet_Taris, swy_Planet_Tatooine, swy_Planet_forest, swy_Planet_frozen, swy_Planet_lava, swy_Planet_raxusprime, swy_Planet_sarapin, swy_Planet_water, swy_geonosis, swy_kessel, swy_rePlanet_crater, swy_rePlanet_earth, swy_rePlanet_gas, swy_rePlanet_ice, swy_rePlanet_kashyyyk, swy_rePlanet_rock, swy_rePlanet_snow, swy_rePlanet_wilderness
+
 swconquest-sarlacc:
     sarlacc-tentacles
-    
+
 swconquest-glass:
     swy_glass
-    
+
 swconquest-swytraffic-iron:
     swc_traffic
