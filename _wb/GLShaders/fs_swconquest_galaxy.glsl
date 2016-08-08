@@ -26,7 +26,7 @@ void main ()
 
       Output_RGBColor.rg  += tex_colc.rg * 4.0;
       Output_RGBColor.rgb *= tex_colb.rgb * 1.5 + (tex_col.rgb / 14.0);
-      Output_RGBColor.rgb *= clamp((Tex0.x + 0.5) / (Tex0.y + 0.5), 0.0, 1.0);
+      Output_RGBColor.rgb *= (Tex0.x + 0.5) / (Tex0.y + 0.5);
 
       Output_RGBColor.rgb *= tex_col.r + tex_col.g;
 
