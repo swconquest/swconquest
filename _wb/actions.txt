@@ -1,33 +1,36 @@
 670
- stand 0 16777216  3
+ stand 0 16777216  4
   3 anim_human 50 52 1342177280 0 0 0 0  0.25 
   3 anim_human 60 62 1342177280 0 0 0 0  0.75 
+  3 anim_human 70 72 1342177280 0 0 0 0  0.25 
   3 anim_human 80 82 1358954496 0 0 0 0  0.5 
- stand_man 0 16777216  3
+ stand_man 0 16777216  2
   3.5 anim_human 90 100 1342177280 0 0 0 0  0.25 
   3.5 anim_human 110 120 1342177280 0 0 0 0  0.25 
-  11 stand_man 0 315 1342177280 0 0 0 0  0.25 
  stand_player_first_person 0 16777216  2
   3.5 anim_human 90 100 1342177280 0 0 0 0  0.25 
   3.5 anim_human 110 120 1342177280 0 0 0 0  0.25 
  jump 256 2197815298  1
-  1 jump 22 46 2 0 0 0 0 0.0 
+  0.6 sw_jump1 1 36 2 0 0 0 0  0.4 
  jump_loop 256 50331650  1
   0.5 jump_loop 0 14 268435460 0 0 0 0 0.0 
  jump_end 256 50331681  1
-  0.3 jump 48 55 3 0 0 0 0 0.0 
+  0.5 sw_jump1 30 1 2 0 0 0 0  0.3 
  jump_end_hard 256 50331681  1
   0.6 jump_end_hard 36 54 2 0 0 0 0 0.0 
  stand_unarmed 0 16777216  1
   8 noweapon_cstance 0 100 1342177280 0 0 0 0  0.25 
- stand_single 0 16777216  1
+ stand_single 0 16777216  2
   9 sword_loop01 0 200 1342177280 0 0 0 0  0.25 
- stand_greatsword 0 16777216  1
   6 greatsword_cstance 0 91 1342177280 0 0 0 0  0.25 
- stand_staff 0 16777216  1
-  2 staff_cstance 0 60 1342177280 0 0 0 0  0 
+ stand_greatsword 0 16777216  2
+  6 greatsword_cstance 0 91 1342177280 0 0 0 0  0.25 
+  2 anim_human 1100 1120 1342177280 0 0 0 0  0.1 
+ stand_staff 0 16777216  2
+  9 sw_single_saber_static 0 99 1342177280 0 0 0 0  0.25 
+  9 sword_loop01 0 200 1342177280 0 0 0 0  0.25 
  stand_crossbow 0 16777216  1
-  2 staff_cstance 0 60 1342177280 0 0 0 0  0 
+  6 new_rifle_stand 0 99 1342177280 0 0 0 0  0 
  turn_right 256 50331648  1
   0.95 stand_man 0 30 1342177280 0 0 0 0  0.25 
  turn_left 256 50331648  1
@@ -59,9 +62,9 @@
  run_forward 256 17825792  1
   0.8 run_man_forward 0 24 805306628 58726 0 0 0  0.4 
  run_forward_onehanded 256 17825792  1
-  0.8 run_man_forward_onehanded 0 24 805306624 58726 0 0 0  0.4 
+  0.7 swy_human_doublesaber_walk 0 33 805306624 58726 0 0 0  0.5 
  run_forward_staff 256 17825792  1
-  0.8 run_forward_staff 0 24 805306624 58726 0 0 0  0.4 
+  0.8 run_man_forward_onehanded 0 24 805306624 58726 0 0 0  0.4 
  run_forward_greatsword 256 17825792  1
   0.8 run_forward_greatsword 0 24 805306624 58726 0 0 0  0.4 
  run_forward_hips_right 256 17825792  1
@@ -93,11 +96,11 @@
  run_forward_left_hips_left 256 17825792  1
   0.8 run_forward_left_hips_left 0 22 805306628 58726 0 0 0  0.4 
  run_backward 256 17825792  1
-  0.7 run_backward 0 21 2415919364 58726 0 0 0  0.4 
+  1 run_man_forward 24 0 2415919364 58726 0 0 0  0.4 
  run_backward_onehanded 256 17825792  1
-  0.7 run_backward 0 21 2415919364 58726 0 0 0  0.4 
+  1 anim_human 7040 7000 2415919364 58726 0 0 0  0 
  run_backward_staff 256 17825792  1
-  0.7 run_backward_staff 0 21 2415919364 58726 0 0 0  0.4 
+  1 anim_human 7040 7000 2415919364 58726 0 0 0  0 
  run_backward_greatsword 256 17825792  1
   0.7 run_backward_twohanded 0 21 2415919364 58726 0 0 0  0.4 
  run_backward_hips_right 256 17825792  1
@@ -1154,22 +1157,21 @@
  horse_jump_end 256 50331681  1
   0.1 anim_horse 222 224 9 0 0 0 0 0.0 
  horse_turn_right 0 16777216  1
-  1 anim_horse 500 533 268435461 0 0 0 0 0.0 
+  1 sw_speeder_turn_right 0 39 268435461 0 0 0 0 0.0 
  horse_turn_left 0 16777216  1
-  1 anim_horse 450 483 268435461 0 0 0 0 0.0 
+  1 sw_speeder_turn_left 0 39 268435461 0 0 0 0 0.0 
  horse_turn_right_head 0 16777216  1
-  1 anim_horse 500 533 268435461 0 0 0 0 0.0 
+  1 sw_speeder_turn_right 0 39 268435461 0 0 0 0 0.0 
  horse_turn_left_head 0 16777216  1
-  1 anim_horse 450 483 268435461 0 0 0 0 0.0 
- horse_slow 0 16777216  2
-  3 anim_horse 0 31 268435456 0 0 0 0 0.0 
-  1.5 anim_horse 0 31 268435456 0 0 0 0 0.0 
+  1 sw_speeder_turn_left 0 39 268435461 0 0 0 0 0.0 
+ horse_slow 0 16777216  1
+  1.5 sw_speeder_stand 0 0 268435456 0 0 0 0 0.0 
  horse_fall_in_place 1026 83886160  1
-  4 anim_horse 0 38 529 0 0 0 0 0.0 
+  4 anim_horse 0 0 529 0 0 0 0 0.0 
  horse_fall_right 1026 83886160  1
-  1.75 anim_horse 350 375 521 153 0 0 0  0.5 
+  1.75 anim_horse 350 350 521 0 0 0 0  0 
  horse_fall_roll 1026 83886160  1
-  2.5 anim_horse 400 428 521 76 0 0 0  1.8 
+  4 anim_horse 0 0 529 0 0 0 0 0.0 
  unused_horse_anim_01 0 0  1
   1 anim_horse 0 1 0 0 0 0 0 0.0 
  unused_horse_anim_02 0 0  1
