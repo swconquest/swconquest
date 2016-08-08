@@ -20,24 +20,31 @@ attribute vec2 inTexCoord;
 varying float Fog;
 varying vec4 Color;
 varying vec2 Tex0;
-void main ()
-{ 
-	gl_Position = matWorldViewProj * vec4(inPosition.xyz, 1.0);
 
-	vec3 P = (matWorldView * vec4(inPosition, 1.0)).xyz; //position in view space
+float get_fog_amount(float distance_to_view, float ground_height)
+{
+	// return saturate((fFogEnd - d) / (fFogEnd - fFogStart));
+	return 1.0 / exp2(( length(distance_to_view) - (ground_height * 2.0) ) * fFogDensity);
+}
+
+void main ()
+{
+    vec4 vertPos = vec4(inPosition.xyz, 1.0);
+
+	gl_Position = matWorldViewProj * vertPos;
+
+	vec3 P = (matWorldView * vertPos).xyz; //position in view space
 
 	//apply fog
 	float d = length(P);
 
-	//float3 U = mul(matWorld, inPosition).xyz;
-	//float  u = length(U.z); //Exponential HeightFog! :)
-	Fog = 1.0; //get_fog_amount(d,u);
+	vec3  U = (matWorld * vertPos).xyz;
+	float u = length(U.z); //Exponential HeightFog! :)
+	Fog = get_fog_amount(d, u);
 
-	
 	Tex0 = inTexCoord;
 	Color = inColor0 * vMaterialColor;
 	Color.b += (d + 0.2);
 	Color.a  = 0.8;
-  
 }
 

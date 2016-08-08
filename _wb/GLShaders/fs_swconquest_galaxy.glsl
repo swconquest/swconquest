@@ -28,7 +28,7 @@ void main ()
   Output_RGBColor.rgb *= tex_col.r + tex_col.g;
 
   Output_RGBColor.a    = max(tex_colb.a, Output_RGBColor.a / 2.0);
-  Output_RGBColor.a   /= length(tex_colb.rgb);
+  Output_RGBColor.a   /= tex_colb.r;
 
   Output_RGBColor.rgb = pow(Output_RGBColor.rgb, vec3(output_gamma_inv));
 
