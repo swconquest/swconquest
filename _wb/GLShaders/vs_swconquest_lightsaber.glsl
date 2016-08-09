@@ -1,3 +1,5 @@
+/* swyter -- custom swc glsl shaders for warband, ported from hlsl by hand */
+
 uniform vec4 vLightDiffuse[4];
 uniform vec4 vMaterialColor;
 uniform vec4 vSunDir;
