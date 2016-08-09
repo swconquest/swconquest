@@ -43,7 +43,7 @@ void main ()
   gl_Position = matWorldViewProj * vec4(inPosition.xyz, 1.0);
   Tex0 = inTexCoord;
 
-  float time_var_mod = time_var + gl_Position.z; //a little of variation never looks bad :)
+  float time_var_mod = time_var + inPosition.z; //a little of variation never looks bad :)
 
   if (isAnimated)
   {
