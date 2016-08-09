@@ -25,6 +25,6 @@ void main ()
 
   tmpvar_2.xyz = pow (tmpvar_2.xyz, output_gamma_inv.xyz);
   tmpvar_2.xyz = mix (vFogColor.xyz, tmpvar_2.xyz, Fog);
-  gl_FragColor = tmpvar_2;
+  gl_FragColor = vec4(1.,0.,1.,1.); //tmpvar_2;
 }
 
