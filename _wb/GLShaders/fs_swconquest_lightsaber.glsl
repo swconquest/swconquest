@@ -7,15 +7,14 @@ varying vec2 Tex0;
 varying vec4 SunLight;
 void main ()
 {
-  vec4 tex_col_1;
-  vec4 tmpvar_2;
-  vec4 tmpvar_3;
-  tmpvar_3 = texture2D (diffuse_texture, Tex0);
-  tex_col_1.w = tmpvar_3.w;
-  tex_col_1.xyz = pow (tmpvar_3.xyz, vec3(2.2, 2.2, 2.2));
-  tmpvar_2 = (tex_col_1 * (Color + SunLight));
-  tmpvar_2.xyz = pow (tmpvar_2.xyz, output_gamma_inv.xyz);
-  tmpvar_2.xyz = mix (vFogColor.xyz, tmpvar_2.xyz, Fog);
-  gl_FragColor = tmpvar_2;
+  vec4 Output_RGBColor = texture2D(diffuse_texture, Tex0);
+
+  //we don't want have a blinking hilt :-)
+  if(Tex0.x <= 0.8)
+  {
+      Output_RGBColor.a *= Color.a;
+  }
+
+  gl_FragColor = Output_RGBColor;
 }
 
