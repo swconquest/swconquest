@@ -18,7 +18,8 @@ float saturate(float arg)
 
 void main ()
 {
-  Tex0.x += time_var / 1200.0; // <-- rotation wasn't working because of time_var only changing in action mode
+  vec2 Tex    = Tex0;
+       Tex.x += time_var / 1200.0; // <-- rotation wasn't working because of time_var only changing in action mode
 
   vec3 normal   = normalize(worldNormal);
   vec3 lightVec = normalize(worldPos);
@@ -26,10 +27,10 @@ void main ()
   float diffuse  = saturate(dot(normal, lightVec - 2.0));
 
   //@> The final shading is a composition of the diagonal pass and the base texture + rim lighting...
-  vec4 RGBColor = texture2D(diffuse_texture, Tex0) - (diffuse.x / 2.2);
+  vec4 RGBColor = texture2D(diffuse_texture, Tex) - (diffuse / 2.2);
 
   //@> Rimlight
-  vec3 vHalf = normalize(vCameraPos - worldPos);
+  vec3 vHalf = normalize(vCameraPos.xyz - worldPos);
   RGBColor.rgb += (1.0 - saturate( dot( vHalf, normal ) * 2.0 )) / 2.0;
 
   //Output.RGBColor.rgb *= In.Color; --> had to comment it out because of the hardcoded vertex color lightning which makes the planets pitch black at night, sigh :(

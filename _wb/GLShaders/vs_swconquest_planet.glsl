@@ -25,6 +25,10 @@ varying vec3 SkyLightDir;
 varying vec4 PointLightDir;
 varying vec4 ShadowTexCoord;
 varying vec3 ViewDir;
+
+varying vec3 worldPos;
+varying vec3 worldNormal;
+
 void main ()
 {
   vec4 tmpvar_1;
@@ -41,6 +45,7 @@ void main ()
   vec4 tmpvar_9;
   tmpvar_9 = (matWorld * tmpvar_1);
   vWorldPos_3 = tmpvar_9;
+  worldPos = vWorldPos_3.xyz;
   vec4 tmpvar_10;
   tmpvar_10.w = 0.0;
   tmpvar_10.xyz = inNormal;
@@ -78,6 +83,7 @@ void main ()
   vWorldPos_16 = vWorldPos_3;
   vec3 vWorldN_17;
   vWorldN_17 = tmpvar_11;
+  worldNormal = vWorldN_17;
   vec4 total_19;
   total_19 = vec4(0.0, 0.0, 0.0, 0.0);
   for (int j_18 = 0; j_18 < iLightPointCount; j_18++) {
