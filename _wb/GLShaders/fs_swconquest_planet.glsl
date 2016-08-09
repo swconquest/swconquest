@@ -19,7 +19,7 @@ float saturate(float arg)
 void main ()
 {
   vec2 Tex    = Tex0;
-       Tex.x += time_var / 1200.0; // <-- rotation wasn't working because of time_var only changing in action mode
+     //Tex.x += time_var / 1200.0; // <-- rotation wasn't working because of time_var only changing in action mode
 
   vec3 normal   = normalize(worldNormal);
   vec3 lightVec = normalize(worldPos);

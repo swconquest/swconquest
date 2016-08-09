@@ -22,15 +22,32 @@ varying vec4 Color;
 varying vec2 Tex0;
 varying vec4 SunLight;
 varying vec4 ShadowTexCoord;
+
+uniform float time_var;
+
+float saturate(float arg)
+{
+  return clamp(arg, 0.0, 1.0);
+}
+
 void main ()
 {
-  vec4 tmpvar_1;
-  tmpvar_1.w = 1.0;
-  tmpvar_1.xyz = inPosition;
+  vec4 vert_position;
+  vert_position.w = 1.0;
+  vert_position.xyz = inPosition;
+
+  // --
+
+  vert_position.x +=sin(time_var-vert_position.z)/4.0*saturate(vert_position.z);
+  vert_position.y +=cos(time_var-vert_position.x)/4.0*saturate(vert_position.z);
+  vert_position.z +=sin(time_var-vert_position.y)/2.0*saturate(vert_position.z); //move the tentacles in a menacing way :)
+
+  // --
+
   vec4 diffuse_light_2;
   vec4 tmpvar_3;
   vec4 tmpvar_4;
-  tmpvar_3 = (matWorldViewProj * tmpvar_1);
+  tmpvar_3 = (matWorldViewProj * vert_position);
   vec4 tmpvar_5;
   tmpvar_5.w = 0.0;
   tmpvar_5.xyz = inNormal;
@@ -41,7 +58,7 @@ void main ()
     dot (tmpvar_6, -(vSkyLightDir.xyz))
   , 0.0, 1.0) * vSkyLightColor.xyz));
   vec4 vWorldPos_7;
-  vWorldPos_7 = (matWorld * tmpvar_1);
+  vWorldPos_7 = (matWorld * vert_position);
   vec3 vWorldN_8;
   vWorldN_8 = tmpvar_6;
   vec4 total_10;
@@ -62,7 +79,7 @@ void main ()
   tmpvar_13.w = 1.0;
   tmpvar_13.xyz = vSunColor.xyz;
   vec3 tmpvar_14;
-  tmpvar_14 = (matWorldView * tmpvar_1).xyz;
+  tmpvar_14 = (matWorldView * vert_position).xyz;
   gl_Position = tmpvar_3;
   Fog = (1.0/(exp2((
     sqrt(dot (tmpvar_14, tmpvar_14))
