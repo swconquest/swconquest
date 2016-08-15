@@ -652,3 +652,4 @@ qst_scout_waypoints_wp_3_visited
 qst_train_peasants_against_bandits_num_hours_trained
 total_init_done
 g_bank_init
+$players_kingdom
