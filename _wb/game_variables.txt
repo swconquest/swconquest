@@ -1407,102 +1407,102 @@ tactical_game_ui_watching_text_flags = 0x00000010
 tactical_game_ui_watching_text_color = 0xFFFFFFFF
 
 #main menu (initial)
-initial_tutorial_button_position_x = 0.05
+initial_tutorial_button_position_x = 0.5
 initial_tutorial_button_position_y = 0.48
 initial_tutorial_button_size_x = 0.185
 initial_tutorial_button_size_y = 0.031
 initial_tutorial_button_text_size_x = 0.022
 initial_tutorial_button_text_size_y = 0.030
-initial_tutorial_button_text_flags = 0x10
+initial_tutorial_button_text_flags = 0x8
 initial_tutorial_button_text_color = 0xFF110000
 initial_tutorial_button_highlight_text_color = 0xFFFFDD00
 
-initial_start_new_game_button_position_x = 0.05
+initial_start_new_game_button_position_x = 0.5
 initial_start_new_game_button_position_y = 0.44
 initial_start_new_game_button_size_x = 0.185
 initial_start_new_game_button_size_y = 0.031
 initial_start_new_game_button_text_size_x = 0.022
 initial_start_new_game_button_text_size_y = 0.030
-initial_start_new_game_button_text_flags = 0x10
+initial_start_new_game_button_text_flags = 0x8
 initial_start_new_game_button_text_color = 0xFF110000
 initial_start_new_game_button_highlight_text_color = 0xFFFFDD00
 
-initial_resume_game_button_position_x = 0.05
+initial_resume_game_button_position_x = 0.5
 initial_resume_game_button_position_y = 0.40
 initial_resume_game_button_size_x = 0.185
 initial_resume_game_button_size_y = 0.031
 initial_resume_game_button_text_size_x = 0.022
 initial_resume_game_button_text_size_y = 0.030
-initial_resume_game_button_text_flags = 0x10
+initial_resume_game_button_text_flags = 0x8
 initial_resume_game_button_text_color = 0xFF110000
 initial_resume_game_button_highlight_text_color = 0xFFFFDD00
 
-initial_multiplayer_button_position_x = 0.05
+initial_multiplayer_button_position_x = 0.5
 initial_multiplayer_button_position_y = 0.36
 initial_multiplayer_button_size_x = 0.185
 initial_multiplayer_button_size_y = 0.031
 initial_multiplayer_button_text_size_x = 0.022
 initial_multiplayer_button_text_size_y = 0.030
-initial_multiplayer_button_text_flags = 0x10
+initial_multiplayer_button_text_flags = 0x8
 initial_multiplayer_button_text_color = 0xFF110000
 initial_multiplayer_button_highlight_text_color = 0xFFFFDD00
 
-initial_custom_battle_button_position_x = 0.05
+initial_custom_battle_button_position_x = 0.5
 initial_custom_battle_button_position_y = 0.32
 initial_custom_battle_button_size_x = 0.185
 initial_custom_battle_button_size_y = 0.031
 initial_custom_battle_button_text_size_x = 0.022
 initial_custom_battle_button_text_size_y = 0.030
-initial_custom_battle_button_text_flags = 0x10
+initial_custom_battle_button_text_flags = 0x8
 initial_custom_battle_button_text_color = 0xFF110000
 initial_custom_battle_button_highlight_text_color = 0xFFFFDD00
 
-initial_options_button_position_x = 0.05
+initial_options_button_position_x = 0.5
 initial_options_button_position_y = 0.28
 initial_options_button_size_x = 0.185
 initial_options_button_size_y = 0.031
 initial_options_button_text_size_x = 0.022
 initial_options_button_text_size_y = 0.030
-initial_options_button_text_flags = 0x10
+initial_options_button_text_flags = 0x8
 initial_options_button_text_color = 0xFF110000
 initial_options_button_highlight_text_color = 0xFFFFDD00
 
-initial_credits_button_position_x = 0.05
+initial_credits_button_position_x = 0.5
 initial_credits_button_position_y = 0.24
 initial_credits_button_size_x = 0.185
 initial_credits_button_size_y = 0.031
 initial_credits_button_text_size_x = 0.022
 initial_credits_button_text_size_y = 0.030
-initial_credits_button_text_flags = 0x10
+initial_credits_button_text_flags = 0x8
 initial_credits_button_text_color = 0xFF110000
 initial_credits_button_highlight_text_color = 0xFFFFDD00
 
-initial_quit_button_position_x = 0.05
+initial_quit_button_position_x = 0.5
 initial_quit_button_position_y = 0.20
 initial_quit_button_size_x = 0.185
 initial_quit_button_size_y = 0.025
 initial_quit_button_text_size_x = 0.022
 initial_quit_button_text_size_y = 0.030
-initial_quit_button_text_flags = 0x10
+initial_quit_button_text_flags = 0x8
 initial_quit_button_text_color = 0xFF110000
 initial_quit_button_highlight_text_color = 0xFFFFDD00
 
-initial_game_logo_position_x = 0.045
+initial_game_logo_position_x = 0.3
 initial_game_logo_position_y = 0.54
-initial_game_logo_size_x = 0.2
-initial_game_logo_size_y = 0.07
+initial_game_logo_size_x = 0.6
+initial_game_logo_size_y = 0.29
 
 initial_version_info_position_x = 0.18
 initial_version_info_position_y = 0.525
-initial_version_info_text_size_x = 0.016
-initial_version_info_text_size_y = 0.016
+initial_version_info_text_size_x = 1.0
+initial_version_info_text_size_y = 1.0
 initial_version_info_text_flags = 0x200
 initial_version_info_text_color = 0xFF110000
 
 initial_module_version_info_position_x = 0.029
 initial_module_version_info_position_y = 0.475
-initial_module_version_info_size_x = 0.15
-initial_module_version_info_size_y = 0.03
+initial_module_version_info_size_x = 1.0
+initial_module_version_info_size_y = 1.0
 initial_module_version_info_text_size_x = 0.014
 initial_module_version_info_text_size_y = 0.014
 initial_module_version_info_text_flags = 0x8
