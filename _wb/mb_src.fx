@@ -747,6 +747,9 @@ PS_OUTPUT ps_main_no_shadow(VS_OUTPUT_FONT_X In, uniform const bool isgalaxy=fal
     Output.RGBColor.a    = max(tex_colb.a,  Output.RGBColor.a/2);
     Output.RGBColor.a   /= tex_colb.rgb;
     //Output.RGBColor.a += (In.Color.a) * (In.Color.a) * (3 - 2 * (In.Color.a));
+    
+    /* clamp output values to combat HDR glitching in Warband */
+    Output.RGBColor = saturate(Output.RGBColor);
   }
   
 	//Output.RGBColor = In.Color * Output.RGBColor;
@@ -1032,11 +1035,12 @@ PS_OUTPUT ps_specular_alpha(PS_INPUT_SPECULAR_ALPHA In, uniform const int PcfMod
 	return Output;
 }
 
-PS_OUTPUT ps_swconquest_planet(PS_INPUT_SPECULAR_ALPHA In)
+PS_OUTPUT ps_swconquest_planet(PS_INPUT_SPECULAR_ALPHA In, uniform const bool dynamic = false)
 {
 	PS_OUTPUT Output;
 
-	//In.Tex0.x += time_var/1200; <-- rotation isn't working because of time_var only changing in action mode
+	if (dynamic)
+		In.Tex0.x += time_var / 120; //<-- rotation isn't working because of time_var only changing in action mode
 
 	float3 normal   = normalize(In.worldNormal);
 	float3 lightVec = normalize(In.worldPos);
@@ -1049,6 +1053,9 @@ PS_OUTPUT ps_swconquest_planet(PS_INPUT_SPECULAR_ALPHA In)
 	//@> Rimlight
 	float3 vHalf = normalize(vCameraPos - In.worldPos);
 	Output.RGBColor.rgb += (1.0f - saturate( dot( vHalf, normal ) *2 ))/2;
+ 
+     /* clamp output values to combat HDR glitching in Warband */
+    Output.RGBColor = saturate(Output.RGBColor);
 
 	//Output.RGBColor.rgb *= In.Color; --> had to comment it out because of the hardcoded vertex color lightning which makes the planets pitch black at night, sigh :(
 	return Output;
@@ -5857,6 +5864,15 @@ DEFINE_TECHNIQUES(tree_billboards_dot3_alpha, vs_main_bump_billboards, ps_main_b
 
 
 technique swconquest_planet
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_specular_alpha(PCF_NONE);
+		PixelShader  = compile ps_2_0 ps_swconquest_planet(true);
+	}
+}
+
+technique swconquest_planet_static
 {
 	pass P0
 	{
