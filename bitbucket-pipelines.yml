@@ -18,7 +18,7 @@ pipelines:
           - hg log
           - hg log -l 1 --template "{rev}\n"
           - hg log -l 1 --template "{desc}\n" # | grep -i '+workshop'
-          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/mbw_workshop_uploader_glsl_pdf.exe
+          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/mbw_workshop_uploader_glsl.exe
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/steam_api.dll
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/Steam.exe
           - Xvfb :1 -screen 0 800x600x16 &
@@ -37,4 +37,4 @@ pipelines:
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/native_test.ini
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/swconquest.png
           - echo 48700 > steam_appid.txt
-          - yes NO | env WINEDEBUG=-all wine mbw_workshop_uploader_glsl_pdf.exe update -mod native_test.ini -id 746900895 -icon swconquest.png -changes "Test with actual stuff."
+          - yes NO | env WINEDEBUG=-all wine mbw_workshop_uploader_glsl.exe update -mod native_test.ini -id 746900895 -icon swconquest.png -changes "Test with actual stuff."
