@@ -28,9 +28,11 @@ pipelines:
           - WINEDEBUG=-all wine steam -silent -debug_steamapi -forceservice -no-browser -no-cef-sandbox -opengl -login swyter "$STEAM_PASSWORD" &
           - sleep 135
           - chmod +x _wb/_setup_symlinks.sh
-          - ./_wb/_setup_symlinks.sh
           - chmod +x _wb/_strip_unused.sh
-          - ./_wb/_strip_unused.sh
+          - cd _wb
+          - ./_setup_symlinks.sh
+          - ./_strip_unused.sh
+          - cd ..
           - mv _wb 'Native with spaces'
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/native_test.ini
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/swconquest.png
