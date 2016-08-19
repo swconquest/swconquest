@@ -1,0 +1,32 @@
+# This is a sample build configuration for other languages.
+# Only use spaces to indent your .yml configuration.
+# -----
+# You can specify a custom docker image from Dockerhub as your build environment.
+image: pritunl/archlinux 
+
+pipelines:
+  default:
+    - step:
+        script:
+          - uname -a
+          - pwd
+          - hg log
+          - hg log -l 1 --template "{rev}\n"
+          - hg log -l 1 --template "{desc}\n" # | grep -i '+workshop'
+          - tree
+          - echo '[multilib]' >> /etc/pacman.conf
+          - echo 'Include = /etc/pacman.d/mirrorlist' >> /etc/pacman.conf
+          - pacman -Sy tree wine-staging xorg-server-xvfb --noconfirm --noprogressbar --needed
+          - mkdir ~/steamcmd
+          - cd ~/steamcmd
+          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/mbw_workshop_uploader_glsl_pdf.exe
+          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/steam_api.dll
+          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/Steam.exe
+          - Xvfb :1 -screen 0 800x600x16 &
+          - export DISPLAY=:1
+          - tree .
+          - WINEDLLOVERRIDES="mscoree,mshtml=" wineboot -u
+          - WINEDEBUG=-all wine steam -silent -debug_steamapi -forceservice -no-browser -no-cef-sandbox -opengl -login swyter "$STEAM_PASSWORD" &
+          - sleep 120
+          - echo 48700 > steam_appid.txt
+          - WINEDEBUG=-all wine mbw_workshop_uploader_glsl_pdf.exe printPublishedFiles
