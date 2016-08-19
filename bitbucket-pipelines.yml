@@ -9,6 +9,7 @@ pipelines:
     - step:
         script:
           - uname -a
+          - echo $BITBUCKET_COMMIT $BITBUCKET_BRANCH $BITBUCKET_REPO_SLUG $BITBUCKET_REPO_OWNER
           - pwd
           - echo '[multilib]' >> /etc/pacman.conf
           - echo 'Include = /etc/pacman.d/mirrorlist' >> /etc/pacman.conf
@@ -17,9 +18,6 @@ pipelines:
           - hg log
           - hg log -l 1 --template "{rev}\n"
           - hg log -l 1 --template "{desc}\n" # | grep -i '+workshop'
-          - tree
-          - mkdir ~/steamcmd
-          - cd    ~/steamcmd
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/mbw_workshop_uploader_glsl_pdf.exe
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/steam_api.dll
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/Steam.exe
@@ -29,10 +27,10 @@ pipelines:
           - WINEDLLOVERRIDES="mscoree,mshtml=" wineboot -u
           - WINEDEBUG=-all wine steam -silent -debug_steamapi -forceservice -no-browser -no-cef-sandbox -opengl -login swyter "$STEAM_PASSWORD" &
           - sleep 135
+          - chmod +x _wb/_setup_symlinks.sh
+          - #_wb/_setup_symlinks.sh
+          - mv _wb 'Native with spaces'
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/native_test.ini
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/swconquest.png
-          - echo 'module_title     = _wb'           > workshop_test.ini
-          - echo 'file_module_name = _wb'          >> workshop_test.ini
-          - echo 'visibility       = friends only' >> workshop_test.ini
           - echo 48700 > steam_appid.txt
-          - WINEDEBUG=-all yes NO | wine mbw_workshop_uploader_glsl_pdf.exe update -mod workshop_test.ini -id 746900895 -icon swconquest.png -changes Dummyestest.
+          - yes NO | env WINEDEBUG=-all wine mbw_workshop_uploader_glsl_pdf.exe update -mod native_test.ini -id 746900895 -icon swconquest.png -changes "Test with actual stuff. ${hg log -l 1 --template '{desc}\n'}"
