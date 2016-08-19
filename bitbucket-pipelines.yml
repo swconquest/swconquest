@@ -34,9 +34,12 @@ pipelines:
           - cd _wb
           - ./_setup_symlinks.sh
           - ./_strip_unused.sh
+          - tree .
           - cd ..
           - mv _wb 'Native with spaces'
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/native_test.ini
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/swconquest.png
           - echo 48700 > steam_appid.txt
           - yes NO | env WINEDEBUG=-all wine mbw_workshop_uploader_glsl.exe update -mod native_test.ini -id 746900895 -icon swconquest.png -changes "Test with actual stuff."
+          - sleep 10
+          - killall -I steam
