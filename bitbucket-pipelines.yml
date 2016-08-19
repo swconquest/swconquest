@@ -14,7 +14,7 @@ pipelines:
           - echo '[multilib]' >> /etc/pacman.conf
           - echo 'Include = /etc/pacman.d/mirrorlist' >> /etc/pacman.conf
           - echo 'Server = http://mirror.lty.me/archlinux/$repo/os/$arch' > /etc/pacman.d/mirrorlist
-          - pacman -Sy tree wine-staging xorg-server-xvfb mercurial --noconfirm --noprogressbar --needed
+          - pacman -Sy tree wine-staging xorg-server-xvfb mercurial unzip --noconfirm --noprogressbar --needed
           - hg log
           - hg log -l 1 --template "{rev}\n"
           - hg log -l 1 --template "{desc}\n" # | grep -i '+workshop'
@@ -31,8 +31,16 @@ pipelines:
           - sleep 135
           - chmod +x _wb/_setup_symlinks.sh
           - chmod +x _wb/_strip_unused.sh
+          - curl https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/vanilla_glsl_opt.zip -L -O
+          - unzip vanilla_glsl_opt.zip -d _wb
           - cd _wb
+          - cp -rf ../Languages languages
+          - cp -rf ../Resource  .
+          - cp -rf ../SceneObj  .
+          - cp -rf ../Music     .
+          - cp -rf ../Sounds    .
           - ./_setup_symlinks.sh
+          - mv GLShaders/*.glsl GLShadersOptimized/
           - ./_strip_unused.sh
           - tree .
           - cd ..

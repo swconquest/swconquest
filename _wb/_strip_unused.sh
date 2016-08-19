@@ -11,9 +11,11 @@ rm -rf ./Sounds/_*
 
 rm -rf ./Textures/_*
 
-rm -rf ./_*
+rm -rf ./Resource/_*
 
 rm -f  ./*.bat
 rm -f  ./*.exe
 rm -f  ./*.h
 rm -f  ./*src*
+
+rm -rf ./_*
