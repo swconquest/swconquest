@@ -7,7 +7,6 @@ ln -s ../module.ini .
 
 ln -s ../Languages languages
 ln -s ../Music .
-ln -s ../Resource .
 ln -s ../SceneObj .
 ln -s ../Sounds .
 

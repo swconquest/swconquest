@@ -24,8 +24,10 @@ pipelines:
           - Xvfb :1 -screen 0 800x600x16 &
           - export DISPLAY=:1
           - tree .
+          - mkdir steam && cd steam
           - WINEDLLOVERRIDES="mscoree,mshtml=" wineboot -u
           - WINEDEBUG=-all wine steam -silent -debug_steamapi -forceservice -no-browser -no-cef-sandbox -opengl -login swyter "$STEAM_PASSWORD" &
+          - cd ..
           - sleep 135
           - chmod +x _wb/_setup_symlinks.sh
           - chmod +x _wb/_strip_unused.sh
