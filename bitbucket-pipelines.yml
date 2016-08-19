@@ -10,15 +10,16 @@ pipelines:
         script:
           - uname -a
           - pwd
+          - echo '[multilib]' >> /etc/pacman.conf
+          - echo 'Include = /etc/pacman.d/mirrorlist' >> /etc/pacman.conf
+          - echo 'Server = http://mirror.lty.me/archlinux/$repo/os/$arch' > /etc/pacman.d/mirrorlist
+          - pacman -Sy tree wine-staging xorg-server-xvfb mercurial --noconfirm --noprogressbar --needed
           - hg log
           - hg log -l 1 --template "{rev}\n"
           - hg log -l 1 --template "{desc}\n" # | grep -i '+workshop'
           - tree
-          - echo '[multilib]' >> /etc/pacman.conf
-          - echo 'Include = /etc/pacman.d/mirrorlist' >> /etc/pacman.conf
-          - pacman -Sy tree wine-staging xorg-server-xvfb --noconfirm --noprogressbar --needed
           - mkdir ~/steamcmd
-          - cd ~/steamcmd
+          - cd    ~/steamcmd
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/mbw_workshop_uploader_glsl_pdf.exe
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/steam_api.dll
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/Steam.exe
@@ -27,6 +28,11 @@ pipelines:
           - tree .
           - WINEDLLOVERRIDES="mscoree,mshtml=" wineboot -u
           - WINEDEBUG=-all wine steam -silent -debug_steamapi -forceservice -no-browser -no-cef-sandbox -opengl -login swyter "$STEAM_PASSWORD" &
-          - sleep 120
+          - sleep 135
+          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/native_test.ini
+          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/swconquest.png
+          - echo 'module_title     = _wb'           > workshop_test.ini
+          - echo 'file_module_name = _wb'          >> workshop_test.ini
+          - echo 'visibility       = friends only' >> workshop_test.ini
           - echo 48700 > steam_appid.txt
-          - WINEDEBUG=-all wine mbw_workshop_uploader_glsl_pdf.exe printPublishedFiles
+          - WINEDEBUG=-all yes NO | wine mbw_workshop_uploader_glsl_pdf.exe update -mod workshop_test.ini -id 746900895 -icon swconquest.png -changes Dummyestest.
