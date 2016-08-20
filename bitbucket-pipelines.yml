@@ -38,8 +38,8 @@ pipelines:
           - cp -r ../Languages   languages
           - mv Resource _wb_res
           - cp -r ../Resource    Resource
-          - mv _wb_res/*         Resource/
-          - rm _wb_res
+          - mv     _wb_res/*     Resource/
+          - rm -rf _wb_res
           - cp -r ../Textures/*  Textures/
           - cp -r ../SceneObj    .
           - cp -r ../Music       .
