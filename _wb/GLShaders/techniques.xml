@@ -977,6 +977,11 @@
 			<vertex_shader name="vs_main_false.glsl"/>
 			<fragment_shader name="ps_main.glsl"/>
 		</technique>
+		<!-- swconquest-planet-static - implemented -->
+		<technique name="swconquest_planet_static">
+			<vertex_shader name="vs_main_false.glsl"/>
+			<fragment_shader name="ps_main.glsl"/>
+		</technique>
 
 		<!-- swconquest-sarlacc - implemented -->
 		<technique name="swconquest_sarlacc">

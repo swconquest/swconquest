@@ -9,6 +9,7 @@ uniform mat4 matWorldViewProj;
 uniform mat4 matWorldView;
 uniform mat4 matWorld;
 uniform mat4 matMotionBlur;
+uniform mat4 matSunViewProj;
 uniform mat4 matViewProj;
 uniform vec4 vLightPosDir[4];
 uniform vec4 vCameraPos;
@@ -38,34 +39,33 @@ void main ()
   vec3 tmpvar_6;
   vec4 tmpvar_7;
   vec4 tmpvar_8;
+  tmpvar_8 = (matWorld * tmpvar_1);
+  vWorldPos_3 = tmpvar_8;
   vec4 tmpvar_9;
-  tmpvar_9 = (matWorld * tmpvar_1);
-  vWorldPos_3 = tmpvar_9;
-  vec4 tmpvar_10;
-  tmpvar_10.w = 0.0;
-  tmpvar_10.xyz = inNormal;
-  vec3 tmpvar_11;
-  tmpvar_11 = normalize((matWorld * tmpvar_10).xyz);
+  tmpvar_9.w = 0.0;
+  tmpvar_9.xyz = inNormal;
+  vec3 tmpvar_10;
+  tmpvar_10 = normalize((matWorld * tmpvar_9).xyz);
   if (bUseMotionBlur) {
+    vec4 tmpvar_11;
+    tmpvar_11 = (matMotionBlur * tmpvar_1);
     vec4 tmpvar_12;
-    tmpvar_12 = (matMotionBlur * tmpvar_1);
-    vec4 tmpvar_13;
-    tmpvar_13 = normalize((tmpvar_12 - tmpvar_9));
+    tmpvar_12 = normalize((tmpvar_11 - tmpvar_8));
+    float tmpvar_13;
+    tmpvar_13 = dot (tmpvar_10, tmpvar_12.xyz);
     float tmpvar_14;
-    tmpvar_14 = dot (tmpvar_11, tmpvar_13.xyz);
-    float tmpvar_15;
-    if ((tmpvar_14 > 0.1)) {
-      tmpvar_15 = 1.0;
+    if ((tmpvar_13 > 0.1)) {
+      tmpvar_14 = 1.0;
     } else {
-      tmpvar_15 = 0.0;
+      tmpvar_14 = 0.0;
     };
-    vWorldPos_3 = mix (tmpvar_9, tmpvar_12, (tmpvar_15 * clamp (
+    vWorldPos_3 = mix (tmpvar_8, tmpvar_11, (tmpvar_14 * clamp (
       (inPosition.y + 0.15)
     , 0.0, 1.0)));
     vVertexColor_2.w = ((clamp (
       (0.5 - inPosition.y)
     , 0.0, 1.0) + clamp (
-      mix (1.1, -0.6999999, clamp ((dot (tmpvar_11, tmpvar_13.xyz) + 0.5), 0.0, 1.0))
+      mix (1.1, -0.6999999, clamp ((dot (tmpvar_10, tmpvar_12.xyz) + 0.5), 0.0, 1.0))
     , 0.0, 1.0)) + 0.25);
   };
   if (bUseMotionBlur) {
@@ -74,59 +74,59 @@ void main ()
     tmpvar_4 = (matWorldViewProj * tmpvar_1);
   };
   tmpvar_5 = vVertexColor_2.zyxw;
-  vec4 vWorldPos_16;
-  vWorldPos_16 = vWorldPos_3;
-  vec3 vWorldN_17;
-  vWorldN_17 = tmpvar_11;
-  vec4 total_19;
-  total_19 = vec4(0.0, 0.0, 0.0, 0.0);
-  for (int j_18 = 0; j_18 < iLightPointCount; j_18++) {
-    int tmpvar_20;
-    tmpvar_20 = iLightIndices[j_18];
-    vec3 tmpvar_21;
-    tmpvar_21 = (vLightPosDir[tmpvar_20].xyz - vWorldPos_16.xyz);
-    total_19 = (total_19 + ((
-      clamp (dot (vWorldN_17, normalize(tmpvar_21)), 0.0, 1.0)
-     * vLightDiffuse[tmpvar_20]) * (1.0/(
-      dot (tmpvar_21, tmpvar_21)
+  vec4 vWorldPos_15;
+  vWorldPos_15 = vWorldPos_3;
+  vec3 vWorldN_16;
+  vWorldN_16 = tmpvar_10;
+  vec4 total_18;
+  total_18 = vec4(0.0, 0.0, 0.0, 0.0);
+  for (int j_17 = 0; j_17 < iLightPointCount; j_17++) {
+    int tmpvar_19;
+    tmpvar_19 = iLightIndices[j_17];
+    vec3 tmpvar_20;
+    tmpvar_20 = (vLightPosDir[tmpvar_19].xyz - vWorldPos_15.xyz);
+    total_18 = (total_18 + ((
+      clamp (dot (vWorldN_16, normalize(tmpvar_20)), 0.0, 1.0)
+     * vLightDiffuse[tmpvar_19]) * (1.0/(
+      dot (tmpvar_20, tmpvar_20)
     ))));
   };
-  tmpvar_6 = total_19.xyz;
-  vec3 tmpvar_22;
-  tmpvar_22 = normalize((vCameraPos.xyz - vWorldPos_3.xyz));
-  vec3 vWorldPos_23;
-  vWorldPos_23 = vWorldPos_3.xyz;
-  vec3 vWorldN_24;
-  vWorldN_24 = tmpvar_11;
-  vec3 vWorldView_25;
-  vWorldView_25 = tmpvar_22;
-  vec4 total_27;
-  total_27 = vec4(0.0, 0.0, 0.0, 0.0);
-  for (int i_26 = 0; i_26 < iLightPointCount; i_26++) {
-    vec3 tmpvar_28;
-    tmpvar_28 = (vLightPosDir[i_26].xyz - vWorldPos_23);
-    total_27 = (total_27 + ((
-      (1.0/(dot (tmpvar_28, tmpvar_28)))
-     * vLightDiffuse[i_26]) * pow (
-      clamp (dot (normalize((vWorldView_25 +
-        normalize(tmpvar_28)
-      )), vWorldN_24), 0.0, 1.0)
+  tmpvar_6 = total_18.xyz;
+  vec3 tmpvar_21;
+  tmpvar_21 = normalize((vCameraPos.xyz - vWorldPos_3.xyz));
+  vec3 vWorldPos_22;
+  vWorldPos_22 = vWorldPos_3.xyz;
+  vec3 vWorldN_23;
+  vWorldN_23 = tmpvar_10;
+  vec3 vWorldView_24;
+  vWorldView_24 = tmpvar_21;
+  vec4 total_26;
+  total_26 = vec4(0.0, 0.0, 0.0, 0.0);
+  for (int i_25 = 0; i_25 < iLightPointCount; i_25++) {
+    vec3 tmpvar_27;
+    tmpvar_27 = (vLightPosDir[i_25].xyz - vWorldPos_22);
+    total_26 = (total_26 + ((
+      (1.0/(dot (tmpvar_27, tmpvar_27)))
+     * vLightDiffuse[i_25]) * pow (
+      clamp (dot (normalize((vWorldView_24 +
+        normalize(tmpvar_27)
+      )), vWorldN_23), 0.0, 1.0)
     , fMaterialPower)));
   };
   tmpvar_5.w = (vVertexColor_2.w * vMaterialColor.w);
-  vec3 tmpvar_29;
-  tmpvar_29 = (matWorldView * tmpvar_1).xyz;
+  vec3 tmpvar_28;
+  tmpvar_28 = (matWorldView * tmpvar_1).xyz;
   gl_Position = tmpvar_4;
   Fog = (1.0/(exp2((
-    sqrt(dot (tmpvar_29, tmpvar_29))
+    sqrt(dot (tmpvar_28, tmpvar_28))
    * fFogDensity))));
   VertexColor = tmpvar_5;
   VertexLighting = tmpvar_6;
   Tex0 = inTexCoord;
-  SunLightDir = tmpvar_11;
-  SkyLightDir = total_27.xyz;
+  SunLightDir = tmpvar_10;
+  SkyLightDir = total_26.xyz;
   PointLightDir = tmpvar_7;
-  ShadowTexCoord = tmpvar_8;
-  ViewDir = tmpvar_22;
+  ShadowTexCoord = (matSunViewProj * vWorldPos_3);
+  ViewDir = tmpvar_21;
 }
 
