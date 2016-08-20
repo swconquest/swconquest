@@ -11,6 +11,7 @@ pipelines:
           - uname -a
           - echo $BITBUCKET_COMMIT $BITBUCKET_BRANCH $BITBUCKET_REPO_SLUG $BITBUCKET_REPO_OWNER
           - pwd
+          - pacman -Sy mercurial --noconfirm --noprogressbar --needed
           - hg log -r "$BITBUCKET_COMMIT" --template "{desc}\n" | grep -I '!workshop' # don't deploy if this string is not in the commit log!
           - echo '[multilib]' >> /etc/pacman.conf
           - echo 'Include = /etc/pacman.d/mirrorlist' >> /etc/pacman.conf
