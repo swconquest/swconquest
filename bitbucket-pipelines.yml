@@ -11,6 +11,7 @@ pipelines:
           - uname -a
           - echo $BITBUCKET_COMMIT $BITBUCKET_BRANCH $BITBUCKET_REPO_SLUG $BITBUCKET_REPO_OWNER
           - pwd
+          - hg log -r "$BITBUCKET_COMMIT" --template "{desc}\n" | grep -I '!workshop' # don't deploy if this string is not in the commit log!
           - echo '[multilib]' >> /etc/pacman.conf
           - echo 'Include = /etc/pacman.d/mirrorlist' >> /etc/pacman.conf
           - echo 'Server = http://mirror.lty.me/archlinux/$repo/os/$arch' > /etc/pacman.d/mirrorlist
@@ -49,10 +50,10 @@ pipelines:
           - ./_strip_unused.sh
           - tree .
           - cd ..
-          - mv _wb 'Native with spaces'
-          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/native_test.ini
+          - mv _wb 'Star Wars Conquest'
+          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/swconquest.ini
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/swconquest.png
           - echo 48700 > steam_appid.txt
-          - yes NO | env WINEDEBUG=-all wine mbw_workshop_uploader_glsl.exe update -mod native_test.ini -id 746900895 -icon swconquest.png -changes "$WORKSHOP_DESC"
+          - yes NO | env WINEDEBUG=-all wine mbw_workshop_uploader_glsl.exe update -mod swconquest.ini -id 742671195 -icon swconquest.png -changes "$WORKSHOP_DESC"
           - sleep 10
           - killall -I steam.exe
