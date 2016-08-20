@@ -15,8 +15,9 @@ pipelines:
           - echo 'Include = /etc/pacman.d/mirrorlist' >> /etc/pacman.conf
           - echo 'Server = http://mirror.lty.me/archlinux/$repo/os/$arch' > /etc/pacman.d/mirrorlist
           - pacman -Sy tree wine-staging xorg-server-xvfb mercurial unzip --noconfirm --noprogressbar --needed
-          - hg log -l 1 --template "{rev}\n"
-          - hg log -l 1 --template "{desc}\n" # | grep -i '+workshop'
+          - HG_REV="$(hg log -l 1 --template "{rev}\n")"
+          - HG_LOG="$(hg log -l 1 --template "{desc}\n")" # | grep -i '+workshop'
+          - WORKSHOP_DESC="Submitted hg revision ${HG_REV}: "$'\n\n'"${HG_LOG}"
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/mbw_workshop_uploader_glsl.exe
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/steam_api.dll
           - Xvfb :1 -screen 0 800x600x16 &
@@ -35,7 +36,10 @@ pipelines:
           - cd _wb
           - mkdir Textures
           - cp -r ../Languages   languages
-          - cp -r ../Resource/*  Resource/
+          - mv Resource _wb_res
+          - cp -r ../Resource    Resource
+          - mv _wb_res/*         Resource/
+          - rm _wb_res
           - cp -r ../Textures/*  Textures/
           - cp -r ../SceneObj    .
           - cp -r ../Music       .
@@ -49,6 +53,6 @@ pipelines:
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/native_test.ini
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/swconquest.png
           - echo 48700 > steam_appid.txt
-          - yes NO | env WINEDEBUG=-all wine mbw_workshop_uploader_glsl.exe update -mod native_test.ini -id 746900895 -icon swconquest.png -changes "Test with actual stuff."
+          - yes NO | env WINEDEBUG=-all wine mbw_workshop_uploader_glsl.exe update -mod native_test.ini -id 746900895 -icon swconquest.png -changes "$WORKSHOP_DESC"
           - sleep 10
           - killall -I steam.exe
