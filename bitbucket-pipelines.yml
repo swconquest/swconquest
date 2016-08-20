@@ -15,7 +15,6 @@ pipelines:
           - echo 'Include = /etc/pacman.d/mirrorlist' >> /etc/pacman.conf
           - echo 'Server = http://mirror.lty.me/archlinux/$repo/os/$arch' > /etc/pacman.d/mirrorlist
           - pacman -Sy tree wine-staging xorg-server-xvfb mercurial unzip --noconfirm --noprogressbar --needed
-          - hg log
           - hg log -l 1 --template "{rev}\n"
           - hg log -l 1 --template "{desc}\n" # | grep -i '+workshop'
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/mbw_workshop_uploader_glsl.exe
@@ -26,7 +25,7 @@ pipelines:
           - mkdir steam && cd steam
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/Steam.exe
           - WINEDLLOVERRIDES="mscoree,mshtml=" wineboot -u
-          - WINEDEBUG=-all wine steam -silent -debug_steamapi -forceservice -no-browser -no-cef-sandbox -opengl -login swyter "$STEAM_PASSWORD" &
+          - WINEDEBUG=-all wine steam -silent -forceservice -no-browser -no-cef-sandbox -opengl -login swyter "$STEAM_PASSWORD" &
           - cd ..
           - sleep 135
           - chmod +x _wb/_setup_symlinks.sh
@@ -34,13 +33,14 @@ pipelines:
           - curl https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/vanilla_glsl_opt.zip -L -O
           - unzip vanilla_glsl_opt.zip -d _wb
           - cd _wb
-          - cp -r ../Languages languages
-          - cp -r ../Resource  .
-          - cp -r ../SceneObj  .
-          - cp -r ../Music     .
-          - cp -r ../Sounds    .
-          - ./_setup_symlinks.sh
+          - cp -r ../Languages   languages
+          - cp -r ../Resource/*  Resource/
+          - cp -r ../Textures/*  Textures/
+          - cp -r ../SceneObj    .
+          - cp -r ../Music       .
+          - cp -r ../Sounds      .
           - mv GLShaders/*.glsl GLShadersOptimized/
+          - ./_setup_symlinks.sh
           - ./_strip_unused.sh
           - tree .
           - cd ..
