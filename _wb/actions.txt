@@ -1194,9 +1194,9 @@
   1.75 anim_horse 350 350 521 0 0 0 0  0 
  horse_fall_roll 1026 83886160  1
   4 anim_horse 0 0 529 0 0 0 0 0.0 
- speeder_stationary 0 16842832  1
+ speeder_stationary 0 117506143  1
   5 sw_speeder_stand 0 99 0 0 0 0 0 0.0 
- speeder_allow_movement 0 16842832  1
+ speeder_allow_movement 0 50397279  1
   0.01 sw_speeder_stand 0 0 0 0 0 0 0 0.0 
  unused_horse_anim_01 0 0  1
   1 anim_horse 0 1 0 0 0 0 0 0.0 
