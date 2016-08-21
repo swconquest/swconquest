@@ -25,33 +25,25 @@ pipelines:
           - Xvfb :1 -screen 0 800x600x16 &
           - export DISPLAY=:1
           - tree .
-          - mkdir steam && cd steam
+          - cd .. && mkdir steam && cd steam
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/Steam.exe
           - WINEDLLOVERRIDES="mscoree,mshtml=" wineboot -u
           - WINEDEBUG=-all wine steam -silent -forceservice -no-browser -no-cef-sandbox -opengl -login swyter "$STEAM_PASSWORD" &
-          - cd ..
+          - cd ../build
           - sleep 135
           - chmod +x _wb/_setup_symlinks.sh
           - chmod +x _wb/_strip_unused.sh
           - curl https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/vanilla_glsl_opt.zip -L -O
           - unzip vanilla_glsl_opt.zip -d _wb
-          - cd _wb
-          - mkdir Textures
-          - cp -r ../Languages   languages
-          - mv Resource _wb_res
-          - cp -r ../Resource    Resource
-          - mv     _wb_res/*     Resource/
-          - rm -rf _wb_res
-          - cp -r ../Textures/*  Textures/
-          - cp -r ../SceneObj    .
-          - cp -r ../Music       .
-          - cp -r ../Sounds      .
+          - mv -f  _wb/* .
+          - rm -rf _wb
           - mv GLShaders/*.glsl  GLShadersOptimized/
-          - ./_setup_symlinks.sh
+          - mv Languages languages
           - ./_strip_unused.sh
+          - rm -rf .hg
           - tree .
           - cd ..
-          - mv _wb 'Star Wars Conquest'
+          - mv build 'Star Wars Conquest'
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/swconquest.ini
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/swconquest.png
           - echo 48700 > steam_appid.txt
