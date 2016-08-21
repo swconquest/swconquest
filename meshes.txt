@@ -423,6 +423,6 @@ mesh_wood_table 0 wood_table 0 0 0 0 0 0 1 1 1
 mesh_cpov 0 cpov 0 0 0 0 0 0 1 1 1
 mesh_swc_logo 0 warrider_logo 0 0 0 0 0 0 1 1 1
 mesh_galaxy 0 skybox_space_prop 0 0 0 0 0 0 0.2 0.2 0.2
-mesh_loading_background_2 0 edit_cursor 0 0 0 0 0 0 1 1 1
-mesh_loading_background 0 edit_cursor 0 0 0 0 0 0 1 1 1
-mesh_main_menu_background 0 mission_window 0 0 0 0 0 0 1 1 1
+mesh_loading_background 0 meeting_window 0 0 0 0 0 0 1 1 1
+mesh_main_menu_background 0 meeting_window 0 0 0 0 0 0 1 1 1
+mesh_main_menu_statue 1 pic_mercenary 0 0 0 0 0 0 1 1 1
