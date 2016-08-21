@@ -24,6 +24,7 @@ rm -f  ./*.ico
 rm -f  ./*.pdf
 rm -f  ./*.odt
 rm -f  ./*.psd
+rm -f  ./*.zip
 rm -f  ./.*
 rm -f  ./*.yml
 

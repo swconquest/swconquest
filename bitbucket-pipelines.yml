@@ -33,6 +33,7 @@ pipelines:
           - chmod +x _wb/_strip_unused.sh
           - curl https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/vanilla_glsl_opt.zip -L -O
           - unzip vanilla_glsl_opt.zip -d _wb
+          - rm -f vanilla_glsl_opt.zip
           - cp -rf _wb/* .
           - rm -rf _wb
           - mv GLShaders/*.glsl  GLShadersOptimized/
