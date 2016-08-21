@@ -11,6 +11,7 @@ rm -rf ./Sounds/_*
 rm -f  ./Sounds/Readme.txt
 
 rm -rf ./Textures/_*
+rm -f  ./Textures/*.xcf
 rm -f  ./Textures/Readme.txt
 
 rm -rf ./Resource/_*

@@ -1492,10 +1492,10 @@ initial_game_logo_position_y = 0.50
 initial_game_logo_size_x = 0.6
 initial_game_logo_size_y = 0.21
 
-initial_version_info_position_x = 0.4
-initial_version_info_position_y = 0.4
-initial_version_info_text_size_x = 0.1
-initial_version_info_text_size_y = 0.1
+initial_version_info_position_x = 0.68
+initial_version_info_position_y = 0.46
+initial_version_info_text_size_x = 0.7
+initial_version_info_text_size_y = 0.7
 initial_version_info_text_flags = 0x200
 initial_version_info_text_color = 0xFF132447
 
