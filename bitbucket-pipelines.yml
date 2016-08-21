@@ -20,8 +20,6 @@ pipelines:
           - HG_REV="$(hg log -l 1 --template     "{rev}")"
           - HG_LOG="$(hg log -l 1 --template "\n\n{desc}\n")" # | grep -i '+workshop'
           - WORKSHOP_DESC="Submitted hg revision ${HG_REV}; ${HG_LOG}"
-          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/mbw_workshop_uploader_glsl.exe
-          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/steam_api.dll
           - Xvfb :1 -screen 0 800x600x16 &
           - export DISPLAY=:1
           - tree .
@@ -44,6 +42,8 @@ pipelines:
           - tree .
           - cd ..
           - mv build 'Star Wars Conquest'
+          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/mbw_workshop_uploader_glsl.exe
+          - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/steam_api.dll
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/swconquest.ini
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/swconquest.png
           - echo 48700 > steam_appid.txt
