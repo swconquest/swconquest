@@ -29,6 +29,8 @@ pipelines:
           - WINEDEBUG=-all wine steam -silent -forceservice -no-browser -no-cef-sandbox -opengl -login swyter "$STEAM_PASSWORD" &
           - cd ../build
           - sleep 135
+          - cp Font/FONT_DATA.XML _wb/Data/font_data.xml
+          - cp Font/FONT_SWC.dds  _wb/Textures/font.dds
           - chmod +x _wb/_setup_symlinks.sh
           - chmod +x _wb/_strip_unused.sh
           - curl https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/vanilla_glsl_opt.zip -L -O
