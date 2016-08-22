@@ -1407,12 +1407,12 @@ tactical_game_ui_watching_text_flags = 0x00000010
 tactical_game_ui_watching_text_color = 0xFFFFFFFF
 
 #main menu (initial)
-initial_tutorial_button_position_x = 0.32
-initial_tutorial_button_position_y = 0.48
-initial_tutorial_button_size_x = 0.185
-initial_tutorial_button_size_y = 0.031
-initial_tutorial_button_text_size_x = 0.022
-initial_tutorial_button_text_size_y = 0.030
+initial_tutorial_button_position_x = 0.37
+initial_tutorial_button_position_y = 0.42
+initial_tutorial_button_size_x = 0.37
+initial_tutorial_button_size_y = 0.062
+initial_tutorial_button_text_size_x = 0.044
+initial_tutorial_button_text_size_y = 0.060
 initial_tutorial_button_text_flags = 0x4
 initial_tutorial_button_text_color = 0xFF132447
 initial_tutorial_button_highlight_text_color = 0xFFFFDD00
@@ -1510,10 +1510,10 @@ initial_module_version_info_text_color = 0xFF132447
 
 
 #game loading 
-loading_game_logo_position_x = 0.3
-loading_game_logo_position_y = 0.4
-loading_game_logo_size_x = 0.45
-loading_game_logo_size_y = 0.12
+loading_game_logo_position_x = 0.23
+loading_game_logo_position_y = 0.50
+loading_game_logo_size_x = 0.6
+loading_game_logo_size_y = 0.21
 
 
 options_game_logo_pos_x = 0.72
@@ -1572,10 +1572,10 @@ options_difficulty_size = 0.03
 
 
 #starting (first screen)
-starting_game_logo_position_x = 0.3
-starting_game_logo_position_y = 0.4
-starting_game_logo_size_x = 0.45
-starting_game_logo_size_y = 0.12
+starting_game_logo_position_x = 0.23
+starting_game_logo_position_y = 0.50
+starting_game_logo_size_x = 0.6
+starting_game_logo_size_y = 0.21
 
 #escape window
 escape_game_logo_position_x = 0.15
