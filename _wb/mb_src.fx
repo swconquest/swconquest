@@ -5857,6 +5857,186 @@ DEFINE_TECHNIQUES(tree_billboards_dot3_alpha, vs_main_bump_billboards, ps_main_b
 
 #endif
 
+struct VS_OUTPUT_ENVMAP_SPECULAR_GLASS
+{
+	float4 Pos                            : POSITION;
+	float4 Color                          : COLOR0;
+	float4 Tex0                           : TEXCOORD0;
+	float4 SunLight                       : TEXCOORD1;
+	float4 ShadowTexCoord                 : TEXCOORD2;
+	float2 TexelPos                       : TEXCOORD3;
+	float3 vSpecular                      : TEXCOORD4;
+	//   float3 worldPos                  : TEXCOORD5;
+	//   float3 worldNormal               : TEXCOORD6;
+	float  Fog                            : FOG;
+};
+
+struct PS_INPUT_ENVMAP_SPECULAR_GLASS
+{
+	float4 Color                          : COLOR0;
+	float4 Tex0                           : TEXCOORD0;
+	float4 SunLight                       : TEXCOORD1;
+	float4 ShadowTexCoord                 : TEXCOORD2;
+	float2 TexelPos                       : TEXCOORD3;
+	float3 vSpecular                      : TEXCOORD4;
+	// float3 worldPos                 : TEXCOORD5;
+	// float3 worldNormal              : TEXCOORD6;
+};
+
+VS_OUTPUT_ENVMAP_SPECULAR_GLASS vs_envmap_specular_glass(uniform const int PcfMode, float4 vPosition : POSITION, float3 vNormal : NORMAL, float2 tc : TEXCOORD0, float4 vColor : COLOR0)
+{
+	VS_OUTPUT_ENVMAP_SPECULAR_GLASS Out = (VS_OUTPUT_ENVMAP_SPECULAR_GLASS)0;
+
+	Out.Pos = mul(matWorldViewProj, vPosition);
+
+	float4 vWorldPos = (float4)mul(matWorld,vPosition);
+	float3 vWorldN = normalize(mul((float3x3)matWorld, vNormal)); //normal in world space
+
+	// Out.worldPos = vWorldPos;
+	// Out.worldNormal = vWorldN;
+
+	float3 P = mul(matWorldView, vPosition); //position in view space
+
+	Out.Tex0.xy = tc;
+
+	float3 relative_cam_pos = normalize(vCameraPos - vWorldPos);
+	float2 envpos;
+	float3 tempvec = relative_cam_pos - vWorldN;
+	float3 vHalf = normalize(relative_cam_pos - vSunDir);
+	float3 fSpecular = 4.0f * vSpecularColor * pow( saturate( dot( vHalf, vWorldN) ), fMaterialPower);
+
+	Out.vSpecular = relative_cam_pos;
+
+	envpos.x = (tempvec.y);// + tempvec.x);
+	envpos.y = tempvec.z;
+	envpos += 1.0f;
+	// envpos *= 0.5f;
+
+	Out.Tex0.zw = envpos;
+
+	float4 diffuse_light = vAmbientColor;
+	// diffuse_light.rgb *= gradient_factor * (gradient_offset + vWorldN.z);
+
+
+	//directional lights, compute diffuse color
+	diffuse_light += max(0, dot(vWorldN, -vSkyLightDir)) * vSkyLightColor;
+
+	//point lights
+	for(int j = 0; j < iLightPointCount; j++)
+	{
+		int i = iLightIndices[j];
+		float3 point_to_light = vLightPosDir[i]-vWorldPos;
+		float LD = length(point_to_light);
+		float3 L = normalize(point_to_light);
+		float wNdotL = dot(vWorldN, L);
+
+		float fAtten = 1.0f/(LD*LD);// + 0.9f / (LD * LD);
+		//compute diffuse color
+		diffuse_light += max(0, wNdotL) * vLightDiffuse[i] * fAtten;
+	}
+
+	//apply material color
+	// Out.Color = min(1, vMaterialColor * vColor * diffuse_light);
+	Out.Color = (vMaterialColor * vColor * diffuse_light);
+	//shadow mapping variables
+	float wNdotSun = max(-0.0001f,dot(vWorldN, -vSunDir));
+	Out.SunLight = (wNdotSun) * vSunColor * vMaterialColor * vColor;
+
+	if (PcfMode != PCF_NONE)
+	{
+		float4 ShadowPos = mul(matSunViewProj, vWorldPos);
+		Out.ShadowTexCoord = ShadowPos;
+		Out.ShadowTexCoord.z /= ShadowPos.w;
+		Out.ShadowTexCoord.w = 1.0f;
+		Out.TexelPos = Out.ShadowTexCoord * fShadowMapSize;
+		//shadow mapping variables end
+	}
+
+	//apply fog
+	float d = length(P);
+
+	float3 U = mul(matWorld, vPosition);
+	float  u = length(U.z); //Exponential HeightFog! :)
+	
+	Out.Fog = get_fog_amount(d,u);
+
+	return Out;
+}
+
+PS_OUTPUT ps_envmap_specular_glass(PS_INPUT_ENVMAP_SPECULAR_GLASS In, uniform const int PcfMode)
+{
+	PS_OUTPUT Output;
+
+	// Compute half vector for specular lighting
+	//  float3 vHalf = normalize(normalize(-ViewPos) + normalize(g_vLight - ViewPos));
+	float4 texColor = tex2D(MeshTextureSampler, In.Tex0.xy);
+	texColor.rgb = pow(texColor.rgb, input_gamma);
+
+	float3 specTexture = tex2D(SpecularTextureSampler, In.Tex0.xy).rgb;
+	float3 fSpecular = specTexture * In.vSpecular.rgb;
+
+	//  float3 relative_cam_pos = normalize(vCameraPos - In.worldPos);
+	//  float3 vHalf = normalize(relative_cam_pos - vSunDir);
+	/*
+	float2 envpos;
+	float3 tempvec =relative_cam_pos -  In.worldNormal ;
+  //envpos.x = tempvec.x;
+  //envpos.y = tempvec.z;
+	envpos.xy = tempvec.xz;
+	envpos += 1.0f;
+	envpos *= 0.5f;
+	*/
+	float4 envColor = tex2D(EnvTextureSampler, In.Tex0.zw/2);
+	//float3 envColor = texCUBE(EnvTextureSampler, In.vSpecular).rgb; //float3(In.Tex0.zw,1)).rgb;
+
+	// Compute normal dot half for specular light
+	// float4 fSpecular = 4.0f * specColor * vSpecularColor * pow( saturate( dot( vHalf, normalize( In.worldNormal) ) ), fMaterialPower);
+
+
+//	if ((PcfMode != PCF_NONE))
+//	{
+//
+//		float sun_amount = 0.1f + GetSunAmount(PcfMode, In.ShadowTexCoord, In.TexelPos);
+		// sun_amount *= sun_amount;
+//		float4 vcol = In.Color;
+//		vcol.rgb += (In.SunLight.rgb + fSpecular) * sun_amount;
+//		Output.RGBColor = (texColor * vcol);
+//		Output.RGBColor.rgba = envColor.a;
+//	}
+//	else
+//	{
+//		float4 vcol = In.Color;
+//		vcol.rgb += (In.SunLight.rgb + fSpecular);
+//		Output.RGBColor = (texColor * vcol);
+//		Output.RGBColor.rgba = envColor.a;
+
+	Output.RGBColor.rgb = texColor.rgb;
+    Output.RGBColor.a   = 0.4f;
+	Output.RGBColor.a  *= envColor.a/9;
+	Output.RGBColor.rgb  *= envColor.a/5;
+//	}
+
+	//Output.RGBColor.rgb = pow(Output.RGBColor.rgb, output_gamma_inv);
+  Output.RGBColor.ra*=1.4f;
+  Output.RGBColor.a*=3.0f;
+
+ // In.vSpecular=normalize(In.vSpecular);
+	Output.RGBColor.a *= ((0.4f-envColor.y)-envColor.x);
+	Output.RGBColor+=texColor.rgba/2;
+	
+	
+	Output.RGBColor.a *=1.4f;
+	float2 thingie = normalize(In.Tex0.zw);
+	//Output.RGBColor.a = (thingie.x+thingie.y);
+	
+	
+	In.vSpecular=normalize(In.vSpecular);
+	Output.RGBColor.a *= max(0.3f,saturate((0.4f-In.vSpecular.y)+(0.4f+In.vSpecular.x)));
+	Output.RGBColor.a  = max(0.1f,Output.RGBColor.a);
+	
+	return Output;
+}
+
 
 
 
@@ -5970,5 +6150,15 @@ technique swconquest_swytraffic_iron
 		PixelShader  = compile ps_2_0 ps_specular_alpha(PCF_NONE, true, false); //glow_enabled
 	}
 }
+
+technique swconquest_glass
+{
+	pass P0
+	{
+		VertexShader = compile vs_2_0 vs_envmap_specular_glass(PCF_NONE);
+		PixelShader  = compile ps_2_0 ps_envmap_specular_glass(PCF_NONE);
+	}
+}
+
 
 /* *** */
