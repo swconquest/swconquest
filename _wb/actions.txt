@@ -656,14 +656,12 @@
   0.75 defend_shield_right 5 26 4 0 0 0 0 0.0 
  defend_shield_left 0 1782620174  1
   0.75 defend_shield_left 5 26 4 0 0 0 0 0.0 
- defend_shield 0 1782620174  3
+ defend_shield 0 1782620174  2
   0.75 anim_human 35105 35120 4 0 0 0 0 0.0 
   0.75 anim_human 35105 35120 4 0 0 0 0 0.0 
-  0.75 draw_greatsword 24 29 4 0 0 0 0 0.0 
- defend_shield_keep 1677725696 604024846  3
+ defend_shield_keep 1677725696 604024846  2
   6 anim_human 35120 35120 268435458 0 0 0 0  5 
   6 anim_human 35120 35120 268435458 0 0 0 0  5 
-  6 draw_greatsword 29 29 268435458 0 0 0 0  5 
  defend_shield_parry_1 1677725696 167813135  1
   0.6 anim_human 35121 35130 2 0 0 0 0 0.0 
  defend_shield_parry_2 1677725696 167813135  1
