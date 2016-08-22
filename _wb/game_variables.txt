@@ -1418,7 +1418,7 @@ initial_tutorial_button_text_color = 0xFF132447
 initial_tutorial_button_highlight_text_color = 0xFFFFDD00
 
 initial_start_new_game_button_position_x = 0.37
-initial_start_new_game_button_position_y = 0.48
+initial_start_new_game_button_position_y = 0.36
 initial_start_new_game_button_size_x = 0.37
 initial_start_new_game_button_size_y = 0.062
 initial_start_new_game_button_text_size_x = 0.044
@@ -1428,7 +1428,7 @@ initial_start_new_game_button_text_color = 0xFF132447
 initial_start_new_game_button_highlight_text_color = 0xFFFFDD00
 
 initial_resume_game_button_position_x = 0.37
-initial_resume_game_button_position_y = 0.54
+initial_resume_game_button_position_y = 0.30
 initial_resume_game_button_size_x = 0.37
 initial_resume_game_button_size_y = 0.062
 initial_resume_game_button_text_size_x = 0.044
@@ -1448,7 +1448,7 @@ initial_multiplayer_button_text_color = 0xFF132447
 initial_multiplayer_button_highlight_text_color = 0xFFFFDD00
 
 initial_custom_battle_button_position_x = 0.37
-initial_custom_battle_button_position_y = 0.60
+initial_custom_battle_button_position_y = 0.24
 initial_custom_battle_button_size_x = 0.37
 initial_custom_battle_button_size_y = 0.062
 initial_custom_battle_button_text_size_x = 0.044
@@ -1458,7 +1458,7 @@ initial_custom_battle_button_text_color = 0xFF132447
 initial_custom_battle_button_highlight_text_color = 0xFFFFDD00
 
 initial_options_button_position_x = 0.37
-initial_options_button_position_y = 0.66
+initial_options_button_position_y = 0.18
 initial_options_button_size_x = 0.37
 initial_options_button_size_y = 0.062
 initial_options_button_text_size_x = 0.044
@@ -1468,7 +1468,7 @@ initial_options_button_text_color = 0xFF132447
 initial_options_button_highlight_text_color = 0xFFFFDD00
 
 initial_credits_button_position_x = 0.37
-initial_credits_button_position_y = 0.72
+initial_credits_button_position_y = 0.12
 initial_credits_button_size_x = 0.37
 initial_credits_button_size_y = 0.062
 initial_credits_button_text_size_x = 0.044
@@ -1477,7 +1477,7 @@ initial_credits_button_text_flags = 0x4
 initial_credits_button_text_color = 0xFF132447
 initial_credits_button_highlight_text_color = 0xFFFFDD00
 
-initial_quit_button_position_x = 0.8
+initial_quit_button_position_x = 0.6
 initial_quit_button_position_y = 0.03
 initial_quit_button_size_x = 0.37
 initial_quit_button_size_y = 0.062
