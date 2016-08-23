@@ -38,6 +38,6 @@ void main ()
   Output_RGBColor.rgb = pow(Output_RGBColor.rgb, vec3(output_gamma_inv));
   Output_RGBColor.rgb = mix(vFogColor.xyz, Output_RGBColor.rgb, Fog);
 
-  gl_FragColor = Output_RGBColor;
+  gl_FragColor = clamp(Output_RGBColor, 0.0, 1.0);
 }
 
