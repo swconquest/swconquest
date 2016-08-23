@@ -1388,7 +1388,7 @@
   1 anim_horse 0 1 0 0 0 0 0 0.0 
  unused_horse_anim_98 0 0  1
   1 anim_horse 0 1 0 0 0 0 0 0.0 
- speeder_stationary 0 83951696  1
-  1 sw_speeder_stand 0 99 268435473 0 0 0 0 0.0 
+ speeder_stationary 0 83886160  1
+  5 sw_speeder_stand 0 99 268435473 0 0 0 0 0.0 
  speeder_allow_movement 0 16842847  1
   0.01 sw_speeder_stand 0 0 0 0 0 0 0 0.0 
