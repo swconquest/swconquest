@@ -1,4 +1,4 @@
-427
+431
 mesh_pic_bandits 0 pic_bandits 0 0 0 0 0 0 1 1 1
 mesh_pic_mb_warrior_1 0 pic_mb_warrior_1 0 0 0 0 0 0 1 1 1
 mesh_pic_messenger 0 pic_messenger 0 0 0 0 0 0 1 1 1
@@ -426,3 +426,7 @@ mesh_galaxy 0 skybox_space_prop 0 0 0 0 0 0 0.2 0.2 0.2
 mesh_loading_background 0 meeting_window 0 0 0 0 0 0 1 1 1
 mesh_main_menu_background 0 meeting_window 0 0 0 0 0 0 1 1 1
 mesh_main_menu_statue 1 pic_mercenary 0 0 0 0 0 0 1 1 1
+mesh_pic_mb_warrior_1 1 pic_mb_warrior_1 0 0 0 0 0 0 1 1 1
+mesh_pic_mb_warrior_2 1 pic_mb_warrior_2 0 0 0 0 0 0 1 1 1
+mesh_pic_mb_warrior_3 1 pic_mb_warrior_3 0 0 0 0 0 0 1 1 1
+mesh_pic_mb_warrior_4 1 pic_mb_warrior_4 0 0 0 0 0 0 1 1 1

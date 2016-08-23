@@ -433,14 +433,12 @@
   0.6 anim_human 27910 27940 1 0 0 0 0 0.0 
  parry_slashright_staff 1677725696  1
   0.45 anim_human 27915 27913 3 0 0 0 0 0.0 
- defend_shield 8192  3
+ defend_shield 8192  2
   0.25 anim_human 35105 35120 6 0 0 0 0 0.0 
   0.25 anim_human 35105 35120 6 0 0 0 0 0.0 
-  0.25 draw_greatsword 24 29 6 0 0 0 0 0.0 
- defend_shield_keep 8192  3
+ defend_shield_keep 8192  2
   6 anim_human 35120 35120 268435458 0 0 0 0  5 
   6 anim_human 35120 35120 268435458 0 0 0 0  5 
-  6 draw_greatsword 29 29 268435458 0 0 0 0  5 
  defend_shield_parry 1677733888  4
   0.5 anim_human 35121 35130 2 0 0 0 0 0.0 
   0.5 strikes 706 724 2 0 0 0 0 0.0 
