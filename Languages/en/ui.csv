@@ -45,3 +45,5 @@ ui_credits|Credits
 ui_exit_to_windows|Exit Game
 ui_version_value|Version 0.9.4-final
 
+ui_upgrade_to_value| Upgrade to %s
+ui_notification_cant_upgrade|(Can't upgrade while giving troops)
