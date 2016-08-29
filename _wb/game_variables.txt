@@ -149,8 +149,11 @@ save_b_save_y_a = 0.21
 save_b_save_size_y = 0.2
 save_b_save_t_s = 0.03
 save_b_save_button_h = 0.37
-save_b_save_t_c = 0xFFAAAAAA
-save_b_save_t_h_c = 0xFFFFFFFF
+#COLORS OF THE LOAD/SAVE TABS TEXT by Swyter (they have too lighter scheme, now is darker)
+#original# save_b_save_t_c = 0xFFAAAAAA
+#original# save_b_save_t_h_c = 0xFFFFFFFF
+save_b_save_t_c = 0xFF000000
+save_b_save_t_h_c = 0xFF303030
 save_t_name_x = 0.05
 save_t_name_y = 0.12
 save_t_info_x = 0.05
@@ -169,11 +172,20 @@ char_b_done_position_y = 0.018
 char_b_stats_position_x = 0.02
 char_b_stats_position_y = 0.015
 
-char_b_next_position_x = 0.18125
-char_b_next_position_y = 0.715
+#SW - modified next_prev_position
+#char_b_next_position_x = 0.18125	#original
+#char_b_next_position_y = 0.715		#original
+#char_b_next_position_x = 0.18125	#attempt 1
+#char_b_next_position_y = 0.680		#attempt 1 = good, but clicking always edits face
+char_b_next_position_x = 0.52		#attempt 2
+char_b_next_position_y = 0.017		#attempt 2
 
-char_b_prev_position_x = 0.04875
-char_b_prev_position_y = 0.715
+#char_b_prev_position_x = 0.04875	#original
+#char_b_prev_position_y = 0.715		#original
+#char_b_prev_position_x = 0.04875	#attempt 1
+#char_b_prev_position_y = 0.680		#attempt 1 = good, but clicking always edits face
+char_b_prev_position_x = 0.42		#attempt 2
+char_b_prev_position_y = 0.017		#attempt 2
 
 char_bo_skills_position_x = 0.05
 char_bo_skills_position_y = 0.05
@@ -525,7 +537,9 @@ face_t_deform_key_base_size_y = 0.03
 face_t_deform_key_base_text_flags = 0x8
 face_t_deform_key_base_text_size_x = 0.015
 face_t_deform_key_base_text_size_y = 0.015
-face_t_deform_key_base_text_color = 0xFFFFFFDD
+#SW - original color, switched to dark blue
+#face_t_deform_key_base_text_color = 0xFFFFFFDD
+face_t_deform_key_base_text_color = 0xFF002F6D
 
 face_s_deform_position_x = 0.925
 face_s_deform_position_y = 0.052
@@ -600,7 +614,9 @@ face_t_age_size_y = 0.03
 face_t_age_text_size_x = 0.02
 face_t_age_text_size_y = 0.02
 face_t_age_text_flags = 0x8
-face_t_age_text_color = 0xFFFFFFDD
+#SW - original color, switched to a dark blue
+#face_t_age_text_color = 0xFFFFFFDD
+face_t_age_text_color = 0xFF002F6D
 
 face_sl_hair_color_position_x = 0.17
 face_sl_hair_color_position_y = 0.045
@@ -613,7 +629,9 @@ face_t_hair_color_size_y = 0.03
 face_t_hair_color_text_size_x = 0.02
 face_t_hair_color_text_size_y = 0.02
 face_t_hair_color_text_flags = 0x8
-face_t_hair_color_text_color = 0xFFFFFFDD
+#SW - original color, switched to a dark blue
+#face_t_hair_color_text_color = 0xFFFFFFDD
+face_t_hair_color_text_color = 0xFF002F6D
 
 #Face_gen_window_variables
 face_deform_key_h = 0.033
@@ -650,11 +668,14 @@ party_t_upgrade_text_size_y = 0.023
 party_t_upgrade_text_flags = 0x10
 party_t_upgrade_text_color = 0xFF991100
 
+#SW - modified upgrade1_upgrade2_position
 party_b_upgrade1_position_x = 0.008
-party_b_upgrade1_position_y = 0.18
+#party_b_upgrade1_position_y = 0.22
+party_b_upgrade1_position_y = 0.21
 
 party_b_upgrade2_position_x = 0.008
-party_b_upgrade2_position_y = 0.14
+#party_b_upgrade2_position_y = 0.18
+party_b_upgrade2_position_y = 0.18
 
 party_bo_info_position_x = 0.35
 party_bo_info_position_y = 0.11
@@ -720,7 +741,9 @@ party_t_morale_size_y = 0.02
 party_t_morale_text_size_x = 0.02
 party_t_morale_text_size_y = 0.02
 party_t_morale_text_flags = 0x4
-party_t_morale_text_color = 0xFFFFEEAA
+#SW - modified party_t_morale_text_color
+#party_t_morale_text_color = 0xFFFFEEAA
+party_t_morale_text_color = 0xFFD00000
 
 party_t_gold_position_x = 0.68
 party_t_gold_position_y = 0.041
@@ -729,7 +752,9 @@ party_t_gold_size_y = 0.015
 party_t_gold_text_size_x = 0.02
 party_t_gold_text_size_y = 0.02
 party_t_gold_text_flags = 0x4
-party_t_gold_text_color = 0xFFFFEEAA
+#SW - modified party_t_gold_text_color
+#party_t_gold_text_color = 0xFFFFEEAA
+party_t_gold_text_color = 0xFFD00000
 
 party_t_weekly_cost_position_x = 0.68
 party_t_weekly_cost_position_y = 0.02
@@ -738,7 +763,9 @@ party_t_weekly_cost_size_y = 0.015
 party_t_weekly_cost_text_size_x = 0.02
 party_t_weekly_cost_text_size_y = 0.02
 party_t_weekly_cost_text_flags = 0x4
-party_t_weekly_cost_text_color = 0xFFFFEEAA
+#SW - modified party_t_weekly_cost_text_color
+#party_t_weekly_cost_text_color = 0xFFFFEEAA
+party_t_weekly_cost_text_color = 0xFFD00000
 
 party_t_max_companions_position_x = 0.74
 party_t_max_companions_position_y = 0.719
