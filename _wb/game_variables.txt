@@ -668,14 +668,11 @@ party_t_upgrade_text_size_y = 0.023
 party_t_upgrade_text_flags = 0x10
 party_t_upgrade_text_color = 0xFF991100
 
-#SW - modified upgrade1_upgrade2_position
 party_b_upgrade1_position_x = 0.008
-#party_b_upgrade1_position_y = 0.22
-party_b_upgrade1_position_y = 0.21
+party_b_upgrade1_position_y = 0.18
 
 party_b_upgrade2_position_x = 0.008
-#party_b_upgrade2_position_y = 0.18
-party_b_upgrade2_position_y = 0.18
+party_b_upgrade2_position_y = 0.14
 
 party_bo_info_position_x = 0.35
 party_bo_info_position_y = 0.11
