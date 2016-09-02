@@ -943,8 +943,8 @@ qstr_{s13}_asked_you_to_g {s13}_asked_you_to_gather_a_herd_of_{reg3}_nerfs_and_d
 qstr_{s9}_asked_you_to_sc {s9}_asked_you_to_scout_{s13},_{s14}_and_{s15},_then_report_back.
 qstr_{s16}_and_{s17} {s16}_and_{s17}
 qstr_{s16}_{s17} {s16},_{s17}
-qstr_Very_well_I_will_acc Very_well,_I_will_accept_you_back_into_my_ranks,_if_you're_ready_to_swear_your_solemn_oath_once_more.
-qstr_A_pardon_will_only_b A_pardon_will_only_be_possible_if_you_are_willing_to_cede_{s17}_to_me._Do_you_agree_my_terms?
+qstr_Very_well_I_will_acc Very_well,_I_will_accept_you_back_into_my_ranks,_if_you're_ready_to_swear_your_allegiance_once_more.
+qstr_A_pardon_will_only_b A_pardon_will_only_be_possible_if_you_are_willing_to_surrender_{s17}_to_me._Do_you_agree_my_terms?
 qstr_No._There_is_no_chan No._There_is_no_chance_of_peace_between_us,_I_am_not_interested.
 qstr_We_are_not_at_war_wi We_are_not_at_war_with_anyone.
 qstr_We_are_at_war_with_{ We_are_at_war_with_{s12}.
@@ -966,7 +966,7 @@ qstr_{s9}_asked_you_to_hu {s9}_asked_you_to_hunt_down_a_fugitive_named_{s4}._He_
 qstr_{s9}_asked_you_to_as {s9}_asked_you_to_assassinate_a_local_merchant_at_{s3}.
 qstr_{s9}_has_asked_you_t {s9}_has_asked_you_to_meet_with_a_spy_in_{s13}.
 qstr_{s9}_asked_you_to_ca {s9}_asked_you_to_capture_and_loot_{reg13}_convoys_so_as_to_provoke_a_war_with_{s13}.
-qstr_{s9}_asked_you_to_cat {s9}_asked_you_to_catch_the_three_groups_of_runaway_serfs_and_bring_them_back_to_{s4},_alive_and_breathing._They_said_that_all_three_groups_are_heading_towards_{s3}.
+qstr_{s9}_asked_you_to_cat {s9}_asked_you_to_catch_the_three_groups_of_runaway_servants_and_bring_them_back_to_{s4},_alive_and_breathing._They_said_that_all_three_groups_are_heading_towards_{s3}.
 qstr_{s11}_asked_you_to_f {s11}_asked_you_to_follow_the_spy_that_will_leave_{s12}._Be_careful_not_to_let_the_spy_see_you_on_the_way,_or_he_may_get_suspicious_and_turn_back._Once_the_spy_meets_with_his_accomplice,_you_are_to_capture_them_and_bring_them_back_to_{s11}.
 qstr_{s11}_asked_you_to_c {s11}_asked_you_to_capture_a_commander_from_{s13},_any_commander,_and_then_drag_your_victim_back_to_{s11}_for_safekeeping.
 qstr_{s9}_asked_you_to_le {s9}_asked_you_to_lend_your_companion_{s3}_to_them_for_a_week.
@@ -979,7 +979,7 @@ qstr_Forgive_me_{playerna Forgive_me,_{playername},_but_I_must_insist_you_accept
 qstr_{playername}_what_a_ {playername},_what_a_dear_{man/woman}_you_are,_but_I_will_not_allow_you_to_refuse_this._I_owe_you_far_more_than_I_can_say,_and_I_am_sure_you_can_put_this_money_to_far_better_use_than_I.
 qstr_{s11}_asked_you_to_r {s11}_asked_you_to_rescue_her_{s17},_{s13},_from_{s14}_by_switching_clothes_and_taking_their_place_in_prison.
 qstr_{s11}_asked_you_to_d {s11}_asked_you_to_deliver_a_message_to_{s13},_who_is_imprisoned_at_{s14}.
-qstr_You_agreed_to_challe You_agreed_to_challenge_{s13}_to_defend_{s11}'s_honour.
+qstr_You_agreed_to_challe You_agreed_to_challenge_{s13}_to_defend_{s11}'s_honor.
 qstr_{s5}__Persuasion_str {s5}_(Persuasion_strength:_{reg5})
 qstr_Persuasion_Attempt Persuasion_Attempt
 qstr_The_{s9}_at_{s5}_ask The_{s9}_at_{s5}_asked_you_to_eliminate_a_CIS_officer_named_{s4}._They_are_currently_believed_to_be_at_{s3}.
