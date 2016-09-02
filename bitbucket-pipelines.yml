@@ -25,6 +25,7 @@ pipelines:
           - tree .
           - cd .. && mkdir steam && cd steam
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/Steam.exe
+          - curl -LOJs "$STEAM_SS"
           - WINEDLLOVERRIDES="mscoree,mshtml=" wineboot -u
           - WINEDEBUG=-all wine steam -silent -forceservice -no-browser -no-cef-sandbox -opengl -login swyter "$STEAM_PASSWORD" &
           - ((t = 160)); while ((t > 0)); do grep 'RecvMsgClientLogOnResponse()' logs/connection_log.txt | grep 'OK' && break; grep 'RecvMsgClientLogOnResponse()' logs/connection_log.txt | grep 'Account Logon Denied' && exit 1; ((t == 1)) && exit 1; sleep 1; echo $t; ((t--)); done
