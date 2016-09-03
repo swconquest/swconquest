@@ -19,6 +19,7 @@ rm -rf ./Resource/_*
 rm -f  ./*.bat
 rm -f  ./*.cmd
 rm -f  ./*.exe
+rm -f  ./*.dll
 rm -f  ./*.h
 rm -f  ./*src*
 rm -f  ./*.ico
