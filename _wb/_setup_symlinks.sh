@@ -13,9 +13,9 @@ ln -s ../Sounds .
 ln -s ../../Font/FONT_DATA.XML Data/font_data.xml
 ln -s ../../Font/FONT_SWC.dds  Textures/font.dds
 
-cd Textures && ln -s ../../Textures/* .
+cd Textures && ln -s ../../Textures/*.dds .
 cd ..
-cd Resource && ln -s ../../Resource/* .
+cd Resource && ln -s ../../Resource/*.brf .
 cd ..
 
 
