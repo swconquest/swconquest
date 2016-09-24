@@ -8,6 +8,7 @@ pipelines:
   default:
     - step:
         script:
+          - curl "$BUILDBOT_KICKOFF_URL"
           - uname -a
           - echo $BITBUCKET_COMMIT $BITBUCKET_BRANCH $BITBUCKET_REPO_SLUG $BITBUCKET_REPO_OWNER
           - pwd
