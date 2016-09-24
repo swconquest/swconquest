@@ -26,7 +26,7 @@ call :createlink J Sounds
 ::call :createlink J Textures
 
 call :createlink H main.bmp
-call :createlink H module.ini
+::call :createlink H module.ini
 call :createlink H map.txt
 
 ::mkdir Data

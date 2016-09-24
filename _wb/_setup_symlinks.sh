@@ -3,7 +3,7 @@ mkdir Textures
 mkdir Resource
 
 ln -s ../main.bmp .
-ln -s ../module.ini .
+#ln -s ../module.ini .
 
 ln -s ../Languages languages
 ln -s ../Music .
