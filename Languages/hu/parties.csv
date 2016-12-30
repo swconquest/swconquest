@@ -1,0 +1,171 @@
+p_shipyard_trade_federation|Kereskedelmi Szövetség
+p_shipyard_kuat|Kuat Hajógyárak
+p_shipyard_raxus|Raxus Prime Hajógyárak
+p_shipyard_corellia|Corellia Hajógyárak
+p_shipyard_moncal|Dac Hajógyárak
+p_shipyard_mandalore|Mandalóriai Hajógyárak
+p_shipyard_fondor|Fondori Hajógyárak
+p_mandalore|Mandalória
+p_christophsis|Christophsis
+p_endor|Endor
+p_corellia|Corellia
+p_naboo|Naboo
+p_kessel|Kessel
+p_dantooine|Dantooine
+p_geonosis|Geonosis
+p_mon_cal|Dac
+p_kashyyyk|Kashyyyk
+p_hoth|Hoth
+p_gamorr|Gamorr
+p_yavin_iv|Yavin IV
+p_tatooine|Tatooine
+p_manaan|Manaan
+p_coruscant|Coruscant
+p_ryloth|Ryloth
+p_nalhutta|Nal Hutta
+p_bothawui|Bothawui
+p_mustafar|Mustafar
+p_kamino|Kamino
+p_taris|Taris
+p_raxusprime|Raxus Prime
+p_sarapin|Sarapin
+p_hypori|Hypori
+p_felucia|Felucia
+p_bespin|Bespin
+p_spacestation_2|Corellia Előörs
+p_spacestation_3|Yavin IV Hadiállomás
+p_spacestation_4|Dagobah
+p_spacestation_5|Halál Csillag
+p_spacestation_6|Endor Előörs
+p_spacestation_7|Dac Hadiállomás
+p_spacestation_8|Ryloth Hadiállomás
+p_spacestation_9|Christophsis Hadiállomás
+p_spacestation_10|Kessel Hadiállomás
+p_spacestation_11|Avatar Platform
+p_spacestation_12|Manaan Előörs
+p_spacestation_13|Christophsis Előörs
+p_spacestation_14|Nal Hutta Hadiállomás
+p_spacestation_15|Dantooine Hadiállomás
+p_spacestation_16|Kashyyyk Előörs
+p_spacestation_17|Coruscant Előörs
+p_spacestation_18|Hoth Hadiállomás
+p_spacestation_19|Bakura
+p_spacestation_20|Gamorr Előörs
+p_spacestation_21|Mandalore Hadiállomás
+p_spacestation_22|Manaan Haliállomás
+p_spacestation_23|Corellia Hadiállomás
+p_spacestation_24|Geonosis Hadiállomás
+p_spacestation_25|Mandalore Előörs
+p_spacestation_26|Geonosis Előörs
+p_spacestation_27|Kessel Előörs
+p_spacestation_28|Dathomir
+p_spacestation_29|Hoth Előörs
+p_spacestation_30|Tatooine Hadiállomás
+p_spacestation_31|Gamorr Hadiállomás
+p_spacestation_32|Ryloth Előörs
+p_spacestation_33|Naboo Előörs
+p_spacestation_34|Dantooine Előörs
+p_spacestation_35|Naboo Hadiállomás
+p_spacestation_36|Coruscant Hadiállomás
+p_spacestation_37|Yavin IV Előörs
+p_spacestation_38|Nal Hutta Előörs
+p_spacestation_39|Dac Előörs
+p_spacestation_40|Tatooine Előörs
+p_spacestation_41|Rhen Var
+p_spacestation_42|Saleucami
+p_minorplanet_1|Honoghr
+p_minorplanet_2|Chandrila
+p_minorplanet_3|Tho
+p_minorplanet_4|Ilum
+p_minorplanet_5|Sernpidal
+p_minorplanet_6|Velmor
+p_minorplanet_7|Hoth Hold
+p_minorplanet_8|Bespin Hold
+p_minorplanet_9|Dubrillion
+p_minorplanet_10|Riflor
+p_minorplanet_11|Siskeen
+p_minorplanet_12|Rakata Prime
+p_minorplanet_13|Myrkr
+p_minorplanet_14|Ziost
+p_minorplanet_15|Corellia Hold
+p_minorplanet_16|Vargnat
+p_minorplanet_17|Lannik
+p_minorplanet_18|Fondor
+p_minorplanet_19|Bakura Hold
+p_minorplanet_20|Dac Hold
+p_minorplanet_21|Isde Naha
+p_minorplanet_22|Duro
+p_minorplanet_23|Coruscant Hold
+p_minorplanet_24|Anoth
+p_minorplanet_25|Tatooine Hold
+p_minorplanet_26|Rori
+p_minorplanet_27|Bilbringi
+p_minorplanet_28|Tynna
+p_minorplanet_29|Dantooine Hold
+p_minorplanet_30|Corulag
+p_minorplanet_31|Togoria
+p_minorplanet_32|Gall
+p_minorplanet_33|Muunulist
+p_minorplanet_34|Ruuria
+p_minorplanet_35|Iridonia
+p_minorplanet_36|Kessel Hold
+p_minorplanet_37|Bimmsari
+p_minorplanet_38|Belkadan
+p_minorplanet_39|Helska
+p_minorplanet_40|Saki
+p_minorplanet_41|Nar Shaddaa
+p_minorplanet_42|Bothawui Hold
+p_minorplanet_43|Alzoc III
+p_minorplanet_44|Ruusan
+p_minorplanet_45|Dathomir Hold
+p_minorplanet_46|Yag'Dhul
+p_minorplanet_47|Selvaris
+p_minorplanet_48|Sump
+p_minorplanet_49|Mustafar Hold
+p_minorplanet_50|Dosuun
+p_minorplanet_51|Yaga Minor
+p_minorplanet_52|Nar Kreeta
+p_minorplanet_53|Pzob
+p_minorplanet_54|Barab I
+p_minorplanet_55|Lamaredd
+p_minorplanet_56|Ithor
+p_minorplanet_57|Kuat
+p_minorplanet_58|Rodia
+p_minorplanet_59|Bastion
+p_minorplanet_60|Anobis
+p_minorplanet_61|Thisspias
+p_minorplanet_62|Vjun
+p_minorplanet_63|Drongar
+p_minorplanet_64|Kamino Hold
+p_minorplanet_65|Mimban
+p_minorplanet_66|Alaris Prime
+p_minorplanet_67|Wayland
+p_minorplanet_68|Vulpter
+p_minorplanet_69|Bimmiel
+p_minorplanet_70|Gamorr Hold
+p_minorplanet_71|Concordia
+p_minorplanet_72|Bogden
+p_minorplanet_73|Dagobah Hold
+p_minorplanet_74|Roon
+p_minorplanet_75|Almania
+p_minorplanet_76|Obroa Skai
+p_minorplanet_77|Ord Mantell
+p_minorplanet_78|Charros IV
+p_minorplanet_79|Manaan Hold
+p_minorplanet_80|N'Zoth
+p_minorplanet_81|Brentaal
+p_minorplanet_82|Garqi
+p_minorplanet_83|Xal 3
+p_minorplanet_84|Christophsis Hold
+p_minorplanet_85|Phindar
+p_minorplanet_86|Vaal
+p_minorplanet_87|Serenno
+p_minorplanet_88|Derra IV
+p_minorplanet_89|Ryloth Hold
+p_minorplanet_90|Khomm
+p_training_ground|Gyakorlótér
+p_training_ground_1|Gyakorló Akadémia
+p_training_ground_2|Gyakorló Akadémia
+p_training_ground_3|Gyakorló Akadémia
+p_training_ground_4|Gyakorló Akadémia
+p_training_ground_5|Gyakorló Akadémia
