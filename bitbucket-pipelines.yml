@@ -2,8 +2,6 @@
 # Only use spaces to indent your .yml configuration.
 # -----
 # You can specify a custom docker image from Dockerhub as your build environment.
-image: pritunl/archlinux
-
 pipelines:
   default:
     - step:
@@ -12,23 +10,24 @@ pipelines:
           - uname -a
           - echo $BITBUCKET_COMMIT $BITBUCKET_BRANCH $BITBUCKET_REPO_SLUG $BITBUCKET_REPO_OWNER
           - pwd
-          - pacman -Sy mercurial --noconfirm --noprogressbar --needed
+          - sudo add-apt-repository ppa:wine/wine-builds -yy
+          - sudo apt-get update -yy
+          - sudo apt-get install --install-recommends wine-staging winehq-staging mercurial xvfb tree winetricks flip curl unzip -yy --force-yes
           - hg log -r "$BITBUCKET_COMMIT" --template "{desc}\n" # | grep -I '!workshop' # don't deploy if this string is not in the commit log!
-          - echo '[multilib]' >> /etc/pacman.conf
-          - echo 'Include = /etc/pacman.d/mirrorlist' >> /etc/pacman.conf
-          - echo 'Server = http://mirror.lty.me/archlinux/$repo/os/$arch' > /etc/pacman.d/mirrorlist
-          - pacman -Sy tree wine-staging xorg-server-xvfb mercurial unzip --noconfirm --noprogressbar --needed
           - HG_REV="$(hg log -l 1 --template     "{rev}")"
           - HG_LOG="$(hg log -l 1 --template "\n\n{desc}\n")" # | grep -i '+workshop'
           - WORKSHOP_DESC="Submitted hg revision ${HG_REV}; ${HG_LOG}"
           - Xvfb :1 -screen 0 800x600x16 &
           - export DISPLAY=:1
-          - tree .
+          - #tree .
           - cd .. && mkdir steam && cd steam
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/Steam.exe
           - curl -LOJs "$STEAM_SS"
-          - WINEDLLOVERRIDES="mscoree,mshtml=" wineboot -u
-          - WINEDEBUG=-all wine steam -silent -forceservice -no-browser -no-cef-sandbox -opengl -login swyter "$STEAM_PASSWORD" &
+          - export WINEDLLOVERRIDES="mscoree,mshtml="
+          - export WINEDEBUG=-all
+          - wineboot -u
+          - winetricks sound=disabled
+          - wine steam -silent -forceservice -no-browser -no-cef-sandbox -opengl -login swyter "$STEAM_PASSWORD" &
           - ((t = 360)); while ((t > 0)); do grep 'RecvMsgClientLogOnResponse()' logs/connection_log.txt | grep 'OK' && break; grep 'RecvMsgClientLogOnResponse()' logs/connection_log.txt | grep 'Account Logon Denied' && exit 1; ((t == 1)) && exit 1; sleep 1; echo $t; ((t--)); done
           - echo 'Logged in correctly in Steam!'
           - cd ../build
@@ -44,8 +43,8 @@ pipelines:
           - mv Languages languages
           - ./_strip_unused.sh
           - rm -rf .hg
-          - tree .
           - cd ..
+          - ls -lash .
           - mv build 'Star Wars Conquest'
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/mbw_workshop_uploader_glsl.exe
           - curl -L -O https://github.com/tldmod/tldmod/releases/download/TLD3.3REL/steam_api.dll
