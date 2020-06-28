@@ -35,8 +35,8 @@ call :createlink H map.txt
 ::call :createlink H Data/tldintro.bik
 
 
-mklink /H Data/font_data.xml ../Font/FONT_DATA.XML
-mklink /H Textures/font.dds  ../Font/FONT_SWC.dds 
+mklink /H Data\font_data.xml ..\Font\FONT_DATA.XML
+mklink /H Textures\font.dds  ..\Font\FONT_SWC.dds
 
 ::for /f %%f in ('dir /b ..\Data') do call :createlink H Data\%%f
 for /f %%f in ('dir /b ..\Resource\*.brf') do call :createlink H Resource\%%f
